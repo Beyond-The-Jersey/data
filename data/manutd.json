@@ -1,0 +1,40 @@
+{
+  "team": "Manchester United",
+  "sport": "soccer",
+  "league": "Premier League",
+  "country": "England",
+  "sponsors": [
+    {
+      "name": "TeamViewer",
+      "type": "company",
+      "category": "technology",
+      "rating": "C",
+      "rating_desc": "Mixed / some concerns",
+      "flags": ["Russia operations post-2022"],
+      "deal_value": null,
+      "sources": [
+        "https://www.manutd.com/en/information/sponsors",
+        "https://www.bbc.com/sport/football/57347832"
+      ],
+      "verified": true,
+      "last_updated": "2026-09-22"
+    },
+    {
+      "name": "Snapdragon",
+      "type": "company",
+      "category": "technology",
+      "rating": "B",
+      "rating_desc": "Some concerns, no major violations",
+      "flags": [],
+      "deal_value": null,
+      "sources": [
+        "https://www.manutd.com/en/information/sponsors",
+        "https://www.qualcomm.com/news/onq/2022/07/26/manchester-united-partners-qualcomm"
+      ],
+      "verified": true,
+      "last_updated": "2026-09-22"
+    }
+  ],
+  "last_updated": "2026-09-22",
+  "data_version": "0.1"
+}

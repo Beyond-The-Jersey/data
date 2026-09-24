@@ -1,0 +1,33 @@
+{
+  "version": "0.1",
+  "last_updated": "2026-09-22",
+  "teams": [
+    {
+      "name": "Manchester United",
+      "sport": "soccer",
+      "league": "Premier League",
+      "country": "England",
+      "file": "manutd.json"
+    },
+    {
+      "name": "Real Madrid",
+      "sport": "soccer",
+      "league": "La Liga",
+      "country": "Spain",
+      "file": "realmadrid.json"
+    },
+    {
+      "name": "Los Angeles Lakers",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "lakers.json"
+    }
+  ],
+  "stats": {
+    "total_teams": 3,
+    "total_sponsors": 0,
+    "avg_rating": null,
+    "verified_percentage": 0
+  }
+}
