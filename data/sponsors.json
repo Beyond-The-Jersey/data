@@ -100,10 +100,10 @@
   {
     "id": "turkish-airlines",
     "name": "Turkish Airlines",
-    "ownerId": "turkiye-wealth-fund",
-    "ownership": "part-owned",
+    "ownerId": null,
+    "ownership": null,
     "tier": "unrated",
-    "status": "being-rated",
+    "status": "unrated",
     "verdict": null,
     "claimIds": [],
     "aliases": [],
@@ -163,9 +163,9 @@
     "name": "Trade Nation",
     "ownerId": null,
     "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
+    "tier": "none",
+    "status": "rated",
+    "verdict": "UK-based online trading platform, no state owner.",
     "claimIds": [],
     "aliases": [],
     "note": "Aston Villa sleeve 2024/25\u20132025/26"
@@ -187,11 +187,13 @@
     "name": "Standard Chartered",
     "ownerId": null,
     "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
+    "tier": "none",
+    "status": "rated",
+    "verdict": "British multinational bank, no state owner.",
     "claimIds": [],
-    "aliases": [],
+    "aliases": [
+      "std chart"
+    ],
     "note": "Liverpool front until 2026/27"
   },
   {
@@ -199,23 +201,27 @@
     "name": "Snapdragon",
     "ownerId": null,
     "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Qualcomm Technologies subsidiary. Publicly listed company, no state owner.",
     "claimIds": [],
-    "aliases": [],
+    "aliases": [
+      "qualcomm"
+    ],
     "note": "Manchester United front (LeadMonitor, verify)"
   },
   {
     "id": "aia",
-    "name": "AIA",
+    "name": "AIA Group",
     "ownerId": null,
     "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Hong Kong-based insurance company, publicly listed. No state owner.",
     "claimIds": [],
-    "aliases": [],
+    "aliases": [
+      "aia group"
+    ],
     "note": "Tottenham Hotspur front (LeadMonitor, verify)"
   },
   {

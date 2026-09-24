@@ -960,5 +960,51 @@
       "url": null
     },
     "note": "17-year partnership, current deal"
+  },
+  {
+    "id": "manchester-united-snapdragon",
+    "clubId": "manchester-united",
+    "orgName": null,
+    "sponsorId": "snapdragon",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": {
+      "amount": 375,
+      "currency": "USD",
+      "unit": "m",
+      "per": "total",
+      "upTo": false,
+      "usdApprox": 375
+    },
+    "source": {
+      "name": "The Athletic",
+      "date": "2024-08-15",
+      "url": "https://www.nytimes.com/athletic/5702630/2024/08/15/manchester-united-snapdragon-qualcomm-shirt-sponsor/"
+    },
+    "note": "Extended to 2029, $375m over 5 years"
+  },
+  {
+    "id": "tottenham-hotspur-aia",
+    "clubId": "tottenham-hotspur",
+    "orgName": null,
+    "sponsorId": "aia",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": {
+      "amount": 40,
+      "currency": "GBP",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": 52.3
+    },
+    "source": {
+      "name": "SportsPro",
+      "date": "2025-11",
+      "url": "https://www.sportspro.com/news/sponsorship-marketing/tottenham-hotspur-aia-group-sponsorship-training-kit-november-2025/"
+    },
+    "note": "Switching to training kit partner from 2027/28"
   }
 ]
