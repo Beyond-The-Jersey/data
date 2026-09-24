@@ -324,6 +324,37 @@ OVERRIDES = {
         {"type": "instagram", "value": "@fcbarcelona",
          "source": src_of("https://www.fcbarcelona.com/")},
     ],
+    # club site serves a 404 shell to fetch clients; details read in a browser / from the club's own pages
+    "bayer-leverkusen": [
+        {"type": "phone", "value": "+4921450001904",
+         "source": src_of("https://www.bayer04.de/de-de")},
+        {"type": "x", "value": "@bayer04fussball",
+         "source": src_of("https://www.bayer04.de/de-de")},
+        {"type": "instagram", "value": "@bayer04fussball",
+         "source": src_of("https://www.bayer04.de/de-de")},
+    ],
+    "brooklyn-nets": [
+        {"type": "email", "value": "fans@brooklynnets.com",
+         "source": src_of("https://www.nba.com/nets/news/2020/03/13/a-letter-to-our-valued-fans")},
+        {"type": "phone", "value": "+19176186100",
+         "source": src_of("https://www.barclayscenter.com/connect-with-us/contact-us")},
+        {"type": "contact-form", "value": "https://www.barclayscenter.com/connect-with-us/contact-us",
+         "label": "Contact form", "source": src_of("https://www.barclayscenter.com/connect-with-us/contact-us")},
+        {"type": "x", "value": "@BrooklynNets",
+         "source": src_of("https://www.nba.com/nets/")},
+        {"type": "instagram", "value": "@brooklynnets",
+         "source": src_of("https://www.nba.com/nets/")},
+    ],
+    "houston-rockets": [
+        {"type": "phone", "value": "+17136273865",
+         "source": src_of("https://www.toyotacenter.com/connect-with-us/contact-us")},
+        {"type": "contact-form", "value": "https://www.toyotacenter.com/connect-with-us/contact-us",
+         "label": "Contact form", "source": src_of("https://www.toyotacenter.com/connect-with-us/contact-us")},
+        {"type": "x", "value": "@HoustonRockets",
+         "source": src_of("https://www.nba.com/rockets/")},
+        {"type": "instagram", "value": "@houstonrockets",
+         "source": src_of("https://www.nba.com/rockets/")},
+    ],
 }
 
 

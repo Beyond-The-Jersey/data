@@ -320,7 +320,26 @@ for cid in sorted(club_ids - have):
         print("contacts: override for", cid)
     else:
         print("contacts: STILL MISSING", cid)
+# merge the hand-checked channels into records that only got a partial scrape
+for c in contacts:
+    extra = BC.OVERRIDES.get(c["clubId"])
+    if not extra:
+        continue
+    seen = {(x["type"], x["value"]) for x in c["channels"]}
+    for ch in extra:
+        if (ch["type"], ch["value"]) not in seen:
+            c["channels"].append(ch)
 contacts.sort(key=lambda c: c["clubId"])
+# dedupe channels inside a record, keeping the first (which carries the earliest source)
+for c in contacts:
+    seen, keep = set(), []
+    for ch in c["channels"]:
+        k = (ch["type"], ch["value"])
+        if k in seen:
+            continue
+        seen.add(k)
+        keep.append(ch)
+    c["channels"] = keep
 write("contacts", contacts)
 print("contacts:", len(contacts))
 
