@@ -1,41 +1,16 @@
 {
+  "id": "orlando-magic",
   "team": "Orlando Magic",
   "sport": "basketball",
   "league": "nba",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (407) 245-2000",
-    "email": "info@orlandomagic.com",
-    "twitter": "@orlandomagic",
-    "website": "https://www.orlandomagic.com",
-    "fan_email": "fans@orlandomagic.com",
-    "complaints": "https://www.orlandomagic.com/contact",
-    "social_media": {
-      "twitter": "@OrlandoMagic",
-      "instagram": "@orlandomagic",
-      "facebook": "OrlandoMagic"
-    }
+    "x": "@OrlandoMagic",
+    "instagram": "@orlandomagic",
+    "website": "https://www.orlandomagic.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Orlando Magic to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@orlando-magic.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@orlandomagic",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

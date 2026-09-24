@@ -1,56 +1,16 @@
 {
+  "id": "boston-red-sox",
   "team": "Boston Red Sox",
   "sport": "baseball",
   "league": "mlb",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (617) 265-4000",
-    "email": "info@redsox.com",
-    "twitter": "@bostonredsox",
-    "website": "https://www.mlb.com/redsox",
-    "fan_email": "fans@redsox.com",
-    "complaints": "https://www.mlb.com/redsox/contact",
-    "social_media": {
-      "twitter": "@RedSox",
-      "instagram": "@redsox",
-      "facebook": "BostonRedSox"
-    }
+    "x": "@RedSox",
+    "instagram": "@redsox",
+    "website": "https://www.mlb.com/redsox"
   },
-  "sponsors": [
-    {
-      "name": "JetBlue",
-      "type": "company",
-      "category": "jersey_sponsor",
-      "rating": "C",
-      "rating_desc": "Verified \u2014 source attribution",
-      "flags": [],
-      "deal_value": "N/A",
-      "sources": [
-        "Wikipedia"
-      ],
-      "verified": true,
-      "last_updated": "2026-09-24T20:00:00+00:00"
-    }
-  ],
-  "shame": {
-    "description": "Contact Boston Red Sox to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@boston-red-sox.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@bostonredsox",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00"
+  "sponsors": [],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

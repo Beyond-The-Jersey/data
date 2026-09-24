@@ -1,45 +1,36 @@
 {
+  "id": "ipswich-town",
   "team": "Ipswich Town",
   "sport": "soccer",
-  "league": "premier_league",
-  "country": "Unknown",
+  "league": "premier-league",
+  "country": "England",
   "contact": {
-    "phone": "+44 (0)1473 688 300",
-    "email": "info@itfc.co.uk",
-    "twitter": "@ipswichtown",
-    "website": "https://www.itfc.co.uk",
-    "fan_email": "supporters@itfc.co.uk",
-    "complaints": "https://www.itfc.co.uk/contact",
-    "social_media": {
-      "twitter": "@ITFC",
-      "instagram": "@itfc",
-      "facebook": "IpswichTown"
-    }
+    "email": "mainticketoffice@itfc.co.uk",
+    "contact-form": "https://www.itfc.co.uk/contact-us/",
+    "x": "@IpswichTown",
+    "instagram": "@ipswichtown",
+    "website": "https://www.itfc.co.uk"
   },
-  "sponsors": [],
-  "shame": {
-    "description": "Contact Ipswich Town to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@ipswich-town.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@ipswichtown",
-        "label": "Tweet your concern"
+  "sponsors": [
+    {
+      "id": "halo",
+      "name": "Halo",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "halo-service-management",
+      "owner": "Halo Service Solutions",
+      "verdict": null,
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
       }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Gamechanger 20 Ltd",
-  "alternate_owners": [
-    "Marcus Evans"
-  ]
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "halo-service-management"
+  ],
+  "lastUpdated": "2026-09-24"
 }

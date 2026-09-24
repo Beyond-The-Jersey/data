@@ -1,42 +1,16 @@
 {
+  "id": "las-vegas-raiders",
   "team": "Las Vegas Raiders",
-  "sport": "american_football",
+  "sport": "american-football",
   "league": "nfl",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (702) 855-4000",
-    "email": "info@raiders.com",
-    "twitter": "@lasvegasraiders",
-    "website": "https://www.raiders.com",
-    "fan_email": "fans@raiders.com",
-    "complaints": "https://www.raiders.com/contact",
-    "social_media": {
-      "twitter": "@Raiders",
-      "instagram": "@raiders",
-      "facebook": "LasVegasRaiders"
-    }
+    "x": "@raiders",
+    "instagram": "@raiders",
+    "website": "https://www.raiders.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Las Vegas Raiders to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@las-vegas-raiders.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@lasvegasraiders",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T19:46:03.694791+00:00",
-  "owner": "Mark Davis"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

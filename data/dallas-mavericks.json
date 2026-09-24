@@ -1,41 +1,16 @@
 {
+  "id": "dallas-mavericks",
   "team": "Dallas Mavericks",
   "sport": "basketball",
   "league": "nba",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (214) 316-4000",
-    "email": "info@mavs.com",
-    "twitter": "@dallasmavericks",
-    "website": "https://www.mavs.com",
-    "fan_email": "fans@mavs.com",
-    "complaints": "https://www.mavs.com/contact",
-    "social_media": {
-      "twitter": "@dallasmavericks",
-      "instagram": "@dallasmavericks",
-      "facebook": "DallasMavericks"
-    }
+    "x": "@dallasmavs",
+    "instagram": "@dallasmavs",
+    "website": "https://www.mavs.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Dallas Mavericks to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@dallas-mavericks.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@dallasmavericks",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

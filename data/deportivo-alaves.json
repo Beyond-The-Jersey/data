@@ -1,0 +1,37 @@
+{
+  "id": "deportivo-alaves",
+  "team": "Deportivo Alaves",
+  "sport": "soccer",
+  "league": "la-liga",
+  "country": "Spain",
+  "contact": {
+    "email": "deportivoalavessad@alaves.com",
+    "phone": "945139191",
+    "contact-form": "https://deportivoalaves.com:443/es/contact",
+    "x": "@alaves",
+    "instagram": "@deportivoalaves",
+    "website": "https://www.deportivoalaves.com"
+  },
+  "sponsors": [
+    {
+      "id": "mk-tiyu-news",
+      "name": "MK TIYU News",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "mk-tiyu-news",
+      "owner": "MK TIYU News",
+      "verdict": null,
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "mk-tiyu-news"
+  ],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,41 +1,16 @@
 {
+  "id": "seattle-mariners",
   "team": "Seattle Mariners",
   "sport": "baseball",
   "league": "mlb",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (206) 389-4000",
-    "email": "info@mariners.com",
-    "twitter": "@seattlemariners",
-    "website": "https://www.mlb.com/mariners",
-    "fan_email": "fans@mariners.com",
-    "complaints": "https://www.mlb.com/mariners/contact",
-    "social_media": {
-      "twitter": "@Mariners",
-      "instagram": "@mariners",
-      "facebook": "SeattleMariners"
-    }
+    "x": "@Mariners",
+    "instagram": "@mariners",
+    "website": "https://www.mlb.com/mariners"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Seattle Mariners to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@seattle-mariners.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@seattlemariners",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

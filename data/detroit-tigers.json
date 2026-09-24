@@ -1,41 +1,16 @@
 {
+  "id": "detroit-tigers",
   "team": "Detroit Tigers",
   "sport": "baseball",
   "league": "mlb",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (313) 259-4000",
-    "email": "info@tigers.com",
-    "twitter": "@detroittigers",
-    "website": "https://www.mlb.com/tigers",
-    "fan_email": "fans@tigers.com",
-    "complaints": "https://www.mlb.com/tigers/contact",
-    "social_media": {
-      "twitter": "@tigers",
-      "instagram": "@tigers",
-      "facebook": "DetroitTigers"
-    }
+    "x": "@tigers",
+    "instagram": "@tigers",
+    "website": "https://www.mlb.com/tigers"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Detroit Tigers to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@detroit-tigers.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@detroittigers",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

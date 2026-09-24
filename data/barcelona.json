@@ -1,0 +1,37 @@
+{
+  "id": "barcelona",
+  "team": "FC Barcelona",
+  "sport": "soccer",
+  "league": "la-liga",
+  "country": "Spain",
+  "contact": {
+    "phone": "+34934963600",
+    "email": "penyes@fcbarcelona.cat",
+    "contact-form": "https://www.fcbarcelona.com/en/club/contact",
+    "x": "@FCBarcelona",
+    "instagram": "@fcbarcelona",
+    "website": "https://www.fcbarcelona.com"
+  },
+  "sponsors": [
+    {
+      "id": "spotify",
+      "name": "Spotify",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "spotify-technology",
+      "owner": "Spotify Technology S.A.",
+      "verdict": null,
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "spotify-technology"
+  ],
+  "lastUpdated": "2026-09-24"
+}

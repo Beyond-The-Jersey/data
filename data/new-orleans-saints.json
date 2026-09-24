@@ -1,42 +1,16 @@
 {
+  "id": "new-orleans-saints",
   "team": "New Orleans Saints",
-  "sport": "american_football",
+  "sport": "american-football",
   "league": "nfl",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (504) 206-4000",
-    "email": "info@saints.com",
-    "twitter": "@neworleanssaints",
-    "website": "https://www.neworleanssaints.com",
-    "fan_email": "fans@neworleanssaints.com",
-    "complaints": "https://www.neworleanssaints.com/contact",
-    "social_media": {
-      "twitter": "@Saints",
-      "instagram": "@saints",
-      "facebook": "NewOrleansSaints"
-    }
+    "x": "@Saints",
+    "instagram": "@saints",
+    "website": "https://www.neworleanssaints.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact New Orleans Saints to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@new-orleans-saints.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@neworleanssaints",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T19:46:09.852624+00:00",
-  "owner": "Gayle Benson"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

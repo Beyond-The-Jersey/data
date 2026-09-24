@@ -1,41 +1,16 @@
 {
+  "id": "athletics",
   "team": "Athletics",
   "sport": "baseball",
   "league": "mlb",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (510) 224-4000",
-    "email": "info@athletics.com",
-    "twitter": "@athletics",
-    "website": "https://www.mlb.com/athletics",
-    "fan_email": "fans@athletics.com",
-    "complaints": "https://www.mlb.com/athletics/contact",
-    "social_media": {
-      "twitter": "@Athletics",
-      "instagram": "@athletics",
-      "facebook": "OaklandAthletics"
-    }
+    "x": "@Athletics",
+    "instagram": "@athletics",
+    "website": "https://www.mlb.com/athletics"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Athletics to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@athletics.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@athletics",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

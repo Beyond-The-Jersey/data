@@ -1,41 +1,18 @@
 {
+  "id": "utah-jazz",
   "team": "Utah Jazz",
   "sport": "basketball",
   "league": "nba",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (801) 401-4000",
-    "email": "info@utahjazz.com",
-    "twitter": "@utahjazz",
-    "website": "https://www.nba.com/jazz",
-    "fan_email": "fans@utahjazz.com",
-    "complaints": "https://www.nba.com/jazz/contact",
-    "social_media": {
-      "twitter": "@utahjazz",
-      "instagram": "@utahjazz",
-      "facebook": "UtahJazz"
-    }
+    "x": "@utahjazz",
+    "instagram": "@utahjazz",
+    "website": "https://www.utahjazz.com",
+    "phone": "18013252500",
+    "contact-form": "https://www.nba.com/jazz/contact"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Utah Jazz to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@utah-jazz.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@utahjazz",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

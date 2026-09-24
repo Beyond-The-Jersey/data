@@ -1,41 +1,16 @@
 {
+  "id": "minnesota-twins",
   "team": "Minnesota Twins",
   "sport": "baseball",
   "league": "mlb",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (612) 659-4000",
-    "email": "info@twins.com",
-    "twitter": "@minnesotatwins",
-    "website": "https://www.mlb.com/twins",
-    "fan_email": "fans@twins.com",
-    "complaints": "https://www.mlb.com/twins/contact",
-    "social_media": {
-      "twitter": "@Twins",
-      "instagram": "@twins",
-      "facebook": "MinnesotaTwins"
-    }
+    "x": "@Twins",
+    "instagram": "@twins",
+    "website": "https://www.mlb.com/twins"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Minnesota Twins to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@minnesota-twins.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@minnesotatwins",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

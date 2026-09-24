@@ -1,56 +1,16 @@
 {
+  "id": "new-york-yankees",
   "team": "New York Yankees",
   "sport": "baseball",
   "league": "mlb",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (212) 259-4000",
-    "email": "info@yankees.com",
-    "twitter": "@newyorkyankees",
-    "website": "https://www.mlb.com/yankees",
-    "fan_email": "fans@yankees.com",
-    "complaints": "https://www.mlb.com/yankees/contact",
-    "social_media": {
-      "twitter": "@Yankees",
-      "instagram": "@yankees",
-      "facebook": "NYYankees"
-    }
+    "x": "@Yankees",
+    "instagram": "@yankees",
+    "website": "https://www.mlb.com/yankees"
   },
-  "sponsors": [
-    {
-      "name": "New York Yankees",
-      "type": "company",
-      "category": "jersey_sponsor",
-      "rating": "C",
-      "rating_desc": "Verified \u2014 source attribution",
-      "flags": [],
-      "deal_value": "N/A",
-      "sources": [
-        "Wikipedia"
-      ],
-      "verified": true,
-      "last_updated": "2026-09-24T20:00:00+00:00"
-    }
-  ],
-  "shame": {
-    "description": "Contact New York Yankees to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@new-york-yankees.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@newyorkyankees",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00"
+  "sponsors": [],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

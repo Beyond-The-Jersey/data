@@ -1,60 +1,36 @@
 {
+  "id": "chelsea",
   "team": "Chelsea",
   "sport": "soccer",
-  "league": "premier_league",
-  "country": "Unknown",
+  "league": "premier-league",
+  "country": "England",
   "contact": {
-    "phone": "+44 (0)20 7864 5000",
-    "email": "info@chelseafc.com",
-    "twitter": "@chelsea",
-    "website": "https://www.chelseafc.com",
-    "fan_email": "supporters@chelseafc.com",
-    "complaints": "https://www.chelseafc.com/contact",
-    "social_media": {
-      "twitter": "@ChelseaFC",
-      "instagram": "@chelseafc",
-      "facebook": "ChelseaFC"
-    }
+    "email": "clubchelsea@chelseafc.com",
+    "contact-form": "https://www.chelseafc.com/en/contact-us",
+    "x": "@chelseafc",
+    "instagram": "@chelseafc",
+    "website": "https://www.chelseafc.com"
   },
   "sponsors": [
     {
-      "name": "Three",
-      "type": "company",
-      "category": "shirt_sponsor",
-      "rating": "C",
-      "rating_desc": "Verified \u2014 source attribution",
-      "flags": [],
-      "deal_value": "\u00a340m/year",
-      "sources": [
-        "Wikipedia"
-      ],
-      "verified": true,
-      "last_updated": "2026-09-24T20:00:00+00:00"
+      "id": "circle-usdc",
+      "name": "USDC (Circle)",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "circle-internet-group",
+      "owner": "Circle Internet Group",
+      "verdict": "Owned by Circle Internet Group, Inc. (NYSE: CRCL) — public shareholders. Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
     }
   ],
-  "shame": {
-    "description": "Contact Chelsea to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@chelsea.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@chelsea",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "BlueCo",
-  "alternate_owners": [
-    "Roman Abramovich"
-  ]
+  "worstTier": "none",
+  "owners": [
+    "circle-internet-group"
+  ],
+  "lastUpdated": "2026-09-24"
 }

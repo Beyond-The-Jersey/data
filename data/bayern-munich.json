@@ -1,56 +1,36 @@
 {
+  "id": "bayern-munich",
   "team": "Bayern Munich",
   "sport": "soccer",
   "league": "bundesliga",
-  "country": "Unknown",
+  "country": "Germany",
   "contact": {
-    "phone": "+49 (0)89 699 310",
-    "email": "info@fcbayern.com",
-    "twitter": "@bayernmunich",
-    "website": "https://www.fcbayern.com",
-    "fan_email": "info@fcbayern.com",
-    "complaints": "https://www.fcbayern.com/kontakt",
-    "social_media": {
-      "twitter": "@FCBayern",
-      "instagram": "@fcbayern",
-      "facebook": "FCBayern"
-    }
+    "email": "service@fcbayern.com",
+    "contact-form": "https://fcbayern.com/en/contact",
+    "x": "@FCBayernEN",
+    "instagram": "@fcbayern",
+    "website": "https://fcbayern.com"
   },
   "sponsors": [
     {
-      "name": "T-Mobile",
-      "type": "company",
-      "category": "shirt_sponsor",
-      "rating": "C",
-      "rating_desc": "Verified \u2014 source attribution",
-      "flags": [],
-      "deal_value": "\u20ac25m/year",
-      "sources": [
-        "Wikipedia"
-      ],
-      "verified": true,
-      "last_updated": "2026-09-24T20:00:00+00:00"
+      "id": "deutsche-telekom",
+      "name": "Deutsche Telekom",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "concern",
+      "ownerId": "federal-republic-of-germany",
+      "owner": "Federal Republic of Germany (direct stake + KfW) with the remainder free float",
+      "verdict": "Deutsche Telekom's own shareholder-structure page shows the Federal Republic of Germany as the anchor shareholder via KfW (approx.",
+      "source": {
+        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+        "date": "2026-08-04",
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+      }
     }
   ],
-  "shame": {
-    "description": "Contact Bayern Munich to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@bayern-munich.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@bayernmunich",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00"
+  "worstTier": "concern",
+  "owners": [
+    "federal-republic-of-germany"
+  ],
+  "lastUpdated": "2026-09-24"
 }

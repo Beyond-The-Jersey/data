@@ -1,41 +1,16 @@
 {
+  "id": "san-francisco-giants",
   "team": "San Francisco Giants",
   "sport": "baseball",
   "league": "mlb",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (415) 251-4000",
-    "email": "info@giants.com",
-    "twitter": "@sanfranciscogiants",
-    "website": "https://www.mlb.com/giants",
-    "fan_email": "fans@giants.com",
-    "complaints": "https://www.mlb.com/giants/contact",
-    "social_media": {
-      "twitter": "@SFGiants",
-      "instagram": "@sfgiants",
-      "facebook": "SFGiants"
-    }
+    "x": "@SFGiants",
+    "instagram": "@SFGiants",
+    "website": "https://www.mlb.com/giants"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact San Francisco Giants to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@san-francisco-giants.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@sanfranciscogiants",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

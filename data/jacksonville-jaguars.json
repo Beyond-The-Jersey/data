@@ -1,42 +1,17 @@
 {
+  "id": "jacksonville-jaguars",
   "team": "Jacksonville Jaguars",
-  "sport": "american_football",
+  "sport": "american-football",
   "league": "nfl",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (904) 633-4000",
-    "email": "info@jaguars.com",
-    "twitter": "@jacksonvillejaguars",
-    "website": "https://www.jaguars.com",
-    "fan_email": "fans@jaguars.com",
-    "complaints": "https://www.jaguars.com/contact",
-    "social_media": {
-      "twitter": "@Jaguars",
-      "instagram": "@jaguars",
-      "facebook": "JacksonvilleJaguars"
-    }
+    "email": "ticketing@jaguars.com",
+    "x": "@Jaguars",
+    "instagram": "@jaguars",
+    "website": "https://www.jaguars.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Jacksonville Jaguars to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@jacksonville-jaguars.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@jacksonvillejaguars",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T19:46:02.603825+00:00",
-  "owner": "Shahid Khan"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

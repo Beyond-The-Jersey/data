@@ -1,42 +1,18 @@
 {
+  "id": "los-angeles-lakers",
   "team": "Los Angeles Lakers",
   "sport": "basketball",
   "league": "nba",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (310) 204-4300",
-    "email": "info@lakers.com",
-    "twitter": "@losangeleslakers",
+    "x": "@lakers",
+    "instagram": "@lakers",
     "website": "https://www.lakers.com",
-    "fan_email": "fans@lakers.com",
-    "complaints": "https://www.lakers.com/contact",
-    "social_media": {
-      "twitter": "@Lakers",
-      "instagram": "@lakers",
-      "facebook": "LALakers"
-    }
+    "email": "PartnershipInfo@lakers.com",
+    "contact-form": "https://www.nba.com/lakers/contact"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Los Angeles Lakers to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@los-angeles-lakers.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@losangeleslakers",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Bennett Rosenthal"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

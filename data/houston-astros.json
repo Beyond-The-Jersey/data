@@ -1,41 +1,16 @@
 {
+  "id": "houston-astros",
   "team": "Houston Astros",
   "sport": "baseball",
   "league": "mlb",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (713) 251-4000",
-    "email": "info@astros.com",
-    "twitter": "@houstonastros",
-    "website": "https://www.mlb.com/astros",
-    "fan_email": "fans@astros.com",
-    "complaints": "https://www.mlb.com/astros/contact",
-    "social_media": {
-      "twitter": "@astros",
-      "instagram": "@astros",
-      "facebook": "HoustonAstros"
-    }
+    "x": "@astros",
+    "instagram": "@astros",
+    "website": "https://www.mlb.com/astros"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Houston Astros to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@houston-astros.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@houstonastros",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

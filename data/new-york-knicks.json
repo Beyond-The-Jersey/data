@@ -1,34 +1,16 @@
 {
+  "id": "new-york-knicks",
   "team": "New York Knicks",
   "sport": "basketball",
   "league": "nba",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "(212) 465-6471",
-    "email": "marketing@new-york-knicks.com",
-    "twitter": "@newyorkknicks",
-    "website": "https://www.new-york-knicks.com"
+    "x": "@nyknicks",
+    "instagram": "@nyknicks",
+    "website": "https://www.nyknicks.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact New York Knicks to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@new-york-knicks.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@newyorkknicks",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

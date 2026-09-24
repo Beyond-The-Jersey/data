@@ -1,60 +1,35 @@
 {
+  "id": "everton",
   "team": "Everton",
   "sport": "soccer",
-  "league": "premier_league",
-  "country": "Unknown",
+  "league": "premier-league",
+  "country": "England",
   "contact": {
-    "phone": "+44 (0)151 530 5000",
-    "email": "info@evertonfc.com",
-    "twitter": "@everton",
+    "x": "@everton",
+    "instagram": "@evertonfcofficial",
     "website": "https://www.evertonfc.com",
-    "fan_email": "supporters@evertonfc.com",
-    "complaints": "https://www.evertonfc.com/contact",
-    "social_media": {
-      "twitter": "@Everton",
-      "instagram": "@evertonfc",
-      "facebook": "Everton"
-    }
+    "contact-form": "https://www.evertonfc.com/contact"
   },
   "sponsors": [
     {
-      "name": "Stake.com",
-      "type": "company",
-      "category": "shirt_sponsor",
-      "rating": "C",
-      "rating_desc": "Verified \u2014 source attribution",
-      "flags": [],
-      "deal_value": "\u00a320m/year",
-      "sources": [
-        "Wikipedia"
-      ],
-      "verified": true,
-      "last_updated": "2026-09-24T20:00:00+00:00"
+      "id": "cmc-markets",
+      "name": "CMC Markets",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "cmc-markets-plc",
+      "owner": "CMC Markets Plc (London-listed; Cruddas family significant holder)",
+      "verdict": "Owned by CMC Markets Plc (London-listed; Cruddas family significant holder). Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
     }
   ],
-  "shame": {
-    "description": "Contact Everton to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@everton.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@everton",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Roundhouse Capital Holdings Limited",
-  "alternate_owners": [
-    "Farhad Moshiri"
-  ]
+  "worstTier": "none",
+  "owners": [
+    "cmc-markets-plc"
+  ],
+  "lastUpdated": "2026-09-24"
 }

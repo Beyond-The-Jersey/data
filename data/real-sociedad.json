@@ -1,42 +1,34 @@
 {
+  "id": "real-sociedad",
   "team": "Real Sociedad",
   "sport": "soccer",
-  "league": "laliga_easports",
-  "country": "Unknown",
+  "league": "la-liga",
+  "country": "Spain",
   "contact": {
-    "phone": "+34 943 456 000",
-    "email": "info@realsociedad.eus",
-    "twitter": "@realsociedad",
-    "website": "https://www.realsociedad.eus",
-    "fan_email": "socis@realsociedad.eus",
-    "complaints": "https://www.realsociedad.eus/contacto",
-    "social_media": {
-      "twitter": "@RealSociedad",
-      "instagram": "@realsociedad",
-      "facebook": "RealSociedad"
-    }
+    "x": "@RealSociedad",
+    "instagram": "@realsociedad",
+    "website": "https://www.realsociedad.eus"
   },
-  "sponsors": [],
-  "shame": {
-    "description": "Contact Real Sociedad to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@real-sociedad.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@realsociedad",
-        "label": "Tweet your concern"
+  "sponsors": [
+    {
+      "id": "baghdadi-capital",
+      "name": "Baghdadi Capital",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "baghdadi-capital",
+      "owner": "Baghdadi Capital",
+      "verdict": null,
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
       }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Real Sociedad"
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "baghdadi-capital"
+  ],
+  "lastUpdated": "2026-09-24"
 }

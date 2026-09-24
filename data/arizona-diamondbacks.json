@@ -1,41 +1,16 @@
 {
+  "id": "arizona-diamondbacks",
   "team": "Arizona Diamondbacks",
   "sport": "baseball",
   "league": "mlb",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (623) 433-4000",
-    "email": "info@dbacks.com",
-    "twitter": "@arizonadiamondbacks",
-    "website": "https://www.mlb.com/dbacks",
-    "fan_email": "fans@dbacks.com",
-    "complaints": "https://www.mlb.com/dbacks/contact",
-    "social_media": {
-      "twitter": "@Dbacks",
-      "instagram": "@dbacks",
-      "facebook": "ArizonaDiamondbacks"
-    }
+    "x": "@dbacks",
+    "instagram": "@dbacks",
+    "website": "https://www.mlb.com/dbacks"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Arizona Diamondbacks to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@arizona-diamondbacks.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@arizonadiamondbacks",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

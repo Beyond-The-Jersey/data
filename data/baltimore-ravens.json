@@ -1,45 +1,18 @@
 {
+  "id": "baltimore-ravens",
   "team": "Baltimore Ravens",
-  "sport": "american_football",
+  "sport": "american-football",
   "league": "nfl",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (410) 224-4000",
-    "email": "info@baltimoreravens.com",
-    "twitter": "@baltimoreravens",
-    "website": "https://www.baltimoreravens.com",
-    "fan_email": "fans@baltimoreravens.com",
-    "complaints": "https://www.baltimoreravens.com/contact",
-    "social_media": {
-      "twitter": "@Ravens",
-      "instagram": "@ravens",
-      "facebook": "BaltimoreRavens"
-    }
+    "email": "contact.us@ravens.nfl.net",
+    "contact-form": "https://www.baltimoreravens.com/contact-us",
+    "x": "@ravens",
+    "instagram": "@ravens",
+    "website": "https://www.baltimoreravens.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Baltimore Ravens to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@baltimore-ravens.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@baltimoreravens",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Steve Bisciotti",
-  "alternate_owners": [
-    "Doug Miller"
-  ]
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

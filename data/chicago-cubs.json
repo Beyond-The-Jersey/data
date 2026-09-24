@@ -1,41 +1,16 @@
 {
+  "id": "chicago-cubs",
   "team": "Chicago Cubs",
   "sport": "baseball",
   "league": "mlb",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (773) 404-4000",
-    "email": "info@cubs.com",
-    "twitter": "@chicagocubs",
-    "website": "https://www.mlb.com/cubs",
-    "fan_email": "fans@cubs.com",
-    "complaints": "https://www.mlb.com/cubs/contact",
-    "social_media": {
-      "twitter": "@Cubs",
-      "instagram": "@cubs",
-      "facebook": "ChicagoCubs"
-    }
+    "x": "@Cubs",
+    "instagram": "@cubs",
+    "website": "https://www.mlb.com/cubs"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Chicago Cubs to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@chicago-cubs.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@chicagocubs",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

@@ -1,41 +1,16 @@
 {
+  "id": "buffalo-bills",
   "team": "Buffalo Bills",
-  "sport": "american_football",
+  "sport": "american-football",
   "league": "nfl",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (716) 636-4000",
-    "email": "info@buffalobills.com",
-    "twitter": "@buffalobills",
-    "website": "https://www.buffalobills.com",
-    "fan_email": "fans@buffalobills.com",
-    "complaints": "https://www.buffalobills.com/contact",
-    "social_media": {
-      "twitter": "@BuffaloBills",
-      "instagram": "@buffalobills",
-      "facebook": "BuffaloBills"
-    }
+    "x": "@buffalobills",
+    "instagram": "@buffalobills",
+    "website": "https://www.buffalobills.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Buffalo Bills to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@buffalo-bills.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@buffalobills",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

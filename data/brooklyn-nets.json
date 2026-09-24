@@ -1,42 +1,19 @@
 {
+  "id": "brooklyn-nets",
   "team": "Brooklyn Nets",
   "sport": "basketball",
   "league": "nba",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (718) 745-9000",
-    "email": "info@brooklynnets.com",
-    "twitter": "@brooklynnets",
-    "website": "https://www.brooklynnets.com",
-    "fan_email": "fans@brooklynnets.com",
-    "complaints": "https://www.brooklynnets.com/contact",
-    "social_media": {
-      "twitter": "@BrooklynNets",
-      "instagram": "@brooklynnets",
-      "facebook": "BrooklynNets"
-    }
+    "website": "https://www.nba.com/nets/",
+    "email": "fans@brooklynnets.com",
+    "phone": "+19176186100",
+    "contact-form": "https://www.barclayscenter.com/connect-with-us/contact-us",
+    "x": "@BrooklynNets",
+    "instagram": "@brooklynnets"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Brooklyn Nets to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@brooklyn-nets.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@brooklynnets",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Mikhail Litvin"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

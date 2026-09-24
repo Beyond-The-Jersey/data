@@ -1,42 +1,17 @@
 {
+  "id": "atlanta-falcons",
   "team": "Atlanta Falcons",
-  "sport": "american_football",
+  "sport": "american-football",
   "league": "nfl",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (404) 615-5000",
-    "email": "info@atlantafalcons.com",
-    "twitter": "@atlantafalcons",
-    "website": "https://www.atlantafalcons.com",
-    "fan_email": "fans@atlantafalcons.com",
-    "complaints": "https://www.atlantafalcons.com/contact",
-    "social_media": {
-      "twitter": "@AtlantaFalcons",
-      "instagram": "@atlantafalcons",
-      "facebook": "AtlantaFalcons"
-    }
+    "email": "tickets@falcons.nfl.com",
+    "phone": "4703414500",
+    "contact-form": "https://www.atlantafalcons.com/about/contact",
+    "website": "https://www.atlantafalcons.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Atlanta Falcons to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@atlanta-falcons.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@atlantafalcons",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T19:45:28.049401+00:00",
-  "owner": "Arthur Blank"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

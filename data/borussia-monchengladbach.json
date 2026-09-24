@@ -1,0 +1,33 @@
+{
+  "id": "borussia-monchengladbach",
+  "team": "Borussia Moenchengladbach",
+  "sport": "soccer",
+  "league": "bundesliga",
+  "country": "Germany",
+  "contact": {
+    "website": "https://www.borussia.de/",
+    "contact-form": "https://www.borussia.de/kontakt"
+  },
+  "sponsors": [
+    {
+      "id": "hylo",
+      "name": "HYLO",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "ursapharm",
+      "owner": "URSAPHARM Arzneimittel",
+      "verdict": null,
+      "source": {
+        "name": "Football Kit Archive, Bundesliga 2026-27 kits",
+        "date": "2026-09-24",
+        "url": "https://www.footballkitarchive.com/bundesliga-kits-2026-27-l34/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "ursapharm"
+  ],
+  "lastUpdated": "2026-09-24"
+}

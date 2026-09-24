@@ -1,41 +1,19 @@
 {
+  "id": "cleveland-browns",
   "team": "Cleveland Browns",
-  "sport": "american_football",
+  "sport": "american-football",
   "league": "nfl",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (216) 451-4000",
-    "email": "info@browns.com",
-    "twitter": "@clevelandbrowns",
-    "website": "https://www.clevelandbrowns.com",
-    "fan_email": "fans@clevelandbrowns.com",
-    "complaints": "https://www.clevelandbrowns.com/contact",
-    "social_media": {
-      "twitter": "@ClevelandBrowns",
-      "instagram": "@clevelandbrowns",
-      "facebook": "ClevelandBrowns"
-    }
+    "email": "tickets@clevelandbrowns.com",
+    "phone": "4408915050",
+    "contact-form": "https://www.clevelandbrowns.com/contact/",
+    "x": "@Browns",
+    "instagram": "@clevelandbrowns",
+    "website": "https://www.clevelandbrowns.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Cleveland Browns to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@cleveland-browns.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@clevelandbrowns",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

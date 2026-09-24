@@ -1,42 +1,16 @@
 {
+  "id": "indianapolis-colts",
   "team": "Indianapolis Colts",
-  "sport": "american_football",
+  "sport": "american-football",
   "league": "nfl",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (317) 224-4000",
-    "email": "info@colts.com",
-    "twitter": "@indianapoliscolts",
-    "website": "https://www.colts.com",
-    "fan_email": "fans@colts.com",
-    "complaints": "https://www.colts.com/contact",
-    "social_media": {
-      "twitter": "@Colts",
-      "instagram": "@colts",
-      "facebook": "IndianapolisColts"
-    }
+    "x": "@colts",
+    "instagram": "@colts",
+    "website": "https://www.colts.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Indianapolis Colts to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@indianapolis-colts.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@indianapoliscolts",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T19:46:02.122396+00:00",
-  "owner": "Carlie Irsay-Gordon"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

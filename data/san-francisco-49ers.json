@@ -1,42 +1,16 @@
 {
+  "id": "san-francisco-49ers",
   "team": "San Francisco 49ers",
-  "sport": "american_football",
+  "sport": "american-football",
   "league": "nfl",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (415) 266-4000",
-    "email": "info@49ers.com",
-    "twitter": "@sanfrancisco49ers",
-    "website": "https://www.49ers.com",
-    "fan_email": "fans@49ers.com",
-    "complaints": "https://www.49ers.com/contact",
-    "social_media": {
-      "twitter": "@49ers",
-      "instagram": "@49ers",
-      "facebook": "SanFrancisco49ers"
-    }
+    "x": "@49ers",
+    "instagram": "@49ers",
+    "website": "https://www.49ers.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact San Francisco 49ers to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@san-francisco-49ers.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@sanfrancisco49ers",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T19:46:17.109572+00:00",
-  "owner": "Jed York (Controlling)"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

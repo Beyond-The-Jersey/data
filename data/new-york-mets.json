@@ -1,41 +1,16 @@
 {
+  "id": "new-york-mets",
   "team": "New York Mets",
   "sport": "baseball",
   "league": "mlb",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (718) 507-4000",
-    "email": "info@mets.com",
-    "twitter": "@newyorkmets",
-    "website": "https://www.mlb.com/mets",
-    "fan_email": "fans@mets.com",
-    "complaints": "https://www.mlb.com/mets/contact",
-    "social_media": {
-      "twitter": "@Mets",
-      "instagram": "@mets",
-      "facebook": "NYMets"
-    }
+    "x": "@mets",
+    "instagram": "@mets",
+    "website": "https://www.mlb.com/mets"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact New York Mets to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@new-york-mets.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@newyorkmets",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

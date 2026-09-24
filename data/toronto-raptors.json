@@ -1,42 +1,16 @@
 {
+  "id": "toronto-raptors",
   "team": "Toronto Raptors",
   "sport": "basketball",
   "league": "nba",
-  "country": "Unknown",
+  "country": "Canada",
   "contact": {
-    "phone": "+1 (416) 615-4000",
-    "email": "info@raptors.com",
-    "twitter": "@torontoraptors",
-    "website": "https://www.raptors.com",
-    "fan_email": "fans@raptors.com",
-    "complaints": "https://www.raptors.com/contact",
-    "social_media": {
-      "twitter": "@Raptors",
-      "instagram": "@raptors",
-      "facebook": "TorontoRaptors"
-    }
+    "x": "@raptors",
+    "instagram": "@raptors",
+    "website": "https://www.raptors.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Toronto Raptors to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@toronto-raptors.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@torontoraptors",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Maple Leaf Sports & Entertainment"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

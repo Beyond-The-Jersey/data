@@ -35,3 +35,21 @@ or a contact page, and `build_normalized.py` merges the hand-checked channels in
 `pipeline_data.py`. `build_from_seed.py` is the earlier seed-only builder.
 
 Set `BTJ_SEED` and `BTJ_VALIDATE` if the website checkout is not at `/tmp/website`.
+
+## Two trees, one id space
+
+`normalized/` is **canonical**. The website reads only that (`BTJ_DATA_SOURCE=repo`
+points at it), and `validate.py` runs against it.
+
+`data/` is a regenerated per-club projection of the same records in the older handover
+shape, one file per club keyed by the same ASCII slug, plus `index.json`. It is written
+by the build, so the two trees cannot drift or disagree on an id again. Differences from
+the original handover files, all deliberate:
+
+* ids and filenames are ASCII slugs (`1-fc-koln.json`, not `1-fc-köln.json`)
+* `league` is the league id (`premier-league`), not the old underscore form
+* there is no letter grade: `tier` is the new tier id, and `worstTier` is the club's
+  highest tier across its sponsors
+* `sources: ["Wikipedia"]` is replaced by the source object
+
+If something outside the website still reads `data/`, it reads consistent data now.

@@ -1,42 +1,16 @@
 {
+  "id": "tennessee-titans",
   "team": "Tennessee Titans",
-  "sport": "american_football",
+  "sport": "american-football",
   "league": "nfl",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (615) 256-4000",
-    "email": "info@titans.com",
-    "twitter": "@tennesseetitans",
-    "website": "https://www.titans.com",
-    "fan_email": "fans@titans.com",
-    "complaints": "https://www.titans.com/contact",
-    "social_media": {
-      "twitter": "@Titans",
-      "instagram": "@titans",
-      "facebook": "TennesseeTitans"
-    }
+    "x": "@titans",
+    "instagram": "@titans",
+    "website": "https://www.tennesseetitans.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Tennessee Titans to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@tennessee-titans.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@tennesseetitans",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T19:46:20.240390+00:00",
-  "owner": "Adams family"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

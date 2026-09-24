@@ -1,42 +1,18 @@
 {
+  "id": "charlotte-hornets",
   "team": "Charlotte Hornets",
   "sport": "basketball",
   "league": "nba",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (704) 432-5000",
-    "email": "info@hornets.com",
-    "twitter": "@charlottehornets",
-    "website": "https://www.hornets.com",
-    "fan_email": "fans@hornets.com",
-    "complaints": "https://www.hornets.com/contact",
-    "social_media": {
-      "twitter": "@hornets",
-      "instagram": "@hornets",
-      "facebook": "CharlotteHornets"
-    }
+    "email": "arenainfo@hornets.com",
+    "contact-form": "https://www.nba.com/hornets/contact",
+    "x": "@hornets",
+    "instagram": "@hornets",
+    "website": "https://www.hornets.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Charlotte Hornets to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@charlotte-hornets.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@charlottehornets",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "David Tepper"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

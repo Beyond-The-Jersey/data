@@ -1,45 +1,35 @@
 {
+  "id": "manchester-city",
   "team": "Manchester City",
   "sport": "soccer",
-  "league": "premier_league",
-  "country": "Unknown",
+  "league": "premier-league",
+  "country": "England",
   "contact": {
-    "phone": "+44 (0)161 444 1894",
-    "email": "info@mancity.com",
-    "twitter": "@manchestercity",
+    "x": "@ManCity",
+    "instagram": "@mancity",
     "website": "https://www.mancity.com",
-    "fan_email": "supporters@mancity.com",
-    "complaints": "https://www.mancity.com/contact",
-    "social_media": {
-      "twitter": "@ManCity",
-      "instagram": "@mancity",
-      "facebook": "ManCity"
-    }
+    "contact-form": "https://www.mancity.com/help-and-support/contact-us"
   },
-  "sponsors": [],
-  "shame": {
-    "description": "Contact Manchester City to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@manchester-city.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@manchestercity",
-        "label": "Tweet your concern"
+  "sponsors": [
+    {
+      "id": "etihad-airways",
+      "name": "Etihad Airways",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "serious",
+      "ownerId": "government-of-abu-dhabi",
+      "owner": "Government of Abu Dhabi",
+      "verdict": "The airline is owned by the Government of Abu Dhabi.",
+      "source": {
+        "name": "All Football",
+        "date": "2026",
+        "url": "https://m.allfootballapp.com/news/EPL/Manchester-City-set-to-keep-up-%C2%A367.5million-a-year-deal-with-Abu-Dhabi-airline-Etihad/2424047"
       }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "City Football Group Limited",
-  "alternate_owners": [
-    "Mansour bin Zayed Al Nahyan"
-  ]
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "government-of-abu-dhabi"
+  ],
+  "lastUpdated": "2026-09-24"
 }

@@ -1,0 +1,36 @@
+{
+  "id": "getafe",
+  "team": "Getafe CF",
+  "sport": "soccer",
+  "league": "la-liga",
+  "country": "Spain",
+  "contact": {
+    "email": "marketing@getafecf.com",
+    "contact-form": "https://www.getafecf.com/contacto",
+    "x": "@GetafeCF",
+    "instagram": "@getafecf",
+    "website": "https://www.getafecf.com"
+  },
+  "sponsors": [
+    {
+      "id": "tecnocasa-group",
+      "name": "Tecnocasa Group",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "tecnocasa-group",
+      "owner": "Tecnocasa Group",
+      "verdict": null,
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "tecnocasa-group"
+  ],
+  "lastUpdated": "2026-09-24"
+}

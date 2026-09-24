@@ -1,41 +1,16 @@
 {
+  "id": "washington-wizards",
   "team": "Washington Wizards",
   "sport": "basketball",
   "league": "nba",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (202) 223-4000",
-    "email": "info@wizards.com",
-    "twitter": "@washingtonwizards",
-    "website": "https://www.wizards.com",
-    "fan_email": "fans@wizards.com",
-    "complaints": "https://www.wizards.com/contact",
-    "social_media": {
-      "twitter": "@WashWizards",
-      "instagram": "@washingtonwizards",
-      "facebook": "WashingtonWizards"
-    }
+    "x": "@WashWizards",
+    "instagram": "@washwizards",
+    "website": "https://www.washingtonwizards.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Washington Wizards to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@washington-wizards.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@washingtonwizards",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

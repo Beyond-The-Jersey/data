@@ -1,41 +1,16 @@
 {
+  "id": "washington-nationals",
   "team": "Washington Nationals",
   "sport": "baseball",
   "league": "mlb",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (202) 251-4000",
-    "email": "info@nationals.com",
-    "twitter": "@washingtonnationals",
-    "website": "https://www.mlb.com/nationals",
-    "fan_email": "fans@nationals.com",
-    "complaints": "https://www.mlb.com/nationals/contact",
-    "social_media": {
-      "twitter": "@Nationals",
-      "instagram": "@nationals",
-      "facebook": "WashingtonNationals"
-    }
+    "x": "@Nationals",
+    "instagram": "@nationals",
+    "website": "https://www.mlb.com/nationals"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Washington Nationals to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@washington-nationals.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@washingtonnationals",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

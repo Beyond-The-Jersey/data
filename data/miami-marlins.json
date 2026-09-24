@@ -1,41 +1,16 @@
 {
+  "id": "miami-marlins",
   "team": "Miami Marlins",
   "sport": "baseball",
   "league": "mlb",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (305) 480-4000",
-    "email": "info@marlins.com",
-    "twitter": "@miamimarlins",
-    "website": "https://www.mlb.com/marlins",
-    "fan_email": "fans@marlins.com",
-    "complaints": "https://www.mlb.com/marlins/contact",
-    "social_media": {
-      "twitter": "@Marlins",
-      "instagram": "@marlins",
-      "facebook": "MiamiMarlins"
-    }
+    "x": "@marlins",
+    "instagram": "@marlins",
+    "website": "https://www.mlb.com/marlins"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Miami Marlins to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@miami-marlins.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@miamimarlins",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

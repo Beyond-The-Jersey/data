@@ -1,45 +1,35 @@
 {
+  "id": "tottenham-hotspur",
   "team": "Tottenham Hotspur",
   "sport": "soccer",
-  "league": "premier_league",
-  "country": "Unknown",
+  "league": "premier-league",
+  "country": "England",
   "contact": {
-    "phone": "+44 (0)20 8694 5000",
-    "email": "info@tottenhamhotspur.com",
-    "twitter": "@tottenhamhotspur",
-    "website": "https://www.tottenhamhotspur.com",
-    "fan_email": "supporters@tottenhamhotspur.com",
-    "complaints": "https://www.tottenhamhotspur.com/contact",
-    "social_media": {
-      "twitter": "@SpursOfficial",
-      "instagram": "@spursofficial",
-      "facebook": "SpursOfficial"
-    }
+    "contact-form": "https://www.tottenhamhotspur.com/information/contact-us",
+    "x": "@SpursOfficial",
+    "instagram": "@spursofficial",
+    "website": "https://www.tottenhamhotspur.com"
   },
-  "sponsors": [],
-  "shame": {
-    "description": "Contact Tottenham Hotspur to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@tottenham-hotspur.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@tottenhamhotspur",
-        "label": "Tweet your concern"
+  "sponsors": [
+    {
+      "id": "aia",
+      "name": "AIA",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "aia-group",
+      "owner": "AIA Group",
+      "verdict": "Owned by AIA Group Limited (HKEX: 1299). Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
       }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "ENIC International Ltd. (86.58%)",
-  "alternate_owners": [
-    "ENIC Group"
-  ]
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "aia-group"
+  ],
+  "lastUpdated": "2026-09-24"
 }

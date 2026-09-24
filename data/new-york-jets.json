@@ -1,41 +1,16 @@
 {
+  "id": "new-york-jets",
   "team": "New York Jets",
-  "sport": "american_football",
+  "sport": "american-football",
   "league": "nfl",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (201) 255-4000",
-    "email": "info@newyorkjets.com",
-    "twitter": "@newyorkjets",
-    "website": "https://www.newyorkjets.com",
-    "fan_email": "fans@newyorkjets.com",
-    "complaints": "https://www.newyorkjets.com/contact",
-    "social_media": {
-      "twitter": "@nyjets",
-      "instagram": "@nyjets",
-      "facebook": "NYJets"
-    }
+    "x": "@nyjets",
+    "instagram": "@nyjets",
+    "website": "https://www.newyorkjets.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact New York Jets to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@new-york-jets.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@newyorkjets",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

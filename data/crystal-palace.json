@@ -1,57 +1,36 @@
 {
+  "id": "crystal-palace",
   "team": "Crystal Palace",
   "sport": "soccer",
-  "league": "premier_league",
-  "country": "Unknown",
+  "league": "premier-league",
+  "country": "England",
   "contact": {
-    "phone": "+44 (0)20 8767 5000",
-    "email": "info@crystalpalacefc.com",
-    "twitter": "@crystalpalace",
-    "website": "https://www.crystalpalacefc.com",
-    "fan_email": "supporters@crystalpalacefc.com",
-    "complaints": "https://www.crystalpalacefc.com/contact",
-    "social_media": {
-      "twitter": "@CPFC",
-      "instagram": "@cpfc",
-      "facebook": "CrystalPalaceFC"
-    }
+    "email": "shop@cpfc.co.uk",
+    "contact-form": "https://www.cpfc.co.uk/contact-us/",
+    "x": "@eastmamba",
+    "instagram": "@embed.js",
+    "website": "https://www.cpfc.co.uk"
   },
   "sponsors": [
     {
-      "name": "Krispy Kreme",
-      "type": "company",
-      "category": "shirt_sponsor",
-      "rating": "C",
-      "rating_desc": "Verified \u2014 source attribution",
-      "flags": [],
-      "deal_value": "\u00a38m/year",
-      "sources": [
-        "Wikipedia"
-      ],
-      "verified": true,
-      "last_updated": "2026-09-24T20:00:00+00:00"
+      "id": "temporal",
+      "name": "Temporal",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "temporal-technologies",
+      "owner": "Temporal Technologies, Inc. (private, VC-backed)",
+      "verdict": "Owned by Temporal Technologies, Inc. (private, VC-backed). Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
     }
   ],
-  "shame": {
-    "description": "Contact Crystal Palace to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@crystal-palace.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@crystalpalace",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Josh Harris"
+  "worstTier": "none",
+  "owners": [
+    "temporal-technologies"
+  ],
+  "lastUpdated": "2026-09-24"
 }

@@ -1,42 +1,16 @@
 {
+  "id": "toronto-blue-jays",
   "team": "Toronto Blue Jays",
   "sport": "baseball",
   "league": "mlb",
-  "country": "Unknown",
+  "country": "Canada",
   "contact": {
-    "phone": "+1 (416) 341-4000",
-    "email": "info@bluejays.com",
-    "twitter": "@torontobluejays",
-    "website": "https://www.mlb.com/bluejays",
-    "fan_email": "fans@bluejays.com",
-    "complaints": "https://www.mlb.com/bluejays/contact",
-    "social_media": {
-      "twitter": "@BlueJays",
-      "instagram": "@bluejays",
-      "facebook": "TorontoBlueJays"
-    }
+    "x": "@BlueJays",
+    "instagram": "@bluejays",
+    "website": "https://www.mlb.com/bluejays"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Toronto Blue Jays to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@toronto-blue-jays.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@torontobluejays",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Maple Leaf Sports & Entertainment"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

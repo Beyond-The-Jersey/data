@@ -1,0 +1,34 @@
+{
+  "id": "elche",
+  "team": "Elche CF",
+  "sport": "soccer",
+  "league": "la-liga",
+  "country": "Spain",
+  "contact": {
+    "x": "@elchecf",
+    "instagram": "@elchecf",
+    "website": "https://www.elchecf.es"
+  },
+  "sponsors": [
+    {
+      "id": "flexicar",
+      "name": "Flexicar",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "flexicar",
+      "owner": "Flexicar",
+      "verdict": null,
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "flexicar"
+  ],
+  "lastUpdated": "2026-09-24"
+}

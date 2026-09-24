@@ -1,42 +1,35 @@
 {
+  "id": "bayer-leverkusen",
   "team": "Bayer Leverkusen",
   "sport": "soccer",
   "league": "bundesliga",
-  "country": "Unknown",
+  "country": "Germany",
   "contact": {
-    "phone": "+49 (0)214 235 0",
-    "email": "info@bayer04.de",
-    "twitter": "@bayerleverkusen",
-    "website": "https://www.bayer04.de",
-    "fan_email": "info@bayer04.de",
-    "complaints": "https://www.bayer04.de/kontakt",
-    "social_media": {
-      "twitter": "@bayer04fussball",
-      "instagram": "@bayer04fussball",
-      "facebook": "Bayer04"
-    }
+    "website": "https://www.bayer04.de/de-de",
+    "phone": "+4921450001904",
+    "x": "@bayer04fussball",
+    "instagram": "@bayer04fussball"
   },
-  "sponsors": [],
-  "shame": {
-    "description": "Contact Bayer Leverkusen to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@bayer-leverkusen.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@bayerleverkusen",
-        "label": "Tweet your concern"
+  "sponsors": [
+    {
+      "id": "barmenia",
+      "name": "Barmenia",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "barmenia-versicherungen",
+      "owner": "Barmenia Versicherungen",
+      "verdict": null,
+      "source": {
+        "name": "Football Kit Archive, Bundesliga 2026-27 kits",
+        "date": "2026-09-24",
+        "url": "https://www.footballkitarchive.com/bundesliga-kits-2026-27-l34/"
       }
-    ]
-  },
-  "last_updated": "2026-09-24T19:45:29.391938+00:00",
-  "owner": "Bayer AG"
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "barmenia-versicherungen"
+  ],
+  "lastUpdated": "2026-09-24"
 }

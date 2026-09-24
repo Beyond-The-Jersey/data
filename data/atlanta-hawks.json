@@ -1,41 +1,18 @@
 {
+  "id": "atlanta-hawks",
   "team": "Atlanta Hawks",
   "sport": "basketball",
   "league": "nba",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (404) 224-HOOP",
-    "email": "info@atlantahawks.com",
-    "twitter": "@atlantahawks",
-    "website": "https://www.atlantahawks.com",
-    "fan_email": "fans@atlantahawks.com",
-    "complaints": "https://www.atlantahawks.com/contact",
-    "social_media": {
-      "twitter": "@ATLHawks",
-      "instagram": "@atlantahawks",
-      "facebook": "AtlantaHawks"
-    }
+    "email": "hawks.tickets@hawks.com",
+    "contact-form": "https://www.nba.com/hawks/contact",
+    "x": "@atlhawks",
+    "instagram": "@atlhawks",
+    "website": "https://www.hawks.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Atlanta Hawks to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@atlanta-hawks.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@atlantahawks",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

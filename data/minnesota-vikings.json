@@ -1,42 +1,16 @@
 {
+  "id": "minnesota-vikings",
   "team": "Minnesota Vikings",
-  "sport": "american_football",
+  "sport": "american-football",
   "league": "nfl",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (612) 631-4000",
-    "email": "info@vikings.com",
-    "twitter": "@minnesotavikings",
-    "website": "https://www.vikings.com",
-    "fan_email": "fans@vikings.com",
-    "complaints": "https://www.vikings.com/contact",
-    "social_media": {
-      "twitter": "@Vikings",
-      "instagram": "@vikings",
-      "facebook": "MinnesotaVikings"
-    }
+    "x": "@vikings",
+    "instagram": "@vikings",
+    "website": "https://www.vikings.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Minnesota Vikings to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@minnesota-vikings.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@minnesotavikings",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T19:46:08.878292+00:00",
-  "owner": "Zygi Wilf"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

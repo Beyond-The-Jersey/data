@@ -1,60 +1,37 @@
 {
+  "id": "leeds-united",
   "team": "Leeds United",
   "sport": "soccer",
-  "league": "premier_league",
-  "country": "Unknown",
+  "league": "premier-league",
+  "country": "England",
   "contact": {
-    "phone": "+44 (0)113 367 5000",
-    "email": "info@leedsunited.com",
-    "twitter": "@leedsunited",
-    "website": "https://www.leedsunited.com",
-    "fan_email": "supporters@leedsunited.com",
-    "complaints": "https://www.leedsunited.com/contact",
-    "social_media": {
-      "twitter": "@leedsunited",
-      "instagram": "@leedsunited",
-      "facebook": "LeedsUnited"
-    }
+    "email": "tickets@leedsunited.com",
+    "phone": "03713341992",
+    "contact-form": "https://www.leedsunited.com/en/contact-us",
+    "x": "@lufc",
+    "instagram": "@leedsunited",
+    "website": "https://www.leedsunited.com"
   },
   "sponsors": [
     {
-      "name": "BK8",
-      "type": "company",
-      "category": "shirt_sponsor",
-      "rating": "C",
-      "rating_desc": "Verified \u2014 source attribution",
-      "flags": [],
-      "deal_value": "N/A",
-      "sources": [
-        "Wikipedia"
-      ],
-      "verified": false,
-      "last_updated": "2026-09-24T20:00:00+00:00"
+      "id": "red-bull",
+      "name": "Red Bull",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "mateschitz-yoovidhya-families",
+      "owner": "Mateschitz family (49%) and Yoovidhya family (51%), via Red Bull GmbH",
+      "verdict": "Owned by Mateschitz family (49%) and Yoovidhya family (51%), via Red Bull GmbH. Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
     }
   ],
-  "shame": {
-    "description": "Contact Leeds United to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@leeds-united.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@leedsunited",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "49ers Enterprises",
-  "alternate_owners": [
-    "Denise DeBartolo York"
-  ]
+  "worstTier": "none",
+  "owners": [
+    "mateschitz-yoovidhya-families"
+  ],
+  "lastUpdated": "2026-09-24"
 }

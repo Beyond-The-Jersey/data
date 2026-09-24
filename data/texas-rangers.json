@@ -1,42 +1,16 @@
 {
+  "id": "texas-rangers",
   "team": "Texas Rangers",
   "sport": "baseball",
   "league": "mlb",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (817) 265-4000",
-    "email": "info@texasrangers.com",
-    "twitter": "@texasrangers",
-    "website": "https://www.mlb.com/rangers",
-    "fan_email": "fans@texasrangers.com",
-    "complaints": "https://www.mlb.com/rangers/contact",
-    "social_media": {
-      "twitter": "@Texans",
-      "instagram": "@texasrangers",
-      "facebook": "TexasRangers"
-    }
+    "x": "@Rangers",
+    "instagram": "@rangers",
+    "website": "https://www.mlb.com/rangers"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Texas Rangers to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@texas-rangers.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@texasrangers",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Mark Robertson"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

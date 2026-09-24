@@ -1,41 +1,37 @@
 {
+  "id": "eintracht-frankfurt",
   "team": "Eintracht Frankfurt",
   "sport": "soccer",
   "league": "bundesliga",
-  "country": "Unknown",
+  "country": "Germany",
   "contact": {
-    "phone": "+49 (0)69 3023 0",
-    "email": "info@eintracht.de",
-    "twitter": "@eintrachtfrankfurt",
-    "website": "https://www.eintracht.de",
-    "fan_email": "info@eintracht.de",
-    "complaints": "https://www.eintracht.de/kontakt",
-    "social_media": {
-      "twitter": "@Eintracht",
-      "instagram": "@eintracht Frankfurt",
-      "facebook": "EintrachtFrankfurt"
-    }
+    "email": "info@eintrachtfrankfurt.de",
+    "phone": "+498007431899",
+    "contact-form": "https://www.eintracht.de/impressum/",
+    "x": "@Eintracht",
+    "instagram": "@eintrachtfrankfurt",
+    "website": "https://www.eintracht.de"
   },
-  "sponsors": [],
-  "shame": {
-    "description": "Contact Eintracht Frankfurt to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@eintracht-frankfurt.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@eintrachtfrankfurt",
-        "label": "Tweet your concern"
+  "sponsors": [
+    {
+      "id": "indeed",
+      "name": "Indeed",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "recruit-holdings",
+      "owner": "Recruit Holdings",
+      "verdict": "Owned by Recruit Holdings Co., Ltd. (Tokyo-listed). Nothing found.",
+      "source": {
+        "name": "Football Kit Archive, Bundesliga 2026-27 kits",
+        "date": "2026-09-24",
+        "url": "https://www.footballkitarchive.com/bundesliga-kits-2026-27-l34/"
       }
-    ]
-  },
-  "last_updated": "2026-09-24"
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "recruit-holdings"
+  ],
+  "lastUpdated": "2026-09-24"
 }

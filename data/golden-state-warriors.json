@@ -1,56 +1,15 @@
 {
+  "id": "golden-state-warriors",
   "team": "Golden State Warriors",
   "sport": "basketball",
   "league": "nba",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (415) 221-1717",
-    "email": "info@warriors.com",
-    "twitter": "@goldenstatewarriors",
-    "website": "https://www.warriors.com",
-    "fan_email": "fans@warriors.com",
-    "complaints": "https://www.warriors.com/contact",
-    "social_media": {
-      "twitter": "@warriors",
-      "instagram": "@warriors",
-      "facebook": "GSWarriors"
-    }
+    "website": "https://www.nba.com/warriors/?tmd=1",
+    "contact-form": "https://www.nba.com/warriors/?tmd=1/contact"
   },
-  "sponsors": [
-    {
-      "name": "Rakuten",
-      "type": "company",
-      "category": "jersey_sponsor",
-      "rating": "C",
-      "rating_desc": "Verified \u2014 source attribution",
-      "flags": [],
-      "deal_value": "N/A",
-      "sources": [
-        "Wikipedia"
-      ],
-      "verified": true,
-      "last_updated": "2026-09-24T20:00:00+00:00"
-    }
-  ],
-  "shame": {
-    "description": "Contact Golden State Warriors to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@golden-state-warriors.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@goldenstatewarriors",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00"
+  "sponsors": [],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

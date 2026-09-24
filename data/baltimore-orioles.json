@@ -1,41 +1,16 @@
 {
+  "id": "baltimore-orioles",
   "team": "Baltimore Orioles",
   "sport": "baseball",
   "league": "mlb",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (410) 259-4000",
-    "email": "info@orioles.com",
-    "twitter": "@baltimoreorioles",
-    "website": "https://www.mlb.com/orioles",
-    "fan_email": "fans@orioles.com",
-    "complaints": "https://www.mlb.com/orioles/contact",
-    "social_media": {
-      "twitter": "@Orioles",
-      "instagram": "@orioles",
-      "facebook": "BaltimoreOrioles"
-    }
+    "x": "@Orioles",
+    "instagram": "@orioles",
+    "website": "https://www.mlb.com/orioles"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Baltimore Orioles to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@baltimore-orioles.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@baltimoreorioles",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

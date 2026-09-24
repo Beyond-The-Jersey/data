@@ -1,56 +1,61 @@
 {
+  "id": "newcastle-united",
   "team": "Newcastle United",
   "sport": "soccer",
-  "league": "premier_league",
-  "country": "Unknown",
+  "league": "premier-league",
+  "country": "England",
   "contact": {
-    "phone": "+44 (0)191 286 1111",
-    "email": "info@nufc.co.uk",
-    "twitter": "@newcastleunited",
-    "website": "https://www.nufc.co.uk",
-    "fan_email": "supporters@nufc.co.uk",
-    "complaints": "https://www.nufc.co.uk/contact",
-    "social_media": {
-      "twitter": "@NUFC",
-      "instagram": "@nufc",
-      "facebook": "NUFC"
-    }
+    "phone": "+4403443721892",
+    "x": "@NUFC",
+    "instagram": "@nufc",
+    "website": "https://www.newcastleunited.com"
   },
   "sponsors": [
     {
+      "id": "knox-hydration",
+      "name": "KNOX Hydration",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "The Mag",
+        "date": "2026-06",
+        "url": "https://www.themag.co.uk/2026/06/newcastle-united-have-agreed-new-main-sponsor-front-of-shirt-three-year-deal-to-replace-sela/"
+      }
+    },
+    {
+      "id": "noon",
+      "name": "noon",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "concern",
+      "ownerId": "saudi-pif",
+      "owner": "Public Investment Fund (Saudi Arabia)",
+      "verdict": "Part-owned by Saudi Arabia’s Public Investment Fund.",
+      "source": {
+        "name": "The Mag",
+        "date": "2026-06",
+        "url": "https://www.themag.co.uk/2026/06/newcastle-united-have-agreed-new-main-sponsor-front-of-shirt-three-year-deal-to-replace-sela/"
+      }
+    },
+    {
+      "id": "sela",
       "name": "Sela",
-      "type": "company",
-      "category": "shirt_sponsor",
-      "rating": "C",
-      "rating_desc": "Verified \u2014 source attribution",
-      "flags": [],
-      "deal_value": "N/A",
-      "sources": [
-        "Wikipedia"
-      ],
-      "verified": false,
-      "last_updated": "2026-09-24T20:00:00+00:00"
+      "placement": "front",
+      "season": "2025-26",
+      "tier": "serious",
+      "ownerId": "saudi-pif",
+      "owner": "Public Investment Fund (Saudi Arabia)",
+      "verdict": "An events company owned by Saudi Arabia’s Public Investment Fund.",
+      "source": null
     }
   ],
-  "shame": {
-    "description": "Contact Newcastle United to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@newcastle-united.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@newcastleunited",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00"
+  "worstTier": "serious",
+  "owners": [
+    "saudi-pif"
+  ],
+  "lastUpdated": "2026-09-24"
 }

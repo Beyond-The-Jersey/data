@@ -1,66 +1,35 @@
 {
+  "id": "real-madrid",
   "team": "Real Madrid",
   "sport": "soccer",
-  "league": "laliga_easports",
-  "country": "Unknown",
+  "league": "la-liga",
+  "country": "Spain",
   "contact": {
-    "phone": "+34 913 980 100",
-    "email": "info@realmadrid.com",
-    "twitter": "@realmadrid",
-    "website": "https://www.realmadrid.com",
-    "fan_email": "socios@realmadrid.com",
-    "complaints": "https://www.realmadrid.com/contacto",
-    "social_media": {
-      "twitter": "@realmadrid",
-      "instagram": "@realmadrid",
-      "facebook": "RealMadrid"
-    }
+    "email": "oap@corp.realmadrid.com",
+    "x": "@realmadrid",
+    "instagram": "@realmadrid",
+    "website": "https://www.realmadrid.com"
   },
   "sponsors": [
     {
+      "id": "emirates",
       "name": "Emirates",
-      "type": "company",
-      "category": "shirt_sponsor",
-      "rating": "C",
-      "rating_desc": "Verified \u2014 source attribution",
-      "flags": [
-        "regime:UAE",
-        "authoritarian"
-      ],
-      "deal_value": "\u20ac70m/year",
-      "sources": [
-        "Wikipedia"
-      ],
-      "verified": true,
-      "last_updated": "2026-09-24T20:00:00+00:00"
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "serious",
+      "ownerId": "government-of-dubai",
+      "owner": "Government of Dubai",
+      "verdict": "The airline is owned by the Dubai government’s investment arm.",
+      "source": {
+        "name": "SportsPro",
+        "date": "2026-06-10",
+        "url": "https://www.sportspro.com/news/sponsorship-marketing/real-madrid-emirates-record-sponsorship-june-2026/"
+      }
     }
   ],
-  "shame": {
-    "description": "Contact Real Madrid to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@real-madrid.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@realmadrid",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "regime_sponsors": [
-    {
-      "name": "Emirates",
-      "regime": "UAE",
-      "regime_type": "authoritarian"
-    }
-  ]
+  "worstTier": "serious",
+  "owners": [
+    "government-of-dubai"
+  ],
+  "lastUpdated": "2026-09-24"
 }

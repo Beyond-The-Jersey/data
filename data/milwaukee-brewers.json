@@ -1,41 +1,16 @@
 {
+  "id": "milwaukee-brewers",
   "team": "Milwaukee Brewers",
   "sport": "baseball",
   "league": "mlb",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (414) 902-4000",
-    "email": "info@brewers.com",
-    "twitter": "@milwaukeebrewers",
-    "website": "https://www.mlb.com/brewers",
-    "fan_email": "fans@brewers.com",
-    "complaints": "https://www.mlb.com/brewers/contact",
-    "social_media": {
-      "twitter": "@Brewers",
-      "instagram": "@brewers",
-      "facebook": "MilwaukeeBrewers"
-    }
+    "x": "@brewers",
+    "instagram": "@brewers",
+    "website": "https://www.mlb.com/brewers"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Milwaukee Brewers to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@milwaukee-brewers.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@milwaukeebrewers",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

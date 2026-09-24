@@ -1,42 +1,36 @@
 {
+  "id": "tsg-hoffenheim",
   "team": "TSG Hoffenheim",
   "sport": "soccer",
   "league": "bundesliga",
-  "country": "Unknown",
+  "country": "Germany",
   "contact": {
-    "phone": "+49 (0)6221 960 5000",
-    "email": "info@tsg-hoffenheim.de",
-    "twitter": "@tsghoffenheim",
-    "website": "https://www.tsg-hoffenheim.de",
-    "fan_email": "info@tsg-hoffenheim.de",
-    "complaints": "https://www.tsg-hoffenheim.de/kontakt",
-    "social_media": {
-      "twitter": "@TSG1899Hoffenheim",
-      "instagram": "@tsg_hoffenheim",
-      "facebook": "TSGHoffenheim"
-    }
+    "email": "akademie@tsg-hoffenheim.de",
+    "contact-form": "https://www.tsg-hoffenheim.de/akademie/services/kontakt",
+    "x": "@tsghoffenheim",
+    "instagram": "@tsghoffenheim",
+    "website": "https://www.tsg-hoffenheim.de"
   },
-  "sponsors": [],
-  "shame": {
-    "description": "Contact TSG Hoffenheim to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@tsg-hoffenheim.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@tsghoffenheim",
-        "label": "Tweet your concern"
+  "sponsors": [
+    {
+      "id": "sap",
+      "name": "SAP",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "sap-se",
+      "owner": "SAP SE",
+      "verdict": "Owned by SAP SE — free float with founder-family anchors. Nothing found.",
+      "source": {
+        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+        "date": "2026-08-04",
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
       }
-    ]
-  },
-  "last_updated": "2026-09-24T19:46:22.086181+00:00",
-  "owner": "Dietmar Hopp (96%)"
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "sap-se"
+  ],
+  "lastUpdated": "2026-09-24"
 }

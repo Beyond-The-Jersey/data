@@ -1,71 +1,37 @@
 {
+  "id": "athletic-club",
   "team": "Athletic Club",
   "sport": "soccer",
-  "league": "laliga_easports",
-  "country": "Unknown",
+  "league": "la-liga",
+  "country": "Spain",
   "contact": {
-    "phone": "+34 944 255 000",
-    "email": "harrera@athletic-club.eus",
-    "twitter": "@athleticclub",
-    "website": "https://www.athletic-club.eus",
-    "fan_email": "harrera@athletic-club.eus",
-    "complaints": "https://www.athletic-club.eus/contacto",
-    "social_media": {
-      "twitter": "@AthleticClub",
-      "instagram": "@athleticclub",
-      "facebook": "AthleticClub"
-    }
+    "email": "contacto@athletic-club.eus",
+    "phone": "+34944240877",
+    "contact-form": "https://www.athletic-club.eus/en/contact/",
+    "x": "@AthleticClub",
+    "instagram": "@athleticclub",
+    "website": "https://www.athletic-club.eus"
   },
   "sponsors": [
     {
-      "name": "Sam Gillam",
-      "type": "company",
-      "category": "sponsor",
-      "rating": "D",
-      "rating_desc": "Unverified \u2014 from Wikidata",
-      "flags": [],
-      "deal_value": null,
-      "sources": [
-        "Wikidata"
-      ],
-      "verified": false,
-      "last_updated": "2026-09-24T20:00:00+00:00"
-    },
-    {
-      "name": "Donald Coles",
-      "type": "company",
-      "category": "sponsor",
-      "rating": "D",
-      "rating_desc": "Unverified \u2014 from Wikidata",
-      "flags": [],
-      "deal_value": null,
-      "sources": [
-        "Wikidata"
-      ],
-      "verified": false,
-      "last_updated": "2026-09-24T20:00:00+00:00"
+      "id": "kutxabank",
+      "name": "Kutxabank",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "kutxabank",
+      "owner": "Kutxabank",
+      "verdict": null,
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
     }
   ],
-  "shame": {
-    "description": "Contact Athletic Club to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@athletic-club.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@athleticclub",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Roland Duch\u00e2telet"
+  "worstTier": "unrated",
+  "owners": [
+    "kutxabank"
+  ],
+  "lastUpdated": "2026-09-24"
 }

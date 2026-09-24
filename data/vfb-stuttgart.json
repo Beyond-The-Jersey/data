@@ -1,41 +1,35 @@
 {
+  "id": "vfb-stuttgart",
   "team": "VfB Stuttgart",
   "sport": "soccer",
   "league": "bundesliga",
-  "country": "Unknown",
+  "country": "Germany",
   "contact": {
-    "phone": "+49 (0)711 766 0",
-    "email": "info@vfb.de",
-    "twitter": "@vfbstuttgart",
-    "website": "https://www.vfb.de",
-    "fan_email": "info@vfb.de",
-    "complaints": "https://www.vfb.de/kontakt",
-    "social_media": {
-      "twitter": "@VfB_Stuttgart",
-      "instagram": "@vfb_stuttgart",
-      "facebook": "VfBStuttgart"
-    }
+    "contact-form": "https://www.vfb.de/de/1893/club/service/formales/impressum/",
+    "x": "@vfb",
+    "instagram": "@vfb",
+    "website": "https://www.vfb.de"
   },
-  "sponsors": [],
-  "shame": {
-    "description": "Contact VfB Stuttgart to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@vfb-stuttgart.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@vfbstuttgart",
-        "label": "Tweet your concern"
+  "sponsors": [
+    {
+      "id": "lbbw",
+      "name": "LBBW",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "concern",
+      "ownerId": "state-of-baden-wuerttemberg",
+      "owner": "State of Baden-Württemberg, Sparkassenverband Baden-Württemberg and City of Stuttgart",
+      "verdict": "Landesbank Baden-Württemberg is a public-law institution whose Owners are the Savings Banks Association of Baden-Württemberg (SVBW), the State of….",
+      "source": {
+        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+        "date": "2026-08-04",
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
       }
-    ]
-  },
-  "last_updated": "2026-09-24"
+    }
+  ],
+  "worstTier": "concern",
+  "owners": [
+    "state-of-baden-wuerttemberg"
+  ],
+  "lastUpdated": "2026-09-24"
 }

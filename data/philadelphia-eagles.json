@@ -1,45 +1,17 @@
 {
+  "id": "philadelphia-eagles",
   "team": "Philadelphia Eagles",
-  "sport": "american_football",
+  "sport": "american-football",
   "league": "nfl",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (215) 463-4000",
-    "email": "info@philadelphiaeagles.com",
-    "twitter": "@philadelphiaeagles",
+    "x": "@Eagles",
+    "instagram": "@philadelphiaeagles",
     "website": "https://www.philadelphiaeagles.com",
-    "fan_email": "fans@philadelphiaeagles.com",
-    "complaints": "https://www.philadelphiaeagles.com/contact",
-    "social_media": {
-      "twitter": "@Eagles",
-      "instagram": "@philadelphiaeagles",
-      "facebook": "PhiladelphiaEagles"
-    }
+    "contact-form": "https://www.philadelphiaeagles.com/footer/contact-us/"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Philadelphia Eagles to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@philadelphia-eagles.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@philadelphiaeagles",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Jeffrey Lurie",
-  "alternate_owners": [
-    "Mark B. Wise"
-  ]
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

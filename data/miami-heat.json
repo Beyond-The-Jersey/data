@@ -1,41 +1,18 @@
 {
+  "id": "miami-heat",
   "team": "Miami Heat",
   "sport": "basketball",
   "league": "nba",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (305) 517-6000",
-    "email": "info@heat.com",
-    "twitter": "@miamiheat",
+    "x": "@miamiheat",
+    "instagram": "@MiamiHeat",
     "website": "https://www.heat.com",
-    "fan_email": "fans@heat.com",
-    "complaints": "https://www.heat.com/contact",
-    "social_media": {
-      "twitter": "@MiamiHEAT",
-      "instagram": "@miamiheat",
-      "facebook": "MiamiHEAT"
-    }
+    "email": "seasonticketservices@heat.com",
+    "contact-form": "https://www.nba.com/heat/contact"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Miami Heat to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@miami-heat.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@miamiheat",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

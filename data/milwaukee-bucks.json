@@ -1,41 +1,16 @@
 {
+  "id": "milwaukee-bucks",
   "team": "Milwaukee Bucks",
   "sport": "basketball",
   "league": "nba",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (414) 221-2400",
-    "email": "info@bucks.com",
-    "twitter": "@milwaukeebucks",
-    "website": "https://www.bucks.com",
-    "fan_email": "fans@bucks.com",
-    "complaints": "https://www.bucks.com/contact",
-    "social_media": {
-      "twitter": "@Bucks",
-      "instagram": "@bucks",
-      "facebook": "MilwaukeeBucks"
-    }
+    "email": "tickets@bucks.com",
+    "contact-form": "https://www.nba.com/bucks/contact",
+    "website": "https://www.bucks.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Milwaukee Bucks to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@milwaukee-bucks.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@milwaukeebucks",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

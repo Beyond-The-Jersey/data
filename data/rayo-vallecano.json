@@ -1,45 +1,36 @@
 {
+  "id": "rayo-vallecano",
   "team": "Rayo Vallecano",
   "sport": "soccer",
-  "league": "laliga_easports",
-  "country": "Unknown",
+  "league": "la-liga",
+  "country": "Spain",
   "contact": {
-    "phone": "+34 913 804 000",
-    "email": "info@rayovallecano.es",
-    "twitter": "@rayovallecano",
-    "website": "https://www.rayovallecano.es",
-    "fan_email": "aficionados@rayovallecano.es",
-    "complaints": "https://www.rayovallecano.es/contacto",
-    "social_media": {
-      "twitter": "@RayoVallecano",
-      "instagram": "@rayovallecano",
-      "facebook": "RayoVallecano"
-    }
+    "email": "cumplimiento@rayovallecano.es",
+    "contact-form": "https://www.rayovallecano.es/aviso-legal",
+    "x": "@RayoVallecano",
+    "instagram": "@rayovallecano",
+    "website": "https://www.rayovallecano.es"
   },
-  "sponsors": [],
-  "shame": {
-    "description": "Contact Rayo Vallecano to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@rayo-vallecano.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@rayovallecano",
-        "label": "Tweet your concern"
+  "sponsors": [
+    {
+      "id": "digi",
+      "name": "Digi",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "digi-communications",
+      "owner": "Digi Communications",
+      "verdict": null,
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
       }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Ra\u00fal Mart\u00edn Presa",
-  "alternate_owners": [
-    "PTT Public Company Limited"
-  ]
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "digi-communications"
+  ],
+  "lastUpdated": "2026-09-24"
 }

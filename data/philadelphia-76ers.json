@@ -1,41 +1,17 @@
 {
+  "id": "philadelphia-76ers",
   "team": "Philadelphia 76ers",
   "sport": "basketball",
   "league": "nba",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (215) 463-6300",
-    "email": "info@sixers.com",
-    "twitter": "@philadelphia76ers",
+    "x": "@Sixers",
+    "instagram": "@Sixers",
     "website": "https://www.sixers.com",
-    "fan_email": "fans@sixers.com",
-    "complaints": "https://www.sixers.com/contact",
-    "social_media": {
-      "twitter": "@sixers",
-      "instagram": "@sixers",
-      "facebook": "Philadelphia76ers"
-    }
+    "contact-form": "https://www.nba.com/sixers/contact"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Philadelphia 76ers to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@philadelphia-76ers.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@philadelphia76ers",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

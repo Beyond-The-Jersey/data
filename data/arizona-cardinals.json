@@ -1,42 +1,16 @@
 {
+  "id": "arizona-cardinals",
   "team": "Arizona Cardinals",
-  "sport": "american_football",
+  "sport": "american-football",
   "league": "nfl",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (480) 224-2900",
-    "email": "info@azcardinals.com",
-    "twitter": "@arizonacardinals",
-    "website": "https://www.azcardinals.com",
-    "fan_email": "fans@azcardinals.com",
-    "complaints": "https://www.azcardinals.com/contact",
-    "social_media": {
-      "twitter": "@AZCardinals",
-      "instagram": "@azcardinals",
-      "facebook": "AZCardinals"
-    }
+    "x": "@AZCardinals",
+    "instagram": "@azcardinals",
+    "website": "https://www.azcardinals.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Arizona Cardinals to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@arizona-cardinals.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@arizonacardinals",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T19:45:26.384142+00:00",
-  "owner": "Michael Bidwill"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

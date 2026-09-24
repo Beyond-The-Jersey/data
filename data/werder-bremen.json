@@ -1,0 +1,37 @@
+{
+  "id": "werder-bremen",
+  "team": "Werder Bremen",
+  "sport": "soccer",
+  "league": "bundesliga",
+  "country": "Germany",
+  "contact": {
+    "email": "tickets@vfl-bochum.de",
+    "phone": "+49421434590",
+    "x": "@werderbremen",
+    "instagram": "@werderbremen",
+    "website": "https://www.werder.de",
+    "contact-form": "https://www.werder.de/service/kontakt"
+  },
+  "sponsors": [
+    {
+      "id": "matthaei",
+      "name": "Matthaei",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "matthaei-bau",
+      "owner": "Matthaei Bauunternehmung",
+      "verdict": null,
+      "source": {
+        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+        "date": "2026-08-04",
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "matthaei-bau"
+  ],
+  "lastUpdated": "2026-09-24"
+}

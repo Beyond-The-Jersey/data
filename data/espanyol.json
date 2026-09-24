@@ -1,0 +1,35 @@
+{
+  "id": "espanyol",
+  "team": "RCD Espanyol",
+  "sport": "soccer",
+  "league": "la-liga",
+  "country": "Spain",
+  "contact": {
+    "email": "info@rcdespanyol.com",
+    "x": "@rcdespanyol",
+    "instagram": "@RCDEspanyol",
+    "website": "https://www.rcdespanyol.com"
+  },
+  "sponsors": [
+    {
+      "id": "arctempus",
+      "name": "Arctempus",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "arctempus",
+      "owner": "Arctempus",
+      "verdict": null,
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "arctempus"
+  ],
+  "lastUpdated": "2026-09-24"
+}

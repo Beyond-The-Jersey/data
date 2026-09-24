@@ -1,41 +1,16 @@
 {
+  "id": "los-angeles-angels",
   "team": "Los Angeles Angels",
   "sport": "baseball",
   "league": "mlb",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (714) 940-4000",
-    "email": "info@angels.com",
-    "twitter": "@losangelesangels",
-    "website": "https://www.mlb.com/angels",
-    "fan_email": "fans@angels.com",
-    "complaints": "https://www.mlb.com/angels/contact",
-    "social_media": {
-      "twitter": "@Angels",
-      "instagram": "@angels",
-      "facebook": "LAAngels"
-    }
+    "x": "@angels",
+    "instagram": "@angels",
+    "website": "https://www.mlb.com/angels"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Los Angeles Angels to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@los-angeles-angels.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@losangelesangels",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

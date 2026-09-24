@@ -1,45 +1,16 @@
 {
+  "id": "pittsburgh-steelers",
   "team": "Pittsburgh Steelers",
-  "sport": "american_football",
+  "sport": "american-football",
   "league": "nfl",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (412) 324-4000",
-    "email": "info@steelers.com",
-    "twitter": "@pittsburghsteelers",
-    "website": "https://www.steelers.com",
-    "fan_email": "fans@steelers.com",
-    "complaints": "https://www.steelers.com/contact",
-    "social_media": {
-      "twitter": "@steelers",
-      "instagram": "@steelers",
-      "facebook": "PittsburghSteelers"
-    }
+    "x": "@steelers",
+    "instagram": "@steelers",
+    "website": "https://www.steelers.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Pittsburgh Steelers to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@pittsburgh-steelers.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@pittsburghsteelers",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Rooney family",
-  "alternate_owners": [
-    "POSCO"
-  ]
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

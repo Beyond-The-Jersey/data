@@ -1,41 +1,18 @@
 {
+  "id": "denver-nuggets",
   "team": "Denver Nuggets",
   "sport": "basketball",
   "league": "nba",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (303) 292-2000",
-    "email": "info@nuggets.com",
-    "twitter": "@denvernuggets",
-    "website": "https://www.nuggets.com",
-    "fan_email": "fans@nuggets.com",
-    "complaints": "https://www.nuggets.com/contact",
-    "social_media": {
-      "twitter": "@DenverNuggets",
-      "instagram": "@denvernuggets",
-      "facebook": "DenverNuggets"
-    }
+    "email": "Juwaun.Davis@TeamKSE.com",
+    "contact-form": "https://www.nba.com/nuggets/contact-us",
+    "x": "@nuggets",
+    "instagram": "@nuggets",
+    "website": "https://www.nuggets.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Denver Nuggets to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@denver-nuggets.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@denvernuggets",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

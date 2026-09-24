@@ -1,42 +1,16 @@
 {
+  "id": "kansas-city-chiefs",
   "team": "Kansas City Chiefs",
-  "sport": "american_football",
+  "sport": "american-football",
   "league": "nfl",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (816) 224-4000",
-    "email": "info@chiefs.com",
-    "twitter": "@kansascitychiefs",
-    "website": "https://www.chiefs.com",
-    "fan_email": "fans@chiefs.com",
-    "complaints": "https://www.chiefs.com/contact",
-    "social_media": {
-      "twitter": "@KansasCityChiefs",
-      "instagram": "@chiefs",
-      "facebook": "KansasCityChiefs"
-    }
+    "x": "@chiefs",
+    "instagram": "@chiefs",
+    "website": "https://www.chiefs.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Kansas City Chiefs to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@kansas-city-chiefs.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@kansascitychiefs",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T19:46:02.938533+00:00",
-  "owner": "Hunt family"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

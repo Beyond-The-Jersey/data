@@ -1,34 +1,30 @@
 {
+  "id": "la-clippers",
   "team": "LA Clippers",
   "sport": "basketball",
   "league": "nba",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 213 742 7100",
-    "email": "marketing@la-clippers.com",
-    "twitter": "@laclippers",
-    "website": "https://www.la-clippers.com"
+    "x": "@LAClippers",
+    "instagram": "@laclippers",
+    "website": "https://www.clippers.com"
   },
-  "sponsors": [],
-  "shame": {
-    "description": "Contact LA Clippers to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@la-clippers.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@laclippers",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "sponsors": [
+    {
+      "id": "visit-rwanda",
+      "name": "Visit Rwanda",
+      "placement": "partner",
+      "season": null,
+      "tier": "severe",
+      "ownerId": "government-of-rwanda",
+      "owner": "Government of Rwanda",
+      "verdict": "Paid for by a government that UN experts say has 3,000–4,000 troops fighting alongside M23 rebels in eastern Congo.",
+      "source": null
+    }
+  ],
+  "worstTier": "severe",
+  "owners": [
+    "government-of-rwanda"
+  ],
+  "lastUpdated": "2026-09-24"
 }

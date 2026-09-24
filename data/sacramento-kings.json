@@ -1,41 +1,17 @@
 {
+  "id": "sacramento-kings",
   "team": "Sacramento Kings",
   "sport": "basketball",
   "league": "nba",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (916) 203-4000",
-    "email": "info@kings.com",
-    "twitter": "@sacramentokings",
-    "website": "https://www.nba.com/kings",
-    "fan_email": "fans@kings.com",
-    "complaints": "https://www.nba.com/kings/contact",
-    "social_media": {
-      "twitter": "@kings",
-      "instagram": "@kings",
-      "facebook": "SacramentoKings"
-    }
+    "x": "@SacramentoKings",
+    "instagram": "@sacramentokings",
+    "website": "https://www.kings.com",
+    "contact-form": "https://www.nba.com/kings/contact-us"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Sacramento Kings to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@sacramento-kings.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@sacramentokings",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

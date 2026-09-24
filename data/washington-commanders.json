@@ -1,42 +1,16 @@
 {
+  "id": "washington-commanders",
   "team": "Washington Commanders",
-  "sport": "american_football",
+  "sport": "american-football",
   "league": "nfl",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (202) 270-4000",
-    "email": "info@commanders.com",
-    "twitter": "@washingtoncommanders",
-    "website": "https://www.commanders.com",
-    "fan_email": "fans@commanders.com",
-    "complaints": "https://www.commanders.com/contact",
-    "social_media": {
-      "twitter": "@Commanders",
-      "instagram": "@commanders",
-      "facebook": "WashingtonCommanders"
-    }
+    "x": "@commanders",
+    "instagram": "@commanders",
+    "website": "https://www.commanders.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Washington Commanders to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@washington-commanders.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@washingtoncommanders",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T19:46:23.415805+00:00",
-  "owner": "Josh Harris"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

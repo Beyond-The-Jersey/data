@@ -1,42 +1,36 @@
 {
+  "id": "hull-city",
   "team": "Hull City",
   "sport": "soccer",
-  "league": "premier_league",
-  "country": "Unknown",
+  "league": "premier-league",
+  "country": "England",
   "contact": {
-    "phone": "+44 (0)1482 388 800",
-    "email": "info@hullcitytigers.com",
-    "twitter": "@hullcity",
-    "website": "https://www.hullcitytigers.com",
-    "fan_email": "supporters@hullcitytigers.com",
-    "complaints": "https://www.hullcitytigers.com/contact",
-    "social_media": {
-      "twitter": "@HullCity",
-      "instagram": "@hullcity",
-      "facebook": "HullCityTigers"
-    }
+    "email": "reception@wearehullcity.co.uk",
+    "contact-form": "https://www.wearehullcity.co.uk/contact",
+    "x": "@HullCity",
+    "instagram": "@hullcity",
+    "website": "https://www.wearehullcity.co.uk"
   },
-  "sponsors": [],
-  "shame": {
-    "description": "Contact Hull City to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@hull-city.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@hullcity",
-        "label": "Tweet your concern"
+  "sponsors": [
+    {
+      "id": "corendon",
+      "name": "Corendon",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "corendon-airlines",
+      "owner": "Corendon Airlines",
+      "verdict": null,
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
       }
-    ]
-  },
-  "last_updated": "2026-09-24T19:46:01.637699+00:00",
-  "owner": "Acun Medya"
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "corendon-airlines"
+  ],
+  "lastUpdated": "2026-09-24"
 }

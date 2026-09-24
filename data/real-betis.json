@@ -1,41 +1,35 @@
 {
+  "id": "real-betis",
   "team": "Real Betis",
   "sport": "soccer",
-  "league": "laliga_easports",
-  "country": "Unknown",
+  "league": "la-liga",
+  "country": "Spain",
   "contact": {
-    "phone": "+34 955 238 000",
-    "email": "info@realbetisbalompie.es",
-    "twitter": "@realbetis",
-    "website": "https://www.realbetisbalompie.es",
-    "fan_email": "pepinos@realbetisbalompie.es",
-    "complaints": "https://www.realbetisbalompie.es/contacto",
-    "social_media": {
-      "twitter": "@RealBetis",
-      "instagram": "@realbetis",
-      "facebook": "RealBetis"
-    }
+    "contact-form": "https://www.realbetisbalompie.es/contacto",
+    "x": "@RealBetis",
+    "instagram": "@realbetisbalompie",
+    "website": "https://www.realbetisbalompie.es"
   },
-  "sponsors": [],
-  "shame": {
-    "description": "Contact Real Betis to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@real-betis.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@realbetis",
-        "label": "Tweet your concern"
+  "sponsors": [
+    {
+      "id": "gree",
+      "name": "Gree",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "gree-electric",
+      "owner": "Gree Electric Appliances",
+      "verdict": null,
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
       }
-    ]
-  },
-  "last_updated": "2026-09-24"
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "gree-electric"
+  ],
+  "lastUpdated": "2026-09-24"
 }

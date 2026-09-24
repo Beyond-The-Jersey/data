@@ -1,42 +1,35 @@
 {
+  "id": "fc-augsburg",
   "team": "FC Augsburg",
   "sport": "soccer",
   "league": "bundesliga",
-  "country": "Unknown",
+  "country": "Germany",
   "contact": {
-    "phone": "+49 (0)821 710 0",
-    "email": "info@fcaugsburg.de",
-    "twitter": "@fcaugsburg",
-    "website": "https://www.fcaugsburg.de",
-    "fan_email": "info@fcaugsburg.de",
-    "complaints": "https://www.fcaugsburg.de/kontakt",
-    "social_media": {
-      "twitter": "@FCA",
-      "instagram": "@fcaugsburg",
-      "facebook": "FCA"
-    }
+    "contact-form": "https://www.fcaugsburg.de/contact",
+    "x": "@FCAugsburg",
+    "instagram": "@fcaugsburg1907",
+    "website": "https://www.fcaugsburg.de"
   },
-  "sponsors": [],
-  "shame": {
-    "description": "Contact FC Augsburg to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@fc-augsburg.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@fcaugsburg",
-        "label": "Tweet your concern"
+  "sponsors": [
+    {
+      "id": "wwk",
+      "name": "WWK",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "wwk-versicherungen",
+      "owner": "WWK Versicherungen",
+      "verdict": null,
+      "source": {
+        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+        "date": "2026-08-04",
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
       }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Klaus Hofmann"
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "wwk-versicherungen"
+  ],
+  "lastUpdated": "2026-09-24"
 }

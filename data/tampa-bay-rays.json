@@ -1,41 +1,16 @@
 {
+  "id": "tampa-bay-rays",
   "team": "Tampa Bay Rays",
   "sport": "baseball",
   "league": "mlb",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (727) 202-4000",
-    "email": "info@rays.com",
-    "twitter": "@tampabayrays",
-    "website": "https://www.mlb.com/rays",
-    "fan_email": "fans@rays.com",
-    "complaints": "https://www.mlb.com/rays/contact",
-    "social_media": {
-      "twitter": "@RaysBaseball",
-      "instagram": "@rays",
-      "facebook": "TampaBayRays"
-    }
+    "x": "@Raysbaseball",
+    "instagram": "@raysbaseball",
+    "website": "https://www.mlb.com/rays"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Tampa Bay Rays to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@tampa-bay-rays.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@tampabayrays",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

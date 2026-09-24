@@ -1,41 +1,16 @@
 {
+  "id": "chicago-bulls",
   "team": "Chicago Bulls",
   "sport": "basketball",
   "league": "nba",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (312) 352-4141",
-    "email": "info@chicagobulls.com",
-    "twitter": "@chicagobulls",
-    "website": "https://www.chicagobulls.com",
-    "fan_email": "fans@chicagobulls.com",
-    "complaints": "https://www.chicagobulls.com/contact",
-    "social_media": {
-      "twitter": "@chicagobulls",
-      "instagram": "@chicagobulls",
-      "facebook": "ChicagoBulls"
-    }
+    "x": "@chicagobulls",
+    "instagram": "@chicagobulls",
+    "website": "https://www.bulls.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Chicago Bulls to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@chicago-bulls.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@chicagobulls",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

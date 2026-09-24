@@ -1,41 +1,16 @@
 {
+  "id": "phoenix-suns",
   "team": "Phoenix Suns",
   "sport": "basketball",
   "league": "nba",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (623) 223-4000",
-    "email": "info@suns.com",
-    "twitter": "@phoenixsuns",
-    "website": "https://www.suns.com",
-    "fan_email": "fans@suns.com",
-    "complaints": "https://www.suns.com/contact",
-    "social_media": {
-      "twitter": "@Suns",
-      "instagram": "@suns",
-      "facebook": "PhoenixSuns"
-    }
+    "email": "memberships@suns.com",
+    "phone": "6023792000",
+    "website": "https://www.suns.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Phoenix Suns to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@phoenix-suns.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@phoenixsuns",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

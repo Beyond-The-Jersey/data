@@ -1,42 +1,37 @@
 {
+  "id": "manchester-united",
   "team": "Manchester United",
   "sport": "soccer",
-  "league": "premier_league",
-  "country": "Unknown",
+  "league": "premier-league",
+  "country": "England",
   "contact": {
-    "phone": "+44 (0)161 868 8000",
-    "email": "info@manutd.com",
-    "twitter": "@manchesterunited",
-    "website": "https://www.manutd.com",
-    "fan_email": "supporters@manutd.com",
-    "complaints": "https://www.manutd.com/contact",
-    "social_media": {
-      "twitter": "@ManUtd",
-      "instagram": "@manchesterunited",
-      "facebook": "ManUtd"
-    }
+    "email": "ticketingandmembershipservices@manutd.co.uk",
+    "phone": "+441616767770",
+    "contact-form": "https://www.manutd.com/en/help/club-contacts",
+    "x": "@ManUtd",
+    "instagram": "@manutd",
+    "website": "https://www.manutd.com"
   },
-  "sponsors": [],
-  "shame": {
-    "description": "Contact Manchester United to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@manchester-united.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@manchesterunited",
-        "label": "Tweet your concern"
+  "sponsors": [
+    {
+      "id": "snapdragon",
+      "name": "Snapdragon",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "qualcomm",
+      "owner": "Qualcomm",
+      "verdict": "Owned by Qualcomm Incorporated (Nasdaq-listed) — Snapdragon is its brand. Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
       }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Ineos"
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "qualcomm"
+  ],
+  "lastUpdated": "2026-09-24"
 }

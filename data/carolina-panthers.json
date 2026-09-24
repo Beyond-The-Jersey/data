@@ -1,42 +1,16 @@
 {
+  "id": "carolina-panthers",
   "team": "Carolina Panthers",
-  "sport": "american_football",
+  "sport": "american-football",
   "league": "nfl",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (704) 257-4000",
-    "email": "info@panthers.com",
-    "twitter": "@carolinapanthers",
-    "website": "https://www.panthers.com",
-    "fan_email": "fans@panthers.com",
-    "complaints": "https://www.panthers.com/contact",
-    "social_media": {
-      "twitter": "@Panthers",
-      "instagram": "@panthers",
-      "facebook": "CarolinaPanthers"
-    }
+    "x": "@panthers",
+    "instagram": "@panthers",
+    "website": "https://www.panthers.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Carolina Panthers to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@carolina-panthers.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@carolinapanthers",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T19:45:32.488757+00:00",
-  "owner": "David Tepper"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

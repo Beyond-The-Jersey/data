@@ -1,45 +1,16 @@
 {
+  "id": "chicago-bears",
   "team": "Chicago Bears",
-  "sport": "american_football",
+  "sport": "american-football",
   "league": "nfl",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (312) 222-2200",
-    "email": "info@chicagobears.com",
-    "twitter": "@chicagobears",
-    "website": "https://www.chicagobears.com",
-    "fan_email": "fans@chicagobears.com",
-    "complaints": "https://www.chicagobears.com/contact",
-    "social_media": {
-      "twitter": "@ChicagoBears",
-      "instagram": "@chicagobears",
-      "facebook": "ChicagoBears"
-    }
+    "x": "@ChicagoBears",
+    "instagram": "@chicagobears",
+    "website": "https://www.chicagobears.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Chicago Bears to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@chicago-bears.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@chicagobears",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "George McCaskey",
-  "alternate_owners": [
-    "Scotiabank"
-  ]
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

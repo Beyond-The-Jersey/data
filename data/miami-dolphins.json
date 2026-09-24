@@ -1,45 +1,16 @@
 {
+  "id": "miami-dolphins",
   "team": "Miami Dolphins",
-  "sport": "american_football",
+  "sport": "american-football",
   "league": "nfl",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (305) 630-4000",
-    "email": "info@dolphins.com",
-    "twitter": "@miamidolphins",
-    "website": "https://www.miamidolphins.com",
-    "fan_email": "fans@miamidolphins.com",
-    "complaints": "https://www.miamidolphins.com/contact",
-    "social_media": {
-      "twitter": "@MiamiDolphins",
-      "instagram": "@miamidolphins",
-      "facebook": "MiamiDolphins"
-    }
+    "x": "@miamidolphins",
+    "instagram": "@miamidolphins",
+    "website": "https://www.miamidolphins.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Miami Dolphins to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@miami-dolphins.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@miamidolphins",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Stephen Ross",
-  "alternate_owners": [
-    "Riccardo Silva"
-  ]
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

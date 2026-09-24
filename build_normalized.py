@@ -471,6 +471,89 @@ for c in contacts:
 write("contacts", contacts)
 print("contacts:", len(contacts))
 
+# ------------------------------------------------------- data/ mirror (legacy tree)
+# The handover shipped a per-club data/ tree in an older shape and said to regenerate
+# or drop it. The website reads normalized/ only, but other consumers may still read
+# these, and leaving them stale meant two id spaces for the same club. Regenerated
+# here so the two trees can no longer disagree.
+tier_rank = {"severe": 3, "serious": 2, "concern": 1, "none": 0, "unrated": -1}
+deals_by_club = {}
+for d in deals:
+    deals_by_club.setdefault(d["clubId"], []).append(d)
+kits_by_club = {}
+for k in kits:
+    kits_by_club.setdefault(k["clubId"], []).append(k)
+cont_by_club = {c["clubId"]: c for c in contacts}
+owners_by_id = {o["id"]: o for o in owners}
+sponsors_by_id = {s["id"]: s for s in sponsors}
+
+mirror_dir = os.path.join(os.path.dirname(OUT), "data")
+os.makedirs(mirror_dir, exist_ok=True)
+index = []
+for c in clubs:
+    cid = c["id"]
+    ch = cont_by_club.get(cid, {}).get("channels", [])
+    flat = {}
+    for x in ch:
+        flat.setdefault(x["type"], x["value"])
+    spns = []
+    for k in kits_by_club.get(cid, []):
+        for p in k["sponsors"]:
+            s = sponsors_by_id.get(p["sponsorId"])
+            if not s:
+                continue
+            rec = {
+                "id": s["id"],
+                "name": s["name"],
+                "placement": p["placement"],
+                "season": k["season"],
+                "tier": s["tier"],
+                "ownerId": s.get("ownerId"),
+                "owner": (owners_by_id.get(s.get("ownerId")) or {}).get("name"),
+                "verdict": s.get("verdict"),
+                "source": p.get("source"),
+            }
+            if not any(e["id"] == s["id"] and e["placement"] == p["placement"] for e in spns):
+                spns.append(rec)
+    for d in deals_by_club.get(cid, []):
+        s = sponsors_by_id.get(d.get("sponsorId") or "")
+        if s and not any(e["id"] == s["id"] for e in spns):
+            spns.append({"id": s["id"], "name": s["name"], "placement": d.get("placement"),
+                         "season": None, "tier": s["tier"], "ownerId": s.get("ownerId"),
+                         "owner": (owners_by_id.get(s.get("ownerId")) or {}).get("name"),
+                         "verdict": s.get("verdict"), "source": d.get("source")})
+    worst = max((tier_rank.get(e["tier"], -1) for e in spns), default=-1)
+    doc = {
+        "id": cid,
+        "team": c["name"],
+        "sport": c["sportId"],
+        "league": c["leagueId"],
+        "country": c.get("country"),
+        "contact": flat,
+        "sponsors": sorted(spns, key=lambda e: e["id"]),
+        "worstTier": [t for t, v in tier_rank.items() if v == worst][0] if worst >= 0 else "unrated",
+        "owners": sorted({e["ownerId"] for e in spns if e.get("ownerId")}),
+        "lastUpdated": meta.get("updatedAt"),
+    }
+    with open(os.path.join(mirror_dir, cid + ".json"), "w", encoding="utf-8") as f:
+        json.dump(doc, f, indent=2, ensure_ascii=False)
+        f.write("\n")
+    index.append({"id": cid, "name": c["name"], "sport": c["sportId"],
+                  "league": c["leagueId"], "file": cid + ".json"})
+with open(os.path.join(mirror_dir, "index.json"), "w", encoding="utf-8") as f:
+    json.dump({"version": "0.2", "canonical": "normalized/",
+               "last_updated": meta.get("updatedAt"), "teams": index},
+              f, indent=2, ensure_ascii=False)
+    f.write("\n")
+# drop files left over from the old naming (unicode slugs, renamed clubs)
+keep = {x["file"] for x in index} | {"index.json"}
+removed = []
+for fn in sorted(os.listdir(mirror_dir)):
+    if fn.endswith(".json") and fn not in keep:
+        os.remove(os.path.join(mirror_dir, fn))
+        removed.append(fn)
+print("data/ mirror: %d club files, %d stale removed" % (len(index), len(removed)))
+
 # ------------------------------------------------------------------ validate
 r = subprocess.run([sys.executable, VALIDATE, OUT, "--assets", "/tmp/website/public"],
                    capture_output=True, text=True, errors="replace")

@@ -1,0 +1,36 @@
+{
+  "id": "celta-vigo",
+  "team": "Celta Vigo",
+  "sport": "soccer",
+  "league": "la-liga",
+  "country": "Spain",
+  "contact": {
+    "email": "fdpcelta@gmail.com",
+    "contact-form": "https://rccelta.es/aviso-legal/",
+    "x": "@rccelta",
+    "instagram": "@rccelta",
+    "website": "https://rccelta.es"
+  },
+  "sponsors": [
+    {
+      "id": "estrella-galicia",
+      "name": "Estrella Galicia",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "estrella-galicia",
+      "owner": "Hijos de Rivera (Estrella Galicia)",
+      "verdict": null,
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "estrella-galicia"
+  ],
+  "lastUpdated": "2026-09-24"
+}

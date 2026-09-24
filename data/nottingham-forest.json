@@ -1,57 +1,35 @@
 {
+  "id": "nottingham-forest",
   "team": "Nottingham Forest",
   "sport": "soccer",
-  "league": "premier_league",
-  "country": "Unknown",
+  "league": "premier-league",
+  "country": "England",
   "contact": {
-    "phone": "+44 (0)115 967 7000",
-    "email": "info@nottinghamforest.co.uk",
-    "twitter": "@nottinghamforest",
+    "x": "@nffc",
+    "instagram": "@tnfcofficial",
     "website": "https://www.nottinghamforest.co.uk",
-    "fan_email": "supporters@nottinghamforest.co.uk",
-    "complaints": "https://www.nottinghamforest.co.uk/contact",
-    "social_media": {
-      "twitter": "@NFFC",
-      "instagram": "@nottinghamforest",
-      "facebook": "NFFC"
-    }
+    "contact-form": "https://www.nottinghamforest.co.uk/contact"
   },
   "sponsors": [
     {
-      "name": "KashBoy",
-      "type": "company",
-      "category": "shirt_sponsor",
-      "rating": "C",
-      "rating_desc": "Verified \u2014 source attribution",
-      "flags": [],
-      "deal_value": "N/A",
-      "sources": [
-        "Wikipedia"
-      ],
-      "verified": false,
-      "last_updated": "2026-09-24T20:00:00+00:00"
+      "id": "marex",
+      "name": "Marex",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "marex-group-plc",
+      "owner": "Marex Group plc (Nasdaq-listed) — public and former PE sponsors",
+      "verdict": "Owned by Marex Group plc (Nasdaq-listed) — public and former PE sponsors. Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
     }
   ],
-  "shame": {
-    "description": "Contact Nottingham Forest to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@nottingham-forest.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@nottinghamforest",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Evangelos Marinakis"
+  "worstTier": "none",
+  "owners": [
+    "marex-group-plc"
+  ],
+  "lastUpdated": "2026-09-24"
 }

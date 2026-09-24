@@ -1,41 +1,16 @@
 {
+  "id": "new-york-giants",
   "team": "New York Giants",
-  "sport": "american_football",
+  "sport": "american-football",
   "league": "nfl",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (212) 450-2000",
-    "email": "info@giants.com",
-    "twitter": "@newyorkgiants",
-    "website": "https://www.giants.com",
-    "fan_email": "fans@giants.com",
-    "complaints": "https://www.giants.com/contact",
-    "social_media": {
-      "twitter": "@Giants",
-      "instagram": "@giants",
-      "facebook": "NYGiants"
-    }
+    "x": "@giants",
+    "instagram": "@nygiants",
+    "website": "https://www.giants.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact New York Giants to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@new-york-giants.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@newyorkgiants",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

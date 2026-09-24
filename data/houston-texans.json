@@ -1,42 +1,16 @@
 {
+  "id": "houston-texans",
   "team": "Houston Texans",
-  "sport": "american_football",
+  "sport": "american-football",
   "league": "nfl",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (713) 259-4000",
-    "email": "info@houstontexans.com",
-    "twitter": "@houstontexans",
-    "website": "https://www.houstontexans.com",
-    "fan_email": "fans@houstontexans.com",
-    "complaints": "https://www.houstontexans.com/contact",
-    "social_media": {
-      "twitter": "@HoustonTexans",
-      "instagram": "@houstontexans",
-      "facebook": "HoustonTexans"
-    }
+    "x": "@HoustonTexans",
+    "instagram": "@HoustonTexans",
+    "website": "https://www.houstontexans.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Houston Texans to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@houston-texans.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@houstontexans",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T19:46:01.378080+00:00",
-  "owner": "Cal McNair"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

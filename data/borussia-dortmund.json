@@ -1,71 +1,36 @@
 {
+  "id": "borussia-dortmund",
   "team": "Borussia Dortmund",
   "sport": "soccer",
   "league": "bundesliga",
-  "country": "Unknown",
+  "country": "Germany",
   "contact": {
-    "phone": "+49 (0)231 90280",
-    "email": "info@bvb.de",
-    "twitter": "@borussiadortmund",
-    "website": "https://www.bvb.de",
-    "fan_email": "info@bvb.de",
-    "complaints": "https://www.bvb.de/kontakt",
-    "social_media": {
-      "twitter": "@BVB",
-      "instagram": "@bvb09",
-      "facebook": "BVB"
-    }
+    "email": "service@bvb.de",
+    "contact-form": "https://www.bvb.de/de/de/allgemein/impressum.html",
+    "x": "@bvb",
+    "instagram": "@bvb09",
+    "website": "https://www.bvb.de"
   },
   "sponsors": [
     {
-      "name": "| Source\\n",
-      "type": "company",
-      "category": "sponsor",
-      "rating": "D",
-      "rating_desc": "Unverified \u2014 needs review",
-      "flags": [],
-      "deal_value": null,
-      "sources": [
-        "https://en.wikipedia.org/wiki/Borussia_Dortmund"
-      ],
-      "verified": false,
-      "last_updated": "2026-09-24T19:34:41.949878+00:00"
-    },
-    {
-      "name": "Evonik",
-      "type": "company",
-      "category": "shirt_sponsor",
-      "rating": "C",
-      "rating_desc": "Verified \u2014 source attribution",
-      "flags": [],
-      "deal_value": "\u20ac20m/year",
-      "sources": [
-        "Wikipedia"
-      ],
-      "verified": true,
-      "last_updated": "2026-09-24T20:00:00+00:00"
+      "id": "vodafone",
+      "name": "Vodafone",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "vodafone-group-plc",
+      "owner": "Vodafone Group Plc — public shareholders (Niel family now largest holder)",
+      "verdict": "Owned by Vodafone Group Plc — public shareholders (Niel family now largest holder). Nothing found.",
+      "source": {
+        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+        "date": "2026-08-04",
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+      }
     }
   ],
-  "shame": {
-    "description": "Contact Borussia Dortmund to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@borussia-dortmund.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@borussiadortmund",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Reinhard Rauball"
+  "worstTier": "none",
+  "owners": [
+    "vodafone-group-plc"
+  ],
+  "lastUpdated": "2026-09-24"
 }

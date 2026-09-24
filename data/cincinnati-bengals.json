@@ -1,45 +1,16 @@
 {
+  "id": "cincinnati-bengals",
   "team": "Cincinnati Bengals",
-  "sport": "american_football",
+  "sport": "american-football",
   "league": "nfl",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (513) 235-2000",
-    "email": "info@bengals.com",
-    "twitter": "@cincinnatibengals",
-    "website": "https://www.bengals.com",
-    "fan_email": "fans@bengals.com",
-    "complaints": "https://www.bengals.com/contact",
-    "social_media": {
-      "twitter": "@bengals",
-      "instagram": "@bengals",
-      "facebook": "CincinnatiBengals"
-    }
+    "x": "@GeoffHobsonCin",
+    "instagram": "@bengals",
+    "website": "https://www.bengals.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Cincinnati Bengals to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@cincinnati-bengals.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@cincinnatibengals",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Mike Brown",
-  "alternate_owners": [
-    "Carl Lindner III"
-  ]
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

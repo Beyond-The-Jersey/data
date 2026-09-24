@@ -1,41 +1,17 @@
 {
+  "id": "memphis-grizzlies",
   "team": "Memphis Grizzlies",
   "sport": "basketball",
   "league": "nba",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (901) 205-4000",
-    "email": "info@grizz.com",
-    "twitter": "@memphisgrizzlies",
-    "website": "https://www.grizz.com",
-    "fan_email": "fans@grizz.com",
-    "complaints": "https://www.grizz.com/contact",
-    "social_media": {
-      "twitter": "@memgrizz",
-      "instagram": "@memphisgrizzlies",
-      "facebook": "MemphisGrizzlies"
-    }
+    "x": "@memgrizz",
+    "instagram": "@memgrizz",
+    "website": "https://www.grizzlies.com",
+    "contact-form": "https://memphisbasketball.formstack.com/forms/grizzlies_contact_us"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Memphis Grizzlies to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@memphis-grizzlies.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@memphisgrizzlies",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

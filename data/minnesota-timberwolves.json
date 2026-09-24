@@ -1,42 +1,17 @@
 {
+  "id": "minnesota-timberwolves",
   "team": "Minnesota Timberwolves",
   "sport": "basketball",
   "league": "nba",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (612) 303-4000",
-    "email": "info@timberwolves.com",
-    "twitter": "@minnesotatimberwolves",
+    "x": "@timberwolves",
+    "instagram": "@timberwolves",
     "website": "https://www.timberwolves.com",
-    "fan_email": "fans@timberwolves.com",
-    "complaints": "https://www.timberwolves.com/contact",
-    "social_media": {
-      "twitter": "@Timberwolves",
-      "instagram": "@timberwolves",
-      "facebook": "MinnesotaTimberwolves"
-    }
+    "contact-form": "https://www.nba.com/timberwolves/contact"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Minnesota Timberwolves to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@minnesota-timberwolves.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@minnesotatimberwolves",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Perkins Observatory"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

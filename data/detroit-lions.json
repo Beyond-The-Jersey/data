@@ -1,45 +1,16 @@
 {
+  "id": "detroit-lions",
   "team": "Detroit Lions",
-  "sport": "american_football",
+  "sport": "american-football",
   "league": "nfl",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (313) 262-4000",
-    "email": "info@detroitlions.com",
-    "twitter": "@detroitlions",
-    "website": "https://www.detroitlions.com",
-    "fan_email": "fans@detroitlions.com",
-    "complaints": "https://www.detroitlions.com/contact",
-    "social_media": {
-      "twitter": "@DetroitLions",
-      "instagram": "@detroitlions",
-      "facebook": "DetroitLions"
-    }
+    "x": "@Lions",
+    "instagram": "@detroitlionsnfl",
+    "website": "https://www.detroitlions.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Detroit Lions to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@detroit-lions.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@detroitlions",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Sheila Ford Hamp",
-  "alternate_owners": [
-    "Erik Tammer"
-  ]
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

@@ -1,41 +1,19 @@
 {
+  "id": "new-orleans-pelicans",
   "team": "New Orleans Pelicans",
   "sport": "basketball",
   "league": "nba",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (504) 206-2000",
-    "email": "info@pelicans.com",
-    "twitter": "@neworleanspelicans",
-    "website": "https://www.nolapelicans.com",
-    "fan_email": "fans@pelicans.com",
-    "complaints": "https://www.nolapelicans.com/contact",
-    "social_media": {
-      "twitter": "@PelicansNBA",
-      "instagram": "@pelicans",
-      "facebook": "NOPelicans"
-    }
+    "email": "fanexperience@pelicans.com",
+    "phone": "15045254667",
+    "contact-form": "https://www.nba.com/pelicans/contact-us",
+    "x": "@PelicansNBA",
+    "instagram": "@pelicansnba",
+    "website": "https://www.pelicans.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact New Orleans Pelicans to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@new-orleans-pelicans.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@neworleanspelicans",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

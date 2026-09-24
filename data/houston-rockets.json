@@ -1,56 +1,18 @@
 {
+  "id": "houston-rockets",
   "team": "Houston Rockets",
   "sport": "basketball",
   "league": "nba",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (713) 758-4000",
-    "email": "info@rockets.com",
-    "twitter": "@houstonrockets",
-    "website": "https://www.rockets.com",
-    "fan_email": "fans@rockets.com",
-    "complaints": "https://www.rockets.com/contact",
-    "social_media": {
-      "twitter": "@HoustonRockets",
-      "instagram": "@houstonrockets",
-      "facebook": "HoustonRockets"
-    }
+    "website": "https://www.nba.com/rockets/",
+    "phone": "+17136273865",
+    "contact-form": "https://www.toyotacenter.com/connect-with-us/contact-us",
+    "x": "@HoustonRockets",
+    "instagram": "@houstonrockets"
   },
-  "sponsors": [
-    {
-      "name": "Red Bull",
-      "type": "company",
-      "category": "jersey_sponsor",
-      "rating": "C",
-      "rating_desc": "Verified \u2014 source attribution",
-      "flags": [],
-      "deal_value": "N/A",
-      "sources": [
-        "Wikipedia"
-      ],
-      "verified": true,
-      "last_updated": "2026-09-24T20:00:00+00:00"
-    }
-  ],
-  "shame": {
-    "description": "Contact Houston Rockets to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@houston-rockets.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@houstonrockets",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00"
+  "sponsors": [],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

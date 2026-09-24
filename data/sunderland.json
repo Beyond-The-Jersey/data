@@ -1,42 +1,17 @@
 {
+  "id": "sunderland",
   "team": "Sunderland",
   "sport": "soccer",
-  "league": "premier_league",
-  "country": "Unknown",
+  "league": "premier-league",
+  "country": "England",
   "contact": {
-    "phone": "+44 (0)191 551 5000",
-    "email": "info@sunderlandafc.com",
-    "twitter": "@sunderland",
-    "website": "https://www.sunderlandafc.com",
-    "fan_email": "supporters@sunderlandafc.com",
-    "complaints": "https://www.sunderlandafc.com/contact",
-    "social_media": {
-      "twitter": "@SAFC",
-      "instagram": "@safc",
-      "facebook": "SunderlandAFC"
-    }
+    "x": "@sunderlandafc",
+    "instagram": "@sunderlandafc",
+    "website": "https://www.safc.com",
+    "contact-form": "https://www.safc.com/contact"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Sunderland to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@sunderland.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@sunderland",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Ellis Short"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

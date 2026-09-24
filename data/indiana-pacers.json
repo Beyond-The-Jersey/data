@@ -1,41 +1,16 @@
 {
+  "id": "indiana-pacers",
   "team": "Indiana Pacers",
   "sport": "basketball",
   "league": "nba",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (317) 917-2000",
-    "email": "info@pacers.com",
-    "twitter": "@indianapacers",
-    "website": "https://www.pacers.com",
-    "fan_email": "fans@pacers.com",
-    "complaints": "https://www.pacers.com/contact",
-    "social_media": {
-      "twitter": "@Pacers",
-      "instagram": "@pacers",
-      "facebook": "IndianaPacers"
-    }
+    "email": "GuestServices@Pacers.com",
+    "contact-form": "https://www.nba.com/pacers/contact-us-pacers",
+    "website": "https://www.pacers.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Indiana Pacers to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@indiana-pacers.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@indianapacers",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

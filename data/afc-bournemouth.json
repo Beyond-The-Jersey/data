@@ -1,0 +1,35 @@
+{
+  "id": "afc-bournemouth",
+  "team": "AFC Bournemouth",
+  "sport": "soccer",
+  "league": "premier-league",
+  "country": "England",
+  "contact": {
+    "x": "@afcbournemouth",
+    "instagram": "@afcb",
+    "website": "https://www.afcb.co.uk",
+    "contact-form": "https://www.afcb.co.uk/contact"
+  },
+  "sponsors": [
+    {
+      "id": "vitality",
+      "name": "Vitality",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "discovery-limited",
+      "owner": "Discovery Limited (Johannesburg-listed)",
+      "verdict": "Owned by Discovery Limited (Johannesburg-listed). Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "discovery-limited"
+  ],
+  "lastUpdated": "2026-09-24"
+}

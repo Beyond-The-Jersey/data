@@ -1,57 +1,35 @@
 {
+  "id": "brentford",
   "team": "Brentford",
   "sport": "soccer",
-  "league": "premier_league",
-  "country": "Unknown",
+  "league": "premier-league",
+  "country": "England",
   "contact": {
-    "phone": "+44 (0)20 8563 2000",
-    "email": "info@brentfordfc.com",
-    "twitter": "@brentford",
-    "website": "https://www.brentfordfc.com",
-    "fan_email": "supporters@brentfordfc.com",
-    "complaints": "https://www.brentfordfc.com/contact",
-    "social_media": {
-      "twitter": "@BrentfordFC",
-      "instagram": "@brentfordfc",
-      "facebook": "BrentfordFC"
-    }
+    "email": "tickets@brentfordfc.com",
+    "phone": "02088472511",
+    "contact-form": "https://www.brentfordfc.com/en/contact-us",
+    "website": "https://www.brentfordfc.com"
   },
   "sponsors": [
     {
-      "name": "Hollywoodbets",
-      "type": "company",
-      "category": "shirt_sponsor",
-      "rating": "C",
-      "rating_desc": "Verified \u2014 source attribution",
-      "flags": [],
-      "deal_value": "N/A",
-      "sources": [
-        "Wikipedia"
-      ],
-      "verified": false,
-      "last_updated": "2026-09-24T20:00:00+00:00"
+      "id": "indeed",
+      "name": "Indeed",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "recruit-holdings",
+      "owner": "Recruit Holdings",
+      "verdict": "Owned by Recruit Holdings Co., Ltd. (Tokyo-listed). Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
     }
   ],
-  "shame": {
-    "description": "Contact Brentford to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@brentford.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@brentford",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Matthew Benham"
+  "worstTier": "none",
+  "owners": [
+    "recruit-holdings"
+  ],
+  "lastUpdated": "2026-09-24"
 }

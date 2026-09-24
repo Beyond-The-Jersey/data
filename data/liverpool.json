@@ -1,42 +1,51 @@
 {
+  "id": "liverpool",
   "team": "Liverpool",
   "sport": "soccer",
-  "league": "premier_league",
-  "country": "Unknown",
+  "league": "premier-league",
+  "country": "England",
   "contact": {
-    "phone": "+44 (0)151 727 5000",
-    "email": "info@liverpoolfc.com",
-    "twitter": "@liverpool",
+    "x": "@lfc",
+    "instagram": "@liverpoolfc",
     "website": "https://www.liverpoolfc.com",
-    "fan_email": "supporters@liverpoolfc.com",
-    "complaints": "https://www.liverpoolfc.com/contact",
-    "social_media": {
-      "twitter": "@LFC",
-      "instagram": "@liverpoolfc",
-      "facebook": "LiverpoolFC"
-    }
+    "contact-form": "https://www.liverpoolfc.com/info/contact-us"
   },
-  "sponsors": [],
-  "shame": {
-    "description": "Contact Liverpool to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@liverpool.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@liverpool",
-        "label": "Tweet your concern"
+  "sponsors": [
+    {
+      "id": "standard-chartered",
+      "name": "Standard Chartered",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "concern",
+      "ownerId": "standard-chartered-plc",
+      "owner": "Standard Chartered plc",
+      "verdict": "Standard Chartered is a London-headquartered, publicly listed bank with dispersed shareholders and no state or state-fund owner.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
       }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Fenway Sports Group"
+    },
+    {
+      "id": "turkish-airlines",
+      "name": "Turkish Airlines",
+      "placement": "front",
+      "season": null,
+      "tier": "serious",
+      "ownerId": "turkiye-wealth-fund",
+      "owner": "Türkiye Wealth Fund",
+      "verdict": "Turkish Airlines' official shareholding disclosure shows the state's Türkiye Wealth Fund as the largest shareholder with 49.12%, with a Ministry of Treasury and….",
+      "source": {
+        "name": "Footy Headlines",
+        "date": "2026-04",
+        "url": "https://www.footyheadlines.com/2026/04/lfc-new-sponsor.html"
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "standard-chartered-plc",
+    "turkiye-wealth-fund"
+  ],
+  "lastUpdated": "2026-09-24"
 }

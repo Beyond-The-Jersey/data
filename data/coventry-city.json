@@ -1,35 +1,35 @@
 {
+  "id": "coventry-city",
   "team": "Coventry City",
   "sport": "soccer",
-  "league": "premier_league",
-  "country": "Unknown",
+  "league": "premier-league",
+  "country": "England",
   "contact": {
-    "phone": "024 7699 1987",
-    "email": "marketing@coventry-city.com",
-    "twitter": "@coventrycity",
-    "website": "https://www.coventry-city.com"
+    "x": "@coventrycityfc",
+    "instagram": "@coventrycityfc",
+    "website": "https://www.ccfc.co.uk",
+    "contact-form": "https://www.ccfc.co.uk/contact"
   },
-  "sponsors": [],
-  "shame": {
-    "description": "Contact Coventry City to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@coventry-city.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@coventrycity",
-        "label": "Tweet your concern"
+  "sponsors": [
+    {
+      "id": "monzo",
+      "name": "Monzo",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "monzo-bank-limited",
+      "owner": "Monzo Bank Limited (private, VC-backed)",
+      "verdict": "Owned by Monzo Bank Limited (private, VC-backed). Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
       }
-    ]
-  },
-  "last_updated": "2026-09-24T19:45:35.950014+00:00",
-  "owner": "Doug King"
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "monzo-bank-limited"
+  ],
+  "lastUpdated": "2026-09-24"
 }

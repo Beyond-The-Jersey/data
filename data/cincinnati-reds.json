@@ -1,42 +1,16 @@
 {
+  "id": "cincinnati-reds",
   "team": "Cincinnati Reds",
   "sport": "baseball",
   "league": "mlb",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (513) 765-4000",
-    "email": "info@reds.com",
-    "twitter": "@cincinnatireds",
-    "website": "https://www.mlb.com/reds",
-    "fan_email": "fans@reds.com",
-    "complaints": "https://www.mlb.com/reds/contact",
-    "social_media": {
-      "twitter": "@Reds",
-      "instagram": "@reds",
-      "facebook": "CincinnatiReds"
-    }
+    "x": "@Reds",
+    "instagram": "@reds",
+    "website": "https://www.mlb.com/reds"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Cincinnati Reds to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@cincinnati-reds.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@cincinnatireds",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Carl Lindner III"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

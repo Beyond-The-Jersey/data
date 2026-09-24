@@ -1,34 +1,16 @@
 {
+  "id": "st-louis-cardinals",
   "team": "St. Louis Cardinals",
   "sport": "baseball",
   "league": "mlb",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "(314) 345-9000",
-    "email": "marketing@st-louis-cardinals.com",
-    "twitter": "@st.louiscardinals",
-    "website": "https://www.st-louis-cardinals.com"
+    "x": "@Cardinals",
+    "instagram": "@cardinals",
+    "website": "https://www.mlb.com/cardinals"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact St. Louis Cardinals to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@st-louis-cardinals.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@st.louiscardinals",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

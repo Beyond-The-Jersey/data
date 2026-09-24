@@ -1,0 +1,36 @@
+{
+  "id": "sc-freiburg",
+  "team": "SC Freiburg",
+  "sport": "soccer",
+  "league": "bundesliga",
+  "country": "Germany",
+  "contact": {
+    "email": "scf@scfreiburg.com",
+    "phone": "0761385510",
+    "contact-form": "https://www.scfreiburg.com/kontakt",
+    "instagram": "@scfreiburg",
+    "website": "https://www.scfreiburg.com"
+  },
+  "sponsors": [
+    {
+      "id": "lexware",
+      "name": "Lexware",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "lexware-gmbh",
+      "owner": "Lexware (Haufe Group)",
+      "verdict": null,
+      "source": {
+        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+        "date": "2026-08-04",
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "lexware-gmbh"
+  ],
+  "lastUpdated": "2026-09-24"
+}

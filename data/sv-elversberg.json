@@ -1,34 +1,36 @@
 {
+  "id": "sv-elversberg",
   "team": "SV Elversberg",
   "sport": "soccer",
   "league": "bundesliga",
-  "country": "Unknown",
+  "country": "Germany",
   "contact": {
-    "phone": "01806-510023",
-    "email": "marketing@sv-elversberg.com",
-    "twitter": "@svelversberg",
-    "website": "https://www.sv-elversberg.com"
+    "contact-form": "https://sv07elversberg.de/kontakt/",
+    "x": "@SV07Elversberg",
+    "instagram": "@svelversberg",
+    "website": "https://www.sv07elversberg.de",
+    "email": "impressum@sv07elversberg.de"
   },
-  "sponsors": [],
-  "shame": {
-    "description": "Contact SV Elversberg to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@sv-elversberg.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@svelversberg",
-        "label": "Tweet your concern"
+  "sponsors": [
+    {
+      "id": "reuter",
+      "name": "Reuter",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "reuter-gruppe",
+      "owner": "Reuter Gruppe",
+      "verdict": null,
+      "source": {
+        "name": "Football Kit Archive, Bundesliga 2026-27 kits",
+        "date": "2026-09-24",
+        "url": "https://www.footballkitarchive.com/bundesliga-kits-2026-27-l34/"
       }
-    ]
-  },
-  "last_updated": "2026-09-24"
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "reuter-gruppe"
+  ],
+  "lastUpdated": "2026-09-24"
 }

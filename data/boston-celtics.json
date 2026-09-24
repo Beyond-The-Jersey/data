@@ -1,42 +1,17 @@
 {
+  "id": "boston-celtics",
   "team": "Boston Celtics",
   "sport": "basketball",
   "league": "nba",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (617) 580-4000",
-    "email": "info@celtics.com",
-    "twitter": "@bostonceltics",
+    "x": "@celtics",
+    "instagram": "@celtics",
     "website": "https://www.celtics.com",
-    "fan_email": "fans@celtics.com",
-    "complaints": "https://www.celtics.com/contact",
-    "social_media": {
-      "twitter": "@celtics",
-      "instagram": "@celtics",
-      "facebook": "BostonCeltics"
-    }
+    "contact-form": "https://www.nba.com/celtics/fans/contact-us"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Boston Celtics to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@boston-celtics.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@bostonceltics",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Dermot Desmond"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

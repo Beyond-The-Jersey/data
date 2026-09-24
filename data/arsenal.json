@@ -1,68 +1,57 @@
 {
+  "id": "arsenal",
   "team": "Arsenal",
   "sport": "soccer",
-  "league": "premier_league",
-  "country": "Unknown",
+  "league": "premier-league",
+  "country": "England",
   "contact": {
-    "phone": "+44 (0)20 7619 5000",
-    "email": "marketing@arsenal.com",
-    "twitter": "@arsenal",
-    "website": "https://www.arsenal.com",
-    "fan_email": "supporters@arsenal.com",
-    "complaints": "https://www.arsenal.com/contact-us",
-    "social_media": {
-      "twitter": "@Arsenal",
-      "instagram": "@arsenal",
-      "facebook": "Arsenal"
-    }
+    "x": "@Arsenal",
+    "instagram": "@arsenal",
+    "website": "https://www.arsenal.com/the-club/contact-us"
   },
   "sponsors": [
     {
+      "id": "deel",
+      "name": "Deel",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Sporting Goods Intelligence",
+        "date": "2026-08-06",
+        "url": "https://www.sgieurope.com/marketing/emirates-and-arsenal-extend-shirt-deal-to-2033/122576.article"
+      }
+    },
+    {
+      "id": "emirates",
       "name": "Emirates",
-      "type": "company",
-      "category": "shirt_sponsor",
-      "rating": "C",
-      "rating_desc": "Verified \u2014 source attribution",
-      "flags": [
-        "regime:UAE",
-        "authoritarian"
-      ],
-      "deal_value": "\u00a360m/year",
-      "sources": [
-        "Wikipedia"
-      ],
-      "verified": true,
-      "last_updated": "2026-09-24T20:00:00+00:00"
+      "placement": "front",
+      "season": "2017-18",
+      "tier": "serious",
+      "ownerId": "government-of-dubai",
+      "owner": "Government of Dubai",
+      "verdict": "The airline is owned by the Dubai government’s investment arm.",
+      "source": null
+    },
+    {
+      "id": "visit-rwanda",
+      "name": "Visit Rwanda",
+      "placement": "sleeve",
+      "season": "2025-26",
+      "tier": "severe",
+      "ownerId": "government-of-rwanda",
+      "owner": "Government of Rwanda",
+      "verdict": "Paid for by a government that UN experts say has 3,000–4,000 troops fighting alongside M23 rebels in eastern Congo.",
+      "source": null
     }
   ],
-  "shame": {
-    "description": "Contact Arsenal to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@arsenal.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@arsenal",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Kroenke Sports & Entertainment",
-  "alternate_owners": [],
-  "regime_sponsors": [
-    {
-      "name": "Emirates",
-      "regime": "UAE",
-      "regime_type": "authoritarian"
-    }
-  ]
+  "worstTier": "severe",
+  "owners": [
+    "government-of-dubai",
+    "government-of-rwanda"
+  ],
+  "lastUpdated": "2026-09-24"
 }

@@ -1,41 +1,17 @@
 {
+  "id": "portland-trail-blazers",
   "team": "Portland Trail Blazers",
   "sport": "basketball",
   "league": "nba",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (503) 752-4000",
-    "email": "info@trailblazers.com",
-    "twitter": "@portlandtrailblazers",
+    "x": "@trailblazers",
+    "instagram": "@trailblazers",
     "website": "https://www.trailblazers.com",
-    "fan_email": "fans@trailblazers.com",
-    "complaints": "https://www.trailblazers.com/contact",
-    "social_media": {
-      "twitter": "@trailblazers",
-      "instagram": "@trailblazers",
-      "facebook": "PortlandTrailBlazers"
-    }
+    "contact-form": "https://www.nba.com/blazers/contact-us"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Portland Trail Blazers to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@portland-trail-blazers.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@portlandtrailblazers",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

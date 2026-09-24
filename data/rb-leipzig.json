@@ -1,57 +1,35 @@
 {
+  "id": "rb-leipzig",
   "team": "RB Leipzig",
   "sport": "soccer",
   "league": "bundesliga",
-  "country": "Unknown",
+  "country": "Germany",
   "contact": {
-    "phone": "+49 (0)341 960 5000",
-    "email": "info@dierotenbullen.com",
-    "twitter": "@rbleipzig",
-    "website": "https://www.dierotenbullen.com",
-    "fan_email": "info@dierotenbullen.com",
-    "complaints": "https://www.dierotenbullen.com/kontakt",
-    "social_media": {
-      "twitter": "@dieRotenBullen",
-      "instagram": "@dierotenbullen",
-      "facebook": "RBLeipzig"
-    }
+    "x": "@RBLeipzig",
+    "instagram": "@rbleipzig",
+    "website": "https://rbleipzig.com",
+    "contact-form": "https://rbleipzig.com/de/kontakt"
   },
   "sponsors": [
     {
+      "id": "red-bull",
       "name": "Red Bull",
-      "type": "company",
-      "category": "shirt_sponsor",
-      "rating": "C",
-      "rating_desc": "Verified \u2014 source attribution",
-      "flags": [],
-      "deal_value": "N/A",
-      "sources": [
-        "Wikipedia"
-      ],
-      "verified": true,
-      "last_updated": "2026-09-24T20:00:00+00:00"
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "mateschitz-yoovidhya-families",
+      "owner": "Mateschitz family (49%) and Yoovidhya family (51%), via Red Bull GmbH",
+      "verdict": "Owned by Mateschitz family (49%) and Yoovidhya family (51%), via Red Bull GmbH. Nothing found.",
+      "source": {
+        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+        "date": "2026-08-04",
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+      }
     }
   ],
-  "shame": {
-    "description": "Contact RB Leipzig to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@rb-leipzig.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@rbleipzig",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Red Bull GmbH (99%) (of GmbH)"
+  "worstTier": "none",
+  "owners": [
+    "mateschitz-yoovidhya-families"
+  ],
+  "lastUpdated": "2026-09-24"
 }

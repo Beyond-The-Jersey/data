@@ -1,41 +1,16 @@
 {
+  "id": "colorado-rockies",
   "team": "Colorado Rockies",
   "sport": "baseball",
   "league": "mlb",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (303) 292-4000",
-    "email": "info@rockies.com",
-    "twitter": "@coloradorockies",
-    "website": "https://www.mlb.com/rockies",
-    "fan_email": "fans@rockies.com",
-    "complaints": "https://www.mlb.com/rockies/contact",
-    "social_media": {
-      "twitter": "@Rockies",
-      "instagram": "@rockies",
-      "facebook": "ColoradoRockies"
-    }
+    "x": "@Rockies",
+    "instagram": "@rockies",
+    "website": "https://www.mlb.com/rockies"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Colorado Rockies to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@colorado-rockies.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@coloradorockies",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

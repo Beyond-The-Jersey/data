@@ -1,0 +1,35 @@
+{
+  "id": "racing-santander",
+  "team": "Racing Santander",
+  "sport": "soccer",
+  "league": "la-liga",
+  "country": "Spain",
+  "contact": {
+    "contact-form": "https://www.realracingclub.es/contacto",
+    "x": "@realracingclub",
+    "instagram": "@realracingclub",
+    "website": "https://www.realracingclub.es"
+  },
+  "sponsors": [
+    {
+      "id": "plenitude",
+      "name": "Plenitude",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "plenitude-eni",
+      "owner": "Plenitude (Eni)",
+      "verdict": null,
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "plenitude-eni"
+  ],
+  "lastUpdated": "2026-09-24"
+}

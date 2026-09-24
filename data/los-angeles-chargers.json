@@ -1,45 +1,17 @@
 {
+  "id": "los-angeles-chargers",
   "team": "Los Angeles Chargers",
-  "sport": "american_football",
+  "sport": "american-football",
   "league": "nfl",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (310) 469-4000",
-    "email": "info@chargers.com",
-    "twitter": "@losangeleschargers",
-    "website": "https://www.chargers.com",
-    "fan_email": "fans@chargers.com",
-    "complaints": "https://www.chargers.com/contact",
-    "social_media": {
-      "twitter": "@Chargers",
-      "instagram": "@chargers",
-      "facebook": "LAChargers"
-    }
+    "contact-form": "https://www.chargers.com/contact-us/",
+    "x": "@Chargers",
+    "instagram": "@chargers",
+    "website": "https://www.chargers.com"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Los Angeles Chargers to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@los-angeles-chargers.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+1 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@losangeleschargers",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Dean Spanos",
-  "alternate_owners": [
-    "Bennett Rosenthal"
-  ]
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }

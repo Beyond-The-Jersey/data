@@ -1,41 +1,16 @@
 {
+  "id": "kansas-city-royals",
   "team": "Kansas City Royals",
   "sport": "baseball",
   "league": "mlb",
-  "country": "Unknown",
+  "country": "USA",
   "contact": {
-    "phone": "+1 (816) 221-4000",
-    "email": "info@royals.com",
-    "twitter": "@kansascityroyals",
-    "website": "https://www.mlb.com/royals",
-    "fan_email": "fans@royals.com",
-    "complaints": "https://www.mlb.com/royals/contact",
-    "social_media": {
-      "twitter": "@Royals",
-      "instagram": "@royals",
-      "facebook": "KansasCityRoyals"
-    }
+    "x": "@royals",
+    "instagram": "@kcroyals",
+    "website": "https://www.mlb.com/royals"
   },
   "sponsors": [],
-  "shame": {
-    "description": "Contact Kansas City Royals to express discomfort about sponsor ratings",
-    "methods": [
-      {
-        "type": "email",
-        "address": "marketing@kansas-city-royals.com",
-        "label": "Marketing dept"
-      },
-      {
-        "type": "phone",
-        "number": "+44 800 XXX XXXX",
-        "label": "Main line"
-      },
-      {
-        "type": "twitter",
-        "handle": "@kansascityroyals",
-        "label": "Tweet your concern"
-      }
-    ]
-  },
-  "last_updated": "2026-09-24"
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
 }
