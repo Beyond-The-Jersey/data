@@ -2,7 +2,7 @@
   {
     "id": "government-of-rwanda",
     "name": "Government of Rwanda",
-    "type": "state",
+    "type": "government",
     "country": "Rwanda",
     "via": "Rwanda Development Board",
     "parentId": null
@@ -17,17 +17,18 @@
   {
     "id": "government-of-dubai",
     "name": "Government of Dubai",
-    "type": "state",
+    "type": "government",
     "country": "UAE",
     "via": "Investment Corporation of Dubai",
-    "parentId": "uae"
+    "parentId": null,
+    "note": "Via Investment Corporation of Dubai"
   },
   {
     "id": "government-of-abu-dhabi",
     "name": "Government of Abu Dhabi",
-    "type": "state",
+    "type": "government",
     "country": "UAE",
-    "parentId": "uae"
+    "parentId": null
   },
   {
     "id": "saudi-pif",
@@ -40,7 +41,7 @@
   {
     "id": "government-of-saudi-arabia",
     "name": "Government of Saudi Arabia",
-    "type": "state",
+    "type": "government",
     "country": "Saudi Arabia",
     "parentId": null
   },
@@ -61,18 +62,18 @@
   {
     "id": "city-football-group-limited",
     "name": "City Football Group Limited",
-    "type": "unknown",
-    "country": null,
-    "note": null,
+    "type": "private-equity",
+    "country": "UK",
+    "note": "Owned by Sheikh Mansour bin Zayed Al Nahyan (Abu Dhabi)",
     "parentId": null
   },
   {
     "id": "sheikh-abdullah-al-thani",
     "name": "Sheikh Abdullah Al Thani",
-    "type": "unknown",
-    "country": null,
-    "note": null,
-    "parentId": null
+    "type": "individual",
+    "country": "Qatar",
+    "note": "Qatar royal family",
+    "parentId": "government-of-qatar"
   },
   {
     "id": "roland-duch\u00e2telet",
@@ -85,16 +86,16 @@
   {
     "id": "josh-harris",
     "name": "Josh Harris",
-    "type": "unknown",
-    "country": null,
+    "type": "individual",
+    "country": "USA",
     "note": null,
     "parentId": null
   },
   {
     "id": "carlie-irsay-gordon",
     "name": "Carlie Irsay-Gordon",
-    "type": "unknown",
-    "country": null,
+    "type": "individual",
+    "country": "USA",
     "note": null,
     "parentId": null
   },
@@ -109,32 +110,32 @@
   {
     "id": "evangelos-marinakis",
     "name": "Evangelos Marinakis",
-    "type": "unknown",
-    "country": null,
+    "type": "individual",
+    "country": "Greece",
     "note": null,
     "parentId": null
   },
   {
     "id": "blueco",
     "name": "BlueCo",
-    "type": "unknown",
-    "country": null,
+    "type": "private-equity",
+    "country": "UK",
     "note": null,
     "parentId": null
   },
   {
     "id": "george-mccaskey",
     "name": "George McCaskey",
-    "type": "unknown",
-    "country": null,
+    "type": "individual",
+    "country": "USA",
     "note": null,
     "parentId": null
   },
   {
     "id": "jerry-jones",
     "name": "Jerry Jones",
-    "type": "unknown",
-    "country": null,
+    "type": "individual",
+    "country": "USA",
     "note": null,
     "parentId": null
   },
@@ -607,6 +608,14 @@
     "name": "Ra\u00fal Mart\u00edn Presa",
     "type": "unknown",
     "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "government-of-qatar",
+    "name": "Government of Qatar",
+    "type": "government",
+    "country": "Qatar",
     "note": null,
     "parentId": null
   }

@@ -182,7 +182,7 @@
     "lastChecked": "2026-09-24"
   },
   {
-    "clubId": "M\u00e1laga CF",
+    "clubId": "malaga-cf",
     "channels": [
       {
         "type": "email",
@@ -962,7 +962,7 @@
     "lastChecked": "2026-09-24"
   },
   {
-    "clubId": "Deportivo Alav\u00e9s",
+    "clubId": "deportivo-alaves",
     "channels": [
       {
         "type": "email",
@@ -1508,7 +1508,7 @@
     "lastChecked": "2026-09-24"
   },
   {
-    "clubId": "Atl\u00e9tico de Madrid",
+    "clubId": "atletico-de-madrid",
     "channels": [
       {
         "type": "email",
@@ -2860,7 +2860,7 @@
     "lastChecked": "2026-09-24"
   },
   {
-    "clubId": "1. FC K\u00f6ln",
+    "clubId": "fc-koln",
     "channels": [
       {
         "type": "email",
@@ -3250,7 +3250,7 @@
     "lastChecked": "2026-09-24"
   },
   {
-    "clubId": "Borussia M\u00f6nchengladbach",
+    "clubId": "borussia-monchengladbach",
     "channels": [
       {
         "type": "email",
@@ -4011,6 +4011,5132 @@
         "source": {
           "name": "Atletico Madrid website footer",
           "url": "https://en.atleticodemadrid.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "hou-rockets",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@rockets.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (713) 758-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.rockets.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.rockets.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "cleveland-cavaliers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@cavs.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (216) 454-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.cavs.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.cavs.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "cleveland-guardians",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@guardians.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (216) 451-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/guardians",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/guardians",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "ny-giants",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@giants.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (212) 450-2000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.giants.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.giants.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "manchester-city",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@mancity.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+44 (0)161 444 1894",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mancity.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mancity.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "arizona-diamondbacks",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@dbacks.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (623) 433-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/dbacks",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/dbacks",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "athletics",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@athletics.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (510) 224-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/athletics",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/athletics",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "seattle-mariners",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@mariners.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (206) 389-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/mariners",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/mariners",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "athletic-club",
+    "channels": [
+      {
+        "type": "email",
+        "value": "harrera@athletic-club.eus",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+34 944 255 000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.athletic-club.eus",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.athletic-club.eus",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "mia-heat",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@heat.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (305) 517-6000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.heat.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.heat.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "crystal-palace",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@crystalpalacefc.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+44 (0)20 8767 5000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.crystalpalacefc.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.crystalpalacefc.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "ny-jets",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@newyorkjets.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (201) 255-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.newyorkjets.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.newyorkjets.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "new-orleans-pelicans",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@pelicans.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (504) 206-2000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.nolapelicans.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.nolapelicans.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "chi-bulls",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@chicagobulls.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (312) 352-4141",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.chicagobulls.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.chicagobulls.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "dal-mavericks",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@mavs.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (214) 316-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mavs.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mavs.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "cleveland-browns",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@browns.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (216) 451-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.clevelandbrowns.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.clevelandbrowns.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "celta-vigo",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@celtavigo.net",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+34 986 233 000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.celtavigo.net",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.celtavigo.net",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "indianapolis-colts",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@colts.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (317) 224-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.colts.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.colts.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "nottingham-forest",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@nottinghamforest.co.uk",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+44 (0)115 967 7000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.nottinghamforest.co.uk",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.nottinghamforest.co.uk",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "chelsea",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@chelseafc.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+44 (0)20 7864 5000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.chelseafc.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.chelseafc.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "hou-astros",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@astros.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (713) 251-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/astros",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/astros",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "chicago-bears",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@chicagobears.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (312) 222-2200",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.chicagobears.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.chicagobears.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "phoenix-suns",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@suns.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (623) 223-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.suns.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.suns.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "st-louis-cardinals",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@st-louis-cardinals.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "(314) 345-9000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.st-louis-cardinals.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.st-louis-cardinals.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "memphis-grizzlies",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@grizz.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (901) 205-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.grizz.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.grizz.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "sv-elversberg",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@sv-elversberg.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "01806-510023",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.sv-elversberg.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.sv-elversberg.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "kansas-city-royals",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@royals.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (816) 221-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/royals",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/royals",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "dal-cowboys",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@dallascowboys.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (214) 346-2000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.dallascowboys.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.dallascowboys.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "oklahoma-city-thunder",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@okcthunder.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (405) 201-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.okcthunder.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.okcthunder.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "baltimore-orioles",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@orioles.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (410) 259-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/orioles",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/orioles",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "phi-76ers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@sixers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (215) 463-6300",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.sixers.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.sixers.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "la-clippers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@la-clippers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 213 742 7100",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.la-clippers.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.la-clippers.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "tennessee-titans",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@titans.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (615) 256-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.titans.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.titans.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "la-rams",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@therams.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (310) 293-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.therams.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.therams.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "bournemouth",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@afcb.co.uk",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+44 (0)1202 680 600",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.afcb.co.uk",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.afcb.co.uk",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "sacramento-kings",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@kings.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (916) 203-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.nba.com/kings",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.nba.com/kings",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "villarreal",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@villarrealcf.es",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+34 964 468 000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.villarrealcf.es",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.villarrealcf.es",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "brentford",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@brentfordfc.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+44 (0)20 8563 2000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.brentfordfc.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.brentfordfc.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "valencia",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@valenciacf.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+34 963 233 000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.valenciacf.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.valenciacf.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "milwaukee-brewers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@brewers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (414) 902-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/brewers",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/brewers",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "mia-marlins",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@marlins.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (305) 480-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/marlins",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/marlins",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "la-angels",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@angels.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (714) 940-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/angels",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/angels",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "sc-freiburg",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@sport-club-freiburg.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "0761-38551-0",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.sport-club-freiburg.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.sport-club-freiburg.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "boston-celtics",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@celtics.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (617) 580-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.celtics.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.celtics.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "chi-white-sox",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@whitesox.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (312) 674-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/whitesox",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/whitesox",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "sf-49ers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@49ers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (415) 266-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.49ers.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.49ers.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "bayern-munich",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@fcbayern.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+49 (0)89 699 310",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.fcbayern.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.fcbayern.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "milwaukee-bucks",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@bucks.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (414) 221-2400",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.bucks.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.bucks.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "barcelona",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@fcbarcelona.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+34 902 100 100",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.fcbarcelona.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.fcbarcelona.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "buffalo-bills",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@buffalobills.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (716) 636-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.buffalobills.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.buffalobills.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "newcastle-united",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@nufc.co.uk",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+44 (0)191 286 1111",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.nufc.co.uk",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.nufc.co.uk",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "detroit-pistons",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@detroit-pistons.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 313 747-8667",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.detroit-pistons.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.detroit-pistons.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "detroit-tigers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@tigers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (313) 259-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/tigers",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/tigers",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "atlanta-falcons",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@atlantafalcons.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (404) 615-5000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.atlantafalcons.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.atlantafalcons.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "manchester-united",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@manutd.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+44 (0)161 868 8000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.manutd.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.manutd.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "indiana-pacers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@pacers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (317) 917-2000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.pacers.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.pacers.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "orl-magic",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@orlandomagic.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (407) 245-2000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.orlandomagic.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.orlandomagic.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "denver-nuggets",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@nuggets.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (303) 292-2000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.nuggets.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.nuggets.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "utah-jazz",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@utahjazz.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (801) 401-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.nba.com/jazz",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.nba.com/jazz",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "eintracht-frankfurt",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@eintracht.de",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+49 (0)69 3023 0",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.eintracht.de",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.eintracht.de",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "union-berlin",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@1-fc-union-berlin.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+49 30 656688100",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.1-fc-union-berlin.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.1-fc-union-berlin.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "san-diego-padres",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@padres.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (619) 209-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/padres",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/padres",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "cincinnati-reds",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@reds.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (513) 765-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/reds",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/reds",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "cincinnati-bengals",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@bengals.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (513) 235-2000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.bengals.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.bengals.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "ny-yankees",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@yankees.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (212) 259-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/yankees",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/yankees",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "rb-leipzig",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@dierotenbullen.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+49 (0)341 960 5000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.dierotenbullen.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.dierotenbullen.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "denver-broncos",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@denverbroncos.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (303) 247-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.denverbroncos.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.denverbroncos.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "bos-red-sox",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@redsox.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (617) 265-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/redsox",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/redsox",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "la-lakers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@lakers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (310) 204-4300",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.lakers.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.lakers.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "golden-state-warriors",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@warriors.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (415) 221-1717",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.warriors.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.warriors.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "sunderland",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@sunderlandafc.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+44 (0)191 551 5000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.sunderlandafc.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.sunderlandafc.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "ipswich-town",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@itfc.co.uk",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+44 (0)1473 688 300",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.itfc.co.uk",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.itfc.co.uk",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "minnesota-vikings",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@vikings.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (612) 631-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.vikings.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.vikings.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "borussia-dortmund",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@bvb.de",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+49 (0)231 90280",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.bvb.de",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.bvb.de",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "pittsburgh-pirates",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@pirates.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (412) 323-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/pirates",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/pirates",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "new-orleans-saints",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@saints.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (504) 206-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.neworleanssaints.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.neworleanssaints.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "portland-trail-blazers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@trailblazers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (503) 752-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.trailblazers.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.trailblazers.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "minnesota-timberwolves",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@timberwolves.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (612) 303-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.timberwolves.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.timberwolves.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "everton",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@evertonfc.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+44 (0)151 530 5000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.evertonfc.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.evertonfc.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "mia-dolphins",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@dolphins.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (305) 630-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.miamidolphins.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.miamidolphins.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "bayer-leverkusen",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@bayer04.de",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+49 (0)214 235 0",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.bayer04.de",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.bayer04.de",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "ny-mets",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@mets.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (718) 507-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/mets",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/mets",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "chi-cubs",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@cubs.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (773) 404-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/cubs",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/cubs",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "new-england-patriots",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@patriots.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (617) 265-2000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.patriots.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.patriots.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "mainz-05",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@1-fsv-mainz-05.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+49 6131 37550-0",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.1-fsv-mainz-05.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.1-fsv-mainz-05.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "hamburger-sv",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@hamburger-sv.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+49 40 4155-1887",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.hamburger-sv.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.hamburger-sv.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "fulham",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@fulhamfc.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+44 (0)20 8782 1000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.fulhamfc.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.fulhamfc.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "minnesota-twins",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@twins.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (612) 659-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/twins",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/twins",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "fc-augsburg",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@fcaugsburg.de",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+49 (0)821 710 0",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.fcaugsburg.de",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.fcaugsburg.de",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "phi-eagles",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@philadelphiaeagles.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (215) 463-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.philadelphiaeagles.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.philadelphiaeagles.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "washington-commanders",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@commanders.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (202) 270-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.commanders.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.commanders.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "sv-werder-bremen",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@sv-werder-bremen.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+49 421 43 45 90",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.sv-werder-bremen.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.sv-werder-bremen.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "kansas-city-chiefs",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@chiefs.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (816) 224-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.chiefs.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.chiefs.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "sevilla",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@sevillafc.es",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+34 954 283 000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.sevillafc.es",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.sevillafc.es",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "charlotte-hornets",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@hornets.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (704) 432-5000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.hornets.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.hornets.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "wash-nationals",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@nationals.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (202) 251-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/nationals",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/nationals",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "los-angeles-chargers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@chargers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (310) 469-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.chargers.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.chargers.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "sc-paderborn-07",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@sc-paderborn-07.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+49 5251 8771",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.sc-paderborn-07.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.sc-paderborn-07.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "coventry-city",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@coventry-city.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "024 7699 1987",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.coventry-city.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.coventry-city.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "ny-knicks",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@new-york-knicks.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "(212) 465-6471",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.new-york-knicks.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.new-york-knicks.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "colorado-rockies",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@rockies.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (303) 292-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/rockies",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/rockies",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "tor-blue-jays",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@bluejays.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (416) 341-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/bluejays",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/bluejays",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "liverpool",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@liverpoolfc.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+44 (0)151 727 5000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.liverpoolfc.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.liverpoolfc.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "atlanta-hawks",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@atlantahawks.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (404) 224-HOOP",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.atlantahawks.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.atlantahawks.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "tottenham-hotspur",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@tottenhamhotspur.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+44 (0)20 8694 5000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.tottenhamhotspur.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.tottenhamhotspur.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "arizona-cardinals",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@azcardinals.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (480) 224-2900",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.azcardinals.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.azcardinals.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "getafe",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@getafecf.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+34 916 820 000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.getafecf.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.getafecf.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "hull-city",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@hullcitytigers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+44 (0)1482 388 800",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.hullcitytigers.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.hullcitytigers.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "jacksonville-jaguars",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@jaguars.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (904) 633-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.jaguars.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.jaguars.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "pittsburgh-steelers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@steelers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (412) 324-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.steelers.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.steelers.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "tsg-hoffenheim",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@tsg-hoffenheim.de",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+49 (0)6221 960 5000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.tsg-hoffenheim.de",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.tsg-hoffenheim.de",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "leeds-united",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@leedsunited.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+44 (0)113 367 5000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.leedsunited.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.leedsunited.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "carolina-panthers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@panthers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (704) 257-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.panthers.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.panthers.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "sf-giants",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@giants.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (415) 251-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/giants",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/giants",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "texas-rangers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@texasrangers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (817) 265-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/rangers",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/rangers",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "real-sociedad",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@realsociedad.eus",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+34 943 456 000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.realsociedad.eus",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.realsociedad.eus",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "la-dodgers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@los-angeles-dodgers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "323-224-2611",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.los-angeles-dodgers.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.los-angeles-dodgers.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "atlanta-braves",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@braves.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (770) 464-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/braves",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/braves",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "las-vegas-raiders",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@raiders.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (702) 855-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.raiders.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.raiders.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "wash-wizards",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@wizards.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (202) 223-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.wizards.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.wizards.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "real-betis",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@realbetisbalompie.es",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+34 955 238 000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.realbetisbalompie.es",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.realbetisbalompie.es",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "brooklyn-nets",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@brooklynnets.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (718) 745-9000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.brooklynnets.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.brooklynnets.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "green-bay-packers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@packers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (920) 569-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.packers.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.packers.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "sf-spurs",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@spurs.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (210) 455-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.spurs.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.spurs.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "phi-phillies",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@phillies.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (215) 463-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/phillies",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/phillies",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "osasuna",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@osasuna.es",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+34 948 236 000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.caosasuna.es",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.caosasuna.es",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "tor-raptors",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@raptors.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (416) 615-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.raptors.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.raptors.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "baltimore-ravens",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@baltimoreravens.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (410) 224-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.baltimoreravens.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.baltimoreravens.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "detroit-lions",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@detroitlions.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (313) 262-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.detroitlions.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.detroitlions.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "real-madrid",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@realmadrid.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+34 913 980 100",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.realmadrid.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.realmadrid.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "seattle-seahawks",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@seahawks.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (206) 480-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.seahawks.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.seahawks.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "hou-texans",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@houstontexans.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (713) 259-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.houstontexans.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.houstontexans.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "tampa-bay-buccaneers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@buccaneers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (813) 234-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.buccaneers.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.buccaneers.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "vfb-stuttgart",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@vfb.de",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+49 (0)711 766 0",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.vfb.de",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.vfb.de",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "tampa-bay-rays",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@rays.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 (727) 202-4000",
+        "label": "Club phone",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/rays",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/rays",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "girona",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@gironafc.cat",
+        "label": "Club email",
+        "source": {
+          "name": "Girona FC official",
+          "url": "https://www.gironafc.cat/en/club",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "972 202 977",
+        "label": "Club phone",
+        "source": {
+          "name": "Girona FC official",
+          "url": "https://www.gironafc.cat/en/club",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "paris-saint-germain",
+    "channels": [
+      {
+        "type": "email",
+        "value": "contact@psg.fr",
+        "label": "Club email",
+        "source": {
+          "name": "PSG official",
+          "url": "https://www.psg.fr",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+33 1 47 43 70 00",
+        "label": "Club phone",
+        "source": {
+          "name": "PSG official",
+          "url": "https://www.psg.fr",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "leganes",
+    "channels": [
+      {
+        "type": "email",
+        "value": "atencionalabonado@cdleganes.com",
+        "label": "Season ticket holder",
+        "source": {
+          "name": "CD Legan\u00e9s official",
+          "url": "https://www.cdleganes.com/en/club/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+34 916888629",
+        "label": "Club phone",
+        "source": {
+          "name": "CD Legan\u00e9s official",
+          "url": "https://www.cdleganes.com/en/club/contact-us",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "alaves",
+    "channels": [
+      {
+        "type": "email",
+        "value": "deportivoalavessad@alaves.com",
+        "label": "Club email",
+        "source": {
+          "name": "Deportivo Alav\u00e9s official",
+          "url": "https://deportivoalaves.com/contacto",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "945 13 91 91",
+        "label": "Club phone",
+        "source": {
+          "name": "Deportivo Alav\u00e9s official",
+          "url": "https://deportivoalaves.com/contacto",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "brighton-and-hove-albion",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@brightonandhovealbion.com",
+        "label": "Club email",
+        "source": {
+          "name": "Brighton official",
+          "url": "https://www.brightonandhovealbion.com",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+44 1273 600 600",
+        "label": "Club phone",
+        "source": {
+          "name": "Brighton official",
+          "url": "https://www.brightonandhovealbion.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "schalke-04",
+    "channels": [
+      {
+        "type": "email",
+        "value": "post@schalke04.de",
+        "label": "Club email",
+        "source": {
+          "name": "Schalke 04 official",
+          "url": "https://schalke04.de/en/contact/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+49 209 3618 0",
+        "label": "Club phone",
+        "source": {
+          "name": "Schalke 04 official",
+          "url": "https://schalke04.de/en/contact/",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "cadiz",
+    "channels": [
+      {
+        "type": "email",
+        "value": "cadizcf@cadizcf.es",
+        "label": "Club email",
+        "source": {
+          "name": "C\u00e1diz CF official",
+          "url": "https://www.cadizcf.com/datos-generales",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+34 956 07 01 65",
+        "label": "Club phone",
+        "source": {
+          "name": "C\u00e1diz CF official",
+          "url": "https://www.cadizcf.com/datos-generales",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "mallorca",
+    "channels": [
+      {
+        "type": "email",
+        "value": "atencionalabonado@rcdmallorca.es",
+        "label": "Supporter services",
+        "source": {
+          "name": "RCD Mallorca official",
+          "url": "https://www.rcdmallorca.es/en/contacto",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "971 22 12 21",
+        "label": "Club phone",
+        "source": {
+          "name": "RCD Mallorca official",
+          "url": "https://www.rcdmallorca.es/en/contacto",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "granada",
+    "channels": [
+      {
+        "type": "phone",
+        "value": "958 25 33 00",
+        "label": "Club phone",
+        "source": {
+          "name": "Granada CF official",
+          "url": "https://www.granadacf.es/club",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "vfl-wolfsburg",
+    "channels": [
+      {
+        "type": "email",
+        "value": "service@vfl-wolfsburg.de",
+        "label": "Club email",
+        "source": {
+          "name": "VfL Wolfsburg official",
+          "url": "https://www.vfl-wolfsburg.de/en/general/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+49 5361 8903 903",
+        "label": "Club phone",
+        "source": {
+          "name": "VfL Wolfsburg official",
+          "url": "https://www.vfl-wolfsburg.de/en/general/contact",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "las-palmas",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@udlaspalmas.es",
+        "label": "Club email",
+        "source": {
+          "name": "UD Las Palmas official",
+          "url": "https://www.udlaspalmas.es/en/legal-note",
           "date": "2026-09-24"
         }
       }
