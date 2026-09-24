@@ -9,7 +9,22 @@
     "twitter": "@bayernmunich",
     "website": "https://www.bayern-munich.com"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "name": "T-Mobile",
+      "type": "company",
+      "category": "shirt_sponsor",
+      "rating": "C",
+      "rating_desc": "Verified \u2014 source attribution",
+      "flags": [],
+      "deal_value": "\u20ac25m/year",
+      "sources": [
+        "Wikipedia"
+      ],
+      "verified": true,
+      "last_updated": "2026-09-24T20:00:00+00:00"
+    }
+  ],
   "shame": {
     "description": "Contact Bayern Munich to express discomfort about sponsor ratings",
     "methods": [
@@ -30,5 +45,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-24"
+  "last_updated": "2026-09-24T20:00:00+00:00"
 }

@@ -9,7 +9,22 @@
     "twitter": "@newcastleunited",
     "website": "https://www.newcastle-united.com"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "name": "Sela",
+      "type": "company",
+      "category": "shirt_sponsor",
+      "rating": "C",
+      "rating_desc": "Verified \u2014 source attribution",
+      "flags": [],
+      "deal_value": "N/A",
+      "sources": [
+        "Wikipedia"
+      ],
+      "verified": false,
+      "last_updated": "2026-09-24T20:00:00+00:00"
+    }
+  ],
   "shame": {
     "description": "Contact Newcastle United to express discomfort about sponsor ratings",
     "methods": [
@@ -30,5 +45,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-24"
+  "last_updated": "2026-09-24T20:00:00+00:00"
 }

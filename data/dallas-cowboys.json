@@ -9,7 +9,22 @@
     "twitter": "@dallascowboys",
     "website": "https://www.dallas-cowboys.com"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "name": "AT&T",
+      "type": "company",
+      "category": "helmet_sponsor",
+      "rating": "C",
+      "rating_desc": "Verified \u2014 source attribution",
+      "flags": [],
+      "deal_value": "N/A",
+      "sources": [
+        "Wikipedia"
+      ],
+      "verified": true,
+      "last_updated": "2026-09-24T20:00:00+00:00"
+    }
+  ],
   "shame": {
     "description": "Contact Dallas Cowboys to express discomfort about sponsor ratings",
     "methods": [
@@ -30,6 +45,6 @@
       }
     ]
   },
-  "last_updated": "2026-09-24T19:45:36.465835+00:00",
+  "last_updated": "2026-09-24T20:00:00+00:00",
   "owner": "Jerry Jones"
 }

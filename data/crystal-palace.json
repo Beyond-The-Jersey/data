@@ -9,7 +9,22 @@
     "twitter": "@crystalpalace",
     "website": "https://www.crystal-palace.com"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "name": "Krispy Kreme",
+      "type": "company",
+      "category": "shirt_sponsor",
+      "rating": "C",
+      "rating_desc": "Verified \u2014 source attribution",
+      "flags": [],
+      "deal_value": "\u00a38m/year",
+      "sources": [
+        "Wikipedia"
+      ],
+      "verified": true,
+      "last_updated": "2026-09-24T20:00:00+00:00"
+    }
+  ],
   "shame": {
     "description": "Contact Crystal Palace to express discomfort about sponsor ratings",
     "methods": [

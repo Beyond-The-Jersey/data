@@ -37,6 +37,20 @@
       ],
       "verified": false,
       "last_updated": "2026-09-24T20:00:00+00:00"
+    },
+    {
+      "name": "American Express",
+      "type": "company",
+      "category": "shirt_sponsor",
+      "rating": "C",
+      "rating_desc": "Verified \u2014 source attribution",
+      "flags": [],
+      "deal_value": "N/A",
+      "sources": [
+        "Wikipedia"
+      ],
+      "verified": true,
+      "last_updated": "2026-09-24T20:00:00+00:00"
     }
   ],
   "shame": {

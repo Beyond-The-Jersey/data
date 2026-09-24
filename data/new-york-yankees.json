@@ -9,7 +9,22 @@
     "twitter": "@newyorkyankees",
     "website": "https://www.new-york-yankees.com"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "name": "New York Yankees",
+      "type": "company",
+      "category": "jersey_sponsor",
+      "rating": "C",
+      "rating_desc": "Verified \u2014 source attribution",
+      "flags": [],
+      "deal_value": "N/A",
+      "sources": [
+        "Wikipedia"
+      ],
+      "verified": true,
+      "last_updated": "2026-09-24T20:00:00+00:00"
+    }
+  ],
   "shame": {
     "description": "Contact New York Yankees to express discomfort about sponsor ratings",
     "methods": [
@@ -30,5 +45,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-24"
+  "last_updated": "2026-09-24T20:00:00+00:00"
 }

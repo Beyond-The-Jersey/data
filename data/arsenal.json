@@ -9,7 +9,25 @@
     "twitter": "@arsenal",
     "website": "https://www.arsenal.com"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "name": "Emirates",
+      "type": "company",
+      "category": "shirt_sponsor",
+      "rating": "C",
+      "rating_desc": "Verified \u2014 source attribution",
+      "flags": [
+        "regime:UAE",
+        "authoritarian"
+      ],
+      "deal_value": "\u00a360m/year",
+      "sources": [
+        "Wikipedia"
+      ],
+      "verified": true,
+      "last_updated": "2026-09-24T20:00:00+00:00"
+    }
+  ],
   "shame": {
     "description": "Contact Arsenal to express discomfort about sponsor ratings",
     "methods": [
@@ -32,5 +50,12 @@
   },
   "last_updated": "2026-09-24T20:00:00+00:00",
   "owner": "Kroenke Sports & Entertainment",
-  "alternate_owners": []
+  "alternate_owners": [],
+  "regime_sponsors": [
+    {
+      "name": "Emirates",
+      "regime": "UAE",
+      "regime_type": "authoritarian"
+    }
+  ]
 }
