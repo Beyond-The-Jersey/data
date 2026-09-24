@@ -28,17 +28,6 @@
     "crest": "assets/crests/aston-villa.png"
   },
   {
-    "id": "afc-bournemouth",
-    "name": "AFC Bournemouth",
-    "shortName": "Bournemouth",
-    "code": "BOU",
-    "aliases": [],
-    "leagueId": "premier-league",
-    "sportId": "soccer",
-    "country": "England",
-    "crest": "assets/crests/afc-bournemouth.png"
-  },
-  {
     "id": "brentford",
     "name": "Brentford",
     "shortName": "Brentford",
@@ -342,7 +331,7 @@
     "crest": null
   },
   {
-    "id": "Houston Rockets",
+    "id": "hou-rockets",
     "name": "Houston Rockets",
     "shortName": "",
     "code": "",
@@ -353,7 +342,7 @@
     "crest": null
   },
   {
-    "id": "Cleveland Cavaliers",
+    "id": "cleveland-cavaliers",
     "name": "Cleveland Cavaliers",
     "shortName": "",
     "code": "",
@@ -364,7 +353,7 @@
     "crest": null
   },
   {
-    "id": "Cleveland Guardians",
+    "id": "cleveland-guardians",
     "name": "Cleveland Guardians",
     "shortName": "",
     "code": "",
@@ -375,7 +364,7 @@
     "crest": null
   },
   {
-    "id": "New York Giants",
+    "id": "ny-giants",
     "name": "New York Giants",
     "shortName": "",
     "code": "",
@@ -386,18 +375,7 @@
     "crest": null
   },
   {
-    "id": "Manchester City",
-    "name": "Manchester City",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "premier_league",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Arizona Diamondbacks",
+    "id": "arizona-diamondbacks",
     "name": "Arizona Diamondbacks",
     "shortName": "",
     "code": "",
@@ -408,7 +386,7 @@
     "crest": null
   },
   {
-    "id": "Athletics",
+    "id": "athletics",
     "name": "Athletics",
     "shortName": "",
     "code": "",
@@ -419,18 +397,7 @@
     "crest": null
   },
   {
-    "id": "M\u00e1laga CF",
-    "name": "M\u00e1laga CF",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "laliga_easports",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Seattle Mariners",
+    "id": "seattle-mariners",
     "name": "Seattle Mariners",
     "shortName": "",
     "code": "",
@@ -441,18 +408,18 @@
     "crest": null
   },
   {
-    "id": "Athletic Club",
+    "id": "athletic-club",
     "name": "Athletic Club",
     "shortName": "",
     "code": "",
     "aliases": [],
-    "leagueId": "laliga_easports",
+    "leagueId": "la-liga",
     "sportId": "soccer",
     "country": "Unknown",
     "crest": null
   },
   {
-    "id": "Miami Heat",
+    "id": "mia-heat",
     "name": "Miami Heat",
     "shortName": "",
     "code": "",
@@ -463,18 +430,7 @@
     "crest": null
   },
   {
-    "id": "Crystal Palace",
-    "name": "Crystal Palace",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "premier_league",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "New York Jets",
+    "id": "ny-jets",
     "name": "New York Jets",
     "shortName": "",
     "code": "",
@@ -485,7 +441,7 @@
     "crest": null
   },
   {
-    "id": "New Orleans Pelicans",
+    "id": "new-orleans-pelicans",
     "name": "New Orleans Pelicans",
     "shortName": "",
     "code": "",
@@ -496,7 +452,7 @@
     "crest": null
   },
   {
-    "id": "Chicago Bulls",
+    "id": "chi-bulls",
     "name": "Chicago Bulls",
     "shortName": "",
     "code": "",
@@ -507,7 +463,7 @@
     "crest": null
   },
   {
-    "id": "Dallas Mavericks",
+    "id": "dal-mavericks",
     "name": "Dallas Mavericks",
     "shortName": "",
     "code": "",
@@ -518,7 +474,7 @@
     "crest": null
   },
   {
-    "id": "Cleveland Browns",
+    "id": "cleveland-browns",
     "name": "Cleveland Browns",
     "shortName": "",
     "code": "",
@@ -529,18 +485,18 @@
     "crest": null
   },
   {
-    "id": "Celta",
+    "id": "celta-vigo",
     "name": "Celta",
     "shortName": "",
     "code": "",
     "aliases": [],
-    "leagueId": "laliga_easports",
+    "leagueId": "la-liga",
     "sportId": "soccer",
     "country": "Unknown",
     "crest": null
   },
   {
-    "id": "Indianapolis Colts",
+    "id": "indianapolis-colts",
     "name": "Indianapolis Colts",
     "shortName": "",
     "code": "",
@@ -551,40 +507,18 @@
     "crest": null
   },
   {
-    "id": "RC Deportivo",
+    "id": "deportivo-alaves",
     "name": "RC Deportivo",
     "shortName": "",
     "code": "",
     "aliases": [],
-    "leagueId": "laliga_easports",
+    "leagueId": "la-liga",
     "sportId": "soccer",
     "country": "Unknown",
     "crest": null
   },
   {
-    "id": "Nottingham Forest",
-    "name": "Nottingham Forest",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "premier_league",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Chelsea",
-    "name": "Chelsea",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "premier_league",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Houston Astros",
+    "id": "hou-astros",
     "name": "Houston Astros",
     "shortName": "",
     "code": "",
@@ -595,7 +529,7 @@
     "crest": null
   },
   {
-    "id": "Chicago Bears",
+    "id": "chicago-bears",
     "name": "Chicago Bears",
     "shortName": "",
     "code": "",
@@ -606,7 +540,7 @@
     "crest": null
   },
   {
-    "id": "Phoenix Suns",
+    "id": "phoenix-suns",
     "name": "Phoenix Suns",
     "shortName": "",
     "code": "",
@@ -617,7 +551,7 @@
     "crest": null
   },
   {
-    "id": "St. Louis Cardinals",
+    "id": "st-louis-cardinals",
     "name": "St. Louis Cardinals",
     "shortName": "",
     "code": "",
@@ -628,7 +562,7 @@
     "crest": null
   },
   {
-    "id": "Memphis Grizzlies",
+    "id": "memphis-grizzlies",
     "name": "Memphis Grizzlies",
     "shortName": "",
     "code": "",
@@ -639,7 +573,7 @@
     "crest": null
   },
   {
-    "id": "SV Elversberg",
+    "id": "sv-elversberg",
     "name": "SV Elversberg",
     "shortName": "",
     "code": "",
@@ -650,7 +584,7 @@
     "crest": null
   },
   {
-    "id": "Kansas City Royals",
+    "id": "kansas-city-royals",
     "name": "Kansas City Royals",
     "shortName": "",
     "code": "",
@@ -661,7 +595,7 @@
     "crest": null
   },
   {
-    "id": "Dallas Cowboys",
+    "id": "dal-cowboys",
     "name": "Dallas Cowboys",
     "shortName": "",
     "code": "",
@@ -672,7 +606,7 @@
     "crest": null
   },
   {
-    "id": "Oklahoma City Thunder",
+    "id": "oklahoma-city-thunder",
     "name": "Oklahoma City Thunder",
     "shortName": "",
     "code": "",
@@ -683,7 +617,7 @@
     "crest": null
   },
   {
-    "id": "Baltimore Orioles",
+    "id": "baltimore-orioles",
     "name": "Baltimore Orioles",
     "shortName": "",
     "code": "",
@@ -694,7 +628,7 @@
     "crest": null
   },
   {
-    "id": "Philadelphia 76ers",
+    "id": "phi-76ers",
     "name": "Philadelphia 76ers",
     "shortName": "",
     "code": "",
@@ -705,18 +639,7 @@
     "crest": null
   },
   {
-    "id": "LA Clippers",
-    "name": "LA Clippers",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "nba",
-    "sportId": "basketball",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Tennessee Titans",
+    "id": "tennessee-titans",
     "name": "Tennessee Titans",
     "shortName": "",
     "code": "",
@@ -727,40 +650,7 @@
     "crest": null
   },
   {
-    "id": "Los Angeles Rams",
-    "name": "Los Angeles Rams",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "nfl",
-    "sportId": "american_football",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Bournemouth",
-    "name": "Bournemouth",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "premier_league",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Deportivo Alav\u00e9s",
-    "name": "Deportivo Alav\u00e9s",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "laliga_easports",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Sacramento Kings",
+    "id": "sacramento-kings",
     "name": "Sacramento Kings",
     "shortName": "",
     "code": "",
@@ -771,40 +661,29 @@
     "crest": null
   },
   {
-    "id": "Villarreal CF",
+    "id": "villarreal",
     "name": "Villarreal CF",
     "shortName": "",
     "code": "",
     "aliases": [],
-    "leagueId": "laliga_easports",
+    "leagueId": "la-liga",
     "sportId": "soccer",
     "country": "Unknown",
     "crest": null
   },
   {
-    "id": "Brentford",
-    "name": "Brentford",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "premier_league",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Valencia CF",
+    "id": "valencia",
     "name": "Valencia CF",
     "shortName": "",
     "code": "",
     "aliases": [],
-    "leagueId": "laliga_easports",
+    "leagueId": "la-liga",
     "sportId": "soccer",
     "country": "Unknown",
     "crest": null
   },
   {
-    "id": "Milwaukee Brewers",
+    "id": "milwaukee-brewers",
     "name": "Milwaukee Brewers",
     "shortName": "",
     "code": "",
@@ -815,7 +694,7 @@
     "crest": null
   },
   {
-    "id": "Miami Marlins",
+    "id": "mia-marlins",
     "name": "Miami Marlins",
     "shortName": "",
     "code": "",
@@ -826,7 +705,7 @@
     "crest": null
   },
   {
-    "id": "Los Angeles Angels",
+    "id": "la-angels",
     "name": "Los Angeles Angels",
     "shortName": "",
     "code": "",
@@ -837,7 +716,7 @@
     "crest": null
   },
   {
-    "id": "Sport-Club Freiburg",
+    "id": "sc-freiburg",
     "name": "Sport-Club Freiburg",
     "shortName": "",
     "code": "",
@@ -848,7 +727,7 @@
     "crest": null
   },
   {
-    "id": "Boston Celtics",
+    "id": "boston-celtics",
     "name": "Boston Celtics",
     "shortName": "",
     "code": "",
@@ -859,7 +738,7 @@
     "crest": null
   },
   {
-    "id": "Chicago White Sox",
+    "id": "chi-white-sox",
     "name": "Chicago White Sox",
     "shortName": "",
     "code": "",
@@ -870,7 +749,7 @@
     "crest": null
   },
   {
-    "id": "San Francisco 49ers",
+    "id": "sf-49ers",
     "name": "San Francisco 49ers",
     "shortName": "",
     "code": "",
@@ -881,18 +760,7 @@
     "crest": null
   },
   {
-    "id": "Bayern Munich",
-    "name": "Bayern Munich",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "bundesliga",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Milwaukee Bucks",
+    "id": "milwaukee-bucks",
     "name": "Milwaukee Bucks",
     "shortName": "",
     "code": "",
@@ -903,18 +771,18 @@
     "crest": null
   },
   {
-    "id": "FC Barcelona",
+    "id": "barcelona",
     "name": "FC Barcelona",
     "shortName": "",
     "code": "",
     "aliases": [],
-    "leagueId": "laliga_easports",
+    "leagueId": "la-liga",
     "sportId": "soccer",
     "country": "Unknown",
     "crest": null
   },
   {
-    "id": "Buffalo Bills",
+    "id": "buffalo-bills",
     "name": "Buffalo Bills",
     "shortName": "",
     "code": "",
@@ -925,18 +793,7 @@
     "crest": null
   },
   {
-    "id": "Newcastle United",
-    "name": "Newcastle United",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "premier_league",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Detroit Pistons",
+    "id": "detroit-pistons",
     "name": "Detroit Pistons",
     "shortName": "",
     "code": "",
@@ -947,7 +804,7 @@
     "crest": null
   },
   {
-    "id": "Detroit Tigers",
+    "id": "detroit-tigers",
     "name": "Detroit Tigers",
     "shortName": "",
     "code": "",
@@ -958,7 +815,7 @@
     "crest": null
   },
   {
-    "id": "Atlanta Falcons",
+    "id": "atlanta-falcons",
     "name": "Atlanta Falcons",
     "shortName": "",
     "code": "",
@@ -969,29 +826,7 @@
     "crest": null
   },
   {
-    "id": "Manchester United",
-    "name": "Manchester United",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "premier_league",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Atl\u00e9tico de Madrid",
-    "name": "Atl\u00e9tico de Madrid",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "laliga_easports",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Indiana Pacers",
+    "id": "indiana-pacers",
     "name": "Indiana Pacers",
     "shortName": "",
     "code": "",
@@ -1002,7 +837,7 @@
     "crest": null
   },
   {
-    "id": "Orlando Magic",
+    "id": "orl-magic",
     "name": "Orlando Magic",
     "shortName": "",
     "code": "",
@@ -1013,18 +848,7 @@
     "crest": null
   },
   {
-    "id": "Levante UD",
-    "name": "Levante UD",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "laliga_easports",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Denver Nuggets",
+    "id": "denver-nuggets",
     "name": "Denver Nuggets",
     "shortName": "",
     "code": "",
@@ -1035,7 +859,7 @@
     "crest": null
   },
   {
-    "id": "Utah Jazz",
+    "id": "utah-jazz",
     "name": "Utah Jazz",
     "shortName": "",
     "code": "",
@@ -1046,7 +870,7 @@
     "crest": null
   },
   {
-    "id": "Eintracht Frankfurt",
+    "id": "eintracht-frankfurt",
     "name": "Eintracht Frankfurt",
     "shortName": "",
     "code": "",
@@ -1057,7 +881,7 @@
     "crest": null
   },
   {
-    "id": "1. FC Union Berlin",
+    "id": "union-berlin",
     "name": "1. FC Union Berlin",
     "shortName": "",
     "code": "",
@@ -1068,7 +892,7 @@
     "crest": null
   },
   {
-    "id": "San Diego Padres",
+    "id": "san-diego-padres",
     "name": "San Diego Padres",
     "shortName": "",
     "code": "",
@@ -1079,7 +903,7 @@
     "crest": null
   },
   {
-    "id": "Cincinnati Reds",
+    "id": "cincinnati-reds",
     "name": "Cincinnati Reds",
     "shortName": "",
     "code": "",
@@ -1090,7 +914,7 @@
     "crest": null
   },
   {
-    "id": "Cincinnati Bengals",
+    "id": "cincinnati-bengals",
     "name": "Cincinnati Bengals",
     "shortName": "",
     "code": "",
@@ -1101,7 +925,7 @@
     "crest": null
   },
   {
-    "id": "New York Yankees",
+    "id": "ny-yankees",
     "name": "New York Yankees",
     "shortName": "",
     "code": "",
@@ -1112,7 +936,7 @@
     "crest": null
   },
   {
-    "id": "RB Leipzig",
+    "id": "rb-leipzig",
     "name": "RB Leipzig",
     "shortName": "",
     "code": "",
@@ -1123,7 +947,7 @@
     "crest": null
   },
   {
-    "id": "Denver Broncos",
+    "id": "denver-broncos",
     "name": "Denver Broncos",
     "shortName": "",
     "code": "",
@@ -1134,7 +958,7 @@
     "crest": null
   },
   {
-    "id": "Boston Red Sox",
+    "id": "bos-red-sox",
     "name": "Boston Red Sox",
     "shortName": "",
     "code": "",
@@ -1145,7 +969,7 @@
     "crest": null
   },
   {
-    "id": "Los Angeles Lakers",
+    "id": "la-lakers",
     "name": "Los Angeles Lakers",
     "shortName": "",
     "code": "",
@@ -1156,7 +980,7 @@
     "crest": null
   },
   {
-    "id": "Golden State Warriors",
+    "id": "golden-state-warriors",
     "name": "Golden State Warriors",
     "shortName": "",
     "code": "",
@@ -1167,29 +991,7 @@
     "crest": null
   },
   {
-    "id": "Sunderland",
-    "name": "Sunderland",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "premier_league",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Ipswich Town",
-    "name": "Ipswich Town",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "premier_league",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Minnesota Vikings",
+    "id": "minnesota-vikings",
     "name": "Minnesota Vikings",
     "shortName": "",
     "code": "",
@@ -1200,7 +1002,7 @@
     "crest": null
   },
   {
-    "id": "Borussia Dortmund",
+    "id": "borussia-dortmund",
     "name": "Borussia Dortmund",
     "shortName": "",
     "code": "",
@@ -1211,7 +1013,7 @@
     "crest": null
   },
   {
-    "id": "Pittsburgh Pirates",
+    "id": "pittsburgh-pirates",
     "name": "Pittsburgh Pirates",
     "shortName": "",
     "code": "",
@@ -1222,7 +1024,7 @@
     "crest": null
   },
   {
-    "id": "New Orleans Saints",
+    "id": "new-orleans-saints",
     "name": "New Orleans Saints",
     "shortName": "",
     "code": "",
@@ -1233,7 +1035,7 @@
     "crest": null
   },
   {
-    "id": "Portland Trail Blazers",
+    "id": "portland-trail-blazers",
     "name": "Portland Trail Blazers",
     "shortName": "",
     "code": "",
@@ -1244,7 +1046,7 @@
     "crest": null
   },
   {
-    "id": "Minnesota Timberwolves",
+    "id": "minnesota-timberwolves",
     "name": "Minnesota Timberwolves",
     "shortName": "",
     "code": "",
@@ -1255,29 +1057,7 @@
     "crest": null
   },
   {
-    "id": "Everton",
-    "name": "Everton",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "premier_league",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Elche CF",
-    "name": "Elche CF",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "laliga_easports",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Miami Dolphins",
+    "id": "mia-dolphins",
     "name": "Miami Dolphins",
     "shortName": "",
     "code": "",
@@ -1288,7 +1068,7 @@
     "crest": null
   },
   {
-    "id": "Bayer Leverkusen",
+    "id": "bayer-leverkusen",
     "name": "Bayer Leverkusen",
     "shortName": "",
     "code": "",
@@ -1299,7 +1079,7 @@
     "crest": null
   },
   {
-    "id": "New York Mets",
+    "id": "ny-mets",
     "name": "New York Mets",
     "shortName": "",
     "code": "",
@@ -1310,18 +1090,7 @@
     "crest": null
   },
   {
-    "id": "FC Schalke 04",
-    "name": "FC Schalke 04",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "bundesliga",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Chicago Cubs",
+    "id": "chi-cubs",
     "name": "Chicago Cubs",
     "shortName": "",
     "code": "",
@@ -1332,7 +1101,7 @@
     "crest": null
   },
   {
-    "id": "New England Patriots",
+    "id": "new-england-patriots",
     "name": "New England Patriots",
     "shortName": "",
     "code": "",
@@ -1343,7 +1112,7 @@
     "crest": null
   },
   {
-    "id": "1. FSV Mainz 05",
+    "id": "mainz-05",
     "name": "1. FSV Mainz 05",
     "shortName": "",
     "code": "",
@@ -1354,7 +1123,7 @@
     "crest": null
   },
   {
-    "id": "Hamburger SV",
+    "id": "hamburger-sv",
     "name": "Hamburger SV",
     "shortName": "",
     "code": "",
@@ -1365,29 +1134,7 @@
     "crest": null
   },
   {
-    "id": "Fulham",
-    "name": "Fulham",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "premier_league",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Brighton and Hove Albion",
-    "name": "Brighton and Hove Albion",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "premier_league",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Minnesota Twins",
+    "id": "minnesota-twins",
     "name": "Minnesota Twins",
     "shortName": "",
     "code": "",
@@ -1398,7 +1145,7 @@
     "crest": null
   },
   {
-    "id": "FC Augsburg",
+    "id": "fc-augsburg",
     "name": "FC Augsburg",
     "shortName": "",
     "code": "",
@@ -1409,7 +1156,7 @@
     "crest": null
   },
   {
-    "id": "Philadelphia Eagles",
+    "id": "phi-eagles",
     "name": "Philadelphia Eagles",
     "shortName": "",
     "code": "",
@@ -1420,7 +1167,7 @@
     "crest": null
   },
   {
-    "id": "Washington Commanders",
+    "id": "washington-commanders",
     "name": "Washington Commanders",
     "shortName": "",
     "code": "",
@@ -1431,7 +1178,7 @@
     "crest": null
   },
   {
-    "id": "SV Werder Bremen",
+    "id": "sv-werder-bremen",
     "name": "SV Werder Bremen",
     "shortName": "",
     "code": "",
@@ -1442,18 +1189,7 @@
     "crest": null
   },
   {
-    "id": "Aston Villa",
-    "name": "Aston Villa",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "premier_league",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Kansas City Chiefs",
+    "id": "kansas-city-chiefs",
     "name": "Kansas City Chiefs",
     "shortName": "",
     "code": "",
@@ -1464,29 +1200,18 @@
     "crest": null
   },
   {
-    "id": "Sevilla FC",
+    "id": "sevilla",
     "name": "Sevilla FC",
     "shortName": "",
     "code": "",
     "aliases": [],
-    "leagueId": "laliga_easports",
+    "leagueId": "la-liga",
     "sportId": "soccer",
     "country": "Unknown",
     "crest": null
   },
   {
-    "id": "Arsenal",
-    "name": "Arsenal",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "premier_league",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Charlotte Hornets",
+    "id": "charlotte-hornets",
     "name": "Charlotte Hornets",
     "shortName": "",
     "code": "",
@@ -1497,7 +1222,7 @@
     "crest": null
   },
   {
-    "id": "Washington Nationals",
+    "id": "wash-nationals",
     "name": "Washington Nationals",
     "shortName": "",
     "code": "",
@@ -1508,18 +1233,7 @@
     "crest": null
   },
   {
-    "id": "RCD Espanyol de Barcelona",
-    "name": "RCD Espanyol de Barcelona",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "laliga_easports",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Los Angeles Chargers",
+    "id": "los-angeles-chargers",
     "name": "Los Angeles Chargers",
     "shortName": "",
     "code": "",
@@ -1530,7 +1244,7 @@
     "crest": null
   },
   {
-    "id": "SC Paderborn 07",
+    "id": "sc-paderborn-07",
     "name": "SC Paderborn 07",
     "shortName": "",
     "code": "",
@@ -1541,18 +1255,7 @@
     "crest": null
   },
   {
-    "id": "Coventry City",
-    "name": "Coventry City",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "premier_league",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "1. FC K\u00f6ln",
+    "id": "fc-koln",
     "name": "1. FC K\u00f6ln",
     "shortName": "",
     "code": "",
@@ -1563,7 +1266,7 @@
     "crest": null
   },
   {
-    "id": "New York Knicks",
+    "id": "ny-knicks",
     "name": "New York Knicks",
     "shortName": "",
     "code": "",
@@ -1574,7 +1277,7 @@
     "crest": null
   },
   {
-    "id": "Colorado Rockies",
+    "id": "colorado-rockies",
     "name": "Colorado Rockies",
     "shortName": "",
     "code": "",
@@ -1585,7 +1288,7 @@
     "crest": null
   },
   {
-    "id": "Toronto Blue Jays",
+    "id": "tor-blue-jays",
     "name": "Toronto Blue Jays",
     "shortName": "",
     "code": "",
@@ -1596,29 +1299,7 @@
     "crest": null
   },
   {
-    "id": "Liverpool",
-    "name": "Liverpool",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "premier_league",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "R. Racing Club",
-    "name": "R. Racing Club",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "laliga_easports",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Atlanta Hawks",
+    "id": "atlanta-hawks",
     "name": "Atlanta Hawks",
     "shortName": "",
     "code": "",
@@ -1629,18 +1310,7 @@
     "crest": null
   },
   {
-    "id": "Tottenham Hotspur",
-    "name": "Tottenham Hotspur",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "premier_league",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Arizona Cardinals",
+    "id": "arizona-cardinals",
     "name": "Arizona Cardinals",
     "shortName": "",
     "code": "",
@@ -1651,29 +1321,18 @@
     "crest": null
   },
   {
-    "id": "Getafe CF",
+    "id": "getafe",
     "name": "Getafe CF",
     "shortName": "",
     "code": "",
     "aliases": [],
-    "leagueId": "laliga_easports",
+    "leagueId": "la-liga",
     "sportId": "soccer",
     "country": "Unknown",
     "crest": null
   },
   {
-    "id": "Hull City",
-    "name": "Hull City",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "premier_league",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Jacksonville Jaguars",
+    "id": "jacksonville-jaguars",
     "name": "Jacksonville Jaguars",
     "shortName": "",
     "code": "",
@@ -1684,7 +1343,7 @@
     "crest": null
   },
   {
-    "id": "Pittsburgh Steelers",
+    "id": "pittsburgh-steelers",
     "name": "Pittsburgh Steelers",
     "shortName": "",
     "code": "",
@@ -1695,7 +1354,7 @@
     "crest": null
   },
   {
-    "id": "TSG Hoffenheim",
+    "id": "tsg-hoffenheim",
     "name": "TSG Hoffenheim",
     "shortName": "",
     "code": "",
@@ -1706,18 +1365,7 @@
     "crest": null
   },
   {
-    "id": "Leeds United",
-    "name": "Leeds United",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "premier_league",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Borussia M\u00f6nchengladbach",
+    "id": "borussia-monchengladbach",
     "name": "Borussia M\u00f6nchengladbach",
     "shortName": "",
     "code": "",
@@ -1728,7 +1376,7 @@
     "crest": null
   },
   {
-    "id": "Carolina Panthers",
+    "id": "carolina-panthers",
     "name": "Carolina Panthers",
     "shortName": "",
     "code": "",
@@ -1739,7 +1387,7 @@
     "crest": null
   },
   {
-    "id": "San Francisco Giants",
+    "id": "sf-giants",
     "name": "San Francisco Giants",
     "shortName": "",
     "code": "",
@@ -1750,7 +1398,7 @@
     "crest": null
   },
   {
-    "id": "Texas Rangers",
+    "id": "texas-rangers",
     "name": "Texas Rangers",
     "shortName": "",
     "code": "",
@@ -1761,18 +1409,18 @@
     "crest": null
   },
   {
-    "id": "Real Sociedad",
+    "id": "real-sociedad",
     "name": "Real Sociedad",
     "shortName": "",
     "code": "",
     "aliases": [],
-    "leagueId": "laliga_easports",
+    "leagueId": "la-liga",
     "sportId": "soccer",
     "country": "Unknown",
     "crest": null
   },
   {
-    "id": "Los Angeles Dodgers",
+    "id": "la-dodgers",
     "name": "Los Angeles Dodgers",
     "shortName": "",
     "code": "",
@@ -1783,7 +1431,7 @@
     "crest": null
   },
   {
-    "id": "Atlanta Braves",
+    "id": "atlanta-braves",
     "name": "Atlanta Braves",
     "shortName": "",
     "code": "",
@@ -1805,7 +1453,7 @@
     "crest": null
   },
   {
-    "id": "Las Vegas Raiders",
+    "id": "las-vegas-raiders",
     "name": "Las Vegas Raiders",
     "shortName": "",
     "code": "",
@@ -1816,7 +1464,7 @@
     "crest": null
   },
   {
-    "id": "Washington Wizards",
+    "id": "wash-wizards",
     "name": "Washington Wizards",
     "shortName": "",
     "code": "",
@@ -1827,18 +1475,18 @@
     "crest": null
   },
   {
-    "id": "Real Betis",
+    "id": "real-betis",
     "name": "Real Betis",
     "shortName": "",
     "code": "",
     "aliases": [],
-    "leagueId": "laliga_easports",
+    "leagueId": "la-liga",
     "sportId": "soccer",
     "country": "Unknown",
     "crest": null
   },
   {
-    "id": "Brooklyn Nets",
+    "id": "brooklyn-nets",
     "name": "Brooklyn Nets",
     "shortName": "",
     "code": "",
@@ -1849,7 +1497,7 @@
     "crest": null
   },
   {
-    "id": "Green Bay Packers",
+    "id": "green-bay-packers",
     "name": "Green Bay Packers",
     "shortName": "",
     "code": "",
@@ -1860,7 +1508,7 @@
     "crest": null
   },
   {
-    "id": "San Antonio Spurs",
+    "id": "sf-spurs",
     "name": "San Antonio Spurs",
     "shortName": "",
     "code": "",
@@ -1871,7 +1519,7 @@
     "crest": null
   },
   {
-    "id": "Philadelphia Phillies",
+    "id": "phi-phillies",
     "name": "Philadelphia Phillies",
     "shortName": "",
     "code": "",
@@ -1882,18 +1530,18 @@
     "crest": null
   },
   {
-    "id": "CA Osasuna",
+    "id": "osasuna",
     "name": "CA Osasuna",
     "shortName": "",
     "code": "",
     "aliases": [],
-    "leagueId": "laliga_easports",
+    "leagueId": "la-liga",
     "sportId": "soccer",
     "country": "Unknown",
     "crest": null
   },
   {
-    "id": "Toronto Raptors",
+    "id": "tor-raptors",
     "name": "Toronto Raptors",
     "shortName": "",
     "code": "",
@@ -1904,7 +1552,7 @@
     "crest": null
   },
   {
-    "id": "Baltimore Ravens",
+    "id": "baltimore-ravens",
     "name": "Baltimore Ravens",
     "shortName": "",
     "code": "",
@@ -1915,7 +1563,7 @@
     "crest": null
   },
   {
-    "id": "Detroit Lions",
+    "id": "detroit-lions",
     "name": "Detroit Lions",
     "shortName": "",
     "code": "",
@@ -1926,18 +1574,7 @@
     "crest": null
   },
   {
-    "id": "Real Madrid",
-    "name": "Real Madrid",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "laliga_easports",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Seattle Seahawks",
+    "id": "seattle-seahawks",
     "name": "Seattle Seahawks",
     "shortName": "",
     "code": "",
@@ -1948,7 +1585,7 @@
     "crest": null
   },
   {
-    "id": "Houston Texans",
+    "id": "hou-texans",
     "name": "Houston Texans",
     "shortName": "",
     "code": "",
@@ -1959,7 +1596,7 @@
     "crest": null
   },
   {
-    "id": "Tampa Bay Buccaneers",
+    "id": "tampa-bay-buccaneers",
     "name": "Tampa Bay Buccaneers",
     "shortName": "",
     "code": "",
@@ -1970,7 +1607,7 @@
     "crest": null
   },
   {
-    "id": "VfB Stuttgart",
+    "id": "vfb-stuttgart",
     "name": "VfB Stuttgart",
     "shortName": "",
     "code": "",
@@ -1981,18 +1618,7 @@
     "crest": null
   },
   {
-    "id": "Rayo Vallecano",
-    "name": "Rayo Vallecano",
-    "shortName": "",
-    "code": "",
-    "aliases": [],
-    "leagueId": "laliga_easports",
-    "sportId": "soccer",
-    "country": "Unknown",
-    "crest": null
-  },
-  {
-    "id": "Tampa Bay Rays",
+    "id": "tampa-bay-rays",
     "name": "Tampa Bay Rays",
     "shortName": "",
     "code": "",
@@ -2000,6 +1626,109 @@
     "leagueId": "mlb",
     "sportId": "baseball",
     "country": "Unknown",
+    "crest": null
+  },
+  {
+    "id": "granada",
+    "name": "Granada",
+    "shortName": "",
+    "code": "",
+    "aliases": [],
+    "leagueId": "la-liga",
+    "sportId": "soccer",
+    "country": "Spain",
+    "crest": null
+  },
+  {
+    "id": "las-palmas",
+    "name": "Las Palmas",
+    "shortName": "",
+    "code": "",
+    "aliases": [],
+    "leagueId": "la-liga",
+    "sportId": "soccer",
+    "country": "Spain",
+    "crest": null
+  },
+  {
+    "id": "mallorca",
+    "name": "Mallorca",
+    "shortName": "",
+    "code": "",
+    "aliases": [],
+    "leagueId": "la-liga",
+    "sportId": "soccer",
+    "country": "Spain",
+    "crest": null
+  },
+  {
+    "id": "girona",
+    "name": "Girona",
+    "shortName": "",
+    "code": "",
+    "aliases": [],
+    "leagueId": "la-liga",
+    "sportId": "soccer",
+    "country": "Spain",
+    "crest": null
+  },
+  {
+    "id": "leganes",
+    "name": "Leganes",
+    "shortName": "",
+    "code": "",
+    "aliases": [],
+    "leagueId": "la-liga",
+    "sportId": "soccer",
+    "country": "Spain",
+    "crest": null
+  },
+  {
+    "id": "cadiz",
+    "name": "Cadiz",
+    "shortName": "",
+    "code": "",
+    "aliases": [],
+    "leagueId": "la-liga",
+    "sportId": "soccer",
+    "country": "Spain",
+    "crest": null
+  },
+  {
+    "id": "alaves",
+    "name": "Alaves",
+    "shortName": "",
+    "code": "",
+    "aliases": [],
+    "leagueId": "la-liga",
+    "sportId": "soccer",
+    "country": "Spain",
+    "crest": null
+  },
+  {
+    "id": "vfl-wolfsburg",
+    "name": "VfL Wolfsburg",
+    "shortName": "Wolfsburg",
+    "code": "WOB",
+    "aliases": [
+      "wolfsburg"
+    ],
+    "leagueId": "bundesliga",
+    "sportId": "soccer",
+    "country": "Germany",
+    "crest": null
+  },
+  {
+    "id": "bournemouth",
+    "name": "Bournemouth",
+    "shortName": "Bournemouth",
+    "code": "BOU",
+    "aliases": [
+      "afc-bournemouth"
+    ],
+    "leagueId": "premier-league",
+    "sportId": "soccer",
+    "country": "England",
     "crest": null
   }
 ]

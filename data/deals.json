@@ -868,5 +868,97 @@
     },
     "source": "Wikipedia",
     "note": null
+  },
+  {
+    "id": "tottenham-kraken",
+    "clubId": "tottenham-hotspur",
+    "orgName": null,
+    "sponsorId": "kraken",
+    "placement": "sleeve",
+    "from": "2026-27",
+    "to": null,
+    "value": {
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "per": null,
+      "upTo": false,
+      "usdApprox": null
+    },
+    "source": {
+      "name": "SportsPro",
+      "date": "2026-06",
+      "url": "https://www.sportspro.com/news/sponsorship-marketing/fifa-world-cup-2026-kraken-ab-inbev-sponsorships-june-2026/"
+    },
+    "note": "Kraken replaced Cinch as Spurs sleeve sponsor"
+  },
+  {
+    "id": "aston-villa-betano",
+    "clubId": "aston-villa",
+    "orgName": null,
+    "sponsorId": "betano",
+    "placement": "sleeve",
+    "from": "2024-25",
+    "to": "2026-27",
+    "value": {
+      "amount": null,
+      "currency": null,
+      "unit": null,
+      "per": null,
+      "upTo": false,
+      "usdApprox": null
+    },
+    "source": {
+      "name": "Aston Villa",
+      "date": "2026-07-23",
+      "url": "https://www.instagram.com/reel/DbI8EhZNDKk/"
+    },
+    "note": "Three-year extension"
+  },
+  {
+    "id": "aston-villa-trade-nation",
+    "clubId": "aston-villa",
+    "orgName": null,
+    "sponsorId": "trade-nation",
+    "placement": "sleeve",
+    "from": "2024-25",
+    "to": "2025-26",
+    "value": {
+      "amount": 2,
+      "currency": "GBP",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": 2.7
+    },
+    "source": {
+      "name": "Daily Mail",
+      "date": "2023-08",
+      "url": null
+    },
+    "note": "\u00a32m per year"
+  },
+  {
+    "id": "liverpool-standard-chartered",
+    "clubId": "liverpool",
+    "orgName": null,
+    "sponsorId": "standard-chartered",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": {
+      "amount": 50,
+      "currency": "GBP",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": 67
+    },
+    "source": {
+      "name": "SportsPro",
+      "date": "2026-09",
+      "url": null
+    },
+    "note": "17-year partnership, current deal"
   }
 ]

@@ -1199,5 +1199,2821 @@
     ],
     "sponsorsComplete": false,
     "summary": null
+  },
+  {
+    "id": "athletic-club-2026-27-home",
+    "clubId": "athletic-club",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "celta-vigo-2026-27-home",
+    "clubId": "celta-vigo",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "deportivo-alaves-2026-27-home",
+    "clubId": "deportivo-alaves",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "villarreal-2026-27-home",
+    "clubId": "villarreal",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "valencia-2026-27-home",
+    "clubId": "valencia",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "barcelona-2026-27-home",
+    "clubId": "barcelona",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "sevilla-2026-27-home",
+    "clubId": "sevilla",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "getafe-2026-27-home",
+    "clubId": "getafe",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "real-sociedad-2026-27-home",
+    "clubId": "real-sociedad",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "real-betis-2026-27-home",
+    "clubId": "real-betis",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "osasuna-2026-27-home",
+    "clubId": "osasuna",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "granada-2026-27-home",
+    "clubId": "granada",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "las-palmas-2026-27-home",
+    "clubId": "las-palmas",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "mallorca-2026-27-home",
+    "clubId": "mallorca",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "girona-2026-27-home",
+    "clubId": "girona",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "leganes-2026-27-home",
+    "clubId": "leganes",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "cadiz-2026-27-home",
+    "clubId": "cadiz",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "alaves-2026-27-home",
+    "clubId": "alaves",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "bayern-munich-2026-27-home",
+    "clubId": "bayern-munich",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "sv-elversberg-2026-27-home",
+    "clubId": "sv-elversberg",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "sc-freiburg-2026-27-home",
+    "clubId": "sc-freiburg",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "eintracht-frankfurt-2026-27-home",
+    "clubId": "eintracht-frankfurt",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "union-berlin-2026-27-home",
+    "clubId": "union-berlin",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "rb-leipzig-2026-27-home",
+    "clubId": "rb-leipzig",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "borussia-dortmund-2026-27-home",
+    "clubId": "borussia-dortmund",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "bayer-leverkusen-2026-27-home",
+    "clubId": "bayer-leverkusen",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "mainz-05-2026-27-home",
+    "clubId": "mainz-05",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "hamburger-sv-2026-27-home",
+    "clubId": "hamburger-sv",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "fc-augsburg-2026-27-home",
+    "clubId": "fc-augsburg",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "sv-werder-bremen-2026-27-home",
+    "clubId": "sv-werder-bremen",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "sc-paderborn-07-2026-27-home",
+    "clubId": "sc-paderborn-07",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "fc-koln-2026-27-home",
+    "clubId": "fc-koln",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "tsg-hoffenheim-2026-27-home",
+    "clubId": "tsg-hoffenheim",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "borussia-monchengladbach-2026-27-home",
+    "clubId": "borussia-monchengladbach",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "vfb-stuttgart-2026-27-home",
+    "clubId": "vfb-stuttgart",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "vfl-wolfsburg-2026-27-home",
+    "clubId": "vfl-wolfsburg",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "la-clippers-2026-home",
+    "clubId": "la-clippers",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "la-rams-2026-home",
+    "clubId": "la-rams",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "hou-rockets-2026-home",
+    "clubId": "hou-rockets",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "cleveland-cavaliers-2026-home",
+    "clubId": "cleveland-cavaliers",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "cleveland-guardians-2026-home",
+    "clubId": "cleveland-guardians",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "ny-giants-2026-home",
+    "clubId": "ny-giants",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "arizona-diamondbacks-2026-home",
+    "clubId": "arizona-diamondbacks",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "athletics-2026-home",
+    "clubId": "athletics",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "seattle-mariners-2026-home",
+    "clubId": "seattle-mariners",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "mia-heat-2026-home",
+    "clubId": "mia-heat",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "ny-jets-2026-home",
+    "clubId": "ny-jets",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "new-orleans-pelicans-2026-home",
+    "clubId": "new-orleans-pelicans",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "chi-bulls-2026-home",
+    "clubId": "chi-bulls",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "dal-mavericks-2026-home",
+    "clubId": "dal-mavericks",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "cleveland-browns-2026-home",
+    "clubId": "cleveland-browns",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "indianapolis-colts-2026-home",
+    "clubId": "indianapolis-colts",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "hou-astros-2026-home",
+    "clubId": "hou-astros",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "chicago-bears-2026-home",
+    "clubId": "chicago-bears",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "phoenix-suns-2026-home",
+    "clubId": "phoenix-suns",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "st-louis-cardinals-2026-home",
+    "clubId": "st-louis-cardinals",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "memphis-grizzlies-2026-home",
+    "clubId": "memphis-grizzlies",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "kansas-city-royals-2026-home",
+    "clubId": "kansas-city-royals",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "dal-cowboys-2026-home",
+    "clubId": "dal-cowboys",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "oklahoma-city-thunder-2026-home",
+    "clubId": "oklahoma-city-thunder",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "baltimore-orioles-2026-home",
+    "clubId": "baltimore-orioles",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "phi-76ers-2026-home",
+    "clubId": "phi-76ers",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "tennessee-titans-2026-home",
+    "clubId": "tennessee-titans",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "sacramento-kings-2026-home",
+    "clubId": "sacramento-kings",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "milwaukee-brewers-2026-home",
+    "clubId": "milwaukee-brewers",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "mia-marlins-2026-home",
+    "clubId": "mia-marlins",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "la-angels-2026-home",
+    "clubId": "la-angels",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "boston-celtics-2026-home",
+    "clubId": "boston-celtics",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "chi-white-sox-2026-home",
+    "clubId": "chi-white-sox",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "sf-49ers-2026-home",
+    "clubId": "sf-49ers",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "milwaukee-bucks-2026-home",
+    "clubId": "milwaukee-bucks",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "buffalo-bills-2026-home",
+    "clubId": "buffalo-bills",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "detroit-pistons-2026-home",
+    "clubId": "detroit-pistons",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "detroit-tigers-2026-home",
+    "clubId": "detroit-tigers",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "atlanta-falcons-2026-home",
+    "clubId": "atlanta-falcons",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "indiana-pacers-2026-home",
+    "clubId": "indiana-pacers",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "orl-magic-2026-home",
+    "clubId": "orl-magic",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "denver-nuggets-2026-home",
+    "clubId": "denver-nuggets",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "utah-jazz-2026-home",
+    "clubId": "utah-jazz",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "san-diego-padres-2026-home",
+    "clubId": "san-diego-padres",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "cincinnati-reds-2026-home",
+    "clubId": "cincinnati-reds",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "cincinnati-bengals-2026-home",
+    "clubId": "cincinnati-bengals",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "ny-yankees-2026-home",
+    "clubId": "ny-yankees",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "denver-broncos-2026-home",
+    "clubId": "denver-broncos",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "bos-red-sox-2026-home",
+    "clubId": "bos-red-sox",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "la-lakers-2026-home",
+    "clubId": "la-lakers",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "golden-state-warriors-2026-home",
+    "clubId": "golden-state-warriors",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "minnesota-vikings-2026-home",
+    "clubId": "minnesota-vikings",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "pittsburgh-pirates-2026-home",
+    "clubId": "pittsburgh-pirates",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "new-orleans-saints-2026-home",
+    "clubId": "new-orleans-saints",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "portland-trail-blazers-2026-home",
+    "clubId": "portland-trail-blazers",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "minnesota-timberwolves-2026-home",
+    "clubId": "minnesota-timberwolves",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "mia-dolphins-2026-home",
+    "clubId": "mia-dolphins",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "ny-mets-2026-home",
+    "clubId": "ny-mets",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "chi-cubs-2026-home",
+    "clubId": "chi-cubs",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "new-england-patriots-2026-home",
+    "clubId": "new-england-patriots",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "minnesota-twins-2026-home",
+    "clubId": "minnesota-twins",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "phi-eagles-2026-home",
+    "clubId": "phi-eagles",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "washington-commanders-2026-home",
+    "clubId": "washington-commanders",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "kansas-city-chiefs-2026-home",
+    "clubId": "kansas-city-chiefs",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "charlotte-hornets-2026-home",
+    "clubId": "charlotte-hornets",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "wash-nationals-2026-home",
+    "clubId": "wash-nationals",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "los-angeles-chargers-2026-home",
+    "clubId": "los-angeles-chargers",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "ny-knicks-2026-home",
+    "clubId": "ny-knicks",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "colorado-rockies-2026-home",
+    "clubId": "colorado-rockies",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "tor-blue-jays-2026-home",
+    "clubId": "tor-blue-jays",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "atlanta-hawks-2026-home",
+    "clubId": "atlanta-hawks",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "arizona-cardinals-2026-home",
+    "clubId": "arizona-cardinals",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "jacksonville-jaguars-2026-home",
+    "clubId": "jacksonville-jaguars",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "pittsburgh-steelers-2026-home",
+    "clubId": "pittsburgh-steelers",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "carolina-panthers-2026-home",
+    "clubId": "carolina-panthers",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "sf-giants-2026-home",
+    "clubId": "sf-giants",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "texas-rangers-2026-home",
+    "clubId": "texas-rangers",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "la-dodgers-2026-home",
+    "clubId": "la-dodgers",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "atlanta-braves-2026-home",
+    "clubId": "atlanta-braves",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "las-vegas-raiders-2026-home",
+    "clubId": "las-vegas-raiders",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "wash-wizards-2026-home",
+    "clubId": "wash-wizards",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "brooklyn-nets-2026-home",
+    "clubId": "brooklyn-nets",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "green-bay-packers-2026-home",
+    "clubId": "green-bay-packers",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "sf-spurs-2026-home",
+    "clubId": "sf-spurs",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "phi-phillies-2026-home",
+    "clubId": "phi-phillies",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "tor-raptors-2026-home",
+    "clubId": "tor-raptors",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "baltimore-ravens-2026-home",
+    "clubId": "baltimore-ravens",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "detroit-lions-2026-home",
+    "clubId": "detroit-lions",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "seattle-seahawks-2026-home",
+    "clubId": "seattle-seahawks",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "hou-texans-2026-home",
+    "clubId": "hou-texans",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "tampa-bay-buccaneers-2026-home",
+    "clubId": "tampa-bay-buccaneers",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
+  },
+  {
+    "id": "tampa-bay-rays-2026-home",
+    "clubId": "tampa-bay-rays",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {
+      "front": null,
+      "back": null
+    },
+    "sponsors": [
+      {
+        "sponsorId": "unrated",
+        "placement": "front",
+        "source": null
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": null
   }
 ]
