@@ -4,10 +4,17 @@
   "league": "Premier League",
   "country": "England",
   "contact": {
-    "phone": "+44 800 ...",
-    "email": "marketing@manutd.com",
+    "phone": "+44 (0)161 868 8000",
+    "email": "info@manutd.com",
     "twitter": "@ManUtd",
-    "website": "https://www.manutd.com"
+    "website": "https://www.manutd.com",
+    "fan_email": "supporters@manutd.com",
+    "complaints": "https://www.manutd.com/contact",
+    "social_media": {
+      "twitter": "@ManUtd",
+      "instagram": "@manchesterunited",
+      "facebook": "ManUtd"
+    }
   },
   "sponsors": [
     {
@@ -16,7 +23,9 @@
       "category": "technology",
       "rating": "C",
       "rating_desc": "Mixed / some concerns",
-      "flags": ["Russia operations post-2022"],
+      "flags": [
+        "Russia operations post-2022"
+      ],
       "deal_value": null,
       "sources": [
         "https://www.manutd.com/en/information/sponsors",
@@ -44,9 +53,21 @@
   "shame": {
     "description": "Contact the team to express discomfort about sponsor ratings",
     "methods": [
-      {"type": "email", "address": "marketing@manutd.com", "label": "Marketing dept"},
-      {"type": "phone", "number": "+44 800 ...", "label": "Main line"},
-      {"type": "twitter", "handle": "@ManUtd", "label": "Tweet your concern"}
+      {
+        "type": "email",
+        "address": "marketing@manutd.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 ...",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@ManUtd",
+        "label": "Tweet your concern"
+      }
     ]
   },
   "last_updated": "2026-09-22",

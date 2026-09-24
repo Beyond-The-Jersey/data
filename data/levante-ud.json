@@ -4,10 +4,17 @@
   "league": "laliga_easports",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@levante-ud.com",
+    "phone": "+34 963 633 000",
+    "email": "info@levanteud.com",
     "twitter": "@levanteud",
-    "website": "https://www.levante-ud.com"
+    "website": "https://www.levanteud.com",
+    "fan_email": "aficionados@levanteud.com",
+    "complaints": "https://www.levanteud.com/contacto",
+    "social_media": {
+      "twitter": "@LevanteUD",
+      "instagram": "@levanteud",
+      "facebook": "LevanteUD"
+    }
   },
   "sponsors": [],
   "shame": {

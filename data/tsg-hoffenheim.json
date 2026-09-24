@@ -4,10 +4,17 @@
   "league": "bundesliga",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@tsg-hoffenheim.com",
+    "phone": "+49 (0)6221 960 5000",
+    "email": "info@tsg-hoffenheim.de",
     "twitter": "@tsghoffenheim",
-    "website": "https://www.tsg-hoffenheim.com"
+    "website": "https://www.tsg-hoffenheim.de",
+    "fan_email": "info@tsg-hoffenheim.de",
+    "complaints": "https://www.tsg-hoffenheim.de/kontakt",
+    "social_media": {
+      "twitter": "@TSG1899Hoffenheim",
+      "instagram": "@tsg_hoffenheim",
+      "facebook": "TSGHoffenheim"
+    }
   },
   "sponsors": [],
   "shame": {

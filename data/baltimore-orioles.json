@@ -4,10 +4,17 @@
   "league": "mlb",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@baltimore-orioles.com",
+    "phone": "+1 (410) 259-4000",
+    "email": "info@orioles.com",
     "twitter": "@baltimoreorioles",
-    "website": "https://www.baltimore-orioles.com"
+    "website": "https://www.mlb.com/orioles",
+    "fan_email": "fans@orioles.com",
+    "complaints": "https://www.mlb.com/orioles/contact",
+    "social_media": {
+      "twitter": "@Orioles",
+      "instagram": "@orioles",
+      "facebook": "BaltimoreOrioles"
+    }
   },
   "sponsors": [],
   "shame": {

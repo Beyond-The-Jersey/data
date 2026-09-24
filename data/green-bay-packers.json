@@ -4,10 +4,17 @@
   "league": "nfl",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@green-bay-packers.com",
+    "phone": "+1 (920) 569-4000",
+    "email": "info@packers.com",
     "twitter": "@greenbaypackers",
-    "website": "https://www.green-bay-packers.com"
+    "website": "https://www.packers.com",
+    "fan_email": "fans@packers.com",
+    "complaints": "https://www.packers.com/contact",
+    "social_media": {
+      "twitter": "@Packers",
+      "instagram": "@packers",
+      "facebook": "GreenBayPackers"
+    }
   },
   "sponsors": [],
   "shame": {

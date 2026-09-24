@@ -4,10 +4,17 @@
   "league": "premier_league",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@tottenham-hotspur.com",
+    "phone": "+44 (0)20 8694 5000",
+    "email": "info@tottenhamhotspur.com",
     "twitter": "@tottenhamhotspur",
-    "website": "https://www.tottenham-hotspur.com"
+    "website": "https://www.tottenhamhotspur.com",
+    "fan_email": "supporters@tottenhamhotspur.com",
+    "complaints": "https://www.tottenhamhotspur.com/contact",
+    "social_media": {
+      "twitter": "@SpursOfficial",
+      "instagram": "@spursofficial",
+      "facebook": "SpursOfficial"
+    }
   },
   "sponsors": [],
   "shame": {

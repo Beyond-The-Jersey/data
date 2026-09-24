@@ -4,10 +4,17 @@
   "league": "nfl",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@chicago-bears.com",
+    "phone": "+1 (312) 222-2200",
+    "email": "info@chicagobears.com",
     "twitter": "@chicagobears",
-    "website": "https://www.chicago-bears.com"
+    "website": "https://www.chicagobears.com",
+    "fan_email": "fans@chicagobears.com",
+    "complaints": "https://www.chicagobears.com/contact",
+    "social_media": {
+      "twitter": "@ChicagoBears",
+      "instagram": "@chicagobears",
+      "facebook": "ChicagoBears"
+    }
   },
   "sponsors": [],
   "shame": {

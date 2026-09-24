@@ -4,10 +4,17 @@
   "league": "nba",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@oklahoma-city-thunder.com",
+    "phone": "+1 (405) 201-4000",
+    "email": "info@okcthunder.com",
     "twitter": "@oklahomacitythunder",
-    "website": "https://www.oklahoma-city-thunder.com"
+    "website": "https://www.okcthunder.com",
+    "fan_email": "fans@okcthunder.com",
+    "complaints": "https://www.okcthunder.com/contact",
+    "social_media": {
+      "twitter": "@okcthunder",
+      "instagram": "@okcthunder",
+      "facebook": "OKCThunder"
+    }
   },
   "sponsors": [],
   "shame": {

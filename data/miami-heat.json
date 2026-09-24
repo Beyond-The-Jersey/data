@@ -4,10 +4,17 @@
   "league": "nba",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@miami-heat.com",
+    "phone": "+1 (305) 517-6000",
+    "email": "info@heat.com",
     "twitter": "@miamiheat",
-    "website": "https://www.miami-heat.com"
+    "website": "https://www.heat.com",
+    "fan_email": "fans@heat.com",
+    "complaints": "https://www.heat.com/contact",
+    "social_media": {
+      "twitter": "@MiamiHEAT",
+      "instagram": "@miamiheat",
+      "facebook": "MiamiHEAT"
+    }
   },
   "sponsors": [],
   "shame": {

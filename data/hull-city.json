@@ -4,10 +4,17 @@
   "league": "premier_league",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@hull-city.com",
+    "phone": "+44 (0)1482 388 800",
+    "email": "info@hullcitytigers.com",
     "twitter": "@hullcity",
-    "website": "https://www.hull-city.com"
+    "website": "https://www.hullcitytigers.com",
+    "fan_email": "supporters@hullcitytigers.com",
+    "complaints": "https://www.hullcitytigers.com/contact",
+    "social_media": {
+      "twitter": "@HullCity",
+      "instagram": "@hullcity",
+      "facebook": "HullCityTigers"
+    }
   },
   "sponsors": [],
   "shame": {

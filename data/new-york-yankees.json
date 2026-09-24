@@ -4,10 +4,17 @@
   "league": "mlb",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@new-york-yankees.com",
+    "phone": "+1 (212) 259-4000",
+    "email": "info@yankees.com",
     "twitter": "@newyorkyankees",
-    "website": "https://www.new-york-yankees.com"
+    "website": "https://www.mlb.com/yankees",
+    "fan_email": "fans@yankees.com",
+    "complaints": "https://www.mlb.com/yankees/contact",
+    "social_media": {
+      "twitter": "@Yankees",
+      "instagram": "@yankees",
+      "facebook": "NYYankees"
+    }
   },
   "sponsors": [
     {

@@ -4,10 +4,17 @@
   "league": "mlb",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@san-diego-padres.com",
+    "phone": "+1 (619) 209-4000",
+    "email": "info@padres.com",
     "twitter": "@sandiegopadres",
-    "website": "https://www.san-diego-padres.com"
+    "website": "https://www.mlb.com/padres",
+    "fan_email": "fans@padres.com",
+    "complaints": "https://www.mlb.com/padres/contact",
+    "social_media": {
+      "twitter": "@Padres",
+      "instagram": "@padres",
+      "facebook": "SanDiegoPadres"
+    }
   },
   "sponsors": [],
   "shame": {

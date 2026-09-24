@@ -4,10 +4,17 @@
   "league": "premier_league",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@nottingham-forest.com",
+    "phone": "+44 (0)115 967 7000",
+    "email": "info@nottinghamforest.co.uk",
     "twitter": "@nottinghamforest",
-    "website": "https://www.nottingham-forest.com"
+    "website": "https://www.nottinghamforest.co.uk",
+    "fan_email": "supporters@nottinghamforest.co.uk",
+    "complaints": "https://www.nottinghamforest.co.uk/contact",
+    "social_media": {
+      "twitter": "@NFFC",
+      "instagram": "@nottinghamforest",
+      "facebook": "NFFC"
+    }
   },
   "sponsors": [
     {

@@ -4,10 +4,17 @@
   "league": "bundesliga",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@rb-leipzig.com",
+    "phone": "+49 (0)341 960 5000",
+    "email": "info@dierotenbullen.com",
     "twitter": "@rbleipzig",
-    "website": "https://www.rb-leipzig.com"
+    "website": "https://www.dierotenbullen.com",
+    "fan_email": "info@dierotenbullen.com",
+    "complaints": "https://www.dierotenbullen.com/kontakt",
+    "social_media": {
+      "twitter": "@dieRotenBullen",
+      "instagram": "@dierotenbullen",
+      "facebook": "RBLeipzig"
+    }
   },
   "sponsors": [
     {

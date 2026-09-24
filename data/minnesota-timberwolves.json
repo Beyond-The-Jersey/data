@@ -4,10 +4,17 @@
   "league": "nba",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@minnesota-timberwolves.com",
+    "phone": "+1 (612) 303-4000",
+    "email": "info@timberwolves.com",
     "twitter": "@minnesotatimberwolves",
-    "website": "https://www.minnesota-timberwolves.com"
+    "website": "https://www.timberwolves.com",
+    "fan_email": "fans@timberwolves.com",
+    "complaints": "https://www.timberwolves.com/contact",
+    "social_media": {
+      "twitter": "@Timberwolves",
+      "instagram": "@timberwolves",
+      "facebook": "MinnesotaTimberwolves"
+    }
   },
   "sponsors": [],
   "shame": {

@@ -4,10 +4,17 @@
   "league": "nfl",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@dallas-cowboys.com",
+    "phone": "+1 (214) 346-2000",
+    "email": "info@dallascowboys.com",
     "twitter": "@dallascowboys",
-    "website": "https://www.dallas-cowboys.com"
+    "website": "https://www.dallascowboys.com",
+    "fan_email": "fans@dallascowboys.com",
+    "complaints": "https://www.dallascowboys.com/contact",
+    "social_media": {
+      "twitter": "@dallascowboys",
+      "instagram": "@dallascowboys",
+      "facebook": "DallasCowboys"
+    }
   },
   "sponsors": [
     {

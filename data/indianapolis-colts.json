@@ -4,10 +4,17 @@
   "league": "nfl",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@indianapolis-colts.com",
+    "phone": "+1 (317) 224-4000",
+    "email": "info@colts.com",
     "twitter": "@indianapoliscolts",
-    "website": "https://www.indianapolis-colts.com"
+    "website": "https://www.colts.com",
+    "fan_email": "fans@colts.com",
+    "complaints": "https://www.colts.com/contact",
+    "social_media": {
+      "twitter": "@Colts",
+      "instagram": "@colts",
+      "facebook": "IndianapolisColts"
+    }
   },
   "sponsors": [],
   "shame": {

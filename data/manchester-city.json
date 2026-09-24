@@ -4,10 +4,17 @@
   "league": "premier_league",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@manchester-city.com",
+    "phone": "+44 (0)161 444 1894",
+    "email": "info@mancity.com",
     "twitter": "@manchestercity",
-    "website": "https://www.manchester-city.com"
+    "website": "https://www.mancity.com",
+    "fan_email": "supporters@mancity.com",
+    "complaints": "https://www.mancity.com/contact",
+    "social_media": {
+      "twitter": "@ManCity",
+      "instagram": "@mancity",
+      "facebook": "ManCity"
+    }
   },
   "sponsors": [],
   "shame": {

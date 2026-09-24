@@ -4,10 +4,17 @@
   "league": "bundesliga",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@eintracht-frankfurt.com",
+    "phone": "+49 (0)69 3023 0",
+    "email": "info@eintracht.de",
     "twitter": "@eintrachtfrankfurt",
-    "website": "https://www.eintracht-frankfurt.com"
+    "website": "https://www.eintracht.de",
+    "fan_email": "info@eintracht.de",
+    "complaints": "https://www.eintracht.de/kontakt",
+    "social_media": {
+      "twitter": "@Eintracht",
+      "instagram": "@eintracht Frankfurt",
+      "facebook": "EintrachtFrankfurt"
+    }
   },
   "sponsors": [],
   "shame": {

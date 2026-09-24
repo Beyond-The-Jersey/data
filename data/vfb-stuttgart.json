@@ -4,10 +4,17 @@
   "league": "bundesliga",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@vfb-stuttgart.com",
+    "phone": "+49 (0)711 766 0",
+    "email": "info@vfb.de",
     "twitter": "@vfbstuttgart",
-    "website": "https://www.vfb-stuttgart.com"
+    "website": "https://www.vfb.de",
+    "fan_email": "info@vfb.de",
+    "complaints": "https://www.vfb.de/kontakt",
+    "social_media": {
+      "twitter": "@VfB_Stuttgart",
+      "instagram": "@vfb_stuttgart",
+      "facebook": "VfBStuttgart"
+    }
   },
   "sponsors": [],
   "shame": {

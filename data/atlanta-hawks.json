@@ -4,10 +4,17 @@
   "league": "nba",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@atlanta-hawks.com",
+    "phone": "+1 (404) 224-HOOP",
+    "email": "info@atlantahawks.com",
     "twitter": "@atlantahawks",
-    "website": "https://www.atlanta-hawks.com"
+    "website": "https://www.atlantahawks.com",
+    "fan_email": "fans@atlantahawks.com",
+    "complaints": "https://www.atlantahawks.com/contact",
+    "social_media": {
+      "twitter": "@ATLHawks",
+      "instagram": "@atlantahawks",
+      "facebook": "AtlantaHawks"
+    }
   },
   "sponsors": [],
   "shame": {

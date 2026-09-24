@@ -4,10 +4,17 @@
   "league": "nfl",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@las-vegas-raiders.com",
+    "phone": "+1 (702) 855-4000",
+    "email": "info@raiders.com",
     "twitter": "@lasvegasraiders",
-    "website": "https://www.las-vegas-raiders.com"
+    "website": "https://www.raiders.com",
+    "fan_email": "fans@raiders.com",
+    "complaints": "https://www.raiders.com/contact",
+    "social_media": {
+      "twitter": "@Raiders",
+      "instagram": "@raiders",
+      "facebook": "LasVegasRaiders"
+    }
   },
   "sponsors": [],
   "shame": {

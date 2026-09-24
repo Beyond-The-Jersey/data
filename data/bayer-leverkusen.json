@@ -4,10 +4,17 @@
   "league": "bundesliga",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@bayer-leverkusen.com",
+    "phone": "+49 (0)214 235 0",
+    "email": "info@bayer04.de",
     "twitter": "@bayerleverkusen",
-    "website": "https://www.bayer-leverkusen.com"
+    "website": "https://www.bayer04.de",
+    "fan_email": "info@bayer04.de",
+    "complaints": "https://www.bayer04.de/kontakt",
+    "social_media": {
+      "twitter": "@bayer04fussball",
+      "instagram": "@bayer04fussball",
+      "facebook": "Bayer04"
+    }
   },
   "sponsors": [],
   "shame": {

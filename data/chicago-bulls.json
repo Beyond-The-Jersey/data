@@ -4,10 +4,17 @@
   "league": "nba",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@chicago-bulls.com",
+    "phone": "+1 (312) 352-4141",
+    "email": "info@chicagobulls.com",
     "twitter": "@chicagobulls",
-    "website": "https://www.chicago-bulls.com"
+    "website": "https://www.chicagobulls.com",
+    "fan_email": "fans@chicagobulls.com",
+    "complaints": "https://www.chicagobulls.com/contact",
+    "social_media": {
+      "twitter": "@chicagobulls",
+      "instagram": "@chicagobulls",
+      "facebook": "ChicagoBulls"
+    }
   },
   "sponsors": [],
   "shame": {

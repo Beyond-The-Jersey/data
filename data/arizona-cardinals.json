@@ -4,10 +4,17 @@
   "league": "nfl",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@arizona-cardinals.com",
+    "phone": "+1 (480) 224-2900",
+    "email": "info@azcardinals.com",
     "twitter": "@arizonacardinals",
-    "website": "https://www.arizona-cardinals.com"
+    "website": "https://www.azcardinals.com",
+    "fan_email": "fans@azcardinals.com",
+    "complaints": "https://www.azcardinals.com/contact",
+    "social_media": {
+      "twitter": "@AZCardinals",
+      "instagram": "@azcardinals",
+      "facebook": "AZCardinals"
+    }
   },
   "sponsors": [],
   "shame": {

@@ -4,10 +4,17 @@
   "league": "bundesliga",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@fc-augsburg.com",
+    "phone": "+49 (0)821 710 0",
+    "email": "info@fcaugsburg.de",
     "twitter": "@fcaugsburg",
-    "website": "https://www.fc-augsburg.com"
+    "website": "https://www.fcaugsburg.de",
+    "fan_email": "info@fcaugsburg.de",
+    "complaints": "https://www.fcaugsburg.de/kontakt",
+    "social_media": {
+      "twitter": "@FCA",
+      "instagram": "@fcaugsburg",
+      "facebook": "FCA"
+    }
   },
   "sponsors": [],
   "shame": {

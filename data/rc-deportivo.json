@@ -4,10 +4,17 @@
   "league": "laliga_easports",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@rc-deportivo.com",
+    "phone": "+34 981 286 000",
+    "email": "info@deportivo.es",
     "twitter": "@rcdeportivo",
-    "website": "https://www.rc-deportivo.com"
+    "website": "https://www.deportivo.es",
+    "fan_email": "socios@deportivo.es",
+    "complaints": "https://www.deportivo.es/contacto",
+    "social_media": {
+      "twitter": "@RCDeportivo",
+      "instagram": "@rcdeportivo",
+      "facebook": "RCDeportivo"
+    }
   },
   "sponsors": [],
   "shame": {

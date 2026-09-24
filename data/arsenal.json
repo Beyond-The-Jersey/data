@@ -4,10 +4,17 @@
   "league": "premier_league",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
+    "phone": "+44 (0)20 7619 5000",
     "email": "marketing@arsenal.com",
     "twitter": "@arsenal",
-    "website": "https://www.arsenal.com"
+    "website": "https://www.arsenal.com",
+    "fan_email": "supporters@arsenal.com",
+    "complaints": "https://www.arsenal.com/contact-us",
+    "social_media": {
+      "twitter": "@Arsenal",
+      "instagram": "@arsenal",
+      "facebook": "Arsenal"
+    }
   },
   "sponsors": [
     {

@@ -4,10 +4,17 @@
   "league": "premier_league",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@everton.com",
+    "phone": "+44 (0)151 530 5000",
+    "email": "info@evertonfc.com",
     "twitter": "@everton",
-    "website": "https://www.everton.com"
+    "website": "https://www.evertonfc.com",
+    "fan_email": "supporters@evertonfc.com",
+    "complaints": "https://www.evertonfc.com/contact",
+    "social_media": {
+      "twitter": "@Everton",
+      "instagram": "@evertonfc",
+      "facebook": "Everton"
+    }
   },
   "sponsors": [
     {

@@ -4,10 +4,17 @@
   "league": "nfl",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@cincinnati-bengals.com",
+    "phone": "+1 (513) 235-2000",
+    "email": "info@bengals.com",
     "twitter": "@cincinnatibengals",
-    "website": "https://www.cincinnati-bengals.com"
+    "website": "https://www.bengals.com",
+    "fan_email": "fans@bengals.com",
+    "complaints": "https://www.bengals.com/contact",
+    "social_media": {
+      "twitter": "@bengals",
+      "instagram": "@bengals",
+      "facebook": "CincinnatiBengals"
+    }
   },
   "sponsors": [],
   "shame": {

@@ -4,10 +4,17 @@
   "league": "mlb",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@cincinnati-reds.com",
+    "phone": "+1 (513) 765-4000",
+    "email": "info@reds.com",
     "twitter": "@cincinnatireds",
-    "website": "https://www.cincinnati-reds.com"
+    "website": "https://www.mlb.com/reds",
+    "fan_email": "fans@reds.com",
+    "complaints": "https://www.mlb.com/reds/contact",
+    "social_media": {
+      "twitter": "@Reds",
+      "instagram": "@reds",
+      "facebook": "CincinnatiReds"
+    }
   },
   "sponsors": [],
   "shame": {

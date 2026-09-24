@@ -4,10 +4,17 @@
   "league": "nfl",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@tennessee-titans.com",
+    "phone": "+1 (615) 256-4000",
+    "email": "info@titans.com",
     "twitter": "@tennesseetitans",
-    "website": "https://www.tennessee-titans.com"
+    "website": "https://www.titans.com",
+    "fan_email": "fans@titans.com",
+    "complaints": "https://www.titans.com/contact",
+    "social_media": {
+      "twitter": "@Titans",
+      "instagram": "@titans",
+      "facebook": "TennesseeTitans"
+    }
   },
   "sponsors": [],
   "shame": {

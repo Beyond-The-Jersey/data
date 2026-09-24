@@ -4,10 +4,17 @@
   "league": "premier_league",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@fulham.com",
+    "phone": "+44 (0)20 8782 1000",
+    "email": "info@fulhamfc.com",
     "twitter": "@fulham",
-    "website": "https://www.fulham.com"
+    "website": "https://www.fulhamfc.com",
+    "fan_email": "supporters@fulhamfc.com",
+    "complaints": "https://www.fulhamfc.com/contact",
+    "social_media": {
+      "twitter": "@FulhamFC",
+      "instagram": "@fulhamfc",
+      "facebook": "FulhamFC"
+    }
   },
   "sponsors": [
     {

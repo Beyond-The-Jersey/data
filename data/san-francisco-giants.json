@@ -4,10 +4,17 @@
   "league": "mlb",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@san-francisco-giants.com",
+    "phone": "+1 (415) 251-4000",
+    "email": "info@giants.com",
     "twitter": "@sanfranciscogiants",
-    "website": "https://www.san-francisco-giants.com"
+    "website": "https://www.mlb.com/giants",
+    "fan_email": "fans@giants.com",
+    "complaints": "https://www.mlb.com/giants/contact",
+    "social_media": {
+      "twitter": "@SFGiants",
+      "instagram": "@sfgiants",
+      "facebook": "SFGiants"
+    }
   },
   "sponsors": [],
   "shame": {

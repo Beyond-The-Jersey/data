@@ -4,10 +4,17 @@
   "league": "laliga_easports",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@athletic-club.com",
+    "phone": "+34 944 255 000",
+    "email": "harrera@athletic-club.eus",
     "twitter": "@athleticclub",
-    "website": "https://www.athletic-club.com"
+    "website": "https://www.athletic-club.eus",
+    "fan_email": "harrera@athletic-club.eus",
+    "complaints": "https://www.athletic-club.eus/contacto",
+    "social_media": {
+      "twitter": "@AthleticClub",
+      "instagram": "@athleticclub",
+      "facebook": "AthleticClub"
+    }
   },
   "sponsors": [
     {

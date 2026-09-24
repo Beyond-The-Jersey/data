@@ -4,10 +4,17 @@
   "league": "nfl",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@new-york-jets.com",
+    "phone": "+1 (201) 255-4000",
+    "email": "info@newyorkjets.com",
     "twitter": "@newyorkjets",
-    "website": "https://www.new-york-jets.com"
+    "website": "https://www.newyorkjets.com",
+    "fan_email": "fans@newyorkjets.com",
+    "complaints": "https://www.newyorkjets.com/contact",
+    "social_media": {
+      "twitter": "@nyjets",
+      "instagram": "@nyjets",
+      "facebook": "NYJets"
+    }
   },
   "sponsors": [],
   "shame": {

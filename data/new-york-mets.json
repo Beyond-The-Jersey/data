@@ -4,10 +4,17 @@
   "league": "mlb",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@new-york-mets.com",
+    "phone": "+1 (718) 507-4000",
+    "email": "info@mets.com",
     "twitter": "@newyorkmets",
-    "website": "https://www.new-york-mets.com"
+    "website": "https://www.mlb.com/mets",
+    "fan_email": "fans@mets.com",
+    "complaints": "https://www.mlb.com/mets/contact",
+    "social_media": {
+      "twitter": "@Mets",
+      "instagram": "@mets",
+      "facebook": "NYMets"
+    }
   },
   "sponsors": [],
   "shame": {

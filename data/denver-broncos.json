@@ -4,10 +4,17 @@
   "league": "nfl",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@denver-broncos.com",
+    "phone": "+1 (303) 247-4000",
+    "email": "info@denverbroncos.com",
     "twitter": "@denverbroncos",
-    "website": "https://www.denver-broncos.com"
+    "website": "https://www.denverbroncos.com",
+    "fan_email": "fans@denverbroncos.com",
+    "complaints": "https://www.denverbroncos.com/contact",
+    "social_media": {
+      "twitter": "@DenverBroncos",
+      "instagram": "@denverbroncos",
+      "facebook": "DenverBroncos"
+    }
   },
   "sponsors": [],
   "shame": {

@@ -4,10 +4,17 @@
   "league": "mlb",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@washington-nationals.com",
+    "phone": "+1 (202) 251-4000",
+    "email": "info@nationals.com",
     "twitter": "@washingtonnationals",
-    "website": "https://www.washington-nationals.com"
+    "website": "https://www.mlb.com/nationals",
+    "fan_email": "fans@nationals.com",
+    "complaints": "https://www.mlb.com/nationals/contact",
+    "social_media": {
+      "twitter": "@Nationals",
+      "instagram": "@nationals",
+      "facebook": "WashingtonNationals"
+    }
   },
   "sponsors": [],
   "shame": {

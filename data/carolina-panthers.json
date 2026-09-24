@@ -4,10 +4,17 @@
   "league": "nfl",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@carolina-panthers.com",
+    "phone": "+1 (704) 257-4000",
+    "email": "info@panthers.com",
     "twitter": "@carolinapanthers",
-    "website": "https://www.carolina-panthers.com"
+    "website": "https://www.panthers.com",
+    "fan_email": "fans@panthers.com",
+    "complaints": "https://www.panthers.com/contact",
+    "social_media": {
+      "twitter": "@Panthers",
+      "instagram": "@panthers",
+      "facebook": "CarolinaPanthers"
+    }
   },
   "sponsors": [],
   "shame": {

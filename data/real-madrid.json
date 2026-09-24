@@ -4,10 +4,17 @@
   "league": "laliga_easports",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@real-madrid.com",
+    "phone": "+34 913 980 100",
+    "email": "info@realmadrid.com",
     "twitter": "@realmadrid",
-    "website": "https://www.real-madrid.com"
+    "website": "https://www.realmadrid.com",
+    "fan_email": "socios@realmadrid.com",
+    "complaints": "https://www.realmadrid.com/contacto",
+    "social_media": {
+      "twitter": "@realmadrid",
+      "instagram": "@realmadrid",
+      "facebook": "RealMadrid"
+    }
   },
   "sponsors": [
     {

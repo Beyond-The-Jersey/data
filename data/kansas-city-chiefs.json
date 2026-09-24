@@ -4,10 +4,17 @@
   "league": "nfl",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@kansas-city-chiefs.com",
+    "phone": "+1 (816) 224-4000",
+    "email": "info@chiefs.com",
     "twitter": "@kansascitychiefs",
-    "website": "https://www.kansas-city-chiefs.com"
+    "website": "https://www.chiefs.com",
+    "fan_email": "fans@chiefs.com",
+    "complaints": "https://www.chiefs.com/contact",
+    "social_media": {
+      "twitter": "@KansasCityChiefs",
+      "instagram": "@chiefs",
+      "facebook": "KansasCityChiefs"
+    }
   },
   "sponsors": [],
   "shame": {

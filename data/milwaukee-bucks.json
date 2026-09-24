@@ -4,10 +4,17 @@
   "league": "nba",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@milwaukee-bucks.com",
+    "phone": "+1 (414) 221-2400",
+    "email": "info@bucks.com",
     "twitter": "@milwaukeebucks",
-    "website": "https://www.milwaukee-bucks.com"
+    "website": "https://www.bucks.com",
+    "fan_email": "fans@bucks.com",
+    "complaints": "https://www.bucks.com/contact",
+    "social_media": {
+      "twitter": "@Bucks",
+      "instagram": "@bucks",
+      "facebook": "MilwaukeeBucks"
+    }
   },
   "sponsors": [],
   "shame": {

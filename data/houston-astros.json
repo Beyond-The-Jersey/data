@@ -4,10 +4,17 @@
   "league": "mlb",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@houston-astros.com",
+    "phone": "+1 (713) 251-4000",
+    "email": "info@astros.com",
     "twitter": "@houstonastros",
-    "website": "https://www.houston-astros.com"
+    "website": "https://www.mlb.com/astros",
+    "fan_email": "fans@astros.com",
+    "complaints": "https://www.mlb.com/astros/contact",
+    "social_media": {
+      "twitter": "@astros",
+      "instagram": "@astros",
+      "facebook": "HoustonAstros"
+    }
   },
   "sponsors": [],
   "shame": {

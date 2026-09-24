@@ -4,10 +4,17 @@
   "league": "laliga_easports",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@rcd-espanyol-de-barcelona.com",
+    "phone": "+34 934 963 000",
+    "email": "info@rcdespanyol.com",
     "twitter": "@rcdespanyoldebarcelona",
-    "website": "https://www.rcd-espanyol-de-barcelona.com"
+    "website": "https://www.rcdespanyol.com",
+    "fan_email": "socis@rcdespanyol.com",
+    "complaints": "https://www.rcdespanyol.com/contacto",
+    "social_media": {
+      "twitter": "@RCDEspanyol",
+      "instagram": "@rcdespanyol",
+      "facebook": "RCDEspanyol"
+    }
   },
   "sponsors": [],
   "shame": {

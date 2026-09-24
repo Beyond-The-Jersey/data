@@ -4,10 +4,17 @@
   "league": "premier_league",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@crystal-palace.com",
+    "phone": "+44 (0)20 8767 5000",
+    "email": "info@crystalpalacefc.com",
     "twitter": "@crystalpalace",
-    "website": "https://www.crystal-palace.com"
+    "website": "https://www.crystalpalacefc.com",
+    "fan_email": "supporters@crystalpalacefc.com",
+    "complaints": "https://www.crystalpalacefc.com/contact",
+    "social_media": {
+      "twitter": "@CPFC",
+      "instagram": "@cpfc",
+      "facebook": "CrystalPalaceFC"
+    }
   },
   "sponsors": [
     {

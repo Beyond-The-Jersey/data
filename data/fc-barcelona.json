@@ -4,10 +4,17 @@
   "league": "laliga_easports",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@fc-barcelona.com",
+    "phone": "+34 902 100 100",
+    "email": "info@fcbarcelona.com",
     "twitter": "@fcbarcelona",
-    "website": "https://www.fc-barcelona.com"
+    "website": "https://www.fcbarcelona.com",
+    "fan_email": "socis@fcbarcelona.com",
+    "complaints": "https://www.fcbarcelona.com/contacto",
+    "social_media": {
+      "twitter": "@FCBarcelona",
+      "instagram": "@fcbarcelona",
+      "facebook": "FCBarcelona"
+    }
   },
   "sponsors": [
     {

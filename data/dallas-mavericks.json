@@ -4,10 +4,17 @@
   "league": "nba",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@dallas-mavericks.com",
+    "phone": "+1 (214) 316-4000",
+    "email": "info@mavs.com",
     "twitter": "@dallasmavericks",
-    "website": "https://www.dallas-mavericks.com"
+    "website": "https://www.mavs.com",
+    "fan_email": "fans@mavs.com",
+    "complaints": "https://www.mavs.com/contact",
+    "social_media": {
+      "twitter": "@dallasmavericks",
+      "instagram": "@dallasmavericks",
+      "facebook": "DallasMavericks"
+    }
   },
   "sponsors": [],
   "shame": {

@@ -4,10 +4,17 @@
   "league": "nfl",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@new-york-giants.com",
+    "phone": "+1 (212) 450-2000",
+    "email": "info@giants.com",
     "twitter": "@newyorkgiants",
-    "website": "https://www.new-york-giants.com"
+    "website": "https://www.giants.com",
+    "fan_email": "fans@giants.com",
+    "complaints": "https://www.giants.com/contact",
+    "social_media": {
+      "twitter": "@Giants",
+      "instagram": "@giants",
+      "facebook": "NYGiants"
+    }
   },
   "sponsors": [],
   "shame": {

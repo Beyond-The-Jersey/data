@@ -4,10 +4,17 @@
   "league": "nba",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@portland-trail-blazers.com",
+    "phone": "+1 (503) 752-4000",
+    "email": "info@trailblazers.com",
     "twitter": "@portlandtrailblazers",
-    "website": "https://www.portland-trail-blazers.com"
+    "website": "https://www.trailblazers.com",
+    "fan_email": "fans@trailblazers.com",
+    "complaints": "https://www.trailblazers.com/contact",
+    "social_media": {
+      "twitter": "@trailblazers",
+      "instagram": "@trailblazers",
+      "facebook": "PortlandTrailBlazers"
+    }
   },
   "sponsors": [],
   "shame": {

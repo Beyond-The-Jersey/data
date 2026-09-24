@@ -4,10 +4,17 @@
   "league": "nba",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@utah-jazz.com",
+    "phone": "+1 (801) 401-4000",
+    "email": "info@utahjazz.com",
     "twitter": "@utahjazz",
-    "website": "https://www.utah-jazz.com"
+    "website": "https://www.nba.com/jazz",
+    "fan_email": "fans@utahjazz.com",
+    "complaints": "https://www.nba.com/jazz/contact",
+    "social_media": {
+      "twitter": "@utahjazz",
+      "instagram": "@utahjazz",
+      "facebook": "UtahJazz"
+    }
   },
   "sponsors": [],
   "shame": {

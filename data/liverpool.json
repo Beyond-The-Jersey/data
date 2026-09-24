@@ -4,10 +4,17 @@
   "league": "premier_league",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@liverpool.com",
+    "phone": "+44 (0)151 727 5000",
+    "email": "info@liverpoolfc.com",
     "twitter": "@liverpool",
-    "website": "https://www.liverpool.com"
+    "website": "https://www.liverpoolfc.com",
+    "fan_email": "supporters@liverpoolfc.com",
+    "complaints": "https://www.liverpoolfc.com/contact",
+    "social_media": {
+      "twitter": "@LFC",
+      "instagram": "@liverpoolfc",
+      "facebook": "LiverpoolFC"
+    }
   },
   "sponsors": [],
   "shame": {

@@ -4,10 +4,17 @@
   "league": "mlb",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@chicago-white-sox.com",
+    "phone": "+1 (312) 674-4000",
+    "email": "info@whitesox.com",
     "twitter": "@chicagowhitesox",
-    "website": "https://www.chicago-white-sox.com"
+    "website": "https://www.mlb.com/whitesox",
+    "fan_email": "fans@whitesox.com",
+    "complaints": "https://www.mlb.com/whitesox/contact",
+    "social_media": {
+      "twitter": "@WhiteSox",
+      "instagram": "@whitesox",
+      "facebook": "ChicagoWhiteSox"
+    }
   },
   "sponsors": [],
   "shame": {

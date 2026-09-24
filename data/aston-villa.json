@@ -4,10 +4,17 @@
   "league": "premier_league",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@aston-villa.com",
+    "phone": "+44 (0)871 900 2020",
+    "email": "info@avfc.co.uk",
     "twitter": "@astonvilla",
-    "website": "https://www.aston-villa.com"
+    "website": "https://www.avfc.co.uk",
+    "fan_email": "supporters@avfc.co.uk",
+    "complaints": "https://www.avfc.co.uk/contact",
+    "social_media": {
+      "twitter": "@AVFC",
+      "instagram": "@avfc",
+      "facebook": "AstonVillaFC"
+    }
   },
   "sponsors": [],
   "shame": {

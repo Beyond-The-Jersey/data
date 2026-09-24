@@ -1,21 +1,21 @@
 {
-  "team": "Atl\u00e9tico de Madrid",
+  "team": "Atlético de Madrid",
   "sport": "soccer",
   "league": "laliga_easports",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@atl\u00e9tico-de-madrid.com",
-    "twitter": "@atl\u00e9ticodemadrid",
-    "website": "https://www.atl\u00e9tico-de-madrid.com"
+    "phone": "+34 91 726 04 03",
+    "email": "marketing@atlético-de-madrid.com",
+    "twitter": "@atléticodemadrid",
+    "website": "https://www.atlético-de-madrid.com"
   },
   "sponsors": [],
   "shame": {
-    "description": "Contact Atl\u00e9tico de Madrid to express discomfort about sponsor ratings",
+    "description": "Contact Atlético de Madrid to express discomfort about sponsor ratings",
     "methods": [
       {
         "type": "email",
-        "address": "marketing@atl\u00e9tico-de-madrid.com",
+        "address": "marketing@atlético-de-madrid.com",
         "label": "Marketing dept"
       },
       {
@@ -25,7 +25,7 @@
       },
       {
         "type": "twitter",
-        "handle": "@atl\u00e9ticodemadrid",
+        "handle": "@atléticodemadrid",
         "label": "Tweet your concern"
       }
     ]

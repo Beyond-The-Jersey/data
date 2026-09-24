@@ -4,10 +4,17 @@
   "league": "nba",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@charlotte-hornets.com",
+    "phone": "+1 (704) 432-5000",
+    "email": "info@hornets.com",
     "twitter": "@charlottehornets",
-    "website": "https://www.charlotte-hornets.com"
+    "website": "https://www.hornets.com",
+    "fan_email": "fans@hornets.com",
+    "complaints": "https://www.hornets.com/contact",
+    "social_media": {
+      "twitter": "@hornets",
+      "instagram": "@hornets",
+      "facebook": "CharlotteHornets"
+    }
   },
   "sponsors": [],
   "shame": {

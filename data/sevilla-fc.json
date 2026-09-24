@@ -4,10 +4,17 @@
   "league": "laliga_easports",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@sevilla-fc.com",
+    "phone": "+34 954 283 000",
+    "email": "info@sevillafc.es",
     "twitter": "@sevillafc",
-    "website": "https://www.sevilla-fc.com"
+    "website": "https://www.sevillafc.es",
+    "fan_email": "pepinos@sevillafc.es",
+    "complaints": "https://www.sevillafc.es/contacto",
+    "social_media": {
+      "twitter": "@SevillaFC",
+      "instagram": "@sevillafc",
+      "facebook": "SevillaFC"
+    }
   },
   "sponsors": [
     {

@@ -4,10 +4,17 @@
   "league": "nba",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@toronto-raptors.com",
+    "phone": "+1 (416) 615-4000",
+    "email": "info@raptors.com",
     "twitter": "@torontoraptors",
-    "website": "https://www.toronto-raptors.com"
+    "website": "https://www.raptors.com",
+    "fan_email": "fans@raptors.com",
+    "complaints": "https://www.raptors.com/contact",
+    "social_media": {
+      "twitter": "@Raptors",
+      "instagram": "@raptors",
+      "facebook": "TorontoRaptors"
+    }
   },
   "sponsors": [],
   "shame": {

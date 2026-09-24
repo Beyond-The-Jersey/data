@@ -4,10 +4,17 @@
   "league": "laliga_easports",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@real-sociedad.com",
+    "phone": "+34 943 456 000",
+    "email": "info@realsociedad.eus",
     "twitter": "@realsociedad",
-    "website": "https://www.real-sociedad.com"
+    "website": "https://www.realsociedad.eus",
+    "fan_email": "socis@realsociedad.eus",
+    "complaints": "https://www.realsociedad.eus/contacto",
+    "social_media": {
+      "twitter": "@RealSociedad",
+      "instagram": "@realsociedad",
+      "facebook": "RealSociedad"
+    }
   },
   "sponsors": [],
   "shame": {

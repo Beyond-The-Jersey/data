@@ -4,10 +4,17 @@
   "league": "bundesliga",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@bayern-munich.com",
+    "phone": "+49 (0)89 699 310",
+    "email": "info@fcbayern.com",
     "twitter": "@bayernmunich",
-    "website": "https://www.bayern-munich.com"
+    "website": "https://www.fcbayern.com",
+    "fan_email": "info@fcbayern.com",
+    "complaints": "https://www.fcbayern.com/kontakt",
+    "social_media": {
+      "twitter": "@FCBayern",
+      "instagram": "@fcbayern",
+      "facebook": "FCBayern"
+    }
   },
   "sponsors": [
     {

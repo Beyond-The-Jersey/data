@@ -4,10 +4,17 @@
   "league": "premier_league",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@chelsea.com",
+    "phone": "+44 (0)20 7864 5000",
+    "email": "info@chelseafc.com",
     "twitter": "@chelsea",
-    "website": "https://www.chelsea.com"
+    "website": "https://www.chelseafc.com",
+    "fan_email": "supporters@chelseafc.com",
+    "complaints": "https://www.chelseafc.com/contact",
+    "social_media": {
+      "twitter": "@ChelseaFC",
+      "instagram": "@chelseafc",
+      "facebook": "ChelseaFC"
+    }
   },
   "sponsors": [
     {

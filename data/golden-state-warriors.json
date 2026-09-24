@@ -4,10 +4,17 @@
   "league": "nba",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@golden-state-warriors.com",
+    "phone": "+1 (415) 221-1717",
+    "email": "info@warriors.com",
     "twitter": "@goldenstatewarriors",
-    "website": "https://www.golden-state-warriors.com"
+    "website": "https://www.warriors.com",
+    "fan_email": "fans@warriors.com",
+    "complaints": "https://www.warriors.com/contact",
+    "social_media": {
+      "twitter": "@warriors",
+      "instagram": "@warriors",
+      "facebook": "GSWarriors"
+    }
   },
   "sponsors": [
     {

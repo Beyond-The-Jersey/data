@@ -4,10 +4,17 @@
   "league": "nfl",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@seattle-seahawks.com",
+    "phone": "+1 (206) 480-4000",
+    "email": "info@seahawks.com",
     "twitter": "@seattleseahawks",
-    "website": "https://www.seattle-seahawks.com"
+    "website": "https://www.seahawks.com",
+    "fan_email": "fans@seahawks.com",
+    "complaints": "https://www.seahawks.com/contact",
+    "social_media": {
+      "twitter": "@Seahawks",
+      "instagram": "@seahawks",
+      "facebook": "SeattleSeahawks"
+    }
   },
   "sponsors": [],
   "shame": {

@@ -4,10 +4,17 @@
   "league": "laliga_easports",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@villarreal-cf.com",
+    "phone": "+34 964 468 000",
+    "email": "info@villarrealcf.es",
     "twitter": "@villarrealcf",
-    "website": "https://www.villarreal-cf.com"
+    "website": "https://www.villarrealcf.es",
+    "fan_email": "pepinos@villarrealcf.es",
+    "complaints": "https://www.villarrealcf.es/contacto",
+    "social_media": {
+      "twitter": "@VillarrealCF",
+      "instagram": "@villarrealcf",
+      "facebook": "VillarrealCF"
+    }
   },
   "sponsors": [],
   "shame": {

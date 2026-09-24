@@ -4,10 +4,17 @@
   "league": "laliga_easports",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@getafe-cf.com",
+    "phone": "+34 916 820 000",
+    "email": "info@getafecf.com",
     "twitter": "@getafecf",
-    "website": "https://www.getafe-cf.com"
+    "website": "https://www.getafecf.com",
+    "fan_email": "aficionados@getafecf.com",
+    "complaints": "https://www.getafecf.com/contacto",
+    "social_media": {
+      "twitter": "@GetafeCF",
+      "instagram": "@getafecf",
+      "facebook": "GetafeCF"
+    }
   },
   "sponsors": [],
   "shame": {

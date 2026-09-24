@@ -4,10 +4,17 @@
   "league": "nfl",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@tampa-bay-buccaneers.com",
+    "phone": "+1 (813) 234-4000",
+    "email": "info@buccaneers.com",
     "twitter": "@tampabaybuccaneers",
-    "website": "https://www.tampa-bay-buccaneers.com"
+    "website": "https://www.buccaneers.com",
+    "fan_email": "fans@buccaneers.com",
+    "complaints": "https://www.buccaneers.com/contact",
+    "social_media": {
+      "twitter": "@Buccaneers",
+      "instagram": "@buccaneers",
+      "facebook": "TampaBayBuccaneers"
+    }
   },
   "sponsors": [],
   "shame": {

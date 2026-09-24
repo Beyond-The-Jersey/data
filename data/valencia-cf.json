@@ -4,10 +4,17 @@
   "league": "laliga_easports",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@valencia-cf.com",
+    "phone": "+34 963 233 000",
+    "email": "info@valenciacf.com",
     "twitter": "@valenciacf",
-    "website": "https://www.valencia-cf.com"
+    "website": "https://www.valenciacf.com",
+    "fan_email": "socis@valenciacf.com",
+    "complaints": "https://www.valenciacf.com/contacto",
+    "social_media": {
+      "twitter": "@ValenciaCF",
+      "instagram": "@valenciacf",
+      "facebook": "ValenciaCF"
+    }
   },
   "sponsors": [],
   "shame": {

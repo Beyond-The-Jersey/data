@@ -4,10 +4,17 @@
   "league": "laliga_easports",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@ca-osasuna.com",
+    "phone": "+34 948 236 000",
+    "email": "info@osasuna.es",
     "twitter": "@caosasuna",
-    "website": "https://www.ca-osasuna.com"
+    "website": "https://www.caosasuna.es",
+    "fan_email": "aficionados@osasuna.es",
+    "complaints": "https://www.caosasuna.es/contacto",
+    "social_media": {
+      "twitter": "@CAOsasuna",
+      "instagram": "@osasuna",
+      "facebook": "CAOsasuna"
+    }
   },
   "sponsors": [],
   "shame": {

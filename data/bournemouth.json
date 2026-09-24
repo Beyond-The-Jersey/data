@@ -4,10 +4,17 @@
   "league": "premier_league",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@bournemouth.com",
+    "phone": "+44 (0)1202 680 600",
+    "email": "info@afcb.co.uk",
     "twitter": "@bournemouth",
-    "website": "https://www.bournemouth.com"
+    "website": "https://www.afcb.co.uk",
+    "fan_email": "supporters@afcb.co.uk",
+    "complaints": "https://www.afcb.co.uk/contact",
+    "social_media": {
+      "twitter": "@AFCBournemouth",
+      "instagram": "@afcbournemouth",
+      "facebook": "AFCBournemouth"
+    }
   },
   "sponsors": [
     {

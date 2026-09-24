@@ -4,10 +4,17 @@
   "league": "mlb",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@milwaukee-brewers.com",
+    "phone": "+1 (414) 902-4000",
+    "email": "info@brewers.com",
     "twitter": "@milwaukeebrewers",
-    "website": "https://www.milwaukee-brewers.com"
+    "website": "https://www.mlb.com/brewers",
+    "fan_email": "fans@brewers.com",
+    "complaints": "https://www.mlb.com/brewers/contact",
+    "social_media": {
+      "twitter": "@Brewers",
+      "instagram": "@brewers",
+      "facebook": "MilwaukeeBrewers"
+    }
   },
   "sponsors": [],
   "shame": {

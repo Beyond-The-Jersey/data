@@ -4,10 +4,17 @@
   "league": "laliga_easports",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@m\u00e1laga-cf.com",
+    "phone": "+34 952 228 000",
+    "email": "info@malagacf.es",
     "twitter": "@m\u00e1lagacf",
-    "website": "https://www.m\u00e1laga-cf.com"
+    "website": "https://www.malagacf.es",
+    "fan_email": "aficionados@malagacf.es",
+    "complaints": "https://www.malagacf.es/contacto",
+    "social_media": {
+      "twitter": "@malagacf",
+      "instagram": "@malagacf",
+      "facebook": "MalagaCF"
+    }
   },
   "sponsors": [],
   "shame": {

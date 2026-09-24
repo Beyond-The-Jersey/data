@@ -4,10 +4,17 @@
   "league": "nfl",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@san-francisco-49ers.com",
+    "phone": "+1 (415) 266-4000",
+    "email": "info@49ers.com",
     "twitter": "@sanfrancisco49ers",
-    "website": "https://www.san-francisco-49ers.com"
+    "website": "https://www.49ers.com",
+    "fan_email": "fans@49ers.com",
+    "complaints": "https://www.49ers.com/contact",
+    "social_media": {
+      "twitter": "@49ers",
+      "instagram": "@49ers",
+      "facebook": "SanFrancisco49ers"
+    }
   },
   "sponsors": [],
   "shame": {

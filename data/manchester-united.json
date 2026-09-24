@@ -4,10 +4,17 @@
   "league": "premier_league",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@manchester-united.com",
+    "phone": "+44 (0)161 868 8000",
+    "email": "info@manutd.com",
     "twitter": "@manchesterunited",
-    "website": "https://www.manchester-united.com"
+    "website": "https://www.manutd.com",
+    "fan_email": "supporters@manutd.com",
+    "complaints": "https://www.manutd.com/contact",
+    "social_media": {
+      "twitter": "@ManUtd",
+      "instagram": "@manchesterunited",
+      "facebook": "ManUtd"
+    }
   },
   "sponsors": [],
   "shame": {

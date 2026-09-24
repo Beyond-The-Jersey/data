@@ -4,10 +4,17 @@
   "league": "nfl",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@new-england-patriots.com",
+    "phone": "+1 (617) 265-2000",
+    "email": "info@patriots.com",
     "twitter": "@newenglandpatriots",
-    "website": "https://www.new-england-patriots.com"
+    "website": "https://www.patriots.com",
+    "fan_email": "fans@patriots.com",
+    "complaints": "https://www.patriots.com/contact",
+    "social_media": {
+      "twitter": "@Patriots",
+      "instagram": "@patriots",
+      "facebook": "Patriots"
+    }
   },
   "sponsors": [
     {

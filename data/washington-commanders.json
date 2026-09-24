@@ -4,10 +4,17 @@
   "league": "nfl",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@washington-commanders.com",
+    "phone": "+1 (202) 270-4000",
+    "email": "info@commanders.com",
     "twitter": "@washingtoncommanders",
-    "website": "https://www.washington-commanders.com"
+    "website": "https://www.commanders.com",
+    "fan_email": "fans@commanders.com",
+    "complaints": "https://www.commanders.com/contact",
+    "social_media": {
+      "twitter": "@Commanders",
+      "instagram": "@commanders",
+      "facebook": "WashingtonCommanders"
+    }
   },
   "sponsors": [],
   "shame": {

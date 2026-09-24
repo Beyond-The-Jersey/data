@@ -4,10 +4,17 @@
   "league": "premier_league",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@brentford.com",
+    "phone": "+44 (0)20 8563 2000",
+    "email": "info@brentfordfc.com",
     "twitter": "@brentford",
-    "website": "https://www.brentford.com"
+    "website": "https://www.brentfordfc.com",
+    "fan_email": "supporters@brentfordfc.com",
+    "complaints": "https://www.brentfordfc.com/contact",
+    "social_media": {
+      "twitter": "@BrentfordFC",
+      "instagram": "@brentfordfc",
+      "facebook": "BrentfordFC"
+    }
   },
   "sponsors": [
     {

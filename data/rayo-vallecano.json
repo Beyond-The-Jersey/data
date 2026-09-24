@@ -4,10 +4,17 @@
   "league": "laliga_easports",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@rayo-vallecano.com",
+    "phone": "+34 913 804 000",
+    "email": "info@rayovallecano.es",
     "twitter": "@rayovallecano",
-    "website": "https://www.rayo-vallecano.com"
+    "website": "https://www.rayovallecano.es",
+    "fan_email": "aficionados@rayovallecano.es",
+    "complaints": "https://www.rayovallecano.es/contacto",
+    "social_media": {
+      "twitter": "@RayoVallecano",
+      "instagram": "@rayovallecano",
+      "facebook": "RayoVallecano"
+    }
   },
   "sponsors": [],
   "shame": {

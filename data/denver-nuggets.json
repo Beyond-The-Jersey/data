@@ -4,10 +4,17 @@
   "league": "nba",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@denver-nuggets.com",
+    "phone": "+1 (303) 292-2000",
+    "email": "info@nuggets.com",
     "twitter": "@denvernuggets",
-    "website": "https://www.denver-nuggets.com"
+    "website": "https://www.nuggets.com",
+    "fan_email": "fans@nuggets.com",
+    "complaints": "https://www.nuggets.com/contact",
+    "social_media": {
+      "twitter": "@DenverNuggets",
+      "instagram": "@denvernuggets",
+      "facebook": "DenverNuggets"
+    }
   },
   "sponsors": [],
   "shame": {

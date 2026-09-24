@@ -4,10 +4,17 @@
   "league": "nfl",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@buffalo-bills.com",
+    "phone": "+1 (716) 636-4000",
+    "email": "info@buffalobills.com",
     "twitter": "@buffalobills",
-    "website": "https://www.buffalo-bills.com"
+    "website": "https://www.buffalobills.com",
+    "fan_email": "fans@buffalobills.com",
+    "complaints": "https://www.buffalobills.com/contact",
+    "social_media": {
+      "twitter": "@BuffaloBills",
+      "instagram": "@buffalobills",
+      "facebook": "BuffaloBills"
+    }
   },
   "sponsors": [],
   "shame": {

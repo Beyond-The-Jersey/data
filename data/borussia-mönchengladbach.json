@@ -1,21 +1,21 @@
 {
-  "team": "Borussia M\u00f6nchengladbach",
+  "team": "Borussia Mönchengladbach",
   "sport": "soccer",
   "league": "bundesliga",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@borussia-m\u00f6nchengladbach.com",
-    "twitter": "@borussiam\u00f6nchengladbach",
-    "website": "https://www.borussia-m\u00f6nchengladbach.com"
+    "phone": "+49 1806 181900",
+    "email": "marketing@borussia-mönchengladbach.com",
+    "twitter": "@borussiamönchengladbach",
+    "website": "https://www.borussia-mönchengladbach.com"
   },
   "sponsors": [],
   "shame": {
-    "description": "Contact Borussia M\u00f6nchengladbach to express discomfort about sponsor ratings",
+    "description": "Contact Borussia Mönchengladbach to express discomfort about sponsor ratings",
     "methods": [
       {
         "type": "email",
-        "address": "marketing@borussia-m\u00f6nchengladbach.com",
+        "address": "marketing@borussia-mönchengladbach.com",
         "label": "Marketing dept"
       },
       {
@@ -25,7 +25,7 @@
       },
       {
         "type": "twitter",
-        "handle": "@borussiam\u00f6nchengladbach",
+        "handle": "@borussiamönchengladbach",
         "label": "Tweet your concern"
       }
     ]

@@ -4,10 +4,17 @@
   "league": "mlb",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@arizona-diamondbacks.com",
+    "phone": "+1 (623) 433-4000",
+    "email": "info@dbacks.com",
     "twitter": "@arizonadiamondbacks",
-    "website": "https://www.arizona-diamondbacks.com"
+    "website": "https://www.mlb.com/dbacks",
+    "fan_email": "fans@dbacks.com",
+    "complaints": "https://www.mlb.com/dbacks/contact",
+    "social_media": {
+      "twitter": "@Dbacks",
+      "instagram": "@dbacks",
+      "facebook": "ArizonaDiamondbacks"
+    }
   },
   "sponsors": [],
   "shame": {

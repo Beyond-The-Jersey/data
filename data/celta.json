@@ -4,10 +4,17 @@
   "league": "laliga_easports",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@celta.com",
+    "phone": "+34 986 233 000",
+    "email": "info@celtavigo.net",
     "twitter": "@celta",
-    "website": "https://www.celta.com"
+    "website": "https://www.celtavigo.net",
+    "fan_email": "aficionados@celtavigo.net",
+    "complaints": "https://www.celtavigo.net/contacto",
+    "social_media": {
+      "twitter": "@RCCelta",
+      "instagram": "@rccelta",
+      "facebook": "RCCelta"
+    }
   },
   "sponsors": [],
   "shame": {

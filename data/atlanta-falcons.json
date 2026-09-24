@@ -4,10 +4,17 @@
   "league": "nfl",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@atlanta-falcons.com",
+    "phone": "+1 (404) 615-5000",
+    "email": "info@atlantafalcons.com",
     "twitter": "@atlantafalcons",
-    "website": "https://www.atlanta-falcons.com"
+    "website": "https://www.atlantafalcons.com",
+    "fan_email": "fans@atlantafalcons.com",
+    "complaints": "https://www.atlantafalcons.com/contact",
+    "social_media": {
+      "twitter": "@AtlantaFalcons",
+      "instagram": "@atlantafalcons",
+      "facebook": "AtlantaFalcons"
+    }
   },
   "sponsors": [],
   "shame": {

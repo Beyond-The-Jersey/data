@@ -4,10 +4,17 @@
   "league": "premier_league",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@newcastle-united.com",
+    "phone": "+44 (0)191 286 1111",
+    "email": "info@nufc.co.uk",
     "twitter": "@newcastleunited",
-    "website": "https://www.newcastle-united.com"
+    "website": "https://www.nufc.co.uk",
+    "fan_email": "supporters@nufc.co.uk",
+    "complaints": "https://www.nufc.co.uk/contact",
+    "social_media": {
+      "twitter": "@NUFC",
+      "instagram": "@nufc",
+      "facebook": "NUFC"
+    }
   },
   "sponsors": [
     {

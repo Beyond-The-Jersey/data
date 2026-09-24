@@ -4,10 +4,17 @@
   "league": "mlb",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@detroit-tigers.com",
+    "phone": "+1 (313) 259-4000",
+    "email": "info@tigers.com",
     "twitter": "@detroittigers",
-    "website": "https://www.detroit-tigers.com"
+    "website": "https://www.mlb.com/tigers",
+    "fan_email": "fans@tigers.com",
+    "complaints": "https://www.mlb.com/tigers/contact",
+    "social_media": {
+      "twitter": "@tigers",
+      "instagram": "@tigers",
+      "facebook": "DetroitTigers"
+    }
   },
   "sponsors": [],
   "shame": {

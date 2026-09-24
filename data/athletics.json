@@ -4,10 +4,17 @@
   "league": "mlb",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@athletics.com",
+    "phone": "+1 (510) 224-4000",
+    "email": "info@athletics.com",
     "twitter": "@athletics",
-    "website": "https://www.athletics.com"
+    "website": "https://www.mlb.com/athletics",
+    "fan_email": "fans@athletics.com",
+    "complaints": "https://www.mlb.com/athletics/contact",
+    "social_media": {
+      "twitter": "@Athletics",
+      "instagram": "@athletics",
+      "facebook": "OaklandAthletics"
+    }
   },
   "sponsors": [],
   "shame": {

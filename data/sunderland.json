@@ -4,10 +4,17 @@
   "league": "premier_league",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@sunderland.com",
+    "phone": "+44 (0)191 551 5000",
+    "email": "info@sunderlandafc.com",
     "twitter": "@sunderland",
-    "website": "https://www.sunderland.com"
+    "website": "https://www.sunderlandafc.com",
+    "fan_email": "supporters@sunderlandafc.com",
+    "complaints": "https://www.sunderlandafc.com/contact",
+    "social_media": {
+      "twitter": "@SAFC",
+      "instagram": "@safc",
+      "facebook": "SunderlandAFC"
+    }
   },
   "sponsors": [],
   "shame": {

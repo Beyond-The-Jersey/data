@@ -4,10 +4,17 @@
   "league": "premier_league",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@ipswich-town.com",
+    "phone": "+44 (0)1473 688 300",
+    "email": "info@itfc.co.uk",
     "twitter": "@ipswichtown",
-    "website": "https://www.ipswich-town.com"
+    "website": "https://www.itfc.co.uk",
+    "fan_email": "supporters@itfc.co.uk",
+    "complaints": "https://www.itfc.co.uk/contact",
+    "social_media": {
+      "twitter": "@ITFC",
+      "instagram": "@itfc",
+      "facebook": "IpswichTown"
+    }
   },
   "sponsors": [],
   "shame": {

@@ -4,10 +4,17 @@
   "league": "nba",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@indiana-pacers.com",
+    "phone": "+1 (317) 917-2000",
+    "email": "info@pacers.com",
     "twitter": "@indianapacers",
-    "website": "https://www.indiana-pacers.com"
+    "website": "https://www.pacers.com",
+    "fan_email": "fans@pacers.com",
+    "complaints": "https://www.pacers.com/contact",
+    "social_media": {
+      "twitter": "@Pacers",
+      "instagram": "@pacers",
+      "facebook": "IndianaPacers"
+    }
   },
   "sponsors": [],
   "shame": {

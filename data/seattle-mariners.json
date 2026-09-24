@@ -4,10 +4,17 @@
   "league": "mlb",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@seattle-mariners.com",
+    "phone": "+1 (206) 389-4000",
+    "email": "info@mariners.com",
     "twitter": "@seattlemariners",
-    "website": "https://www.seattle-mariners.com"
+    "website": "https://www.mlb.com/mariners",
+    "fan_email": "fans@mariners.com",
+    "complaints": "https://www.mlb.com/mariners/contact",
+    "social_media": {
+      "twitter": "@Mariners",
+      "instagram": "@mariners",
+      "facebook": "SeattleMariners"
+    }
   },
   "sponsors": [],
   "shame": {

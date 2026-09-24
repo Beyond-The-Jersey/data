@@ -4,10 +4,17 @@
   "league": "nba",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@orlando-magic.com",
+    "phone": "+1 (407) 245-2000",
+    "email": "info@orlandomagic.com",
     "twitter": "@orlandomagic",
-    "website": "https://www.orlando-magic.com"
+    "website": "https://www.orlandomagic.com",
+    "fan_email": "fans@orlandomagic.com",
+    "complaints": "https://www.orlandomagic.com/contact",
+    "social_media": {
+      "twitter": "@OrlandoMagic",
+      "instagram": "@orlandomagic",
+      "facebook": "OrlandoMagic"
+    }
   },
   "sponsors": [],
   "shame": {

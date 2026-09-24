@@ -4,10 +4,17 @@
   "league": "nba",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@sacramento-kings.com",
+    "phone": "+1 (916) 203-4000",
+    "email": "info@kings.com",
     "twitter": "@sacramentokings",
-    "website": "https://www.sacramento-kings.com"
+    "website": "https://www.nba.com/kings",
+    "fan_email": "fans@kings.com",
+    "complaints": "https://www.nba.com/kings/contact",
+    "social_media": {
+      "twitter": "@kings",
+      "instagram": "@kings",
+      "facebook": "SacramentoKings"
+    }
   },
   "sponsors": [],
   "shame": {

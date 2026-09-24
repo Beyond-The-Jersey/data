@@ -4,10 +4,17 @@
   "league": "nba",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@brooklyn-nets.com",
+    "phone": "+1 (718) 745-9000",
+    "email": "info@brooklynnets.com",
     "twitter": "@brooklynnets",
-    "website": "https://www.brooklyn-nets.com"
+    "website": "https://www.brooklynnets.com",
+    "fan_email": "fans@brooklynnets.com",
+    "complaints": "https://www.brooklynnets.com/contact",
+    "social_media": {
+      "twitter": "@BrooklynNets",
+      "instagram": "@brooklynnets",
+      "facebook": "BrooklynNets"
+    }
   },
   "sponsors": [],
   "shame": {

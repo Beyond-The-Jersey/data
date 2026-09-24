@@ -1,21 +1,21 @@
 {
-  "team": "Deportivo Alav\u00e9s",
+  "team": "Deportivo Alavés",
   "sport": "soccer",
   "league": "laliga_easports",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@deportivo-alav\u00e9s.com",
-    "twitter": "@deportivoalav\u00e9s",
-    "website": "https://www.deportivo-alav\u00e9s.com"
+    "phone": "945 13 9191",
+    "email": "marketing@deportivo-alavés.com",
+    "twitter": "@deportivoalavés",
+    "website": "https://www.deportivo-alavés.com"
   },
   "sponsors": [],
   "shame": {
-    "description": "Contact Deportivo Alav\u00e9s to express discomfort about sponsor ratings",
+    "description": "Contact Deportivo Alavés to express discomfort about sponsor ratings",
     "methods": [
       {
         "type": "email",
-        "address": "marketing@deportivo-alav\u00e9s.com",
+        "address": "marketing@deportivo-alavés.com",
         "label": "Marketing dept"
       },
       {
@@ -25,14 +25,14 @@
       },
       {
         "type": "twitter",
-        "handle": "@deportivoalav\u00e9s",
+        "handle": "@deportivoalavés",
         "label": "Tweet your concern"
       }
     ]
   },
   "last_updated": "2026-09-24T20:00:00+00:00",
-  "owner": "Baskonia-Alav\u00e9s Group",
+  "owner": "Baskonia-Alavés Group",
   "alternate_owners": [
-    "Jos\u00e9 Antonio Querejeta"
+    "José Antonio Querejeta"
   ]
 }

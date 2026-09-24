@@ -4,10 +4,17 @@
   "league": "nfl",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@pittsburgh-steelers.com",
+    "phone": "+1 (412) 324-4000",
+    "email": "info@steelers.com",
     "twitter": "@pittsburghsteelers",
-    "website": "https://www.pittsburgh-steelers.com"
+    "website": "https://www.steelers.com",
+    "fan_email": "fans@steelers.com",
+    "complaints": "https://www.steelers.com/contact",
+    "social_media": {
+      "twitter": "@steelers",
+      "instagram": "@steelers",
+      "facebook": "PittsburghSteelers"
+    }
   },
   "sponsors": [],
   "shame": {

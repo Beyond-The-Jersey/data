@@ -4,10 +4,17 @@
   "league": "mlb",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@colorado-rockies.com",
+    "phone": "+1 (303) 292-4000",
+    "email": "info@rockies.com",
     "twitter": "@coloradorockies",
-    "website": "https://www.colorado-rockies.com"
+    "website": "https://www.mlb.com/rockies",
+    "fan_email": "fans@rockies.com",
+    "complaints": "https://www.mlb.com/rockies/contact",
+    "social_media": {
+      "twitter": "@Rockies",
+      "instagram": "@rockies",
+      "facebook": "ColoradoRockies"
+    }
   },
   "sponsors": [],
   "shame": {

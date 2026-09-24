@@ -4,10 +4,17 @@
   "league": "nba",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@boston-celtics.com",
+    "phone": "+1 (617) 580-4000",
+    "email": "info@celtics.com",
     "twitter": "@bostonceltics",
-    "website": "https://www.boston-celtics.com"
+    "website": "https://www.celtics.com",
+    "fan_email": "fans@celtics.com",
+    "complaints": "https://www.celtics.com/contact",
+    "social_media": {
+      "twitter": "@celtics",
+      "instagram": "@celtics",
+      "facebook": "BostonCeltics"
+    }
   },
   "sponsors": [],
   "shame": {

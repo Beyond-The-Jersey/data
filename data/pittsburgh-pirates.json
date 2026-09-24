@@ -4,10 +4,17 @@
   "league": "mlb",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@pittsburgh-pirates.com",
+    "phone": "+1 (412) 323-4000",
+    "email": "info@pirates.com",
     "twitter": "@pittsburghpirates",
-    "website": "https://www.pittsburgh-pirates.com"
+    "website": "https://www.mlb.com/pirates",
+    "fan_email": "fans@pirates.com",
+    "complaints": "https://www.mlb.com/pirates/contact",
+    "social_media": {
+      "twitter": "@Pirates",
+      "instagram": "@pirates",
+      "facebook": "PittsburghPirates"
+    }
   },
   "sponsors": [],
   "shame": {

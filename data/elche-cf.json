@@ -4,10 +4,17 @@
   "league": "laliga_easports",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@elche-cf.com",
+    "phone": "+34 966 233 000",
+    "email": "info@elchecf.es",
     "twitter": "@elchecf",
-    "website": "https://www.elche-cf.com"
+    "website": "https://www.elchecf.es",
+    "fan_email": "aficionados@elchecf.es",
+    "complaints": "https://www.elchecf.es/contacto",
+    "social_media": {
+      "twitter": "@elchecfoficial",
+      "instagram": "@elchecf",
+      "facebook": "ElcheCF"
+    }
   },
   "sponsors": [],
   "shame": {

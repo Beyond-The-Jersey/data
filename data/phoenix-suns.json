@@ -4,10 +4,17 @@
   "league": "nba",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@phoenix-suns.com",
+    "phone": "+1 (623) 223-4000",
+    "email": "info@suns.com",
     "twitter": "@phoenixsuns",
-    "website": "https://www.phoenix-suns.com"
+    "website": "https://www.suns.com",
+    "fan_email": "fans@suns.com",
+    "complaints": "https://www.suns.com/contact",
+    "social_media": {
+      "twitter": "@Suns",
+      "instagram": "@suns",
+      "facebook": "PhoenixSuns"
+    }
   },
   "sponsors": [],
   "shame": {

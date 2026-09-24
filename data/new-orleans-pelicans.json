@@ -4,10 +4,17 @@
   "league": "nba",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@new-orleans-pelicans.com",
+    "phone": "+1 (504) 206-2000",
+    "email": "info@pelicans.com",
     "twitter": "@neworleanspelicans",
-    "website": "https://www.new-orleans-pelicans.com"
+    "website": "https://www.nolapelicans.com",
+    "fan_email": "fans@pelicans.com",
+    "complaints": "https://www.nolapelicans.com/contact",
+    "social_media": {
+      "twitter": "@PelicansNBA",
+      "instagram": "@pelicans",
+      "facebook": "NOPelicans"
+    }
   },
   "sponsors": [],
   "shame": {

@@ -4,10 +4,17 @@
   "league": "laliga_easports",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@real-betis.com",
+    "phone": "+34 955 238 000",
+    "email": "info@realbetisbalompie.es",
     "twitter": "@realbetis",
-    "website": "https://www.real-betis.com"
+    "website": "https://www.realbetisbalompie.es",
+    "fan_email": "pepinos@realbetisbalompie.es",
+    "complaints": "https://www.realbetisbalompie.es/contacto",
+    "social_media": {
+      "twitter": "@RealBetis",
+      "instagram": "@realbetis",
+      "facebook": "RealBetis"
+    }
   },
   "sponsors": [],
   "shame": {

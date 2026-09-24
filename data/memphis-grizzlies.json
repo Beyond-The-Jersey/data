@@ -4,10 +4,17 @@
   "league": "nba",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@memphis-grizzlies.com",
+    "phone": "+1 (901) 205-4000",
+    "email": "info@grizz.com",
     "twitter": "@memphisgrizzlies",
-    "website": "https://www.memphis-grizzlies.com"
+    "website": "https://www.grizz.com",
+    "fan_email": "fans@grizz.com",
+    "complaints": "https://www.grizz.com/contact",
+    "social_media": {
+      "twitter": "@memgrizz",
+      "instagram": "@memphisgrizzlies",
+      "facebook": "MemphisGrizzlies"
+    }
   },
   "sponsors": [],
   "shame": {

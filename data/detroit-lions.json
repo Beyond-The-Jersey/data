@@ -4,10 +4,17 @@
   "league": "nfl",
   "country": "Unknown",
   "contact": {
-    "phone": "+1 800 XXX XXXX",
-    "email": "marketing@detroit-lions.com",
+    "phone": "+1 (313) 262-4000",
+    "email": "info@detroitlions.com",
     "twitter": "@detroitlions",
-    "website": "https://www.detroit-lions.com"
+    "website": "https://www.detroitlions.com",
+    "fan_email": "fans@detroitlions.com",
+    "complaints": "https://www.detroitlions.com/contact",
+    "social_media": {
+      "twitter": "@DetroitLions",
+      "instagram": "@detroitlions",
+      "facebook": "DetroitLions"
+    }
   },
   "sponsors": [],
   "shame": {

@@ -4,10 +4,17 @@
   "league": "premier_league",
   "country": "Unknown",
   "contact": {
-    "phone": "+44 800 XXX XXXX",
-    "email": "marketing@leeds-united.com",
+    "phone": "+44 (0)113 367 5000",
+    "email": "info@leedsunited.com",
     "twitter": "@leedsunited",
-    "website": "https://www.leeds-united.com"
+    "website": "https://www.leedsunited.com",
+    "fan_email": "supporters@leedsunited.com",
+    "complaints": "https://www.leedsunited.com/contact",
+    "social_media": {
+      "twitter": "@leedsunited",
+      "instagram": "@leedsunited",
+      "facebook": "LeedsUnited"
+    }
   },
   "sponsors": [
     {
