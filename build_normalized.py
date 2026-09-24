@@ -99,6 +99,11 @@ for extra in [
 ]:
     oid.setdefault(extra["id"], extra)
 owners = list(oid.values())
+# seed style: country and via are left out when unknown, not set to null
+for o in owners:
+    for k in ("country", "via"):
+        if o.get(k) is None:
+            o.pop(k, None)
 write("owners", owners)
 
 ssponsors = load("sponsors")
