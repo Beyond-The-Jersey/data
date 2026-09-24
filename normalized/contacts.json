@@ -3898,5 +3898,123 @@
       }
     ],
     "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "arsenal",
+    "channels": [
+      {
+        "type": "email",
+        "value": "partnerships@arsenal.co.uk",
+        "label": "Partnership opportunities",
+        "source": {
+          "name": "Arsenal.com",
+          "url": "https://www.arsenal.com/contact-arsenal",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "customerservice@arsenaldirect.co.uk",
+        "label": "Customer service",
+        "source": {
+          "name": "Arsenal Direct",
+          "url": "https://arsenaldirect.arsenal.com/contactUs",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "020 7619 5000",
+        "label": "Ticketing and Services",
+        "source": {
+          "name": "Arsenal.com",
+          "url": "https://www.arsenal.com/contact-arsenal",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@Arsenal",
+        "label": "Official X account",
+        "source": {
+          "name": "Arsenal website footer",
+          "url": "https://www.arsenal.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "aston-villa",
+    "channels": [
+      {
+        "type": "email",
+        "value": "ticketsales@avfc.co.uk",
+        "label": "Ticket sales",
+        "source": {
+          "name": "AVFC.co.uk",
+          "url": "https://www.avfc.co.uk/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "0333 323 1874",
+        "label": "Ticket office",
+        "source": {
+          "name": "AVFC.co.uk",
+          "url": "https://www.avfc.co.uk/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@AVFC",
+        "label": "Official X account",
+        "source": {
+          "name": "AVFC website footer",
+          "url": "https://www.avfc.co.uk",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "atletico-de-madrid",
+    "channels": [
+      {
+        "type": "email",
+        "value": "socios@atleticodemadrid.com",
+        "label": "Supporters club",
+        "source": {
+          "name": "Atletico Madrid official",
+          "url": "https://en.atleticodemadrid.com/atm/contact-8",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+34 91 726 04 03",
+        "label": "Supporters club phone line",
+        "source": {
+          "name": "Atletico Madrid official",
+          "url": "https://en.atleticodemadrid.com/atm/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@AtleticoDeMadrid",
+        "label": "Official X account",
+        "source": {
+          "name": "Atletico Madrid website footer",
+          "url": "https://en.atleticodemadrid.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
   }
 ]

@@ -76,8 +76,20 @@
     "placement": "sleeve",
     "from": "2026-27",
     "to": null,
-    "value": null,
-    "source": null
+    "value": {
+      "amount": 18,
+      "currency": "GBP",
+      "unit": "m",
+      "per": "year",
+      "upTo": true,
+      "usdApprox": 24
+    },
+    "source": {
+      "name": "Footy Headlines",
+      "date": "2025-12",
+      "url": "https://www.footyheadlines.com/2025/12/new-arsenal-sign-deel-sleeve-sponsor-deal.html"
+    },
+    "note": "Base \u00a318m/yr, up to \u00a325m/yr with incentives"
   },
   {
     "id": "city-etihad",
@@ -149,7 +161,11 @@
     "from": null,
     "to": null,
     "value": null,
-    "source": null
+    "source": {
+      "name": "Wikipedia",
+      "date": "2026-09-24",
+      "url": null
+    }
   },
   {
     "id": "brighton-amex",
@@ -160,7 +176,11 @@
     "from": null,
     "to": null,
     "value": null,
-    "source": null
+    "source": {
+      "name": "Wikipedia",
+      "date": "2026-09-24",
+      "url": null
+    }
   },
   {
     "id": "atletico-riyadh-air",
@@ -194,7 +214,11 @@
     "from": null,
     "to": null,
     "value": null,
-    "source": null,
+    "source": {
+      "name": "Wikipedia",
+      "date": "2026-09-24",
+      "url": null
+    },
     "note": "Value not disclosed."
   },
   {
@@ -206,7 +230,11 @@
     "from": "2026-27",
     "to": null,
     "value": null,
-    "source": null
+    "source": {
+      "name": "Wikipedia",
+      "date": "2026-09-24",
+      "url": null
+    }
   },
   {
     "id": "real-madrid-emirates",
@@ -256,7 +284,11 @@
     "from": null,
     "to": "2027-28",
     "value": null,
-    "source": null,
+    "source": {
+      "name": "Wikipedia",
+      "date": "2026-09-24",
+      "url": null
+    },
     "note": "Renewed until 2028; value not disclosed."
   },
   {
@@ -268,7 +300,11 @@
     "from": "2025",
     "to": null,
     "value": null,
-    "source": null,
+    "source": {
+      "name": "Wikipedia",
+      "date": "2026-09-24",
+      "url": null
+    },
     "note": "Value not disclosed."
   },
   {
@@ -280,7 +316,11 @@
     "from": "2025",
     "to": null,
     "value": null,
-    "source": null,
+    "source": {
+      "name": "Wikipedia",
+      "date": "2026-09-24",
+      "url": null
+    },
     "note": "At the stadium rather than on the shirt; value not disclosed."
   },
   {
@@ -300,7 +340,11 @@
       "upTo": false,
       "usdApprox": 6.5
     },
-    "source": null,
+    "source": {
+      "name": "Wikipedia",
+      "date": "2026-09-24",
+      "url": null
+    },
     "note": "Reportedly $6\u20137m a year."
   },
   {
@@ -312,7 +356,11 @@
     "from": "2024-25",
     "to": "2025-26",
     "value": null,
-    "source": null,
+    "source": {
+      "name": "Wikipedia",
+      "date": "2026-09-24",
+      "url": null
+    },
     "note": "Moved to the sleeves for 2026/27."
   },
   {
@@ -323,8 +371,20 @@
     "placement": "sleeve",
     "from": "2026-27",
     "to": null,
-    "value": null,
-    "source": null
+    "value": {
+      "amount": 6,
+      "currency": "GBP",
+      "unit": "m",
+      "per": "year",
+      "upTo": false,
+      "usdApprox": 8.1
+    },
+    "source": {
+      "name": "Yahoo Sports / The Mag",
+      "date": "2026-07",
+      "url": "https://sports.yahoo.com/articles/much-aston-villa-generate-record-154456463.html"
+    },
+    "note": "\u00a36m per year, 3-year sleeve deal"
   },
   {
     "id": "villa-trade-nation",
@@ -335,7 +395,11 @@
     "from": "2024-25",
     "to": "2025-26",
     "value": null,
-    "source": null
+    "source": {
+      "name": "Wikipedia",
+      "date": "2026-09-24",
+      "url": null
+    }
   },
   {
     "id": "Houston Rockets-red-bull",
@@ -901,19 +965,19 @@
     "from": "2024-25",
     "to": "2026-27",
     "value": {
-      "amount": null,
-      "currency": null,
-      "unit": null,
-      "per": null,
+      "amount": 6,
+      "currency": "GBP",
+      "unit": "m",
+      "per": "year",
       "upTo": false,
-      "usdApprox": null
+      "usdApprox": 8.1
     },
     "source": {
-      "name": "Aston Villa",
-      "date": "2026-07-23",
-      "url": "https://www.instagram.com/reel/DbI8EhZNDKk/"
+      "name": "Yahoo Sports / The Mag",
+      "date": "2026-07",
+      "url": "https://sports.yahoo.com/articles/much-aston-villa-generate-record-154456463.html"
     },
-    "note": "Three-year extension"
+    "note": "\u00a36m per year, 3-year sleeve deal"
   },
   {
     "id": "aston-villa-trade-nation",
