@@ -14,6 +14,21 @@
   },
   "sponsors": [
     {
+      "id": "kchat",
+      "name": "KChat",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Leeds United – 'KChat to become Official Sleeve Partner for 2026/27 Season'",
+        "date": "2026-08-17",
+        "url": "https://www.leedsunited.com/en/news/kchat-to-become-official-sleeve-partner-for-2026-27-season"
+      }
+    },
+    {
       "id": "red-bull",
       "name": "Red Bull",
       "placement": "front",

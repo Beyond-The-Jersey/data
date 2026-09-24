@@ -1,0 +1,28 @@
+{
+  "id": "udinese",
+  "team": "Udinese Calcio",
+  "sport": "soccer",
+  "league": "serie-a",
+  "country": "Italy",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "io-sono-friuli-venezia-giulia",
+      "name": "Io sono Friuli Venezia Giulia",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Udinese Calcio",
+        "date": "2026-03-13",
+        "url": "https://www.udinese.it/news/club/io-sono-friuli-venezia-giulia-renews-udinese-shirt-sponsorship-deal-until-202829"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

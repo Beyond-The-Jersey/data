@@ -1,0 +1,28 @@
+{
+  "id": "real-salt-lake",
+  "team": "Real Salt Lake",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "USA",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "select-health",
+      "name": "Select Health",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "rsl.com",
+        "date": "2026-02-14",
+        "url": "https://www.rsl.com/news/real-salt-lake-unveils-2026-27-primary-jersey"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

@@ -26,6 +26,21 @@
         "date": "2026-09-17",
         "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
       }
+    },
+    {
+      "id": "mcvities",
+      "name": "McVitie's",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Hull City AFC – 'Hull City and McVitie's announce new partnership'",
+        "date": "2026-08-21",
+        "url": "https://www.wearehullcity.co.uk/news/2026/august/21/Hull-City-and-McVities-announce-new-partnership/"
+      }
     }
   ],
   "worstTier": "none",

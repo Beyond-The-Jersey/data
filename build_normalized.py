@@ -15,6 +15,15 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import pipeline_data as A
 
+# ------------------------------------------------------------------ research additions
+# Output of convert_research.py: Serie A + MLS clubs, Premier League sleeve sponsors,
+# the 2026 F1 grid and its ratings. Anything already in normalized/ wins.
+RES = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                                  "research_additions.json"), encoding="utf-8"))
+print("research additions: %d clubs, %d sponsors, %d owners, %d kits, %d ratings"
+      % (len(RES["clubs"]), len(RES["sponsors"]), len(RES["owners"]),
+         len(RES["kits"]), len(RES["ratings"])))
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 SEED = os.environ.get("BTJ_SEED", "/tmp/website/data/seed")
 OUT = os.path.join(HERE, "normalized")
@@ -76,7 +85,7 @@ write("tiers", load("tiers"))
 # ------------------------------------------------------------------ clubs
 clubs = load("clubs")
 by_id = {c["id"]: c for c in clubs}
-for c in A.NEW_CLUBS:
+for c in A.NEW_CLUBS + RES["clubs"]:
     by_id.setdefault(c["id"], c)
 if "schalke-04" in by_id:
     by_id["schalke-04"]["leagueId"] = "bundesliga"
@@ -88,7 +97,7 @@ print("clubs:", len(clubs))
 # ------------------------------------------------------------------ owners / sponsors
 owners = load("owners")
 oid = {o["id"]: o for o in owners}
-for o in A.NEW_OWNERS:
+for o in A.NEW_OWNERS + RES["owners"]:
     oid.setdefault(o["id"], o)
 # a few owners for existing seed sponsors
 for extra in [
@@ -108,8 +117,9 @@ write("owners", owners)
 
 ssponsors = load("sponsors")
 sid = {s["id"]: s for s in ssponsors}
-for s in A.NEW_SPONSORS:
-    sid.setdefault(s["id"], s)
+for s in A.NEW_SPONSORS + RES["sponsors"]:
+    sp = {k: v for k, v in s.items() if k != "ownerGuess"}
+    sid.setdefault(sp["id"], sp)
 for name, owner in [
     ("snapdragon", "qualcomm"),
     ("aia", "aia-group"),
@@ -149,7 +159,7 @@ import ratings_data as R  # noqa: E402
 claim_ids = {c["id"] for c in claims}
 owner_ids = {o["id"] for o in owners}
 rated = 0
-for r in R.RATINGS:
+for r in R.RATINGS + RES["ratings"]:
     s = sid.get(r["sponsorId"])
     if s is None:
         print("ratings: NO SPONSOR", r["sponsorId"])
@@ -359,6 +369,26 @@ for d in deals:
             "date": "2025",
             "url": "https://visitrwanda.com/basketball-africa-league/",
         }
+
+# ------------------------------------------------------------------ research kits
+for k in RES["kits"]:
+    if k["id"] not in {x["id"] for x in kits}:
+        kits.append(dict(k))
+
+# sleeve / shorts placements from the research pass
+sleeved = 0
+for k in kits:
+    for extra in RES["sleeves"].get(k["clubId"], []):
+        if k["season"] != "2026-27" and k["clubId"] not in {c["id"] for c in RES["clubs"]}:
+            continue
+        if any(p["sponsorId"] == extra["sponsorId"] and p["placement"] == extra["placement"]
+               for p in k["sponsors"]):
+            continue
+        k["sponsors"].append({"sponsorId": extra["sponsorId"],
+                              "placement": extra["placement"],
+                              "source": extra["source"]})
+        sleeved += 1
+print("sleeve placements attached:", sleeved)
 
 # --------------------------------------------------------------- orphan kits
 # Two shirt images in the design manifest had no kit pointing at them.

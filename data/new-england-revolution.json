@@ -1,0 +1,28 @@
+{
+  "id": "new-england-revolution",
+  "team": "New England Revolution",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "USA",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "gillette",
+      "name": "Gillette",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "revolutionsoccer.net",
+        "date": "2025-02-11",
+        "url": "https://www.revolutionsoccer.net/news/revolution-welcome-gillette-as-official-jersey-sponsor-in-expanded-multi-year-partnership"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

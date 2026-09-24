@@ -25,6 +25,21 @@
         "date": "2026-09-17",
         "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
       }
+    },
+    {
+      "id": "experience-kissimmee",
+      "name": "Experience Kissimmee",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Brighton & Hove Albion – 'Experience Kissimmee announces partnership with Albion'",
+        "date": "2024-06-11",
+        "url": "https://www.brightonandhovealbion.com/news/4036436/experience-kissimmee-announces-partnership-with-albion"
+      }
     }
   ],
   "worstTier": "none",

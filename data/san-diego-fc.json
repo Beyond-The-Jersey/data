@@ -1,0 +1,28 @@
+{
+  "id": "san-diego-fc",
+  "team": "San Diego FC",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "USA",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "directv",
+      "name": "DirecTV",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "sandiegofc.com",
+        "date": "2026-02-17",
+        "url": "https://www.sandiegofc.com/news/san-diego-fc-announces-directv-as-the-club-s-official-jersey-partner"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

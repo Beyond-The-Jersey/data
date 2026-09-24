@@ -12,6 +12,21 @@
   },
   "sponsors": [
     {
+      "id": "expedia",
+      "name": "Expedia",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Liverpool FC – 'LFC and Expedia extend partnership for further four years'",
+        "date": "2023-03-10",
+        "url": "https://www.liverpoolfc.com/news/lfc-and-expedia-extend-partnership-further-four-years"
+      }
+    },
+    {
       "id": "standard-chartered",
       "name": "Standard Chartered",
       "placement": "front",

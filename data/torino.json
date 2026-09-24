@@ -1,0 +1,28 @@
+{
+  "id": "torino",
+  "team": "Torino FC",
+  "sport": "soccer",
+  "league": "serie-a",
+  "country": "Italy",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "suzuki",
+      "name": "Suzuki",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Torino FC",
+        "date": "2026-07-03",
+        "url": "https://www.torinofc.it/news/03/07/2026/torino-fc-e-suzuki-insieme-nel-segno-della-continuita_43651"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

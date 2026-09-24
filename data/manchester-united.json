@@ -27,6 +27,21 @@
         "date": "2026-09-17",
         "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
       }
+    },
+    {
+      "id": "sumup",
+      "name": "SumUp",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Manchester United – 'SumUp becomes United's Official Sleeve Partner'",
+        "date": "2026-09-08",
+        "url": "https://www.manutd.com/en/news/sumup-is-united-official-sleeve-partner"
+      }
     }
   ],
   "worstTier": "none",

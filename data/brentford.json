@@ -12,6 +12,21 @@
   },
   "sponsors": [
     {
+      "id": "cazoo",
+      "name": "Cazoo",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Brentford FC – 'Brentford Football Club extend official sleeve partnership with Cazoo'",
+        "date": "2026-07-16",
+        "url": "https://www.brentfordfc.com/en/news/article/club-news-brentford-fc-cazoo-official-sleeve-partner-extension"
+      }
+    },
+    {
       "id": "indeed",
       "name": "Indeed",
       "placement": "front",

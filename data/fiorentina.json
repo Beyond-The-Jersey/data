@@ -1,0 +1,28 @@
+{
+  "id": "fiorentina",
+  "team": "ACF Fiorentina",
+  "sport": "soccer",
+  "league": "serie-a",
+  "country": "Italy",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "mediacom",
+      "name": "Mediacom",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Firenze Viola",
+        "date": "2026-07-10",
+        "url": "https://www.firenzeviola.it/copertina/fiorentina-nuove-maglie-2026-27-sponsor-mediacom-480579"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

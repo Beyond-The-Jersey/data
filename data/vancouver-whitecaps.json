@@ -1,0 +1,28 @@
+{
+  "id": "vancouver-whitecaps",
+  "team": "Vancouver Whitecaps FC",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "Canada",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "telus",
+      "name": "Telus",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "mlssoccer.com",
+        "date": "2026-02-17",
+        "url": "https://www.mlssoccer.com/news/vancouver-whitecaps-fc-announce-telus-as-new-front-of-jersey-sponsor"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

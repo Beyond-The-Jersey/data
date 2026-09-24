@@ -1,0 +1,153 @@
+{
+  "id": "cadillac",
+  "team": "Cadillac Formula 1 Team",
+  "sport": "motorsport",
+  "league": "formula-1",
+  "country": "United States",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "alpinestars-c",
+      "name": "Alpinestars",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Cadillac Formula 1 Team – Official Partners",
+        "date": "2026-09-24",
+        "url": "https://www.cadillacf1team.com/partners"
+      }
+    },
+    {
+      "id": "claro",
+      "name": "Claro / America Movil",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "america-movil",
+      "owner": "America Movil, S.A.B. de C.V. (Slim family control)",
+      "verdict": "Owned by America Movil, S.A.B. de C.V. (Slim family control). Nothing found.",
+      "source": {
+        "name": "Cadillac Formula 1 Team – Official Partners",
+        "date": "2026-09-24",
+        "url": "https://www.cadillacf1team.com/partners"
+      }
+    },
+    {
+      "id": "core-scientific",
+      "name": "Core Scientific",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "core-scientific",
+      "owner": "Core Scientific, Inc.",
+      "verdict": "Owned by Core Scientific, Inc.. Nothing found.",
+      "source": {
+        "name": "Cadillac Formula 1 Team – Official Partners",
+        "date": "2026-09-24",
+        "url": "https://www.cadillacf1team.com/partners"
+      }
+    },
+    {
+      "id": "ifs",
+      "name": "IFS",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Cadillac Formula 1 Team – Official Partners",
+        "date": "2026-09-24",
+        "url": "https://www.cadillacf1team.com/partners"
+      }
+    },
+    {
+      "id": "jim-beam",
+      "name": "Jim Beam",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Cadillac Formula 1 Team – Official Partners",
+        "date": "2026-09-24",
+        "url": "https://www.cadillacf1team.com/partners"
+      }
+    },
+    {
+      "id": "s-3m",
+      "name": "3M",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Cadillac Formula 1 Team – Official Partners",
+        "date": "2026-09-24",
+        "url": "https://www.cadillacf1team.com/partners"
+      }
+    },
+    {
+      "id": "tenneco",
+      "name": "Tenneco",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Cadillac Formula 1 Team – Official Partners",
+        "date": "2026-09-24",
+        "url": "https://www.cadillacf1team.com/partners"
+      }
+    },
+    {
+      "id": "tommy-hilfiger",
+      "name": "Tommy Hilfiger",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "pvh-corp",
+      "owner": "PVH Corp.",
+      "verdict": "Owned by PVH Corp.. Nothing found.",
+      "source": {
+        "name": "Cadillac Formula 1 Team – Official Partners",
+        "date": "2026-09-24",
+        "url": "https://www.cadillacf1team.com/partners"
+      }
+    },
+    {
+      "id": "twg-ai",
+      "name": "TWG AI",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "twg-global",
+      "owner": "TWG Global / TWG Motorsports",
+      "verdict": "Owned by TWG Global LLC (Mark Walter / Todd Boehly). Nothing found.",
+      "source": {
+        "name": "Cadillac Formula 1 Team – Official Partners",
+        "date": "2026-09-24",
+        "url": "https://www.cadillacf1team.com/partners"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "america-movil",
+    "core-scientific",
+    "pvh-corp",
+    "twg-global"
+  ],
+  "lastUpdated": "2026-09-24"
+}

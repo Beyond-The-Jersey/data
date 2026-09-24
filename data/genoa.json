@@ -1,0 +1,28 @@
+{
+  "id": "genoa",
+  "team": "Genoa CFC",
+  "sport": "soccer",
+  "league": "serie-a",
+  "country": "Italy",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "pulsee-luce-e-gas",
+      "name": "Pulsee Luce e Gas",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Pulsee",
+        "date": "2026-07-14",
+        "url": "https://pulsee.it/chi-siamo/sponsorship/genoa-cfc"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

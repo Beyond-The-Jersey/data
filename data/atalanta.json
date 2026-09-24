@@ -1,0 +1,28 @@
+{
+  "id": "atalanta",
+  "team": "Atalanta BC",
+  "sport": "soccer",
+  "league": "serie-a",
+  "country": "Italy",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "lete",
+      "name": "Lete",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Atalanta BC",
+        "date": "2026-07-16",
+        "url": "https://en.atalanta.it/news/atalanta-s-shirt-sponsors-for-the-2026-27-campaign"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

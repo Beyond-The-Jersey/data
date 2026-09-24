@@ -1,0 +1,138 @@
+{
+  "id": "haas",
+  "team": "TGR Haas F1 Team",
+  "sport": "motorsport",
+  "league": "formula-1",
+  "country": "United States",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "alpinestars-h",
+      "name": "Alpinestars",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "TGR Haas F1 Team – Partners / VF-26 livery reveal",
+        "date": "2026-01-19",
+        "url": "https://www.haasf1team.com/news/tgr-haas-f1-team-reveals-vf-26-design-livery"
+      }
+    },
+    {
+      "id": "commscope",
+      "name": "CommScope / Ruckus Networks",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Sector – Haas 2026 F1 car launch reveals new partners (livery positions)",
+        "date": "2026-01-19",
+        "url": "https://sector.world/2026/01/haas-2026-f1-car-launch-reveals-new-partners/"
+      }
+    },
+    {
+      "id": "fix-network",
+      "name": "FIX Network",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Sector – Haas 2026 F1 car launch reveals new partners (livery positions)",
+        "date": "2026-01-19",
+        "url": "https://sector.world/2026/01/haas-2026-f1-car-launch-reveals-new-partners/"
+      }
+    },
+    {
+      "id": "ic-markets",
+      "name": "IC Markets",
+      "placement": "front",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "international-capital-markets",
+      "owner": "International Capital Markets Pty Ltd",
+      "verdict": "Owned by International Capital Markets Pty Ltd. Nothing found.",
+      "source": {
+        "name": "Sector – Haas 2026 F1 car launch reveals new partners (livery positions)",
+        "date": "2026-01-19",
+        "url": "https://sector.world/2026/01/haas-2026-f1-car-launch-reveals-new-partners/"
+      }
+    },
+    {
+      "id": "mgm-rewards",
+      "name": "MGM Rewards",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "mgm-resorts",
+      "owner": "MGM Resorts International",
+      "verdict": "Owned by MGM Resorts International. Nothing found.",
+      "source": {
+        "name": "TGR Haas F1 Team – Partners / VF-26 livery reveal",
+        "date": "2026-01-19",
+        "url": "https://www.haasf1team.com/news/tgr-haas-f1-team-reveals-vf-26-design-livery"
+      }
+    },
+    {
+      "id": "singha",
+      "name": "Singha",
+      "placement": "back",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "boon-rawd-brewery",
+      "owner": "Boon Rawd Brewery Co., Ltd. (Bhirombhakdi family)",
+      "verdict": "Owned by Boon Rawd Brewery Co., Ltd. (Bhirombhakdi family). Nothing found.",
+      "source": {
+        "name": "Sector – Haas 2026 F1 car launch reveals new partners (livery positions)",
+        "date": "2026-01-19",
+        "url": "https://sector.world/2026/01/haas-2026-f1-car-launch-reveals-new-partners/"
+      }
+    },
+    {
+      "id": "tgr",
+      "name": "Toyota Gazoo Racing",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Haas F1 Team – Toyota Gazoo Racing set for title partnership with Haas F1 Team in 2026",
+        "date": "2025-12-04",
+        "url": "https://www.haasf1team.com/news/toyota-gazoo-racing-set-title-partnership-haas-f1-team-2026"
+      }
+    },
+    {
+      "id": "zoomex",
+      "name": "Zoomex",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "zoomex",
+      "owner": "Zoomex (crypto derivatives exchange, founded 2021)",
+      "verdict": "Owned by Zoomex (crypto derivatives exchange, founded 2021). Nothing found.",
+      "source": {
+        "name": "TGR Haas F1 Team – Partners / VF-26 livery reveal",
+        "date": "2026-01-19",
+        "url": "https://www.haasf1team.com/news/tgr-haas-f1-team-reveals-vf-26-design-livery"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "boon-rawd-brewery",
+    "international-capital-markets",
+    "mgm-resorts",
+    "zoomex"
+  ],
+  "lastUpdated": "2026-09-24"
+}

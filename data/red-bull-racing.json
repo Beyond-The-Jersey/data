@@ -1,0 +1,168 @@
+{
+  "id": "red-bull-racing",
+  "team": "Oracle Red Bull Racing",
+  "sport": "motorsport",
+  "league": "formula-1",
+  "country": "United Kingdom",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "att",
+      "name": "AT&T",
+      "placement": "sleeve",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "att-inc",
+      "owner": "AT&T Inc.",
+      "verdict": "Owned by AT&T Inc.. Nothing found.",
+      "source": {
+        "name": "AT&T – AT&T turbocharges partnership with Oracle Red Bull Racing",
+        "date": "2024-06-06",
+        "url": "https://about.att.com/story/2024/oracle-red-bull-racing.html"
+      }
+    },
+    {
+      "id": "damac",
+      "name": "DAMAC Properties",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "maple-invest",
+      "owner": "Maple Invest Co. Ltd (Hussain Sajwani family)",
+      "verdict": "Owned by Maple Invest Co. Ltd (Hussain Sajwani family). Nothing found.",
+      "source": {
+        "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+        "date": "2026-09-24",
+        "url": "https://www.redbullracing.com/int-en/partners"
+      }
+    },
+    {
+      "id": "ford",
+      "name": "Ford / Ford Racing",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+        "date": "2026-09-24",
+        "url": "https://www.redbullracing.com/int-en/partners"
+      }
+    },
+    {
+      "id": "gate",
+      "name": "Gate",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "gate-group",
+      "owner": "Gate Group / Gate Technology Inc.",
+      "verdict": "Owned by Gate Group / Gate Technology Inc.. Nothing found.",
+      "source": {
+        "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+        "date": "2026-09-24",
+        "url": "https://www.redbullracing.com/int-en/partners"
+      }
+    },
+    {
+      "id": "hard-rock",
+      "name": "Hard Rock International",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "seminole-tribe-of-florida",
+      "owner": "Seminole Tribe of Florida (Hard Rock International)",
+      "verdict": "Owned by Seminole Tribe of Florida (Hard Rock International). Nothing found.",
+      "source": {
+        "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+        "date": "2026-09-24",
+        "url": "https://www.redbullracing.com/int-en/partners"
+      }
+    },
+    {
+      "id": "mobil-1",
+      "name": "Mobil 1 / Esso",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+        "date": "2026-09-24",
+        "url": "https://www.redbullracing.com/int-en/partners"
+      }
+    },
+    {
+      "id": "oracle",
+      "name": "Oracle",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+        "date": "2026-09-24",
+        "url": "https://www.redbullracing.com/int-en/partners"
+      }
+    },
+    {
+      "id": "siemens",
+      "name": "Siemens",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+        "date": "2026-09-24",
+        "url": "https://www.redbullracing.com/int-en/partners"
+      }
+    },
+    {
+      "id": "tag-heuer",
+      "name": "TAG Heuer",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+        "date": "2026-09-24",
+        "url": "https://www.redbullracing.com/int-en/partners"
+      }
+    },
+    {
+      "id": "visa",
+      "name": "Visa",
+      "placement": "sleeve",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Visa Investor Relations – Visa renews partnership across Red Bull Formula One teams",
+        "date": "2026-02-21",
+        "url": "https://investor.visa.com/news/news-details/2026/Visa-Renews-Partnership-Across-Red-Bull-Formula-One-Teams"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "att-inc",
+    "gate-group",
+    "maple-invest",
+    "seminole-tribe-of-florida"
+  ],
+  "lastUpdated": "2026-09-24"
+}

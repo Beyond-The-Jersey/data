@@ -1,10 +1,24 @@
 [
   {
+    "id": "agnelli-elkann",
+    "name": "Agnelli/Elkann family",
+    "type": "private-company",
+    "country": "Italy",
+    "parentId": "exor-nv"
+  },
+  {
     "id": "aia-group",
     "name": "AIA Group",
     "type": "listed-company",
     "parentId": null,
     "country": "Hong Kong"
+  },
+  {
+    "id": "america-movil",
+    "name": "America Movil, S.A.B. de C.V. (Slim family control)",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Mexico"
   },
   {
     "id": "american-express-company",
@@ -14,11 +28,46 @@
     "parentId": null
   },
   {
+    "id": "amr-gp",
+    "name": "AMR GP Limited",
+    "type": "private-company",
+    "country": "United Kingdom",
+    "parentId": null
+  },
+  {
     "id": "arctempus",
     "name": "Arctempus",
     "type": "private-company",
     "parentId": null,
     "country": "Spain"
+  },
+  {
+    "id": "asahi-group-holdings",
+    "name": "Asahi Group Holdings, Ltd.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Japan"
+  },
+  {
+    "id": "aston-martin-lagonda",
+    "name": "Aston Martin Lagonda Global Holdings plc",
+    "type": "listed-company",
+    "country": "United Kingdom",
+    "parentId": null
+  },
+  {
+    "id": "att-inc",
+    "name": "AT&T Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "United States"
+  },
+  {
+    "id": "audi-ag",
+    "name": "Audi AG",
+    "type": "listed-company",
+    "country": "Germany",
+    "parentId": "volkswagen-ag"
   },
   {
     "id": "baghdadi-capital",
@@ -56,6 +105,27 @@
     "country": "Germany"
   },
   {
+    "id": "block-inc",
+    "name": "Block, Inc. (Cash App)",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "United States"
+  },
+  {
+    "id": "boon-rawd-brewery",
+    "name": "Boon Rawd Brewery Co., Ltd. (Bhirombhakdi family)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Thailand"
+  },
+  {
+    "id": "bp-plc",
+    "name": "BP p.l.c.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "United Kingdom"
+  },
+  {
     "id": "c-hedenkamp",
     "name": "C. Hedenkamp GmbH",
     "type": "private-company",
@@ -91,6 +161,20 @@
     "country": "GB"
   },
   {
+    "id": "coinbase-global",
+    "name": "Coinbase Global, Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "United States"
+  },
+  {
+    "id": "core-scientific",
+    "name": "Core Scientific, Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "United States"
+  },
+  {
     "id": "corendon-airlines",
     "name": "Corendon Airlines",
     "type": "private-company",
@@ -110,6 +194,20 @@
     "type": "private-company",
     "parentId": null,
     "country": "ES"
+  },
+  {
+    "id": "cyvn",
+    "name": "CYVN Holdings",
+    "type": "state-fund",
+    "country": "United Arab Emirates",
+    "parentId": "mclaren-group"
+  },
+  {
+    "id": "dan-towriss",
+    "name": "Dan Towriss",
+    "type": "private-company",
+    "country": "United States",
+    "parentId": "twg-global"
   },
   {
     "id": "deel-inc",
@@ -154,11 +252,25 @@
     "country": "ZA"
   },
   {
+    "id": "dorilton",
+    "name": "Dorilton Capital",
+    "type": "private-company",
+    "country": "United States",
+    "parentId": null
+  },
+  {
     "id": "eni-spa",
     "name": "Eni S.p.A. (Plenitude S.p.A. subsidiary)",
     "type": "listed-company",
     "parentId": null,
     "country": "IT"
+  },
+  {
+    "id": "essilorluxottica",
+    "name": "EssilorLuxottica SA",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "France/Italy"
   },
   {
     "id": "estrella-galicia",
@@ -168,11 +280,25 @@
     "country": "Spain"
   },
   {
+    "id": "exor-nv",
+    "name": "Exor N.V.",
+    "type": "listed-company",
+    "country": "Netherlands",
+    "parentId": null
+  },
+  {
     "id": "federal-republic-of-germany",
     "name": "Federal Republic of Germany (direct stake + KfW) with the remainder free float",
     "type": "state",
     "parentId": null,
     "country": "DE"
+  },
+  {
+    "id": "ferrari-nv",
+    "name": "Ferrari N.V.",
+    "type": "listed-company",
+    "country": "Italy",
+    "parentId": null
   },
   {
     "id": "flexicar",
@@ -189,11 +315,67 @@
     "country": "ES"
   },
   {
+    "id": "french-state",
+    "name": "French State via APE",
+    "type": "state",
+    "country": "France",
+    "parentId": "renault-group"
+  },
+  {
     "id": "fundacion-1890",
     "name": "Fundacion 1890",
     "type": "private-company",
     "parentId": null,
     "country": "Spain"
+  },
+  {
+    "id": "gate-group",
+    "name": "Gate Group / Gate Technology Inc.",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Cayman Islands"
+  },
+  {
+    "id": "gene-haas",
+    "name": "Gene Haas",
+    "type": "private-company",
+    "country": "United States",
+    "parentId": null
+  },
+  {
+    "id": "general-motors",
+    "name": "General Motors",
+    "type": "listed-company",
+    "country": "United States",
+    "parentId": null
+  },
+  {
+    "id": "george-kurtz",
+    "name": "George Kurtz",
+    "type": "private-company",
+    "country": "United States",
+    "parentId": "motorsport-invest"
+  },
+  {
+    "id": "gov-malaysia",
+    "name": "Government of Malaysia (via Minister of Finance (Incorporated))",
+    "type": "state",
+    "parentId": null,
+    "country": "Malaysia"
+  },
+  {
+    "id": "gov-qatar",
+    "name": "State of Qatar (Qatar Tourism / Visit Qatar)",
+    "type": "state",
+    "parentId": null,
+    "country": "Qatar"
+  },
+  {
+    "id": "gov-saudi-arabia",
+    "name": "Government of Saudi Arabia (Saudi Arabian Oil Company, 'Aramco')",
+    "type": "state",
+    "parentId": null,
+    "country": "Saudi Arabia"
   },
   {
     "id": "government-of-abu-dhabi",
@@ -254,6 +436,20 @@
     "country": "ES"
   },
   {
+    "id": "haas-automation",
+    "name": "Haas Automation",
+    "type": "private-company",
+    "country": "United States",
+    "parentId": "gene-haas"
+  },
+  {
+    "id": "haas-formula",
+    "name": "Haas Formula LLC",
+    "type": "private-company",
+    "country": "United States",
+    "parentId": "gene-haas"
+  },
+  {
     "id": "halo-lifestyle-llc",
     "name": "Halo Lifestyle LLC (HALO Hydration)",
     "type": "private-company",
@@ -289,11 +485,39 @@
     "country": "DE"
   },
   {
+    "id": "hugo-boss-ag",
+    "name": "HUGO BOSS AG",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Germany"
+  },
+  {
+    "id": "ibm-corp",
+    "name": "International Business Machines Corporation",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "United States"
+  },
+  {
     "id": "indeed-inc",
     "name": "Indeed, Inc.",
     "type": "private-company",
     "parentId": "recruit-holdings",
     "country": "USA"
+  },
+  {
+    "id": "ineos",
+    "name": "INEOS Industries Holdings",
+    "type": "private-company",
+    "country": "United Kingdom",
+    "parentId": null
+  },
+  {
+    "id": "international-capital-markets",
+    "name": "International Capital Markets Pty Ltd",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Australia"
   },
   {
     "id": "jasper-white",
@@ -324,6 +548,13 @@
     "country": "Germany"
   },
   {
+    "id": "komatsu-ltd",
+    "name": "Komatsu Ltd.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Japan"
+  },
+  {
     "id": "kosner",
     "name": "Kosner",
     "type": "private-company",
@@ -352,6 +583,13 @@
     "country": "Germany"
   },
   {
+    "id": "lawrence-stroll",
+    "name": "Lawrence Stroll",
+    "type": "private-company",
+    "country": "Canada",
+    "parentId": "yew-tree"
+  },
+  {
     "id": "lbbw",
     "name": "Landesbank Baden-Wuerttemberg",
     "type": "listed-company",
@@ -367,11 +605,25 @@
     "country": "Germany"
   },
   {
+    "id": "maple-invest",
+    "name": "Maple Invest Co. Ltd (Hussain Sajwani family)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "United Arab Emirates"
+  },
+  {
     "id": "marex-group-plc",
     "name": "Marex Group plc (Nasdaq-listed) — public and former PE sponsors",
     "type": "listed-company",
     "parentId": null,
     "country": "GB"
+  },
+  {
+    "id": "mark-mateschitz",
+    "name": "Mark Mateschitz",
+    "type": "private-company",
+    "country": "Austria",
+    "parentId": "red-bull-gmbh"
   },
   {
     "id": "mateschitz-yoovidhya-families",
@@ -395,6 +647,27 @@
     "country": "DE"
   },
   {
+    "id": "mclaren-group",
+    "name": "McLaren Group Holdings",
+    "type": "private-company",
+    "country": "United Kingdom",
+    "parentId": null
+  },
+  {
+    "id": "mercedes-benz-group",
+    "name": "Mercedes-Benz Group AG",
+    "type": "listed-company",
+    "country": "Germany",
+    "parentId": null
+  },
+  {
+    "id": "mgm-resorts",
+    "name": "MGM Resorts International",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "United States"
+  },
+  {
     "id": "mk-sports-news",
     "name": "mk体育 / MKSPORTS News (mktynews.com)",
     "type": "unknown",
@@ -414,6 +687,41 @@
     "type": "private-company",
     "parentId": null,
     "country": "GB"
+  },
+  {
+    "id": "motorsport-invest",
+    "name": "Motorsport Invest Limited",
+    "type": "private-company",
+    "country": "United Kingdom",
+    "parentId": null
+  },
+  {
+    "id": "mubadala",
+    "name": "Mubadala Investment Company (Abu Dhabi sovereign fund)",
+    "type": "state-fund",
+    "parentId": null,
+    "country": "United Arab Emirates"
+  },
+  {
+    "id": "mumtalakat",
+    "name": "Bahrain Mumtalakat Holding Company",
+    "type": "state-fund",
+    "country": "Bahrain",
+    "parentId": "mclaren-group"
+  },
+  {
+    "id": "okx-group",
+    "name": "OKX / Aux Cayes FinTech Co. Ltd (OK Group)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Seychelles"
+  },
+  {
+    "id": "otro-capital",
+    "name": "Otro Capital",
+    "type": "private-company",
+    "country": "United States",
+    "parentId": null
   },
   {
     "id": "pamesa-ceramica",
@@ -437,6 +745,20 @@
     "country": "US"
   },
   {
+    "id": "piero-ferrari",
+    "name": "Piero Ferrari",
+    "type": "private-company",
+    "country": "Italy",
+    "parentId": "ferrari-nv"
+  },
+  {
+    "id": "pif",
+    "name": "Public Investment Fund (PIF)",
+    "type": "state-fund",
+    "parentId": null,
+    "country": "Saudi Arabia"
+  },
+  {
     "id": "plenitude-eni",
     "name": "Plenitude (Eni)",
     "type": "listed-company",
@@ -449,6 +771,20 @@
     "type": "private-company",
     "parentId": null,
     "country": "DE"
+  },
+  {
+    "id": "pvh-corp",
+    "name": "PVH Corp.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "United States"
+  },
+  {
+    "id": "qia",
+    "name": "Qatar Investment Authority",
+    "type": "state-fund",
+    "country": "Qatar",
+    "parentId": null
   },
   {
     "id": "qualcomm",
@@ -486,6 +822,20 @@
     "country": "Austria"
   },
   {
+    "id": "red-bull-racing-limited",
+    "name": "Red Bull Racing Limited",
+    "type": "private-company",
+    "country": "United Kingdom",
+    "parentId": "red-bull-gmbh"
+  },
+  {
+    "id": "renault-group",
+    "name": "Renault Group",
+    "type": "listed-company",
+    "country": "France",
+    "parentId": null
+  },
+  {
     "id": "reuter-gruppe",
     "name": "Reuter Gruppe",
     "type": "private-company",
@@ -493,11 +843,25 @@
     "country": "Germany"
   },
   {
+    "id": "revolut-group-holdings",
+    "name": "Revolut Group Holdings Ltd",
+    "type": "private-company",
+    "parentId": null,
+    "country": "United Kingdom"
+  },
+  {
     "id": "rewe-group",
     "name": "REWE Group",
     "type": "private-company",
     "parentId": null,
     "country": "Germany"
+  },
+  {
+    "id": "rolex-sa",
+    "name": "Rolex SA (Hans Wilsdorf Foundation)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Switzerland"
   },
   {
     "id": "russian-federation",
@@ -512,6 +876,13 @@
     "type": "private-company",
     "parentId": null,
     "country": "Spain"
+  },
+  {
+    "id": "salesforce-inc",
+    "name": "Salesforce, Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "United States"
   },
   {
     "id": "sap-se",
@@ -529,6 +900,13 @@
     "parentId": "government-of-saudi-arabia"
   },
   {
+    "id": "seminole-tribe-of-florida",
+    "name": "Seminole Tribe of Florida (Hard Rock International)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "United States"
+  },
+  {
     "id": "sesame-hr",
     "name": "Sesame HR",
     "type": "private-company",
@@ -541,6 +919,13 @@
     "type": "private-company",
     "parentId": null,
     "country": "ES"
+  },
+  {
+    "id": "shell-plc",
+    "name": "Shell plc",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "United Kingdom"
   },
   {
     "id": "spotify-technology",
@@ -569,6 +954,13 @@
     "type": "state",
     "parentId": null,
     "country": "DE"
+  },
+  {
+    "id": "super-group",
+    "name": "Super Group (SGHC) Limited",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Guernsey"
   },
   {
     "id": "tecnocasa-group",
@@ -606,10 +998,24 @@
     "country": "Spain"
   },
   {
+    "id": "toto-wolff",
+    "name": "Toto Wolff",
+    "type": "private-company",
+    "country": "Austria",
+    "parentId": "motorsport-invest"
+  },
+  {
     "id": "turkiye-wealth-fund",
     "name": "Türkiye Wealth Fund",
     "type": "state-fund",
     "country": "Türkiye",
+    "parentId": null
+  },
+  {
+    "id": "twg-global",
+    "name": "TWG Global / TWG Motorsports",
+    "type": "private-company",
+    "country": "United States",
     "parentId": null
   },
   {
@@ -655,6 +1061,20 @@
     "country": "GB"
   },
   {
+    "id": "volkswagen-ag",
+    "name": "Volkswagen Group AG",
+    "type": "listed-company",
+    "country": "Germany",
+    "parentId": null
+  },
+  {
+    "id": "williams-grand-prix-engineering",
+    "name": "Williams Grand Prix Engineering Ltd",
+    "type": "private-company",
+    "country": "United Kingdom",
+    "parentId": "dorilton"
+  },
+  {
     "id": "wwk-lebensversicherung-ag",
     "name": "WWK Lebensversicherung a.G. (WWK Versicherungsgruppe)",
     "type": "private-company",
@@ -667,5 +1087,26 @@
     "type": "private-company",
     "parentId": null,
     "country": "Germany"
+  },
+  {
+    "id": "yew-tree",
+    "name": "Yew Tree Consortium",
+    "type": "private-company",
+    "country": "United Kingdom",
+    "parentId": "amr-gp"
+  },
+  {
+    "id": "yoovidhya-family",
+    "name": "Yoovidhya family",
+    "type": "private-company",
+    "country": "Thailand",
+    "parentId": "red-bull-gmbh"
+  },
+  {
+    "id": "zoomex",
+    "name": "Zoomex (crypto derivatives exchange, founded 2021)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "unknown"
   }
 ]

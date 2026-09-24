@@ -1,0 +1,28 @@
+{
+  "id": "monza",
+  "team": "AC Monza",
+  "sport": "soccer",
+  "league": "serie-a",
+  "country": "Italy",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "dazn-bet-club",
+      "name": "DAZN Bet Club",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "AC Monza",
+        "date": "2026-07-01",
+        "url": "https://www.acmonza.com/en/news/DAZN-Bet-Club-Official-Sponsor-Jersey"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

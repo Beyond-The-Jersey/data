@@ -1,0 +1,151 @@
+{
+  "id": "mercedes",
+  "team": "Mercedes-AMG PETRONAS F1 Team",
+  "sport": "motorsport",
+  "league": "formula-1",
+  "country": "United Kingdom",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "adidas",
+      "name": "adidas",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Mercedes-AMG PETRONAS F1 Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.mercedesamgf1.com/partners"
+      }
+    },
+    {
+      "id": "crowdstrike",
+      "name": "CrowdStrike",
+      "placement": "sleeve",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "CrowdStrike – Global partnership with Mercedes-AMG Petronas Motorsport",
+        "date": "2019-02-07",
+        "url": "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-announces-global-partnership-with-mercedes-amg-petronas-motorsport-to-protect-the-formula-one-team-in-the-paddock-and-beyond/"
+      }
+    },
+    {
+      "id": "g42",
+      "name": "G42",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "serious",
+      "ownerId": "mubadala",
+      "owner": "Mubadala Investment Company (Abu Dhabi sovereign fund)",
+      "verdict": "G42 is anchor-invested by Mubadala, Abu Dhabi's sovereign wealth fund, and is chaired by Sheikh Tahnoon bin Zayed (ruling family) - UAE state money, rated serious….",
+      "source": {
+        "name": "G42 (Abu Dhabi) – Mercedes-AMG PETRONAS F1 Team announces G42 as an Official Partner",
+        "date": "2023-02-15",
+        "url": "https://www.g42.ai/resources/news/mercedes-amg-petronas-f1-team-announces-g42-official-partner"
+      }
+    },
+    {
+      "id": "ineos-s",
+      "name": "INEOS",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Mercedes-AMG PETRONAS F1 Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.mercedesamgf1.com/partners"
+      }
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Mercedes-AMG PETRONAS F1 Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.mercedesamgf1.com/partners"
+      }
+    },
+    {
+      "id": "petronas",
+      "name": "PETRONAS",
+      "placement": "front",
+      "season": "2026",
+      "tier": "serious",
+      "ownerId": "gov-malaysia",
+      "owner": "Government of Malaysia (via Minister of Finance (Incorporated))",
+      "verdict": "Petronas is wholly state-owned - its shares sit with Minister of Finance (Incorporated), a body corporate created by statute - and Malaysia's record (migrant….",
+      "source": {
+        "name": "Mercedes-AMG F1 – Mercedes-AMG F1 and PETRONAS power towards two decades of partnership",
+        "date": "2022-09-28",
+        "url": "https://www.mercedesamgf1.com/news/mercedes-amg-f1-and-petronas-power-towards-two-decades-of-partnership-and-embrace-f1s-sustainable-future"
+      }
+    },
+    {
+      "id": "qualcomm",
+      "name": "Qualcomm Snapdragon",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Mercedes-AMG PETRONAS F1 Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.mercedesamgf1.com/partners"
+      }
+    },
+    {
+      "id": "teamviewer",
+      "name": "TeamViewer",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Mercedes-AMG PETRONAS F1 Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.mercedesamgf1.com/partners"
+      }
+    },
+    {
+      "id": "ubs",
+      "name": "UBS",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Mercedes-AMG PETRONAS F1 Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.mercedesamgf1.com/partners"
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "gov-malaysia",
+    "mubadala"
+  ],
+  "lastUpdated": "2026-09-24"
+}

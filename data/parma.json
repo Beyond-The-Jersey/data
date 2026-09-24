@@ -1,0 +1,28 @@
+{
+  "id": "parma",
+  "team": "Parma Calcio 1913",
+  "sport": "soccer",
+  "league": "serie-a",
+  "country": "Italy",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "prometeon",
+      "name": "Prometeon",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Parma Calcio 1913",
+        "date": "2025-10-30",
+        "url": "https://www.parmacalcio1913.com/en/main-news/prometeon-and-parma-calcio-together-on-the-pitch-again/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

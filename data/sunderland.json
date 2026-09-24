@@ -10,7 +10,23 @@
     "website": "https://www.safc.com",
     "contact-form": "https://www.safc.com/contact"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "shuffle",
+      "name": "Shuffle",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Sunderland AFC – 'Sunderland AFC and Shuffle join forces in new global sleeve partnership'",
+        "date": "2026-09-11",
+        "url": "https://www.safc.com/news/2026/september/11/sunderland-afc-and-shuffle-join-forces-in-new-global-sleeve-partnership/"
+      }
+    }
+  ],
   "worstTier": "unrated",
   "owners": [],
   "lastUpdated": "2026-09-24"

@@ -1066,6 +1066,433 @@
       "sport": "baseball",
       "league": "mlb",
       "file": "washington-nationals.json"
+    },
+    {
+      "id": "ac-milan",
+      "name": "AC Milan",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "ac-milan.json"
+    },
+    {
+      "id": "alpine",
+      "name": "BWT Alpine F1 Team",
+      "sport": "motorsport",
+      "league": "formula-1",
+      "file": "alpine.json"
+    },
+    {
+      "id": "as-roma",
+      "name": "AS Roma",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "as-roma.json"
+    },
+    {
+      "id": "aston-martin",
+      "name": "Aston Martin Aramco F1 Team",
+      "sport": "motorsport",
+      "league": "formula-1",
+      "file": "aston-martin.json"
+    },
+    {
+      "id": "atalanta",
+      "name": "Atalanta BC",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "atalanta.json"
+    },
+    {
+      "id": "atlanta-united",
+      "name": "Atlanta United FC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "atlanta-united.json"
+    },
+    {
+      "id": "audi",
+      "name": "Audi Revolut F1 Team",
+      "sport": "motorsport",
+      "league": "formula-1",
+      "file": "audi.json"
+    },
+    {
+      "id": "austin-fc",
+      "name": "Austin FC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "austin-fc.json"
+    },
+    {
+      "id": "bologna",
+      "name": "Bologna FC 1909",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "bologna.json"
+    },
+    {
+      "id": "cadillac",
+      "name": "Cadillac Formula 1 Team",
+      "sport": "motorsport",
+      "league": "formula-1",
+      "file": "cadillac.json"
+    },
+    {
+      "id": "cagliari",
+      "name": "Cagliari Calcio",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "cagliari.json"
+    },
+    {
+      "id": "cf-montreal",
+      "name": "CF Montreal",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "cf-montreal.json"
+    },
+    {
+      "id": "charlotte-fc",
+      "name": "Charlotte FC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "charlotte-fc.json"
+    },
+    {
+      "id": "chicago-fire",
+      "name": "Chicago Fire FC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "chicago-fire.json"
+    },
+    {
+      "id": "colorado-rapids",
+      "name": "Colorado Rapids",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "colorado-rapids.json"
+    },
+    {
+      "id": "columbus-crew",
+      "name": "Columbus Crew",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "columbus-crew.json"
+    },
+    {
+      "id": "como",
+      "name": "Como 1907",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "como.json"
+    },
+    {
+      "id": "dc-united",
+      "name": "D.C. United",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "dc-united.json"
+    },
+    {
+      "id": "fc-cincinnati",
+      "name": "FC Cincinnati",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "fc-cincinnati.json"
+    },
+    {
+      "id": "fc-dallas",
+      "name": "FC Dallas",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "fc-dallas.json"
+    },
+    {
+      "id": "ferrari",
+      "name": "Scuderia Ferrari HP",
+      "sport": "motorsport",
+      "league": "formula-1",
+      "file": "ferrari.json"
+    },
+    {
+      "id": "fiorentina",
+      "name": "ACF Fiorentina",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "fiorentina.json"
+    },
+    {
+      "id": "frosinone",
+      "name": "Frosinone Calcio",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "frosinone.json"
+    },
+    {
+      "id": "genoa",
+      "name": "Genoa CFC",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "genoa.json"
+    },
+    {
+      "id": "haas",
+      "name": "TGR Haas F1 Team",
+      "sport": "motorsport",
+      "league": "formula-1",
+      "file": "haas.json"
+    },
+    {
+      "id": "houston-dynamo",
+      "name": "Houston Dynamo FC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "houston-dynamo.json"
+    },
+    {
+      "id": "inter-miami",
+      "name": "Inter Miami CF",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "inter-miami.json"
+    },
+    {
+      "id": "inter-milan",
+      "name": "Inter Milan",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "inter-milan.json"
+    },
+    {
+      "id": "juventus",
+      "name": "Juventus FC",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "juventus.json"
+    },
+    {
+      "id": "la-galaxy",
+      "name": "LA Galaxy",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "la-galaxy.json"
+    },
+    {
+      "id": "lazio",
+      "name": "SS Lazio",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "lazio.json"
+    },
+    {
+      "id": "lecce",
+      "name": "US Lecce",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "lecce.json"
+    },
+    {
+      "id": "los-angeles-fc",
+      "name": "Los Angeles FC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "los-angeles-fc.json"
+    },
+    {
+      "id": "mclaren",
+      "name": "McLaren Mastercard F1 Team",
+      "sport": "motorsport",
+      "league": "formula-1",
+      "file": "mclaren.json"
+    },
+    {
+      "id": "mercedes",
+      "name": "Mercedes-AMG PETRONAS F1 Team",
+      "sport": "motorsport",
+      "league": "formula-1",
+      "file": "mercedes.json"
+    },
+    {
+      "id": "minnesota-united",
+      "name": "Minnesota United FC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "minnesota-united.json"
+    },
+    {
+      "id": "monza",
+      "name": "AC Monza",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "monza.json"
+    },
+    {
+      "id": "napoli",
+      "name": "SSC Napoli",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "napoli.json"
+    },
+    {
+      "id": "nashville-sc",
+      "name": "Nashville SC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "nashville-sc.json"
+    },
+    {
+      "id": "new-england-revolution",
+      "name": "New England Revolution",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "new-england-revolution.json"
+    },
+    {
+      "id": "new-york-city-fc",
+      "name": "New York City FC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "new-york-city-fc.json"
+    },
+    {
+      "id": "new-york-red-bulls",
+      "name": "New York Red Bulls",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "new-york-red-bulls.json"
+    },
+    {
+      "id": "orlando-city",
+      "name": "Orlando City SC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "orlando-city.json"
+    },
+    {
+      "id": "parma",
+      "name": "Parma Calcio 1913",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "parma.json"
+    },
+    {
+      "id": "philadelphia-union",
+      "name": "Philadelphia Union",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "philadelphia-union.json"
+    },
+    {
+      "id": "portland-timbers",
+      "name": "Portland Timbers",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "portland-timbers.json"
+    },
+    {
+      "id": "racing-bulls",
+      "name": "Visa Cash App Racing Bulls F1 Team",
+      "sport": "motorsport",
+      "league": "formula-1",
+      "file": "racing-bulls.json"
+    },
+    {
+      "id": "real-salt-lake",
+      "name": "Real Salt Lake",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "real-salt-lake.json"
+    },
+    {
+      "id": "red-bull-racing",
+      "name": "Oracle Red Bull Racing",
+      "sport": "motorsport",
+      "league": "formula-1",
+      "file": "red-bull-racing.json"
+    },
+    {
+      "id": "san-diego-fc",
+      "name": "San Diego FC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "san-diego-fc.json"
+    },
+    {
+      "id": "san-jose-earthquakes",
+      "name": "San Jose Earthquakes",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "san-jose-earthquakes.json"
+    },
+    {
+      "id": "sassuolo",
+      "name": "US Sassuolo",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "sassuolo.json"
+    },
+    {
+      "id": "seattle-sounders",
+      "name": "Seattle Sounders FC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "seattle-sounders.json"
+    },
+    {
+      "id": "sporting-kansas-city",
+      "name": "Sporting Kansas City",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "sporting-kansas-city.json"
+    },
+    {
+      "id": "st-louis-city",
+      "name": "St. Louis CITY SC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "st-louis-city.json"
+    },
+    {
+      "id": "torino",
+      "name": "Torino FC",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "torino.json"
+    },
+    {
+      "id": "toronto-fc",
+      "name": "Toronto FC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "toronto-fc.json"
+    },
+    {
+      "id": "udinese",
+      "name": "Udinese Calcio",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "udinese.json"
+    },
+    {
+      "id": "vancouver-whitecaps",
+      "name": "Vancouver Whitecaps FC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "vancouver-whitecaps.json"
+    },
+    {
+      "id": "venezia",
+      "name": "Venezia FC",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "venezia.json"
+    },
+    {
+      "id": "williams",
+      "name": "Atlassian Williams F1 Team",
+      "sport": "motorsport",
+      "league": "formula-1",
+      "file": "williams.json"
     }
   ]
 }

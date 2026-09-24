@@ -12,6 +12,21 @@
   },
   "sponsors": [
     {
+      "id": "mrq",
+      "name": "MrQ",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "AFC Bournemouth – 'AFC Bournemouth announces multi-year partnership with MrQ'",
+        "date": "2026-07-08",
+        "url": "https://www.afcb.co.uk/news/2026/july/08/afc-bournemouth-announces-multi-year-partnership-with-mrq/"
+      }
+    },
+    {
       "id": "vitality",
       "name": "Vitality",
       "placement": "front",

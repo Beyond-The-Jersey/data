@@ -13,6 +13,21 @@
   },
   "sponsors": [
     {
+      "id": "chexx",
+      "name": "CHEXX",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Crystal Palace FC – 'Crystal Palace FC announce CHEXX as Official Sleeve Partner'",
+        "date": "2026-08-28",
+        "url": "https://www.cpfc.co.uk/news/announcement/crystal-palace-fc-announce-chexx-as-official-sleeve-partner/"
+      }
+    },
+    {
       "id": "temporal",
       "name": "Temporal",
       "placement": "front",

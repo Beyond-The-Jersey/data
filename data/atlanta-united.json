@@ -1,0 +1,28 @@
+{
+  "id": "atlanta-united",
+  "team": "Atlanta United FC",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "USA",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "american-family-insurance",
+      "name": "American Family Insurance",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "atlutd.com",
+        "date": "2026-02-17",
+        "url": "https://www.atlutd.com/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

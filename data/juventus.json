@@ -1,0 +1,28 @@
+{
+  "id": "juventus",
+  "team": "Juventus FC",
+  "sport": "soccer",
+  "league": "serie-a",
+  "country": "Italy",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "jeep",
+      "name": "Jeep (with Visit Detroit)",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Juventus FC",
+        "date": "2025-05-15",
+        "url": "https://www.juventus.com/it/news/articoli/jeep-e-visit-detroit-nuovi-front-of-shirt-partner-della-juventus-a-partire-dalla-stagione-2025-26"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

@@ -12,6 +12,21 @@
   },
   "sponsors": [
     {
+      "id": "geely-auto-uk",
+      "name": "Geely Auto UK",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Coventry City FC – 'Coventry City FC announces Geely Auto UK as Official Sleeve Partner and Official Vehicle Partner'",
+        "date": "2026-08-21",
+        "url": "https://www.ccfc.co.uk/news/2026/august/21/coventry-city-fc-announces-geely-auto-uk-as-official-sleeve-partner-and-official-vehicle-partner/"
+      }
+    },
+    {
       "id": "monzo",
       "name": "Monzo",
       "placement": "front",

@@ -1,0 +1,28 @@
+{
+  "id": "fc-cincinnati",
+  "team": "FC Cincinnati",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "USA",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "mercy-health",
+      "name": "Mercy Health",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "FOR SOCCER",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

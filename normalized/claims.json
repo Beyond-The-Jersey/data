@@ -945,5 +945,439 @@
       "url": "https://boleron.eu/en/germany/insurer/wwk"
     },
     "reviewed": false
+  },
+  {
+    "id": "gov-saudi-arabia-record",
+    "ownerIds": [
+      "gov-saudi-arabia"
+    ],
+    "text": "Aramco is the Saudi state's economic engine and is state-controlled: the Government of Saudi Arabia holds 81.48% directly and the state's PIF a further 16%. The Saudi state's documented record (a record 345 executions in 2024; drug-offence executions continuing through 2026) makes this serious - severe is reserved for live armed conflict.",
+    "short": "Aramco is the Saudi state's economic engine and is state-controlled: the Government of Saudi Arabia holds 81.48% directly and the state's PIF a further 16%.",
+    "source": {
+      "name": "Amnesty International",
+      "date": "2025-07-16",
+      "url": "https://www.amnesty.org/en/latest/news/2025/07/saudi-arabia-escalation-executions-foreign-nationals-drug-related-offences/"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "pif-record",
+    "ownerIds": [
+      "pif"
+    ],
+    "text": "Ma'aden is majority-owned (~67%) by PIF, the Saudi sovereign wealth fund, so it carries the same Saudi state money as Aramco and the same serious rating.",
+    "short": "Ma'aden is majority-owned (~67%) by PIF, the Saudi sovereign wealth fund, so it carries the same Saudi state money as Aramco and the same serious rating.",
+    "source": {
+      "name": "AGBI (Arab Gulf Business Insight) company profile",
+      "date": "2026-09-24",
+      "url": "https://www.agbi.com/companies/maaden-company/"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "gov-qatar-record",
+    "ownerIds": [
+      "gov-qatar"
+    ],
+    "text": "Visit Qatar is the Qatari state's tourism body and became a principal partner of the (Audi) F1 team for 2026. Qatar's documented record - migrant workers still exposed to exploitation despite kafala reform, expression and assembly tightly restricted - rates serious.",
+    "short": "Visit Qatar is the Qatari state's tourism body and became a principal partner of the (Audi) F1 team for 2026.",
+    "source": {
+      "name": "Amnesty International - Human rights in Qatar (country report)",
+      "date": "2026-01-15",
+      "url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/qatar/report-qatar"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "gov-malaysia-record",
+    "ownerIds": [
+      "gov-malaysia"
+    ],
+    "text": "Petronas is wholly state-owned - its shares sit with Minister of Finance (Incorporated), a body corporate created by statute - and Malaysia's record (migrant workers in forced labour, refugees in indefinite detention, repressive laws used against dissent) is documented, so serious rather than concern.",
+    "short": "Petronas is wholly state-owned - its shares sit with Minister of Finance (Incorporated), a body corporate created by statute - and Malaysia's record (migrant….",
+    "source": {
+      "name": "Human Rights Watch - World Report, Malaysia chapter",
+      "date": "2026-01-15",
+      "url": "https://hrw.org/world-report/2026/country-chapters/malaysia"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "mubadala-record",
+    "ownerIds": [
+      "mubadala"
+    ],
+    "text": "G42 is anchor-invested by Mubadala, Abu Dhabi's sovereign wealth fund, and is chaired by Sheikh Tahnoon bin Zayed (ruling family) - UAE state money, rated serious on the UAE's upheld unfair mass-trial convictions.",
+    "short": "G42 is anchor-invested by Mubadala, Abu Dhabi's sovereign wealth fund, and is chaired by Sheikh Tahnoon bin Zayed (ruling family) - UAE state money, rated serious….",
+    "source": {
+      "name": "Human Rights Watch",
+      "date": "2025-03-04",
+      "url": "https://www.hrw.org/news/2025/03/04/uae-unfair-mass-trial-convictions-upheld"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "okx-group-record",
+    "ownerIds": [
+      "okx-group"
+    ],
+    "text": "No state shareholder found. Sustained regulatory record: OKX's operating entity Aux Cayes FinTech Co. Ltd pleaded guilty in the US (SDNY) to violating anti-money laundering law and agreed to penalties totalling more than $500m.",
+    "short": "No state shareholder found.",
+    "source": {
+      "name": "US Department of Justice, SDNY press release",
+      "date": "2025-02-24",
+      "url": "https://www.justice.gov/usao-sdny/pr/okx-pleads-guilty-violating-us-anti-money-laundering-laws-and-agrees-pay-penalties"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "gate-group-record",
+    "ownerIds": [
+      "gate-group"
+    ],
+    "text": "Gate is a privately held exchange group (Gate Technology Inc., George Town, Cayman Islands) with no state or sovereign shareholder; it holds licences in multiple jurisdictions and has no sustained adverse regulatory finding comparable to OKX's guilty plea.",
+    "short": "Gate is a privately held exchange group (Gate Technology Inc., George Town, Cayman Islands) with no state or sovereign shareholder; it holds licences in multiple….",
+    "source": {
+      "name": "Gate Group - Legal Licenses, Registrations and Regulatory Compliance",
+      "date": "2026-09-24",
+      "url": "https://www.gate.com/gategroup/legal/licenses"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "zoomex-record",
+    "ownerIds": [
+      "zoomex"
+    ],
+    "text": "Zoomex is a private exchange founded in 2021 with no disclosed state or sovereign investor and no sustained adverse regulatory record found in its own materials.",
+    "short": "Zoomex is a private exchange founded in 2021 with no disclosed state or sovereign investor and no sustained adverse regulatory record found in its own materials.",
+    "source": {
+      "name": "Zoomex - About Us",
+      "date": "2026-09-24",
+      "url": "https://www.zoomex.com/en/aboutus"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "coinbase-global-record",
+    "ownerIds": [
+      "coinbase-global"
+    ],
+    "text": "Coinbase is a listed company (Nasdaq: COIN) held by institutions and the public float, with no state shareholder. Its SEC enforcement action was dismissed in February 2025.",
+    "short": "Coinbase is a listed company (Nasdaq: COIN) held by institutions and the public float, with no state shareholder.",
+    "source": {
+      "name": "US Securities and Exchange Commission, press release 2025-47",
+      "date": "2025-02-27",
+      "url": "https://www.sec.gov/newsroom/press-releases/2025-47"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "core-scientific-record",
+    "ownerIds": [
+      "core-scientific"
+    ],
+    "text": "Core Scientific is a listed US bitcoin miner and data-centre operator (Nasdaq: CORZ) with no state shareholder; its 2024 Chapter 11 reorganisation was a corporate event, not a rights finding.",
+    "short": "Core Scientific is a listed US bitcoin miner and data-centre operator (Nasdaq: CORZ) with no state shareholder; its 2024 Chapter 11 reorganisation was a corporate….",
+    "source": {
+      "name": "Nasdaq - Core Scientific, Inc. (CORZ) listing",
+      "date": "2026-09-24",
+      "url": "https://www.nasdaq.com/market-activity/stocks/corz"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "super-group-record",
+    "ownerIds": [
+      "super-group"
+    ],
+    "text": "Betway's parent, Super Group (SGHC) Limited, is a NYSE-listed holding company of gaming brands (Betway, Jackpot City) with no state shareholder.",
+    "short": "Betway's parent, Super Group (SGHC) Limited, is a NYSE-listed holding company of gaming brands (Betway, Jackpot City) with no state shareholder.",
+    "source": {
+      "name": "Super Group (SGHC) Limited - investor relations / corporate profile",
+      "date": "2026-09-24",
+      "url": "https://supergroup.com/about/our-strategy/"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "block-inc-record",
+    "ownerIds": [
+      "block-inc"
+    ],
+    "text": "Cash App is a brand of Block, Inc., a NYSE-listed (XYZ) payments company owned by institutions and the public float, with no state shareholder.",
+    "short": "Cash App is a brand of Block, Inc., a NYSE-listed (XYZ) payments company owned by institutions and the public float, with no state shareholder.",
+    "source": {
+      "name": "Investopedia - Top Block (XYZ) shareholders",
+      "date": "2026-09-24",
+      "url": "https://investopedia.com/square-top-shareholders-5094562"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "revolut-group-holdings-record",
+    "ownerIds": [
+      "revolut-group-holdings"
+    ],
+    "text": "Revolut is a UK private limited company; the Companies House persons-with-significant-control register shows no state or sovereign entity holding control. In 2026 it is the reported title sponsor of the Audi F1 team.",
+    "short": "Revolut is a UK private limited company; the Companies House persons-with-significant-control register shows no state or sovereign entity holding control.",
+    "source": {
+      "name": "UK Companies House - REVOLUT LTD, persons with significant control",
+      "date": "2026-09-24",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/08804411/persons-with-significant-control"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "international-capital-markets-record",
+    "ownerIds": [
+      "international-capital-markets"
+    ],
+    "text": "IC Markets is the trading name of International Capital Markets Pty Ltd, an unlisted Australian company regulated by ASIC, with no state shareholder.",
+    "short": "IC Markets is the trading name of International Capital Markets Pty Ltd, an unlisted Australian company regulated by ASIC, with no state shareholder.",
+    "source": {
+      "name": "IC Markets - About Us / regulation (ASIC, ABN 123 289 109)",
+      "date": "2026-09-24",
+      "url": "https://www.icmarkets.com.au/en/company/about-us"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "boon-rawd-brewery-record",
+    "ownerIds": [
+      "boon-rawd-brewery"
+    ],
+    "text": "Singha is the flagship beer of Boon Rawd Brewery, founded 1933 and privately owned and family-controlled ever since - no Thai state shareholding.",
+    "short": "Singha is the flagship beer of Boon Rawd Brewery, founded 1933 and privately owned and family-controlled ever since - no Thai state shareholding.",
+    "source": {
+      "name": "Boon Rawd Brewery - company profile ('the privately owned company')",
+      "date": "2026-09-24",
+      "url": "https://www.boonrawd.co.th/index.php/en/about/profile"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "america-movil-record",
+    "ownerIds": [
+      "america-movil"
+    ],
+    "text": "Claro is the brand of America Movil's Mexican operator Telcel; America Movil is listed (BMV: AMXB; NYSE: AMX) and controlled by the Slim family. Formerly state-owned Telmex, privatised in 1990 - since then no state shareholding.",
+    "short": "Claro is the brand of America Movil's Mexican operator Telcel; America Movil is listed (BMV: AMXB; NYSE: AMX) and controlled by the Slim family.",
+    "source": {
+      "name": "America Movil - investors, annual reports (Form 20-F)",
+      "date": "2026-04-28",
+      "url": "https://www.americamovil.com/English/investors/reports-and-filings/annual-reports/default.aspx"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "twg-global-record",
+    "ownerIds": [
+      "twg-global"
+    ],
+    "text": "TWG Global is a privately held US investment firm (Mark Walter, Todd Boehly) and also owner of the Cadillac F1 team; no state shareholder. A 2026 class action against Walter is corporate, not a rights finding.",
+    "short": "TWG Global is a privately held US investment firm (Mark Walter, Todd Boehly) and also owner of the Cadillac F1 team; no state shareholder.",
+    "source": {
+      "name": "Motorsport.com - Cadillac F1 owners Mark Walter and TWG Global face class-action lawsuit",
+      "date": "2026-09-24",
+      "url": "https://motorsport.com/f1/news/cadillac-f1-under-scrutiny-after-lawsuit-against-mark-walter-and-twg-global/10856796"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "maple-invest-record",
+    "ownerIds": [
+      "maple-invest"
+    ],
+    "text": "DAMAC was delisted from the Dubai Financial Market in 2022 after founder Hussain Sajwani's family vehicle Maple Invest bought out the remaining shares; the company is now wholly private and the Dubai state holds no equity.",
+    "short": "DAMAC was delisted from the Dubai Financial Market in 2022 after founder Hussain Sajwani's family vehicle Maple Invest bought out the remaining shares; the company….",
+    "source": {
+      "name": "Bloomberg Billionaires Index - Hussain Sajwani (owner profile)",
+      "date": "2026-09-24",
+      "url": "https://bloomberg.com/billionaires/profiles/hussain-a-sajwani"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "asahi-group-holdings-record",
+    "ownerIds": [
+      "asahi-group-holdings"
+    ],
+    "text": "Peroni Nastro Azzurro has been owned since 2016 by Asahi Group Holdings, a Tokyo-listed brewer, with no state shareholder.",
+    "short": "Peroni Nastro Azzurro has been owned since 2016 by Asahi Group Holdings, a Tokyo-listed brewer, with no state shareholder.",
+    "source": {
+      "name": "Asahi Group Holdings - FY2016 fact book (Peroni/Grolsch acquisition from AB InBev)",
+      "date": "2017-03-01",
+      "url": "https://www.asahigroup-holdings.com/ir_library_file/file/2016_yend_factbook.pdf"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "seminole-tribe-of-florida-record",
+    "ownerIds": [
+      "seminole-tribe-of-florida"
+    ],
+    "text": "Hard Rock International is owned outright by the Seminole Tribe of Florida (acquired 2007). A federally recognised tribe is not a state in this dataset's sense, and the tribe has no documented rights finding.",
+    "short": "Hard Rock International is owned outright by the Seminole Tribe of Florida (acquired 2007).",
+    "source": {
+      "name": "Hard Rock International - corporate (Seminole Hard Rock)",
+      "date": "2026-09-24",
+      "url": "https://www.hardrock.com/corporate/"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "mgm-resorts-record",
+    "ownerIds": [
+      "mgm-resorts"
+    ],
+    "text": "MGM Rewards is the loyalty programme of MGM Resorts International, NYSE-listed with no state shareholder.",
+    "short": "MGM Rewards is the loyalty programme of MGM Resorts International, NYSE-listed with no state shareholder.",
+    "source": {
+      "name": "MGM Resorts International - investor relations",
+      "date": "2026-09-24",
+      "url": "https://investors.mgmresorts.com/"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "hugo-boss-ag-record",
+    "ownerIds": [
+      "hugo-boss-ag"
+    ],
+    "text": "HUGO BOSS AG is a Frankfurt-listed stock corporation whose shares are predominantly in free float with institutional investors - no state shareholder.",
+    "short": "HUGO BOSS AG is a Frankfurt-listed stock corporation whose shares are predominantly in free float with institutional investors - no state shareholder.",
+    "source": {
+      "name": "HUGO BOSS Group - shareholder structure",
+      "date": "2026-09-24",
+      "url": "https://group.hugoboss.com/en/investors/share/shareholder-structure"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "essilorluxottica-record",
+    "ownerIds": [
+      "essilorluxottica"
+    ],
+    "text": "Ray-Ban is owned by EssilorLuxottica, listed on Euronext Paris (EL) and a CAC 40 constituent - no state shareholder.",
+    "short": "Ray-Ban is owned by EssilorLuxottica, listed on Euronext Paris (EL) and a CAC 40 constituent - no state shareholder.",
+    "source": {
+      "name": "EssilorLuxottica - Euronext Paris listing (ISIN FR0000121667)",
+      "date": "2026-09-24",
+      "url": "https://en.wikipedia.org/wiki/EssilorLuxottica"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "pvh-corp-record",
+    "ownerIds": [
+      "pvh-corp"
+    ],
+    "text": "Tommy Hilfiger is owned by PVH Corp., an NYSE-listed apparel company with no state shareholder.",
+    "short": "Tommy Hilfiger is owned by PVH Corp., an NYSE-listed apparel company with no state shareholder.",
+    "source": {
+      "name": "PVH Corp. - NYSE: PVH company profile",
+      "date": "2026-09-24",
+      "url": "https://tradingkey.com/markets/stocks/nasdaq-pvh/company"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "rolex-sa-record",
+    "ownerIds": [
+      "rolex-sa"
+    ],
+    "text": "Tudor is a brand of Rolex SA, whose shares are owned solely by the Geneva-based Hans Wilsdorf Foundation - a private foundation, not a state.",
+    "short": "Tudor is a brand of Rolex SA, whose shares are owned solely by the Geneva-based Hans Wilsdorf Foundation - a private foundation, not a state.",
+    "source": {
+      "name": "NZZ - 'Rolex earns billions every year. Where does the money go?'",
+      "date": "2024-04-01",
+      "url": "https://www.nzz.ch/english/rolex-earns-billions-every-year-where-does-the-money-go-ld.1754264"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "salesforce-inc-record",
+    "ownerIds": [
+      "salesforce-inc"
+    ],
+    "text": "Salesforce is an NYSE-listed software company (CRM) owned by institutions and the public float; no state shareholder.",
+    "short": "Salesforce is an NYSE-listed software company (CRM) owned by institutions and the public float; no state shareholder.",
+    "source": {
+      "name": "Salesforce - investor relations / NYSE listing",
+      "date": "2026-09-24",
+      "url": "https://investor.salesforce.com/"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "ibm-corp-record",
+    "ownerIds": [
+      "ibm-corp"
+    ],
+    "text": "IBM is an NYSE-listed technology company (IBM) with no state shareholder.",
+    "short": "IBM is an NYSE-listed technology company (IBM) with no state shareholder.",
+    "source": {
+      "name": "IBM - investor relations / NYSE listing",
+      "date": "2026-09-24",
+      "url": "https://www.ibm.com/investor"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "shell-plc-record",
+    "ownerIds": [
+      "shell-plc"
+    ],
+    "text": "No state shareholder (a London-listed public company, effectively full free float), but a sustained documented adverse record: decades of oil spills and failed clean-up in the Niger Delta documented by Amnesty International.",
+    "short": "No state shareholder (a London-listed public company, effectively full free float), but a sustained documented adverse record: decades of oil spills and failed….",
+    "source": {
+      "name": "Amnesty International - 'Shell, oil spills and human rights in Nigeria'",
+      "date": "2026-07-01",
+      "url": "https://www.amnesty.org/en/latest/campaigns/2026/07/shell-oil-spills-and-human-rights-in-nigeria/"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "bp-plc-record",
+    "ownerIds": [
+      "bp-plc"
+    ],
+    "text": "No state shareholder (London/NYSE-listed), but a sustained documented adverse record: the US court found BP grossly negligent over the 2010 Deepwater Horizon spill and BP paid a $20.8bn civil settlement with the US and five Gulf states.",
+    "short": "No state shareholder (London/NYSE-listed), but a sustained documented adverse record: the US court found BP grossly negligent over the 2010 Deepwater Horizon spill….",
+    "source": {
+      "name": "US Department of Justice - 'U.S. and Five Gulf States Reach Historic Settlement with BP'",
+      "date": "2015-10-05",
+      "url": "https://www.justice.gov/archives/opa/pr/us-and-five-gulf-states-reach-historic-settlement-bp-resolve-civil-lawsuit-over-deepwater"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "komatsu-ltd-record",
+    "ownerIds": [
+      "komatsu-ltd"
+    ],
+    "text": "Komatsu is a Tokyo-listed (TSE Prime: 6301) construction and mining equipment maker whose major shareholders are Japanese trust banks and institutions - no state shareholder.",
+    "short": "Komatsu is a Tokyo-listed (TSE Prime: 6301) construction and mining equipment maker whose major shareholders are Japanese trust banks and institutions - no state….",
+    "source": {
+      "name": "Komatsu Ltd. - share information / major shareholders",
+      "date": "2026-09-24",
+      "url": "https://www.komatsu.jp/en/-/media/home/ir/shareholder/stockinfo/share_holder_en.pdf"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "att-inc-record",
+    "ownerIds": [
+      "att-inc"
+    ],
+    "text": "AT&T is an NYSE-listed telecom (T) roughly two-thirds institutionally held, with no state shareholder.",
+    "short": "AT&T is an NYSE-listed telecom (T) roughly two-thirds institutionally held, with no state shareholder.",
+    "source": {
+      "name": "AT&T investor relations - FAQs (share and shareholder information)",
+      "date": "2026-09-24",
+      "url": "https://investors.att.com/resources/faqs"
+    },
+    "reviewed": false
   }
 ]

@@ -1,0 +1,28 @@
+{
+  "id": "lecce",
+  "team": "US Lecce",
+  "sport": "soccer",
+  "league": "serie-a",
+  "country": "Italy",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "deghi",
+      "name": "DEGHI",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Corriere Salentino",
+        "date": "2025-11-01",
+        "url": "https://www.corrieresalentino.it/2025/11/deghi-s-p-a-e-u-s-lecce-rinnovano-laccordo-di-main-sponsorship-per-il-quinquennio-2026-2031/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

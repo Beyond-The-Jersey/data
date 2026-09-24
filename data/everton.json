@@ -25,6 +25,21 @@
         "date": "2026-09-17",
         "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
       }
+    },
+    {
+      "id": "stake",
+      "name": "Stake",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Everton FC – 'Everton & Stake Extend Partnership With Official Sleeve Agreement'",
+        "date": "2026-06-30",
+        "url": "https://www.evertonfc.com/news/2026/june/30/everton---stake-extend-partnership-with-official-sleeve-agreement/"
+      }
     }
   ],
   "worstTier": "none",

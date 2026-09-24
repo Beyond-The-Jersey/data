@@ -25,11 +25,27 @@
         "date": "2026",
         "url": "https://m.allfootballapp.com/news/EPL/Manchester-City-set-to-keep-up-%C2%A367.5million-a-year-deal-with-Abu-Dhabi-airline-Etihad/2424047"
       }
+    },
+    {
+      "id": "okx",
+      "name": "OKX",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "concern",
+      "ownerId": "okx-group",
+      "owner": "OKX / Aux Cayes FinTech Co. Ltd (OK Group)",
+      "verdict": "No state shareholder found.",
+      "source": {
+        "name": "Manchester City FC – 'Manchester City and OKX announce new shirt sleeve partnership'",
+        "date": "2023-06-22",
+        "url": "https://www.mancity.com/news/club/okx-to-sponsor-manchester-city-shirt-sleeve-202324-63823725"
+      }
     }
   ],
   "worstTier": "serious",
   "owners": [
-    "government-of-abu-dhabi"
+    "government-of-abu-dhabi",
+    "okx-group"
   ],
   "lastUpdated": "2026-09-24"
 }
