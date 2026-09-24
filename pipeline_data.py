@@ -607,3 +607,79 @@ EXTRA_CHANGES = [
         "source": PL_FILL_SOURCE,
     },
 ]
+
+# ---------------------------------------------------------------------------
+# Orphan kits: shirt images the website holds that no kit pointed at.
+# ---------------------------------------------------------------------------
+ORPHAN_KITS = [
+    {
+        "id": "bayern-munich-2022-23-home",
+        "clubId": "bayern-munich",
+        "season": "2022-23",
+        "kitType": "home",
+        "periodLabel": "2022-23",
+        "periodFrom": "2022",
+        "periodTo": "2023",
+        "photos": {},
+        "sponsors": [{
+            "sponsorId": "deutsche-telekom",
+            "placement": "front",
+            "source": {
+                "name": "Footy Headlines, FC Bayern 2022-23 home kit",
+                "date": "2022-03-01",
+                "url": "https://www.bavarianfootballworks.com/2022/3/1/22954757/bayern-munich-kit-leak-deutsche-telekom-sponsor-logo-change-bundesliga-pokal-champions-league",
+            },
+        }],
+        "sponsorsComplete": False,
+        "summary": "Telekom's long run on the Bayern front, in the season the logo changed.",
+        "change": None,
+    },
+    {
+        "id": "schalke-04-2021-22-home",
+        "clubId": "schalke-04",
+        "season": "2021-22",
+        "kitType": "home",
+        "periodLabel": "2021-22",
+        "periodFrom": "2021",
+        "periodTo": "2022",
+        "photos": {},
+        "sponsors": [{
+            "sponsorId": "gazprom",
+            "placement": "front",
+            "source": {
+                "name": "Footy Headlines, Schalke 04 21-22 home kit released",
+                "date": "2021-07-02",
+                "url": "https://www.footyheadlines.com/2021/06/schalke-04-21-22-kit.html",
+            },
+        }],
+        "sponsorsComplete": False,
+        "summary": "The last Schalke shirt launched with Gazprom on the front.",
+        "change": {
+            "kind": "better",
+            "text": "Gazprom came off mid-season after 15 years, foiled over by the housing "
+                    "company Vivawest in March 2022.",
+            "badge": "Gazprom gone",
+        },
+    },
+]
+
+# Gazprom leaving Schalke mid-shirt: real, dated, sourced.
+ORPHAN_CHANGES = [
+    {
+        "id": "2022-03-05-schalke-vivawest",
+        "date": "2022-03-05",
+        "datePrecision": "day",
+        "clubId": "schalke-04",
+        "sponsorId": "gazprom",
+        "kind": "better",
+        "levelAfter": "not-rated",
+        "title": "Schalke foiled over Gazprom mid-season",
+        "text": "Schalke ended a 15-year Gazprom deal days after the invasion of Ukraine and "
+                "covered the logo with Vivawest, initially a deal to the end of the season.",
+        "source": {
+            "name": "FC Schalke 04, VIVAWEST become new partner",
+            "date": "2022-03-05",
+            "url": "https://schalke04.de/en/partner-en/vivawest-become-new-partner-fc-schalke-04",
+        },
+    },
+]

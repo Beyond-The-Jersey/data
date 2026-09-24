@@ -288,6 +288,61 @@ for d in deals:
             "url": "https://visitrwanda.com/basketball-africa-league/",
         }
 
+# --------------------------------------------------------------- orphan kits
+# Two shirt images in the design manifest had no kit pointing at them.
+for k in A.ORPHAN_KITS:
+    if k["id"] not in {x["id"] for x in kits}:
+        kits.append(dict(k))
+
+# ------------------------------------------------- harness assets from the manifest
+# The website publishes assets/manifest.json listing every crest and shirt image it
+# holds. Attach them by club/season/kitType so a photo is never lost and a kit is
+# never pointed at a file that does not exist.
+import re
+
+PUBLIC = os.environ.get("BTJ_PUBLIC", os.path.join(os.path.dirname(SEED), os.pardir, "public"))
+PUBLIC = os.path.abspath(PUBLIC)
+MANIFEST = os.path.join(PUBLIC, "assets", "manifest.json")
+if os.path.exists(MANIFEST):
+    man = json.load(open(MANIFEST, encoding="utf-8"))
+    have_files = {a["file"] for a in man}
+    bykey = {}
+    crests = {}
+    for a in man:
+        base = os.path.basename(a["file"])
+        if a["kind"] == "crest":
+            crests[a["club"]] = a["file"]
+            continue
+        if not a.get("season") or a["kind"] not in ("shirt-photo", "shirt-square"):
+            continue
+        mt = re.search(r"-(home|away|third)-", base)
+        if not mt:
+            continue
+        side = "square" if a["kind"] == "shirt-square" else a.get("side")
+        if not side:
+            continue
+        bykey.setdefault((a["club"], a["season"], mt.group(1)), {})[side] = a["file"]
+    attached = 0
+    for k in kits:
+        key = (k["clubId"], k["season"], k["kitType"])
+        if key not in bykey:
+            continue
+        for side, f in bykey[key].items():
+            if k["photos"].get(side) != f:
+                k["photos"][side] = f
+                attached += 1
+    for c in clubs:
+        f = crests.get(c["id"])
+        if f and c.get("crest") != f:
+            c["crest"] = f
+    write("clubs", clubs)
+    print("assets: %d image refs attached, %d crests available" % (attached, len(crests)))
+    # anything on disk the kits still do not reference
+    used = {p for k in kits for p in k["photos"].values()}
+    orphans = sorted(f for f in have_files if f.startswith("assets/shirts/") and f not in used)
+    if orphans:
+        print("assets: UNREFERENCED shirt images:", orphans)
+
 write("kits", kits)
 print("kits:", len(kits))
 write("deals", deals)
@@ -295,6 +350,7 @@ write("deals", deals)
 # ------------------------------------------------------------------ changes / dropped
 changes = load("changes")
 changes += [c for c in A.EXTRA_CHANGES if c["id"] not in {x["id"] for x in changes}]
+changes += [c for c in A.ORPHAN_CHANGES if c["id"] not in {x["id"] for x in changes}]
 changes.sort(key=lambda c: c["id"], reverse=True)
 write("changes", changes)
 
