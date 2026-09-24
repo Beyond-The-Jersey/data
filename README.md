@@ -24,7 +24,12 @@ Must print `OK`.
 
     pip3 install requests jsonschema
     python3 build_contacts.py      # network; writes contacts_build.json
+    python3 enrich_contacts.py     # network; adds a contact page / email to thin records
     python3 build_normalized.py    # writes normalized/ and runs the validator
+
+Run the three in that order. `enrich_contacts.py` only touches records missing an email
+or a contact page, and `build_normalized.py` merges the hand-checked channels in
+`build_contacts.OVERRIDES` on top, so a flaky fetch can never drop a club.
 
 `build_normalized.py` starts from the website seed and merges the curated additions in
 `pipeline_data.py`. `build_from_seed.py` is the earlier seed-only builder.
