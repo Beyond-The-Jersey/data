@@ -16,10 +16,10 @@
       "name": "Barmenia",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": "barmenia-versicherungen",
-      "owner": "Barmenia Versicherungen",
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "barmenia-versicherungen-ag",
+      "owner": "Barmenia Versicherungen a.G. (BarmeniaGothaer Group)",
+      "verdict": "Owned by Barmenia Versicherungen a.G. (BarmeniaGothaer Group). Nothing found.",
       "source": {
         "name": "Football Kit Archive, Bundesliga 2026-27 kits",
         "date": "2026-09-24",
@@ -27,9 +27,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
-    "barmenia-versicherungen"
+    "barmenia-versicherungen-ag"
   ],
   "lastUpdated": "2026-09-24"
 }

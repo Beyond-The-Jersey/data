@@ -14,10 +14,10 @@
       "name": "HYLO",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": "ursapharm",
-      "owner": "URSAPHARM Arzneimittel",
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "ursapharm-arzneimittel-gmbh",
+      "owner": "URSAPHARM Arzneimittel GmbH",
+      "verdict": "Owned by URSAPHARM Arzneimittel GmbH. Nothing found.",
       "source": {
         "name": "Football Kit Archive, Bundesliga 2026-27 kits",
         "date": "2026-09-24",
@@ -25,9 +25,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
-    "ursapharm"
+    "ursapharm-arzneimittel-gmbh"
   ],
   "lastUpdated": "2026-09-24"
 }

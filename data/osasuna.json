@@ -17,10 +17,10 @@
       "name": "Kosner",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": "kosner",
-      "owner": "Kosner",
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "grupo-saltoki",
+      "owner": "Grupo Saltoki (Comercial de Suministros, S.A.)",
+      "verdict": "Owned by Grupo Saltoki (Comercial de Suministros, S.A.). Nothing found.",
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
@@ -28,9 +28,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
-    "kosner"
+    "grupo-saltoki"
   ],
   "lastUpdated": "2026-09-24"
 }

@@ -15,10 +15,10 @@
       "name": "Deel",
       "placement": "sleeve",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "deel-inc",
+      "owner": "Deel, Inc.",
+      "verdict": "Owned by Deel, Inc.. Nothing found.",
       "source": {
         "name": "Sporting Goods Intelligence",
         "date": "2026-08-06",
@@ -50,6 +50,7 @@
   ],
   "worstTier": "severe",
   "owners": [
+    "deel-inc",
     "government-of-dubai",
     "government-of-rwanda"
   ],

@@ -28,11 +28,25 @@
     "country": "Spain"
   },
   {
+    "id": "baghdadi-capital-sa",
+    "name": "Baghdadi Capital, S.A. (family office of Baihas Baghdadi)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "ES"
+  },
+  {
     "id": "barmenia-versicherungen",
     "name": "Barmenia Versicherungen",
     "type": "private-company",
     "parentId": null,
     "country": "Germany"
+  },
+  {
+    "id": "barmenia-versicherungen-ag",
+    "name": "Barmenia Versicherungen a.G. (BarmeniaGothaer Group)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "DE"
   },
   {
     "id": "beumer-group",
@@ -47,6 +61,13 @@
     "type": "private-company",
     "parentId": null,
     "country": "Germany"
+  },
+  {
+    "id": "c-hedenkamp-gmbh",
+    "name": "C. Hedenkamp GmbH & Co. KG",
+    "type": "private-company",
+    "parentId": null,
+    "country": "DE"
   },
   {
     "id": "circle-internet-group",
@@ -77,6 +98,27 @@
     "country": "Turkey"
   },
   {
+    "id": "corendon-tourism-group",
+    "name": "Corendon Tourism Group (Corendon Holdings)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "NL"
+  },
+  {
+    "id": "corporacion-hijos-de-rivera",
+    "name": "Corporacion Hijos de Rivera, S.L.",
+    "type": "private-company",
+    "parentId": null,
+    "country": "ES"
+  },
+  {
+    "id": "deel-inc",
+    "name": "Deel, Inc.",
+    "type": "private-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
     "id": "deutsche-telekom-ag",
     "name": "Deutsche Telekom AG",
     "type": "listed-company",
@@ -91,11 +133,32 @@
     "country": "Romania"
   },
   {
+    "id": "digi-communications-nv",
+    "name": "Digi Communications N.V.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "RO"
+  },
+  {
+    "id": "diputacion-de-malaga",
+    "name": "Diputacion Provincial de Malaga",
+    "type": "state",
+    "parentId": null,
+    "country": "ES"
+  },
+  {
     "id": "discovery-limited",
     "name": "Discovery Limited (Johannesburg-listed)",
     "type": "listed-company",
     "parentId": null,
     "country": "ZA"
+  },
+  {
+    "id": "eni-spa",
+    "name": "Eni S.p.A. (Plenitude S.p.A. subsidiary)",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "IT"
   },
   {
     "id": "estrella-galicia",
@@ -117,6 +180,13 @@
     "type": "private-company",
     "parentId": null,
     "country": "Spain"
+  },
+  {
+    "id": "flexicar-internacional",
+    "name": "Flexicar Internacional (owner Luis Oliver Cornago)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "ES"
   },
   {
     "id": "fundacion-1890",
@@ -170,6 +240,27 @@
     "country": "China"
   },
   {
+    "id": "gree-group-zhuhai-sasac",
+    "name": "Gree Group Co., Ltd. (Zhuhai Municipal Government / Zhuhai SASAC)",
+    "type": "state",
+    "parentId": null,
+    "country": "CN"
+  },
+  {
+    "id": "grupo-saltoki",
+    "name": "Grupo Saltoki (Comercial de Suministros, S.A.)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "ES"
+  },
+  {
+    "id": "halo-lifestyle-llc",
+    "name": "Halo Lifestyle LLC (HALO Hydration)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
     "id": "halo-service-management",
     "name": "Halo Service Solutions",
     "type": "private-company",
@@ -182,6 +273,20 @@
     "type": "private-company",
     "parentId": null,
     "country": "Germany"
+  },
+  {
+    "id": "hansemerkur-krankenversicherung-ag",
+    "name": "HanseMerkur Krankenversicherung a.G. (HanseMerkur Group)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "DE"
+  },
+  {
+    "id": "haufe-group-se",
+    "name": "Haufe Group SE (Haufe-Lexware)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "DE"
   },
   {
     "id": "indeed-inc",
@@ -205,6 +310,13 @@
     "country": "Greece"
   },
   {
+    "id": "knox-hydrate-pty-ltd",
+    "name": "Knox Hydrate (Pty) Ltd",
+    "type": "private-company",
+    "parentId": null,
+    "country": "ZA"
+  },
+  {
     "id": "koemmerling-kunststoffe",
     "name": "Koemmerling Kunststoffe",
     "type": "private-company",
@@ -224,6 +336,13 @@
     "type": "private-company",
     "parentId": null,
     "country": "Spain"
+  },
+  {
+    "id": "kutxabank-sa",
+    "name": "Kutxabank, S.A. (owned by BBK, Kutxa and Vital foundations)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "ES"
   },
   {
     "id": "land-baden-wuerttemberg",
@@ -269,6 +388,20 @@
     "country": "Germany"
   },
   {
+    "id": "matthaei-gruppe",
+    "name": "Matthaei Gruppe (Matthaei Holding)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "DE"
+  },
+  {
+    "id": "mk-sports-news",
+    "name": "mk体育 / MKSPORTS News (mktynews.com)",
+    "type": "unknown",
+    "parentId": null,
+    "country": "CN"
+  },
+  {
     "id": "mk-tiyu-news",
     "name": "MK TIYU News",
     "type": "private-company",
@@ -290,6 +423,13 @@
     "country": "Spain"
   },
   {
+    "id": "pamesa-grupo-empresarial",
+    "name": "Pamesa Grupo Empresarial (Fernando Roig)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "ES"
+  },
+  {
     "id": "payward",
     "name": "Payward, Inc. (d/b/a Kraken)",
     "type": "private-company",
@@ -304,6 +444,13 @@
     "country": "Italy"
   },
   {
+    "id": "profine-gmbh",
+    "name": "profine GmbH (owner Dr Peter A. Mrosik / Hidden Peak Capital)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "DE"
+  },
+  {
     "id": "qualcomm",
     "name": "Qualcomm",
     "type": "listed-company",
@@ -316,6 +463,13 @@
     "type": "private-company",
     "parentId": null,
     "country": "Germany"
+  },
+  {
+    "id": "raisin-gmbh",
+    "name": "Raisin GmbH (Raisin DS)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "DE"
   },
   {
     "id": "recruit-holdings",
@@ -382,11 +536,25 @@
     "country": "Spain"
   },
   {
+    "id": "sesame-hr-sl",
+    "name": "Sesame HR (Sesame HR S.L.)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "ES"
+  },
+  {
     "id": "spotify-technology",
     "name": "Spotify Technology S.A.",
     "type": "listed-company",
     "parentId": null,
     "country": "Sweden"
+  },
+  {
+    "id": "spotify-technology-sa",
+    "name": "Spotify Technology S.A.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "SE"
   },
   {
     "id": "standard-chartered-plc",
@@ -410,11 +578,25 @@
     "country": "Italy"
   },
   {
+    "id": "tecnocasa-holding-spa",
+    "name": "Tecnocasa Holding S.p.A.",
+    "type": "private-company",
+    "parentId": null,
+    "country": "IT"
+  },
+  {
     "id": "temporal-technologies",
     "name": "Temporal Technologies, Inc. (private, VC-backed)",
     "type": "private-company",
     "parentId": null,
     "country": "US"
+  },
+  {
+    "id": "tm-grupo-inmobiliario",
+    "name": "TM Grupo Inmobiliario (Serna family)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "ES"
   },
   {
     "id": "tm-real-estate-group",
@@ -452,6 +634,13 @@
     "country": "Germany"
   },
   {
+    "id": "ursapharm-arzneimittel-gmbh",
+    "name": "URSAPHARM Arzneimittel GmbH",
+    "type": "private-company",
+    "parentId": null,
+    "country": "DE"
+  },
+  {
     "id": "vodafone-group",
     "name": "Vodafone Group",
     "type": "listed-company",
@@ -464,6 +653,13 @@
     "type": "listed-company",
     "parentId": null,
     "country": "GB"
+  },
+  {
+    "id": "wwk-lebensversicherung-ag",
+    "name": "WWK Lebensversicherung a.G. (WWK Versicherungsgruppe)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "DE"
   },
   {
     "id": "wwk-versicherungen",

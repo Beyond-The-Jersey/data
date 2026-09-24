@@ -18,10 +18,10 @@
       "name": "Spotify",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": "spotify-technology",
+      "tier": "none",
+      "ownerId": "spotify-technology-sa",
       "owner": "Spotify Technology S.A.",
-      "verdict": null,
+      "verdict": "Owned by Spotify Technology S.A.. Nothing found.",
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
@@ -29,9 +29,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
-    "spotify-technology"
+    "spotify-technology-sa"
   ],
   "lastUpdated": "2026-09-24"
 }

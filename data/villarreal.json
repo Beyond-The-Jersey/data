@@ -17,10 +17,10 @@
       "name": "Pamesa Ceramica",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": "pamesa-ceramica",
-      "owner": "Pamesa Ceramica",
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "pamesa-grupo-empresarial",
+      "owner": "Pamesa Grupo Empresarial (Fernando Roig)",
+      "verdict": "Owned by Pamesa Grupo Empresarial (Fernando Roig). Nothing found.",
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
@@ -28,9 +28,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
-    "pamesa-ceramica"
+    "pamesa-grupo-empresarial"
   ],
   "lastUpdated": "2026-09-24"
 }

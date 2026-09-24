@@ -17,10 +17,10 @@
       "name": "REWE",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "rewe-group",
       "owner": "REWE Group",
-      "verdict": null,
+      "verdict": "Owned by REWE Group (REWE cooperatives eG). Nothing found.",
       "source": {
         "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
         "date": "2026-08-04",
@@ -28,7 +28,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "rewe-group"
   ],

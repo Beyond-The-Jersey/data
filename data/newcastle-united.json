@@ -16,10 +16,10 @@
       "name": "KNOX Hydration",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "knox-hydrate-pty-ltd",
+      "owner": "Knox Hydrate (Pty) Ltd",
+      "verdict": "Owned by Knox Hydrate (Pty) Ltd. Nothing found.",
       "source": {
         "name": "The Mag",
         "date": "2026-06",
@@ -55,6 +55,7 @@
   ],
   "worstTier": "serious",
   "owners": [
+    "knox-hydrate-pty-ltd",
     "saudi-pif"
   ],
   "lastUpdated": "2026-09-24"

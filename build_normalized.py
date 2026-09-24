@@ -172,7 +172,7 @@ for r in R.RATINGS:
     s["ownerId"] = o["id"]
     s["ownership"] = r["ownership"]
     s["tier"] = r["tier"]
-    s["status"] = "rated"
+    s["status"] = "rated" if r["tier"] != "unrated" else "unrated"
     s["verdict"] = r["verdict"]
     ids = [cid]
     for old in s.get("claimIds") or []:

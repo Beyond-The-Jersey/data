@@ -17,10 +17,10 @@
       "name": "Tecnocasa Group",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": "tecnocasa-group",
-      "owner": "Tecnocasa Group",
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "tecnocasa-holding-spa",
+      "owner": "Tecnocasa Holding S.p.A.",
+      "verdict": "Owned by Tecnocasa Holding S.p.A.. Nothing found.",
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
@@ -28,9 +28,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
-    "tecnocasa-group"
+    "tecnocasa-holding-spa"
   ],
   "lastUpdated": "2026-09-24"
 }

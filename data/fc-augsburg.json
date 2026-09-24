@@ -16,10 +16,10 @@
       "name": "WWK",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": "wwk-versicherungen",
-      "owner": "WWK Versicherungen",
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "wwk-lebensversicherung-ag",
+      "owner": "WWK Lebensversicherung a.G. (WWK Versicherungsgruppe)",
+      "verdict": "Owned by WWK Lebensversicherung a.G. (WWK Versicherungsgruppe). Nothing found.",
       "source": {
         "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
         "date": "2026-08-04",
@@ -27,9 +27,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
-    "wwk-versicherungen"
+    "wwk-lebensversicherung-ag"
   ],
   "lastUpdated": "2026-09-24"
 }

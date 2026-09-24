@@ -17,10 +17,10 @@
       "name": "Corendon",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": "corendon-airlines",
-      "owner": "Corendon Airlines",
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "corendon-tourism-group",
+      "owner": "Corendon Tourism Group (Corendon Holdings)",
+      "verdict": "Owned by Corendon Tourism Group (Corendon Holdings). Nothing found.",
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
         "date": "2026-09-17",
@@ -28,9 +28,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
-    "corendon-airlines"
+    "corendon-tourism-group"
   ],
   "lastUpdated": "2026-09-24"
 }

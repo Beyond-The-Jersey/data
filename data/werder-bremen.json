@@ -18,10 +18,10 @@
       "name": "Matthaei",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": "matthaei-bau",
-      "owner": "Matthaei Bauunternehmung",
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "matthaei-gruppe",
+      "owner": "Matthaei Gruppe (Matthaei Holding)",
+      "verdict": "Owned by Matthaei Gruppe (Matthaei Holding). Nothing found.",
       "source": {
         "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
         "date": "2026-08-04",
@@ -29,9 +29,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
-    "matthaei-bau"
+    "matthaei-gruppe"
   ],
   "lastUpdated": "2026-09-24"
 }

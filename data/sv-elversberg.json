@@ -17,10 +17,10 @@
       "name": "Reuter",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "reuter-gruppe",
       "owner": "Reuter Gruppe",
-      "verdict": null,
+      "verdict": "Owned by REUTER Gruppe (Reuter family). Nothing found.",
       "source": {
         "name": "Football Kit Archive, Bundesliga 2026-27 kits",
         "date": "2026-09-24",
@@ -28,7 +28,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "reuter-gruppe"
   ],

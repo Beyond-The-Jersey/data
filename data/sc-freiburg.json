@@ -17,10 +17,10 @@
       "name": "Lexware",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": "lexware-gmbh",
-      "owner": "Lexware (Haufe Group)",
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "haufe-group-se",
+      "owner": "Haufe Group SE (Haufe-Lexware)",
+      "verdict": "Owned by Haufe Group SE (Haufe-Lexware). Nothing found.",
       "source": {
         "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
         "date": "2026-08-04",
@@ -28,9 +28,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
-    "lexware-gmbh"
+    "haufe-group-se"
   ],
   "lastUpdated": "2026-09-24"
 }

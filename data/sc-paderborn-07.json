@@ -15,10 +15,10 @@
       "name": "C. Hedenkamp",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": "c-hedenkamp",
-      "owner": "C. Hedenkamp GmbH",
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "c-hedenkamp-gmbh",
+      "owner": "C. Hedenkamp GmbH & Co. KG",
+      "verdict": "Owned by C. Hedenkamp GmbH & Co. KG. Nothing found.",
       "source": {
         "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
         "date": "2026-08-04",
@@ -26,9 +26,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
-    "c-hedenkamp"
+    "c-hedenkamp-gmbh"
   ],
   "lastUpdated": "2026-09-24"
 }

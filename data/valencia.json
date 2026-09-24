@@ -16,10 +16,10 @@
       "name": "TM Real Estate Group",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": "tm-real-estate-group",
-      "owner": "TM Real Estate Group",
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "tm-grupo-inmobiliario",
+      "owner": "TM Grupo Inmobiliario (Serna family)",
+      "verdict": "Owned by TM Grupo Inmobiliario (Serna family). Nothing found.",
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
@@ -27,9 +27,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
-    "tm-real-estate-group"
+    "tm-grupo-inmobiliario"
   ],
   "lastUpdated": "2026-09-24"
 }

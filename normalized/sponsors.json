@@ -47,33 +47,42 @@
     "name": "Arctempus",
     "ownerId": "arctempus",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by ARCTEMPUS (Arctempus Capital / Grupo StarOneRocket). Nothing found.",
+    "claimIds": [
+      "arctempus-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: RCD Espanyol's 20 Aug 2026 confirmation names ARCTEMPUS as main sponsor. Private, IESE-linked business network; the Espanyol owner Alan Pace is a counterparty, not an owner."
   },
   {
     "id": "baghdadi-capital",
     "name": "Baghdadi Capital",
-    "ownerId": "baghdadi-capital",
+    "ownerId": "baghdadi-capital-sa",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Baghdadi Capital, S.A. (family office of Baihas Baghdadi). Nothing found.",
+    "claimIds": [
+      "baghdadi-capital-sa-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Name suggests Iraq/Iranian links but ownership is Spanish private family capital. Manages ~EUR 1.5bn AUM across Spain, US, UK, Ireland, Singapore."
   },
   {
     "id": "barmenia",
     "name": "Barmenia",
-    "ownerId": "barmenia-versicherungen",
+    "ownerId": "barmenia-versicherungen-ag",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Barmenia Versicherungen a.G. (BarmeniaGothaer Group). Nothing found.",
+    "claimIds": [
+      "barmenia-versicherungen-ag-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: German mutual 'a.G.' structure; Barmenia holds 36% and Gothaer 64% of the joint holding after the 2023/24 merger. No state capital."
   },
   {
     "id": "betano",
@@ -94,22 +103,28 @@
     "name": "BEUMER Group",
     "ownerId": "beumer-group",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by BEUMER Group GmbH & Co. KG. Nothing found.",
+    "claimIds": [
+      "beumer-group-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Almost 90 years old, family-run, no listed float, no state stake."
   },
   {
     "id": "c-hedenkamp",
     "name": "C. Hedenkamp",
-    "ownerId": "c-hedenkamp",
+    "ownerId": "c-hedenkamp-gmbh",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by C. Hedenkamp GmbH & Co. KG. Nothing found.",
+    "claimIds": [
+      "c-hedenkamp-gmbh-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Small mittelstand firm; family owners in the register. No state link."
   },
   {
     "id": "circle-usdc",
@@ -159,25 +174,30 @@
   {
     "id": "corendon",
     "name": "Corendon",
-    "ownerId": "corendon-airlines",
+    "ownerId": "corendon-tourism-group",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Corendon Tourism Group (Corendon Holdings). Nothing found.",
+    "claimIds": [
+      "corendon-tourism-group-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Dutch/Turkish dual footprint, so some sources treat it as Turkish; ownership is private founder/family either way. CEO Gunay Uslu (Atilay's relative) is a former Dutch state secretary, which is a personnel not ownership link."
   },
   {
     "id": "deel",
     "name": "Deel",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "deel-inc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Deel, Inc.. Nothing found.",
+    "claimIds": [
+      "deel-inc-record"
+    ],
     "aliases": [],
-    "note": "Arsenal sleeve from 2026/27"
+    "note": "Rating note: US SEC investigation into revenue/accounting and a US money-laundering lawsuit have been reported, but these are company-level regulatory matters, not a state-ownership link, so tier stays none. No parent company above Deel, Inc."
   },
   {
     "id": "deutsche-telekom",
@@ -199,13 +219,16 @@
   {
     "id": "digi",
     "name": "Digi",
-    "ownerId": "digi-communications",
+    "ownerId": "digi-communications-nv",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Digi Communications N.V.. Nothing found.",
+    "claimIds": [
+      "digi-communications-nv-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Romanian listing plus US/Nasdaq-style ADRs; ownership private/founder with public float. Founder-linked governance litigation exists but no state link."
   },
   {
     "id": "emirates",
@@ -225,13 +248,16 @@
   {
     "id": "estrella-galicia",
     "name": "Estrella Galicia",
-    "ownerId": "estrella-galicia",
+    "ownerId": "corporacion-hijos-de-rivera",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Corporacion Hijos de Rivera, S.L.. Nothing found.",
+    "claimIds": [
+      "corporacion-hijos-de-rivera-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Fifth-generation family group (Rivera family). No state or fund capital."
   },
   {
     "id": "etihad-airways",
@@ -253,25 +279,30 @@
   {
     "id": "flexicar",
     "name": "Flexicar",
-    "ownerId": "flexicar",
+    "ownerId": "flexicar-internacional",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Flexicar Internacional (owner Luis Oliver Cornago). Nothing found.",
+    "claimIds": [
+      "flexicar-internacional-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Single-owner private group, ~180 dealerships in Spain/Portugal. Not the unrelated Australian Hertz franchise."
   },
   {
     "id": "fundacion-1890",
     "name": "Fundacion 1890",
     "ownerId": "fundacion-1890",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Fundacion 1890 (Sevilla FC Foundation). Nothing found.",
+    "claimIds": [
+      "fundacion-1890-record"
+    ],
     "aliases": [],
-    "note": "Sevilla charity, named for the club's founding year"
+    "note": "Rating note: The on-shirt 'Fundacion 1890' branding is a stopgap/charitable placement paying the club's own foundation; not a state or fund sponsor."
   },
   {
     "id": "gazprom",
@@ -290,47 +321,58 @@
   {
     "id": "gree",
     "name": "Gree",
-    "ownerId": "gree-electric",
+    "ownerId": "gree-group-zhuhai-sasac",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "tier": "concern",
+    "status": "rated",
+    "verdict": "Gree Electric Appliances Inc.",
+    "claimIds": [
+      "gree-group-zhuhai-sasac-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Chinese appliance maker, so Xinjiang/forced-labour questions attach to the wider PRC SOE supply chain but no Gree-specific adverse finding was located: hence concern (partial state ownership) rather than serious. Owner type 'state' (municipal SASAC), country CN."
   },
   {
     "id": "halo",
     "name": "Halo",
-    "ownerId": "halo-service-management",
+    "ownerId": "halo-lifestyle-llc",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Halo Lifestyle LLC (HALO Hydration). Nothing found.",
+    "claimIds": [
+      "halo-lifestyle-llc-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Not to be confused with HALO Water Systems or Halo Sports. Small US private brand, no parent group."
   },
   {
     "id": "hansemerkur",
     "name": "HanseMerkur",
-    "ownerId": "hansemerkur",
+    "ownerId": "hansemerkur-krankenversicherung-ag",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by HanseMerkur Krankenversicherung a.G. (HanseMerkur Group). Nothing found.",
+    "claimIds": [
+      "hansemerkur-krankenversicherung-ag-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: German mutual insurer. No state or listed-shareholder ownership."
   },
   {
     "id": "hylo",
     "name": "HYLO",
-    "ownerId": "ursapharm",
+    "ownerId": "ursapharm-arzneimittel-gmbh",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by URSAPHARM Arzneimittel GmbH. Nothing found.",
+    "claimIds": [
+      "ursapharm-arzneimittel-gmbh-record"
+    ],
     "aliases": [],
-    "note": "Eye-drop brand of URSAPHARM"
+    "note": "Rating note: URSAPHARM is the owner of the HYLO trademark (USPTO registration 5887500 in its name). Not HYLO the drink brand."
   },
   {
     "id": "indeed",
@@ -349,36 +391,44 @@
   {
     "id": "knox-hydration",
     "name": "KNOX Hydration",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "knox-hydrate-pty-ltd",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Knox Hydrate (Pty) Ltd. Nothing found.",
+    "claimIds": [
+      "knox-hydrate-pty-ltd-record"
+    ],
     "aliases": [],
-    "note": "South African sports drinks company; Newcastle front from 2026/27"
+    "note": "Rating note: Task asked for a parent: there is none - KNOX is its own ultimate parent, founder-owned. Now Newcastle United front-of-shirt sponsor (~GBP 60m/3yr)."
   },
   {
     "id": "koemmerling",
     "name": "Koemmerling",
-    "ownerId": "koemmerling-kunststoffe",
+    "ownerId": "profine-gmbh",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by profine GmbH (owner Dr Peter A. Mrosik / Hidden Peak Capital). Nothing found.",
+    "claimIds": [
+      "profine-gmbh-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: The Bahraini link is the former owner Arcapita, a Bahraini private bank - not the Bahraini state itself, so no state link at owner level."
   },
   {
     "id": "kosner",
     "name": "Kosner",
-    "ownerId": "kosner",
+    "ownerId": "grupo-saltoki",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Grupo Saltoki (Comercial de Suministros, S.A.). Nothing found.",
+    "claimIds": [
+      "grupo-saltoki-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Brand-origin trivia: the Kosner trademark itself originated in Lyon, France, and the construction-equipment arm joined the French Euromair-Mixer group in 2023, while the HVAC sponsorship sits with Saltoki. Both possible owners are private; no state link either way."
   },
   {
     "id": "kraken",
@@ -397,13 +447,16 @@
   {
     "id": "kutxabank",
     "name": "Kutxabank",
-    "ownerId": "kutxabank",
+    "ownerId": "kutxabank-sa",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Kutxabank, S.A. (owned by BBK, Kutxa and Vital foundations). Nothing found.",
+    "claimIds": [
+      "kutxabank-sa-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Flagged for proper look because savings-bank ownership feels public; legally the owners are private foundations, so none rather than concern. Not listed (no IPO; the foundations' reserve funds keep it unlisted)."
   },
   {
     "id": "lbbw",
@@ -422,13 +475,16 @@
   {
     "id": "lexware",
     "name": "Lexware",
-    "ownerId": "lexware-gmbh",
+    "ownerId": "haufe-group-se",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Haufe Group SE (Haufe-Lexware). Nothing found.",
+    "claimIds": [
+      "haufe-group-se-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Privately held, family-controlled group; ~500 staff at Lexware, part of Haufe Group SE."
   },
   {
     "id": "marex",
@@ -447,24 +503,30 @@
   {
     "id": "matthaei",
     "name": "Matthaei",
-    "ownerId": "matthaei-bau",
+    "ownerId": "matthaei-gruppe",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Matthaei Gruppe (Matthaei Holding). Nothing found.",
+    "claimIds": [
+      "matthaei-gruppe-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Family/mittelstand building group; ownership not unit-listed, no state stake found."
   },
   {
     "id": "mk-tiyu-news",
     "name": "MK TIYU News",
-    "ownerId": "mk-tiyu-news",
+    "ownerId": "mk-sports-news",
     "ownership": "owned",
     "tier": "unrated",
     "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "verdict": "Deportivo Alaves' Asian main sponsor, now branded 'MK体育NEWS (mktynews.com)' after a 2026 rebrand, is a Chinese sports-media/marketing platform.",
+    "claimIds": [
+      "mk-sports-news-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Honest unrated: the sponsor is real and named, but ownership is opaque and no reliable primary source identifies the ultimate owner club or whether any Chinese state entity is involved."
   },
   {
     "id": "monzo",
@@ -498,25 +560,30 @@
   {
     "id": "pamesa-ceramica",
     "name": "Pamesa Ceramica",
-    "ownerId": "pamesa-ceramica",
+    "ownerId": "pamesa-grupo-empresarial",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Pamesa Grupo Empresarial (Fernando Roig). Nothing found.",
+    "claimIds": [
+      "pamesa-grupo-empresarial-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Family/owner-controlled Castellon ceramics group (~EUR 1.2bn revenue). Roig's Villarreal link is separate."
   },
   {
     "id": "plenitude",
     "name": "Plenitude",
-    "ownerId": "plenitude-eni",
+    "ownerId": "eni-spa",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "concern",
+    "status": "rated",
+    "verdict": "Plenitude is Eni's retail/renewables division; Eni is listed on Borsa Italiana and NYSE but the Italian Ministry of Economy and Finance plus CDP S.p.A.",
+    "claimIds": [
+      "eni-spa-record"
+    ],
     "aliases": [],
-    "note": "Energy arm of Eni"
+    "note": "Rating note: Flagged for proper look: the Italian state stake in Eni sits below 50% and via a listed parent, so concern rather than serious. Claims of Eni human-rights/environmental harm (Niger Delta, OPL 245) are contested and partly settled, supporting concern not serious."
   },
   {
     "id": "qatar-airways",
@@ -535,13 +602,16 @@
   {
     "id": "raisin",
     "name": "Raisin",
-    "ownerId": "raisin-ds",
+    "ownerId": "raisin-gmbh",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Raisin GmbH (Raisin DS). Nothing found.",
+    "claimIds": [
+      "raisin-gmbh-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Bank investors are minority VC/strategic stakes, so the owner stays private-company with no state link (Orange Ventures is Orange SA, itself only partly French state-owned - not counted)."
   },
   {
     "id": "red-bull",
@@ -562,22 +632,28 @@
     "name": "Reuter",
     "ownerId": "reuter-gruppe",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by REUTER Gruppe (Reuter family). Nothing found.",
+    "claimIds": [
+      "reuter-gruppe-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Group HQ Moenchengladbach; expansion into Italy in 2024. No state or fund ownership."
   },
   {
     "id": "rewe",
     "name": "REWE",
     "ownerId": "rewe-group",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by REWE Group (REWE cooperatives eG). Nothing found.",
+    "claimIds": [
+      "rewe-group-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Type stays private-company because the owner list only allows state/state-fund/listed/private/unknown and an eG is private. (Note: country set DE - see note.)"
   },
   {
     "id": "riyadh-air",
@@ -599,13 +675,16 @@
   {
     "id": "sabor-a-malaga",
     "name": "Sabor a Malaga",
-    "ownerId": "sabor-a-malaga",
+    "ownerId": "diputacion-de-malaga",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "tier": "concern",
+    "status": "rated",
+    "verdict": "Sabor a Malaga is not a company but a promotional quality brand owned and run by the Diputacion Provincial de Malaga, the provincial public administration; the….",
+    "claimIds": [
+      "diputacion-de-malaga-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Sub-national government owner (not a sovereign state, not a state fund) maps to concern as a lesser link. Currently front-of-shirt sponsor of Malaga CF (since 2021)."
   },
   {
     "id": "sap",
@@ -639,13 +718,16 @@
   {
     "id": "sesame-hr",
     "name": "Sesame HR",
-    "ownerId": "sesame-hr",
+    "ownerId": "sesame-hr-sl",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Sesame HR (Sesame HR S.L.). Nothing found.",
+    "claimIds": [
+      "sesame-hr-sl-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: BBVA Spark is a bank lending facility, not equity, and BBVA has no state stake - so owner remains private-company, tier none."
   },
   {
     "id": "snapdragon",
@@ -664,13 +746,16 @@
   {
     "id": "spotify",
     "name": "Spotify",
-    "ownerId": "spotify-technology",
+    "ownerId": "spotify-technology-sa",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Spotify Technology S.A.. Nothing found.",
+    "claimIds": [
+      "spotify-technology-sa-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Flagged for proper look: the Tencent (~8%) stake is the only non-Western notable holder and Tencent itself is not state-controlled - so none, not concern."
   },
   {
     "id": "standard-chartered",
@@ -689,13 +774,16 @@
   {
     "id": "tecnocasa-group",
     "name": "Tecnocasa Group",
-    "ownerId": "tecnocasa-group",
+    "ownerId": "tecnocasa-holding-spa",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Tecnocasa Holding S.p.A.. Nothing found.",
+    "claimIds": [
+      "tecnocasa-holding-spa-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Private Italian holding, founding-franchise structured; not listed, no state capital found."
   },
   {
     "id": "temporal",
@@ -714,13 +802,16 @@
   {
     "id": "tm-real-estate-group",
     "name": "TM Real Estate Group",
-    "ownerId": "tm-real-estate-group",
+    "ownerId": "tm-grupo-inmobiliario",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by TM Grupo Inmobiliario (Serna family). Nothing found.",
+    "claimIds": [
+      "tm-grupo-inmobiliario-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Not related to the unrelated US 'TM Real Estate Group LLC'. Family-held Alicante developer operating in Spain and Mexico."
   },
   {
     "id": "trade-nation",
@@ -828,12 +919,15 @@
   {
     "id": "wwk",
     "name": "WWK",
-    "ownerId": "wwk-versicherungen",
+    "ownerId": "wwk-lebensversicherung-ag",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by WWK Lebensversicherung a.G. (WWK Versicherungsgruppe). Nothing found.",
+    "claimIds": [
+      "wwk-lebensversicherung-ag-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Founded 1884 in Munich; 140-year mutual insurer with a real-estate subsidiary. No state or listed-shareholder ownership."
   }
 ]

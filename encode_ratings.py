@@ -5,9 +5,10 @@ Two ratings are adjusted here, with the reason recorded alongside the research
 note so the reviewer can see the join between research and judgement.
 """
 import json
+import os
 import re
 
-SRC = "/tmp/ratings.json"
+SRC = ["/tmp/ratings.json", "/tmp/ratings2.json"]
 OUT = "/tmp/data/ratings_data.py"
 
 # sponsorId -> ownership on the shirt's owner chain
@@ -51,13 +52,25 @@ def verdict_for(tier, owner, short):
 
 
 def main():
-    raw = json.load(open(SRC, encoding="utf-8"))
-    rows = raw["ratings"] if isinstance(raw, dict) else raw
+    rows = []
+    seen = set()
+    for path in SRC:
+        if not os.path.exists(path):
+            print("missing", path)
+            continue
+        raw = json.load(open(path, encoding="utf-8"))
+        for r in (raw["ratings"] if isinstance(raw, dict) else raw):
+            if r["sponsorId"] in seen:
+                continue
+            seen.add(r["sponsorId"])
+            rows.append(r)
     out = []
     for r in rows:
         sid = r["sponsorId"]
         tier = r["tier"]
         note = (r.get("note") or "").strip()
+        if sid in OVERRIDE and tier == "unrated":
+            tier = OVERRIDE[sid][0]
         if sid in OVERRIDE:
             tier, why = OVERRIDE[sid]
             note = (note + " " if note else "") + "ADJUSTED: " + why

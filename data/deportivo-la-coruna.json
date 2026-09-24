@@ -16,10 +16,10 @@
       "name": "Estrella Galicia",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": "estrella-galicia",
-      "owner": "Hijos de Rivera (Estrella Galicia)",
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "corporacion-hijos-de-rivera",
+      "owner": "Corporacion Hijos de Rivera, S.L.",
+      "verdict": "Owned by Corporacion Hijos de Rivera, S.L.. Nothing found.",
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
@@ -27,9 +27,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
-    "estrella-galicia"
+    "corporacion-hijos-de-rivera"
   ],
   "lastUpdated": "2026-09-24"
 }

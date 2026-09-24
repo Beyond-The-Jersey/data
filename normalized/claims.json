@@ -177,6 +177,48 @@
     "reviewed": false
   },
   {
+    "id": "arctempus-record",
+    "ownerIds": [
+      "arctempus"
+    ],
+    "text": "ARCTEMPUS is a Madrid-based private real-estate, investment and asset-management group formed by merging Star1Rocket, Bestflat and Zenhia; the group is privately held with co-founders Luis Miguel Real and Marc Sarnito and CEO Gonzalo Lopez behind it. No state or sovereign-fund participation is disclosed.",
+    "short": "ARCTEMPUS is a Madrid-based private real-estate, investment and asset-management group formed by merging Star1Rocket, Bestflat and Zenhia; the group is privately….",
+    "source": {
+      "name": "La Grada (Espanyol specialist outlet) - 'ARCTEMPUS Capital sera el nuevo patrocinador del Espanyol'; RCD Espanyol official announcement",
+      "date": "2026-08-20",
+      "url": "https://lagrada.org/arctempus-capital-patrocinador-espanyol-alan-pace-iese/"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "baghdadi-capital-sa-record",
+    "ownerIds": [
+      "baghdadi-capital-sa"
+    ],
+    "text": "Baghdadi Capital, S.A. describes itself as a 'global independent corporate and investment banking family office' founded in February 2023 by Spanish entrepreneur Baihas Baghdadi; it states it is a '100% Spanish family office'. Founder is of Syrian heritage but the entity has no state or sovereign-fund shareholder.",
+    "short": "Baghdadi Capital, S.A.",
+    "source": {
+      "name": "Baghdadi Capital, S.A. official 'Who We Are' page",
+      "date": "2026-01",
+      "url": "https://baghdadicapital.com/en/"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "barmenia-versicherungen-ag-record",
+    "ownerIds": [
+      "barmenia-versicherungen-ag"
+    ],
+    "text": "Barmenia Versicherungen a.G. is a German mutual insurer (Versicherungsverein auf Gegenseitigkeit) based in Wuppertal and now the leading entity of the BarmeniaGothaer group alongside Gothaer Versicherungsbank VVaG. As a mutual it is owned by its policyholder members, not by shareholders or the state.",
+    "short": "Barmenia Versicherungen a.G.",
+    "source": {
+      "name": "BarmeniaGothaer Group annual report 2025 (Konzerngeschaeftsbericht) / Barmenia legal notice",
+      "date": "2025",
+      "url": "https://www.barmeniagothaer.de/infos-zur-gruppe/"
+    },
+    "reviewed": false
+  },
+  {
     "id": "kaizen-gaming-record",
     "ownerIds": [
       "kaizen-gaming"
@@ -187,6 +229,34 @@
       "name": "Kaizen Gaming official; EGR Global (Allwyn 36.75% stake)",
       "date": "2026",
       "url": "https://www.egr.global/intel/news/betanos-parent-company-achieves-decacorn-status/"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "beumer-group-record",
+    "ownerIds": [
+      "beumer-group"
+    ],
+    "text": "BEUMER Group is a family-owned German intralogistics/conveying systems group based in Beckum; its own main-partner announcement for FC Schalke 04 (from 2026/27) describes it as 'the global family-owned company from Beckum'.",
+    "short": "BEUMER Group is a family-owned German intralogistics/conveying systems group based in Beckum; its own main-partner announcement for FC Schalke 04 (from 2026/27)….",
+    "source": {
+      "name": "FC Schalke 04 official press release 'BEUMER Group to become FC Schalke 04's new main partner'",
+      "date": "2026-04-22",
+      "url": "https://schalke04.de/en/partner-en/beumer-group-new-main-partner"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "c-hedenkamp-gmbh-record",
+    "ownerIds": [
+      "c-hedenkamp-gmbh"
+    ],
+    "text": "C. Hedenkamp GmbH & Co. KG of Hoevelhof (Paderborn registry) is a family-owned German building-materials/construction supplier; the commercial register shows it is controlled via Hedenkamp Verwaltungs GmbH by Wolf Karsten Hedenkamp, Klaus Dietrich Hedenkamp and Markus Hedenkamp.",
+    "short": "C.",
+    "source": {
+      "name": "C. Hedenkamp GmbH & Co. KG official Imprint / Handelsregister entry",
+      "date": "2026",
+      "url": "https://www.hedenkamp.de/en/impressum/"
     },
     "reviewed": false
   },
@@ -233,6 +303,34 @@
     "reviewed": false
   },
   {
+    "id": "corendon-tourism-group-record",
+    "ownerIds": [
+      "corendon-tourism-group"
+    ],
+    "text": "Corendon Airlines is a subsidiary of the privately held Corendon Tourism Group, founded in 2000 by Atilay Uslu and Yildiray Karaer; Uslu is listed as owner/founder and chairman. Dutch-headquartered (Amsterdam) group with Turkish operations; no state shareholding.",
+    "short": "Corendon Airlines is a subsidiary of the privately held Corendon Tourism Group, founded in 2000 by Atilay Uslu and Yildiray Karaer; Uslu is listed as owner/founder….",
+    "source": {
+      "name": "Corendon Airlines corporate profile / TravMagazine reporting on Corendon management",
+      "date": "2024-01",
+      "url": "https://www.travmagazine.nl/en/corendon-introduces-its-new-management-team"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "deel-inc-record",
+    "ownerIds": [
+      "deel-inc"
+    ],
+    "text": "Deel, Inc. is a privately held US (Delaware/San Francisco) global payroll and EOR company; it is venture-backed with a $300m Series E at a $17.3bn valuation co-led by Ribbit Capital and Andreessen Horowitz, and has no sovereign or state shareholder on its cap table.",
+    "short": "Deel, Inc.",
+    "source": {
+      "name": "Deel official blog 'Our Series E: Building the global infrastructure of work'; FinTech Global coverage",
+      "date": "2025-10-17",
+      "url": "https://www.deel.com/blog/new-investment-valuation/"
+    },
+    "reviewed": false
+  },
+  {
     "id": "federal-republic-of-germany-record",
     "ownerIds": [
       "federal-republic-of-germany"
@@ -243,6 +341,118 @@
       "name": "Deutsche Telekom Investor Relations, Shareholder structure; KfW newsroom",
       "date": "2026-06-30",
       "url": "https://www.telekom.com/en/investor-relations/share/shareholder-structure"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "digi-communications-nv-record",
+    "ownerIds": [
+      "digi-communications-nv"
+    ],
+    "text": "Digi Communications N.V. is a Dutch-incorporated, Bucharest-listed (BSE: DIGI) telecoms group and the controlling shareholder of Digi Romania (formerly RCS & RDS). Founder Zoltan Teszari is the controlling shareholder; the rest is free float. No state or state-fund stake.",
+    "short": "Digi Communications N.V.",
+    "source": {
+      "name": "Digi Communications N.V. official 'About Us' / Board of Directors (Teszari, controlling shareholder)",
+      "date": "2026",
+      "url": "https://www.digi-communications.ro/en/about-us"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "corporacion-hijos-de-rivera-record",
+    "ownerIds": [
+      "corporacion-hijos-de-rivera"
+    ],
+    "text": "Estrella Galicia is the flagship beer brand of Corporacion Hijos de Rivera, which describes itself as a family-owned international brewing group with '100% national and independent capital', headquartered in A Coruna since 1906.",
+    "short": "Estrella Galicia is the flagship beer brand of Corporacion Hijos de Rivera, which describes itself as a family-owned international brewing group with '100%….",
+    "source": {
+      "name": "Corporacion Hijos de Rivera official company page; Estrella Galicia International 'independent family-owned brewery'",
+      "date": "2026",
+      "url": "http://corporacionhijosderivera.com/en/company"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "flexicar-internacional-record",
+    "ownerIds": [
+      "flexicar-internacional"
+    ],
+    "text": "Flexicar is Spain's largest used-car dealer network, majority owned by founder Luis Oliver Cornago, who reorganized the group under Flexicar Internacional and injected EUR 7.6m of his own funds; company registry/legal form is private (Flexicar, empresa privada).",
+    "short": "Flexicar is Spain's largest used-car dealer network, majority owned by founder Luis Oliver Cornago, who reorganized the group under Flexicar Internacional and….",
+    "source": {
+      "name": "El Confidencial - 'Flexicar fusiona sus firmas bajo el paraguas internacional'; Spanish Wikipedia 'Flexicar (Espana)'",
+      "date": "2025-01-17",
+      "url": "https://www.elconfidencial.com/empresas/2025-01-17/flexicar-fusiona-sociedades-batir-facturacion_4044206/"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "fundacion-1890-record",
+    "ownerIds": [
+      "fundacion-1890"
+    ],
+    "text": "Fundacion 1890 is the non-profit foundation arm of Sevilla FC, renamed from 'Fundacion Sevilla FC' in June 2025; it took the club's 1890 founding date. It is a private-law entity controlled by Sevilla FC (itself owned by Sevillistas de Nervion S.A.), with no public/state endowment.",
+    "short": "Fundacion 1890 is the non-profit foundation arm of Sevilla FC, renamed from 'Fundacion Sevilla FC' in June 2025; it took the club's 1890 founding date.",
+    "source": {
+      "name": "Diario de Sevilla - 'La Fundacion 1890, nueva cara solidaria del Sevilla'; Sevilla FC official foundation page",
+      "date": "2025-06-09",
+      "url": "https://www.diariodesevilla.es/sevillafc/fundacion-1890-nueva-cara-solidaria-sevilla-fc-poligono-sur_0_2004112018.html"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "gree-group-zhuhai-sasac-record",
+    "ownerIds": [
+      "gree-group-zhuhai-sasac"
+    ],
+    "text": "Gree Electric Appliances Inc. of Zhuhai (SZSE: 000651) is described as a majority state-owned enterprise principally by the city of Zhuhai; its historic largest shareholder, state-owned Gree Group, was owned by the Zhuhai Municipal People's Government. In December 2019 Gree Group sold most of its stake to the private equity vehicle Zhuhai Mingjun, leaving partial (not controlling) state ownership.",
+    "short": "Gree Electric Appliances Inc.",
+    "source": {
+      "name": "Zhuhai Gree Group company history (state-owned nature change); Shenzhen Stock Exchange filings on the 2019 Gree Group/Zhuhai Mingjun share transfer",
+      "date": "2024-06-08",
+      "url": "http://static.cninfo.com.cn/finalpage/2024-06-08/1220300050.PDF"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "halo-lifestyle-llc-record",
+    "ownerIds": [
+      "halo-lifestyle-llc"
+    ],
+    "text": "HALO Hydration is the trading brand of HALO Lifestyle LLC, a New York/US private company founded in 2017 by Anshuman Vohra and Robin Shobin; it is venture-backed (including celebrity investors such as Andy Murray and Pitbull) with no state or sovereign-fund ownership.",
+    "short": "HALO Hydration is the trading brand of HALO Lifestyle LLC, a New York/US private company founded in 2017 by Anshuman Vohra and Robin Shobin; it is venture-backed….",
+    "source": {
+      "name": "Preqin asset profile for Halo Hydration; Crunchbase legal-name record (HALO LIFESTYLE LLC)",
+      "date": "2025",
+      "url": "https://www.preqin.com/data/profile/asset/halo-hydration/624618"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "hansemerkur-krankenversicherung-ag-record",
+    "ownerIds": [
+      "hansemerkur-krankenversicherung-ag"
+    ],
+    "text": "HanseMerkur is Germany's only independent, group-independent mid-sized personal insurer in Hamburg and is structured as a Versicherungsverein auf Gegenseitigkeit (mutual); HanseMerkur Krankenversicherung auf Gegenseitigkeit remains the owner of the group, owing duties only to customers and staff, not shareholders.",
+    "short": "HanseMerkur is Germany's only independent, group-independent mid-sized personal insurer in Hamburg and is structured as a Versicherungsverein auf Gegenseitigkeit….",
+    "source": {
+      "name": "HanseMerkur official company/facts page (mutual structure); HanseMerkur 150-year corporate history",
+      "date": "2025",
+      "url": "https://vertriebskarriere.hansemerkur.de/das-unternehmen/zahlen-fakten"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "ursapharm-arzneimittel-gmbh-record",
+    "ownerIds": [
+      "ursapharm-arzneimittel-gmbh"
+    ],
+    "text": "HYLO is the flagship dry-eye brand of URSAPHARM Arzneimittel GmbH, a privately held, family/mittelstand German pharmaceutical and medical-device maker headquartered in Saarbrucken, founded 1974 and still independent after 50 years.",
+    "short": "HYLO is the flagship dry-eye brand of URSAPHARM Arzneimittel GmbH, a privately held, family/mittelstand German pharmaceutical and medical-device maker….",
+    "source": {
+      "name": "URSAPHARM Arzneimittel GmbH official company profile and 50th-anniversary release",
+      "date": "2024-04-08",
+      "url": "https://ursapharm.de/en/press/company-profile/"
     },
     "reviewed": false
   },
@@ -261,6 +471,48 @@
     "reviewed": false
   },
   {
+    "id": "knox-hydrate-pty-ltd-record",
+    "ownerIds": [
+      "knox-hydrate-pty-ltd"
+    ],
+    "text": "Knox Hydration/KNOX Hydrate is a South African sports-drinks company founded in 2024 and based in Cape Town, co-founded and co-owned by former UFC middleweight champion Dricus du Plessis and Australian entrepreneur Ethan Hughes. It has no parent company above it - it is founder-owned private capital.",
+    "short": "Knox Hydration/KNOX Hydrate is a South African sports-drinks company founded in 2024 and based in Cape Town, co-founded and co-owned by former UFC middleweight….",
+    "source": {
+      "name": "Cape Argus / Independent Media interview with KNOX boss Ethan Hughes; The Athletic on the Newcastle United deal",
+      "date": "2026-04-20",
+      "url": "https://capeargus.co.za/sport/mma/2026-04-20-ufc-africa-and-newcastle-united-knox-hydration-working-to-bring-global-giants-to-sa"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "profine-gmbh-record",
+    "ownerIds": [
+      "profine-gmbh"
+    ],
+    "text": "Koemmerling is a brand of profine GmbH, the Pirmasens PVC-window-systems group. profine was sold by Bahrain's Arcapita Bank to the Frankfurt private equity firm Hidden Peak Capital, and Dr Peter A. Mrosik is owner and CEO, so the group is privately held rather than state-backed.",
+    "short": "Koemmerling is a brand of profine GmbH, the Pirmasens PVC-window-systems group.",
+    "source": {
+      "name": "Koemmerling/profine official press release 'profine GmbH has a new owner'; profine Group corporate site (Mrosik, owner and CEO)",
+      "date": "2024-10-07",
+      "url": "https://www.koemmerling.com/en/news-and-media/press/news/profine-gmbh-has-a-new-owner/"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "grupo-saltoki-record",
+    "ownerIds": [
+      "grupo-saltoki"
+    ],
+    "text": "Kosner is a Spanish HVAC/air-conditioning brand whose products are distributed exclusively through Grupo Saltoki's centres; Saltoki itself states it is Kosner's exclusive distributor and the party that drove the Osasuna sponsorship. Grupo Saltoki is a private Navarra-based family distributorship.",
+    "short": "Kosner is a Spanish HVAC/air-conditioning brand whose products are distributed exclusively through Grupo Saltoki's centres; Saltoki itself states it is Kosner's….",
+    "source": {
+      "name": "Saltoki official blog - 'Kosner, marca de climatizacion distribuida por Saltoki, patrocinara a Osasuna'",
+      "date": "2023-02-10",
+      "url": "https://www.saltoki.com/blog/kosner-climatizacion-patrocinador-osasuna"
+    },
+    "reviewed": false
+  },
+  {
     "id": "payward-record",
     "ownerIds": [
       "payward"
@@ -271,6 +523,20 @@
       "name": "OFAC enforcement release (Nov 28, 2022); Kraken/Payward disclosures",
       "date": "2022-11-28",
       "url": "https://ofac.treasury.gov/system/files/126/20221128_kraken.pdf"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "kutxabank-sa-record",
+    "ownerIds": [
+      "kutxabank-sa"
+    ],
+    "text": "Kutxabank S.A. is controlled 57% by BBK Fundacion Bancaria, 32% by Kutxa and 11% by Vital - the three former Basque savings banks, now private-law banking foundations. A banking foundation is a private entity (not a state or sovereign fund), so Kutxabank's owner is private even though the foundations pursue public-benefit goals.",
+    "short": "Kutxabank S.A.",
+    "source": {
+      "name": "Kutxabank consolidated interim report 2024 (parent/ownership); El Correo - shareholder breakdown 57/32/11",
+      "date": "2024-06-30",
+      "url": "https://www.kutxabank.eus/cs/Satellite?blobcol=urldata&blobheadername1=Expires&blobheadervalue4=inline%3B++filename%3D%22Inf+Semestral+KB+consol+30-06-2024_EN.PDF%22"
     },
     "reviewed": false
   },
@@ -289,6 +555,20 @@
     "reviewed": false
   },
   {
+    "id": "haufe-group-se-record",
+    "ownerIds": [
+      "haufe-group-se"
+    ],
+    "text": "Lexware is the accounting-software brand of Haufe-Lexware GmbH & Co. KG, whose parent is the family-owned Haufe Group SE of Freiburg (HRA 4408). Haufe Group is described as a family-managed German B2B technology/publishing group - no state or fund ownership.",
+    "short": "Lexware is the accounting-software brand of Haufe-Lexware GmbH & Co.",
+    "source": {
+      "name": "Haufe-Lexware fact sheet 2024; Handelsregisterauszug HRA 4408 (Haufe-Lexware GmbH & Co. KG)",
+      "date": "2024",
+      "url": "https://www.lexware.de/fileadmin/pressematerial/factsheet_lexware_2024.pdf"
+    },
+    "reviewed": false
+  },
+  {
     "id": "marex-group-plc-record",
     "ownerIds": [
       "marex-group-plc"
@@ -299,6 +579,34 @@
       "name": "Marex investor relations (SEC filings); Reuters/trade coverage of June 2024 IPO",
       "date": "2024-06",
       "url": "https://www.marex.com/investors"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "matthaei-gruppe-record",
+    "ownerIds": [
+      "matthaei-gruppe"
+    ],
+    "text": "Matthaei is a German road-building/construction contractor headquartered in Verden (Aller) that became SV Werder Bremen's main and shirt sponsor from 2023/24; it is a privately held mittelstand group with no disclosed state participation.",
+    "short": "Matthaei is a German road-building/construction contractor headquartered in Verden (Aller) that became SV Werder Bremen's main and shirt sponsor from 2023/24; it….",
+    "source": {
+      "name": "Matthaei official press release announcing the Werder Bremen main sponsorship; Matthaei group site",
+      "date": "2023-02-10",
+      "url": "https://www.matthaei.de/news/2023/matth%C3%A4i-wird-neuer-haupt-und-trikotsponsor-des-sv-werder-41657"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "mk-sports-news-record",
+    "ownerIds": [
+      "mk-sports-news"
+    ],
+    "text": "Deportivo Alaves' Asian main sponsor, now branded 'MK体育NEWS (mktynews.com)' after a 2026 rebrand, is a Chinese sports-media/marketing platform. Its corporate owner could not be pinned down reliably: mktynews.com is a WordPress sports-news site and the many 'mk体育' Chinese portals give conflicting corporate narratives (founded 2010 vs 1995/1996 vs 2012, Nanning vs Chengdu vs Guangdong), with no registry-level shareholder disclosure.",
+    "short": "Deportivo Alaves' Asian main sponsor, now branded 'MK体育NEWS (mktynews.com)' after a 2026 rebrand, is a Chinese sports-media/marketing platform.",
+    "source": {
+      "name": "Deportivo Alaves official club news on the sponsor rebrand; mktynews.com",
+      "date": "2026-07",
+      "url": "https://deportivoalaves.com/noticias/el-patrocinador-principal-del-deportivo-alaves-renueva-su-marca-para-la-proxima-temporada"
     },
     "reviewed": false
   },
@@ -317,6 +625,34 @@
     "reviewed": false
   },
   {
+    "id": "pamesa-grupo-empresarial-record",
+    "ownerIds": [
+      "pamesa-grupo-empresarial"
+    ],
+    "text": "Pamesa Ceramica states it is the parent company of Grupo Pamesa, the Castellon ceramic-tile group; the group is controlled by Spanish billionaire Fernando Roig Alfonso (also owner/president of Villarreal CF) and is privately held with no state or fund shareholder.",
+    "short": "Pamesa Ceramica states it is the parent company of Grupo Pamesa, the Castellon ceramic-tile group; the group is controlled by Spanish billionaire Fernando Roig….",
+    "source": {
+      "name": "Pamesa Ceramica official corporate page ('Pamesa Ceramica is the parent company of the Pamesa Group'); Focus Piedra interview with Fernando Roig",
+      "date": "2021-2024",
+      "url": "https://www.pamesa.com/en/CORPORATIVO.html"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "eni-spa-record",
+    "ownerIds": [
+      "eni-spa"
+    ],
+    "text": "Plenitude is Eni's retail/renewables division; Eni is listed on Borsa Italiana and NYSE but the Italian Ministry of Economy and Finance plus CDP S.p.A. together hold 33.09% of its share capital, i.e. a state link at the owner. Eni is restructuring/deconsolidating Plenitude with Ares (20%) and EIP (10%), leaving Eni around 65%.",
+    "short": "Plenitude is Eni's retail/renewables division; Eni is listed on Borsa Italiana and NYSE but the Italian Ministry of Economy and Finance plus CDP S.p.A.",
+    "source": {
+      "name": "Eni official shareholder-structure page (MEF + CDP = 33.09%); Eni press release on deconsolidation of Plenitude",
+      "date": "2026-03-19",
+      "url": "https://www.eni.com/en-IT/governance/shareholding-structure.html"
+    },
+    "reviewed": false
+  },
+  {
     "id": "government-of-qatar-record",
     "ownerIds": [
       "government-of-qatar"
@@ -327,6 +663,20 @@
       "name": "Qatar Airways Group audited consolidated financial statements (note: corporate information); Human Rights Watch",
       "date": "2022-03 / 2022-11",
       "url": "https://www.qatarairways.com/content/dam/documents/annual-reports/2022/financial-statement-en.pdf"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "raisin-gmbh-record",
+    "ownerIds": [
+      "raisin-gmbh"
+    ],
+    "text": "Raisin (Weltsparen) is a Berlin fintech formed by the 2021 merger of Deposit Solutions and Raisin GmbH; it is privately held and VC-backed by investors including Goldman Sachs, Deutsche Bank, Index Ventures, Kinnevik, PayPal Ventures and Thrive Capital. No state or sovereign-fund shareholder.",
+    "short": "Raisin (Weltsparen) is a Berlin fintech formed by the 2021 merger of Deposit Solutions and Raisin GmbH; it is privately held and VC-backed by investors including….",
+    "source": {
+      "name": "Fintech Consult company profile listing Raisin's investor base; Raisin corporate (XING/Lusha) company description",
+      "date": "2026",
+      "url": "https://fintech-consult.com/europe/germany/fintech/raisin/"
     },
     "reviewed": false
   },
@@ -345,6 +695,48 @@
     "reviewed": false
   },
   {
+    "id": "reuter-gruppe-record",
+    "ownerIds": [
+      "reuter-gruppe"
+    ],
+    "text": "REUTER is Germany's largest online bathroom-products retailer, a family-run business founded by craftsman Bernd Reuter, who turned his trade business into an online shop in 2004; it became Borussia Moenchengladbach's main sponsor from 2024/25 and remains privately owned.",
+    "short": "REUTER is Germany's largest online bathroom-products retailer, a family-run business founded by craftsman Bernd Reuter, who turned his trade business into an….",
+    "source": {
+      "name": "REUTER official company history page ('The family-run company is Borussia Moenchengladbach's new main sponsor'); LogInfo24 on founder Bernd Reuter",
+      "date": "2024",
+      "url": "https://www.reuter.com/company/about-us/our-history.html"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "rewe-group-record",
+    "ownerIds": [
+      "rewe-group"
+    ],
+    "text": "REWE Group is a German retail and travel group organized as a two-tier cooperative: it is owned by six regional cooperatives (eG) including Hungen eG, West eG, Sued/Suedwest eG, Nord/Ost eG and Dortmund eG, plus Fuer Sie Handelsgenossenschaft eG. Cooperative members - independent retailers - are the owners; no external shareholder or state stake.",
+    "short": "REWE Group is a German retail and travel group organized as a two-tier cooperative: it is owned by six regional cooperatives (eG) including Hungen eG, West eG,….",
+    "source": {
+      "name": "REWE Group official 'Cooperative' page and investor presentation (REWE COOPERATIVES / six owner cooperatives)",
+      "date": "2024-07",
+      "url": "https://www.rewe-group.com/en/cooperative/"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "diputacion-de-malaga-record",
+    "ownerIds": [
+      "diputacion-de-malaga"
+    ],
+    "text": "Sabor a Malaga is not a company but a promotional quality brand owned and run by the Diputacion Provincial de Malaga, the provincial public administration; the brand is used by the Diputacion to promote the province's agri-food products and licenses its use to producers. The owner is therefore a public body - a lesser/sub-national state link.",
+    "short": "Sabor a Malaga is not a company but a promotional quality brand owned and run by the Diputacion Provincial de Malaga, the provincial public administration; the….",
+    "source": {
+      "name": "Sabor a Malaga official site (a brand of the Diputacion de Malaga); Diputacion de Malaga trademark-use resolution",
+      "date": "2026",
+      "url": "https://www.saboramalaga.es/en/news/blog/sabor-a-malaga-proud-official-sponsor-of-malaga-cf-since-2021-p54384"
+    },
+    "reviewed": false
+  },
+  {
     "id": "sap-se-record",
     "ownerIds": [
       "sap-se"
@@ -355,6 +747,20 @@
       "name": "SAP Investor Relations, shareholder structure/basic data",
       "date": "2026",
       "url": "https://www.sap.com/investors/en/stock/basic-data.html"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "sesame-hr-sl-record",
+    "ownerIds": [
+      "sesame-hr-sl"
+    ],
+    "text": "Sesame HR is a Valencia-based HR-software scale-up founded 2015 and held privately/VC-backed: Series A led by PSG Equity, a later EUR 23m round led by GP Bullhound with PSG, and a EUR 50m debt facility from BBVA Spark. No state or sovereign-fund shareholder.",
+    "short": "Sesame HR is a Valencia-based HR-software scale-up founded 2015 and held privately/VC-backed: Series A led by PSG Equity, a later EUR 23m round led by GP Bullhound….",
+    "source": {
+      "name": "PSG Equity press release on Sesame's EUR 23m round; GP Bullhound Fund VI announcement",
+      "date": "2024-05-08",
+      "url": "https://psgequity.com/news/sesame-closes-new-investment-round-of-23m-to-continue-its-investment-in-ai-and-accelerate-international-expansion"
     },
     "reviewed": false
   },
@@ -373,6 +779,20 @@
     "reviewed": false
   },
   {
+    "id": "spotify-technology-sa-record",
+    "ownerIds": [
+      "spotify-technology-sa"
+    ],
+    "text": "Spotify is listed on the NYSE (SPOT); it has a dual-class structure with a large free float and no single controlling shareholder (founder Daniel Ek holds supervoting shares; Tencent holds ~8%, institutions ~67%). No state or sovereign-fund control - Longbridge's holder breakdown puts state-owned-enterprise holdings at well under 1%.",
+    "short": "Spotify is listed on the NYSE (SPOT); it has a dual-class structure with a large free float and no single controlling shareholder (founder Daniel Ek holds….",
+    "source": {
+      "name": "Spotify Technology S.A. SEC ownership filings (CIK 0001639920); Spotify 2025 annual filing",
+      "date": "2026",
+      "url": "https://www.sec.gov/cgi-bin/own-disp?CIK=0001639920&action=getissuer&sortid=type-of-owner-DESC"
+    },
+    "reviewed": false
+  },
+  {
     "id": "standard-chartered-plc-record",
     "ownerIds": [
       "standard-chartered-plc"
@@ -387,6 +807,20 @@
     "reviewed": false
   },
   {
+    "id": "tecnocasa-holding-spa-record",
+    "ownerIds": [
+      "tecnocasa-holding-spa"
+    ],
+    "text": "Tecnocasa Group is an Italian real-estate and credit brokerage franchisor operated by Tecnocasa Holding S.p.A. (Rozzano, Milan), privately held and unlisted; it runs franchise networks across Italy, Spain, Hungary and beyond, with no disclosed state or fund ownership.",
+    "short": "Tecnocasa Group is an Italian real-estate and credit brokerage franchisor operated by Tecnocasa Holding S.p.A.",
+    "source": {
+      "name": "Tecnocasa Group official corporate site (Tecnocasa Holding Spa, P.IVA 08365140154)",
+      "date": "2026",
+      "url": "https://www.tecnocasagroup.com/"
+    },
+    "reviewed": false
+  },
+  {
     "id": "temporal-technologies-record",
     "ownerIds": [
       "temporal-technologies"
@@ -397,6 +831,20 @@
       "name": "Temporal Series E reporting (GeekWire-derived coverage)",
       "date": "2026",
       "url": "https://425business.com/news/temporal-raises-550m-in-series-e-company-valued-at-12-55b/article_3f5859c3-e9d8-4cc7-816f-6616745a60dc.html"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "tm-grupo-inmobiliario-record",
+    "ownerIds": [
+      "tm-grupo-inmobiliario"
+    ],
+    "text": "TM Real Estate Group is the Alicante-based resort developer TM Grupo Inmobiliario, described on its own site as a family company set up by Jose Luis Serna Almodovar; it is family-owned private capital with no state or fund shareholder.",
+    "short": "TM Real Estate Group is the Alicante-based resort developer TM Grupo Inmobiliario, described on its own site as a family company set up by Jose Luis Serna….",
+    "source": {
+      "name": "TM Grupo Inmobiliario official 'About us' page (family company, Alicante)",
+      "date": "2026",
+      "url": "https://www.tmgrupoinmobiliario.com/en/about-us"
     },
     "reviewed": false
   },
@@ -481,6 +929,20 @@
       "name": "Vodafone 'Response to e&'s announcement'; Reuters (Niel becomes Vodafone's top shareholder); e& H1 2026 results (sale completed)",
       "date": "2026-07-10 / 2026-H1",
       "url": "https://www.vodafone.com/news/newsroom/corporate-and-financial/response-to-announcement"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "wwk-lebensversicherung-ag-record",
+    "ownerIds": [
+      "wwk-lebensversicherung-ag"
+    ],
+    "text": "WWK Versicherungen is a Munich mutual insurance group in which WWK Lebensversicherung a.G. is the mutual parent company owning WWK Allgemeine Versicherung AG, WWK Pensionsfonds AG and WWK Investment SA; as a Versicherungsverein a.G. it is owned by its members, not shareholders or the state.",
+    "short": "WWK Versicherungen is a Munich mutual insurance group in which WWK Lebensversicherung a.G.",
+    "source": {
+      "name": "WWK insurer profile (WWK Lebensversicherung a.G. as mutual parent); WWK corporate history",
+      "date": "2026",
+      "url": "https://boleron.eu/en/germany/insurer/wwk"
     },
     "reviewed": false
   }

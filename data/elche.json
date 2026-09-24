@@ -15,10 +15,10 @@
       "name": "Flexicar",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": "flexicar",
-      "owner": "Flexicar",
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "flexicar-internacional",
+      "owner": "Flexicar Internacional (owner Luis Oliver Cornago)",
+      "verdict": "Owned by Flexicar Internacional (owner Luis Oliver Cornago). Nothing found.",
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
@@ -26,9 +26,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
-    "flexicar"
+    "flexicar-internacional"
   ],
   "lastUpdated": "2026-09-24"
 }

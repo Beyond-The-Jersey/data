@@ -17,10 +17,10 @@
       "name": "Fundacion 1890",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "fundacion-1890",
       "owner": "Fundacion 1890",
-      "verdict": null,
+      "verdict": "Owned by Fundacion 1890 (Sevilla FC Foundation). Nothing found.",
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
@@ -28,7 +28,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "fundacion-1890"
   ],

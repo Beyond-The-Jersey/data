@@ -16,10 +16,10 @@
       "name": "Gree",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": "gree-electric",
-      "owner": "Gree Electric Appliances",
-      "verdict": null,
+      "tier": "concern",
+      "ownerId": "gree-group-zhuhai-sasac",
+      "owner": "Gree Group Co., Ltd. (Zhuhai Municipal Government / Zhuhai SASAC)",
+      "verdict": "Gree Electric Appliances Inc.",
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
@@ -27,9 +27,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "concern",
   "owners": [
-    "gree-electric"
+    "gree-group-zhuhai-sasac"
   ],
   "lastUpdated": "2026-09-24"
 }

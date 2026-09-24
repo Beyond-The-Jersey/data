@@ -19,9 +19,9 @@
       "placement": "front",
       "season": "2026-27",
       "tier": "unrated",
-      "ownerId": "mk-tiyu-news",
-      "owner": "MK TIYU News",
-      "verdict": null,
+      "ownerId": "mk-sports-news",
+      "owner": "mk体育 / MKSPORTS News (mktynews.com)",
+      "verdict": "Deportivo Alaves' Asian main sponsor, now branded 'MK体育NEWS (mktynews.com)' after a 2026 rebrand, is a Chinese sports-media/marketing platform.",
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
@@ -31,7 +31,7 @@
   ],
   "worstTier": "unrated",
   "owners": [
-    "mk-tiyu-news"
+    "mk-sports-news"
   ],
   "lastUpdated": "2026-09-24"
 }

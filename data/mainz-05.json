@@ -17,10 +17,10 @@
       "name": "Koemmerling",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": "koemmerling-kunststoffe",
-      "owner": "Koemmerling Kunststoffe",
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "profine-gmbh",
+      "owner": "profine GmbH (owner Dr Peter A. Mrosik / Hidden Peak Capital)",
+      "verdict": "Owned by profine GmbH (owner Dr Peter A. Mrosik / Hidden Peak Capital). Nothing found.",
       "source": {
         "name": "Football Kit Archive, Bundesliga 2026-27 kits",
         "date": "2026-09-24",
@@ -28,9 +28,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
-    "koemmerling-kunststoffe"
+    "profine-gmbh"
   ],
   "lastUpdated": "2026-09-24"
 }

@@ -17,10 +17,10 @@
       "name": "Sabor a Malaga",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": "sabor-a-malaga",
-      "owner": "Sabor a Malaga",
-      "verdict": null,
+      "tier": "concern",
+      "ownerId": "diputacion-de-malaga",
+      "owner": "Diputacion Provincial de Malaga",
+      "verdict": "Sabor a Malaga is not a company but a promotional quality brand owned and run by the Diputacion Provincial de Malaga, the provincial public administration; the….",
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
@@ -28,9 +28,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "concern",
   "owners": [
-    "sabor-a-malaga"
+    "diputacion-de-malaga"
   ],
   "lastUpdated": "2026-09-24"
 }

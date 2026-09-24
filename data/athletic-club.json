@@ -18,10 +18,10 @@
       "name": "Kutxabank",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": "kutxabank",
-      "owner": "Kutxabank",
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "kutxabank-sa",
+      "owner": "Kutxabank, S.A. (owned by BBK, Kutxa and Vital foundations)",
+      "verdict": "Owned by Kutxabank, S.A. (owned by BBK, Kutxa and Vital foundations). Nothing found.",
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
@@ -29,9 +29,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
-    "kutxabank"
+    "kutxabank-sa"
   ],
   "lastUpdated": "2026-09-24"
 }

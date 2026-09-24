@@ -16,10 +16,10 @@
       "name": "Arctempus",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "arctempus",
       "owner": "Arctempus",
-      "verdict": null,
+      "verdict": "Owned by ARCTEMPUS (Arctempus Capital / Grupo StarOneRocket). Nothing found.",
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
         "date": "2026-09-06",
@@ -27,7 +27,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "arctempus"
   ],
