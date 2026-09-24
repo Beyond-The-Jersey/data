@@ -30,6 +30,9 @@
       }
     ]
   },
-  "last_updated": "2026-09-24T19:45:34.520849+00:00",
-  "owner": "Mike Brown"
+  "last_updated": "2026-09-24T20:00:00+00:00",
+  "owner": "Mike Brown",
+  "alternate_owners": [
+    "Carl Lindner III"
+  ]
 }

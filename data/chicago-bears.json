@@ -30,6 +30,9 @@
       }
     ]
   },
-  "last_updated": "2026-09-24T19:45:33.479340+00:00",
-  "owner": "George McCaskey"
+  "last_updated": "2026-09-24T20:00:00+00:00",
+  "owner": "George McCaskey",
+  "alternate_owners": [
+    "Scotiabank"
+  ]
 }

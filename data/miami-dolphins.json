@@ -30,6 +30,9 @@
       }
     ]
   },
-  "last_updated": "2026-09-24T19:46:07.254556+00:00",
-  "owner": "Stephen Ross"
+  "last_updated": "2026-09-24T20:00:00+00:00",
+  "owner": "Stephen Ross",
+  "alternate_owners": [
+    "Riccardo Silva"
+  ]
 }

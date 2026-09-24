@@ -30,6 +30,9 @@
       }
     ]
   },
-  "last_updated": "2026-09-24T19:45:29.132493+00:00",
-  "owner": "Steve Bisciotti"
+  "last_updated": "2026-09-24T20:00:00+00:00",
+  "owner": "Steve Bisciotti",
+  "alternate_owners": [
+    "Doug Miller"
+  ]
 }

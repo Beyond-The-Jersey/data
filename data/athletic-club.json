@@ -9,7 +9,36 @@
     "twitter": "@athleticclub",
     "website": "https://www.athletic-club.com"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "name": "Sam Gillam",
+      "type": "company",
+      "category": "sponsor",
+      "rating": "D",
+      "rating_desc": "Unverified \u2014 from Wikidata",
+      "flags": [],
+      "deal_value": null,
+      "sources": [
+        "Wikidata"
+      ],
+      "verified": false,
+      "last_updated": "2026-09-24T20:00:00+00:00"
+    },
+    {
+      "name": "Donald Coles",
+      "type": "company",
+      "category": "sponsor",
+      "rating": "D",
+      "rating_desc": "Unverified \u2014 from Wikidata",
+      "flags": [],
+      "deal_value": null,
+      "sources": [
+        "Wikidata"
+      ],
+      "verified": false,
+      "last_updated": "2026-09-24T20:00:00+00:00"
+    }
+  ],
   "shame": {
     "description": "Contact Athletic Club to express discomfort about sponsor ratings",
     "methods": [
@@ -30,5 +59,6 @@
       }
     ]
   },
-  "last_updated": "2026-09-24"
+  "last_updated": "2026-09-24T20:00:00+00:00",
+  "owner": "Roland Duch\u00e2telet"
 }
