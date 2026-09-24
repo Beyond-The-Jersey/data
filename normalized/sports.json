@@ -44,5 +44,13 @@
       "world cup",
       "cycling"
     ]
+  },
+  {
+    "id": "baseball",
+    "label": "Baseball",
+    "status": "not-mapped",
+    "aliases": [
+      "mlb"
+    ]
   }
 ]

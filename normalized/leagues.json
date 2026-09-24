@@ -40,7 +40,7 @@
     "season": "2026-27",
     "status": "partial",
     "notes": [
-      "Only Atl\u00e9tico de Madrid and Real Madrid are in the data so far."
+      "All 20 clubs for 2026-27 are in the data; front sponsors are unrated."
     ]
   },
   {
@@ -55,6 +55,7 @@
     "season": "2026-27",
     "status": "not-started",
     "notes": [
+      "All 18 clubs for 2026-27 are in the data; front sponsors are unrated.",
       "Bayern Munich dropped Qatar Airways in 2023 and moved away from Visit Rwanda in 2025."
     ]
   },
@@ -111,7 +112,7 @@
     "clubCount": 30,
     "status": "not-started",
     "notes": [
-      "LA Clippers \u00d7 Visit Rwanda (since 2025), value not disclosed."
+      "LA Clippers x Visit Rwanda (since 2025), value not disclosed; fronts not mapped yet."
     ]
   },
   {
@@ -124,7 +125,7 @@
     "country": "Africa",
     "status": "not-started",
     "notes": [
-      "Visit Rwanda is a league partner, reportedly $6\u20137m a year."
+      "Visit Rwanda is a league partner, reportedly $6–7m a year."
     ]
   },
   {
@@ -138,7 +139,7 @@
     "clubCount": 32,
     "status": "not-started",
     "notes": [
-      "LA Rams \u00d7 Visit Rwanda (since 2025), at the stadium rather than on the shirt."
+      "LA Rams x Visit Rwanda (since 2025), at the stadium rather than on the shirt."
     ]
   },
   {
@@ -175,7 +176,37 @@
     "name": "FIFA World Cups",
     "status": "not-started",
     "notes": [
-      "Visit Saudi talks for the 2023 Women\u2019s World Cup were abandoned."
+      "Visit Saudi talks for the 2023 Women’s World Cup were abandoned."
+    ]
+  },
+  {
+    "id": "mlb",
+    "aliases": [
+      "major league baseball",
+      "usa"
+    ],
+    "sportId": "baseball",
+    "name": "MLB",
+    "country": "USA and Canada",
+    "clubCount": 30,
+    "season": "2026",
+    "status": "not-started",
+    "notes": []
+  },
+  {
+    "id": "2-bundesliga",
+    "aliases": [
+      "zweite bundesliga",
+      "germany second division"
+    ],
+    "sportId": "soccer",
+    "name": "2. Bundesliga",
+    "country": "Germany",
+    "clubCount": 18,
+    "season": "2026-27",
+    "status": "not-started",
+    "notes": [
+      "VfL Wolfsburg was relegated in 2026 after 29 seasons in the Bundesliga."
     ]
   }
 ]

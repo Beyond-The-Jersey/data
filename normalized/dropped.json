@@ -34,9 +34,13 @@
     "sponsorId": "visit-rwanda",
     "what": "Stepped back from Visit Rwanda",
     "text": "Moved away from the Visit Rwanda branding after criticism, two years after ending Qatar Airways.",
-    "source": null,
-    "featured": true,
-    "todo": "Add source"
+    "source": {
+      "name": "Deutsche Welle, Bayern Munich end Rwanda sponsorship after pressure",
+      "date": "2025-08",
+      "url": "https://www.dw.com/en/bayern-munich-end-rwanda-sponsorship-after-pressure/a-73574184",
+      "note": "The club ended the commercial deal with the Rwanda Development Board after fan and media pressure."
+    },
+    "featured": true
   },
   {
     "id": "bayern-qatar-airways-2023",
@@ -45,9 +49,13 @@
     "sponsorId": "qatar-airways",
     "what": "Dropped Qatar Airways",
     "text": "Members raised it at meetings and in the stands for years. The deal was not renewed.",
-    "source": null,
-    "featured": true,
-    "todo": "Add source"
+    "source": {
+      "name": "Deutsche Welle, Bayern Munich end Qatar deal after fan pressure",
+      "date": "2023",
+      "url": "https://www.dw.com/en/football-bayern-munich-end-qatar-deal-after-fan-pressure/a-63418536",
+      "note": "Deal ended by mutual agreement on 30 June 2023 after five years."
+    },
+    "featured": true
   },
   {
     "id": "schalke-gazprom-2022",
@@ -56,9 +64,13 @@
     "sponsorId": "gazprom",
     "what": "Dropped Gazprom",
     "text": "Took the logo off the shirt within days, then ended a 15-year deal early.",
-    "source": null,
-    "featured": true,
-    "todo": "Add source"
+    "source": {
+      "name": "RFE/RL",
+      "date": "2022-03",
+      "url": "https://www.rferl.org/a/gazprom-uefa-ferencvaros-hungary-soccer-ukraine-war-schalke/32941442.html",
+      "note": "Schalke cut ties at the same time as UEFA, ending a 15-year front-of-shirt deal."
+    },
+    "featured": true
   },
   {
     "id": "manutd-aeroflot-2022",
@@ -66,23 +78,30 @@
     "clubId": "manchester-united",
     "sponsorId": "aeroflot",
     "what": "Dropped Aeroflot",
-    "text": "Ended the deal early and said it shared fans\u2019 concerns.",
-    "source": null,
-    "featured": true,
-    "todo": "Add source"
+    "text": "Ended the deal early and said it shared fans’ concerns.",
+    "source": {
+      "name": "ESPN",
+      "date": "2022-02-25",
+      "url": "https://www.espn.com/soccer/story/_/id/37625797/man-united-cut-sponsorship-russian-airline-aeroflot-amid-ukraine-invasion",
+      "note": "United withdrew Aeroflot's sponsorship rights and said it shared fans' concerns."
+    },
+    "featured": true
   },
   {
     "id": "wwc-visit-saudi-2023",
     "year": 2023,
     "clubId": null,
-    "orgName": "Women\u2019s World Cup (FIFA)",
+    "orgName": "Women’s World Cup (FIFA)",
     "leagueId": "fifa",
     "sponsorId": "visit-saudi",
     "what": "Dropped Visit Saudi",
     "text": "Talks abandoned after players and the host federations objected.",
-    "source": null,
-    "featured": false,
-    "todo": "Add source"
+    "source": {
+      "name": "The Guardian, FIFA admits defeat over Saudi sponsorship of Women's World Cup",
+      "date": "2023-03-16",
+      "url": "https://www.theguardian.com/football/2023/mar/16/fifa-defeat-saudi-sponsorship-womens-world-cup-plans-infantino"
+    },
+    "featured": false
   },
   {
     "id": "uefa-gazprom-2022",
@@ -93,9 +112,12 @@
     "sponsorId": "gazprom",
     "what": "Dropped Gazprom",
     "text": "Ended across the Champions League, national-team competitions and Euro 2024.",
-    "source": null,
-    "featured": false,
-    "todo": "Add source"
+    "source": {
+      "name": "The Athletic, UEFA ends partnership with Gazprom",
+      "date": "2022-02-28",
+      "url": "https://www.nytimes.com/athletic/4181788/2022/02/28/uefa-ends-partnership-with-russian-energy-company-gazprom/"
+    },
+    "featured": false
   },
   {
     "id": "haas-uralkali-2022",
@@ -106,9 +128,12 @@
     "sponsorId": "uralkali",
     "what": "Dropped Uralkali",
     "text": "Title sponsorship with the Russian fertiliser company ended right after the invasion of Ukraine.",
-    "source": null,
-    "featured": false,
-    "todo": "Add source"
+    "source": {
+      "name": "ESPN, Haas terminates contracts with Mazepin and Uralkali",
+      "date": "2022-03-05",
+      "url": "https://www.espn.com/f1/story/_/id/33419710/haas-terminates-contracts-russian-driver-nikita-mazepin-title-sponsor-uralkali"
+    },
+    "featured": false
   },
   {
     "id": "f1-russian-gp-2022",
@@ -119,23 +144,11 @@
     "sponsorId": null,
     "what": "Cancelled the Russian Grand Prix",
     "text": "Race cancelled, then the promoter contract terminated.",
-    "source": null,
-    "featured": false,
-    "todo": "Add source"
-  },
-  {
-    "id": "luton-puma-2025",
-    "clubId": "luton-town",
-    "orgName": "Puma",
-    "sponsorId": "puma",
-    "leagueId": "premier-league",
-    "from": "2025",
-    "to": "2025",
-    "reason": "BDS campaign",
     "source": {
-      "name": "Multiple sources",
-      "date": "2025",
-      "url": null
-    }
+      "name": "Sky Sports, Formula 1 terminates Russian GP contract",
+      "date": "2022-03-03",
+      "url": "https://www.skysports.com/f1/news/12433/12556381/formula-1-terminates-russian-gp-contract-in-wake-of-ukraine-invasion"
+    },
+    "featured": false
   }
 ]

@@ -4,12 +4,13 @@
     "ownerIds": [
       "government-of-rwanda"
     ],
-    "text": "UN experts say 3,000\u20134,000 Rwandan troops are fighting alongside M23 rebels in eastern Congo.",
-    "short": "3,000\u20134,000 Rwandan troops fighting alongside M23 in eastern Congo",
+    "text": "UN experts say 3,000–4,000 Rwandan troops are fighting alongside M23 rebels in eastern Congo.",
+    "short": "3,000–4,000 Rwandan troops fighting alongside M23 in eastern Congo",
     "source": {
-      "name": "UN Group of Experts on the DR Congo",
+      "name": "UN Group of Experts on the DR Congo, final report",
       "date": "2024",
-      "url": "https://drcongo.unmissions.org/sites/default/files/2024-10/S-2024-695.pdf"
+      "url": "https://docs.un.org/en/S/2024/432",
+      "note": "Final report of the UN Group of Experts on the DR Congo, S/2024/432."
     },
     "reviewed": false
   },
@@ -21,9 +22,10 @@
     "text": "M23 rebels take about $800,000 a month in levies on coltan mining.",
     "short": "$800k a month in coltan levies taken by M23",
     "source": {
-      "name": "UN Group of Experts on the DR Congo",
+      "name": "UN Group of Experts on the DR Congo, final report",
       "date": "2024",
-      "url": "https://drcongo.unmissions.org/sites/default/files/2024-10/S-2024-695.pdf"
+      "url": "https://docs.un.org/en/S/2024/432",
+      "note": "Final report of the UN Group of Experts on the DR Congo, S/2024/432."
     },
     "reviewed": false
   },
@@ -32,12 +34,13 @@
     "ownerIds": [
       "government-of-rwanda"
     ],
-    "text": "More than 120 tonnes of coltan a month smuggled from Congo\u2019s Rubaya mines into Rwanda since April 2024.",
+    "text": "More than 120 tonnes of coltan a month smuggled from Congo’s Rubaya mines into Rwanda since April 2024.",
     "short": "120+ tonnes of coltan a month smuggled into Rwanda",
     "source": {
       "name": "Global Witness",
       "date": "2026-06",
-      "url": "https://www.globalwitness.org/en/campaigns/oil-gas-mining/coltan/rubaya/"
+      "url": "https://globalwitness.org/en/campaigns/transition-minerals/who-buys-rwandas-smuggled-coltan-the-global-journey-of-conflict-coltan-from-drc-to-the-worlds-electronics/",
+      "note": "Who buys Rwanda's smuggled coltan?"
     },
     "reviewed": false
   },
@@ -46,11 +49,12 @@
     "ownerIds": [
       "government-of-rwanda"
     ],
-    "text": "Rubaya, in eastern Congo, produces about 15% of the world\u2019s tantalum, a metal used in phones and laptops. M23 took control of the mines in 2024.",
+    "text": "Rubaya, in eastern Congo, produces about 15% of the world’s tantalum, a metal used in phones and laptops. M23 took control of the mines in 2024.",
     "source": {
       "name": "Global Witness",
       "date": "2026-06",
-      "url": "https://www.globalwitness.org/en/campaigns/oil-gas-mining/coltan/rubaya/"
+      "url": "https://globalwitness.org/en/campaigns/transition-minerals/who-buys-rwandas-smuggled-coltan-the-global-journey-of-conflict-coltan-from-drc-to-the-worlds-electronics/",
+      "note": "Who buys Rwanda's smuggled coltan?"
     },
     "reviewed": false
   },
@@ -63,7 +67,8 @@
     "source": {
       "name": "Global Witness",
       "date": "2026-06",
-      "url": "https://www.globalwitness.org/en/campaigns/oil-gas-mining/coltan/coltan-and-electronics/"
+      "url": "https://globalwitness.org/en/campaigns/transition-minerals/who-buys-rwandas-smuggled-coltan-the-global-journey-of-conflict-coltan-from-drc-to-the-worlds-electronics/",
+      "note": "Who buys Rwanda's smuggled coltan?"
     },
     "reviewed": false
   },
@@ -77,7 +82,8 @@
     "source": {
       "name": "Amnesty International",
       "date": "2025",
-      "url": "https://www.amnesty.org/en/latest/news/2025/02/saudi-arabia-record-345-executions-in-2024/"
+      "url": "https://www.amnesty.org/en/documents/act50/8800/2025/en/",
+      "note": "Death Sentences and Executions 2024."
     },
     "reviewed": false
   },
@@ -91,7 +97,8 @@
     "source": {
       "name": "US Office of the Director of National Intelligence",
       "date": "2021-02",
-      "url": "https://www.dni.gov/files/ODNI/documents/assessments/Principal-Statesman-Khashoggi-Assessment.pdf"
+      "url": "https://www.dni.gov/files/ODNI/documents/assessments/Assessment-Saudi-Gov-Role-in-JK-Death-20210226v2.pdf",
+      "note": "Declassified assessment, 26 Feb 2021."
     },
     "reviewed": false
   },
@@ -106,7 +113,24 @@
     "source": {
       "name": "Human Rights Watch",
       "date": "2024-07",
-      "url": "https://www.hrw.org/news/2024/07/15/uae-mass-trial-94-activists"
+      "url": "https://www.hrw.org/news/2024/07/10/uae-unfair-trial-unjust-sentences",
+      "note": "Abu Dhabi Federal Appeals Court, 10 July 2024."
+    },
+    "reviewed": false
+  },
+  {
+    "id": "uae-mass-trial-upheld-2025",
+    "ownerIds": [
+      "uae",
+      "government-of-abu-dhabi",
+      "government-of-dubai"
+    ],
+    "text": "The UAE's Federal Supreme Court upheld the mass-trial convictions in March 2025.",
+    "short": "Mass-trial convictions upheld on appeal in March 2025",
+    "source": {
+      "name": "Human Rights Watch",
+      "date": "2025-03-04",
+      "url": "https://www.hrw.org/news/2025/03/04/uae-unfair-mass-trial-convictions-upheld"
     },
     "reviewed": false
   }

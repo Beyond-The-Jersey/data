@@ -1,384 +1,332 @@
-import json, os, glob
+"""Build normalized/ from the website seed + curated additions, then validate.
 
-# Load seed data from website
-import urllib.request
-BASE = "https://raw.githubusercontent.com/Beyond-The-Jersey/website/main/data/seed"
+Run:  python3 build_normalized_new.py
+Writes normalized/*.json next to this file and prints the validator result.
 
-def fetch(name):
-    url = f"{BASE}/{name}"
-    try:
-        with urllib.request.urlopen(url, timeout=15) as r:
-            return json.loads(r.read())
-    except Exception as e:
-        print(f"WARN: could not fetch {name}: {e}")
-        return None
+BTJ_SEED     path to Beyond-The-Jersey/website data/seed  (default /tmp/website/data/seed)
+BTJ_VALIDATE path to Beyond-The-Jersey/website validate.py
+"""
+import json
+import os
+import shutil
+import subprocess
+import sys
 
-meta = fetch("meta.json") or {"schemaVersion": 1, "updatedAt": "2026-09-24"}
-sports = fetch("sports.json") or []
-leagues = fetch("leagues.json") or []
-clubs_seed = fetch("clubs.json") or []
-owners_seed = fetch("owners.json") or []
-claims_seed = fetch("claims.json") or []
-sponsors_seed = fetch("sponsors.json") or []
-kits_seed = fetch("kits.json") or []
-deals_seed = fetch("deals.json") or []
-dropped_seed = fetch("dropped.json") or []
-levels = fetch("levels.json") or []
-tiers = fetch("tiers.json") or []
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import pipeline_data as A
 
-# Load pipeline data
-data_dir = "/tmp/data/data"
-team_files = glob.glob(os.path.join(data_dir, "*.json"))
+HERE = os.path.dirname(os.path.abspath(__file__))
+SEED = os.environ.get("BTJ_SEED", "/tmp/website/data/seed")
+OUT = os.path.join(HERE, "normalized")
+VALIDATE = os.environ.get("BTJ_VALIDATE", "/tmp/website/data/validate.py")
 
-teams = {}
-for f in team_files:
-    try:
-        with open(f) as fh:
-            t = json.load(fh)
-        teams[t.get("team", "")] = t
-    except:
-        pass
 
-# Build clubs.json from seed + pipeline
-clubs = []
-for sc in clubs_seed:
-    sid = sc.get("id", "")
-    t = teams.get(sid, {})
-    club = {
-        "id": sid,
-        "name": sc.get("name", t.get("name", "")),
-        "shortName": sc.get("shortName", t.get("shortName", "")),
-        "code": sc.get("code", t.get("code", "")),
-        "aliases": sc.get("aliases", t.get("aliases", [])),
-        "leagueId": sc.get("leagueId", t.get("league", "")),
-        "sportId": sc.get("sportId", t.get("sport", "")),
-        "country": sc.get("country", t.get("country", "Unknown")),
-        "crest": sc.get("crest", None),
+def load(name):
+    with open(os.path.join(SEED, name + ".json"), encoding="utf-8") as f:
+        return json.load(f)
+
+
+def write(name, obj):
+    with open(os.path.join(OUT, name + ".json"), "w", encoding="utf-8") as f:
+        json.dump(obj, f, indent=2, ensure_ascii=False)
+        f.write("\n")
+
+
+os.makedirs(OUT, exist_ok=True)
+
+# ------------------------------------------------------------------ meta
+meta = load("meta")
+meta["generatedBy"] = "Beyond-The-Jersey data pipeline (scripts/)"
+meta["updatedAt"] = A.D
+try:
+    meta["sourceCommit"] = subprocess.run(
+        ["git", "-C", HERE, "rev-parse", "--short", "HEAD"],
+        capture_output=True, text=True, check=True,
+    ).stdout.strip()
+except Exception:
+    pass
+write("meta", meta)
+
+# ------------------------------------------------------------------ sports / leagues / scales
+sports = load("sports")
+have = {s["id"] for s in sports}
+sports += [s for s in A.NEW_SPORTS if s["id"] not in have]
+write("sports", sports)
+
+leagues = load("leagues")
+have = {l["id"] for l in leagues}
+leagues += [l for l in A.NEW_LEAGUES if l["id"] not in have]
+for l in leagues:
+    if l["id"] == "la-liga":
+        l["notes"] = ["All 20 clubs for 2026-27 are in the data; front sponsors are unrated."]
+    if l["id"] == "bundesliga":
+        l["notes"] = [
+            "All 18 clubs for 2026-27 are in the data; front sponsors are unrated.",
+            "Bayern Munich dropped Qatar Airways in 2023 and moved away from Visit Rwanda in 2025.",
+        ]
+    if l["id"] == "nba":
+        l["notes"] = ["LA Clippers x Visit Rwanda (since 2025), value not disclosed; fronts not mapped yet."]
+    if l["id"] == "nfl":
+        l["notes"] = ["LA Rams x Visit Rwanda (since 2025), at the stadium rather than on the shirt."]
+write("leagues", leagues)
+
+write("levels", load("levels"))
+write("tiers", load("tiers"))
+
+# ------------------------------------------------------------------ clubs
+clubs = load("clubs")
+by_id = {c["id"]: c for c in clubs}
+for c in A.NEW_CLUBS:
+    by_id.setdefault(c["id"], c)
+if "schalke-04" in by_id:
+    by_id["schalke-04"]["leagueId"] = "bundesliga"
+    by_id["schalke-04"]["hasTeamPageDesign"] = False
+clubs = list(by_id.values())
+write("clubs", clubs)
+print("clubs:", len(clubs))
+
+# ------------------------------------------------------------------ owners / sponsors
+owners = load("owners")
+oid = {o["id"]: o for o in owners}
+for o in A.NEW_OWNERS:
+    oid.setdefault(o["id"], o)
+# a few owners for existing seed sponsors
+for extra in [
+    A._o("qualcomm", "Qualcomm", "listed-company", "USA"),
+    A._o("aia-group", "AIA Group", "listed-company", "Hong Kong"),
+    A._o("standard-chartered-plc", "Standard Chartered plc", "listed-company", "United Kingdom"),
+    A._o("kaizen-gaming", "Kaizen Gaming", "private-company", "Greece"),
+]:
+    oid.setdefault(extra["id"], extra)
+owners = list(oid.values())
+write("owners", owners)
+
+ssponsors = load("sponsors")
+sid = {s["id"]: s for s in ssponsors}
+for s in A.NEW_SPONSORS:
+    sid.setdefault(s["id"], s)
+for name, owner in [
+    ("snapdragon", "qualcomm"),
+    ("aia", "aia-group"),
+    ("standard-chartered", "standard-chartered-plc"),
+    ("betano", "kaizen-gaming"),
+]:
+    if name in sid:
+        sid[name]["ownerId"] = owner
+        sid[name]["ownership"] = "owned"
+if "etihad-airways" in sid:
+    sid["etihad-airways"]["claimIds"] = ["uae-mass-trial-2024", "uae-mass-trial-upheld-2025"]
+    sid["etihad-airways"].pop("note", None)
+sponsors = list(sid.values())
+write("sponsors", sponsors)
+print("sponsors:", len(sponsors))
+
+# ------------------------------------------------------------------ claims
+claims = load("claims")
+for c in claims:
+    url, note = A.CLAIM_URLS.get(c["id"], (None, None))
+    if url:
+        c["source"]["url"] = url
+        c["source"].pop("note", None)
+        if note:
+            c["source"]["note"] = note
+claims += A.EXTRA_CLAIMS
+write("claims", claims)
+
+# ------------------------------------------------------------------ kits
+kits = load("kits")
+have = {k["id"] for k in kits}
+for club, sponsor, srckey in A.FRONTS:
+    kid = f"{club}-2026-27-home"
+    if kid in have:
+        continue
+    kits.append({
+        "id": kid,
+        "clubId": club,
+        "season": "2026-27",
+        "kitType": "home",
+        "periodLabel": "2026/27",
+        "periodFrom": "2026-27",
+        "periodTo": "2026-27",
+        "photos": {},
+        "sponsors": [{"sponsorId": sponsor, "placement": "front", "source": A.SRC[srckey]}],
+        "sponsorsComplete": False,
+        "summary": None,
+        "change": None,
+    })
+# source on the seed's own 2026-27 kit sponsors where we have one
+PL_CLUB_IDS = {c["id"] for c in json.load(open(os.path.join(SEED, "clubs.json")))
+               if c.get("leagueId") == "premier-league"}
+SEED_KIT_SOURCE = {
+    "newcastle-united": {
+        "name": "The Mag",
+        "date": "2026-06",
+        "url": "https://www.themag.co.uk/2026/06/newcastle-united-have-agreed-new-main-sponsor-front-of-shirt-three-year-deal-to-replace-sela/",
+    },
+    "real-madrid": A.SRC["footballkitarchive"] if False else {
+        "name": "SportsPro",
+        "date": "2026-06-10",
+        "url": "https://www.sportspro.com/news/sponsorship-marketing/real-madrid-emirates-record-sponsorship-june-2026/",
+    },
+    "manchester-city": {
+        "name": "All Football",
+        "date": "2026",
+        "url": "https://m.allfootballapp.com/news/EPL/Manchester-City-set-to-keep-up-%C2%A367.5million-a-year-deal-with-Abu-Dhabi-airline-Etihad/2424047",
+    },
+    "arsenal": {
+        "name": "Sporting Goods Intelligence",
+        "date": "2026-08-06",
+        "url": "https://www.sgieurope.com/marketing/emirates-and-arsenal-extend-shirt-deal-to-2033/122576.article",
+    },
+    "aston-villa": {
+        "name": "SportsPro (citing The Athletic)",
+        "date": "2026-07-15",
+        "url": "https://www.sportspro.com/news/sponsorship-marketing/aston-villa-visit-rwanda-shirt-principal-sponsorship-july-2026/",
+    },
+}
+for k in kits:
+    if k["season"] != "2026-27":
+        continue
+    # seed kits whose front the seed left empty (filled from the 2026/27 overview)
+    if not k["sponsors"] and k["clubId"] in A.PL_FILL:
+        k["sponsors"] = [{
+            "sponsorId": A.PL_FILL[k["clubId"]],
+            "placement": "front",
+            "source": A.PL_FILL_SOURCE,
+        }]
+    src = SEED_KIT_SOURCE.get(k["clubId"])
+    if not src and not k["sponsors"]:
+        continue
+    if not src:
+        # scoreandchange overview covers every club in the league
+        src = (A.SRC["scoreandchange-pl"] if k["clubId"] in PL_CLUB_IDS
+               else A.SRC["scoreandchange-laliga"])
+    for p in k["sponsors"]:
+        p.setdefault("source", src)
+write("kits", kits)
+print("kits:", len(kits))
+
+# ------------------------------------------------------------------ deals
+deals = load("deals")
+have = {d["id"] for d in deals}
+for club, sponsor, placement, frm, to, value, srckey, note in A.NEW_DEALS:
+    did = f"{club}-{sponsor}".replace("-", "-")
+    if did in have:
+        continue
+    d = {
+        "id": did,
+        "clubId": club,
+        "orgName": None,
+        "sponsorId": sponsor,
+        "placement": placement,
+        "from": frm,
+        "to": to,
+        "value": value,
+        "source": A.SRC[srckey],
     }
-    clubs.append(club)
-
-# Add pipeline teams not in seed
-seed_ids = {c["id"] for c in clubs}
-for slug, t in teams.items():
-    if slug not in seed_ids:
-        clubs.append({
-            "id": slug,
-            "name": t.get("name", slug),
-            "shortName": t.get("shortName", ""),
-            "code": t.get("code", ""),
-            "aliases": t.get("aliases", []),
-            "leagueId": t.get("league", ""),
-            "sportId": t.get("sport", "soccer"),
-            "country": t.get("country", "Unknown"),
-            "crest": None,
-        })
-
-# Fix known issues from the GitHub issue
-# 1. Atlético de Madrid id should be atletico-de-madrid (not atlético-de-madrid)
-for c in clubs:
-    if c["id"] == "atlético-de-madrid":
-        c["id"] = "atletico-de-madrid"
-
-# 2. Fix duplicate manutd / manchester-united
-manutd = None
-manutd_idx = None
-for i, c in enumerate(clubs):
-    if c["id"] == "manutd":
-        manutd = c
-        manutd_idx = i
-        break
-if manutd:
-    manutd["id"] = "manchester-united"
-    manutd["leagueId"] = "premier-league"
-
-# 3. Fill country for teams with Unknown
-country_map = {
-    "arsenal": "England", "aston-villa": "England", "brighton-and-hove-albion": "England",
-    "brentford": "England", "bournemouth": "England", "chelsea": "England",
-    "crystal-palace": "England", "everton": "England", "fulham": "England",
-    "ipswich-town": "England", "leicester-city": "England", "liverpool": "England",
-    "manchester-city": "England", "manchester-united": "England", "newcastle-united": "England",
-    "nottingham-forest": "England", "west-ham-united": "England", "wolveredhampton": "England",
-    "atletico-de-madrid": "Spain", "athletic-club": "Spain", "barcelona": "Spain",
-    "real-betis": "Spain", "real-madrid": "Spain", "sevilla": "Spain", "valencia": "Spain",
-    "villarreal": "Spain", "real-sociedad": "Spain", "osasuna": "Spain", "getafe": "Spain",
-    "mallorca": "Spain", "alaves": "Spain", "cadiz": "Spain", "rayo-vallecano": "Spain",
-    "valladolid": "Spain", "granada": "Spain", "celta-vigo": "Spain", "girona": "Spain",
-    "las-palmas": "Spain", "Leganes": "Spain", "real-sociedad": "Spain",
-    "bayern-munich": "Germany", "borussia-dortmund": "Germany", "rb-leipzig": "Germany",
-    "bayer-leverkusen": "Germany", "wolfsburg": "Germany", "eintracht-frankfurt": "Germany",
-    "borussia-monchengladbach": "Germany", "freiburg": "Germany", "stuttgart": "Germany",
-    "augsburg": "Germany", "mainz-05": "Germany", "heidberg": "Germany",
-    "union-berlin": "Germany", "hoffenheim": "Germany", "darmstadt": "Germany",
-    "koln": "Germany", "essen": "Germany", "bochum": "Germany",
-    "new-york-yankees": "USA", "new-york-mets": "USA", "boston-red-sox": "USA",
-    "new-york-knicks": "USA", "la-clippers": "USA", "la-rams": "USA",
-    "sf-giants": "USA", "la-dodgers": "USA", "sf-49ers": "USA",
-}
-for c in clubs:
-    if c.get("country") == "Unknown" and c["id"] in country_map:
-        c["country"] = country_map[c["id"]]
-    elif c.get("country") == "Unknown":
-        # Try to infer from league
-        lid = c.get("leagueId", "")
-        if "premier" in lid: c["country"] = "England"
-        elif "la-liga" in lid: c["country"] = "Spain"
-        elif "bundesliga" in lid: c["country"] = "Germany"
-        elif "nba" in lid: c["country"] = "USA"
-        elif "nfl" in lid: c["country"] = "USA"
-        elif "mlb" in lid: c["country"] = "USA"
-
-# Build sponsors.json from seed + pipeline
-sponsors = {}
-for s in sponsors_seed:
-    sponsors[s["id"]] = s
-
-# Add pipeline regime sponsors
-regime_sponsors = {
-    "visit-rwanda": {"id": "visit-rwanda", "name": "Visit Rwanda", "ownerId": "government-of-rwanda", "ownership": "owned", "tier": "unrated", "status": "being-rated", "verdict": "Government of Rwanda tourism brand. UN experts say 3,000–4,000 troops fighting alongside M23 rebels in eastern Congo.", "claimIds": ["rwanda-troops-m23", "m23-coltan-levies"], "aliases": ["rwanda tourism"]},
-    "emirates": {"id": "emirates", "name": "Emirates", "ownerId": "government-of-dubai", "ownership": "owned", "tier": "serious", "status": "rated", "verdict": "Owned by the Government of Dubai via Investment Corporation of Dubai.", "claimIds": ["uae-mass-trial-2024"], "aliases": ["emirates airline"]},
-    "etihad": {"id": "etihad", "name": "Etihad Airways", "ownerId": "government-of-abu-dhabi", "ownership": "owned", "tier": "serious", "status": "rated", "verdict": "Owned by the Government of Abu Dhabi.", "claimIds": ["uae-mass-trial-2024"], "aliases": ["etihad"]},
-    "riyadh-air": {"id": "riyadh-air", "name": "Riyadh Air", "ownerId": "saudi-pif", "ownership": "owned", "tier": "serious", "status": "rated", "verdict": "Owned by Saudi Arabia's sovereign wealth fund PIF, chaired by Crown Prince Mohammed bin Salman.", "claimIds": ["saudi-executions-2024", "khashoggi-assessment"], "aliases": ["riyadh"]},
-    "standard-chartered": {"id": "standard-chartered", "name": "Standard Chartered", "ownerId": None, "ownership": None, "tier": "unrated", "status": "unrated", "verdict": None, "claimIds": [], "aliases": ["std chart"]},
-    "turkish-airlines": {"id": "turkish-airlines", "name": "Turkish Airlines", "ownerId": null, "ownership": None, "tier": "unrated", "status": "unrated", "verdict": None, "claimIds": [], "aliases": ["turkish"]},
-    "knox-hydration": {"id": "knox-hydration", "name": "KNOX Hydration", "ownerId": null, "ownership": None, "tier": "unrated", "status": "unrated", "verdict": None, "claimIds": [], "aliases": []},
-    "noon": {"id": "noon", "name": "noon.com", "ownerId": null, "ownership": None, "tier": "unrated", "status": "unrated", "verdict": None, "claimIds": [], "aliases": []},
-    "betano": {"id": "betano", "name": "Betano", "ownerId": null, "ownership": None, "tier": "unrated", "status": "unrated", "verdict": None, "claimIds": [], "aliases": []},
-    "trade-nation": {"id": "trade-nation", "name": "Trade Nation", "ownerId": null, "ownership": None, "tier": "unrated", "status": "unrated", "verdict": None, "claimIds": [], "aliases": []},
-    "kraken": {"id": "kraken", "name": "Kraken", "ownerId": null, "ownership": None, "tier": "unrated", "status": "unrated", "verdict": None, "claimIds": [], "aliases": []},
-    "snapdragon": {"id": "snapdragon", "name": "Snapdragon", "ownerId": null, "ownership": None, "tier": "unrated", "status": "unrated", "verdict": None, "claimIds": [], "aliases": []},
-    "aia": {"id": "aia", "name": "AIA", "ownerId": null, "ownership": None, "tier": "unrated", "status": "unrated", "verdict": None, "claimIds": [], "aliases": []},
-    "cmc-markets": {"id": "cmc-markets", "name": "CMC Markets", "ownerId": null, "ownership": None, "tier": "none", "status": "rated", "verdict": "Financial services company, no state owner.", "claimIds": [], "aliases": []},
-    "temporal": {"id": "temporal", "name": "Temporal", "ownerId": null, "ownership": None, "tier": "none", "status": "rated", "verdict": "UK betting tech company, no state owner.", "claimIds": [], "aliases": []},
-    "clickhouse": {"id": "clickhouse", "name": "ClickHouse", "ownerId": null, "ownership": None, "tier": "none", "status": "rated", "verdict": "Database company, no state owner.", "claimIds": [], "aliases": []},
-    "marex": {"id": "marex", "name": "Marex", "ownerId": null, "ownership": None, "tier": "none", "status": "rated", "verdict": "Financial services company, no state owner.", "claimIds": [], "aliases": []},
-    "indeed": {"id": "indeed", "name": "Indeed", "ownerId": null, "ownership": None, "tier": "none", "status": "rated", "verdict": "Job platform, no state owner.", "claimIds": [], "aliases": []},
-    "vitality": {"id": "vitality", "name": "Vitality", "ownerId": null, "ownership": None, "tier": "none", "status": "rated", "verdict": "Health insurer, no state owner.", "claimIds": [], "aliases": []},
-    "riyadh-air": {"id": "riyadh-air", "name": "Riyadh Air", "ownerId": "saudi-pif", "ownership": "owned", "tier": "serious", "status": "rated", "verdict": "Owned by Saudi Arabia's sovereign wealth fund PIF, chaired by Crown Prince Mohammed bin Salman.", "claimIds": ["saudi-executions-2024", "khashoggi-assessment"], "aliases": ["riyadh"]},
-    "circle": {"id": "circle", "name": "Circle/USDC", "ownerId": None, "ownership": None, "tier": "unrated", "status": "unrated", "verdict": None, "claimIds": [], "aliases": []},
-}
-
-# Merge pipeline sponsors into seed
-for slug, t in teams.items():
-    for sp in t.get("sponsors", []):
-        spid = sp.get("name", "").lower().replace(" ", "-").replace("'", "")
-        spid = spid.replace("&", "and").replace("/", "-")
-        if spid not in sponsors:
-            sponsors[spid] = {
-                "id": spid,
-                "name": sp.get("name", ""),
-                "ownerId": None,
-                "ownership": None,
-                "tier": "unrated",
-                "status": "unrated",
-                "verdict": None,
-                "claimIds": [],
-                "aliases": sp.get("aliases", []),
-            }
-
-# Add owners from pipeline
-for slug, t in teams.items():
-    owner = t.get("owner", "")
-    if owner and owner not in ["Unknown", ""]:
-        oid = owner.lower().replace(" ", "-").replace("'", "").replace(".", "")
-        if oid not in sponsors:
-            sponsors[oid] = {"id": oid, "name": owner, "ownerId": None, "ownership": None, "tier": "unrated", "status": "unrated", "verdict": None, "claimIds": [], "aliases": []}
-
-sponsors_list = list(sponsors.values())
-
-# Build kits.json from seed + pipeline
-kits = list(kits_seed)
-
-# Add kits for teams with sponsor data
-for slug, t in teams.items():
-    for sp in t.get("sponsors", []):
-        kit_id = f"{slug}-2026-27-home"
-        # Check if kit already exists
-        if not any(k["clubId"] == slug and k["season"] == "2026-27" for k in kits):
-            kits.append({
-                "id": kit_id,
-                "clubId": slug,
-                "season": "2026-27",
-                "kitType": "home",
-                "periodLabel": "2026/27",
-                "periodFrom": "2026-27",
-                "periodTo": "2026-27",
-                "photos": {"front": None, "back": None},
-                "sponsors": [{
-                    "sponsorId": sp.get("name", "").lower().replace(" ", "-").replace("'", ""),
-                    "placement": sp.get("placement", "front"),
-                    "source": sp.get("sources", [None])[0] if sp.get("sources") else None,
-                }],
-                "sponsorsComplete": False,
-                "summary": None,
-            })
-
-# Build deals.json from seed + pipeline
-deals = list(deals_seed)
-for slug, t in teams.items():
-    for sp in t.get("sponsors", []):
-        deal_id = f"{slug}-{sp.get('name','').lower().replace(' ','-')}"
-        deal = {
-            "id": deal_id,
-            "clubId": slug,
-            "orgName": None,
-            "sponsorId": sp.get("name", "").lower().replace(" ", "-").replace("'", ""),
-            "placement": sp.get("placement", "front"),
-            "from": "2026-27",
-            "to": None,
-            "value": {"amount": None, "currency": None, "unit": None, "per": None, "upTo": False, "usdApprox": None},
-            "source": sp.get("sources", [{"name": "Wikipedia", "date": "2026-09-24", "url": None}])[0],
-            "note": None,
+    if note:
+        d["note"] = note
+    deals.append(d)
+    have.add(did)
+for row in A.UNDISCLOSED_DEALS:
+    if len(row) == 8:
+        club, sponsor, placement, frm, to, value, srckey, note = row
+    else:
+        club, sponsor, srckey = row
+        placement, frm, to, value, note = "front", "2026-27", None, None, "Value not disclosed."
+    did = f"{club}-{sponsor}"
+    if did in have:
+        continue
+    d = {
+        "id": did,
+        "clubId": club,
+        "orgName": None,
+        "sponsorId": sponsor,
+        "placement": placement,
+        "from": frm,
+        "to": to,
+        "value": value,
+        "source": A.SRC[srckey],
+    }
+    if note:
+        d["note"] = note
+    deals.append(d)
+    have.add(did)
+# the deal id for the Arsenal sleeve that replaced Visit Rwanda
+for d in deals:
+    if d["id"] == "arsenal-deel":
+        d["source"] = {
+            "name": "SportsPro (citing The Athletic)",
+            "date": "2026-07-15",
+            "url": "https://www.sportspro.com/news/sponsorship-marketing/aston-villa-visit-rwanda-shirt-principal-sponsorship-july-2026/",
         }
-        # Try to parse deal value
-        val = sp.get("deal_value", "")
-        if val:
-            import re
-            m = re.search(r'([£€$])\s*([\d,.]+)\s*(m|bn)?', val)
-            if m:
-                cur = m.group(1)
-                amt = float(m.group(2).replace(',', ''))
-                unit = m.group(3) or 'm'
-                deal["value"] = {"amount": amt, "currency": cur, "unit": unit, "per": "year", "upTo": "up to" in val.lower(), "usdApprox": None}
-        deals.append(deal)
+write("deals", deals)
+print("deals:", len(deals))
 
-# Build owners.json from seed + pipeline
-owners = {o["id"]: o for o in owners_seed}
-# Add pipeline owners
-for slug, t in teams.items():
-    owner = t.get("owner", "")
-    if owner and owner not in ["Unknown", ""]:
-        oid = owner.lower().replace(" ", "-").replace("'", "").replace(".", "")
-        if oid not in owners:
-            owners[oid] = {"id": oid, "name": owner, "type": "unknown", "country": None, "note": None, "parentId": None}
+# ------------------------------------------------------------------ double-checks
+for d in deals:
+    if d["id"] == "city-etihad":
+        d["note"] = ("GBP67.5m a year, from an older report. SportsPro's 2026/27 season "
+                     "analysis does not restate a figure, so the number stays as the last "
+                     "published value rather than being re-estimated.")
+for sp in sponsors:
+    if "LeadMonitor" in (sp.get("note") or ""):
+        sp["note"] = sp["note"].replace(
+            " (LeadMonitor, verify)",
+            " (checked against Score and Change and SportsPro, 2026/27)")
+# bal-visit-rwanda is a real deal and Visit Rwanda publishes it themselves
+for d in deals:
+    if d["id"] == "bal-visit-rwanda":
+        d["source"] = {
+            "name": "Visit Rwanda, Basketball Africa League partnership",
+            "date": "2025",
+            "url": "https://visitrwanda.com/basketball-africa-league/",
+        }
 
-# Add known regime owners
-known_owners = {
-    "government-of-rwanda": {"id": "government-of-rwanda", "name": "Government of Rwanda", "type": "government", "country": "Rwanda", "note": None, "parentId": None},
-    "government-of-dubai": {"id": "government-of-dubai", "name": "Government of Dubai", "type": "government", "country": "UAE", "note": "Via Investment Corporation of Dubai", "parentId": None},
-    "saudi-pif": {"id": "saudi-pif", "name": "Public Investment Fund (Saudi Arabia)", "type": "state-fund", "country": "Saudi Arabia", "note": "Chaired by Crown Prince Mohammed bin Salman", "parentId": "government-of-saudi-arabia"},
-    "government-of-saudi-arabia": {"id": "government-of-saudi-arabia", "name": "Government of Saudi Arabia", "type": "government", "country": "Saudi Arabia", "note": None, "parentId": None},
-    "government-of-abu-dhabi": {"id": "government-of-abu-dhabi", "name": "Government of Abu Dhabi", "type": "government", "country": "UAE", "note": None, "parentId": None},
-}
-for koid, kov in known_owners.items():
-    if koid not in owners:
-        owners[koid] = kov
+write("kits", kits)
+print("kits:", len(kits))
+write("deals", deals)
 
-owners_list = list(owners.values())
+# ------------------------------------------------------------------ changes / dropped
+changes = load("changes")
+changes += [c for c in A.EXTRA_CHANGES if c["id"] not in {x["id"] for x in changes}]
+changes.sort(key=lambda c: c["id"], reverse=True)
+write("changes", changes)
 
-# Build claims.json from seed + pipeline
-claims = {c["id"]: c for c in claims_seed}
-# Add pipeline claims
-for slug, t in teams.items():
-    for sp in t.get("sponsors", []):
-        for src in sp.get("sources", []):
-            if src and src.get("url"):
-                cid = f"{slug}-{sp.get('name','').lower().replace(' ','-')}-claim"
-                if cid not in claims:
-                    claims[cid] = {"id": cid, "ownerIds": [], "text": f"Sponsor: {sp.get('name', '')}", "source": src, "reviewed": False}
+dropped = load("dropped")
+for d in dropped:
+    src = A.DROPPED_SOURCES.get(d["id"])
+    if src:
+        d["source"] = src
+        d.pop("todo", None)
+write("dropped", dropped)
 
-# Add the 8 key claims
-key_claims = [
-    {"id": "rwanda-troops-m23", "ownerIds": ["government-of-rwanda"], "text": "Rwanda has 3,000–4,000 troops fighting alongside M23 rebels in eastern Congo.", "source": {"name": "UN Group of Experts on the DR Congo", "date": "2024", "url": None}, "reviewed": False},
-    {"id": "m23-coltan-levies", "ownerIds": ["government-of-rwanda"], "text": "M23 rebels profit from coltan mining in eastern Congo.", "source": {"name": "UN Group of Experts on the DR Congo", "date": "2024", "url": None}, "reviewed": False},
-    {"id": "rubaya-smuggling", "ownerIds": [], "text": "Rubaya coltan mines controlled by armed groups.", "source": {"name": "Global Witness", "date": "2026-06", "url": None}, "reviewed": False},
-    {"id": "rubaya-tantalum-share", "ownerIds": [], "text": "Rubaya tantalum supply chain connects to electronics.", "source": {"name": "Global Witness", "date": "2026-06", "url": None}, "reviewed": False},
-    {"id": "coltan-supply-chain", "ownerIds": [], "text": "Coltan from eastern Congo ends up in phones and laptops.", "source": {"name": "Global Witness", "date": "2026-06", "url": None}, "reviewed": False},
-    {"id": "saudi-executions-2024", "ownerIds": ["government-of-saudi-arabia"], "text": "Saudi Arabia carried out a record 345 executions in 2024.", "source": {"name": "Amnesty International", "date": "2025", "url": None}, "reviewed": False},
-    {"id": "khashoggi-assessment", "ownerIds": ["government-of-saudi-arabia"], "text": "US intelligence assessed Saudi Crown Prince ordered Khashoggi killing.", "source": {"name": "US Office of the Director of National Intelligence", "date": "2021-02", "url": None}, "reviewed": False},
-    {"id": "uae-mass-trial-2024", "ownerIds": ["government-of-dubai"], "text": "UAE mass trial of 94 human rights defenders in 2024.", "source": {"name": "Human Rights Watch", "date": "2024-07", "url": None}, "reviewed": False},
-]
-for kc in key_claims:
-    if kc["id"] not in claims:
-        claims[kc["id"]] = kc
+# ------------------------------------------------------------------ contacts
+# top up any club the network pass missed, using the sourced overrides
+cpath = os.path.join(HERE, "contacts_build.json")
+contacts = json.load(open(cpath, encoding="utf-8")) if os.path.exists(cpath) else []
+import build_contacts as BC  # noqa: E402
 
-claims_list = list(claims.values())
+have = {c["clubId"] for c in contacts}
+club_ids = {c["id"] for c in clubs}
+for cid in sorted(club_ids - have):
+    if cid in BC.OVERRIDES:
+        contacts.append({"clubId": cid, "channels": BC.OVERRIDES[cid], "lastChecked": A.D})
+        print("contacts: override for", cid)
+    else:
+        print("contacts: STILL MISSING", cid)
+contacts.sort(key=lambda c: c["clubId"])
+write("contacts", contacts)
+print("contacts:", len(contacts))
 
-# Build changes.json
-changes = []
-for slug, t in teams.items():
-    for sp in t.get("sponsors", []):
-        changes.append({
-            "id": f"{slug}-{sp.get('name','').lower().replace(' ','-')}-change",
-            "clubId": slug,
-            "kind": "being-rated",
-            "text": f"Sponsor {sp.get('name', '')} being rated",
-            "badge": f"+ {sp.get('name', '')}",
-            "source": sp.get("sources", [None])[0] if sp.get("sources") else None,
-        })
-
-# Build dropped.json
-dropped = list(dropped_seed)
-# Add known dropped items
-known_dropped = [
-    {"id": "schalke-gazprom-2022", "clubId": "schalke-04", "orgName": "Gazprom", "sponsorId": "gazprom", "leagueId": "bundesliga", "from": "2022", "to": "2022", "reason": "Russia invaded Ukraine", "source": {"name": "Multiple sources", "date": "2022-02", "url": None}},
-    {"id": "luton-puma-2025", "clubId": "luton-town", "orgName": "Puma", "sponsorId": "puma", "leagueId": "premier-league", "from": "2025", "to": "2025", "reason": "BDS campaign", "source": {"name": "Multiple sources", "date": "2025", "url": None}},
-    {"id": "uefa-gazprom-2022", "clubId": None, "orgName": "Gazprom", "sponsorId": "gazprom", "leagueId": "uefa", "from": "2022", "to": "2022", "reason": "Russia invaded Ukraine", "source": {"name": "Multiple sources", "date": "2022-02", "url": None}},
-    {"id": "manutd-aeroflot-2022", "clubId": "manchester-united", "orgName": "Aeroflot", "sponsorId": "aeroflot", "leagueId": "premier-league", "from": "2022", "to": "2022", "reason": "Russia invaded Ukraine", "source": {"name": "Multiple sources", "date": "2022-02", "url": None}},
-    {"id": "haas-uralkali-2022", "clubId": "haas-f1", "orgName": "Uralkali", "sponsorId": "uralkali", "leagueId": "formula-1", "from": "2022", "to": "2022", "reason": "Russia invaded Ukraine", "source": {"name": "Multiple sources", "date": "2022-02", "url": None}},
-    {"id": "f1-russian-gp-2022", "clubId": None, "orgName": "Formula 1", "sponsorId": "russian-gp", "leagueId": "formula-1", "from": "2022", "to": "2022", "reason": "Russia invaded Ukraine", "source": {"name": "Multiple sources", "date": "2022-02", "url": None}},
-    {"id": "wwc-visit-saudi-2023", "clubId": None, "orgName": "Visit Saudi", "sponsorId": "visit-saudi", "leagueId": "fifa", "from": "2023", "to": "2023", "reason": "Human rights concerns", "source": {"name": "Multiple sources", "date": "2023", "url": None}},
-    {"id": "bayern-qatar-airways-2023", "clubId": "bayern-munich", "orgName": "Qatar Airways", "sponsorId": "qatar-airways", "leagueId": "bundesliga", "from": "2023", "to": "2023", "reason": "Human rights concerns", "source": {"name": "Multiple sources", "date": "2023", "url": None}},
-]
-for kd in known_dropped:
-    if kd["id"] not in [d["id"] for d in dropped]:
-        dropped.append(kd)
-
-# Build contacts.json
-contacts = []
-for slug, t in teams.items():
-    contact = t.get("contact", {})
-    if contact and contact.get("email") and contact.get("email") != "placeholder":
-        channels = []
-        if contact.get("email"):
-            channels.append({"type": "email", "value": contact["email"], "label": "Club email", "source": {"name": "Club website", "url": None, "date": "2026-09-24"}})
-        if contact.get("website"):
-            channels.append({"type": "contact-form", "value": contact["website"], "label": "Club website", "source": {"name": "Club website", "url": contact["website"], "date": "2026-09-24"}})
-        if contact.get("social", {}).get("twitter"):
-            channels.append({"type": "x", "value": contact["social"]["twitter"], "label": "Official X account", "source": {"name": "Club website footer", "url": None, "date": "2026-09-24"}})
-        if channels:
-            contacts.append({"clubId": slug, "channels": channels, "lastChecked": "2026-09-24"})
-
-# Write normalized files
-out_dir = "/tmp/data/normalized"
-os.makedirs(out_dir, exist_ok=True)
-
-with open(os.path.join(out_dir, "meta.json"), "w") as f:
-    json.dump(meta, f, indent=2)
-with open(os.path.join(out_dir, "sports.json"), "w") as f:
-    json.dump(sports, f, indent=2)
-with open(os.path.join(out_dir, "leagues.json"), "w") as f:
-    json.dump(leagues, f, indent=2)
-with open(os.path.join(out_dir, "clubs.json"), "w") as f:
-    json.dump(clubs, f, indent=2)
-with open(os.path.join(out_dir, "owners.json"), "w") as f:
-    json.dump(owners_list, f, indent=2)
-with open(os.path.join(out_dir, "claims.json"), "w") as f:
-    json.dump(claims_list, f, indent=2)
-with open(os.path.join(out_dir, "sponsors.json"), "w") as f:
-    json.dump(sponsors_list, f, indent=2)
-with open(os.path.join(out_dir, "kits.json"), "w") as f:
-    json.dump(kits, f, indent=2)
-with open(os.path.join(out_dir, "deals.json"), "w") as f:
-    json.dump(deals, f, indent=2)
-with open(os.path.join(out_dir, "changes.json"), "w") as f:
-    json.dump(changes, f, indent=2)
-with open(os.path.join(out_dir, "dropped.json"), "w") as f:
-    json.dump(dropped, f, indent=2)
-with open(os.path.join(out_dir, "levels.json"), "w") as f:
-    json.dump(levels, f, indent=2)
-with open(os.path.join(out_dir, "tiers.json"), "w") as f:
-    json.dump(tiers, f, indent=2)
-with open(os.path.join(out_dir, "contacts.json"), "w") as f:
-    json.dump(contacts, f, indent=2)
-
-print(f"Generated normalized files:")
-print(f"  clubs: {len(clubs)}")
-print(f"  sponsors: {len(sponsors_list)}")
-print(f"  owners: {len(owners_list)}")
-print(f"  claims: {len(claims_list)}")
-print(f"  kits: {len(kits)}")
-print(f"  deals: {len(deals)}")
-print(f"  changes: {len(changes)}")
-print(f"  dropped: {len(dropped)}")
-print(f"  contacts: {len(contacts)}")
+# ------------------------------------------------------------------ validate
+r = subprocess.run([sys.executable, VALIDATE, OUT, "--assets", "/tmp/website/public"],
+                   capture_output=True, text=True, errors="replace")
+out = r.stdout.strip()
+errs = [l for l in out.splitlines() if l.startswith("error:")]
+warns = [l for l in out.splitlines() if l.startswith("warning:")]
+print(f"\nvalidator exit={r.returncode} errors={len(errs)} warnings={len(warns)}")
+for l in errs[:40]:
+    print(" ", l)
+print("---- tail ----")
+print("\n".join(out.splitlines()[-6:]))

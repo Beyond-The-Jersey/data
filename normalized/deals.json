@@ -20,7 +20,7 @@
       "date": "2026-07-15",
       "url": "https://www.sportspro.com/news/sponsorship-marketing/aston-villa-visit-rwanda-shirt-principal-sponsorship-july-2026/"
     },
-    "note": "Up to \u00a320m a year if bonuses are met. Men\u2019s, women\u2019s and academy shirts."
+    "note": "Up to £20m a year if bonuses are met. Men’s, women’s and academy shirts."
   },
   {
     "id": "arsenal-emirates",
@@ -43,7 +43,7 @@
       "date": "2026-08-06",
       "url": "https://www.sgieurope.com/marketing/emirates-and-arsenal-extend-shirt-deal-to-2033/122576.article"
     },
-    "note": "Renewal announced 6 Aug 2026 (Inside World Football). Estimate; Footy Headlines suggests \u00a365m for 2026/27\u20132027/28 then \u00a375m."
+    "note": "Renewal announced 6 Aug 2026 (Inside World Football). Estimate; Footy Headlines suggests £65m for 2026/27–2027/28 then £75m."
   },
   {
     "id": "arsenal-visit-rwanda",
@@ -66,7 +66,7 @@
       "date": "2026-07-15",
       "url": "https://www.sportspro.com/news/sponsorship-marketing/aston-villa-visit-rwanda-shirt-principal-sponsorship-july-2026/"
     },
-    "note": "About \u00a310m a year; ended June 2026."
+    "note": "About £10m a year; ended June 2026."
   },
   {
     "id": "arsenal-deel",
@@ -76,20 +76,12 @@
     "placement": "sleeve",
     "from": "2026-27",
     "to": null,
-    "value": {
-      "amount": 18,
-      "currency": "GBP",
-      "unit": "m",
-      "per": "year",
-      "upTo": true,
-      "usdApprox": 24
-    },
+    "value": null,
     "source": {
-      "name": "Footy Headlines",
-      "date": "2025-12",
-      "url": "https://www.footyheadlines.com/2025/12/new-arsenal-sign-deel-sleeve-sponsor-deal.html"
-    },
-    "note": "Base \u00a318m/yr, up to \u00a325m/yr with incentives"
+      "name": "SportsPro (citing The Athletic)",
+      "date": "2026-07-15",
+      "url": "https://www.sportspro.com/news/sponsorship-marketing/aston-villa-visit-rwanda-shirt-principal-sponsorship-july-2026/"
+    }
   },
   {
     "id": "city-etihad",
@@ -112,7 +104,8 @@
       "date": "older report",
       "url": "https://m.allfootballapp.com/news/EPL/Manchester-City-set-to-keep-up-%C2%A367.5million-a-year-deal-with-Abu-Dhabi-airline-Etihad/2424047",
       "note": "Older figure, check again"
-    }
+    },
+    "note": "GBP67.5m a year, from an older report. SportsPro's 2026/27 season analysis does not restate a figure, so the number stays as the last published value rather than being re-estimated."
   },
   {
     "id": "newcastle-knox",
@@ -135,7 +128,7 @@
       "date": "2026-06",
       "url": "https://www.themag.co.uk/2026/06/newcastle-united-have-agreed-new-main-sponsor-front-of-shirt-three-year-deal-to-replace-sela/"
     },
-    "note": "\u00a310m in 2026/27, then \u00a325m a year."
+    "note": "£10m in 2026/27, then £25m a year."
   },
   {
     "id": "newcastle-sela",
@@ -161,11 +154,7 @@
     "from": null,
     "to": null,
     "value": null,
-    "source": {
-      "name": "Wikipedia",
-      "date": "2026-09-24",
-      "url": null
-    }
+    "source": null
   },
   {
     "id": "brighton-amex",
@@ -176,11 +165,7 @@
     "from": null,
     "to": null,
     "value": null,
-    "source": {
-      "name": "Wikipedia",
-      "date": "2026-09-24",
-      "url": null
-    }
+    "source": null
   },
   {
     "id": "atletico-riyadh-air",
@@ -203,7 +188,7 @@
       "date": "2025-04",
       "url": "https://www.sportspro.com/news/atletico-madrid-riyadh-air-saudi-new-shirt-sponsor/"
     },
-    "note": "Reported \u20ac40m per season, until 2035."
+    "note": "Reported €40m per season, until 2035."
   },
   {
     "id": "atletico-visit-rwanda",
@@ -214,11 +199,7 @@
     "from": null,
     "to": null,
     "value": null,
-    "source": {
-      "name": "Wikipedia",
-      "date": "2026-09-24",
-      "url": null
-    },
+    "source": null,
     "note": "Value not disclosed."
   },
   {
@@ -230,11 +211,7 @@
     "from": "2026-27",
     "to": null,
     "value": null,
-    "source": {
-      "name": "Wikipedia",
-      "date": "2026-09-24",
-      "url": null
-    }
+    "source": null
   },
   {
     "id": "real-madrid-emirates",
@@ -284,11 +261,7 @@
     "from": null,
     "to": "2027-28",
     "value": null,
-    "source": {
-      "name": "Wikipedia",
-      "date": "2026-09-24",
-      "url": null
-    },
+    "source": null,
     "note": "Renewed until 2028; value not disclosed."
   },
   {
@@ -300,11 +273,7 @@
     "from": "2025",
     "to": null,
     "value": null,
-    "source": {
-      "name": "Wikipedia",
-      "date": "2026-09-24",
-      "url": null
-    },
+    "source": null,
     "note": "Value not disclosed."
   },
   {
@@ -316,11 +285,7 @@
     "from": "2025",
     "to": null,
     "value": null,
-    "source": {
-      "name": "Wikipedia",
-      "date": "2026-09-24",
-      "url": null
-    },
+    "source": null,
     "note": "At the stadium rather than on the shirt; value not disclosed."
   },
   {
@@ -341,11 +306,11 @@
       "usdApprox": 6.5
     },
     "source": {
-      "name": "Wikipedia",
-      "date": "2026-09-24",
-      "url": null
+      "name": "Visit Rwanda, Basketball Africa League partnership",
+      "date": "2025",
+      "url": "https://visitrwanda.com/basketball-africa-league/"
     },
-    "note": "Reportedly $6\u20137m a year."
+    "note": "Reportedly $6–7m a year."
   },
   {
     "id": "villa-betano",
@@ -356,11 +321,7 @@
     "from": "2024-25",
     "to": "2025-26",
     "value": null,
-    "source": {
-      "name": "Wikipedia",
-      "date": "2026-09-24",
-      "url": null
-    },
+    "source": null,
     "note": "Moved to the sleeves for 2026/27."
   },
   {
@@ -371,20 +332,8 @@
     "placement": "sleeve",
     "from": "2026-27",
     "to": null,
-    "value": {
-      "amount": 6,
-      "currency": "GBP",
-      "unit": "m",
-      "per": "year",
-      "upTo": false,
-      "usdApprox": 8.1
-    },
-    "source": {
-      "name": "Yahoo Sports / The Mag",
-      "date": "2026-07",
-      "url": "https://sports.yahoo.com/articles/much-aston-villa-generate-record-154456463.html"
-    },
-    "note": "\u00a36m per year, 3-year sleeve deal"
+    "value": null,
+    "source": null
   },
   {
     "id": "villa-trade-nation",
@@ -395,635 +344,613 @@
     "from": "2024-25",
     "to": "2025-26",
     "value": null,
-    "source": {
-      "name": "Wikipedia",
-      "date": "2026-09-24",
-      "url": null
-    }
+    "source": null
   },
   {
-    "id": "Houston Rockets-red-bull",
-    "clubId": "Houston Rockets",
-    "orgName": null,
-    "sponsorId": "red-bull",
-    "placement": "front",
-    "from": "2026-27",
-    "to": null,
-    "value": {
-      "amount": null,
-      "currency": null,
-      "unit": null,
-      "per": null,
-      "upTo": false,
-      "usdApprox": null
-    },
-    "source": "Wikipedia",
-    "note": null
-  },
-  {
-    "id": "Athletic Club-sam-gillam",
-    "clubId": "Athletic Club",
-    "orgName": null,
-    "sponsorId": "sam-gillam",
-    "placement": "front",
-    "from": "2026-27",
-    "to": null,
-    "value": {
-      "amount": null,
-      "currency": null,
-      "unit": null,
-      "per": null,
-      "upTo": false,
-      "usdApprox": null
-    },
-    "source": "Wikidata",
-    "note": null
-  },
-  {
-    "id": "Athletic Club-donald-coles",
-    "clubId": "Athletic Club",
-    "orgName": null,
-    "sponsorId": "donald-coles",
-    "placement": "front",
-    "from": "2026-27",
-    "to": null,
-    "value": {
-      "amount": null,
-      "currency": null,
-      "unit": null,
-      "per": null,
-      "upTo": false,
-      "usdApprox": null
-    },
-    "source": "Wikidata",
-    "note": null
-  },
-  {
-    "id": "Crystal Palace-krispy-kreme",
-    "clubId": "Crystal Palace",
-    "orgName": null,
-    "sponsorId": "krispy-kreme",
-    "placement": "front",
-    "from": "2026-27",
-    "to": null,
-    "value": {
-      "amount": 8.0,
-      "currency": "\u00a3",
-      "unit": "m",
-      "per": "year",
-      "upTo": false,
-      "usdApprox": null
-    },
-    "source": "Wikipedia",
-    "note": null
-  },
-  {
-    "id": "Nottingham Forest-kashboy",
-    "clubId": "Nottingham Forest",
-    "orgName": null,
-    "sponsorId": "kashboy",
-    "placement": "front",
-    "from": "2026-27",
-    "to": null,
-    "value": {
-      "amount": null,
-      "currency": null,
-      "unit": null,
-      "per": null,
-      "upTo": false,
-      "usdApprox": null
-    },
-    "source": "Wikipedia",
-    "note": null
-  },
-  {
-    "id": "Chelsea-three",
-    "clubId": "Chelsea",
-    "orgName": null,
-    "sponsorId": "three",
-    "placement": "front",
-    "from": "2026-27",
-    "to": null,
-    "value": {
-      "amount": 40.0,
-      "currency": "\u00a3",
-      "unit": "m",
-      "per": "year",
-      "upTo": false,
-      "usdApprox": null
-    },
-    "source": "Wikipedia",
-    "note": null
-  },
-  {
-    "id": "Dallas Cowboys-at&t",
-    "clubId": "Dallas Cowboys",
-    "orgName": null,
-    "sponsorId": "at&t",
-    "placement": "front",
-    "from": "2026-27",
-    "to": null,
-    "value": {
-      "amount": null,
-      "currency": null,
-      "unit": null,
-      "per": null,
-      "upTo": false,
-      "usdApprox": null
-    },
-    "source": "Wikipedia",
-    "note": null
-  },
-  {
-    "id": "Bournemouth-msp",
-    "clubId": "Bournemouth",
-    "orgName": null,
-    "sponsorId": "msp",
-    "placement": "front",
-    "from": "2026-27",
-    "to": null,
-    "value": {
-      "amount": null,
-      "currency": null,
-      "unit": null,
-      "per": null,
-      "upTo": false,
-      "usdApprox": null
-    },
-    "source": "Wikipedia",
-    "note": null
-  },
-  {
-    "id": "Brentford-hollywoodbets",
-    "clubId": "Brentford",
-    "orgName": null,
-    "sponsorId": "hollywoodbets",
-    "placement": "front",
-    "from": "2026-27",
-    "to": null,
-    "value": {
-      "amount": null,
-      "currency": null,
-      "unit": null,
-      "per": null,
-      "upTo": false,
-      "usdApprox": null
-    },
-    "source": "Wikipedia",
-    "note": null
-  },
-  {
-    "id": "Bayern Munich-t-mobile",
-    "clubId": "Bayern Munich",
-    "orgName": null,
-    "sponsorId": "t-mobile",
-    "placement": "front",
-    "from": "2026-27",
-    "to": null,
-    "value": {
-      "amount": 25.0,
-      "currency": "\u20ac",
-      "unit": "m",
-      "per": "year",
-      "upTo": false,
-      "usdApprox": null
-    },
-    "source": "Wikipedia",
-    "note": null
-  },
-  {
-    "id": "FC Barcelona-spotify",
-    "clubId": "FC Barcelona",
+    "id": "barcelona-spotify",
+    "clubId": "barcelona",
     "orgName": null,
     "sponsorId": "spotify",
     "placement": "front",
-    "from": "2026-27",
-    "to": null,
+    "from": "2022-23",
+    "to": "2029-30",
     "value": {
-      "amount": 70.0,
-      "currency": "\u20ac",
+      "amount": 65,
+      "currency": "EUR",
       "unit": "m",
       "per": "year",
       "upTo": false,
-      "usdApprox": null
+      "usdApprox": 75
     },
-    "source": "Wikipedia",
-    "note": null
+    "source": {
+      "name": "SportsPro, Barcelona Spotify and Camp Nou naming rights",
+      "date": "2025-10",
+      "url": "https://www.sportspro.com/news/sponsorship-marketing/sponsorship/barcelona-spotify-shirt-sponsor-camp-nou-naming-rights-october-2025/"
+    },
+    "note": "Reported EUR65m a year for the shirt plus training wear and naming rights."
   },
   {
-    "id": "Newcastle United-sela",
-    "clubId": "Newcastle United",
+    "id": "bayern-munich-deutsche-telekom",
+    "clubId": "bayern-munich",
     "orgName": null,
-    "sponsorId": "sela",
+    "sponsorId": "deutsche-telekom",
     "placement": "front",
-    "from": "2026-27",
-    "to": null,
+    "from": null,
+    "to": "2028-29",
     "value": {
-      "amount": null,
-      "currency": null,
-      "unit": null,
-      "per": null,
-      "upTo": false,
-      "usdApprox": null
+      "amount": 60,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "year",
+      "upTo": true,
+      "usdApprox": 69
     },
-    "source": "Wikipedia",
-    "note": null
+    "source": {
+      "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+      "date": "2026-08-04",
+      "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+    },
+    "note": "Reported EUR60-65m a season, the club's largest single deal."
   },
   {
-    "id": "New York Yankees-new-york-yankees",
-    "clubId": "New York Yankees",
+    "id": "borussia-dortmund-vodafone",
+    "clubId": "borussia-dortmund",
     "orgName": null,
-    "sponsorId": "new-york-yankees",
+    "sponsorId": "vodafone",
     "placement": "front",
-    "from": "2026-27",
-    "to": null,
+    "from": "2025-26",
+    "to": "2029-30",
     "value": {
-      "amount": null,
-      "currency": null,
-      "unit": null,
-      "per": null,
+      "amount": 30,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "year",
       "upTo": false,
-      "usdApprox": null
+      "usdApprox": 34
     },
-    "source": "Wikipedia",
-    "note": null
+    "source": {
+      "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+      "date": "2026-08-04",
+      "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+    },
+    "note": "Five-year deal to 2030; replaces the 1&1 (league) and Evonik (cup) split."
   },
   {
-    "id": "RB Leipzig-red-bull",
-    "clubId": "RB Leipzig",
+    "id": "rb-leipzig-red-bull",
+    "clubId": "rb-leipzig",
     "orgName": null,
     "sponsorId": "red-bull",
     "placement": "front",
-    "from": "2026-27",
+    "from": null,
     "to": null,
     "value": {
-      "amount": null,
-      "currency": null,
-      "unit": null,
-      "per": null,
-      "upTo": false,
-      "usdApprox": null
-    },
-    "source": "Wikipedia",
-    "note": null
-  },
-  {
-    "id": "Boston Red Sox-jetblue",
-    "clubId": "Boston Red Sox",
-    "orgName": null,
-    "sponsorId": "jetblue",
-    "placement": "front",
-    "from": "2026-27",
-    "to": null,
-    "value": {
-      "amount": null,
-      "currency": null,
-      "unit": null,
-      "per": null,
-      "upTo": false,
-      "usdApprox": null
-    },
-    "source": "Wikipedia",
-    "note": null
-  },
-  {
-    "id": "Golden State Warriors-rakuten",
-    "clubId": "Golden State Warriors",
-    "orgName": null,
-    "sponsorId": "rakuten",
-    "placement": "front",
-    "from": "2026-27",
-    "to": null,
-    "value": {
-      "amount": null,
-      "currency": null,
-      "unit": null,
-      "per": null,
-      "upTo": false,
-      "usdApprox": null
-    },
-    "source": "Wikipedia",
-    "note": null
-  },
-  {
-    "id": "Borussia Dortmund-|-source\\n",
-    "clubId": "Borussia Dortmund",
-    "orgName": null,
-    "sponsorId": "|-source\\n",
-    "placement": "front",
-    "from": "2026-27",
-    "to": null,
-    "value": {
-      "amount": null,
-      "currency": null,
-      "unit": null,
-      "per": null,
-      "upTo": false,
-      "usdApprox": null
-    },
-    "source": "https://en.wikipedia.org/wiki/Borussia_Dortmund",
-    "note": null
-  },
-  {
-    "id": "Borussia Dortmund-evonik",
-    "clubId": "Borussia Dortmund",
-    "orgName": null,
-    "sponsorId": "evonik",
-    "placement": "front",
-    "from": "2026-27",
-    "to": null,
-    "value": {
-      "amount": 20.0,
-      "currency": "\u20ac",
+      "amount": 35,
+      "currency": "EUR",
       "unit": "m",
       "per": "year",
       "upTo": false,
-      "usdApprox": null
-    },
-    "source": "Wikipedia",
-    "note": null
-  },
-  {
-    "id": "Everton-stake.com",
-    "clubId": "Everton",
-    "orgName": null,
-    "sponsorId": "stake.com",
-    "placement": "front",
-    "from": "2026-27",
-    "to": null,
-    "value": {
-      "amount": 20.0,
-      "currency": "\u00a3",
-      "unit": "m",
-      "per": "year",
-      "upTo": false,
-      "usdApprox": null
-    },
-    "source": "Wikipedia",
-    "note": null
-  },
-  {
-    "id": "New England Patriots-gillette",
-    "clubId": "New England Patriots",
-    "orgName": null,
-    "sponsorId": "gillette",
-    "placement": "front",
-    "from": "2026-27",
-    "to": null,
-    "value": {
-      "amount": null,
-      "currency": null,
-      "unit": null,
-      "per": null,
-      "upTo": false,
-      "usdApprox": null
-    },
-    "source": "Wikipedia",
-    "note": null
-  },
-  {
-    "id": "Fulham-w88",
-    "clubId": "Fulham",
-    "orgName": null,
-    "sponsorId": "w88",
-    "placement": "front",
-    "from": "2026-27",
-    "to": null,
-    "value": {
-      "amount": null,
-      "currency": null,
-      "unit": null,
-      "per": null,
-      "upTo": false,
-      "usdApprox": null
-    },
-    "source": "Wikipedia",
-    "note": null
-  },
-  {
-    "id": "Brighton and Hove Albion-sam-gillam",
-    "clubId": "Brighton and Hove Albion",
-    "orgName": null,
-    "sponsorId": "sam-gillam",
-    "placement": "front",
-    "from": "2026-27",
-    "to": null,
-    "value": {
-      "amount": null,
-      "currency": null,
-      "unit": null,
-      "per": null,
-      "upTo": false,
-      "usdApprox": null
-    },
-    "source": "Wikidata",
-    "note": null
-  },
-  {
-    "id": "Brighton and Hove Albion-donald-coles",
-    "clubId": "Brighton and Hove Albion",
-    "orgName": null,
-    "sponsorId": "donald-coles",
-    "placement": "front",
-    "from": "2026-27",
-    "to": null,
-    "value": {
-      "amount": null,
-      "currency": null,
-      "unit": null,
-      "per": null,
-      "upTo": false,
-      "usdApprox": null
-    },
-    "source": "Wikidata",
-    "note": null
-  },
-  {
-    "id": "Brighton and Hove Albion-american-express",
-    "clubId": "Brighton and Hove Albion",
-    "orgName": null,
-    "sponsorId": "american-express",
-    "placement": "front",
-    "from": "2026-27",
-    "to": null,
-    "value": {
-      "amount": null,
-      "currency": null,
-      "unit": null,
-      "per": null,
-      "upTo": false,
-      "usdApprox": null
-    },
-    "source": "Wikipedia",
-    "note": null
-  },
-  {
-    "id": "Sevilla FC-himalaya",
-    "clubId": "Sevilla FC",
-    "orgName": null,
-    "sponsorId": "himalaya",
-    "placement": "front",
-    "from": "2026-27",
-    "to": null,
-    "value": {
-      "amount": null,
-      "currency": null,
-      "unit": null,
-      "per": null,
-      "upTo": false,
-      "usdApprox": null
-    },
-    "source": "Wikipedia",
-    "note": null
-  },
-  {
-    "id": "Arsenal-emirates",
-    "clubId": "Arsenal",
-    "orgName": null,
-    "sponsorId": "emirates",
-    "placement": "front",
-    "from": "2026-27",
-    "to": null,
-    "value": {
-      "amount": 60.0,
-      "currency": "\u00a3",
-      "unit": "m",
-      "per": "year",
-      "upTo": false,
-      "usdApprox": null
-    },
-    "source": "Wikipedia",
-    "note": null
-  },
-  {
-    "id": "Leeds United-bk8",
-    "clubId": "Leeds United",
-    "orgName": null,
-    "sponsorId": "bk8",
-    "placement": "front",
-    "from": "2026-27",
-    "to": null,
-    "value": {
-      "amount": null,
-      "currency": null,
-      "unit": null,
-      "per": null,
-      "upTo": false,
-      "usdApprox": null
-    },
-    "source": "Wikipedia",
-    "note": null
-  },
-  {
-    "id": "Real Madrid-emirates",
-    "clubId": "Real Madrid",
-    "orgName": null,
-    "sponsorId": "emirates",
-    "placement": "front",
-    "from": "2026-27",
-    "to": null,
-    "value": {
-      "amount": 70.0,
-      "currency": "\u20ac",
-      "unit": "m",
-      "per": "year",
-      "upTo": false,
-      "usdApprox": null
-    },
-    "source": "Wikipedia",
-    "note": null
-  },
-  {
-    "id": "tottenham-kraken",
-    "clubId": "tottenham-hotspur",
-    "orgName": null,
-    "sponsorId": "kraken",
-    "placement": "sleeve",
-    "from": "2026-27",
-    "to": null,
-    "value": {
-      "amount": null,
-      "currency": null,
-      "unit": null,
-      "per": null,
-      "upTo": false,
-      "usdApprox": null
+      "usdApprox": 40
     },
     "source": {
-      "name": "SportsPro",
-      "date": "2026-06",
-      "url": "https://www.sportspro.com/news/sponsorship-marketing/fifa-world-cup-2026-kraken-ab-inbev-sponsorships-june-2026/"
+      "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+      "date": "2026-08-04",
+      "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
     },
-    "note": "Kraken replaced Cinch as Spurs sleeve sponsor"
+    "note": "Red Bull owns 99% of the club's football company."
   },
   {
-    "id": "aston-villa-betano",
-    "clubId": "aston-villa",
+    "id": "werder-bremen-matthaei",
+    "clubId": "werder-bremen",
     "orgName": null,
-    "sponsorId": "betano",
-    "placement": "sleeve",
-    "from": "2024-25",
-    "to": "2026-27",
+    "sponsorId": "matthaei",
+    "placement": "front",
+    "from": "2023-24",
+    "to": null,
+    "value": {
+      "amount": 7,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "year",
+      "upTo": true,
+      "usdApprox": 8
+    },
+    "source": {
+      "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+      "date": "2026-08-04",
+      "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+    }
+  },
+  {
+    "id": "fc-augsburg-wwk",
+    "clubId": "fc-augsburg",
+    "orgName": null,
+    "sponsorId": "wwk",
+    "placement": "front",
+    "from": null,
+    "to": null,
+    "value": {
+      "amount": 4,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "year",
+      "upTo": true,
+      "usdApprox": 5
+    },
+    "source": {
+      "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+      "date": "2026-08-04",
+      "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+    },
+    "note": "Also holds the naming rights to the WWK Arena."
+  },
+  {
+    "id": "schalke-04-beumer-group",
+    "clubId": "schalke-04",
+    "orgName": null,
+    "sponsorId": "beumer-group",
+    "placement": "front",
+    "from": "2026-27",
+    "to": "2028-29",
+    "value": {
+      "amount": 3.5,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "year",
+      "upTo": true,
+      "usdApprox": 4
+    },
+    "source": {
+      "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+      "date": "2026-08-04",
+      "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+    },
+    "note": "Three seasons, independent of the division."
+  },
+  {
+    "id": "tsg-hoffenheim-sap",
+    "clubId": "tsg-hoffenheim",
+    "orgName": null,
+    "sponsorId": "sap",
+    "placement": "front",
+    "from": null,
+    "to": null,
     "value": {
       "amount": 6,
-      "currency": "GBP",
+      "currency": "EUR",
       "unit": "m",
       "per": "year",
-      "upTo": false,
-      "usdApprox": 8.1
+      "upTo": true,
+      "usdApprox": 7
     },
     "source": {
-      "name": "Yahoo Sports / The Mag",
-      "date": "2026-07",
-      "url": "https://sports.yahoo.com/articles/much-aston-villa-generate-record-154456463.html"
+      "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+      "date": "2026-08-04",
+      "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
     },
-    "note": "\u00a36m per year, 3-year sleeve deal"
+    "note": "Unofficial figure; SAP co-founder Dietmar Hopp is the club's patron."
   },
   {
-    "id": "aston-villa-trade-nation",
-    "clubId": "aston-villa",
+    "id": "eintracht-frankfurt-indeed",
+    "clubId": "eintracht-frankfurt",
     "orgName": null,
-    "sponsorId": "trade-nation",
-    "placement": "sleeve",
-    "from": "2024-25",
-    "to": "2025-26",
+    "sponsorId": "indeed",
+    "placement": "front",
+    "from": null,
+    "to": "2028-29",
     "value": {
-      "amount": 2,
-      "currency": "GBP",
+      "amount": 13,
+      "currency": "EUR",
       "unit": "m",
       "per": "year",
-      "upTo": false,
-      "usdApprox": 2.7
+      "upTo": true,
+      "usdApprox": 15
     },
     "source": {
-      "name": "Daily Mail",
-      "date": "2023-08",
-      "url": null
+      "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+      "date": "2026-08-04",
+      "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
     },
-    "note": "\u00a32m per year"
+    "note": "Extended three seasons to 2029; reported volume about EUR40m."
   },
   {
-    "id": "liverpool-standard-chartered",
-    "clubId": "liverpool",
+    "id": "osasuna-kosner",
+    "clubId": "osasuna",
     "orgName": null,
-    "sponsorId": "standard-chartered",
+    "sponsorId": "kosner",
     "placement": "front",
     "from": "2026-27",
     "to": null,
-    "value": {
-      "amount": 50,
-      "currency": "GBP",
-      "unit": "m",
-      "per": "year",
-      "upTo": false,
-      "usdApprox": 67
-    },
+    "value": null,
     "source": {
-      "name": "SportsPro",
-      "date": "2026-09",
-      "url": null
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/"
     },
-    "note": "17-year partnership, current deal"
+    "note": "Value not disclosed."
+  },
+  {
+    "id": "celta-vigo-estrella-galicia",
+    "clubId": "celta-vigo",
+    "orgName": null,
+    "sponsorId": "estrella-galicia",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+    },
+    "note": "Value not disclosed."
+  },
+  {
+    "id": "deportivo-alaves-mk-tiyu-news",
+    "clubId": "deportivo-alaves",
+    "orgName": null,
+    "sponsorId": "mk-tiyu-news",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+    },
+    "note": "Value not disclosed."
+  },
+  {
+    "id": "elche-flexicar",
+    "clubId": "elche",
+    "orgName": null,
+    "sponsorId": "flexicar",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+    },
+    "note": "Value not disclosed."
+  },
+  {
+    "id": "getafe-tecnocasa-group",
+    "clubId": "getafe",
+    "orgName": null,
+    "sponsorId": "tecnocasa-group",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+    },
+    "note": "Value not disclosed."
+  },
+  {
+    "id": "levante-sesame-hr",
+    "clubId": "levante",
+    "orgName": null,
+    "sponsorId": "sesame-hr",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+    },
+    "note": "Value not disclosed."
+  },
+  {
+    "id": "malaga-sabor-a-malaga",
+    "clubId": "malaga",
+    "orgName": null,
+    "sponsorId": "sabor-a-malaga",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+    },
+    "note": "Value not disclosed."
+  },
+  {
+    "id": "racing-santander-plenitude",
+    "clubId": "racing-santander",
+    "orgName": null,
+    "sponsorId": "plenitude",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+    },
+    "note": "Value not disclosed."
+  },
+  {
+    "id": "rayo-vallecano-digi",
+    "clubId": "rayo-vallecano",
+    "orgName": null,
+    "sponsorId": "digi",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+    },
+    "note": "Value not disclosed."
+  },
+  {
+    "id": "deportivo-la-coruna-estrella-galicia",
+    "clubId": "deportivo-la-coruna",
+    "orgName": null,
+    "sponsorId": "estrella-galicia",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+    },
+    "note": "Value not disclosed."
+  },
+  {
+    "id": "espanyol-arctempus",
+    "clubId": "espanyol",
+    "orgName": null,
+    "sponsorId": "arctempus",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+    },
+    "note": "Value not disclosed."
+  },
+  {
+    "id": "real-betis-gree",
+    "clubId": "real-betis",
+    "orgName": null,
+    "sponsorId": "gree",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+    },
+    "note": "Value not disclosed."
+  },
+  {
+    "id": "real-sociedad-baghdadi-capital",
+    "clubId": "real-sociedad",
+    "orgName": null,
+    "sponsorId": "baghdadi-capital",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+    },
+    "note": "Value not disclosed."
+  },
+  {
+    "id": "valencia-tm-real-estate-group",
+    "clubId": "valencia",
+    "orgName": null,
+    "sponsorId": "tm-real-estate-group",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+    },
+    "note": "Value not disclosed."
+  },
+  {
+    "id": "villarreal-pamesa-ceramica",
+    "clubId": "villarreal",
+    "orgName": null,
+    "sponsorId": "pamesa-ceramica",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+    },
+    "note": "Value not disclosed."
+  },
+  {
+    "id": "union-berlin-raisin",
+    "clubId": "union-berlin",
+    "orgName": null,
+    "sponsorId": "raisin",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+      "date": "2026-08-04",
+      "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+    },
+    "note": "Value not disclosed."
+  },
+  {
+    "id": "sv-elversberg-reuter",
+    "clubId": "sv-elversberg",
+    "orgName": null,
+    "sponsorId": "reuter",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Football Kit Archive, Bundesliga 2026-27 kits",
+      "date": "2026-09-24",
+      "url": "https://www.footballkitarchive.com/bundesliga-kits-2026-27-l34/"
+    },
+    "note": "Value not disclosed."
+  },
+  {
+    "id": "sc-freiburg-lexware",
+    "clubId": "sc-freiburg",
+    "orgName": null,
+    "sponsorId": "lexware",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+      "date": "2026-08-04",
+      "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+    },
+    "note": "Value not disclosed."
+  },
+  {
+    "id": "hamburger-sv-hansemerkur",
+    "clubId": "hamburger-sv",
+    "orgName": null,
+    "sponsorId": "hansemerkur",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+      "date": "2026-08-04",
+      "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+    },
+    "note": "Value not disclosed."
+  },
+  {
+    "id": "fc-koln-rewe",
+    "clubId": "fc-koln",
+    "orgName": null,
+    "sponsorId": "rewe",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+      "date": "2026-08-04",
+      "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+    },
+    "note": "Value not disclosed."
+  },
+  {
+    "id": "bayer-leverkusen-barmenia",
+    "clubId": "bayer-leverkusen",
+    "orgName": null,
+    "sponsorId": "barmenia",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Football Kit Archive, Bundesliga 2026-27 kits",
+      "date": "2026-09-24",
+      "url": "https://www.footballkitarchive.com/bundesliga-kits-2026-27-l34/"
+    },
+    "note": "Value not disclosed."
+  },
+  {
+    "id": "mainz-05-koemmerling",
+    "clubId": "mainz-05",
+    "orgName": null,
+    "sponsorId": "koemmerling",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Football Kit Archive, Bundesliga 2026-27 kits",
+      "date": "2026-09-24",
+      "url": "https://www.footballkitarchive.com/bundesliga-kits-2026-27-l34/"
+    },
+    "note": "Value not disclosed."
+  },
+  {
+    "id": "borussia-monchengladbach-hylo",
+    "clubId": "borussia-monchengladbach",
+    "orgName": null,
+    "sponsorId": "hylo",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Football Kit Archive, Bundesliga 2026-27 kits",
+      "date": "2026-09-24",
+      "url": "https://www.footballkitarchive.com/bundesliga-kits-2026-27-l34/"
+    },
+    "note": "Value not disclosed."
+  },
+  {
+    "id": "sc-paderborn-07-c-hedenkamp",
+    "clubId": "sc-paderborn-07",
+    "orgName": null,
+    "sponsorId": "c-hedenkamp",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+      "date": "2026-08-04",
+      "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+    },
+    "note": "Value not disclosed."
+  },
+  {
+    "id": "vfb-stuttgart-lbbw",
+    "clubId": "vfb-stuttgart",
+    "orgName": null,
+    "sponsorId": "lbbw",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+      "date": "2026-08-04",
+      "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+    },
+    "note": "Value not disclosed."
   },
   {
     "id": "manchester-united-snapdragon",
@@ -1031,44 +958,82 @@
     "orgName": null,
     "sponsorId": "snapdragon",
     "placement": "front",
-    "from": "2026-27",
-    "to": null,
+    "from": null,
+    "to": "2029-30",
     "value": {
-      "amount": 375,
-      "currency": "USD",
-      "unit": "m",
-      "per": "total",
-      "upTo": false,
-      "usdApprox": 375
-    },
-    "source": {
-      "name": "The Athletic",
-      "date": "2024-08-15",
-      "url": "https://www.nytimes.com/athletic/5702630/2024/08/15/manchester-united-snapdragon-qualcomm-shirt-sponsor/"
-    },
-    "note": "Extended to 2029, $375m over 5 years"
-  },
-  {
-    "id": "tottenham-hotspur-aia",
-    "clubId": "tottenham-hotspur",
-    "orgName": null,
-    "sponsorId": "aia",
-    "placement": "front",
-    "from": "2026-27",
-    "to": null,
-    "value": {
-      "amount": 40,
+      "amount": 60,
       "currency": "GBP",
       "unit": "m",
       "per": "year",
       "upTo": false,
-      "usdApprox": 52.3
+      "usdApprox": 80
     },
     "source": {
-      "name": "SportsPro",
-      "date": "2025-11",
-      "url": "https://www.sportspro.com/news/sponsorship-marketing/tottenham-hotspur-aia-group-sponsorship-training-kit-november-2025/"
+      "name": "SportsPro, Manchester United and Qualcomm Snapdragon shirt deal",
+      "date": "2024-08",
+      "url": "https://www.sportspro.com/news/manchester-united-qualcomm-snapdragon-shirt-sponsorship/"
     },
-    "note": "Switching to training kit partner from 2027/28"
+    "note": "Reported GBP60m a year, among the largest shirt deals in the league."
+  },
+  {
+    "id": "chelsea-circle-usdc",
+    "clubId": "chelsea",
+    "orgName": null,
+    "sponsorId": "circle-usdc",
+    "placement": "front",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+      "date": "2026-09-17",
+      "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+    },
+    "note": "USDC stablecoin branding; replaces the front that had been vacant."
+  },
+  {
+    "id": "hull-city-corendon",
+    "clubId": "hull-city",
+    "orgName": null,
+    "sponsorId": "corendon",
+    "placement": "front",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+      "date": "2026-09-17",
+      "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+    }
+  },
+  {
+    "id": "ipswich-town-halo",
+    "clubId": "ipswich-town",
+    "orgName": null,
+    "sponsorId": "halo",
+    "placement": "front",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+      "date": "2026-09-17",
+      "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+    }
+  },
+  {
+    "id": "leeds-united-red-bull",
+    "clubId": "leeds-united",
+    "orgName": null,
+    "sponsorId": "red-bull",
+    "placement": "front",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+      "date": "2026-09-17",
+      "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+    }
   }
 ]

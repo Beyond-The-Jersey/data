@@ -2,7 +2,7 @@
   {
     "id": "government-of-rwanda",
     "name": "Government of Rwanda",
-    "type": "government",
+    "type": "state",
     "country": "Rwanda",
     "via": "Rwanda Development Board",
     "parentId": null
@@ -17,18 +17,17 @@
   {
     "id": "government-of-dubai",
     "name": "Government of Dubai",
-    "type": "government",
+    "type": "state",
     "country": "UAE",
     "via": "Investment Corporation of Dubai",
-    "parentId": null,
-    "note": "Via Investment Corporation of Dubai"
+    "parentId": "uae"
   },
   {
     "id": "government-of-abu-dhabi",
     "name": "Government of Abu Dhabi",
-    "type": "government",
+    "type": "state",
     "country": "UAE",
-    "parentId": null
+    "parentId": "uae"
   },
   {
     "id": "saudi-pif",
@@ -41,15 +40,15 @@
   {
     "id": "government-of-saudi-arabia",
     "name": "Government of Saudi Arabia",
-    "type": "government",
+    "type": "state",
     "country": "Saudi Arabia",
     "parentId": null
   },
   {
     "id": "turkiye-wealth-fund",
-    "name": "T\u00fcrkiye Wealth Fund",
+    "name": "Türkiye Wealth Fund",
     "type": "state-fund",
-    "country": "T\u00fcrkiye",
+    "country": "Türkiye",
     "parentId": null
   },
   {
@@ -60,563 +59,312 @@
     "parentId": null
   },
   {
-    "id": "city-football-group-limited",
-    "name": "City Football Group Limited",
-    "type": "private-equity",
-    "country": "UK",
-    "note": "81% Abu Dhabi United Group (Sheikh Mansour), 18% Silver Lake, 1% China Media Capital/CITIC Capital",
-    "parentId": null
-  },
-  {
-    "id": "sheikh-abdullah-al-thani",
-    "name": "Sheikh Abdullah Al Thani",
-    "type": "individual",
-    "country": "Qatar",
-    "note": "Qatar royal family",
-    "parentId": "government-of-qatar"
-  },
-  {
-    "id": "roland-duch\u00e2telet",
-    "name": "Roland Duch\u00e2telet",
-    "type": "individual",
-    "country": "Belgium",
-    "note": "Former Athletic Club owner. Club is member-owned",
-    "parentId": null
-  },
-  {
-    "id": "josh-harris",
-    "name": "Josh Harris",
-    "type": "individual",
-    "country": "USA",
-    "note": "Washington Commanders owner",
-    "parentId": null
-  },
-  {
-    "id": "carlie-irsay-gordon",
-    "name": "Carlie Irsay-Gordon",
-    "type": "individual",
-    "country": "USA",
-    "note": null,
-    "parentId": null
-  },
-  {
-    "id": "abanca-corporaci\u00f3n-bancaria-(99%)",
-    "name": "Abanca Corporaci\u00f3n Bancaria (99%)",
+    "id": "recruit-holdings",
+    "name": "Recruit Holdings",
     "type": "listed-company",
-    "country": "Spain",
-    "note": "Abanca bank. Owns Deportivo Alav\u00e9s 99%.",
-    "parentId": null
+    "parentId": null,
+    "country": "Japan"
   },
   {
-    "id": "evangelos-marinakis",
-    "name": "Evangelos Marinakis",
-    "type": "individual",
-    "country": "Greece",
-    "note": null,
-    "parentId": null
+    "id": "indeed-inc",
+    "name": "Indeed, Inc.",
+    "type": "private-company",
+    "parentId": "recruit-holdings",
+    "country": "USA"
   },
   {
-    "id": "blueco",
-    "name": "BlueCo",
-    "type": "private-equity",
-    "country": "UK",
-    "note": null,
-    "parentId": null
-  },
-  {
-    "id": "george-mccaskey",
-    "name": "George McCaskey",
-    "type": "individual",
-    "country": "USA",
-    "note": null,
-    "parentId": null
-  },
-  {
-    "id": "jerry-jones",
-    "name": "Jerry Jones",
-    "type": "individual",
-    "country": "USA",
-    "note": null,
-    "parentId": null
-  },
-  {
-    "id": "adams-family",
-    "name": "Adams family",
-    "type": "family",
-    "country": "UK",
-    "note": "Brighton & Hove Albion owners. Tony Bloom family.",
-    "parentId": null
-  },
-  {
-    "id": "stan-kroenke",
-    "name": "Stan Kroenke",
-    "type": "individual",
-    "country": "USA",
-    "note": "Kroenke Sports & Entertainment. Married to Ann Walton (Walmart heir)",
-    "parentId": null
-  },
-  {
-    "id": "black-knight-football-club-uk-limited",
-    "name": "Black Knight Football Club UK Limited",
-    "type": "private-equity",
-    "country": "UK",
-    "note": "Kroenke Sports & Entertainment subsidiary",
-    "parentId": null
-  },
-  {
-    "id": "baskonia-alav\u00e9s-group",
-    "name": "Baskonia-Alav\u00e9s Group",
-    "type": "private-equity",
-    "country": "Spain",
-    "note": "Josean Querejeta. Owns Saski Baskonia and Deportivo Alav\u00e9s",
-    "parentId": null
-  },
-  {
-    "id": "fernando-roig",
-    "name": "Fernando Roig",
-    "type": "individual",
-    "country": "Spain",
-    "note": "Villarreal CF owner. Empresas Roig founder",
-    "parentId": null
-  },
-  {
-    "id": "matthew-benham",
-    "name": "Matthew Benham",
-    "type": "individual",
-    "country": "UK",
-    "note": "Brentford FC owner. Smartodds founder",
-    "parentId": null
-  },
-  {
-    "id": "peter-lim",
-    "name": "Peter Lim",
-    "type": "individual",
-    "country": "Malaysia",
-    "note": "Valencia CF owner",
-    "parentId": null
-  },
-  {
-    "id": "dermot-desmond",
-    "name": "Dermot Desmond",
-    "type": "individual",
-    "country": "Ireland",
-    "note": "Irish businessman. Owns 35% of Celtic FC. Worth \u20ac2.04bn.",
-    "parentId": null
-  },
-  {
-    "id": "jed-york-(controlling)",
-    "name": "Jed York (Controlling)",
-    "type": "individual",
-    "country": "USA",
-    "note": "San Francisco 49ers principal owner. Leeds United co-owner.",
-    "parentId": null
-  },
-  {
-    "id": "arthur-blank",
-    "name": "Arthur Blank",
-    "type": "individual",
-    "country": "USA",
-    "note": "Atlanta Falcons owner",
-    "parentId": null
-  },
-  {
-    "id": "ineos",
-    "name": "Ineos",
-    "type": "private-equity",
-    "country": "UK",
-    "note": "Jim Ratcliffe. Ineos Sport owns Nice, Man United stake",
-    "parentId": null
-  },
-  {
-    "id": "carl-lindner-iii",
-    "name": "Carl Lindner III",
-    "type": "individual",
-    "country": "USA",
-    "note": "FC Cincinnati owner",
-    "parentId": null
-  },
-  {
-    "id": "mike-brown",
-    "name": "Mike Brown",
-    "type": "individual",
-    "country": "USA",
-    "note": "Cincinnati Bengals owner",
-    "parentId": null
-  },
-  {
-    "id": "red-bull-gmbh-(99%)-(of-gmbh)",
-    "name": "Red Bull GmbH (99%) (of GmbH)",
-    "type": "private-equity",
-    "country": "Austria",
-    "note": "Red Bull GmbH. Owns RB Leipzig, Salzburg, etc.",
-    "parentId": null
-  },
-  {
-    "id": "rob-walton",
-    "name": "Rob Walton",
-    "type": "individual",
-    "country": "USA",
-    "note": "Walmart heir. Walton-Penner Family Ownership Group. Denver Broncos owner. $4.65B purchase.",
-    "parentId": null
-  },
-  {
-    "id": "bennett-rosenthal",
-    "name": "Bennett Rosenthal",
-    "type": "individual",
-    "country": "USA",
-    "note": "Lead Managing Owner of LAFC. Co-Founder of Ares Management (public).",
-    "parentId": null
-  },
-  {
-    "id": "ellis-short",
-    "name": "Ellis Short",
-    "type": "individual",
-    "country": "USA",
-    "note": "Former Sunderland owner. Sold in 2018. Founder of Kildare Partners.",
-    "parentId": null
-  },
-  {
-    "id": "gamechanger-20-ltd",
-    "name": "Gamechanger 20 Ltd",
-    "type": "private-equity",
-    "country": "UK",
-    "note": "Todd Boehly/Clearlake Capital. Owns Chelsea FC",
-    "parentId": null
-  },
-  {
-    "id": "zygi-wilf",
-    "name": "Zygi Wilf",
-    "type": "individual",
-    "country": "USA",
-    "note": "Minnesota Vikings owner",
-    "parentId": null
-  },
-  {
-    "id": "reinhard-rauball",
-    "name": "Reinhard Rauball",
-    "type": "individual",
-    "country": "Germany",
-    "note": "Borussia Dortmund president. Lawyer.",
-    "parentId": null
-  },
-  {
-    "id": "gayle-benson",
-    "name": "Gayle Benson",
-    "type": "individual",
-    "country": "USA",
-    "note": "New Orleans Saints owner. Louisiana billionaire.",
-    "parentId": null
-  },
-  {
-    "id": "perkins-observatory",
-    "name": "Perkins Observatory",
-    "type": "individual",
-    "country": "USA",
-    "note": "Green Bay Packers owner. Dairy farmer.",
-    "parentId": null
-  },
-  {
-    "id": "roundhouse-capital-holdings-limited",
-    "name": "Roundhouse Capital Holdings Limited",
-    "type": "private-equity",
-    "country": "UK",
-    "note": "Todd Boehly/Clearlake Capital. Chelsea FC owner",
-    "parentId": null
-  },
-  {
-    "id": "christian-bragarnik",
-    "name": "Christian Bragarnik",
-    "type": "individual",
-    "country": "Argentina",
-    "note": "Girona FC owner",
-    "parentId": null
-  },
-  {
-    "id": "stephen-ross",
-    "name": "Stephen Ross",
-    "type": "individual",
-    "country": "USA",
-    "note": "Miami Dolphins owner",
-    "parentId": null
-  },
-  {
-    "id": "bayer-ag",
-    "name": "Bayer AG",
+    "id": "deutsche-telekom-ag",
+    "name": "Deutsche Telekom AG",
     "type": "listed-company",
+    "parentId": null,
+    "country": "Germany"
+  },
+  {
+    "id": "vodafone-group",
+    "name": "Vodafone Group",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "United Kingdom"
+  },
+  {
+    "id": "red-bull-gmbh",
+    "name": "Red Bull GmbH",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Austria"
+  },
+  {
+    "id": "barmenia-versicherungen",
+    "name": "Barmenia Versicherungen",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Germany"
+  },
+  {
+    "id": "koemmerling-kunststoffe",
+    "name": "Koemmerling Kunststoffe",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Germany"
+  },
+  {
+    "id": "ursapharm",
+    "name": "URSAPHARM Arzneimittel",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Germany"
+  },
+  {
+    "id": "sap-se",
+    "name": "SAP SE",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Germany"
+  },
+  {
+    "id": "lexware-gmbh",
+    "name": "Lexware (Haufe Group)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Germany"
+  },
+  {
+    "id": "wwk-versicherungen",
+    "name": "WWK Versicherungen",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Germany"
+  },
+  {
+    "id": "raisin-ds",
+    "name": "Raisin DS",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Germany"
+  },
+  {
+    "id": "matthaei-bau",
+    "name": "Matthaei Bauunternehmung",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Germany"
+  },
+  {
+    "id": "land-baden-wuerttemberg",
+    "name": "State of Baden-Wuerttemberg",
+    "type": "state",
+    "parentId": null,
+    "country": "Germany"
+  },
+  {
+    "id": "lbbw",
+    "name": "Landesbank Baden-Wuerttemberg",
+    "type": "listed-company",
+    "parentId": null,
     "country": "Germany",
-    "note": "Bayer AG. Owns Bayer Leverkusen.",
-    "parentId": null
+    "via": "Land Baden-Wuerttemberg"
   },
   {
-    "id": "clemens-t\u00f6nnies",
-    "name": "Clemens T\u00f6nnies",
-    "type": "individual",
-    "country": "Germany",
-    "note": "Schalke 04 owner. Meat processing heir.",
-    "parentId": null
+    "id": "c-hedenkamp",
+    "name": "C. Hedenkamp GmbH",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Germany"
   },
   {
-    "id": "shahid-khan",
-    "name": "Shahid Khan",
-    "type": "individual",
-    "country": "USA",
-    "note": "Jacksonville Jaguars owner. Flex-N-Gate founder.",
-    "parentId": null
+    "id": "beumer-group",
+    "name": "BEUMER Group",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Germany"
   },
   {
-    "id": "tony-bloom",
-    "name": "Tony Bloom",
-    "type": "individual",
-    "country": "UK",
-    "note": "Brighton & Hove Albion owner",
-    "parentId": null
+    "id": "rewe-group",
+    "name": "REWE Group",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Germany"
   },
   {
-    "id": "klaus-hofmann",
-    "name": "Klaus Hofmann",
-    "type": "individual",
-    "country": "Germany",
-    "note": "VfB Stuttgart owner.",
-    "parentId": null
+    "id": "reuter-gruppe",
+    "name": "Reuter Gruppe",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Germany"
   },
   {
-    "id": "jeffrey-lurie",
-    "name": "Jeffrey Lurie",
-    "type": "individual",
-    "country": "USA",
-    "note": "Philadelphia Eagles owner",
-    "parentId": null
+    "id": "hansemerkur",
+    "name": "HanseMerkur Versicherungsgruppe",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Germany"
   },
   {
-    "id": "hubertus-hess-grunewald",
-    "name": "Hubertus Hess-Grunewald",
-    "type": "individual",
-    "country": "Germany",
-    "note": "Hoffenheim investor.",
-    "parentId": null
+    "id": "spotify-technology",
+    "name": "Spotify Technology S.A.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Sweden"
   },
   {
-    "id": "nassef-sawiris",
-    "name": "Nassef Sawiris",
-    "type": "individual",
-    "country": "Egypt",
-    "note": "Orascom Development. Co-owner of Aston Villa with Wes Edens",
-    "parentId": null
+    "id": "kutxabank",
+    "name": "Kutxabank",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
   },
   {
-    "id": "hunt-family",
-    "name": "Hunt family",
-    "type": "individual",
-    "country": "USA",
-    "note": "Dallas Cowboys owner. Energy billionaire family.",
-    "parentId": null
+    "id": "kosner",
+    "name": "Kosner",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
   },
   {
-    "id": "sevillistas-de-nervi\u00f3n-s-a",
-    "name": "Sevillistas de Nervi\u00f3n S. A",
-    "type": "private-equity",
-    "country": "Spain",
-    "note": "Sevilla FC ownership group.",
-    "parentId": null
+    "id": "estrella-galicia",
+    "name": "Hijos de Rivera (Estrella Galicia)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
   },
   {
-    "id": "kroenke-sports-&-entertainment",
-    "name": "Kroenke Sports & Entertainment",
-    "type": "private-equity",
-    "country": "USA",
-    "note": "Stan Kroenke sports empire",
-    "parentId": null
+    "id": "mk-tiyu-news",
+    "name": "MK TIYU News",
+    "type": "private-company",
+    "parentId": null,
+    "country": "China"
   },
   {
-    "id": "david-tepper",
-    "name": "David Tepper",
-    "type": "individual",
-    "country": "USA",
-    "note": "Charlotte Panthers owner",
-    "parentId": null
+    "id": "flexicar",
+    "name": "Flexicar",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
   },
   {
-    "id": "dean-spanos",
-    "name": "Dean Spanos",
-    "type": "individual",
-    "country": "USA",
-    "note": "San Diego Chargers owner. Construction billionaire.",
-    "parentId": null
+    "id": "tecnocasa-group",
+    "name": "Tecnocasa Group",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Italy"
   },
   {
-    "id": "doug-king",
-    "name": "Doug King",
-    "type": "individual",
-    "country": "USA",
-    "note": "Seattle Seahawks owner",
-    "parentId": null
+    "id": "sesame-hr",
+    "name": "Sesame HR",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
   },
   {
-    "id": "maple-leaf-sports-&-entertainment",
-    "name": "Maple Leaf Sports & Entertainment",
-    "type": "private-equity",
-    "country": "Canada",
-    "note": "MLSE. Toronto Maple Leafs, Toronto FC, Toronto Raptors, Toronto Blue Jays.",
-    "parentId": null
+    "id": "sabor-a-malaga",
+    "name": "Sabor a Malaga",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
   },
   {
-    "id": "fenway-sports-group",
-    "name": "Fenway Sports Group",
-    "type": "private-equity",
-    "country": "USA",
-    "note": "Henry is founder and principal owner. Recently sold 30% stake to Bezos consortium",
-    "parentId": null
+    "id": "plenitude-eni",
+    "name": "Plenitude (Eni)",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Italy"
   },
   {
-    "id": "enic-international-ltd-(8658%)",
-    "name": "ENIC International Ltd. (86.58%)",
-    "type": "private-equity",
-    "country": "UK",
-    "note": "Lewis family trust. Daniel Levy sold 24.99% stake to Eight Sports Capital",
-    "parentId": null
+    "id": "digi-communications",
+    "name": "Digi Communications",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Romania"
   },
   {
-    "id": "michael-bidwill",
-    "name": "Michael Bidwill",
-    "type": "individual",
-    "country": "USA",
-    "note": "Arizona Cardinals owner. Walton family heir.",
-    "parentId": null
+    "id": "arctempus",
+    "name": "Arctempus",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
   },
   {
-    "id": "\u00e1ngel-torres",
-    "name": "\u00c1ngel Torres",
-    "type": "individual",
-    "country": "Spain",
-    "note": "Getafe CF owner since 2002. Spanish businessman.",
-    "parentId": null
+    "id": "gree-electric",
+    "name": "Gree Electric Appliances",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "China"
   },
   {
-    "id": "acun-medya",
-    "name": "Acun Medya",
-    "type": "private-equity",
-    "country": "Turkey",
-    "note": "Acun Il\u0131cal\u0131. Owns Southampton, Hatayspor",
-    "parentId": null
+    "id": "baghdadi-capital",
+    "name": "Baghdadi Capital",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
   },
   {
-    "id": "rooney-family",
-    "name": "Rooney family",
-    "type": "family",
-    "country": "UK",
-    "note": "Rooney family. Everton FC owners.",
-    "parentId": null
+    "id": "fundacion-1890",
+    "name": "Fundacion 1890",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
   },
   {
-    "id": "dietmar-hopp-(96%)",
-    "name": "Dietmar Hopp (96%)",
-    "type": "individual",
-    "country": "Germany",
-    "note": "SAP co-founder. Owns TSG Hoffenheim. 96% voting rights.",
-    "parentId": null
+    "id": "tm-real-estate-group",
+    "name": "TM Real Estate Group",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
   },
   {
-    "id": "49ers-enterprises",
-    "name": "49ers Enterprises",
-    "type": "private-equity",
-    "country": "USA",
-    "note": "49ers Enterprises. Leeds United owner.",
-    "parentId": null
+    "id": "pamesa-ceramica",
+    "name": "Pamesa Ceramica",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
   },
   {
-    "id": "mark-robertson",
-    "name": "Mark Robertson",
-    "type": "individual",
-    "country": "USA",
-    "note": "Charlotte FC owner",
-    "parentId": null
+    "id": "circle-internet-group",
+    "name": "Circle Internet Group",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "USA"
   },
   {
-    "id": "real-sociedad",
-    "name": "Real Sociedad",
-    "type": "private-equity",
-    "country": "Spain",
-    "note": "Real Sociedad ownership group. Member-owned.",
-    "parentId": null
+    "id": "corendon-airlines",
+    "name": "Corendon Airlines",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Turkey"
   },
   {
-    "id": "mark-davis",
-    "name": "Mark Davis",
-    "type": "individual",
-    "country": "USA",
-    "note": "Las Vegas Raiders owner.",
-    "parentId": null
+    "id": "halo-service-management",
+    "name": "Halo Service Solutions",
+    "type": "private-company",
+    "parentId": null,
+    "country": "United Kingdom"
   },
   {
-    "id": "mikhail-litvin",
-    "name": "Mikhail Litvin",
-    "type": "individual",
-    "country": "Kazakhstan",
-    "note": "FC Astana owner. Bulat Utemuratov.",
-    "parentId": null
+    "id": "qualcomm",
+    "name": "Qualcomm",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "USA"
   },
   {
-    "id": "green-bay-packers,-inc",
-    "name": "Green Bay Packers, Inc",
-    "type": "non-profit",
-    "country": "USA",
-    "note": "538,967 shareholders. Community-owned NFL team.",
-    "parentId": null
+    "id": "aia-group",
+    "name": "AIA Group",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Hong Kong"
   },
   {
-    "id": "steve-bisciotti",
-    "name": "Steve Bisciotti",
-    "type": "individual",
-    "country": "USA",
-    "note": "Baltimore Ravens owner",
-    "parentId": null
+    "id": "standard-chartered-plc",
+    "name": "Standard Chartered plc",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "United Kingdom"
   },
   {
-    "id": "sheila-ford-hamp",
-    "name": "Sheila Ford Hamp",
-    "type": "individual",
-    "country": "USA",
-    "note": "Detroit Lions owner",
-    "parentId": null
-  },
-  {
-    "id": "neeru-khosla",
-    "name": "Neeru Khosla",
-    "type": "individual",
-    "country": "USA",
-    "note": "Golden State Warriors co-owner",
-    "parentId": null
-  },
-  {
-    "id": "cal-mcnair",
-    "name": "Cal McNair",
-    "type": "individual",
-    "country": "USA",
-    "note": "Houston Texans owner",
-    "parentId": null
-  },
-  {
-    "id": "glazer-family",
-    "name": "Glazer family",
-    "type": "family",
-    "country": "USA",
-    "note": "Glazer family. Man United majority owners. Avram, Joel, Bryan, Kevin, Edward Glazer.",
-    "parentId": null
-  },
-  {
-    "id": "ra\u00fal-mart\u00edn-presa",
-    "name": "Ra\u00fal Mart\u00edn Presa",
-    "type": "individual",
-    "country": "Spain",
-    "note": "Former Rayo Vallecano owner.",
-    "parentId": null
-  },
-  {
-    "id": "government-of-qatar",
-    "name": "Government of Qatar",
-    "type": "government",
-    "country": "Qatar",
-    "note": null,
-    "parentId": null
+    "id": "kaizen-gaming",
+    "name": "Kaizen Gaming",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Greece"
   }
 ]
