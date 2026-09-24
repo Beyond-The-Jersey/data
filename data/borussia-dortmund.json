@@ -9,7 +9,22 @@
     "twitter": "@borussiadortmund",
     "website": "https://www.borussia-dortmund.com"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "name": "| Source\\n",
+      "type": "company",
+      "category": "sponsor",
+      "rating": "D",
+      "rating_desc": "Unverified \u2014 needs review",
+      "flags": [],
+      "deal_value": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Borussia_Dortmund"
+      ],
+      "verified": false,
+      "last_updated": "2026-09-24T19:34:41.949878+00:00"
+    }
+  ],
   "shame": {
     "description": "Contact Borussia Dortmund to express discomfort about sponsor ratings",
     "methods": [
@@ -30,5 +45,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-24"
+  "last_updated": "2026-09-24T19:34:41.949961+00:00"
 }
