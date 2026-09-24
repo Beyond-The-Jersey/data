@@ -133,5 +133,355 @@
       "url": "https://www.hrw.org/news/2025/03/04/uae-unfair-mass-trial-convictions-upheld"
     },
     "reviewed": false
+  },
+  {
+    "id": "amex-listed-no-state",
+    "ownerIds": [
+      "american-express-company"
+    ],
+    "text": "American Express Company is a NYSE-listed bank holding company; its shareholder register is institutional and free float with no state or state-fund holder.",
+    "short": "A listed US company with no state shareholder.",
+    "source": {
+      "name": "American Express investor relations, stock information",
+      "date": "2026",
+      "url": "https://ir.americanexpress.com/stock-information"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "russian-federation-record",
+    "ownerIds": [
+      "russian-federation"
+    ],
+    "text": "PJSC Aeroflot is majority state-owned: the Russian Federation is the controlling shareholder of approximately 73.8% of shares. Russia is the direct belligerent in the ongoing war in Ukraine, and Aeroflot plus its state parent have been targeted by EU/US sanctions since 2022.",
+    "short": "PJSC Aeroflot is majority state-owned: the Russian Federation is the controlling shareholder of approximately 73.8% of shares.",
+    "source": {
+      "name": "Aeroflot Investor Relations, Shareholder Capital; Council of the EU sanctions explainer",
+      "date": "2025 / 2026",
+      "url": "https://ir.aeroflot.com/ensecurities/shareholder-capital"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "aia-group-record",
+    "ownerIds": [
+      "aia-group"
+    ],
+    "text": "AIA Group Limited is incorporated in Hong Kong with limited liability and listed on the Hong Kong Stock Exchange (stock code 1299); it presents itself as the largest independent publicly listed pan-Asian life insurer. No state or state-fund owner.",
+    "short": "AIA Group Limited is incorporated in Hong Kong with limited liability and listed on the Hong Kong Stock Exchange (stock code 1299); it presents itself as the….",
+    "source": {
+      "name": "AIA Group Limited official filings/press release; company corporate documents",
+      "date": "2023-07",
+      "url": "https://www.aia.com/content/dam/group-wise/en/docs/press-release/2023/AIA%20Group%20Press%20Release_ENG_13%20July%202023.pdf.coredownload.pdf"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "kaizen-gaming-record",
+    "ownerIds": [
+      "kaizen-gaming"
+    ],
+    "text": "Betano is owned by Kaizen Gaming International Limited, a private Greek-founded GameTech group; its parent has reached decacorn status and Allwyn holds a 36.75% stake. Owners are private investors (Allwyn/KKCG of Czech billionaire Karel Komarek), with no state or state-fund owner.",
+    "short": "Betano is owned by Kaizen Gaming International Limited, a private Greek-founded GameTech group; its parent has reached decacorn status and Allwyn holds a 36.75%….",
+    "source": {
+      "name": "Kaizen Gaming official; EGR Global (Allwyn 36.75% stake)",
+      "date": "2026",
+      "url": "https://www.egr.global/intel/news/betanos-parent-company-achieves-decacorn-status/"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "circle-internet-group-record",
+    "ownerIds": [
+      "circle-internet-group"
+    ],
+    "text": "USDC is issued by Circle; the issuer's parent, Circle Internet Group, Inc., listed on the NYSE in June 2025 via an S-1 registration (SEC CIK 1876042). It is a US-listed company with dispersed public shareholders and no state or state-fund owner.",
+    "short": "USDC is issued by Circle; the issuer's parent, Circle Internet Group, Inc., listed on the NYSE in June 2025 via an S-1 registration (SEC CIK 1876042).",
+    "source": {
+      "name": "SEC Form S-1, Circle Internet Group, Inc.",
+      "date": "2025-06",
+      "url": "https://www.sec.gov/Archives/edgar/data/1876042/000119312525178989/d839239ds1.htm"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "clickhouse-inc-record",
+    "ownerIds": [
+      "clickhouse-inc"
+    ],
+    "text": "ClickHouse, Inc. is a private San Francisco analytics company whose Series C (led by Khosla Ventures) and $400m Series D (led by Dragoneer) brought in financial investors including Bessemer, Index and Singapore's sovereign fund GIC. Owner is private; only minority sovereign-fund exposure.",
+    "short": "ClickHouse, Inc.",
+    "source": {
+      "name": "ClickHouse official Series C/D announcements",
+      "date": "2025-05 / 2026-01",
+      "url": "https://clickhouse.com/blog/clickhouse-raises-350-million-series-c-to-power-analytics-for-ai-era"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "cmc-markets-plc-record",
+    "ownerIds": [
+      "cmc-markets-plc"
+    ],
+    "text": "CMC Markets is a London-listed CFD broker founded and led by Peter Cruddas, Baron Cruddas, whose family is among the top shareholders; the rest is free float. No state or state-fund owner.",
+    "short": "CMC Markets is a London-listed CFD broker founded and led by Peter Cruddas, Baron Cruddas, whose family is among the top shareholders; the rest is free float.",
+    "source": {
+      "name": "CMC Markets Plc press release (founder appointed to the Lords); Finance Magnates/TradingView on shareholder base",
+      "date": "2020 / 2025",
+      "url": "https://www.cmcmarkets.com/group/press-releases/peter-cruddas-appointed-to-the-house-of-lords-as-baron-cruddas-of-shoreditch"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "federal-republic-of-germany-record",
+    "ownerIds": [
+      "federal-republic-of-germany"
+    ],
+    "text": "Deutsche Telekom's own shareholder-structure page shows the Federal Republic of Germany as the anchor shareholder via KfW (approx. 14.4%) plus a direct federal holding, together roughly 28-30% of shares, with the balance free float.",
+    "short": "Deutsche Telekom's own shareholder-structure page shows the Federal Republic of Germany as the anchor shareholder via KfW (approx.",
+    "source": {
+      "name": "Deutsche Telekom Investor Relations, Shareholder structure; KfW newsroom",
+      "date": "2026-06-30",
+      "url": "https://www.telekom.com/en/investor-relations/share/shareholder-structure"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "recruit-holdings-record",
+    "ownerIds": [
+      "recruit-holdings"
+    ],
+    "text": "Indeed, Inc. was acquired in 2012 and is a key subsidiary of Recruit Holdings Co., Ltd., a Tokyo-listed Japanese holding company that also owns Glassdoor. No state or state-fund owner.",
+    "short": "Indeed, Inc.",
+    "source": {
+      "name": "Recruit Holdings official 'Group Companies' page",
+      "date": "2026",
+      "url": "https://recruit-holdings.com/en/about/group"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "payward-record",
+    "ownerIds": [
+      "payward"
+    ],
+    "text": "Kraken is a brand of Payward, Inc., a Delaware-incorporated private company (Kraken Securities LLC is a wholly owned subsidiary of Payward, Inc.). The company is privately held with VC backers including Tribe Capital; no state or state-fund owner. Note: OFAC settled with Payward/Kraken for $362,158.70 over apparent violations of the Iranian Transactions and Sanctions Regulations — a conduct issue, not ownership.",
+    "short": "Kraken is a brand of Payward, Inc., a Delaware-incorporated private company (Kraken Securities LLC is a wholly owned subsidiary of Payward, Inc.).",
+    "source": {
+      "name": "OFAC enforcement release (Nov 28, 2022); Kraken/Payward disclosures",
+      "date": "2022-11-28",
+      "url": "https://ofac.treasury.gov/system/files/126/20221128_kraken.pdf"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "state-of-baden-wuerttemberg-record",
+    "ownerIds": [
+      "state-of-baden-wuerttemberg"
+    ],
+    "text": "Landesbank Baden-Württemberg is a public-law institution whose Owners are the Savings Banks Association of Baden-Württemberg (SVBW), the State of Baden-Württemberg, the state capital Stuttgart and Landesbeteiligungen Baden-Württemberg — i.e. wholly public/state owner.",
+    "short": "Landesbank Baden-Württemberg is a public-law institution whose Owners are the Savings Banks Association of Baden-Württemberg (SVBW), the State of….",
+    "source": {
+      "name": "Landesbank Baden-Württemberg Ordinance/statute (English translation), LBBW legal documents",
+      "date": "1998 (as amended)",
+      "url": "https://www.lbbw.de/rechts-und-kundeninformationen/ordinance_of_landesbank_baden_wuerttemberg_en_89p7ho77b_m.pdf"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "marex-group-plc-record",
+    "ownerIds": [
+      "marex-group-plc"
+    ],
+    "text": "Marex Group plc listed on Nasdaq (June 2024) after growth under private-equity sponsors, creating a public float while sponsors retained significant stakes; the company provides an investors/SEC-filings section evidencing a listed, dispersed ownership. No state or state-fund owner.",
+    "short": "Marex Group plc listed on Nasdaq (June 2024) after growth under private-equity sponsors, creating a public float while sponsors retained significant stakes; the….",
+    "source": {
+      "name": "Marex investor relations (SEC filings); Reuters/trade coverage of June 2024 IPO",
+      "date": "2024-06",
+      "url": "https://www.marex.com/investors"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "monzo-bank-limited-record",
+    "ownerIds": [
+      "monzo-bank-limited"
+    ],
+    "text": "Monzo Bank Limited is a UK-incorporated private bank with a full banking licence and no controlling shareholder; ownership is dispersed across venture investors. No state or state-fund owner.",
+    "short": "Monzo Bank Limited is a UK-incorporated private bank with a full banking licence and no controlling shareholder; ownership is dispersed across venture investors.",
+    "source": {
+      "name": "Monzo Investor Information / Annual Report & Group Financial Statements",
+      "date": "2026",
+      "url": "https://monzo.com/investor-information"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "government-of-qatar-record",
+    "ownerIds": [
+      "government-of-qatar"
+    ],
+    "text": "Qatar Airways Group Q.C.S.C. is incorporated in Qatar and 'is ultimately wholly owned by the Government of the State of Qatar (the \"Shareholder\")'; the state's kafala/migrant-labour system produced documented serious abuses in the run-up to the 2022 World Cup.",
+    "short": "Qatar Airways Group Q.C.S.C.",
+    "source": {
+      "name": "Qatar Airways Group audited consolidated financial statements (note: corporate information); Human Rights Watch",
+      "date": "2022-03 / 2022-11",
+      "url": "https://www.qatarairways.com/content/dam/documents/annual-reports/2022/financial-statement-en.pdf"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "mateschitz-yoovidhya-families-record",
+    "ownerIds": [
+      "mateschitz-yoovidhya-families"
+    ],
+    "text": "Red Bull GmbH is a privately held Austrian company owned by two families: the founding Yoovidhya family of Thailand holds 51% and the Mateschitz family (Mark Mateschitz, heir of co-founder Dietrich) holds 49%. Neither owner is a state or state fund.",
+    "short": "Red Bull GmbH is a privately held Austrian company owned by two families: the founding Yoovidhya family of Thailand holds 51% and the Mateschitz family (Mark….",
+    "source": {
+      "name": "Reuters (Red Bull leadership after co-founder's death, referencing the inherited 49% stake)",
+      "date": "2022-11-04",
+      "url": "https://www.reuters.com/business/retail-consumer/trio-lead-energy-drinks-giant-red-bull-after-co-founders-death-2022-11-04/"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "sap-se-record",
+    "ownerIds": [
+      "sap-se"
+    ],
+    "text": "SAP SE is a Frankfurt-listed German software company with a free float of about 84% reported by the company itself; the largest identified holders are founder-family vehicles (Hopp family ~5.1%, Portika gGmbH ~3.6%) — private, not state. No state or state-fund owner.",
+    "short": "SAP SE is a Frankfurt-listed German software company with a free float of about 84% reported by the company itself; the largest identified holders are….",
+    "source": {
+      "name": "SAP Investor Relations, shareholder structure/basic data",
+      "date": "2026",
+      "url": "https://www.sap.com/investors/en/stock/basic-data.html"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "qualcomm-record",
+    "ownerIds": [
+      "qualcomm"
+    ],
+    "text": "Snapdragon is Qualcomm's product brand, not a separate entity: Qualcomm Incorporated is a US Nasdaq-listed semiconductor company with dispersed public shareholders and no state or state-fund owner.",
+    "short": "Snapdragon is Qualcomm's product brand, not a separate entity: Qualcomm Incorporated is a US Nasdaq-listed semiconductor company with dispersed public shareholders….",
+    "source": {
+      "name": "Qualcomm official 'About Qualcomm' / Snapdragon FAQ",
+      "date": "2026",
+      "url": "https://www.qualcomm.com/company"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "standard-chartered-plc-record",
+    "ownerIds": [
+      "standard-chartered-plc"
+    ],
+    "text": "Standard Chartered is a London-headquartered, publicly listed bank with dispersed shareholders and no state or state-fund owner. Its Iran/Sudan history is a conduct record, not ownership: the bank agreed to forfeit $227m in 2012 for illegal transactions with Iran, Sudan, Libya and Burma and a further ~$1.1bn in 2019 for Iran-related sanctions/AML failures.",
+    "short": "Standard Chartered is a London-headquartered, publicly listed bank with dispersed shareholders and no state or state-fund owner.",
+    "source": {
+      "name": "US DOJ press release (Dec 10, 2012); DLA Piper legal bulletin on the 2019 USD1.1bn settlement",
+      "date": "2012-12-10 / 2019-04",
+      "url": "https://www.justice.gov/archives/opa/pr/standard-chartered-bank-agrees-forfeit-227-million-illegal-transactions-iran-sudan-libya-and"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "temporal-technologies-record",
+    "ownerIds": [
+      "temporal-technologies"
+    ],
+    "text": "Temporal Technologies is a private Bellevue, Washington company that raised a $550m Series E at a $12.55bn valuation led by Lightspeed with Wellington, Goldman Sachs Alternatives Growth Equity and Tiger Global — all financial investors, none a state or sovereign fund.",
+    "short": "Temporal Technologies is a private Bellevue, Washington company that raised a $550m Series E at a $12.55bn valuation led by Lightspeed with Wellington, Goldman….",
+    "source": {
+      "name": "Temporal Series E reporting (GeekWire-derived coverage)",
+      "date": "2026",
+      "url": "https://425business.com/news/temporal-raises-550m-in-series-e-company-valued-at-12-55b/article_3f5859c3-e9d8-4cc7-816f-6616745a60dc.html"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "jasper-white-record",
+    "ownerIds": [
+      "jasper-white"
+    ],
+    "text": "Trade Nation and its brands are controlled by UK entrepreneur Jasper White, who bought control of the company (then The Trader Management Company Limited) in 2014. It is a private CFD/FX broker with UK (FCA), Australian and Portuguese (CMVM) authorisations — no state or state-fund owner.",
+    "short": "Trade Nation and its brands are controlled by UK entrepreneur Jasper White, who bought control of the company (then The Trader Management Company Limited) in 2014.",
+    "source": {
+      "name": "FX News Group (trade press, citing control by Jasper White)",
+      "date": "2025",
+      "url": "https://fxnewsgroup.com/forex-news/retail-forex/exclusive-trade-nation-revenues-rise-17-in-2025-to-25m-following-ceo-change"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "turkiye-wealth-fund-record",
+    "ownerIds": [
+      "turkiye-wealth-fund"
+    ],
+    "text": "Turkish Airlines' official shareholding disclosure shows the state's Türkiye Wealth Fund as the largest shareholder with 49.12%, with a Ministry of Treasury and Finance 'privileged' share conferring control; the state fund sits at the top of the chain. Turkey has documented serious human-rights abuses (Kurdish conflict, post-2016 purges, press freedom).",
+    "short": "Turkish Airlines' official shareholding disclosure shows the state's Türkiye Wealth Fund as the largest shareholder with 49.12%, with a Ministry of Treasury and….",
+    "source": {
+      "name": "Turkish Airlines official additional disclosure (Capital Markets Board of Türkiye); Türkiye Wealth Fund",
+      "date": "2025 / 2026",
+      "url": "https://tvf.com.tr/en/investor-relations/reports"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "uralchem-record",
+    "ownerIds": [
+      "uralchem"
+    ],
+    "text": "Uralkali's controlling shareholder is Uralchem PJSC, which holds 81.47% of Uralkali; Uralchem is a private company, with Dmitry Mazepin previously holding 100% and selling a controlling 52% stake in 2022. No direct Russian state or state-fund stake is documented, so the ultimate owner is a private Russian holding.",
+    "short": "Uralkali's controlling shareholder is Uralchem PJSC, which holds 81.47% of Uralkali; Uralchem is a private company, with Dmitry Mazepin previously holding 100% and….",
+    "source": {
+      "name": "Fitch Ratings (rating action recording Uralchem's 81.47% stake); Reuters (Mazepin sells controlling stake in Uralchem)",
+      "date": "2021-10-05 / 2022",
+      "url": "https://www.fitchratings.com/research/corporate-finance/fitch-revises-uralkali-outlook-to-negative-affirms-at-bb-05-10-2021"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "government-of-saudi-arabia-record",
+    "ownerIds": [
+      "government-of-saudi-arabia"
+    ],
+    "text": "Visit Saudi is the flagship destination-marketing platform of the Saudi Tourism Authority, a government body established by royal decree in 2020 and a wholly state-funded entity. Saudi Arabia has documented serious labour-rights abuses: HRW's country chapter records migrant workers facing widespread wage theft and avoidable workplace deaths.",
+    "short": "Visit Saudi is the flagship destination-marketing platform of the Saudi Tourism Authority, a government body established by royal decree in 2020 and a wholly….",
+    "source": {
+      "name": "Saudi Tourism Authority / Visit Saudi official 'About us'; Human Rights Watch World Report",
+      "date": "2020-03 / 2026",
+      "url": "https://www.visitsaudi.com/en/about-us"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "discovery-limited-record",
+    "ownerIds": [
+      "discovery-limited"
+    ],
+    "text": "The Vitality brand is owned worldwide by Discovery Limited, a Johannesburg-headquartered, JSE-listed financial services group; Discovery states it is the licensed controlling company of the Discovery insurance group and owns the core Vitality IP. No state or state-fund owner.",
+    "short": "The Vitality brand is owned worldwide by Discovery Limited, a Johannesburg-headquartered, JSE-listed financial services group; Discovery states it is the licensed….",
+    "source": {
+      "name": "Discovery Limited corporate site; Discovery Holdings press release (Vitality name change)",
+      "date": "2025",
+      "url": "https://www.discovery.co.za/"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "vodafone-group-plc-record",
+    "ownerIds": [
+      "vodafone-group-plc"
+    ],
+    "text": "Vodafone is a London-listed telecoms group. Its largest shareholder was until 2026 Emirates Telecommunications (e&), itself ~60% held by the UAE state via the Emirates Investment Authority; e& agreed to sell its entire ~16.2% stake to Vega, a vehicle of the Niel family, and the sale has since completed. Owner is therefore listed/private with the state-fund link now exited.",
+    "short": "Vodafone is a London-listed telecoms group.",
+    "source": {
+      "name": "Vodafone 'Response to e&'s announcement'; Reuters (Niel becomes Vodafone's top shareholder); e& H1 2026 results (sale completed)",
+      "date": "2026-07-10 / 2026-H1",
+      "url": "https://www.vodafone.com/news/newsroom/corporate-and-financial/response-to-announcement"
+    },
+    "reviewed": false
   }
 ]

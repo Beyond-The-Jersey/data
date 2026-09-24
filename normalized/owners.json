@@ -1,18 +1,136 @@
 [
   {
-    "id": "government-of-rwanda",
-    "name": "Government of Rwanda",
-    "type": "state",
-    "country": "Rwanda",
-    "via": "Rwanda Development Board",
+    "id": "aia-group",
+    "name": "AIA Group",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Hong Kong"
+  },
+  {
+    "id": "american-express-company",
+    "name": "American Express Company",
+    "type": "listed-company",
+    "country": "USA",
     "parentId": null
   },
   {
-    "id": "uae",
-    "name": "United Arab Emirates (federal)",
+    "id": "arctempus",
+    "name": "Arctempus",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
+  },
+  {
+    "id": "baghdadi-capital",
+    "name": "Baghdadi Capital",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
+  },
+  {
+    "id": "barmenia-versicherungen",
+    "name": "Barmenia Versicherungen",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Germany"
+  },
+  {
+    "id": "beumer-group",
+    "name": "BEUMER Group",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Germany"
+  },
+  {
+    "id": "c-hedenkamp",
+    "name": "C. Hedenkamp GmbH",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Germany"
+  },
+  {
+    "id": "circle-internet-group",
+    "name": "Circle Internet Group",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "USA"
+  },
+  {
+    "id": "clickhouse-inc",
+    "name": "ClickHouse, Inc. (private, VC-backed)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
+    "id": "cmc-markets-plc",
+    "name": "CMC Markets Plc (London-listed; Cruddas family significant holder)",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "GB"
+  },
+  {
+    "id": "corendon-airlines",
+    "name": "Corendon Airlines",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Turkey"
+  },
+  {
+    "id": "deutsche-telekom-ag",
+    "name": "Deutsche Telekom AG",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Germany"
+  },
+  {
+    "id": "digi-communications",
+    "name": "Digi Communications",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Romania"
+  },
+  {
+    "id": "discovery-limited",
+    "name": "Discovery Limited (Johannesburg-listed)",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "ZA"
+  },
+  {
+    "id": "estrella-galicia",
+    "name": "Hijos de Rivera (Estrella Galicia)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
+  },
+  {
+    "id": "federal-republic-of-germany",
+    "name": "Federal Republic of Germany (direct stake + KfW) with the remainder free float",
+    "type": "state",
+    "parentId": null,
+    "country": "DE"
+  },
+  {
+    "id": "flexicar",
+    "name": "Flexicar",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
+  },
+  {
+    "id": "fundacion-1890",
+    "name": "Fundacion 1890",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
+  },
+  {
+    "id": "government-of-abu-dhabi",
+    "name": "Government of Abu Dhabi",
     "type": "state",
     "country": "UAE",
-    "parentId": null
+    "parentId": "uae"
   },
   {
     "id": "government-of-dubai",
@@ -23,19 +141,19 @@
     "parentId": "uae"
   },
   {
-    "id": "government-of-abu-dhabi",
-    "name": "Government of Abu Dhabi",
+    "id": "government-of-qatar",
+    "name": "Government of the State of Qatar (Qatar Airways Group Q.C.S.C.)",
     "type": "state",
-    "country": "UAE",
-    "parentId": "uae"
+    "parentId": null,
+    "country": "QA"
   },
   {
-    "id": "saudi-pif",
-    "name": "Public Investment Fund (Saudi Arabia)",
-    "type": "state-fund",
-    "country": "Saudi Arabia",
-    "note": "Chaired by Crown Prince Mohammed bin Salman",
-    "parentId": "government-of-saudi-arabia"
+    "id": "government-of-rwanda",
+    "name": "Government of Rwanda",
+    "type": "state",
+    "country": "Rwanda",
+    "via": "Rwanda Development Board",
+    "parentId": null
   },
   {
     "id": "government-of-saudi-arabia",
@@ -45,25 +163,25 @@
     "parentId": null
   },
   {
-    "id": "turkiye-wealth-fund",
-    "name": "Türkiye Wealth Fund",
-    "type": "state-fund",
-    "country": "Türkiye",
-    "parentId": null
-  },
-  {
-    "id": "american-express-company",
-    "name": "American Express Company",
-    "type": "listed-company",
-    "country": "USA",
-    "parentId": null
-  },
-  {
-    "id": "recruit-holdings",
-    "name": "Recruit Holdings",
+    "id": "gree-electric",
+    "name": "Gree Electric Appliances",
     "type": "listed-company",
     "parentId": null,
-    "country": "Japan"
+    "country": "China"
+  },
+  {
+    "id": "halo-service-management",
+    "name": "Halo Service Solutions",
+    "type": "private-company",
+    "parentId": null,
+    "country": "United Kingdom"
+  },
+  {
+    "id": "hansemerkur",
+    "name": "HanseMerkur Versicherungsgruppe",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Germany"
   },
   {
     "id": "indeed-inc",
@@ -73,32 +191,18 @@
     "country": "USA"
   },
   {
-    "id": "deutsche-telekom-ag",
-    "name": "Deutsche Telekom AG",
-    "type": "listed-company",
-    "parentId": null,
-    "country": "Germany"
-  },
-  {
-    "id": "vodafone-group",
-    "name": "Vodafone Group",
-    "type": "listed-company",
-    "parentId": null,
-    "country": "United Kingdom"
-  },
-  {
-    "id": "red-bull-gmbh",
-    "name": "Red Bull GmbH",
+    "id": "jasper-white",
+    "name": "Jasper White (private UK entrepreneur)",
     "type": "private-company",
     "parentId": null,
-    "country": "Austria"
+    "country": "GB"
   },
   {
-    "id": "barmenia-versicherungen",
-    "name": "Barmenia Versicherungen",
+    "id": "kaizen-gaming",
+    "name": "Kaizen Gaming",
     "type": "private-company",
     "parentId": null,
-    "country": "Germany"
+    "country": "Greece"
   },
   {
     "id": "koemmerling-kunststoffe",
@@ -108,46 +212,18 @@
     "country": "Germany"
   },
   {
-    "id": "ursapharm",
-    "name": "URSAPHARM Arzneimittel",
+    "id": "kosner",
+    "name": "Kosner",
     "type": "private-company",
     "parentId": null,
-    "country": "Germany"
+    "country": "Spain"
   },
   {
-    "id": "sap-se",
-    "name": "SAP SE",
-    "type": "listed-company",
-    "parentId": null,
-    "country": "Germany"
-  },
-  {
-    "id": "lexware-gmbh",
-    "name": "Lexware (Haufe Group)",
+    "id": "kutxabank",
+    "name": "Kutxabank",
     "type": "private-company",
     "parentId": null,
-    "country": "Germany"
-  },
-  {
-    "id": "wwk-versicherungen",
-    "name": "WWK Versicherungen",
-    "type": "private-company",
-    "parentId": null,
-    "country": "Germany"
-  },
-  {
-    "id": "raisin-ds",
-    "name": "Raisin DS",
-    "type": "private-company",
-    "parentId": null,
-    "country": "Germany"
-  },
-  {
-    "id": "matthaei-bau",
-    "name": "Matthaei Bauunternehmung",
-    "type": "private-company",
-    "parentId": null,
-    "country": "Germany"
+    "country": "Spain"
   },
   {
     "id": "land-baden-wuerttemberg",
@@ -165,15 +241,99 @@
     "via": "Land Baden-Wuerttemberg"
   },
   {
-    "id": "c-hedenkamp",
-    "name": "C. Hedenkamp GmbH",
+    "id": "lexware-gmbh",
+    "name": "Lexware (Haufe Group)",
     "type": "private-company",
     "parentId": null,
     "country": "Germany"
   },
   {
-    "id": "beumer-group",
-    "name": "BEUMER Group",
+    "id": "marex-group-plc",
+    "name": "Marex Group plc (Nasdaq-listed) — public and former PE sponsors",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "GB"
+  },
+  {
+    "id": "mateschitz-yoovidhya-families",
+    "name": "Mateschitz family (49%) and Yoovidhya family (51%), via Red Bull GmbH",
+    "type": "private-company",
+    "parentId": null,
+    "country": "AT"
+  },
+  {
+    "id": "matthaei-bau",
+    "name": "Matthaei Bauunternehmung",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Germany"
+  },
+  {
+    "id": "mk-tiyu-news",
+    "name": "MK TIYU News",
+    "type": "private-company",
+    "parentId": null,
+    "country": "China"
+  },
+  {
+    "id": "monzo-bank-limited",
+    "name": "Monzo Bank Limited (private, VC-backed)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "GB"
+  },
+  {
+    "id": "pamesa-ceramica",
+    "name": "Pamesa Ceramica",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
+  },
+  {
+    "id": "payward",
+    "name": "Payward, Inc. (d/b/a Kraken)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
+    "id": "plenitude-eni",
+    "name": "Plenitude (Eni)",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Italy"
+  },
+  {
+    "id": "qualcomm",
+    "name": "Qualcomm",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "USA"
+  },
+  {
+    "id": "raisin-ds",
+    "name": "Raisin DS",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Germany"
+  },
+  {
+    "id": "recruit-holdings",
+    "name": "Recruit Holdings",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Japan"
+  },
+  {
+    "id": "red-bull-gmbh",
+    "name": "Red Bull GmbH",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Austria"
+  },
+  {
+    "id": "reuter-gruppe",
+    "name": "Reuter Gruppe",
     "type": "private-company",
     "parentId": null,
     "country": "Germany"
@@ -186,74 +346,11 @@
     "country": "Germany"
   },
   {
-    "id": "reuter-gruppe",
-    "name": "Reuter Gruppe",
-    "type": "private-company",
+    "id": "russian-federation",
+    "name": "Russian Federation (Federal Agency for State Property Management)",
+    "type": "state",
     "parentId": null,
-    "country": "Germany"
-  },
-  {
-    "id": "hansemerkur",
-    "name": "HanseMerkur Versicherungsgruppe",
-    "type": "private-company",
-    "parentId": null,
-    "country": "Germany"
-  },
-  {
-    "id": "spotify-technology",
-    "name": "Spotify Technology S.A.",
-    "type": "listed-company",
-    "parentId": null,
-    "country": "Sweden"
-  },
-  {
-    "id": "kutxabank",
-    "name": "Kutxabank",
-    "type": "private-company",
-    "parentId": null,
-    "country": "Spain"
-  },
-  {
-    "id": "kosner",
-    "name": "Kosner",
-    "type": "private-company",
-    "parentId": null,
-    "country": "Spain"
-  },
-  {
-    "id": "estrella-galicia",
-    "name": "Hijos de Rivera (Estrella Galicia)",
-    "type": "private-company",
-    "parentId": null,
-    "country": "Spain"
-  },
-  {
-    "id": "mk-tiyu-news",
-    "name": "MK TIYU News",
-    "type": "private-company",
-    "parentId": null,
-    "country": "China"
-  },
-  {
-    "id": "flexicar",
-    "name": "Flexicar",
-    "type": "private-company",
-    "parentId": null,
-    "country": "Spain"
-  },
-  {
-    "id": "tecnocasa-group",
-    "name": "Tecnocasa Group",
-    "type": "private-company",
-    "parentId": null,
-    "country": "Italy"
-  },
-  {
-    "id": "sesame-hr",
-    "name": "Sesame HR",
-    "type": "private-company",
-    "parentId": null,
-    "country": "Spain"
+    "country": "RU"
   },
   {
     "id": "sabor-a-malaga",
@@ -263,95 +360,33 @@
     "country": "Spain"
   },
   {
-    "id": "plenitude-eni",
-    "name": "Plenitude (Eni)",
+    "id": "sap-se",
+    "name": "SAP SE",
     "type": "listed-company",
     "parentId": null,
-    "country": "Italy"
+    "country": "Germany"
   },
   {
-    "id": "digi-communications",
-    "name": "Digi Communications",
-    "type": "listed-company",
-    "parentId": null,
-    "country": "Romania"
+    "id": "saudi-pif",
+    "name": "Public Investment Fund (Saudi Arabia)",
+    "type": "state-fund",
+    "country": "Saudi Arabia",
+    "note": "Chaired by Crown Prince Mohammed bin Salman",
+    "parentId": "government-of-saudi-arabia"
   },
   {
-    "id": "arctempus",
-    "name": "Arctempus",
+    "id": "sesame-hr",
+    "name": "Sesame HR",
     "type": "private-company",
     "parentId": null,
     "country": "Spain"
   },
   {
-    "id": "gree-electric",
-    "name": "Gree Electric Appliances",
+    "id": "spotify-technology",
+    "name": "Spotify Technology S.A.",
     "type": "listed-company",
     "parentId": null,
-    "country": "China"
-  },
-  {
-    "id": "baghdadi-capital",
-    "name": "Baghdadi Capital",
-    "type": "private-company",
-    "parentId": null,
-    "country": "Spain"
-  },
-  {
-    "id": "fundacion-1890",
-    "name": "Fundacion 1890",
-    "type": "private-company",
-    "parentId": null,
-    "country": "Spain"
-  },
-  {
-    "id": "tm-real-estate-group",
-    "name": "TM Real Estate Group",
-    "type": "private-company",
-    "parentId": null,
-    "country": "Spain"
-  },
-  {
-    "id": "pamesa-ceramica",
-    "name": "Pamesa Ceramica",
-    "type": "private-company",
-    "parentId": null,
-    "country": "Spain"
-  },
-  {
-    "id": "circle-internet-group",
-    "name": "Circle Internet Group",
-    "type": "listed-company",
-    "parentId": null,
-    "country": "USA"
-  },
-  {
-    "id": "corendon-airlines",
-    "name": "Corendon Airlines",
-    "type": "private-company",
-    "parentId": null,
-    "country": "Turkey"
-  },
-  {
-    "id": "halo-service-management",
-    "name": "Halo Service Solutions",
-    "type": "private-company",
-    "parentId": null,
-    "country": "United Kingdom"
-  },
-  {
-    "id": "qualcomm",
-    "name": "Qualcomm",
-    "type": "listed-company",
-    "parentId": null,
-    "country": "USA"
-  },
-  {
-    "id": "aia-group",
-    "name": "AIA Group",
-    "type": "listed-company",
-    "parentId": null,
-    "country": "Hong Kong"
+    "country": "Sweden"
   },
   {
     "id": "standard-chartered-plc",
@@ -361,10 +396,80 @@
     "country": "United Kingdom"
   },
   {
-    "id": "kaizen-gaming",
-    "name": "Kaizen Gaming",
+    "id": "state-of-baden-wuerttemberg",
+    "name": "State of Baden-Württemberg, Sparkassenverband Baden-Württemberg and City of Stuttgart",
+    "type": "state",
+    "parentId": null,
+    "country": "DE"
+  },
+  {
+    "id": "tecnocasa-group",
+    "name": "Tecnocasa Group",
     "type": "private-company",
     "parentId": null,
-    "country": "Greece"
+    "country": "Italy"
+  },
+  {
+    "id": "temporal-technologies",
+    "name": "Temporal Technologies, Inc. (private, VC-backed)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
+    "id": "tm-real-estate-group",
+    "name": "TM Real Estate Group",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
+  },
+  {
+    "id": "turkiye-wealth-fund",
+    "name": "Türkiye Wealth Fund",
+    "type": "state-fund",
+    "country": "Türkiye",
+    "parentId": null
+  },
+  {
+    "id": "uae",
+    "name": "United Arab Emirates (federal)",
+    "type": "state",
+    "country": "UAE",
+    "parentId": null
+  },
+  {
+    "id": "uralchem",
+    "name": "Uralchem PJSC (controlled by Dmitry Mazepin and family)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "RU"
+  },
+  {
+    "id": "ursapharm",
+    "name": "URSAPHARM Arzneimittel",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Germany"
+  },
+  {
+    "id": "vodafone-group",
+    "name": "Vodafone Group",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "United Kingdom"
+  },
+  {
+    "id": "vodafone-group-plc",
+    "name": "Vodafone Group Plc — public shareholders (Niel family now largest holder)",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "GB"
+  },
+  {
+    "id": "wwk-versicherungen",
+    "name": "WWK Versicherungen",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Germany"
   }
 ]

@@ -136,7 +136,79 @@ for c in claims:
         if note:
             c["source"]["note"] = note
 claims += A.EXTRA_CLAIMS
+claims += [c for c in A.SEED_CLAIMS if c["id"] not in {x["id"] for x in claims}]
+for spn, cids in A.SEED_CLAIM_FIX.items():
+    if spn in sid and not sid[spn]["claimIds"]:
+        sid[spn]["claimIds"] = list(cids)
+
+# ---------------------------------------------------------------- researched ratings
+# Owner chain, evidence and tier for sponsors that were unrated. Nothing above
+# 'unrated' earns a tier without a claim, and every claim carries a source URL.
+import ratings_data as R  # noqa: E402
+
+claim_ids = {c["id"] for c in claims}
+owner_ids = {o["id"] for o in owners}
+rated = 0
+for r in R.RATINGS:
+    s = sid.get(r["sponsorId"])
+    if s is None:
+        print("ratings: NO SPONSOR", r["sponsorId"])
+        continue
+    o = r["owner"]
+    if o["id"] not in owner_ids:
+        owners.append(A._o(o["id"], o["name"], o["type"], o["country"]))
+        owner_ids.add(o["id"])
+    cid = o["id"] + "-record"
+    if cid not in claim_ids:
+        claims.append({
+            "id": cid,
+            "ownerIds": [o["id"]],
+            "text": r["claim"]["text"],
+            "short": r["claim"]["short"],
+            "source": dict(r["claim"]["source"]),
+            "reviewed": False,
+        })
+        claim_ids.add(cid)
+    s["ownerId"] = o["id"]
+    s["ownership"] = r["ownership"]
+    s["tier"] = r["tier"]
+    s["status"] = "rated"
+    s["verdict"] = r["verdict"]
+    ids = [cid]
+    for old in s.get("claimIds") or []:
+        if old not in ids and old in claim_ids:
+            ids.append(old)
+    s["claimIds"] = ids
+    if r.get("note"):
+        s["note"] = "Rating note: " + r["note"]
+    rated += 1
+print("ratings applied:", rated)
+
+for o in owners:
+    for k in ("country", "via"):
+        if o.get(k) is None:
+            o.pop(k, None)
+# the owners schema allows only five types; fold the research vocabulary into them
+OWNER_TYPES = {"state", "state-fund", "listed-company", "private-company", "unknown"}
+TYPE_MAP = {
+    "individual": "private-company",
+    "family": "private-company",
+    "private-equity": "private-company",
+    "non-profit": "private-company",
+    "government": "state",
+    "sovereign-wealth-fund": "state-fund",
+    "fund": "state-fund",
+}
+for o in owners:
+    if o.get("type") not in OWNER_TYPES:
+        o["type"] = TYPE_MAP.get(o.get("type"), "private-company")
+owners.sort(key=lambda o: o["id"])
+write("owners", owners)
+sponsors = list(sid.values())
+sponsors.sort(key=lambda s: s["id"])
+write("sponsors", sponsors)
 write("claims", claims)
+print("claims:", len(claims), "| rated sponsors:", sum(1 for s in sponsors if s["tier"] != "unrated"))
 
 # ------------------------------------------------------------------ kits
 kits = load("kits")

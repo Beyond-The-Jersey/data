@@ -683,3 +683,23 @@ ORPHAN_CHANGES = [
         },
     },
 ]
+
+# The seed rated American Express 'none' but left it with no claim, so it was the
+# one rated sponsor with nothing behind it. Give it the ownership check.
+SEED_CLAIMS = [
+    {
+        "id": "amex-listed-no-state",
+        "ownerIds": ["american-express-company"],
+        "text": "American Express Company is a NYSE-listed bank holding company; its "
+                "shareholder register is institutional and free float with no state or "
+                "state-fund holder.",
+        "short": "A listed US company with no state shareholder.",
+        "source": {
+            "name": "American Express investor relations, stock information",
+            "date": "2026",
+            "url": "https://ir.americanexpress.com/stock-information",
+        },
+        "reviewed": False,
+    },
+]
+SEED_CLAIM_FIX = {"american-express": ["amex-listed-no-state"]}
