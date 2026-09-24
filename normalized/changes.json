@@ -1,0 +1,226 @@
+[
+  {
+    "id": "Houston Rockets-red-bull-change",
+    "clubId": "Houston Rockets",
+    "kind": "being-rated",
+    "text": "Sponsor Red Bull being rated",
+    "badge": "+ Red Bull",
+    "source": "Wikipedia"
+  },
+  {
+    "id": "Athletic Club-sam-gillam-change",
+    "clubId": "Athletic Club",
+    "kind": "being-rated",
+    "text": "Sponsor Sam Gillam being rated",
+    "badge": "+ Sam Gillam",
+    "source": "Wikidata"
+  },
+  {
+    "id": "Athletic Club-donald-coles-change",
+    "clubId": "Athletic Club",
+    "kind": "being-rated",
+    "text": "Sponsor Donald Coles being rated",
+    "badge": "+ Donald Coles",
+    "source": "Wikidata"
+  },
+  {
+    "id": "Crystal Palace-krispy-kreme-change",
+    "clubId": "Crystal Palace",
+    "kind": "being-rated",
+    "text": "Sponsor Krispy Kreme being rated",
+    "badge": "+ Krispy Kreme",
+    "source": "Wikipedia"
+  },
+  {
+    "id": "Nottingham Forest-kashboy-change",
+    "clubId": "Nottingham Forest",
+    "kind": "being-rated",
+    "text": "Sponsor KashBoy being rated",
+    "badge": "+ KashBoy",
+    "source": "Wikipedia"
+  },
+  {
+    "id": "Chelsea-three-change",
+    "clubId": "Chelsea",
+    "kind": "being-rated",
+    "text": "Sponsor Three being rated",
+    "badge": "+ Three",
+    "source": "Wikipedia"
+  },
+  {
+    "id": "Dallas Cowboys-at&t-change",
+    "clubId": "Dallas Cowboys",
+    "kind": "being-rated",
+    "text": "Sponsor AT&T being rated",
+    "badge": "+ AT&T",
+    "source": "Wikipedia"
+  },
+  {
+    "id": "Bournemouth-msp-change",
+    "clubId": "Bournemouth",
+    "kind": "being-rated",
+    "text": "Sponsor MSP being rated",
+    "badge": "+ MSP",
+    "source": "Wikipedia"
+  },
+  {
+    "id": "Brentford-hollywoodbets-change",
+    "clubId": "Brentford",
+    "kind": "being-rated",
+    "text": "Sponsor Hollywoodbets being rated",
+    "badge": "+ Hollywoodbets",
+    "source": "Wikipedia"
+  },
+  {
+    "id": "Bayern Munich-t-mobile-change",
+    "clubId": "Bayern Munich",
+    "kind": "being-rated",
+    "text": "Sponsor T-Mobile being rated",
+    "badge": "+ T-Mobile",
+    "source": "Wikipedia"
+  },
+  {
+    "id": "FC Barcelona-spotify-change",
+    "clubId": "FC Barcelona",
+    "kind": "being-rated",
+    "text": "Sponsor Spotify being rated",
+    "badge": "+ Spotify",
+    "source": "Wikipedia"
+  },
+  {
+    "id": "Newcastle United-sela-change",
+    "clubId": "Newcastle United",
+    "kind": "being-rated",
+    "text": "Sponsor Sela being rated",
+    "badge": "+ Sela",
+    "source": "Wikipedia"
+  },
+  {
+    "id": "New York Yankees-new-york-yankees-change",
+    "clubId": "New York Yankees",
+    "kind": "being-rated",
+    "text": "Sponsor New York Yankees being rated",
+    "badge": "+ New York Yankees",
+    "source": "Wikipedia"
+  },
+  {
+    "id": "RB Leipzig-red-bull-change",
+    "clubId": "RB Leipzig",
+    "kind": "being-rated",
+    "text": "Sponsor Red Bull being rated",
+    "badge": "+ Red Bull",
+    "source": "Wikipedia"
+  },
+  {
+    "id": "Boston Red Sox-jetblue-change",
+    "clubId": "Boston Red Sox",
+    "kind": "being-rated",
+    "text": "Sponsor JetBlue being rated",
+    "badge": "+ JetBlue",
+    "source": "Wikipedia"
+  },
+  {
+    "id": "Golden State Warriors-rakuten-change",
+    "clubId": "Golden State Warriors",
+    "kind": "being-rated",
+    "text": "Sponsor Rakuten being rated",
+    "badge": "+ Rakuten",
+    "source": "Wikipedia"
+  },
+  {
+    "id": "Borussia Dortmund-|-source\\n-change",
+    "clubId": "Borussia Dortmund",
+    "kind": "being-rated",
+    "text": "Sponsor | Source\\n being rated",
+    "badge": "+ | Source\\n",
+    "source": "https://en.wikipedia.org/wiki/Borussia_Dortmund"
+  },
+  {
+    "id": "Borussia Dortmund-evonik-change",
+    "clubId": "Borussia Dortmund",
+    "kind": "being-rated",
+    "text": "Sponsor Evonik being rated",
+    "badge": "+ Evonik",
+    "source": "Wikipedia"
+  },
+  {
+    "id": "Everton-stake.com-change",
+    "clubId": "Everton",
+    "kind": "being-rated",
+    "text": "Sponsor Stake.com being rated",
+    "badge": "+ Stake.com",
+    "source": "Wikipedia"
+  },
+  {
+    "id": "New England Patriots-gillette-change",
+    "clubId": "New England Patriots",
+    "kind": "being-rated",
+    "text": "Sponsor Gillette being rated",
+    "badge": "+ Gillette",
+    "source": "Wikipedia"
+  },
+  {
+    "id": "Fulham-w88-change",
+    "clubId": "Fulham",
+    "kind": "being-rated",
+    "text": "Sponsor W88 being rated",
+    "badge": "+ W88",
+    "source": "Wikipedia"
+  },
+  {
+    "id": "Brighton and Hove Albion-sam-gillam-change",
+    "clubId": "Brighton and Hove Albion",
+    "kind": "being-rated",
+    "text": "Sponsor Sam Gillam being rated",
+    "badge": "+ Sam Gillam",
+    "source": "Wikidata"
+  },
+  {
+    "id": "Brighton and Hove Albion-donald-coles-change",
+    "clubId": "Brighton and Hove Albion",
+    "kind": "being-rated",
+    "text": "Sponsor Donald Coles being rated",
+    "badge": "+ Donald Coles",
+    "source": "Wikidata"
+  },
+  {
+    "id": "Brighton and Hove Albion-american-express-change",
+    "clubId": "Brighton and Hove Albion",
+    "kind": "being-rated",
+    "text": "Sponsor American Express being rated",
+    "badge": "+ American Express",
+    "source": "Wikipedia"
+  },
+  {
+    "id": "Sevilla FC-himalaya-change",
+    "clubId": "Sevilla FC",
+    "kind": "being-rated",
+    "text": "Sponsor Himalaya being rated",
+    "badge": "+ Himalaya",
+    "source": "Wikipedia"
+  },
+  {
+    "id": "Arsenal-emirates-change",
+    "clubId": "Arsenal",
+    "kind": "being-rated",
+    "text": "Sponsor Emirates being rated",
+    "badge": "+ Emirates",
+    "source": "Wikipedia"
+  },
+  {
+    "id": "Leeds United-bk8-change",
+    "clubId": "Leeds United",
+    "kind": "being-rated",
+    "text": "Sponsor BK8 being rated",
+    "badge": "+ BK8",
+    "source": "Wikipedia"
+  },
+  {
+    "id": "Real Madrid-emirates-change",
+    "clubId": "Real Madrid",
+    "kind": "being-rated",
+    "text": "Sponsor Emirates being rated",
+    "badge": "+ Emirates",
+    "source": "Wikipedia"
+  }
+]

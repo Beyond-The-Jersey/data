@@ -1,0 +1,613 @@
+[
+  {
+    "id": "government-of-rwanda",
+    "name": "Government of Rwanda",
+    "type": "state",
+    "country": "Rwanda",
+    "via": "Rwanda Development Board",
+    "parentId": null
+  },
+  {
+    "id": "uae",
+    "name": "United Arab Emirates (federal)",
+    "type": "state",
+    "country": "UAE",
+    "parentId": null
+  },
+  {
+    "id": "government-of-dubai",
+    "name": "Government of Dubai",
+    "type": "state",
+    "country": "UAE",
+    "via": "Investment Corporation of Dubai",
+    "parentId": "uae"
+  },
+  {
+    "id": "government-of-abu-dhabi",
+    "name": "Government of Abu Dhabi",
+    "type": "state",
+    "country": "UAE",
+    "parentId": "uae"
+  },
+  {
+    "id": "saudi-pif",
+    "name": "Public Investment Fund (Saudi Arabia)",
+    "type": "state-fund",
+    "country": "Saudi Arabia",
+    "note": "Chaired by Crown Prince Mohammed bin Salman",
+    "parentId": "government-of-saudi-arabia"
+  },
+  {
+    "id": "government-of-saudi-arabia",
+    "name": "Government of Saudi Arabia",
+    "type": "state",
+    "country": "Saudi Arabia",
+    "parentId": null
+  },
+  {
+    "id": "turkiye-wealth-fund",
+    "name": "T\u00fcrkiye Wealth Fund",
+    "type": "state-fund",
+    "country": "T\u00fcrkiye",
+    "parentId": null
+  },
+  {
+    "id": "american-express-company",
+    "name": "American Express Company",
+    "type": "listed-company",
+    "country": "USA",
+    "parentId": null
+  },
+  {
+    "id": "city-football-group-limited",
+    "name": "City Football Group Limited",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "sheikh-abdullah-al-thani",
+    "name": "Sheikh Abdullah Al Thani",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "roland-duch\u00e2telet",
+    "name": "Roland Duch\u00e2telet",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "josh-harris",
+    "name": "Josh Harris",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "carlie-irsay-gordon",
+    "name": "Carlie Irsay-Gordon",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "abanca-corporaci\u00f3n-bancaria-(99%)",
+    "name": "Abanca Corporaci\u00f3n Bancaria (99%)",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "evangelos-marinakis",
+    "name": "Evangelos Marinakis",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "blueco",
+    "name": "BlueCo",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "george-mccaskey",
+    "name": "George McCaskey",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "jerry-jones",
+    "name": "Jerry Jones",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "adams-family",
+    "name": "Adams family",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "stan-kroenke",
+    "name": "Stan Kroenke",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "black-knight-football-club-uk-limited",
+    "name": "Black Knight Football Club UK Limited",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "baskonia-alav\u00e9s-group",
+    "name": "Baskonia-Alav\u00e9s Group",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "fernando-roig",
+    "name": "Fernando Roig",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "matthew-benham",
+    "name": "Matthew Benham",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "peter-lim",
+    "name": "Peter Lim",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "dermot-desmond",
+    "name": "Dermot Desmond",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "jed-york-(controlling)",
+    "name": "Jed York (Controlling)",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "arthur-blank",
+    "name": "Arthur Blank",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "ineos",
+    "name": "Ineos",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "carl-lindner-iii",
+    "name": "Carl Lindner III",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "mike-brown",
+    "name": "Mike Brown",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "red-bull-gmbh-(99%)-(of-gmbh)",
+    "name": "Red Bull GmbH (99%) (of GmbH)",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "rob-walton",
+    "name": "Rob Walton",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "bennett-rosenthal",
+    "name": "Bennett Rosenthal",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "ellis-short",
+    "name": "Ellis Short",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "gamechanger-20-ltd",
+    "name": "Gamechanger 20 Ltd",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "zygi-wilf",
+    "name": "Zygi Wilf",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "reinhard-rauball",
+    "name": "Reinhard Rauball",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "gayle-benson",
+    "name": "Gayle Benson",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "perkins-observatory",
+    "name": "Perkins Observatory",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "roundhouse-capital-holdings-limited",
+    "name": "Roundhouse Capital Holdings Limited",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "christian-bragarnik",
+    "name": "Christian Bragarnik",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "stephen-ross",
+    "name": "Stephen Ross",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "bayer-ag",
+    "name": "Bayer AG",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "clemens-t\u00f6nnies",
+    "name": "Clemens T\u00f6nnies",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "shahid-khan",
+    "name": "Shahid Khan",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "tony-bloom",
+    "name": "Tony Bloom",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "klaus-hofmann",
+    "name": "Klaus Hofmann",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "jeffrey-lurie",
+    "name": "Jeffrey Lurie",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "hubertus-hess-grunewald",
+    "name": "Hubertus Hess-Grunewald",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "nassef-sawiris",
+    "name": "Nassef Sawiris",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "hunt-family",
+    "name": "Hunt family",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "sevillistas-de-nervi\u00f3n-s-a",
+    "name": "Sevillistas de Nervi\u00f3n S. A",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "kroenke-sports-&-entertainment",
+    "name": "Kroenke Sports & Entertainment",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "david-tepper",
+    "name": "David Tepper",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "dean-spanos",
+    "name": "Dean Spanos",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "doug-king",
+    "name": "Doug King",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "maple-leaf-sports-&-entertainment",
+    "name": "Maple Leaf Sports & Entertainment",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "fenway-sports-group",
+    "name": "Fenway Sports Group",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "enic-international-ltd-(8658%)",
+    "name": "ENIC International Ltd. (86.58%)",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "michael-bidwill",
+    "name": "Michael Bidwill",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "\u00e1ngel-torres",
+    "name": "\u00c1ngel Torres",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "acun-medya",
+    "name": "Acun Medya",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "rooney-family",
+    "name": "Rooney family",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "dietmar-hopp-(96%)",
+    "name": "Dietmar Hopp (96%)",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "49ers-enterprises",
+    "name": "49ers Enterprises",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "mark-robertson",
+    "name": "Mark Robertson",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "real-sociedad",
+    "name": "Real Sociedad",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "mark-davis",
+    "name": "Mark Davis",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "mikhail-litvin",
+    "name": "Mikhail Litvin",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "green-bay-packers,-inc",
+    "name": "Green Bay Packers, Inc",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "steve-bisciotti",
+    "name": "Steve Bisciotti",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "sheila-ford-hamp",
+    "name": "Sheila Ford Hamp",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "neeru-khosla",
+    "name": "Neeru Khosla",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "cal-mcnair",
+    "name": "Cal McNair",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "glazer-family",
+    "name": "Glazer family",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  },
+  {
+    "id": "ra\u00fal-mart\u00edn-presa",
+    "name": "Ra\u00fal Mart\u00edn Presa",
+    "type": "unknown",
+    "country": null,
+    "note": null,
+    "parentId": null
+  }
+]

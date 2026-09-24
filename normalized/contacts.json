@@ -1,0 +1,3902 @@
+[
+  {
+    "clubId": "Houston Rockets",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@rockets.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.rockets.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.rockets.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Cleveland Cavaliers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@cavs.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.cavs.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.cavs.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Cleveland Guardians",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@guardians.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/guardians",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/guardians",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "New York Giants",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@giants.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.giants.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.giants.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Manchester City",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@mancity.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mancity.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mancity.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Arizona Diamondbacks",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@dbacks.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/dbacks",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/dbacks",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Athletics",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@athletics.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/athletics",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/athletics",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "M\u00e1laga CF",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@malagacf.es",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.malagacf.es",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.malagacf.es",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Seattle Mariners",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@mariners.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/mariners",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/mariners",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Athletic Club",
+    "channels": [
+      {
+        "type": "email",
+        "value": "harrera@athletic-club.eus",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.athletic-club.eus",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.athletic-club.eus",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Miami Heat",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@heat.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.heat.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.heat.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Crystal Palace",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@crystalpalacefc.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.crystalpalacefc.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.crystalpalacefc.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "New York Jets",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@newyorkjets.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.newyorkjets.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.newyorkjets.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "New Orleans Pelicans",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@pelicans.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.nolapelicans.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.nolapelicans.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Chicago Bulls",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@chicagobulls.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.chicagobulls.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.chicagobulls.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Dallas Mavericks",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@mavs.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mavs.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mavs.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Cleveland Browns",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@browns.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.clevelandbrowns.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.clevelandbrowns.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Celta",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@celtavigo.net",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.celtavigo.net",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.celtavigo.net",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Indianapolis Colts",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@colts.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.colts.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.colts.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "RC Deportivo",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@deportivo.es",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.deportivo.es",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.deportivo.es",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Nottingham Forest",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@nottinghamforest.co.uk",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.nottinghamforest.co.uk",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.nottinghamforest.co.uk",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Chelsea",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@chelseafc.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.chelseafc.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.chelseafc.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Houston Astros",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@astros.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/astros",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/astros",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Chicago Bears",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@chicagobears.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.chicagobears.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.chicagobears.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Phoenix Suns",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@suns.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.suns.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.suns.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "St. Louis Cardinals",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@st-louis-cardinals.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.st-louis-cardinals.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.st-louis-cardinals.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Memphis Grizzlies",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@grizz.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.grizz.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.grizz.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "SV Elversberg",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@sv-elversberg.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.sv-elversberg.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.sv-elversberg.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Kansas City Royals",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@royals.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/royals",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/royals",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Dallas Cowboys",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@dallascowboys.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.dallascowboys.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.dallascowboys.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Oklahoma City Thunder",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@okcthunder.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.okcthunder.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.okcthunder.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Baltimore Orioles",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@orioles.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/orioles",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/orioles",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Philadelphia 76ers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@sixers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.sixers.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.sixers.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "LA Clippers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@la-clippers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.la-clippers.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.la-clippers.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Tennessee Titans",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@titans.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.titans.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.titans.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Los Angeles Rams",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@therams.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.therams.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.therams.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Bournemouth",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@afcb.co.uk",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.afcb.co.uk",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.afcb.co.uk",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Deportivo Alav\u00e9s",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@deportivo-alav\u00e9s.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.deportivo-alav\u00e9s.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.deportivo-alav\u00e9s.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Sacramento Kings",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@kings.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.nba.com/kings",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.nba.com/kings",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Villarreal CF",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@villarrealcf.es",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.villarrealcf.es",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.villarrealcf.es",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Brentford",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@brentfordfc.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.brentfordfc.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.brentfordfc.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Valencia CF",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@valenciacf.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.valenciacf.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.valenciacf.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Milwaukee Brewers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@brewers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/brewers",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/brewers",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Miami Marlins",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@marlins.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/marlins",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/marlins",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Los Angeles Angels",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@angels.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/angels",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/angels",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Sport-Club Freiburg",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@sport-club-freiburg.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.sport-club-freiburg.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.sport-club-freiburg.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Boston Celtics",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@celtics.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.celtics.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.celtics.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Chicago White Sox",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@whitesox.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/whitesox",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/whitesox",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "San Francisco 49ers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@49ers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.49ers.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.49ers.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Bayern Munich",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@fcbayern.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.fcbayern.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.fcbayern.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Milwaukee Bucks",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@bucks.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.bucks.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.bucks.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "FC Barcelona",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@fcbarcelona.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.fcbarcelona.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.fcbarcelona.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Buffalo Bills",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@buffalobills.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.buffalobills.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.buffalobills.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Newcastle United",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@nufc.co.uk",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.nufc.co.uk",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.nufc.co.uk",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Detroit Pistons",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@detroit-pistons.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.detroit-pistons.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.detroit-pistons.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Detroit Tigers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@tigers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/tigers",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/tigers",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Atlanta Falcons",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@atlantafalcons.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.atlantafalcons.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.atlantafalcons.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Manchester United",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@manutd.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.manutd.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.manutd.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Atl\u00e9tico de Madrid",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@atl\u00e9tico-de-madrid.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.atl\u00e9tico-de-madrid.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.atl\u00e9tico-de-madrid.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Indiana Pacers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@pacers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.pacers.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.pacers.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Orlando Magic",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@orlandomagic.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.orlandomagic.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.orlandomagic.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Levante UD",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@levanteud.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.levanteud.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.levanteud.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Denver Nuggets",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@nuggets.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.nuggets.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.nuggets.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Utah Jazz",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@utahjazz.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.nba.com/jazz",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.nba.com/jazz",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Eintracht Frankfurt",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@eintracht.de",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.eintracht.de",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.eintracht.de",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "1. FC Union Berlin",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@1-fc-union-berlin.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.1-fc-union-berlin.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.1-fc-union-berlin.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "San Diego Padres",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@padres.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/padres",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/padres",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Cincinnati Reds",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@reds.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/reds",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/reds",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Cincinnati Bengals",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@bengals.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.bengals.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.bengals.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "New York Yankees",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@yankees.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/yankees",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/yankees",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "RB Leipzig",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@dierotenbullen.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.dierotenbullen.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.dierotenbullen.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Denver Broncos",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@denverbroncos.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.denverbroncos.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.denverbroncos.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Boston Red Sox",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@redsox.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/redsox",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/redsox",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Los Angeles Lakers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@lakers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.lakers.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.lakers.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Golden State Warriors",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@warriors.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.warriors.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.warriors.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Sunderland",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@sunderlandafc.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.sunderlandafc.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.sunderlandafc.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Ipswich Town",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@itfc.co.uk",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.itfc.co.uk",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.itfc.co.uk",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Minnesota Vikings",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@vikings.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.vikings.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.vikings.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Borussia Dortmund",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@bvb.de",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.bvb.de",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.bvb.de",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Pittsburgh Pirates",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@pirates.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/pirates",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/pirates",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "New Orleans Saints",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@saints.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.neworleanssaints.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.neworleanssaints.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Portland Trail Blazers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@trailblazers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.trailblazers.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.trailblazers.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Minnesota Timberwolves",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@timberwolves.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.timberwolves.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.timberwolves.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Everton",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@evertonfc.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.evertonfc.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.evertonfc.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Elche CF",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@elchecf.es",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.elchecf.es",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.elchecf.es",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Miami Dolphins",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@dolphins.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.miamidolphins.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.miamidolphins.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Bayer Leverkusen",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@bayer04.de",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.bayer04.de",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.bayer04.de",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "New York Mets",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@mets.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/mets",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/mets",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "FC Schalke 04",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@fc-schalke-04.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.fc-schalke-04.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.fc-schalke-04.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Chicago Cubs",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@cubs.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/cubs",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/cubs",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "New England Patriots",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@patriots.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.patriots.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.patriots.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "1. FSV Mainz 05",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@1-fsv-mainz-05.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.1-fsv-mainz-05.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.1-fsv-mainz-05.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Hamburger SV",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@hamburger-sv.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.hamburger-sv.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.hamburger-sv.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Fulham",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@fulhamfc.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.fulhamfc.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.fulhamfc.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Brighton and Hove Albion",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@brighton-hove-albion.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.brighton-hove-albion.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.brighton-hove-albion.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Minnesota Twins",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@twins.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/twins",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/twins",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "FC Augsburg",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@fcaugsburg.de",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.fcaugsburg.de",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.fcaugsburg.de",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Philadelphia Eagles",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@philadelphiaeagles.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.philadelphiaeagles.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.philadelphiaeagles.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Washington Commanders",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@commanders.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.commanders.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.commanders.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "SV Werder Bremen",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@sv-werder-bremen.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.sv-werder-bremen.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.sv-werder-bremen.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Aston Villa",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@avfc.co.uk",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.avfc.co.uk",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.avfc.co.uk",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Kansas City Chiefs",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@chiefs.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.chiefs.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.chiefs.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Sevilla FC",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@sevillafc.es",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.sevillafc.es",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.sevillafc.es",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Arsenal",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@arsenal.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.arsenal.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.arsenal.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Charlotte Hornets",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@hornets.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.hornets.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.hornets.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Washington Nationals",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@nationals.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/nationals",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/nationals",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "RCD Espanyol de Barcelona",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@rcdespanyol.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.rcdespanyol.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.rcdespanyol.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Los Angeles Chargers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@chargers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.chargers.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.chargers.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "SC Paderborn 07",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@sc-paderborn-07.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.sc-paderborn-07.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.sc-paderborn-07.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Coventry City",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@coventry-city.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.coventry-city.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.coventry-city.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "1. FC K\u00f6ln",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@1-fc-k\u00f6ln.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.1-fc-k\u00f6ln.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.1-fc-k\u00f6ln.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "New York Knicks",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@new-york-knicks.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.new-york-knicks.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.new-york-knicks.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Colorado Rockies",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@rockies.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/rockies",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/rockies",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Toronto Blue Jays",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@bluejays.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/bluejays",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/bluejays",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Liverpool",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@liverpoolfc.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.liverpoolfc.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.liverpoolfc.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "R. Racing Club",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@r-racing-club.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.r-racing-club.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.r-racing-club.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Atlanta Hawks",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@atlantahawks.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.atlantahawks.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.atlantahawks.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Tottenham Hotspur",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@tottenhamhotspur.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.tottenhamhotspur.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.tottenhamhotspur.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Arizona Cardinals",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@azcardinals.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.azcardinals.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.azcardinals.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Getafe CF",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@getafecf.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.getafecf.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.getafecf.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Hull City",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@hullcitytigers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.hullcitytigers.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.hullcitytigers.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Jacksonville Jaguars",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@jaguars.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.jaguars.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.jaguars.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Pittsburgh Steelers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@steelers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.steelers.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.steelers.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "TSG Hoffenheim",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@tsg-hoffenheim.de",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.tsg-hoffenheim.de",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.tsg-hoffenheim.de",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Leeds United",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@leedsunited.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.leedsunited.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.leedsunited.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Borussia M\u00f6nchengladbach",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@borussia-m\u00f6nchengladbach.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.borussia-m\u00f6nchengladbach.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.borussia-m\u00f6nchengladbach.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Carolina Panthers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@panthers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.panthers.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.panthers.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "San Francisco Giants",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@giants.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/giants",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/giants",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Texas Rangers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@texasrangers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/rangers",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/rangers",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Real Sociedad",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@realsociedad.eus",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.realsociedad.eus",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.realsociedad.eus",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Los Angeles Dodgers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "marketing@los-angeles-dodgers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.los-angeles-dodgers.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.los-angeles-dodgers.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Atlanta Braves",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@braves.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/braves",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/braves",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Las Vegas Raiders",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@raiders.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.raiders.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.raiders.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Washington Wizards",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@wizards.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.wizards.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.wizards.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Real Betis",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@realbetisbalompie.es",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.realbetisbalompie.es",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.realbetisbalompie.es",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Brooklyn Nets",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@brooklynnets.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.brooklynnets.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.brooklynnets.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Green Bay Packers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@packers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.packers.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.packers.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "San Antonio Spurs",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@spurs.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.spurs.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.spurs.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Philadelphia Phillies",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@phillies.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/phillies",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/phillies",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "CA Osasuna",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@osasuna.es",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.caosasuna.es",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.caosasuna.es",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Toronto Raptors",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@raptors.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.raptors.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.raptors.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Baltimore Ravens",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@baltimoreravens.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.baltimoreravens.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.baltimoreravens.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Detroit Lions",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@detroitlions.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.detroitlions.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.detroitlions.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Real Madrid",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@realmadrid.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.realmadrid.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.realmadrid.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Seattle Seahawks",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@seahawks.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.seahawks.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.seahawks.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Houston Texans",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@houstontexans.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.houstontexans.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.houstontexans.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Tampa Bay Buccaneers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@buccaneers.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.buccaneers.com",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.buccaneers.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "VfB Stuttgart",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@vfb.de",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.vfb.de",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.vfb.de",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Rayo Vallecano",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@rayovallecano.es",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.rayovallecano.es",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.rayovallecano.es",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "Tampa Bay Rays",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@rays.com",
+        "label": "Club email",
+        "source": {
+          "name": "Club website",
+          "url": null,
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/rays",
+        "label": "Club website",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mlb.com/rays",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  }
+]
