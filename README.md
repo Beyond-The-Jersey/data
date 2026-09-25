@@ -14,6 +14,25 @@ while `validate.py` does not print `OK`.
   is genuinely null (an undisclosed deal value, a kit with no change)
 * currencies are `GBP` / `EUR` / `USD`
 
+## Rating rule
+
+The tiers are defined in `tiers.json` (the website's `data/schema` and seed):
+
+| Tier | Needs |
+|---|---|
+| `severe` | Paid for by a state directly tied to ongoing severe abuses (armed conflict, conflict minerals), with a sourced claim of those abuses. |
+| `serious` | Owned by a state or state fund **with documented serious abuses**: a sourced claim of those abuses by a state in the sponsor's owner chain. |
+| `concern` | A lesser link, e.g. a minority stake held by a state or state fund with a poor record. |
+| `none` | Sponsor and owner checked, with a sourced ownership claim; no link to serious abuses. |
+| `unrated` | Not checked yet, or on hold. |
+
+- **State ownership alone is not a tier.** A public owner in a state with no sourced record of serious abuses (a US state university, a county tourism board, an Italian region, Swiss cantons) is not `serious`. Until a person reviews it, it is held at `unrated` in `encode_ratings.HOLD`: the owner and the evidence stay, and the builder marks the sponsor `being-rated`, so the website shows what we know with "Not rated yet".
+- **Every `serious` or `severe` sponsor has a `why`** (`why_texts.json`, or the seed's) that cites the abuse claim. `build_normalized.py` lists any that don't under "rating rule:".
+- **Claim texts state what their source says.** The reasoning behind a tier ("State ownership alone earns serious", "Human-rights relevance is remote") goes in the rating's `note`, not in the claim.
+- **A claim must be about the sponsor it's cited for** (not another company that shares the owner), and its owner must be in that sponsor's chain.
+
+After editing `encode_ratings.HOLD` or `CLAIM_TEXT_FIX`, run `python3 encode_ratings.py --reapply` and rebuild.
+
 ## Checking
 
     python3 validate.py normalized/ --assets <website>/public

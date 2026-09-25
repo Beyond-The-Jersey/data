@@ -238,7 +238,9 @@ for r in R.RATINGS + RES["ratings"]:
     s["ownerId"] = o["id"]
     s["ownership"] = r["ownership"]
     s["tier"] = r["tier"]
-    s["status"] = "rated" if r["tier"] != "unrated" else "unrated"
+    # a rating held under the rule (encode_ratings.HOLD) keeps its owner and evidence: the
+    # sponsor is being rated, not unknown
+    s["status"] = "rated" if r["tier"] != "unrated" else ("being-rated" if r.get("hold") else "unrated")
     s["verdict"] = r["verdict"]
     ids = [cid]
     for old in s.get("claimIds") or []:
@@ -377,6 +379,31 @@ for o in owners:
         o["type"] = TYPE_MAP.get(o.get("type"), "private-company")
 owners.sort(key=lambda o: o["id"])
 write("owners", owners)
+# ------------------------------------------------------------------ why texts
+# "Why is that a problem?" for sponsors rated serious or severe (website team page, v3).
+# Written only from the claims they cite; a why already on the sponsor (the seed's) wins.
+_why = json.load(open(os.path.join(HERE, "why_texts.json"), encoding="utf-8"))
+for _id, _w in _why.items():
+    if _id.startswith("_"):
+        continue
+    _s = sid.get(_id)
+    if _s is None:
+        print("why: NO SPONSOR", _id)
+        continue
+    if not _s.get("why"):
+        _s["why"] = _w["why"]
+    if _w.get("ownerVerb") and not _s.get("ownerVerb"):
+        _s["ownerVerb"] = _w["ownerVerb"]
+
+# ------------------------------------------------------------------ rating rule
+# serious and severe need a sourced claim of abuses by a state in the owner chain, and the
+# why text is where that claim is cited (README "Rating rule"). State ownership alone is
+# not a tier. Anything rated serious or severe without one needs a person: fix the
+# evidence or hold the rating in encode_ratings.HOLD.
+_unsupported = sorted(x["id"] for x in sid.values() if x["tier"] in ("serious", "severe") and not x.get("why"))
+if _unsupported:
+    print("rating rule: serious/severe without a why text citing an abuse claim:", ", ".join(_unsupported))
+
 sponsors = list(sid.values())
 sponsors.sort(key=lambda s: s["id"])
 write("sponsors", sponsors)
