@@ -1042,7 +1042,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/athletic-club/2026-27-home-front.jpg",
+      "back": "assets/shirts/athletic-club/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/athletic-club-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "kutxabank",
@@ -1076,7 +1080,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/osasuna/2026-27-home-front.jpg",
+      "back": "assets/shirts/osasuna/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/osasuna-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "kosner",
@@ -1120,7 +1128,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/celta-vigo/2026-27-home-front.jpg",
+      "back": "assets/shirts/celta-vigo/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/celta-vigo-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "estrella-galicia",
@@ -1163,7 +1175,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/deportivo-alaves/2026-27-home-front.jpg",
+      "back": "assets/shirts/deportivo-alaves/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/deportivo-alaves-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "mk-tiyu-news",
@@ -1215,7 +1231,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/elche/2026-27-home-front.jpg",
+      "back": "assets/shirts/elche/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/elche-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "flexicar",
@@ -1248,7 +1268,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/barcelona/2026-27-home-front.jpg",
+      "back": "assets/shirts/barcelona/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/barcelona-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "spotify",
@@ -1291,7 +1315,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/getafe/2026-27-home-front.jpg",
+      "back": "assets/shirts/getafe/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/getafe-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "tecnocasa-group",
@@ -1334,7 +1362,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/levante/2026-27-home-front.jpg",
+      "back": "assets/shirts/levante/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/levante-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "sesame-hr",
@@ -1377,7 +1409,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/malaga/2026-27-home-front.jpg",
+      "back": "assets/shirts/malaga/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/malaga-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "sabor-a-malaga",
@@ -1430,7 +1466,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/racing-santander/2026-27-home-front.jpg",
+      "back": "assets/shirts/racing-santander/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/racing-santander-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "plenitude",
@@ -1473,7 +1513,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/rayo-vallecano/2026-27-home-front.jpg",
+      "back": "assets/shirts/rayo-vallecano/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/rayo-vallecano-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "digi",
@@ -1506,7 +1550,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/deportivo-la-coruna/2026-27-home-front.jpg",
+      "back": "assets/shirts/deportivo-la-coruna/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/deportivo-la-coruna-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "estrella-galicia",
@@ -1540,7 +1588,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/espanyol/2026-27-home-front.jpg",
+      "back": "assets/shirts/espanyol/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/espanyol-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "arctempus",
@@ -1564,7 +1616,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/real-betis/2026-27-home-front.jpg",
+      "back": "assets/shirts/real-betis/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/real-betis-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "gree",
@@ -1607,7 +1663,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/real-sociedad/2026-27-home-front.jpg",
+      "back": "assets/shirts/real-sociedad/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/real-sociedad-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "baghdadi-capital",
@@ -1641,7 +1701,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/sevilla/2026-27-home-front.jpg",
+      "back": "assets/shirts/sevilla/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/sevilla-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "fundacion-1890",
@@ -1665,7 +1729,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/valencia/2026-27-home-front.jpg",
+      "back": "assets/shirts/valencia/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/valencia-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "tm-real-estate-group",
@@ -1698,7 +1766,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/villarreal/2026-27-home-front.jpg",
+      "back": "assets/shirts/villarreal/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/villarreal-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "pamesa-ceramica",
@@ -1741,7 +1813,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/fc-augsburg/2026-27-home-front.jpg",
+      "back": "assets/shirts/fc-augsburg/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/fc-augsburg-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "wwk",
@@ -1775,7 +1851,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/union-berlin/2026-27-home-front.jpg",
+      "back": "assets/shirts/union-berlin/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/union-berlin-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "raisin",
@@ -1809,7 +1889,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/werder-bremen/2026-27-home-front.jpg",
+      "back": "assets/shirts/werder-bremen/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/werder-bremen-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "matthaei",
@@ -1843,7 +1927,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/borussia-dortmund/2026-27-home-front.jpg",
+      "back": "assets/shirts/borussia-dortmund/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/borussia-dortmund-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "vodafone",
@@ -1877,7 +1965,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/sv-elversberg/2026-27-home-front.jpg",
+      "back": "assets/shirts/sv-elversberg/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/sv-elversberg-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "reuter",
@@ -1911,7 +2003,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/eintracht-frankfurt/2026-27-home-front.jpg",
+      "back": "assets/shirts/eintracht-frankfurt/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/eintracht-frankfurt-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "indeed",
@@ -1945,7 +2041,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/sc-freiburg/2026-27-home-front.jpg",
+      "back": "assets/shirts/sc-freiburg/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/sc-freiburg-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "lexware",
@@ -1969,7 +2069,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/hamburger-sv/2026-27-home-front.jpg",
+      "back": "assets/shirts/hamburger-sv/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/hamburger-sv-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "hansemerkur",
@@ -2003,7 +2107,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/tsg-hoffenheim/2026-27-home-front.jpg",
+      "back": "assets/shirts/tsg-hoffenheim/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/tsg-hoffenheim-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "sap",
@@ -2037,7 +2145,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/fc-koln/2026-27-home-front.jpg",
+      "back": "assets/shirts/fc-koln/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/fc-koln-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "rewe",
@@ -2071,7 +2183,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/rb-leipzig/2026-27-home-front.jpg",
+      "back": "assets/shirts/rb-leipzig/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/rb-leipzig-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "red-bull",
@@ -2105,7 +2221,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/bayer-leverkusen/2026-27-home-front.jpg",
+      "back": "assets/shirts/bayer-leverkusen/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/bayer-leverkusen-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "barmenia",
@@ -2139,7 +2259,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/mainz-05/2026-27-home-front.jpg",
+      "back": "assets/shirts/mainz-05/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/mainz-05-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "koemmerling",
@@ -2173,7 +2297,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/borussia-monchengladbach/2026-27-home-front.jpg",
+      "back": "assets/shirts/borussia-monchengladbach/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/borussia-monchengladbach-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "hylo",
@@ -2217,7 +2345,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/sc-paderborn-07/2026-27-home-front.jpg",
+      "back": "assets/shirts/sc-paderborn-07/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/sc-paderborn-07-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "c-hedenkamp",
@@ -2241,7 +2373,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/vfb-stuttgart/2026-27-home-front.jpg",
+      "back": "assets/shirts/vfb-stuttgart/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/vfb-stuttgart-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "lbbw",
@@ -2275,7 +2411,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/bayern-munich/2026-27-home-front.jpg",
+      "back": "assets/shirts/bayern-munich/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/bayern-munich-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "deutsche-telekom",
@@ -2309,7 +2449,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/schalke-04/2026-27-home-front.jpg",
+      "back": "assets/shirts/schalke-04/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/schalke-04-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "beumer-group",
@@ -2333,7 +2477,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/atalanta/2026-27-home-front.jpg",
+      "back": "assets/shirts/atalanta/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/atalanta-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "lete",
@@ -2357,7 +2505,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/bologna/2026-27-home-front.jpg",
+      "back": "assets/shirts/bologna/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/bologna-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "saputo",
@@ -2381,7 +2533,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/cagliari/2026-27-home-front.jpg",
+      "back": "assets/shirts/cagliari/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/cagliari-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "sardegna-turismo",
@@ -2405,7 +2561,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/como/2026-27-home-front.jpg",
+      "back": "assets/shirts/como/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/como-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "revolut",
@@ -2429,7 +2589,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/fiorentina/2026-27-home-front.jpg",
+      "back": "assets/shirts/fiorentina/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/fiorentina-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "mediacom",
@@ -2477,7 +2641,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/genoa/2026-27-home-front.jpg",
+      "back": "assets/shirts/genoa/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/genoa-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "pulsee-luce-e-gas",
@@ -2501,7 +2669,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/inter-milan/2026-27-home-front.jpg",
+      "back": "assets/shirts/inter-milan/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/inter-milan-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "betsson-sport",
@@ -2525,7 +2697,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/juventus/2026-27-home-front.jpg",
+      "back": "assets/shirts/juventus/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/juventus-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "jeep",
@@ -2549,7 +2725,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/lecce/2026-27-home-front.jpg",
+      "back": "assets/shirts/lecce/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/lecce-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "deghi",
@@ -2573,7 +2753,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/ac-milan/2026-27-home-front.jpg",
+      "back": "assets/shirts/ac-milan/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/ac-milan-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "emirates",
@@ -2597,7 +2781,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/monza/2026-27-home-front.jpg",
+      "back": "assets/shirts/monza/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/monza-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "dazn-bet-club",
@@ -2621,7 +2809,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/napoli/2026-27-home-front.jpg",
+      "back": "assets/shirts/napoli/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/napoli-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "msc-cruises",
@@ -2645,7 +2837,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/parma/2026-27-home-front.jpg",
+      "back": "assets/shirts/parma/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/parma-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "prometeon",
@@ -2669,7 +2865,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/as-roma/2026-27-home-front.jpg",
+      "back": "assets/shirts/as-roma/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/as-roma-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "eurobet-live",
@@ -2693,7 +2893,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/sassuolo/2026-27-home-front.jpg",
+      "back": "assets/shirts/sassuolo/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/sassuolo-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "mapei",
@@ -2717,7 +2921,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/torino/2026-27-home-front.jpg",
+      "back": "assets/shirts/torino/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/torino-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "suzuki",
@@ -2741,7 +2949,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/udinese/2026-27-home-front.jpg",
+      "back": "assets/shirts/udinese/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/udinese-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "io-sono-friuli-venezia-giulia",
@@ -2765,7 +2977,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/venezia/2026-27-home-front.jpg",
+      "back": "assets/shirts/venezia/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/venezia-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "cynar-spritz",
@@ -2789,7 +3005,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/atlanta-united/2026-27-home-front.jpg",
+      "back": "assets/shirts/atlanta-united/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/atlanta-united-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "american-family-insurance",
@@ -2813,7 +3033,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/austin-fc/2026-27-home-front.jpg",
+      "back": "assets/shirts/austin-fc/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/austin-fc-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "yeti",
@@ -2861,7 +3085,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/chicago-fire/2026-27-home-front.jpg",
+      "back": "assets/shirts/chicago-fire/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/chicago-fire-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "carvana",
@@ -2885,7 +3113,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/fc-cincinnati/2026-27-home-front.jpg",
+      "back": "assets/shirts/fc-cincinnati/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/fc-cincinnati-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "mercy-health",
@@ -2933,7 +3165,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/columbus-crew/2026-27-home-front.jpg",
+      "back": "assets/shirts/columbus-crew/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/columbus-crew-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "nationwide",
@@ -2957,7 +3193,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/fc-dallas/2026-27-home-front.jpg",
+      "back": "assets/shirts/fc-dallas/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/fc-dallas-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "childrens-health",
@@ -3005,7 +3245,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/houston-dynamo/2026-27-home-front.jpg",
+      "back": "assets/shirts/houston-dynamo/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/houston-dynamo-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "md-anderson-cancer-center",
@@ -3029,7 +3273,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/sporting-kansas-city/2026-27-home-front.jpg",
+      "back": "assets/shirts/sporting-kansas-city/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/sporting-kansas-city-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "compass-minerals",
@@ -3101,7 +3349,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/inter-miami/2026-27-home-front.jpg",
+      "back": "assets/shirts/inter-miami/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/inter-miami-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "royal-caribbean",
@@ -3149,7 +3401,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/cf-montreal/2026-27-home-front.jpg",
+      "back": "assets/shirts/cf-montreal/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/cf-montreal-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "bmo-bank",
@@ -3197,7 +3453,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/new-england-revolution/2026-27-home-front.jpg",
+      "back": "assets/shirts/new-england-revolution/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/new-england-revolution-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "gillette",
@@ -3221,7 +3481,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/new-york-red-bulls/2026-27-home-front.jpg",
+      "back": "assets/shirts/new-york-red-bulls/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/new-york-red-bulls-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "red-bull",
@@ -3245,7 +3509,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/new-york-city-fc/2026-27-home-front.jpg",
+      "back": "assets/shirts/new-york-city-fc/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/new-york-city-fc-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "etihad-airways",
@@ -3269,7 +3537,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/orlando-city/2026-27-home-front.jpg",
+      "back": "assets/shirts/orlando-city/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/orlando-city-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "orlando-health",
@@ -3317,7 +3589,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/portland-timbers/2026-27-home-front.jpg",
+      "back": "assets/shirts/portland-timbers/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/portland-timbers-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "bank-of-america",
@@ -3341,7 +3617,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/real-salt-lake/2026-27-home-front.jpg",
+      "back": "assets/shirts/real-salt-lake/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/real-salt-lake-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "select-health",
@@ -3365,7 +3645,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/san-diego-fc/2026-27-home-front.jpg",
+      "back": "assets/shirts/san-diego-fc/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/san-diego-fc-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "directv",
@@ -3389,7 +3673,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/san-jose-earthquakes/2026-27-home-front.jpg",
+      "back": "assets/shirts/san-jose-earthquakes/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/san-jose-earthquakes-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "el-camino-health",
@@ -3413,7 +3701,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/seattle-sounders/2026-27-home-front.jpg",
+      "back": "assets/shirts/seattle-sounders/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/seattle-sounders-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "providence",
@@ -3437,7 +3729,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/st-louis-city/2026-27-home-front.jpg",
+      "back": "assets/shirts/st-louis-city/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/st-louis-city-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "purina",
@@ -3461,7 +3757,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/toronto-fc/2026-27-home-front.jpg",
+      "back": "assets/shirts/toronto-fc/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/toronto-fc-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "bmo-bank",
@@ -3485,7 +3785,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/vancouver-whitecaps/2026-27-home-front.jpg",
+      "back": "assets/shirts/vancouver-whitecaps/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/vancouver-whitecaps-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "telus",
@@ -4477,7 +4781,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/angers-sco/2026-27-home-front.jpg",
+      "back": "assets/shirts/angers-sco/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/angers-sco-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "ecole-noir-et-blanc",
@@ -4528,7 +4836,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/aj-auxerre/2026-27-home-front.jpg",
+      "back": "assets/shirts/aj-auxerre/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/aj-auxerre-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "x1-xi-wang",
@@ -4624,7 +4936,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/stade-brestois-29/2026-27-home-front.jpg",
+      "back": "assets/shirts/stade-brestois-29/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/stade-brestois-29-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "queguiner-materiaux",
@@ -4739,7 +5055,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/le-havre-ac/2026-27-home-front.jpg",
+      "back": "assets/shirts/le-havre-ac/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/le-havre-ac-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "seafrigo",
@@ -4790,7 +5110,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/le-mans-fc/2026-27-home-front.jpg",
+      "back": "assets/shirts/le-mans-fc/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/le-mans-fc-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "hexaom",
@@ -4850,7 +5174,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/rc-lens/2026-27-home-front.jpg",
+      "back": "assets/shirts/rc-lens/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/rc-lens-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "auchan",
@@ -4937,7 +5265,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/lille-osc/2026-27-home-front.jpg",
+      "back": "assets/shirts/lille-osc/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/lille-osc-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "boulanger",
@@ -4997,7 +5329,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/olympique-lyonnais/2026-27-home-front.jpg",
+      "back": "assets/shirts/olympique-lyonnais/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/olympique-lyonnais-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "emirates",
@@ -5066,7 +5402,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/fc-lorient/2026-27-home-front.jpg",
+      "back": "assets/shirts/fc-lorient/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/fc-lorient-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "jean-floch",
@@ -5153,7 +5493,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/olympique-de-marseille/2026-27-home-front.jpg",
+      "back": "assets/shirts/olympique-de-marseille/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/olympique-de-marseille-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "cma-cgm",
@@ -5195,7 +5539,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/as-monaco/2026-27-home-front.jpg",
+      "back": "assets/shirts/as-monaco/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/as-monaco-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "apm-monaco",
@@ -5273,7 +5621,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/ogc-nice/2026-27-home-front.jpg",
+      "back": "assets/shirts/ogc-nice/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/ogc-nice-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "robinhood-markets",
@@ -5333,7 +5685,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/paris-fc/2026-27-home-front.jpg",
+      "back": "assets/shirts/paris-fc/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/paris-fc-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "bahrain-victorious",
@@ -5393,7 +5749,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/paris-saint-germain/2026-27-home-front.jpg",
+      "back": "assets/shirts/paris-saint-germain/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/paris-saint-germain-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "qatar-airways",
@@ -5435,7 +5795,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/stade-rennais/2026-27-home-front.jpg",
+      "back": "assets/shirts/stade-rennais/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/stade-rennais-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "samsic",
@@ -5504,7 +5868,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/rc-strasbourg/2026-27-home-front.jpg",
+      "back": "assets/shirts/rc-strasbourg/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/rc-strasbourg-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "winamax",
@@ -5573,7 +5941,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/toulouse-fc/2026-27-home-front.jpg",
+      "back": "assets/shirts/toulouse-fc/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/toulouse-fc-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "casadora",
@@ -5633,7 +6005,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/es-troyes-ac/2026-27-home-front.jpg",
+      "back": "assets/shirts/es-troyes-ac/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/es-troyes-ac-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "etihad-airways",
@@ -5755,7 +6131,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/al-ahli/2026-27-home-front.jpg",
+      "back": "assets/shirts/al-ahli/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/al-ahli-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "red-sea-global",
@@ -5820,7 +6200,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/al-ettifaq/2026-27-home-front.jpg",
+      "back": "assets/shirts/al-ettifaq/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/al-ettifaq-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "kammelna",
@@ -5925,7 +6309,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/al-faisaly/2026-27-home-front.jpg",
+      "back": "assets/shirts/al-faisaly/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/al-faisaly-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "aldrees",
@@ -6045,7 +6433,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/al-fayha/2026-27-home-front.jpg",
+      "back": "assets/shirts/al-fayha/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/al-fayha-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "basic-electronics",
@@ -6110,7 +6502,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/al-hazem/2026-27-home-front.jpg",
+      "back": "assets/shirts/al-hazem/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/al-hazem-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "yelo",
@@ -6145,7 +6541,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/al-hilal/2026-27-home-front.jpg",
+      "back": "assets/shirts/al-hilal/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/al-hilal-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "nhc",
@@ -6455,7 +6855,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/al-nassr/2026-27-home-front.jpg",
+      "back": "assets/shirts/al-nassr/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/al-nassr-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "humain",
@@ -6510,7 +6914,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/al-qadsiah/2026-27-home-front.jpg",
+      "back": "assets/shirts/al-qadsiah/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/al-qadsiah-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "aloula-aviation",
@@ -6615,7 +7023,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/al-riyadh/2026-27-home-front.jpg",
+      "back": "assets/shirts/al-riyadh/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/al-riyadh-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "science-technology",
@@ -6745,7 +7157,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/al-taawoun/2026-27-home-front.jpg",
+      "back": "assets/shirts/al-taawoun/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/al-taawoun-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "aldyar-alarabiya",
@@ -7603,7 +8019,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/atlanta-hawks/2026-27-home-front.jpg",
+      "back": "assets/shirts/atlanta-hawks/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/atlanta-hawks-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "paze",
@@ -7627,7 +8047,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/dallas-mavericks/2026-27-home-front.jpg",
+      "back": "assets/shirts/dallas-mavericks/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/dallas-mavericks-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "jpmorganchase",
@@ -7651,7 +8075,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/los-angeles-lakers/2026-27-home-front.jpg",
+      "back": "assets/shirts/los-angeles-lakers/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/los-angeles-lakers-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "albert",
@@ -7675,7 +8103,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/new-york-knicks/2026-27-home-front.jpg",
+      "back": "assets/shirts/new-york-knicks/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/new-york-knicks-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "experience-abu-dhabi",
@@ -7699,7 +8131,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/sacramento-kings/2026-27-home-front.jpg",
+      "back": "assets/shirts/sacramento-kings/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/sacramento-kings-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "sutter-health",
@@ -7943,7 +8379,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/boston-celtics/2026-27-home-front.jpg",
+      "back": "assets/shirts/boston-celtics/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/boston-celtics-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "amica-mutual-insurance",
@@ -7967,7 +8407,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/denver-nuggets/2026-27-home-front.jpg",
+      "back": "assets/shirts/denver-nuggets/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/denver-nuggets-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "ibotta",
@@ -7991,7 +8435,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/memphis-grizzlies/2026-27-home-front.jpg",
+      "back": "assets/shirts/memphis-grizzlies/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/memphis-grizzlies-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "robinhood",
@@ -8015,7 +8463,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/oklahoma-city-thunder/2026-27-home-front.jpg",
+      "back": "assets/shirts/oklahoma-city-thunder/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/oklahoma-city-thunder-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "loves-travel-stops",
@@ -8039,7 +8491,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/san-antonio-spurs/2026-27-home-front.jpg",
+      "back": "assets/shirts/san-antonio-spurs/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/san-antonio-spurs-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "ledger",
@@ -8303,7 +8759,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/brooklyn-nets/2026-27-home-front.jpg",
+      "back": "assets/shirts/brooklyn-nets/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/brooklyn-nets-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "all-in-won",
@@ -8327,7 +8787,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/detroit-pistons/2026-27-home-front.jpg",
+      "back": "assets/shirts/detroit-pistons/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/detroit-pistons-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "stockx",
@@ -8351,7 +8815,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/miami-heat/2026-27-home-front.jpg",
+      "back": "assets/shirts/miami-heat/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/miami-heat-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "robinhood",
@@ -8375,7 +8843,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/orlando-magic/2026-27-home-front.jpg",
+      "back": "assets/shirts/orlando-magic/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/orlando-magic-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "walt-disney-world",
@@ -8399,7 +8871,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/toronto-raptors/2026-27-home-front.jpg",
+      "back": "assets/shirts/toronto-raptors/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/toronto-raptors-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "sun-life",
@@ -8663,7 +9139,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/charlotte-hornets/2026-27-home-front.jpg",
+      "back": "assets/shirts/charlotte-hornets/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/charlotte-hornets-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "judi-health",
@@ -8687,7 +9167,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/golden-state-warriors/2026-27-home-front.jpg",
+      "back": "assets/shirts/golden-state-warriors/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/golden-state-warriors-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "iren",
@@ -8711,7 +9195,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/milwaukee-bucks/2026-27-home-front.jpg",
+      "back": "assets/shirts/milwaukee-bucks/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/milwaukee-bucks-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "uline",
@@ -8735,7 +9223,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/philadelphia-76ers/2026-27-home-front.jpg",
+      "back": "assets/shirts/philadelphia-76ers/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/philadelphia-76ers-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "crypto-com",
@@ -8759,7 +9251,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/utah-jazz/2026-27-home-front.jpg",
+      "back": "assets/shirts/utah-jazz/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/utah-jazz-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "healthequity",
@@ -9013,7 +9509,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/chicago-bulls/2026-27-home-front.jpg",
+      "back": "assets/shirts/chicago-bulls/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/chicago-bulls-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "motorola-mobility",
@@ -9037,7 +9537,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/houston-rockets/2026-27-home-front.jpg",
+      "back": "assets/shirts/houston-rockets/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/houston-rockets-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "memorial-hermann",
@@ -9061,7 +9565,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/minnesota-timberwolves/2026-27-home-front.jpg",
+      "back": "assets/shirts/minnesota-timberwolves/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/minnesota-timberwolves-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "sezzle",
@@ -9085,7 +9593,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/phoenix-suns/2026-27-home-front.jpg",
+      "back": "assets/shirts/phoenix-suns/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/phoenix-suns-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "paypal",
@@ -9109,7 +9621,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/washington-wizards/2026-27-home-front.jpg",
+      "back": "assets/shirts/washington-wizards/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/washington-wizards-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "robinhood",
@@ -9373,7 +9889,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/cleveland-cavaliers/2026-27-home-front.jpg",
+      "back": "assets/shirts/cleveland-cavaliers/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/cleveland-cavaliers-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "cleveland-cliffs",
@@ -9397,7 +9917,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/indiana-pacers/2026-27-home-front.jpg",
+      "back": "assets/shirts/indiana-pacers/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/indiana-pacers-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "lucas-oil",
@@ -9421,7 +9945,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/new-orleans-pelicans/2026-27-home-front.jpg",
+      "back": "assets/shirts/new-orleans-pelicans/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/new-orleans-pelicans-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "newage-products",
@@ -9445,7 +9973,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/portland-trail-blazers/2026-27-home-front.jpg",
+      "back": "assets/shirts/portland-trail-blazers/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/portland-trail-blazers-2026-27-home-front-square.jpg"
+    },
     "sponsors": [],
     "sponsorsComplete": false,
     "summary": "No patch partner for 2026-27.",
@@ -9723,7 +10255,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/la-clippers/2026-27-home-front.jpg",
+      "back": "assets/shirts/la-clippers/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/la-clippers-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "visit-rwanda",
@@ -9827,7 +10363,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/lazio/2026-27-home-front.jpg",
+      "back": "assets/shirts/lazio/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/lazio-2026-27-home-front-square.jpg"
+    },
     "sponsors": [],
     "sponsorsComplete": false,
     "change": {
