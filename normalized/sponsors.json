@@ -111,7 +111,7 @@
   {
     "id": "aramco",
     "name": "Aramco",
-    "ownerId": "gov-saudi-arabia",
+    "ownerId": "government-of-saudi-arabia",
     "ownership": "owned",
     "tier": "serious",
     "status": "rated",
@@ -1442,7 +1442,7 @@
   {
     "id": "maaden",
     "name": "Ma'aden",
-    "ownerId": "pif",
+    "ownerId": "saudi-pif",
     "ownership": "part-owned",
     "tier": "serious",
     "status": "rated",
@@ -1805,6 +1805,18 @@
     ],
     "aliases": [],
     "note": "Rating note: Flagged for proper look: the Italian state stake in Eni sits below 50% and via a listed parent, so concern rather than serious. Claims of Eni human-rights/environmental harm (Niger Delta, OPL 245) are contested and partly settled, supporting concern not serious."
+  },
+  {
+    "id": "polymarket",
+    "name": "Polymarket",
+    "ownerId": "blockratize",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Crypto prediction market. Not an ADM-licensed operator in Italy, so the Lazio deal is branded on its information site."
   },
   {
     "id": "prometeon",
@@ -2213,7 +2225,7 @@
   {
     "id": "spotify",
     "name": "Spotify",
-    "ownerId": "spotify-technology-sa",
+    "ownerId": "spotify-technology",
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
@@ -2532,7 +2544,7 @@
   {
     "id": "visit-qatar",
     "name": "Visit Qatar",
-    "ownerId": "gov-qatar",
+    "ownerId": "government-of-qatar",
     "ownership": "owned",
     "tier": "serious",
     "status": "rated",

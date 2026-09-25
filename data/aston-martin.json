@@ -16,8 +16,8 @@
       "placement": "front",
       "season": "2026",
       "tier": "serious",
-      "ownerId": "gov-saudi-arabia",
-      "owner": "Government of Saudi Arabia (Saudi Arabian Oil Company, 'Aramco')",
+      "ownerId": "government-of-saudi-arabia",
+      "owner": "Government of Saudi Arabia",
       "verdict": "Aramco is the Saudi state's economic engine and is state-controlled: the Government of Saudi Arabia holds 81.48% directly and the state's PIF a further 16%.",
       "source": {
         "name": "Aramco – Aston Martin Cognizant F1 Team and Aramco enter a long-term strategic partnership",
@@ -91,8 +91,8 @@
       "placement": "partner",
       "season": "2026",
       "tier": "serious",
-      "ownerId": "pif",
-      "owner": "Public Investment Fund (PIF)",
+      "ownerId": "saudi-pif",
+      "owner": "Public Investment Fund (Saudi Arabia)",
       "verdict": "Ma'aden is majority-owned (~67%) by PIF, the Saudi sovereign wealth fund, so it carries the same Saudi state money as Aramco and the same serious rating.",
       "source": {
         "name": "Ma'aden (Saudi Arabian Mining Company) – Aston Martin Aramco and principal partner Ma'aden announce multi-year programme",
@@ -152,8 +152,8 @@
   "worstTier": "serious",
   "owners": [
     "coinbase-global",
-    "gov-saudi-arabia",
-    "pif"
+    "government-of-saudi-arabia",
+    "saudi-pif"
   ],
   "lastUpdated": "2026-09-24"
 }

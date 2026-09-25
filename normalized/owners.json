@@ -70,25 +70,11 @@
     "parentId": "volkswagen-ag"
   },
   {
-    "id": "baghdadi-capital",
-    "name": "Baghdadi Capital",
-    "type": "private-company",
-    "parentId": null,
-    "country": "Spain"
-  },
-  {
     "id": "baghdadi-capital-sa",
     "name": "Baghdadi Capital, S.A. (family office of Baihas Baghdadi)",
     "type": "private-company",
     "parentId": null,
     "country": "ES"
-  },
-  {
-    "id": "barmenia-versicherungen",
-    "name": "Barmenia Versicherungen",
-    "type": "private-company",
-    "parentId": null,
-    "country": "Germany"
   },
   {
     "id": "barmenia-versicherungen-ag",
@@ -112,6 +98,13 @@
     "country": "United States"
   },
   {
+    "id": "blockratize",
+    "name": "Blockratize, Inc. (dba Polymarket)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "USA"
+  },
+  {
     "id": "boon-rawd-brewery",
     "name": "Boon Rawd Brewery Co., Ltd. (Bhirombhakdi family)",
     "type": "private-company",
@@ -124,13 +117,6 @@
     "type": "listed-company",
     "parentId": null,
     "country": "United Kingdom"
-  },
-  {
-    "id": "c-hedenkamp",
-    "name": "C. Hedenkamp GmbH",
-    "type": "private-company",
-    "parentId": null,
-    "country": "Germany"
   },
   {
     "id": "c-hedenkamp-gmbh",
@@ -224,13 +210,6 @@
     "country": "Germany"
   },
   {
-    "id": "digi-communications",
-    "name": "Digi Communications",
-    "type": "listed-company",
-    "parentId": null,
-    "country": "Romania"
-  },
-  {
     "id": "digi-communications-nv",
     "name": "Digi Communications N.V.",
     "type": "listed-company",
@@ -271,13 +250,6 @@
     "type": "listed-company",
     "parentId": null,
     "country": "France/Italy"
-  },
-  {
-    "id": "estrella-galicia",
-    "name": "Hijos de Rivera (Estrella Galicia)",
-    "type": "private-company",
-    "parentId": null,
-    "country": "Spain"
   },
   {
     "id": "exor-nv",
@@ -362,20 +334,6 @@
     "type": "state",
     "parentId": null,
     "country": "Malaysia"
-  },
-  {
-    "id": "gov-qatar",
-    "name": "State of Qatar (Qatar Tourism / Visit Qatar)",
-    "type": "state",
-    "parentId": null,
-    "country": "Qatar"
-  },
-  {
-    "id": "gov-saudi-arabia",
-    "name": "Government of Saudi Arabia (Saudi Arabian Oil Company, 'Aramco')",
-    "type": "state",
-    "parentId": null,
-    "country": "Saudi Arabia"
   },
   {
     "id": "government-of-abu-dhabi",
@@ -576,13 +534,6 @@
     "country": "ES"
   },
   {
-    "id": "land-baden-wuerttemberg",
-    "name": "State of Baden-Wuerttemberg",
-    "type": "state",
-    "parentId": null,
-    "country": "Germany"
-  },
-  {
     "id": "lawrence-stroll",
     "name": "Lawrence Stroll",
     "type": "private-company",
@@ -623,7 +574,7 @@
     "name": "Mark Mateschitz",
     "type": "private-company",
     "country": "Austria",
-    "parentId": "red-bull-gmbh"
+    "parentId": "mateschitz-yoovidhya-families"
   },
   {
     "id": "mateschitz-yoovidhya-families",
@@ -752,13 +703,6 @@
     "parentId": "ferrari-nv"
   },
   {
-    "id": "pif",
-    "name": "Public Investment Fund (PIF)",
-    "type": "state-fund",
-    "parentId": null,
-    "country": "Saudi Arabia"
-  },
-  {
     "id": "plenitude-eni",
     "name": "Plenitude (Eni)",
     "type": "listed-company",
@@ -815,18 +759,11 @@
     "country": "Japan"
   },
   {
-    "id": "red-bull-gmbh",
-    "name": "Red Bull GmbH",
-    "type": "private-company",
-    "parentId": null,
-    "country": "Austria"
-  },
-  {
     "id": "red-bull-racing-limited",
     "name": "Red Bull Racing Limited",
     "type": "private-company",
     "country": "United Kingdom",
-    "parentId": "red-bull-gmbh"
+    "parentId": "mateschitz-yoovidhya-families"
   },
   {
     "id": "renault-group",
@@ -907,13 +844,6 @@
     "country": "United States"
   },
   {
-    "id": "sesame-hr",
-    "name": "Sesame HR",
-    "type": "private-company",
-    "parentId": null,
-    "country": "Spain"
-  },
-  {
     "id": "sesame-hr-sl",
     "name": "Sesame HR (Sesame HR S.L.)",
     "type": "private-company",
@@ -933,13 +863,6 @@
     "type": "listed-company",
     "parentId": null,
     "country": "Sweden"
-  },
-  {
-    "id": "spotify-technology-sa",
-    "name": "Spotify Technology S.A.",
-    "type": "listed-company",
-    "parentId": null,
-    "country": "SE"
   },
   {
     "id": "standard-chartered-plc",
@@ -1033,13 +956,6 @@
     "country": "RU"
   },
   {
-    "id": "ursapharm",
-    "name": "URSAPHARM Arzneimittel",
-    "type": "private-company",
-    "parentId": null,
-    "country": "Germany"
-  },
-  {
     "id": "ursapharm-arzneimittel-gmbh",
     "name": "URSAPHARM Arzneimittel GmbH",
     "type": "private-company",
@@ -1100,7 +1016,7 @@
     "name": "Yoovidhya family",
     "type": "private-company",
     "country": "Thailand",
-    "parentId": "red-bull-gmbh"
+    "parentId": "mateschitz-yoovidhya-families"
   },
   {
     "id": "zoomex",

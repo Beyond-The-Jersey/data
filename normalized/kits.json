@@ -3985,6 +3985,54 @@
     "summary": "2026 car. N"
   },
   {
+    "id": "lazio-2026-27-home",
+    "clubId": "lazio",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026-27",
+    "periodFrom": "2026",
+    "periodTo": "2027",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "polymarket",
+        "placement": "front",
+        "source": {
+          "name": "Lazio lands Polymarket as shirt sponsor until 2028",
+          "date": "2026-04-20",
+          "url": "https://www.sportcal.com/news/lazio-lands-polymarket-as-shirt-sponsor-until-2028/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "change": null,
+    "summary": "Serie A. Prediction-market front, first Lazio front-of-shirt partner since Binance ended in 2023."
+  },
+  {
+    "id": "paris-saint-germain-2026-27-home",
+    "clubId": "paris-saint-germain",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026-27",
+    "periodFrom": "2026",
+    "periodTo": "2027",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "qatar-airways",
+        "placement": "front",
+        "source": {
+          "name": "Qatar Airways, official front of shirt sponsor of Paris Saint-Germain",
+          "date": "2022-06-29",
+          "url": "https://www.qatarairways.com/press-releases/en-WW/218264-qatar-airways-takes-paris-saint-germain-partnership-to-new-heights-as-the-official-front-of-shirt-sponsor/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "change": null,
+    "summary": "Ligue 1. Qatar Airways front, state-owned airline."
+  },
+  {
     "id": "bayern-munich-2022-23-home",
     "clubId": "bayern-munich",
     "season": "2022-23",

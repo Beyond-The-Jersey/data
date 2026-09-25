@@ -781,7 +781,7 @@
   {
     "id": "spotify-technology-sa-record",
     "ownerIds": [
-      "spotify-technology-sa"
+      "spotify-technology"
     ],
     "text": "Spotify is listed on the NYSE (SPOT); it has a dual-class structure with a large free float and no single controlling shareholder (founder Daniel Ek holds supervoting shares; Tencent holds ~8%, institutions ~67%). No state or sovereign-fund control - Longbridge's holder breakdown puts state-owned-enterprise holdings at well under 1%.",
     "short": "Spotify is listed on the NYSE (SPOT); it has a dual-class structure with a large free float and no single controlling shareholder (founder Daniel Ek holds….",
@@ -949,7 +949,7 @@
   {
     "id": "gov-saudi-arabia-record",
     "ownerIds": [
-      "gov-saudi-arabia"
+      "government-of-saudi-arabia"
     ],
     "text": "Aramco is the Saudi state's economic engine and is state-controlled: the Government of Saudi Arabia holds 81.48% directly and the state's PIF a further 16%. The Saudi state's documented record (a record 345 executions in 2024; drug-offence executions continuing through 2026) makes this serious - severe is reserved for live armed conflict.",
     "short": "Aramco is the Saudi state's economic engine and is state-controlled: the Government of Saudi Arabia holds 81.48% directly and the state's PIF a further 16%.",
@@ -963,7 +963,7 @@
   {
     "id": "pif-record",
     "ownerIds": [
-      "pif"
+      "saudi-pif"
     ],
     "text": "Ma'aden is majority-owned (~67%) by PIF, the Saudi sovereign wealth fund, so it carries the same Saudi state money as Aramco and the same serious rating.",
     "short": "Ma'aden is majority-owned (~67%) by PIF, the Saudi sovereign wealth fund, so it carries the same Saudi state money as Aramco and the same serious rating.",
@@ -977,7 +977,7 @@
   {
     "id": "gov-qatar-record",
     "ownerIds": [
-      "gov-qatar"
+      "government-of-qatar"
     ],
     "text": "Visit Qatar is the Qatari state's tourism body and became a principal partner of the (Audi) F1 team for 2026. Qatar's documented record - migrant workers still exposed to exploitation despite kafala reform, expression and assembly tightly restricted - rates serious.",
     "short": "Visit Qatar is the Qatari state's tourism body and became a principal partner of the (Audi) F1 team for 2026.",

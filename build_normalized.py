@@ -194,6 +194,48 @@ for r in R.RATINGS + RES["ratings"]:
     rated += 1
 print("ratings applied:", rated)
 
+# ------------------------------------------------- duplicate owner records
+# The same owner existed under two ids, each used by a different sponsor, so owner chains
+# and claims could split across them and no two records agreed on the parent. A cross-check
+# against the website caught Qatar, Saudi Arabia and Spotify. Keep the seed/website id,
+# repoint every reference, drop the stray.
+OWNER_MERGE = {
+    "gov-qatar": "government-of-qatar",
+    "gov-saudi-arabia": "government-of-saudi-arabia",
+    "spotify-technology-sa": "spotify-technology",
+    "baghdadi-capital": "baghdadi-capital-sa",
+    "barmenia-versicherungen": "barmenia-versicherungen-ag",
+    "c-hedenkamp": "c-hedenkamp-gmbh",
+    "digi-communications": "digi-communications-nv",
+    "land-baden-wuerttemberg": "lbbw",
+    "red-bull-gmbh": "mateschitz-yoovidhya-families",
+    "estrella-galicia": "corporacion-hijos-de-rivera",
+    "sesame-hr": "sesame-hr-sl",
+    "ursapharm": "ursapharm-arzneimittel-gmbh",
+    "pif": "saudi-pif",
+}
+_here = {o["id"] for o in owners}
+_merged = []
+for dup, keep in OWNER_MERGE.items():
+    if dup not in _here or keep not in _here:
+        continue
+    for _sp in sid.values():
+        if _sp.get("ownerId") == dup:
+            _sp["ownerId"] = keep
+    for _o in owners:
+        if _o.get("parentId") == dup:
+            _o["parentId"] = keep
+    for _c in claims:
+        if dup in (_c.get("ownerIds") or []):
+            _c["ownerIds"] = [keep if x == dup else x for x in _c["ownerIds"]]
+    owners = [_o for _o in owners if _o["id"] != dup]
+    _here.discard(dup)
+    _merged.append("%s -> %s" % (dup, keep))
+if _merged:
+    sponsors = list(sid.values())
+    print("owners: merged duplicates:", "; ".join(_merged))
+
+
 for o in owners:
     for k in ("country", "via"):
         if o.get(k) is None:
@@ -389,6 +431,48 @@ for k in kits:
                               "source": extra["source"]})
         sleeved += 1
 print("sleeve placements attached:", sleeved)
+
+# ------------------------------------------------- clubs research left without a shirt
+# Both of these clubs were added by the coverage pass without a kit, so their front
+# sponsor sat in sponsors.json attached to nothing.
+_EXTRA_KITS = [
+    ("lazio", "polymarket",
+     "Lazio lands Polymarket as shirt sponsor until 2028", "2026-04-20",
+     "https://www.sportcal.com/news/lazio-lands-polymarket-as-shirt-sponsor-until-2028/",
+     "Serie A. Prediction-market front, first Lazio front-of-shirt partner since Binance ended in 2023."),
+]
+for _club, _spn, _nm, _dt, _url, _sum in _EXTRA_KITS:
+    _kid = "%s-2026-27-home" % _club
+    if _kid not in {k["id"] for k in kits} and _spn in {x["id"] for x in sponsors}:
+        kits.append({
+            "id": _kid, "clubId": _club, "season": "2026-27", "kitType": "home",
+            "periodLabel": "2026-27", "periodFrom": "2026", "periodTo": "2027", "photos": {},
+            "sponsors": [{"sponsorId": _spn, "placement": "front",
+                          "source": {"name": _nm, "date": _dt, "url": _url}}],
+            "sponsorsComplete": False, "change": None, "summary": _sum,
+        })
+        print("kits: added", _kid)
+
+# ---------------------------------------------------------------- a kit for PSG
+# PSG is the only Ligue 1 club in the data and had no kit at all, so its Qatar Airways
+# front sponsor was not on any shirt. Qatar Airways has held the PSG front since 2022.
+if "paris-saint-germain-2026-27-home" not in {k["id"] for k in kits}:
+    kits.append({
+        "id": "paris-saint-germain-2026-27-home", "clubId": "paris-saint-germain",
+        "season": "2026-27", "kitType": "home", "periodLabel": "2026-27",
+        "periodFrom": "2026", "periodTo": "2027", "photos": {},
+        "sponsors": [{
+            "sponsorId": "qatar-airways", "placement": "front",
+            "source": {
+                "name": "Qatar Airways, official front of shirt sponsor of Paris Saint-Germain",
+                "date": "2022-06-29",
+                "url": "https://www.qatarairways.com/press-releases/en-WW/218264-qatar-airways-takes-paris-saint-germain-partnership-to-new-heights-as-the-official-front-of-shirt-sponsor/",
+            },
+        }],
+        "sponsorsComplete": False, "change": None,
+        "summary": "Ligue 1. Qatar Airways front, state-owned airline.",
+    })
+    print("kits: added paris-saint-germain-2026-27-home")
 
 # --------------------------------------------------------------- orphan kits
 # Two shirt images in the design manifest had no kit pointing at them.

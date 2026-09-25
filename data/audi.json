@@ -106,8 +106,8 @@
       "placement": "partner",
       "season": "2026",
       "tier": "serious",
-      "ownerId": "gov-qatar",
-      "owner": "State of Qatar (Qatar Tourism / Visit Qatar)",
+      "ownerId": "government-of-qatar",
+      "owner": "Government of the State of Qatar (Qatar Airways Group Q.C.S.C.)",
       "verdict": "Visit Qatar is the Qatari state's tourism body and became a principal partner of the (Audi) F1 team for 2026.",
       "source": {
         "name": "Audi AG – Visit Qatar welcomed by the future Audi F1 Team as a new principal partner",
@@ -119,7 +119,7 @@
   "worstTier": "serious",
   "owners": [
     "bp-plc",
-    "gov-qatar",
+    "government-of-qatar",
     "revolut-group-holdings"
   ],
   "lastUpdated": "2026-09-24"

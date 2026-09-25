@@ -18,7 +18,7 @@
       "placement": "front",
       "season": "2026-27",
       "tier": "none",
-      "ownerId": "spotify-technology-sa",
+      "ownerId": "spotify-technology",
       "owner": "Spotify Technology S.A.",
       "verdict": "Owned by Spotify Technology S.A.. Nothing found.",
       "source": {
@@ -30,7 +30,7 @@
   ],
   "worstTier": "none",
   "owners": [
-    "spotify-technology-sa"
+    "spotify-technology"
   ],
   "lastUpdated": "2026-09-24"
 }

@@ -13,6 +13,21 @@
   },
   "sponsors": [
     {
+      "id": "qatar-airways",
+      "name": "Qatar Airways",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "serious",
+      "ownerId": "government-of-qatar",
+      "owner": "Government of the State of Qatar (Qatar Airways Group Q.C.S.C.)",
+      "verdict": "Qatar Airways Group Q.C.S.C.",
+      "source": {
+        "name": "Qatar Airways, official front of shirt sponsor of Paris Saint-Germain",
+        "date": "2022-06-29",
+        "url": "https://www.qatarairways.com/press-releases/en-WW/218264-qatar-airways-takes-paris-saint-germain-partnership-to-new-heights-as-the-official-front-of-shirt-sponsor/"
+      }
+    },
+    {
       "id": "visit-rwanda",
       "name": "Visit Rwanda",
       "placement": "partner",
@@ -26,6 +41,7 @@
   ],
   "worstTier": "severe",
   "owners": [
+    "government-of-qatar",
     "government-of-rwanda"
   ],
   "lastUpdated": "2026-09-24"

@@ -3,7 +3,7 @@ import json
 import os
 import re
 
-D = "/tmp/verify/normalized"
+D = os.environ.get("BTJ_DATA", "/tmp/verify/normalized")
 J = lambda n: json.load(open(os.path.join(D, n + ".json"), encoding="utf-8"))
 
 clubs, sponsors, owners = J("clubs"), J("sponsors"), J("owners")
@@ -110,6 +110,38 @@ for club in ("arsenal", "aston-villa", "atletico-de-madrid"):
 tiers = J("tiers")
 chk("tiers.json unchanged in substance",
     [t["id"] for t in tiers] == ["unrated", "none", "concern", "serious", "severe"])
+
+# 12 no duplicate owners under two ids, and no club left without a kit
+import re as _re
+def _stem(v):
+    v = _re.sub(r"\(.*?\)", " ", v.lower())
+    v = _re.sub(r"\b(s\.?a\.?|n\.?v\.?|plc|ltd|limited|inc|gmbh|ag|sl|s\.l\.|group|company|the|of|state|government|family|families)\b", " ", v)
+    return _re.sub(r"[^a-z0-9]+", " ", v).split()
+
+_owners = J("owners")
+_pairs = []
+for i in range(len(_owners)):
+    for j in range(i + 1, len(_owners)):
+        a, b = _owners[i], _owners[j]
+        sa, sb = set(_stem(a["name"])), set(_stem(b["name"]))
+        if sa and sb and (sa <= sb or sb <= sa) and min(len(sa), len(sb)) >= 2:
+            _pairs.append(f"{a['id']}={b['id']}")
+chk("no owner duplicated under two ids", not _pairs, "; ".join(_pairs[:4]))
+
+# only shirt-wearing leagues: a league counts if most of its clubs already have a kit
+_kitclubs = {k["clubId"] for k in kits}
+_by_league = {}
+for _c in J("clubs"):
+    if _c.get("leagueId"):
+        _by_league.setdefault(_c["leagueId"], []).append(_c["id"])
+_short = []
+for _lg, _ids in _by_league.items():
+    _have = [i for i in _ids if i in _kitclubs]
+    if _have and len(_have) > len(_ids) / 2:
+        _short += [i for i in _ids if i not in _kitclubs]
+chk("no club is missing a shirt in a league that has shirts", not _short,
+    "missing: " + ", ".join(sorted(_short))[:70])
+
 
 fails = [r for r in out if r[0] == "FAIL"]
 for s, l, d in out:
