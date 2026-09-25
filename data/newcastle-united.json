@@ -50,10 +50,26 @@
       "owner": "Public Investment Fund (Saudi Arabia)",
       "verdict": "An events company owned by Saudi Arabia’s Public Investment Fund.",
       "source": null
+    },
+    {
+      "id": "visit-saudi",
+      "name": "Visit Saudi",
+      "placement": "partner",
+      "season": null,
+      "tier": "serious",
+      "ownerId": "government-of-saudi-arabia",
+      "owner": "Government of Saudi Arabia",
+      "verdict": "Visit Saudi is the flagship destination-marketing platform of the Saudi Tourism Authority, a government body established by royal decree in 2020 and a wholly….",
+      "source": {
+        "name": "Visit Saudi, Newcastle United partner",
+        "date": "2026",
+        "url": "https://www.visitvisitsaudi.com/"
+      }
     }
   ],
   "worstTier": "serious",
   "owners": [
+    "government-of-saudi-arabia",
     "knox-hydrate-pty-ltd",
     "saudi-pif"
   ],

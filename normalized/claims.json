@@ -1353,6 +1353,20 @@
     "reviewed": false
   },
   {
+    "id": "3m-company-record",
+    "ownerIds": [
+      "3m-company"
+    ],
+    "text": "No state shareholder (NYSE-listed), but a sustained documented adverse record: a $10.3bn settlement, court-approved, over PFAS contamination of US public drinking-water systems.",
+    "short": "No state shareholder (NYSE-listed), but a sustained documented adverse record: a $10.3bn settlement, court-approved, over PFAS contamination of US public….",
+    "source": {
+      "name": "3M investor relations - settlement with public water suppliers (final court approval)",
+      "date": "2024-05-01",
+      "url": "https://investors.3m.com/news-events/press-releases/detail/1836/3m-settlement-with-public-water-suppliers-to-address-pfas"
+    },
+    "reviewed": false
+  },
+  {
     "id": "komatsu-ltd-record",
     "ownerIds": [
       "komatsu-ltd"

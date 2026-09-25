@@ -116,6 +116,21 @@
       }
     },
     {
+      "id": "uralkali",
+      "name": "Uralkali",
+      "placement": "front",
+      "season": null,
+      "tier": "concern",
+      "ownerId": "uralchem",
+      "owner": "Uralchem PJSC (controlled by Dmitry Mazepin and family)",
+      "verdict": "Uralkali's controlling shareholder is Uralchem PJSC, which holds 81.47% of Uralkali; Uralchem is a private company, with Dmitry Mazepin previously holding 100% and….",
+      "source": {
+        "name": "Uralkali was Haas title sponsor until the 2022 split",
+        "date": "2026",
+        "url": "https://www.formula1.com/en/latest/article.haas-part-ways-with-title-sponsor-uralkali.4k1m4eFTTTRHEbDwKjHkOs.html"
+      }
+    },
+    {
       "id": "zoomex",
       "name": "Zoomex",
       "placement": "partner",
@@ -131,11 +146,12 @@
       }
     }
   ],
-  "worstTier": "none",
+  "worstTier": "concern",
   "owners": [
     "boon-rawd-brewery",
     "international-capital-markets",
     "mgm-resorts",
+    "uralchem",
     "zoomex"
   ],
   "lastUpdated": "2026-09-24"

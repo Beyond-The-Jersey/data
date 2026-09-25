@@ -16,6 +16,22 @@
     }
   },
   {
+    "id": "2026-08-11-lazio-polymarket",
+    "date": "2026-08-11",
+    "datePrecision": "day",
+    "clubId": "lazio",
+    "sponsorId": "polymarket",
+    "kind": "worse",
+    "levelAfter": "not-rated",
+    "title": "Polymarket front ends after four months",
+    "text": "Italy's ADM blacklisted Polymarket in July 2026 for taking bets without a licence. Lazio removed the branding and terminated on 11 August, leaving the shirt blank for the new season.",
+    "source": {
+      "name": "SBC News",
+      "date": "2026-08-12",
+      "url": "https://sbcnews.co.uk/europe/italy/2026/08/12/lazio-polymarket-2026/"
+    }
+  },
+  {
     "id": "2026-08-06-arsenal-emirates",
     "date": "2026-08-06",
     "datePrecision": "day",

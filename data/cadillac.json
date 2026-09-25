@@ -12,6 +12,21 @@
   },
   "sponsors": [
     {
+      "id": "3m",
+      "name": "3M",
+      "placement": "partner",
+      "season": null,
+      "tier": "concern",
+      "ownerId": "3m-company",
+      "owner": "3M Company",
+      "verdict": "No state shareholder (NYSE-listed), but a sustained documented adverse record: a $10.3bn settlement, court-approved, over PFAS contamination of US public….",
+      "source": {
+        "name": "Cadillac Formula 1 Team – Official Partners",
+        "date": "2026-09-24",
+        "url": "https://www.cadillacf1team.com/partners"
+      }
+    },
+    {
       "id": "alpinestars-c",
       "name": "Alpinestars",
       "placement": "partner",
@@ -147,8 +162,9 @@
       }
     }
   ],
-  "worstTier": "none",
+  "worstTier": "concern",
   "owners": [
+    "3m-company",
     "america-movil",
     "core-scientific",
     "pvh-corp",

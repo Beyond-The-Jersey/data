@@ -3985,30 +3985,6 @@
     "summary": "2026 car. N"
   },
   {
-    "id": "lazio-2026-27-home",
-    "clubId": "lazio",
-    "season": "2026-27",
-    "kitType": "home",
-    "periodLabel": "2026-27",
-    "periodFrom": "2026",
-    "periodTo": "2027",
-    "photos": {},
-    "sponsors": [
-      {
-        "sponsorId": "polymarket",
-        "placement": "front",
-        "source": {
-          "name": "Lazio lands Polymarket as shirt sponsor until 2028",
-          "date": "2026-04-20",
-          "url": "https://www.sportcal.com/news/lazio-lands-polymarket-as-shirt-sponsor-until-2028/"
-        }
-      }
-    ],
-    "sponsorsComplete": false,
-    "change": null,
-    "summary": "Serie A. Prediction-market front, first Lazio front-of-shirt partner since Binance ended in 2023."
-  },
-  {
     "id": "paris-saint-germain-2026-27-home",
     "clubId": "paris-saint-germain",
     "season": "2026-27",
@@ -4087,5 +4063,23 @@
       "text": "Gazprom came off mid-season after 15 years, foiled over by the housing company Vivawest in March 2022.",
       "badge": "Gazprom gone"
     }
+  },
+  {
+    "id": "lazio-2026-27-home",
+    "clubId": "lazio",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026-27",
+    "periodFrom": "2026",
+    "periodTo": "2027",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "change": {
+      "kind": "worse",
+      "badge": "Polymarket gone",
+      "text": "Lazio start 2026-27 with a blank front: Polymarket signed in April, Italy's ADM blacklisted it in July, and the club terminated in August."
+    },
+    "summary": "Serie A. No front sponsor. Polymarket signed in April 2026 and the deal was terminated on 11 August, before the season began."
   }
 ]
