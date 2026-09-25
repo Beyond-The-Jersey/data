@@ -398,11 +398,8 @@ print("claims:", len(claims), "| rated sponsors:", sum(1 for s in sponsors if s[
 
 # ------------------------------------------------------------------ kits
 kits = load("kits")
-# the seed handover carried free-text headline/shortLine fields the schema never
-# had; the schema is authoritative, so drop them here rather than in the seed
-for _k in kits:
-    _k.pop("headline", None)
-    _k.pop("shortLine", None)
+# The seed's kit headline/shortLine are part of the website schema since the v3 team page
+# (website data/schema/kits.schema.json), so they are kept.
 have = {k["id"] for k in kits}
 for club, sponsor, srckey in A.FRONTS:
     kid = f"{club}-2026-27-home"
@@ -927,7 +924,7 @@ for fn in sorted(os.listdir(mirror_dir)):
 print("data/ mirror: %d club files, %d stale removed" % (len(index), len(removed)))
 
 # ------------------------------------------------------------------ validate
-r = subprocess.run([sys.executable, VALIDATE, OUT, "--assets", "/tmp/website/public"],
+r = subprocess.run([sys.executable, VALIDATE, OUT, "--assets", PUBLIC],
                    capture_output=True, text=True, errors="replace")
 out = r.stdout.strip()
 errs = [l for l in out.splitlines() if l.startswith("error:")]
