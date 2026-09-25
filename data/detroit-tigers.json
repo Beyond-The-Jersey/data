@@ -15,10 +15,10 @@
       "name": "Fifth Third Bank",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "fifth-third-bank-owner",
       "owner": "Fifth Third Bank",
-      "verdict": null,
+      "verdict": "Owned by Fifth Third Bancorp. Nothing found.",
       "source": {
         "name": "MLB.com",
         "date": "2026-09-21",
@@ -30,10 +30,10 @@
       "name": "Meijer",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "meijer-owner",
       "owner": "Meijer",
-      "verdict": null,
+      "verdict": "Owned by Meijer. Nothing found.",
       "source": {
         "name": "Blinkfire Analytics (2026 MLB jersey patch list)",
         "date": "2026-04-20",
@@ -41,7 +41,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "fifth-third-bank-owner",
     "meijer-owner"

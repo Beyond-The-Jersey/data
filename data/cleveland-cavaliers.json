@@ -31,10 +31,10 @@
       "name": "Rocket (Rocket Companies)",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "rocket-rocket-companies-owner",
       "owner": "Rocket (Rocket Companies)",
-      "verdict": null,
+      "verdict": "Owned by Rocket Companies, Inc.. Nothing found.",
       "source": {
         "name": "Rocket Arena (venue press release)",
         "date": "2025-02-18",

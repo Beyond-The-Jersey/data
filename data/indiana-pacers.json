@@ -14,10 +14,10 @@
       "name": "Gainbridge (Group 1001)",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "gainbridge-group-1001-owner",
       "owner": "Gainbridge (Group 1001)",
-      "verdict": null,
+      "verdict": "Owned by Gainbridge (Group 1001). Nothing found.",
       "source": {
         "name": "Gainbridge Fieldhouse (venue press release)",
         "date": "2021-09-27",

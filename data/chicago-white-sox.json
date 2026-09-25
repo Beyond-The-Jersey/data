@@ -16,10 +16,10 @@
       "name": "CME Group",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "cme-group-owner",
       "owner": "CME Group",
-      "verdict": null,
+      "verdict": "Owned by CME Group Inc.. Nothing found.",
       "source": {
         "name": "Sports Business Journal",
         "date": "2026-01-28",
@@ -31,10 +31,10 @@
       "name": "Rate (formerly Guaranteed Rate)",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "rate-formerly-guaranteed-rate-owner",
       "owner": "Rate (formerly Guaranteed Rate)",
-      "verdict": null,
+      "verdict": "Owned by Rate (formerly Guaranteed Rate). Nothing found.",
       "source": {
         "name": "MLB.com press release",
         "date": "2024-12-18",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "cme-group-owner",
     "rate-formerly-guaranteed-rate-owner"

@@ -16,10 +16,10 @@
       "name": "Anheuser-Busch",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "anheuser-busch-owner",
       "owner": "Anheuser-Busch",
-      "verdict": null,
+      "verdict": "Owned by Anheuser-Busch InBev SA/NV. Nothing found.",
       "source": {
         "name": "KSDK / Fortune (Anheuser-Busch-Cardinals release)",
         "date": "2023-12-13",

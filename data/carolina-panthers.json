@@ -15,10 +15,10 @@
       "name": "Atrium Health",
       "placement": "training-kit",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "atrium-health-owner",
       "owner": "Atrium Health",
-      "verdict": null,
+      "verdict": "Owned by Atrium Health. Nothing found.",
       "source": {
         "name": "Zoomph - NFL Practice Jersey Sponsor Guide (updated 2026-09-01)",
         "date": "2026-09-01",

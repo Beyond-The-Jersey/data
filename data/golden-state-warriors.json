@@ -28,10 +28,10 @@
       "name": "JPMorgan Chase (Chase)",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "jpmorgan-chase-owner",
       "owner": "JPMorgan Chase (Chase brand)",
-      "verdict": null,
+      "verdict": "Owned by JPMorgan Chase & Co.. Nothing found.",
       "source": {
         "name": "SFBayCA",
         "date": "2016-01-28",

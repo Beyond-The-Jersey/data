@@ -16,10 +16,10 @@
       "name": "Coors Brewing Co. (Molson Coors)",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "coors-brewing-co-molson-coors-owner",
       "owner": "Coors Brewing Co. (Molson Coors)",
-      "verdict": null,
+      "verdict": "Owned by Coors Brewing Co. (Molson Coors). Nothing found.",
       "source": {
         "name": "Ballpark Digest",
         "date": "2018-05-01",

@@ -14,10 +14,10 @@
       "name": "Kaseya",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "kaseya-owner",
       "owner": "Kaseya",
-      "verdict": null,
+      "verdict": "Owned by Kaseya. Nothing found.",
       "source": {
         "name": "Miami-Dade County",
         "date": "2023-04-04",

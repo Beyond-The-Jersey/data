@@ -16,10 +16,10 @@
       "name": "Tropicana (Tropicana Brands Group)",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "tropicana-tropicana-brands-group-owner",
       "owner": "Tropicana (Tropicana Brands Group)",
-      "verdict": null,
+      "verdict": "Owned by Tropicana Brands Group. Nothing found.",
       "source": {
         "name": "MLB.com ballpark guide",
         "date": "2026-04-09",

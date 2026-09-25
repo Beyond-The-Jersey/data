@@ -16,10 +16,10 @@
       "name": "Energy Transfer",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "energy-transfer-owner",
       "owner": "Energy Transfer",
-      "verdict": null,
+      "verdict": "Owned by Energy Transfer LP. Nothing found.",
       "source": {
         "name": "Texas Rangers / MLB.com press release",
         "date": "2024-03-27",
@@ -31,10 +31,10 @@
       "name": "Globe Life (Globe Life Inc.)",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "globe-life-globe-life-inc-owner",
       "owner": "Globe Life (Globe Life Inc.)",
-      "verdict": null,
+      "verdict": "Owned by Globe Life Globe Life Inc. Nothing found.",
       "source": {
         "name": "Globe Life Inc. investor newsroom",
         "date": "2017-08-24",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "energy-transfer-owner",
     "globe-life-globe-life-inc-owner"

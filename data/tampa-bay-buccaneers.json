@@ -15,10 +15,10 @@
       "name": "Fifth Third Bank",
       "placement": "training-kit",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "fifth-third-bank-owner",
       "owner": "Fifth Third Bank",
-      "verdict": null,
+      "verdict": "Owned by Fifth Third Bancorp. Nothing found.",
       "source": {
         "name": "Tampa Bay Buccaneers / GlobeNewswire",
         "date": "2026-08-03",

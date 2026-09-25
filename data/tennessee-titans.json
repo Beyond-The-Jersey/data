@@ -29,10 +29,10 @@
       "name": "Nissan",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "concern",
       "ownerId": "nissan-owner",
       "owner": "Nissan",
-      "verdict": null,
+      "verdict": "Through the Renault-Nissan Alliance, the French State holds a 15% stake in Renault, which in turn holds a 15% stake in Nissan, resulting in an indirect state….",
       "source": {
         "name": "The Tennessean",
         "date": "2023-11-17",

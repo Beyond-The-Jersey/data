@@ -17,10 +17,10 @@
       "name": "T. Rowe Price",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "t-rowe-price-owner",
       "owner": "T. Rowe Price",
-      "verdict": null,
+      "verdict": "Owned by T. Rowe Price Group, Inc.. Nothing found.",
       "source": {
         "name": "Baltimore Orioles / MLB.com press release",
         "date": "2024-06-10",
@@ -28,7 +28,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "t-rowe-price-owner"
   ],

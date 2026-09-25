@@ -29,10 +29,10 @@
       "name": "Xfinity Mobile (Comcast)",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "xfinity-mobile-comcast-owner",
       "owner": "Xfinity Mobile (Comcast)",
-      "verdict": null,
+      "verdict": "Owned by Xfinity Mobile (Comcast). Nothing found.",
       "source": {
         "name": "ESPN / Associated Press",
         "date": "2025-05-06",

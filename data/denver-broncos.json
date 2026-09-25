@@ -17,10 +17,10 @@
       "name": "Children's Hospital Colorado",
       "placement": "training-kit",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "childrens-hospital-colorado-owner",
       "owner": "Children's Hospital Colorado",
-      "verdict": null,
+      "verdict": "Owned by Children's Hospital Colorado. Nothing found.",
       "source": {
         "name": "Denver Broncos",
         "date": "2024-07-24",

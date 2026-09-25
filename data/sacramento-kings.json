@@ -14,10 +14,10 @@
       "name": "Golden 1 Credit Union",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "golden-1-credit-union-owner",
       "owner": "Golden 1 Credit Union",
-      "verdict": null,
+      "verdict": "Owned by Golden 1 Credit Union. Nothing found.",
       "source": {
         "name": "Sacramento Kings (NBA.com)",
         "date": "2015-06-16",

@@ -15,10 +15,10 @@
       "name": "Love's Travel Stops & Country Stores",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "loves-travel-stops-owner",
       "owner": "Love's Travel Stops & Country Stores",
-      "verdict": null,
+      "verdict": "Owned by Love's Travel Stops & Country Stores. Nothing found.",
       "source": {
         "name": "ESPN",
         "date": "2019-03-15",

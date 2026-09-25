@@ -2305,6 +2305,20 @@
     "reviewed": true
   },
   {
+    "id": "adt-owner-record",
+    "ownerIds": [
+      "adt-owner"
+    ],
+    "text": "As of June 30, 2025, certain entities managed by affiliates of Apollo Global Management, Inc. owned approximately 22% of ADT Inc.'s outstanding Common Stock.",
+    "short": "As of June 30, 2025, certain entities managed by affiliates of Apollo Global Management, Inc.",
+    "source": {
+      "name": "SEC Form 10-Q for ADT Inc.",
+      "date": "2025-08-06",
+      "url": "https://www.sec.gov/Archives/edgar/data/1703056/000170305625000139/adt-20250630.htm"
+    },
+    "reviewed": true
+  },
+  {
     "id": "advocate-health-care-owner-record",
     "ownerIds": [
       "advocate-health-care-owner"
@@ -2371,6 +2385,20 @@
       "name": "Unknown",
       "date": "2026-09-24",
       "url": "https://example.com"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "all-in-won-owner-record",
+    "ownerIds": [
+      "all-in-won-owner"
+    ],
+    "text": "All In Won Med-Bill & IT, LLC is a privately held partnership founded in 2017 by Krystal McKenna.",
+    "short": "All In Won Med-Bill & IT, LLC is a privately held partnership founded in 2017 by Krystal McKenna.",
+    "source": {
+      "name": "Brooklyn Sports & Entertainment press release",
+      "date": "2025-07-01",
+      "url": "https://bkse.com/news/brooklyn-nets-name-all-in-won-as-official-jersey-patch-partner"
     },
     "reviewed": true
   },
@@ -2459,6 +2487,20 @@
     "reviewed": true
   },
   {
+    "id": "anheuser-busch-owner-record",
+    "ownerIds": [
+      "anheuser-busch-owner"
+    ],
+    "text": "Anheuser-Busch InBev SA/NV is a publicly listed company with its primary listing on Euronext Brussels under ticker ABI.",
+    "short": "Anheuser-Busch InBev SA/NV is a publicly listed company with its primary listing on Euronext Brussels under ticker ABI.",
+    "source": {
+      "name": "SEC Form 20-F for Anheuser-Busch InBev SA/NV",
+      "date": "2026-03-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/1668717/000119312526088105/d65314d20f.htm"
+    },
+    "reviewed": true
+  },
+  {
     "id": "arctempus-record",
     "ownerIds": [
       "arctempus"
@@ -2525,6 +2567,20 @@
       "name": "Atlassian Corporation DEF 14A 2025 (SEC)",
       "date": "2025-10-14",
       "url": "https://www.sec.gov/Archives/edgar/data/1650372/000165037225000058/team-20251014.htm"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "atrium-health-owner-record",
+    "ownerIds": [
+      "atrium-health-owner"
+    ],
+    "text": "Atrium Health is a nonprofit healthcare organization headquartered in Charlotte, North Carolina, operating as part of Advocate Health, the third-largest nonprofit health system in the United States.",
+    "short": "Atrium Health is a nonprofit healthcare organization headquartered in Charlotte, North Carolina, operating as part of Advocate Health, the third-largest nonprofit….",
+    "source": {
+      "name": "Atrium Health About Us page",
+      "date": "2026-09-24",
+      "url": "https://atriumhealth.org/about-us"
     },
     "reviewed": true
   },
@@ -2623,6 +2679,20 @@
       "name": "Bank of America Corporation DEF 14A 2026 (SEC)",
       "date": "2026-03-23",
       "url": "https://www.sec.gov/Archives/edgar/data/70858/000119312526118929/d43888ddef14a.htm"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "baptist-health-owner-record",
+    "ownerIds": [
+      "baptist-health-owner"
+    ],
+    "text": "Baptist Health is a faith-based, not-for-profit healthcare organization.",
+    "short": "Baptist Health is a faith-based, not-for-profit healthcare organization.",
+    "source": {
+      "name": "Baptist Health South Florida website",
+      "date": "2026-09-24",
+      "url": "https://baptisthealth.net/about-baptist-health/fulfilling-our-mission"
     },
     "reviewed": true
   },
@@ -2893,6 +2963,20 @@
     "reviewed": true
   },
   {
+    "id": "childrens-hospital-colorado-owner-record",
+    "ownerIds": [
+      "childrens-hospital-colorado-owner"
+    ],
+    "text": "As a private, non-profit pediatric hospital, Children's Hospital Colorado is 100% dedicated to caring for children at all ages and stages of growth.",
+    "short": "As a private, non-profit pediatric hospital, Children's Hospital Colorado is 100% dedicated to caring for children at all ages and stages of growth.",
+    "source": {
+      "name": "Children's Hospital Colorado Continuing Education page",
+      "date": "2026-09-24",
+      "url": "https://ce.childrenscolorado.org/content/childrens-hospital-colorado-mission"
+    },
+    "reviewed": true
+  },
+  {
     "id": "circle-internet-group-record",
     "ownerIds": [
       "circle-internet-group"
@@ -2917,6 +3001,34 @@
       "name": "Cisco Systems, Inc. Form 10-K for fiscal 2025 (SEC)",
       "date": "2025-09-03",
       "url": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000132/csco-20260725.htm"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "citigroup-citi-owner-record",
+    "ownerIds": [
+      "citigroup-citi-owner"
+    ],
+    "text": "Citigroup is a NYSE-listed bank with no state ownership but has documented conduct issues including sanctions violations and settlements related to Iran/Sudan/Libya/Burma.",
+    "short": "Citigroup is a NYSE-listed bank with no state ownership but has documented conduct issues including sanctions violations and settlements related to….",
+    "source": {
+      "name": "Citigroup DEF 14A 2026",
+      "date": "2026-04-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/831001/000120677426000185/citi4583461-def14a.htm"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "citizens-bank-citizens-financial-group-owner-record",
+    "ownerIds": [
+      "citizens-bank-citizens-financial-group-owner"
+    ],
+    "text": "Citizens Financial Group, Inc. is owned by Citizens Bank (Citizens Financial Group). No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "Citizens Financial Group, Inc.",
+    "source": {
+      "name": "CITIZENS FINANCIAL GROUP INC/RI DEF 14A 2026 (SEC)",
+      "date": "2026-03-09",
+      "url": "https://www.sec.gov/Archives/edgar/data/759944/000075994426000064/cfg-20260309.htm"
     },
     "reviewed": true
   },
@@ -2977,6 +3089,20 @@
     "reviewed": true
   },
   {
+    "id": "cme-group-owner-record",
+    "ownerIds": [
+      "cme-group-owner"
+    ],
+    "text": "CME Group Inc. is a publicly traded company listed on the NASDAQ and NYSE under ticker CME.",
+    "short": "CME Group Inc.",
+    "source": {
+      "name": "SEC DEF 14A for CME Group Inc.",
+      "date": "2026-03-23",
+      "url": "https://www.sec.gov/Archives/edgar/data/1156375/000162828026020500/cme-20260323.htm"
+    },
+    "reviewed": true
+  },
+  {
     "id": "cognizant-record",
     "ownerIds": [
       "cognizant"
@@ -3015,6 +3141,20 @@
       "name": "Compass Minerals International, Inc. DEF 14A 2026, '5% Stockholders' (SEC)",
       "date": "2026-01-23",
       "url": "https://www.sec.gov/Archives/edgar/data/1227654/000130817926000019/cmp014557_def14a.htm"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "coors-brewing-co-molson-coors-owner-record",
+    "ownerIds": [
+      "coors-brewing-co-molson-coors-owner"
+    ],
+    "text": "Molson Coors Beverage Company is a NYSE-listed brewer with no state ownership; largest shareholders are institutional investors (Vanguard, BlackRock) each under 10%.",
+    "short": "Molson Coors Beverage Company is a NYSE-listed brewer with no state ownership; largest shareholders are institutional investors (Vanguard, BlackRock) each under 10%.",
+    "source": {
+      "name": "Molson Coors DEF 14A 2026",
+      "date": "2026-03-25",
+      "url": "https://www.sec.gov/Archives/edgar/data/24545/000110465926034154/tap-20260506xdef14a.htm"
     },
     "reviewed": true
   },
@@ -3159,6 +3299,20 @@
     "reviewed": true
   },
   {
+    "id": "desert-financial-credit-union-owner-record",
+    "ownerIds": [
+      "desert-financial-credit-union-owner"
+    ],
+    "text": "Unlike banks, which are owned by shareholders, Desert Financial Credit Union is a not-for-profit credit union that is member-owned.",
+    "short": "Unlike banks, which are owned by shareholders, Desert Financial Credit Union is a not-for-profit credit union that is member-owned.",
+    "source": {
+      "name": "Desert Financial Community Involvement page",
+      "date": "2026-09-24",
+      "url": "https://www.desertfinancial.com/en/who-we-are/community-involvement"
+    },
+    "reviewed": true
+  },
+  {
     "id": "federal-republic-of-germany-record",
     "ownerIds": [
       "federal-republic-of-germany"
@@ -3281,6 +3435,20 @@
       "name": "Unknown",
       "date": "2026-09-24",
       "url": "https://example.com"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "energy-transfer-owner-record",
+    "ownerIds": [
+      "energy-transfer-owner"
+    ],
+    "text": "Energy Transfer LP is a publicly traded master limited partnership; no single person or company owns it outright, with public unitholders holding the majority of economic interest.",
+    "short": "Energy Transfer LP is a publicly traded master limited partnership; no single person or company owns it outright, with public unitholders holding the majority of….",
+    "source": {
+      "name": "LegalClarity article on Energy Transfer ownership",
+      "date": "2026-09-24",
+      "url": "https://legalclarity.org/who-owns-energy-transfer-investors-and-insiders"
     },
     "reviewed": true
   },
@@ -3425,6 +3593,20 @@
     "reviewed": true
   },
   {
+    "id": "fifth-third-bank-owner-record",
+    "ownerIds": [
+      "fifth-third-bank-owner"
+    ],
+    "text": "Fifth Third Bancorp is a publicly traded company listed on the NASDAQ under ticker FITB.",
+    "short": "Fifth Third Bancorp is a publicly traded company listed on the NASDAQ under ticker FITB.",
+    "source": {
+      "name": "SEC DEF 14A for Fifth Third Bancorp",
+      "date": "2026-03-09",
+      "url": "https://www.sec.gov/Archives/edgar/data/35527/000119312526098679/d47600ddef14a.htm"
+    },
+    "reviewed": true
+  },
+  {
     "id": "fiserv-owner-record",
     "ownerIds": [
       "fiserv-owner"
@@ -3495,6 +3677,20 @@
     "reviewed": true
   },
   {
+    "id": "frost-bank-owner-record",
+    "ownerIds": [
+      "frost-bank-owner"
+    ],
+    "text": "Cullen/Frost Bankers, Inc. is a publicly traded company listed on the NYSE under ticker CFR.",
+    "short": "Cullen/Frost Bankers, Inc.",
+    "source": {
+      "name": "SEC DEF 14A for Cullen/Frost Bankers, Inc.",
+      "date": "2026-03-20",
+      "url": "https://www.sec.gov/Archives/edgar/data/39263/000003926326000023/cfr-20260320.htm"
+    },
+    "reviewed": true
+  },
+  {
     "id": "fundacion-1890-record",
     "ownerIds": [
       "fundacion-1890"
@@ -3505,6 +3701,20 @@
       "name": "Diario de Sevilla - 'La Fundacion 1890, nueva cara solidaria del Sevilla'; Sevilla FC official foundation page",
       "date": "2025-06-09",
       "url": "https://www.diariodesevilla.es/sevillafc/fundacion-1890-nueva-cara-solidaria-sevilla-fc-poligono-sur_0_2004112018.html"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "gainbridge-group-1001-owner-record",
+    "ownerIds": [
+      "gainbridge-group-1001-owner"
+    ],
+    "text": "Gainbridge is owned by Group 1001 Insurance Holdings, a privately held financial services collective controlled by Mark Walter (TWG Global), with no state ownership.",
+    "short": "Gainbridge is owned by Group 1001 Insurance Holdings, a privately held financial services collective controlled by Mark Walter (TWG Global), with no state ownership.",
+    "source": {
+      "name": "Group 1001 About Us page",
+      "date": "2026-09-24",
+      "url": "https://www.group1001.com/aboutus"
     },
     "reviewed": true
   },
@@ -3533,6 +3743,34 @@
       "name": "Procter & Gamble - brands index (Gillette under Grooming)",
       "date": "2026",
       "url": "https://us.pg.com/brands/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "globe-life-globe-life-inc-owner-record",
+    "ownerIds": [
+      "globe-life-globe-life-inc-owner"
+    ],
+    "text": "Globe Life Globe Life Inc is the ultimate owner of Globe Life (Globe Life Inc.).",
+    "short": "Globe Life Globe Life Inc is the ultimate owner of Globe Life (Globe Life Inc.).",
+    "source": {
+      "name": "Unknown",
+      "date": "2026-09-24",
+      "url": "https://example.com"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "golden-1-credit-union-owner-record",
+    "ownerIds": [
+      "golden-1-credit-union-owner"
+    ],
+    "text": "Credit unions like Golden 1 are member-owned and not-for-profit financial cooperatives.",
+    "short": "Credit unions like Golden 1 are member-owned and not-for-profit financial cooperatives.",
+    "source": {
+      "name": "Golden 1 Credit Union blog post",
+      "date": "2026-09-24",
+      "url": "https://www.golden1.com/blog/why-choose-a-credit-union"
     },
     "reviewed": true
   },
@@ -3663,6 +3901,20 @@
     "reviewed": true
   },
   {
+    "id": "healthequity-owner-record",
+    "ownerIds": [
+      "healthequity-owner"
+    ],
+    "text": "HealthEquity, Inc. is a publicly traded company listed on the NASDAQ under ticker HQY.",
+    "short": "HealthEquity, Inc.",
+    "source": {
+      "name": "SEC DEF 14A for HealthEquity, Inc.",
+      "date": "2026-05-13",
+      "url": "https://www.sec.gov/Archives/edgar/data/1428336/000142833626000022/hqy-20260513.htm"
+    },
+    "reviewed": true
+  },
+  {
     "id": "herbalife-ltd-record",
     "ownerIds": [
       "herbalife-ltd"
@@ -3733,6 +3985,20 @@
     "reviewed": true
   },
   {
+    "id": "huntington-national-bank-huntington-bancshares-owner-record",
+    "ownerIds": [
+      "huntington-national-bank-huntington-bancshares-owner"
+    ],
+    "text": "Huntington Bancshares Incorporated is owned by Huntington National Bank (Huntington Bancshares). No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "Huntington Bancshares Incorporated is owned by Huntington National Bank (Huntington Bancshares).",
+    "source": {
+      "name": "HUNTINGTON BANCSHARES INC /MD/ DEF 14A 2026 (SEC)",
+      "date": "2026-03-12",
+      "url": "https://www.sec.gov/Archives/edgar/data/49196/000119312526103196/hban-20260312.htm"
+    },
+    "reviewed": true
+  },
+  {
     "id": "ursapharm-arzneimittel-gmbh-record",
     "ownerIds": [
       "ursapharm-arzneimittel-gmbh"
@@ -3785,6 +4051,20 @@
       "name": "Recruit Holdings official 'Group Companies' page",
       "date": "2026",
       "url": "https://recruit-holdings.com/en/about/group"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "independence-blue-cross-owner-record",
+    "ownerIds": [
+      "independence-blue-cross-owner"
+    ],
+    "text": "As a not-for-profit health insurer, Independence Blue Cross is focused on building a smarter, simpler, and more affordable health care system.",
+    "short": "As a not-for-profit health insurer, Independence Blue Cross is focused on building a smarter, simpler, and more affordable health care system.",
+    "source": {
+      "name": "Independence Blue Cross website",
+      "date": "2026-09-24",
+      "url": "https://www.ibx.com/htdocs/custom/getting-health-care-right/index.html"
     },
     "reviewed": true
   },
@@ -3873,6 +4153,20 @@
     "reviewed": true
   },
   {
+    "id": "jpmorgan-chase-chase-owner-record",
+    "ownerIds": [
+      "jpmorgan-chase-owner"
+    ],
+    "text": "JPMorgan Chase & Co. is the ultimate owner of JPMorgan Chase (Chase).",
+    "short": "JPMorgan Chase & Co.",
+    "source": {
+      "name": "Unknown",
+      "date": "2026-09-24",
+      "url": "https://example.com"
+    },
+    "reviewed": true
+  },
+  {
     "id": "jpmorganchase-owner-record",
     "ownerIds": [
       "jpmorganchase-owner"
@@ -3911,6 +4205,20 @@
       "name": "Kaleida Health About Us",
       "date": "2026-09-24",
       "url": "https://www.kaleidahealth.org/about-us"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "kaseya-owner-record",
+    "ownerIds": [
+      "kaseya-owner"
+    ],
+    "text": "Kaseya is owned primarily by private equity firm Insight Partners, with additional investors including TPG Capital and the Ireland Strategic Investment Fund.",
+    "short": "Kaseya is owned primarily by private equity firm Insight Partners, with additional investors including TPG Capital and the Ireland Strategic Investment Fund.",
+    "source": {
+      "name": "LegalClarity article on Kaseya ownership",
+      "date": "2026-09-24",
+      "url": "https://legalclarity.org/who-owns-kaseya-insight-partners-and-key-investors"
     },
     "reviewed": true
   },
@@ -4083,6 +4391,20 @@
     "reviewed": true
   },
   {
+    "id": "levi-strauss-and-co-levi-s-owner-record",
+    "ownerIds": [
+      "levi-strauss-and-co-levi-s-owner"
+    ],
+    "text": "Levi Strauss & Co. is a publicly traded company listed on the New York Stock Exchange under ticker LEVI.",
+    "short": "Levi Strauss & Co.",
+    "source": {
+      "name": "SEC DEF 14A for Levi Strauss & Co.",
+      "date": "2026-03-11",
+      "url": "https://www.sec.gov/Archives/edgar/data/94845/000130817926000050/levi014917_def14a.htm"
+    },
+    "reviewed": true
+  },
+  {
     "id": "haufe-group-se-record",
     "ownerIds": [
       "haufe-group-se"
@@ -4153,6 +4475,20 @@
     "reviewed": true
   },
   {
+    "id": "loves-travel-stops-owner-record",
+    "ownerIds": [
+      "loves-travel-stops-owner"
+    ],
+    "text": "Love's Travel Stops is the nation's leading travel stop network, family-owned and operated since 1964.",
+    "short": "Love's Travel Stops is the nation's leading travel stop network, family-owned and operated since 1964.",
+    "source": {
+      "name": "Love's Travel Stops About Us page",
+      "date": "2026-09-24",
+      "url": "https://www.loves.com/en/about-us"
+    },
+    "reviewed": true
+  },
+  {
     "id": "lucas-oil-products-owner-record",
     "ownerIds": [
       "lucas-oil-products-owner"
@@ -4177,6 +4513,20 @@
       "name": "Unknown",
       "date": "2026-09-24",
       "url": "https://example.com"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "lvcva-owner-record",
+    "ownerIds": [
+      "lvcva-owner"
+    ],
+    "text": "The Las Vegas Convention and Visitors Authority (LVCVA) was founded by the Nevada Legislature in 1955 as a governmental entity to serve this destination.",
+    "short": "The Las Vegas Convention and Visitors Authority (LVCVA) was founded by the Nevada Legislature in 1955 as a governmental entity to serve this destination.",
+    "source": {
+      "name": "LVCVA About page",
+      "date": "2026-09-24",
+      "url": "https://www.lvcva.com/about/"
     },
     "reviewed": true
   },
@@ -4321,6 +4671,20 @@
     "reviewed": true
   },
   {
+    "id": "meijer-owner-record",
+    "ownerIds": [
+      "meijer-owner"
+    ],
+    "text": "Meijer is a family business committed to meeting other families where they are, remaining 100% family owned.",
+    "short": "Meijer is a family business committed to meeting other families where they are, remaining 100% family owned.",
+    "source": {
+      "name": "Meijer About Meijer page",
+      "date": "2026-09-24",
+      "url": "https://www.meijer.com/shopping/about-meijer.html"
+    },
+    "reviewed": true
+  },
+  {
     "id": "memorial-hermann-owner-record",
     "ownerIds": [
       "memorial-hermann-owner"
@@ -4461,6 +4825,20 @@
     "reviewed": true
   },
   {
+    "id": "motorola-mobility-owner-record",
+    "ownerIds": [
+      "motorola-mobility-owner"
+    ],
+    "text": "Lenovo acquired Motorola Mobility from Google in January 2014, making Motorola Mobility a subsidiary of Lenovo Group Limited.",
+    "short": "Lenovo acquired Motorola Mobility from Google in January 2014, making Motorola Mobility a subsidiary of Lenovo Group Limited.",
+    "source": {
+      "name": "Lenovo press release",
+      "date": "2014-01-29",
+      "url": "https://news.lenovo.com/pressroom/press-releases/lenovo-to-acquire-motorola-mobility-from-google/"
+    },
+    "reviewed": true
+  },
+  {
     "id": "tek-fox-ltd-record",
     "ownerIds": [
       "tek-fox-ltd"
@@ -4559,6 +4937,20 @@
     "reviewed": true
   },
   {
+    "id": "nissan-owner-record",
+    "ownerIds": [
+      "nissan-owner"
+    ],
+    "text": "Through the Renault-Nissan Alliance, the French State holds a 15% stake in Renault, which in turn holds a 15% stake in Nissan, resulting in an indirect state interest of approximately 2.25% in Nissan.",
+    "short": "Through the Renault-Nissan Alliance, the French State holds a 15% stake in Renault, which in turn holds a 15% stake in Nissan, resulting in an indirect state….",
+    "source": {
+      "name": "Nissan News Release",
+      "date": "2010-01-30",
+      "url": "https://global.nissannews.com/en/releases/011030-01"
+    },
+    "reviewed": true
+  },
+  {
     "id": "northwest-federal-credit-union-owner-record",
     "ownerIds": [
       "northwest-federal-credit-union-owner"
@@ -4597,6 +4989,34 @@
       "name": "Nouryon, Information for investor relations",
       "date": "2026-09",
       "url": "https://www.nouryon.com/company/investor-relations"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "nrg-energy-reliant-brand-owner-record",
+    "ownerIds": [
+      "nrg-energy-reliant-brand-owner"
+    ],
+    "text": "NRG Energy, Inc. is the ultimate owner of NRG Energy (Reliant brand).",
+    "short": "NRG Energy, Inc.",
+    "source": {
+      "name": "Unknown",
+      "date": "2026-09-24",
+      "url": "https://example.com"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "occidental-petroleum-owner-record",
+    "ownerIds": [
+      "occidental-petroleum-owner"
+    ],
+    "text": "Occidental Petroleum Corporation is a publicly traded company listed on the New York Stock Exchange under ticker OXY.",
+    "short": "Occidental Petroleum Corporation is a publicly traded company listed on the New York Stock Exchange under ticker OXY.",
+    "source": {
+      "name": "SEC DEF 14A for Occidental Petroleum Corporation",
+      "date": "2026-03-19",
+      "url": "https://www.sec.gov/Archives/edgar/data/797468/000162828026019816/oxy-20260319.htm"
     },
     "reviewed": true
   },
@@ -4685,6 +5105,20 @@
     "reviewed": true
   },
   {
+    "id": "paze-owner-record",
+    "ownerIds": [
+      "paze-owner"
+    ],
+    "text": "Early Warning Services, LLC is co-owned by seven major U.S. banks: Bank of America, Capital One, JPMorgan Chase, PNC Bank, Truist, U.S. Bank and Wells Fargo.",
+    "short": "Early Warning Services, LLC is co-owned by seven major U.S.",
+    "source": {
+      "name": "Consumer Financial Protection Bureau webpage",
+      "date": "2026-09-24",
+      "url": "https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/early-warning-services-llc/"
+    },
+    "reviewed": true
+  },
+  {
     "id": "perdue-farms-owner-record",
     "ownerIds": [
       "perdue-farms-owner"
@@ -4755,6 +5189,20 @@
     "reviewed": true
   },
   {
+    "id": "pnc-bank-pnc-financial-services-owner-record",
+    "ownerIds": [
+      "pnc-bank-pnc-financial-services-owner"
+    ],
+    "text": "PNC Financial Services Group, Inc. is the ultimate owner of PNC Bank (PNC Financial Services).",
+    "short": "PNC Financial Services Group, Inc.",
+    "source": {
+      "name": "Unknown",
+      "date": "2026-09-24",
+      "url": "https://example.com"
+    },
+    "reviewed": true
+  },
+  {
     "id": "blockratize-inc-record",
     "ownerIds": [
       "blockratize-inc"
@@ -4765,6 +5213,20 @@
       "name": "Intercontinental Exchange, 'ICE Announces Strategic Investment in Polymarket'",
       "date": "2025-10-07",
       "url": "https://ir.theice.com/press/news-details/2025/ICE-Announces-Strategic-Investment-in-Polymarket/default.aspx"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "progressive-owner-record",
+    "ownerIds": [
+      "progressive-owner"
+    ],
+    "text": "Progressive Corporation is a publicly traded company listed on the New York Stock Exchange under ticker PGR.",
+    "short": "Progressive Corporation is a publicly traded company listed on the New York Stock Exchange under ticker PGR.",
+    "source": {
+      "name": "SEC DEF 14A for Progressive Corporation",
+      "date": "2026-03-23",
+      "url": "https://www.sec.gov/Archives/edgar/data/80661/000008066126000099/pgr-20260318.htm"
     },
     "reviewed": true
   },
@@ -4923,6 +5385,20 @@
     "reviewed": true
   },
   {
+    "id": "rate-formerly-guaranteed-rate-owner-record",
+    "ownerIds": [
+      "rate-formerly-guaranteed-rate-owner"
+    ],
+    "text": "Guaranteed Rate is a privately held company, ranked #1 for revenue growth on lists of largest privately held companies.",
+    "short": "Guaranteed Rate is a privately held company, ranked #1 for revenue growth on lists of largest privately held companies.",
+    "source": {
+      "name": "Crain's Chicago Business article via Cision",
+      "date": "2013-04-22",
+      "url": "https://news.cision.com/guaranteed-rate-inc-/r/guaranteed-rate-ranked--1-for-revenue-growth-on-list-of-largest-privately-held-companies,c9403167"
+    },
+    "reviewed": true
+  },
+  {
     "id": "raymond-james-financial-owner-record",
     "ownerIds": [
       "raymond-james-financial-owner"
@@ -5003,6 +5479,34 @@
       "name": "Robinhood Markets, Inc. DEF 14A 2026 (SEC)",
       "date": "2026-04-22",
       "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000053/hood-20260422.htm"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "rocket-rocket-companies-owner-record",
+    "ownerIds": [
+      "rocket-rocket-companies-owner"
+    ],
+    "text": "Rocket Companies, Inc. is the ultimate owner of Rocket (Rocket Companies).",
+    "short": "Rocket Companies, Inc.",
+    "source": {
+      "name": "Unknown",
+      "date": "2026-09-24",
+      "url": "https://example.com"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "rogers-communications-owner-record",
+    "ownerIds": [
+      "rogers-communications-owner"
+    ],
+    "text": "Rogers Communications Inc. is a publicly traded company listed on the Toronto Stock Exchange and New York Stock Exchange under ticker RCI.",
+    "short": "Rogers Communications Inc.",
+    "source": {
+      "name": "SEC 40-F for Rogers Communications Inc.",
+      "date": "2026-03-06",
+      "url": "https://www.sec.gov/Archives/edgar/data/733099/000073309926000009/rci-20251231.htm"
     },
     "reviewed": true
   },
@@ -5161,6 +5665,20 @@
     "reviewed": true
   },
   {
+    "id": "sezzle-owner-record",
+    "ownerIds": [
+      "sezzle-owner"
+    ],
+    "text": "Sezzle Inc. is a publicly traded company listed on the NASDAQ under ticker SEZL.",
+    "short": "Sezzle Inc.",
+    "source": {
+      "name": "SEC 10-K for Sezzle Inc.",
+      "date": "2026-02-26",
+      "url": "https://www.sec.gov/Archives/edgar/data/1662991/000166299126000016/szl-20251231.htm"
+    },
+    "reviewed": true
+  },
+  {
     "id": "sheetz-owner-record",
     "ownerIds": [
       "sheetz-owner"
@@ -5241,6 +5759,20 @@
       "name": "Unknown",
       "date": "2026-09-24",
       "url": "https://example.com"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "spectrum-charter-communications-owner-record",
+    "ownerIds": [
+      "spectrum-charter-communications-owner"
+    ],
+    "text": "Charter Communications, Inc. is a publicly traded company listed on the NASDAQ under ticker CHTR.",
+    "short": "Charter Communications, Inc.",
+    "source": {
+      "name": "SEC DEF 14A for Charter Communications, Inc.",
+      "date": "2026-03-12",
+      "url": "https://www.sec.gov/Archives/edgar/data/1091667/000114036126009220/ny20062718x1_def14a.htm"
     },
     "reviewed": true
   },
@@ -5329,6 +5861,20 @@
     "reviewed": true
   },
   {
+    "id": "stockx-owner-record",
+    "ownerIds": [
+      "stockx-owner"
+    ],
+    "text": "StockX is a privately held e-commerce marketplace that authenticates and resells sneakers, streetwear, watches and collectibles.",
+    "short": "StockX is a privately held e-commerce marketplace that authenticates and resells sneakers, streetwear, watches and collectibles.",
+    "source": {
+      "name": "Bitget Wiki article on StockX ownership",
+      "date": "2026-09-24",
+      "url": "https://bitget.com/wiki/who-owns-stock-x"
+    },
+    "reviewed": true
+  },
+  {
     "id": "sumup-ltd-record",
     "ownerIds": [
       "sumup-ltd"
@@ -5395,6 +5941,20 @@
       "name": "Unknown",
       "date": "2026-09-24",
       "url": "https://example.com"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "t-rowe-price-owner-record",
+    "ownerIds": [
+      "t-rowe-price-owner"
+    ],
+    "text": "T. Rowe Price Group, Inc. is a publicly traded company listed on the NASDAQ under ticker TROW.",
+    "short": "T.",
+    "source": {
+      "name": "SEC 10-K for T. Rowe Price",
+      "date": "2020-09-30",
+      "url": "https://www.sec.gov/Archives/edgar/data/267210/000032081212000031/troweprice-20200930.htm"
     },
     "reviewed": true
   },
@@ -5567,6 +6127,20 @@
     "reviewed": true
   },
   {
+    "id": "tropicana-tropicana-brands-group-owner-record",
+    "ownerIds": [
+      "tropicana-tropicana-brands-group-owner"
+    ],
+    "text": "PAI Partners acquired a 61% stake in Tropicana Brands Group from PepsiCo, making PAI Partners the majority owner.",
+    "short": "PAI Partners acquired a 61% stake in Tropicana Brands Group from PepsiCo, making PAI Partners the majority owner.",
+    "source": {
+      "name": "PAI Partners press release",
+      "date": "2021-08-03",
+      "url": "https://www.paipartners.com/mediaitem/pai-partners-agrees-to-acquire-tropicana-naked-and-other-select-juice-brands-from-pepsico/press-release-pai-partners-tropicana-pepsi-3-august-2021"
+    },
+    "reviewed": true
+  },
+  {
     "id": "truist-owner-record",
     "ownerIds": [
       "truist-owner"
@@ -5647,6 +6221,20 @@
       "name": "UCLA Health About Us",
       "date": "2026-09-24",
       "url": "https://www.uclahealth.org/about-us/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "uline-owner-record",
+    "ownerIds": [
+      "uline-owner"
+    ],
+    "text": "Recognizing a local need for a shipping supply distributor, Liz and Dick Uihlein started Uline from their basement in 1980; Uline is now North America's leading distributor of shipping, packaging and industrial supplies.",
+    "short": "Recognizing a local need for a shipping supply distributor, Liz and Dick Uihlein started Uline from their basement in 1980; Uline is now North America's leading….",
+    "source": {
+      "name": "Uline Corporate About History page",
+      "date": "2026-09-24",
+      "url": "https://www.uline.com/Corporate/About_History"
     },
     "reviewed": true
   },
@@ -5843,6 +6431,34 @@
       "name": "WWK insurer profile (WWK Lebensversicherung a.G. as mutual parent); WWK corporate history",
       "date": "2026",
       "url": "https://boleron.eu/en/germany/insurer/wwk"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "xfinity-owner-record",
+    "ownerIds": [
+      "xfinity-owner"
+    ],
+    "text": "Comcast Corporation is a publicly traded company listed on the NASDAQ under ticker CMCSA; Xfinity is a brand of Comcast.",
+    "short": "Comcast Corporation is a publicly traded company listed on the NASDAQ under ticker CMCSA; Xfinity is a brand of Comcast.",
+    "source": {
+      "name": "SEC DEF 14A for Comcast Corporation",
+      "date": "2026-04-24",
+      "url": "https://www.sec.gov/Archives/edgar/data/1166691/000119312526177138/cmcsa-20260424.htm"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "xfinity-mobile-comcast-owner-record",
+    "ownerIds": [
+      "xfinity-mobile-comcast-owner"
+    ],
+    "text": "Comcast Corporation is a NASDAQ-listed telecommunications conglomerate with no state ownership; the Roberts family holds super-voting Class B shares but no state stake exists.",
+    "short": "Comcast Corporation is a NASDAQ-listed telecommunications conglomerate with no state ownership; the Roberts family holds super-voting Class B shares but no state….",
+    "source": {
+      "name": "Comcast DEF 14A 2026",
+      "date": "2026-04-24",
+      "url": "https://www.sec.gov/Archives/edgar/data/1166691/000119312526177138/cmcsa-20260424.htm"
     },
     "reviewed": true
   },

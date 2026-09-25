@@ -31,10 +31,10 @@
       "name": "Spectrum (Charter Communications)",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "spectrum-charter-communications-owner",
       "owner": "Spectrum (Charter Communications)",
-      "verdict": null,
+      "verdict": "Owned by Charter Communications, Inc.. Nothing found.",
       "source": {
         "name": "Charter Communications newsroom",
         "date": "2016-08-17",

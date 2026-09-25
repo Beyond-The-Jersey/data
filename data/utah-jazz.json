@@ -29,10 +29,10 @@
       "name": "HealthEquity",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "healthequity-owner",
       "owner": "HealthEquity",
-      "verdict": null,
+      "verdict": "Owned by HealthEquity, Inc.. Nothing found.",
       "source": {
         "name": "Utah Jazz",
         "date": "2026-06-17",

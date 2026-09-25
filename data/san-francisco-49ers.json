@@ -15,10 +15,10 @@
       "name": "Levi Strauss & Co. (Levi's)",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "levi-strauss-and-co-levi-s-owner",
       "owner": "Levi Strauss & Co. (Levi's)",
-      "verdict": null,
+      "verdict": "Owned by Levi Strauss & Co.. Nothing found.",
       "source": {
         "name": "Levi Strauss & Co.",
         "date": "2024-01-25",
@@ -30,10 +30,10 @@
       "name": "U.S. Bank",
       "placement": "training-kit",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "us-bank-owner",
       "owner": "U.S. Bank",
-      "verdict": null,
+      "verdict": "Owned by U.S. Bancorp. Nothing found.",
       "source": {
         "name": "Sports Business Journal",
         "date": "2026-09-10",
@@ -41,7 +41,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "levi-strauss-and-co-levi-s-owner",
     "us-bank-owner"

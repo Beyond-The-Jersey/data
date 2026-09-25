@@ -74,12 +74,14 @@
     "name": "ADT",
     "ownerId": "adt-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by ADT Inc.. Nothing found.",
+    "claimIds": [
+      "adt-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of miami-marlins (2026-27)."
+    "note": "Rating note: ADT is a publicly traded company; Apollo affiliates hold ~22% stake but no controlling interest. No state stake or serious conduct record identified."
   },
   {
     "id": "advocate-health-care",
@@ -156,12 +158,14 @@
     "name": "All In Won",
     "ownerId": "all-in-won-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by All In Won Med-Bill & IT, LLC. Nothing found.",
+    "claimIds": [
+      "all-in-won-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of brooklyn-nets (2026-27)."
+    "note": "Rating note: Described as a New York-based premier medical billing company; partnership structure indicates private ownership with no state stake."
   },
   {
     "id": "allegiant-travel-company",
@@ -280,12 +284,14 @@
     "name": "Anheuser-Busch",
     "ownerId": "anheuser-busch-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Anheuser-Busch InBev SA/NV. Nothing found.",
+    "claimIds": [
+      "anheuser-busch-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of st-louis-cardinals (2026-27)."
+    "note": "Rating note: Ultimate owner is the publicly traded brewer; no state stake or serious conduct record identified."
   },
   {
     "id": "aramco",
@@ -376,12 +382,14 @@
     "name": "Atrium Health",
     "ownerId": "atrium-health-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Atrium Health. Nothing found.",
+    "claimIds": [
+      "atrium-health-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of carolina-panthers (2026-27)."
+    "note": "Rating note: Atrium Health is a nonprofit (not-for-profit) healthcare system; no state stake or serious conduct record identified."
   },
   {
     "id": "att",
@@ -499,12 +507,14 @@
     "name": "Baptist Health",
     "ownerId": "baptist-health-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Baptist Health South Florida. Nothing found.",
+    "claimIds": [
+      "baptist-health-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of miami-dolphins (2026-27)."
+    "note": "Rating note: Explicitly states not-for-profit mission; no state stake or serious conduct record identified."
   },
   {
     "id": "barclays",
@@ -830,12 +840,14 @@
     "name": "Children's Hospital Colorado",
     "ownerId": "childrens-hospital-colorado-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Children's Hospital Colorado. Nothing found.",
+    "claimIds": [
+      "childrens-hospital-colorado-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of denver-broncos (2026-27)."
+    "note": "Rating note: Explicitly states private, non-profit status; no state stake or serious conduct record identified."
   },
   {
     "id": "circle-usdc",
@@ -873,24 +885,28 @@
     "name": "Citigroup (Citi)",
     "ownerId": "citigroup-citi-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "concern",
+    "status": "rated",
+    "verdict": "Citigroup is a NYSE-listed bank with no state ownership but has documented conduct issues including sanctions violations and settlements related to….",
+    "claimIds": [
+      "citigroup-citi-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of new-york-mets (2026-27)."
+    "note": "Rating note: Citigroup has no state ownership but has a documented conduct record: paid ~$1.1bn in 2019 for Iran-related sanctions/AML failures and agreed to forfeit $227m in 2012 for Iran/Sudan transactions. Under rubric, this is a 'lesser link' (concern) not ownership-based severe/serious."
   },
   {
     "id": "citizens-bank",
     "name": "Citizens Bank (Citizens Financial Group)",
     "ownerId": "citizens-bank-citizens-financial-group-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Citizens Bank (Citizens Financial Group). Nothing found.",
+    "claimIds": [
+      "citizens-bank-citizens-financial-group-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of philadelphia-phillies (2026-27)."
+    "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
   },
   {
     "id": "claro",
@@ -967,12 +983,14 @@
     "name": "CME Group",
     "ownerId": "cme-group-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by CME Group Inc.. Nothing found.",
+    "claimIds": [
+      "cme-group-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of chicago-white-sox (2026-27)."
+    "note": "Rating note: CME Group is a publicly traded financial exchange company; no state stake or serious conduct record identified."
   },
   {
     "id": "cognizant",
@@ -1035,12 +1053,14 @@
     "name": "Coors Brewing Co. (Molson Coors)",
     "ownerId": "coors-brewing-co-molson-coors-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Coors Brewing Co. (Molson Coors). Nothing found.",
+    "claimIds": [
+      "coors-brewing-co-molson-coors-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of colorado-rockies (2026-27)."
+    "note": "Rating note: Molson Coors is publicly traded with no state ownership; largest holders are Vanguard (~12%) and BlackRock (~7.5%). No documented human-rights concerns in ownership chain."
   },
   {
     "id": "core-scientific",
@@ -1213,12 +1233,14 @@
     "name": "Desert Financial Credit Union",
     "ownerId": "desert-financial-credit-union-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Desert Financial Credit Union. Nothing found.",
+    "claimIds": [
+      "desert-financial-credit-union-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of arizona-cardinals (2026-27)."
+    "note": "Rating note: Explicitly states not-for-profit, member-owned credit union; no state stake or serious conduct record identified."
   },
   {
     "id": "deutsche-telekom",
@@ -1368,12 +1390,14 @@
     "name": "Energy Transfer",
     "ownerId": "energy-transfer-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Energy Transfer LP. Nothing found.",
+    "claimIds": [
+      "energy-transfer-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of texas-rangers (2026-27)."
+    "note": "Rating note: Although control lies with Kelcy Warren via LE GP, LLC, the partnership is publicly traded with no state stake; no serious conduct record identified."
   },
   {
     "id": "eni",
@@ -1535,12 +1559,14 @@
     "name": "Fifth Third Bank",
     "ownerId": "fifth-third-bank-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Fifth Third Bancorp. Nothing found.",
+    "claimIds": [
+      "fifth-third-bank-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of tampa-bay-buccaneers (2026-27)."
+    "note": "Rating note: Fifth Third Bancorp is a publicly traded bank holding company; no state stake or serious conduct record identified."
   },
   {
     "id": "fiserv",
@@ -1643,12 +1669,14 @@
     "name": "Frost Bank",
     "ownerId": "frost-bank-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Cullen/Frost Bankers, Inc.. Nothing found.",
+    "claimIds": [
+      "frost-bank-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of san-antonio-spurs (2026-27)."
+    "note": "Rating note: Cullen/Frost Bankers, Inc. is a publicly traded bank; no state stake or serious conduct record identified."
   },
   {
     "id": "fundacion-1890",
@@ -1683,12 +1711,14 @@
     "name": "Gainbridge (Group 1001)",
     "ownerId": "gainbridge-group-1001-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Gainbridge (Group 1001). Nothing found.",
+    "claimIds": [
+      "gainbridge-group-1001-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of indiana-pacers (2026-27)."
+    "note": "Rating note: Group 1001 is a privately held insurance holding company controlled by Mark Walter (via TWG Global); no state ownership. No documented human-rights concerns in ownership chain identified."
   },
   {
     "id": "gate",
@@ -1750,24 +1780,28 @@
     "name": "Globe Life (Globe Life Inc.)",
     "ownerId": "globe-life-globe-life-inc-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Globe Life Globe Life Inc. Nothing found.",
+    "claimIds": [
+      "globe-life-globe-life-inc-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of texas-rangers (2026-27)."
+    "note": "Rating note: Arena naming-rights holder of texas-rangers (2026-27)."
   },
   {
     "id": "golden-1-credit-union",
     "name": "Golden 1 Credit Union",
     "ownerId": "golden-1-credit-union-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Golden 1 Credit Union. Nothing found.",
+    "claimIds": [
+      "golden-1-credit-union-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of sacramento-kings (2026-27)."
+    "note": "Rating note: Explicitly states member-owned and not-for-profit; no state stake or serious conduct record identified."
   },
   {
     "id": "google",
@@ -1925,12 +1959,14 @@
     "name": "HealthEquity",
     "ownerId": "healthequity-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by HealthEquity, Inc.. Nothing found.",
+    "claimIds": [
+      "healthequity-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of utah-jazz (2026-27)."
+    "note": "Rating note: HealthEquity is a publicly traded health technology company; no state stake or serious conduct record identified."
   },
   {
     "id": "herbalife",
@@ -2018,12 +2054,14 @@
     "name": "Huntington National Bank (Huntington Bancshares)",
     "ownerId": "huntington-national-bank-huntington-bancshares-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Huntington National Bank (Huntington Bancshares). Nothing found.",
+    "claimIds": [
+      "huntington-national-bank-huntington-bancshares-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of cleveland-browns (2026-27)."
+    "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
   },
   {
     "id": "hylo",
@@ -2126,12 +2164,14 @@
     "name": "Independence Blue Cross (IBX)",
     "ownerId": "independence-blue-cross-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Independence Blue Cross. Nothing found.",
+    "claimIds": [
+      "independence-blue-cross-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of philadelphia-phillies (2026-27)."
+    "note": "Rating note: Explicitly states not-for-profit status; no state stake or serious conduct record identified."
   },
   {
     "id": "ineos-s",
@@ -2232,12 +2272,14 @@
     "name": "JPMorgan Chase (Chase)",
     "ownerId": "jpmorgan-chase-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by JPMorgan Chase & Co.. Nothing found.",
+    "claimIds": [
+      "jpmorgan-chase-chase-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of arizona-diamondbacks (2026-27)."
+    "note": "Rating note: Arena naming-rights holder of arizona-diamondbacks (2026-27)."
   },
   {
     "id": "jpmorganchase",
@@ -2286,12 +2328,14 @@
     "name": "Kaseya",
     "ownerId": "kaseya-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Kaseya. Nothing found.",
+    "claimIds": [
+      "kaseya-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of miami-heat (2026-27)."
+    "note": "Rating note: Described as majority-owned by Insight Partners; no state stake or serious conduct record identified."
   },
   {
     "id": "kchat",
@@ -2480,12 +2524,14 @@
     "name": "Levi Strauss & Co. (Levi's)",
     "ownerId": "levi-strauss-and-co-levi-s-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Levi Strauss & Co.. Nothing found.",
+    "claimIds": [
+      "levi-strauss-and-co-levi-s-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of san-francisco-49ers (2026-27)."
+    "note": "Rating note: Levi Strauss & Co. is a publicly traded apparel company; no state stake or serious conduct record identified."
   },
   {
     "id": "lexware",
@@ -2562,12 +2608,14 @@
     "name": "Love's Travel Stops & Country Stores",
     "ownerId": "loves-travel-stops-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Love's Travel Stops & Country Stores. Nothing found.",
+    "claimIds": [
+      "loves-travel-stops-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of oklahoma-city-thunder (2026-27)."
+    "note": "Rating note: Explicitly states family-owned and operated; no state stake or serious conduct record identified."
   },
   {
     "id": "lucas-oil",
@@ -2616,12 +2664,14 @@
     "name": "Las Vegas Convention and Visitors Authority (LVCVA) - 'Las Vegas' patch",
     "ownerId": "lvcva-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "serious",
+    "status": "rated",
+    "verdict": "The Las Vegas Convention and Visitors Authority (LVCVA) was founded by the Nevada Legislature in 1955 as a governmental entity to serve this destination.",
+    "claimIds": [
+      "lvcva-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of athletics (2026-27)."
+    "note": "Rating note: LVCVA is a state agency created by statute; Nevada is a U.S. state with no ongoing armed conflict or severe abuses, but state ownership triggers serious tier per rubric."
   },
   {
     "id": "m-and-t-bank",
@@ -2777,12 +2827,14 @@
     "name": "Meijer",
     "ownerId": "meijer-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Meijer. Nothing found.",
+    "claimIds": [
+      "meijer-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of detroit-lions (2026-27)."
+    "note": "Rating note: Explicitly states family-owned; no state stake or serious conduct record identified."
   },
   {
     "id": "memorial-hermann",
@@ -2956,12 +3008,14 @@
     "name": "Motorola Mobility",
     "ownerId": "motorola-mobility-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "concern",
+    "status": "rated",
+    "verdict": "Lenovo acquired Motorola Mobility from Google in January 2014, making Motorola Mobility a subsidiary of Lenovo Group Limited.",
+    "claimIds": [
+      "motorola-mobility-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of chicago-bulls (2026-27)."
+    "note": "Rating note: Although Motorola Mobility is a subsidiary of Lenovo (which has partial state stake via Legend Holdings), the direct owner is Lenovo; Lenovo has concern tier due to partial state stake (Legend Holdings ~31.4%, CAS Holdings ~29.04% leading to indirect state interest ~9%). Therefore, Motorola Mobility inherits concern tier."
   },
   {
     "id": "mrq",
@@ -3065,12 +3119,14 @@
     "name": "Nissan",
     "ownerId": "nissan-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "concern",
+    "status": "rated",
+    "verdict": "Through the Renault-Nissan Alliance, the French State holds a 15% stake in Renault, which in turn holds a 15% stake in Nissan, resulting in an indirect state….",
+    "claimIds": [
+      "nissan-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of tennessee-titans (2026-27)."
+    "note": "Rating note: The French State's stake in Renault creates an indirect state stake in Nissan; per rubric, partial state stake leads to concern tier."
   },
   {
     "id": "noon",
@@ -3134,24 +3190,28 @@
     "name": "NRG Energy (Reliant brand)",
     "ownerId": "nrg-energy-reliant-brand-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by NRG Energy, Inc.. Nothing found.",
+    "claimIds": [
+      "nrg-energy-reliant-brand-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of houston-texans (2026-27)."
+    "note": "Rating note: Arena naming-rights holder of houston-texans (2026-27)."
   },
   {
     "id": "occidental-petroleum",
     "name": "Occidental Petroleum (Oxy)",
     "ownerId": "occidental-petroleum-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Occidental Petroleum Corporation. Nothing found.",
+    "claimIds": [
+      "occidental-petroleum-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of houston-astros (2026-27)."
+    "note": "Rating note: Occidental Petroleum is a publicly traded oil and gas company; no state stake or serious conduct record identified."
   },
   {
     "id": "okx",
@@ -3256,12 +3316,14 @@
     "name": "Paze (Early Warning Services)",
     "ownerId": "paze-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Early Warning Services, LLC. Nothing found.",
+    "claimIds": [
+      "paze-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of atlanta-hawks (2026-27)."
+    "note": "Rating note: Paze is owned by Early Warning Services, which is owned by seven major U.S. banks; no state stake or serious conduct record identified."
   },
   {
     "id": "perdue-farms",
@@ -3366,12 +3428,14 @@
     "name": "PNC Bank (PNC Financial Services)",
     "ownerId": "pnc-bank-pnc-financial-services-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by PNC Financial Services Group, Inc.. Nothing found.",
+    "claimIds": [
+      "pnc-bank-pnc-financial-services-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of pittsburgh-pirates (2026-27)."
+    "note": "Rating note: Arena naming-rights holder of pittsburgh-pirates (2026-27)."
   },
   {
     "id": "polymarket",
@@ -3392,12 +3456,14 @@
     "name": "Progressive",
     "ownerId": "progressive-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Progressive Corporation. Nothing found.",
+    "claimIds": [
+      "progressive-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of cleveland-guardians (2026-27)."
+    "note": "Rating note: Progressive is a publicly traded insurance company; no state stake or serious conduct record identified."
   },
   {
     "id": "prometeon",
@@ -3586,12 +3652,14 @@
     "name": "Rate (formerly Guaranteed Rate)",
     "ownerId": "rate-formerly-guaranteed-rate-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Rate (formerly Guaranteed Rate). Nothing found.",
+    "claimIds": [
+      "rate-formerly-guaranteed-rate-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of chicago-white-sox (2026-27)."
+    "note": "Rating note: Described as privately held; no state stake or serious conduct record identified."
   },
   {
     "id": "ray-ban",
@@ -3727,24 +3795,28 @@
     "name": "Rocket (Rocket Companies)",
     "ownerId": "rocket-rocket-companies-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Rocket Companies, Inc.. Nothing found.",
+    "claimIds": [
+      "rocket-rocket-companies-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of cleveland-cavaliers (2026-27)."
+    "note": "Rating note: Arena naming-rights holder of cleveland-cavaliers (2026-27)."
   },
   {
     "id": "rogers-communications",
     "name": "Rogers Communications",
     "ownerId": "rogers-communications-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Rogers Communications Inc.. Nothing found.",
+    "claimIds": [
+      "rogers-communications-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of toronto-blue-jays (2026-27)."
+    "note": "Rating note: Rogers Communications is a publicly traded telecommunications company; no state stake or serious conduct record identified."
   },
   {
     "id": "rouses-markets",
@@ -3934,12 +4006,14 @@
     "name": "Sezzle",
     "ownerId": "sezzle-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Sezzle Inc.. Nothing found.",
+    "claimIds": [
+      "sezzle-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of minnesota-timberwolves (2026-27)."
+    "note": "Rating note: Sezzle is a publicly traded fintech company; no state stake or serious conduct record identified."
   },
   {
     "id": "sheetz",
@@ -4058,12 +4132,14 @@
     "name": "Spectrum (Charter Communications)",
     "ownerId": "spectrum-charter-communications-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Charter Communications, Inc.. Nothing found.",
+    "claimIds": [
+      "spectrum-charter-communications-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of charlotte-hornets (2026-27)."
+    "note": "Rating note: Charter Communications is a publicly traded telecommunications company; no state stake or serious conduct record identified."
   },
   {
     "id": "spotify",
@@ -4154,12 +4230,14 @@
     "name": "StockX",
     "ownerId": "stockx-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by StockX. Nothing found.",
+    "claimIds": [
+      "stockx-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of detroit-pistons (2026-27)."
+    "note": "Rating note: Described as privately held; no state stake or serious conduct record identified."
   },
   {
     "id": "sumup",
@@ -4236,12 +4314,14 @@
     "name": "T. Rowe Price",
     "ownerId": "t-rowe-price-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by T. Rowe Price Group, Inc.. Nothing found.",
+    "claimIds": [
+      "t-rowe-price-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of baltimore-orioles (2026-27)."
+    "note": "Rating note: T. Rowe Price is a publicly traded investment management firm; no state stake or serious conduct record identified."
   },
   {
     "id": "tag-heuer",
@@ -4430,12 +4510,14 @@
     "name": "Tropicana (Tropicana Brands Group)",
     "ownerId": "tropicana-tropicana-brands-group-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Tropicana Brands Group. Nothing found.",
+    "claimIds": [
+      "tropicana-tropicana-brands-group-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of tampa-bay-rays (2026-27)."
+    "note": "Rating note: Tropicana Brands Group is a joint venture with PAI Partners holding 61% and PepsiCo 39%; no state stake or serious conduct record identified."
   },
   {
     "id": "truist",
@@ -4554,12 +4636,14 @@
     "name": "Uline",
     "ownerId": "uline-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Uline. Nothing found.",
+    "claimIds": [
+      "uline-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of milwaukee-bucks (2026-27)."
+    "note": "Rating note: Explicitly states family-owned since 1980; no state stake or serious conduct record identified."
   },
   {
     "id": "unicredit",
@@ -4636,12 +4720,14 @@
     "name": "U.S. Bank",
     "ownerId": "us-bank-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by U.S. Bancorp. Nothing found.",
+    "claimIds": [
+      "us-bank-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of san-francisco-49ers (2026-27)."
+    "note": "Rating note: U.S. Bancorp is a publicly traded bank holding company; no state stake or serious conduct record identified."
   },
   {
     "id": "uw-health",
@@ -4821,24 +4907,28 @@
     "name": "Xfinity (also Houston Methodist on some jerseys)",
     "ownerId": "xfinity-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Comcast Corporation. Nothing found.",
+    "claimIds": [
+      "xfinity-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of houston-texans (2026-27)."
+    "note": "Rating note: Xfinity is a brand of Comcast Corporation, a publicly traded telecommunications and media company; no state stake or serious conduct record identified."
   },
   {
     "id": "xfinity-mobile",
     "name": "Xfinity Mobile (Comcast)",
     "ownerId": "xfinity-mobile-comcast-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Xfinity Mobile (Comcast). Nothing found.",
+    "claimIds": [
+      "xfinity-mobile-comcast-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of philadelphia-76ers (2026-27)."
+    "note": "Rating note: Comcast is publicly traded with no state ownership; the Roberts family holds effective control via Class B shares but this is private, not state, ownership. No documented human-rights concerns in ownership chain identified."
   },
   {
     "id": "yeti",

@@ -30,10 +30,10 @@
       "name": "StockX",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "stockx-owner",
       "owner": "StockX",
-      "verdict": null,
+      "verdict": "Owned by StockX. Nothing found.",
       "source": {
         "name": "StockX Newsroom",
         "date": "2024-09-25",

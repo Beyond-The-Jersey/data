@@ -32,10 +32,10 @@
       "name": "Huntington National Bank (Huntington Bancshares)",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "huntington-national-bank-huntington-bancshares-owner",
       "owner": "Huntington National Bank (Huntington Bancshares)",
-      "verdict": null,
+      "verdict": "Owned by Huntington National Bank (Huntington Bancshares). Nothing found.",
       "source": {
         "name": "Cleveland Browns",
         "date": "2024-09-03",

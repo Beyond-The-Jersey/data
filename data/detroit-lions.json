@@ -31,10 +31,10 @@
       "name": "Meijer",
       "placement": "training-kit",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "meijer-owner",
       "owner": "Meijer",
-      "verdict": null,
+      "verdict": "Owned by Meijer. Nothing found.",
       "source": {
         "name": "Detroit Lions",
         "date": "2024-07-23",

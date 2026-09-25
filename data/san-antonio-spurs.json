@@ -14,10 +14,10 @@
       "name": "Frost Bank",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "frost-bank-owner",
       "owner": "Frost Bank",
-      "verdict": null,
+      "verdict": "Owned by Cullen/Frost Bankers, Inc.. Nothing found.",
       "source": {
         "name": "San Antonio Spurs (nba.com)",
         "date": "2023-09-22",

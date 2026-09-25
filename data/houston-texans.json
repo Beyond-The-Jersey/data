@@ -16,10 +16,10 @@
       "name": "NRG Energy (Reliant brand)",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "nrg-energy-reliant-brand-owner",
       "owner": "NRG Energy (Reliant brand)",
-      "verdict": null,
+      "verdict": "Owned by NRG Energy, Inc.. Nothing found.",
       "source": {
         "name": "Reliant / NRG Energy press release",
         "date": "2026-04-15",
@@ -31,10 +31,10 @@
       "name": "Xfinity (also Houston Methodist on some jerseys)",
       "placement": "training-kit",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "xfinity-owner",
       "owner": "Xfinity (also Houston Methodist on some jerseys)",
-      "verdict": null,
+      "verdict": "Owned by Comcast Corporation. Nothing found.",
       "source": {
         "name": "Zoomph (2026 NFL practice jersey patch guide)",
         "date": "2026-09-01",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "nrg-energy-reliant-brand-owner",
     "xfinity-owner"

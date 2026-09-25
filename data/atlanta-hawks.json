@@ -16,10 +16,10 @@
       "name": "Paze (Early Warning Services)",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "paze-owner",
       "owner": "Paze (Early Warning Services)",
-      "verdict": null,
+      "verdict": "Owned by Early Warning Services, LLC. Nothing found.",
       "source": {
         "name": "Sports Business Journal",
         "date": "2025-09-29",

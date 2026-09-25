@@ -56,6 +56,32 @@ def verdict_for(tier, owner, short):
     return short
 
 
+# Sponsor ids were cleaned of their parenthetical ('citigroup-citi' -> 'citigroup') after
+# the rating pass ran, so researched ratings would silently stop matching. Map them across
+# instead of paying for the research twice.
+ALIAS = {
+    "citigroup-citi": "citigroup",
+    "citizens-bank-citizens-financial-group": "citizens-bank",
+    "coors-brewing-co-molson-coors": "coors-brewing-co",
+    "gainbridge-group-1001": "gainbridge",
+    "gillette-procter-and-gamble": "gillette",
+    "globe-life-globe-life-inc": "globe-life",
+    "huntington-national-bank-huntington-bancshares": "huntington-national-bank",
+    "jpmorgan-chase-chase": "jpmorgan-chase",
+    "jpmorgan-chase-chase-brand": "jpmorgan-chase",
+    "levi-strauss-and-co-levi-s": "levi-strauss-and-co",
+    "metlife-metropolitan-life-insurance": "metlife",
+    "nrg-energy-reliant-brand": "nrg-energy",
+    "pnc-bank-pnc-financial-services": "pnc-bank",
+    "rate-formerly-guaranteed-rate": "rate",
+    "rocket-rocket-companies": "rocket",
+    "spectrum-charter-communications": "spectrum",
+    "target-target-corporation": "target",
+    "tropicana-tropicana-brands-group": "tropicana",
+    "xfinity-mobile-comcast": "xfinity-mobile",
+}
+
+
 def main():
     rows = []
     seen = set()
@@ -65,6 +91,8 @@ def main():
             continue
         raw = json.load(open(path, encoding="utf-8"))
         for r in (raw["ratings"] if isinstance(raw, dict) else raw):
+            r = dict(r)
+            r["sponsorId"] = ALIAS.get(r["sponsorId"], r["sponsorId"])
             if r["sponsorId"] in seen:
                 continue
             seen.add(r["sponsorId"])

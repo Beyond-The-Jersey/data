@@ -29,10 +29,10 @@
       "name": "Uline",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "uline-owner",
       "owner": "Uline",
-      "verdict": null,
+      "verdict": "Owned by Uline. Nothing found.",
       "source": {
         "name": "Milwaukee Bucks / NBA.com",
         "date": "2026-09-21",

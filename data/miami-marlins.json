@@ -16,10 +16,10 @@
       "name": "ADT",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "adt-owner",
       "owner": "ADT",
-      "verdict": null,
+      "verdict": "Owned by ADT Inc.. Nothing found.",
       "source": {
         "name": "Sports Business Journal",
         "date": "2025-05-13",

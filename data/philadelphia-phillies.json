@@ -16,10 +16,10 @@
       "name": "Citizens Bank (Citizens Financial Group)",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "citizens-bank-citizens-financial-group-owner",
       "owner": "Citizens Bank (Citizens Financial Group)",
-      "verdict": null,
+      "verdict": "Owned by Citizens Bank (Citizens Financial Group). Nothing found.",
       "source": {
         "name": "Sports Business Journal",
         "date": "2003-06-17",
@@ -31,10 +31,10 @@
       "name": "Independence Blue Cross (IBX)",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "independence-blue-cross-owner",
       "owner": "Independence Blue Cross (IBX)",
-      "verdict": null,
+      "verdict": "Owned by Independence Blue Cross. Nothing found.",
       "source": {
         "name": "MLB.com (Philadelphia Phillies)",
         "date": "2024-07-31",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "citizens-bank-citizens-financial-group-owner",
     "independence-blue-cross-owner"

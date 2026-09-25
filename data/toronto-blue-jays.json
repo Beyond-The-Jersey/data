@@ -16,10 +16,10 @@
       "name": "Rogers Communications",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "rogers-communications-owner",
       "owner": "Rogers Communications",
-      "verdict": null,
+      "verdict": "Owned by Rogers Communications Inc.. Nothing found.",
       "source": {
         "name": "Sports Business Journal",
         "date": "2005-02-03",

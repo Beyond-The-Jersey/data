@@ -14,10 +14,10 @@
       "name": "Sezzle",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "sezzle-owner",
       "owner": "Sezzle",
-      "verdict": null,
+      "verdict": "Owned by Sezzle Inc.. Nothing found.",
       "source": {
         "name": "Minnesota Timberwolves (nba.com)",
         "date": "2024-08-12",

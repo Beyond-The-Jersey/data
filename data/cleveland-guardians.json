@@ -31,10 +31,10 @@
       "name": "Progressive",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "progressive-owner",
       "owner": "Progressive",
-      "verdict": null,
+      "verdict": "Owned by Progressive Corporation. Nothing found.",
       "source": {
         "name": "Progressive Insurance media room",
         "date": "2024-04-03",

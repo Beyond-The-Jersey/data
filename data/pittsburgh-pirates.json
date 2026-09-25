@@ -16,10 +16,10 @@
       "name": "PNC Bank (PNC Financial Services)",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "pnc-bank-pnc-financial-services-owner",
       "owner": "PNC Bank (PNC Financial Services)",
-      "verdict": null,
+      "verdict": "Owned by PNC Financial Services Group, Inc.. Nothing found.",
       "source": {
         "name": "Pittsburgh Pirates / MLB.com press release",
         "date": "2021-03-04",

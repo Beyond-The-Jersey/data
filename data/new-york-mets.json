@@ -15,10 +15,10 @@
       "name": "Citigroup (Citi)",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "concern",
       "ownerId": "citigroup-citi-owner",
       "owner": "Citigroup (Citi)",
-      "verdict": null,
+      "verdict": "Citigroup is a NYSE-listed bank with no state ownership but has documented conduct issues including sanctions violations and settlements related to….",
       "source": {
         "name": "Chief Marketer",
         "date": "2006-11-14",
@@ -41,7 +41,7 @@
       }
     }
   ],
-  "worstTier": "none",
+  "worstTier": "concern",
   "owners": [
     "citigroup-citi-owner",
     "newyork-presbyterian-owner"
