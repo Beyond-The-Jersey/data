@@ -30,10 +30,10 @@
       "name": "SoFi",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "sofi-owner",
       "owner": "SoFi",
-      "verdict": null,
+      "verdict": "Owned by SoFi Technologies, Inc.. Nothing found.",
       "source": {
         "name": "Los Angeles Times (quoting the joint club/venue release)",
         "date": "2019-09-15",

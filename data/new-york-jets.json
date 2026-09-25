@@ -15,10 +15,10 @@
       "name": "Atlantic Health",
       "placement": "training-kit",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "atlantic-health-owner",
       "owner": "Atlantic Health",
-      "verdict": null,
+      "verdict": "Owned by Atlantic Health System. Nothing found.",
       "source": {
         "name": "Zoomph (2026 NFL jersey patch guide)",
         "date": "2026-09-01",
@@ -30,10 +30,10 @@
       "name": "MetLife",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "metlife-owner",
       "owner": "MetLife",
-      "verdict": null,
+      "verdict": "Owned by MetLife, Inc.. Nothing found.",
       "source": {
         "name": "MetLife Stadium (official)",
         "date": "2026-09-10",
@@ -41,7 +41,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "atlantic-health-owner",
     "metlife-owner"

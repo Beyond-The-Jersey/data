@@ -14,10 +14,10 @@
       "name": "Fiserv",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "fiserv-owner",
       "owner": "Fiserv",
-      "verdict": null,
+      "verdict": "Owned by Fiserv. Nothing found.",
       "source": {
         "name": "Fiserv, Inc. investor newsroom",
         "date": "2018-07-26",
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "fiserv-owner",
     "uline-owner"

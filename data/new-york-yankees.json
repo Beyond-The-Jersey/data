@@ -16,10 +16,10 @@
       "name": "Starr Insurance Companies",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "starr-insurance-owner",
       "owner": "Starr Insurance Companies",
-      "verdict": null,
+      "verdict": "Owned by Starr Insurance Companies. Nothing found.",
       "source": {
         "name": "NJ.com",
         "date": "2026-04-02",
@@ -27,7 +27,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "starr-insurance-owner"
   ],

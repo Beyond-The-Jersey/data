@@ -16,10 +16,10 @@
       "name": "Dream Finders Homes",
       "placement": "training-kit",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "dream-finders-homes-owner",
       "owner": "Dream Finders Homes",
-      "verdict": null,
+      "verdict": "Owned by Dream Finders Homes. Nothing found.",
       "source": {
         "name": "Zoomph",
         "date": "2026-09-01",
@@ -31,10 +31,10 @@
       "name": "EverBank",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "everbank-owner",
       "owner": "EverBank",
-      "verdict": null,
+      "verdict": "Owned by EverBank. Nothing found.",
       "source": {
         "name": "EverBank (news release)",
         "date": "2024-05-17",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "dream-finders-homes-owner",
     "everbank-owner"

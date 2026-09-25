@@ -31,10 +31,10 @@
       "name": "UNIQLO",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "concern",
       "ownerId": "uniqlo-owner",
       "owner": "UNIQLO",
-      "verdict": null,
+      "verdict": "Fast Retailing Co., Ltd.",
       "source": {
         "name": "DodgerBlue",
         "date": "2026-03-25",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "concern",
   "owners": [
     "guggenheim-owner",
     "uniqlo-owner"

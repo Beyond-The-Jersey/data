@@ -14,10 +14,10 @@
       "name": "Kia America",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "kia-america-owner",
       "owner": "Kia America",
-      "verdict": null,
+      "verdict": "Owned by Kia America. Nothing found.",
       "source": {
         "name": "Kia Media (Kia America press release)",
         "date": "2023-12-20",
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "kia-america-owner",
     "walt-disney-world-owner"

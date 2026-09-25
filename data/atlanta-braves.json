@@ -31,10 +31,10 @@
       "name": "Truist",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "truist-owner",
       "owner": "Truist",
-      "verdict": null,
+      "verdict": "Owned by Truist. Nothing found.",
       "source": {
         "name": "Truist media release",
         "date": "2020-01-14",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "quikrete-owner",
     "truist-owner"

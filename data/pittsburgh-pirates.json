@@ -31,10 +31,10 @@
       "name": "Sheetz",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "sheetz-owner",
       "owner": "Sheetz",
-      "verdict": null,
+      "verdict": "Owned by Sheetz. Nothing found.",
       "source": {
         "name": "Pittsburgh Pirates / MLB.com press release",
         "date": "2024-06-21",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "pnc-bank-pnc-financial-services-owner",
     "sheetz-owner"

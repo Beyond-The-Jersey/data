@@ -14,10 +14,10 @@
       "name": "PayPal",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "paypal-owner",
       "owner": "PayPal",
-      "verdict": null,
+      "verdict": "Owned by PayPal Holdings, Inc.. Nothing found.",
       "source": {
         "name": "Zoomph (2026/27 NBA jersey patch guide)",
         "date": "2026-09-01",
@@ -29,10 +29,10 @@
       "name": "United Wholesale Mortgage",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "united-wholesale-mortgage-owner",
       "owner": "United Wholesale Mortgage",
-      "verdict": null,
+      "verdict": "Owned by United Wholesale Mortgage LLC. Nothing found.",
       "source": {
         "name": "FOX 10 Phoenix",
         "date": "2025-10-02",
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "paypal-owner",
     "united-wholesale-mortgage-owner"

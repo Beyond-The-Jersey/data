@@ -16,10 +16,10 @@
       "name": "Ascension St. Vincent's",
       "placement": "training-kit",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "ascension-st-vincent-owner",
       "owner": "Ascension St. Vincent's",
-      "verdict": null,
+      "verdict": "Owned by Ascension St. Vincent's. Nothing found.",
       "source": {
         "name": "Zoomph (NFL practice-jersey sponsor tracker)",
         "date": "2026-09-01",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "ascension-st-vincent-owner",
     "lucas-oil-products-owner"

@@ -16,10 +16,10 @@
       "name": "Nintendo (Nintendo of America)",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "nintendo-owner",
       "owner": "Nintendo (Nintendo of America)",
-      "verdict": null,
+      "verdict": "Owned by Nintendo Co., Ltd.. Nothing found.",
       "source": {
         "name": "Seattle Mariners (MLB.com)",
         "date": "2026-03-27",
@@ -31,10 +31,10 @@
       "name": "T-Mobile",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "t-mobile-owner",
       "owner": "T-Mobile",
-      "verdict": null,
+      "verdict": "Owned by T-Mobile US, Inc.. Nothing found.",
       "source": {
         "name": "MLB.com press release",
         "date": "2018-12-19",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "nintendo-owner",
     "t-mobile-owner"

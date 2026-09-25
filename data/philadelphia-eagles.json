@@ -30,10 +30,10 @@
       "name": "Lincoln Financial Group",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "lincoln-financial-group-owner",
       "owner": "Lincoln Financial Group",
-      "verdict": null,
+      "verdict": "Owned by Lincoln Financial Group. Nothing found.",
       "source": {
         "name": "Philadelphia Eagles",
         "date": "2019-05-09",
@@ -41,7 +41,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "jefferson-health-owner",
     "lincoln-financial-group-owner"

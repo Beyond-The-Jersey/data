@@ -30,10 +30,10 @@
       "name": "Paycom",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "paycom-owner",
       "owner": "Paycom",
-      "verdict": null,
+      "verdict": "Owned by Paycom. Nothing found.",
       "source": {
         "name": "Oklahoma City Thunder (nba.com)",
         "date": "2021-07-27",
@@ -41,7 +41,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "loves-travel-stops-owner",
     "paycom-owner"

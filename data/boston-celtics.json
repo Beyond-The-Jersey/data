@@ -15,10 +15,10 @@
       "name": "Amica Mutual Insurance",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "amica-mutual-insurance-owner",
       "owner": "Amica Mutual Insurance",
-      "verdict": null,
+      "verdict": "Owned by Amica Mutual Insurance Company. Nothing found.",
       "source": {
         "name": "NBC Sports Boston",
         "date": "2024-07-09",
@@ -41,7 +41,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "amica-mutual-insurance-owner",
     "td-bank-owner"

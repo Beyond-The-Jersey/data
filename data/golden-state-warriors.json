@@ -13,10 +13,10 @@
       "name": "IREN (IREN Ltd, AI cloud infrastructure)",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "iren-owner",
       "owner": "IREN (IREN Ltd, AI cloud infrastructure)",
-      "verdict": null,
+      "verdict": "Owned by IREN (IREN Ltd, AI cloud infrastructure). Nothing found.",
       "source": {
         "name": "Silicon Valley / Bay Area News Group",
         "date": "2026-06-27",
@@ -39,7 +39,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "iren-owner",
     "jpmorgan-chase-owner"

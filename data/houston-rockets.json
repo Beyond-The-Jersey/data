@@ -17,10 +17,10 @@
       "name": "Memorial Hermann Health System",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "memorial-hermann-owner",
       "owner": "Memorial Hermann Health System",
-      "verdict": null,
+      "verdict": "Owned by Memorial Hermann Health System. Nothing found.",
       "source": {
         "name": "Sports Business Journal",
         "date": "2024-10-10",
@@ -32,10 +32,10 @@
       "name": "Toyota",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "toyota-owner",
       "owner": "Toyota",
-      "verdict": null,
+      "verdict": "Owned by Toyota Motor Corp.. Nothing found.",
       "source": {
         "name": "Sports Business Journal",
         "date": "2025-05-12",
@@ -43,7 +43,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "memorial-hermann-owner",
     "toyota-owner"

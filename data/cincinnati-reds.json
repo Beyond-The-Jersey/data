@@ -16,10 +16,10 @@
       "name": "Great American Insurance",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "great-american-insurance-owner",
       "owner": "Great American Insurance",
-      "verdict": null,
+      "verdict": "Owned by Great American Insurance. Nothing found.",
       "source": {
         "name": "Ballparks of Baseball",
         "date": "2023-01-01",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "great-american-insurance-owner",
     "kroger-owner"

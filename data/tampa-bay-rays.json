@@ -31,10 +31,10 @@
       "name": "Webull",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "webull-owner",
       "owner": "Webull",
-      "verdict": null,
+      "verdict": "Owned by Webull Corp.. Nothing found.",
       "source": {
         "name": "MLB.com (Tampa Bay Rays)",
         "date": "2026-03-19",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "tropicana-tropicana-brands-group-owner",
     "webull-owner"

@@ -14,10 +14,10 @@
       "name": "Highmark",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "highmark-owner",
       "owner": "Highmark",
-      "verdict": null,
+      "verdict": "Owned by Highmark. Nothing found.",
       "source": {
         "name": "Buffalo Bills",
         "date": "2023-06-05",
@@ -29,10 +29,10 @@
       "name": "Kaleida Health",
       "placement": "training-kit",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "kaleida-health-owner",
       "owner": "Kaleida Health",
-      "verdict": null,
+      "verdict": "Owned by Kaleida Health. Nothing found.",
       "source": {
         "name": "Zoomph (NFL Practice Jersey Patch Sponsors guide; updated 2026-09-01)",
         "date": "2026-09-01",
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "highmark-owner",
     "kaleida-health-owner"

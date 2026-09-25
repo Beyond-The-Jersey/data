@@ -16,10 +16,10 @@
       "name": "Allegiant Travel Company",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "allegiant-travel-company-owner",
       "owner": "Allegiant Travel Company",
-      "verdict": null,
+      "verdict": "Owned by Allegiant Travel Company. Nothing found.",
       "source": {
         "name": "Las Vegas Raiders",
         "date": "2019-08-05",
@@ -27,7 +27,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "allegiant-travel-company-owner"
   ],

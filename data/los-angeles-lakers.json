@@ -15,10 +15,10 @@
       "name": "Albert",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "albert-owner",
       "owner": "Albert",
-      "verdict": null,
+      "verdict": "Owned by Albert. Nothing found.",
       "source": {
         "name": "Yahoo Sports",
         "date": "2026-07-17",

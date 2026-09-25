@@ -16,10 +16,10 @@
       "name": "Advocate Health Care",
       "placement": "training-kit",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "advocate-health-care-owner",
       "owner": "Advocate Health Care",
-      "verdict": null,
+      "verdict": "Owned by Advocate Health Care. Nothing found.",
       "source": {
         "name": "Zoomph (2026 NFL jersey patch guide)",
         "date": "2026-09-01",
@@ -27,7 +27,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "advocate-health-care-owner"
   ],

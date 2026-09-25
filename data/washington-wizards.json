@@ -14,10 +14,10 @@
       "name": "Capital One",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "capital-one-owner",
       "owner": "Capital One",
-      "verdict": null,
+      "verdict": "Owned by Capital One Financial Corp.. Nothing found.",
       "source": {
         "name": "Capital One Newsroom",
         "date": "2026-08-11",
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "capital-one-owner",
     "robinhood-owner"

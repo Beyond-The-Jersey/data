@@ -29,10 +29,10 @@
       "name": "JPMorganChase (Chase)",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "jpmorganchase-owner",
       "owner": "JPMorganChase (Chase)",
-      "verdict": null,
+      "verdict": "Owned by JPMorganChase (Chase). Nothing found.",
       "source": {
         "name": "JPMorgan Chase Newsroom",
         "date": "2026-07-08",
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "american-airlines-owner",
     "jpmorganchase-owner"

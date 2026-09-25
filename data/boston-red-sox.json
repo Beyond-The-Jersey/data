@@ -16,10 +16,10 @@
       "name": "MassMutual",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "massmutual-owner",
       "owner": "MassMutual",
-      "verdict": null,
+      "verdict": "Owned by MassMutual. Nothing found.",
       "source": {
         "name": "MLB.com",
         "date": "2022-11-30",
@@ -27,7 +27,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "massmutual-owner"
   ],

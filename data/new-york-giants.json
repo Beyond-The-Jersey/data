@@ -14,10 +14,10 @@
       "name": "MetLife",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "metlife-owner",
       "owner": "MetLife",
-      "verdict": null,
+      "verdict": "Owned by MetLife, Inc.. Nothing found.",
       "source": {
         "name": "NJ.com",
         "date": "2026-04-15",
@@ -29,10 +29,10 @@
       "name": "Quest Diagnostics",
       "placement": "training-kit",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "quest-diagnostics-owner",
       "owner": "Quest Diagnostics",
-      "verdict": null,
+      "verdict": "Owned by Quest Diagnostics. Nothing found.",
       "source": {
         "name": "Zoomph - NFL Practice Jersey Sponsor Guide (updated 2026-09-01)",
         "date": "2026-09-01",
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "metlife-owner",
     "quest-diagnostics-owner"

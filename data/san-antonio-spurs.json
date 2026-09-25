@@ -29,10 +29,10 @@
       "name": "Ledger",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "ledger-owner",
       "owner": "Ledger",
-      "verdict": null,
+      "verdict": "Owned by Ledger SAS. Nothing found.",
       "source": {
         "name": "San Antonio Spurs (spurs.com)",
         "date": "2025-06-24",
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "frost-bank-owner",
     "ledger-owner"

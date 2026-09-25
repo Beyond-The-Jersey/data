@@ -16,10 +16,10 @@
       "name": "M&T Bank",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "m-and-t-bank-owner",
       "owner": "M&T Bank",
-      "verdict": null,
+      "verdict": "Owned by M&T Bank. Nothing found.",
       "source": {
         "name": "M&T Bank (investor news release)",
         "date": "2023-04-20",
@@ -31,10 +31,10 @@
       "name": "Perdue Farms",
       "placement": "training-kit",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "perdue-farms-owner",
       "owner": "Perdue Farms",
-      "verdict": null,
+      "verdict": "Owned by Perdue Farms. Nothing found.",
       "source": {
         "name": "Sports Business Journal",
         "date": "2026-07-20",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "m-and-t-bank-owner",
     "perdue-farms-owner"

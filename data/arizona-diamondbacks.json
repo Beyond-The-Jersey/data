@@ -16,10 +16,10 @@
       "name": "Avnet",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "avnet-owner",
       "owner": "Avnet",
-      "verdict": null,
+      "verdict": "Owned by Avnet. Nothing found.",
       "source": {
         "name": "MLB.com / Arizona Diamondbacks",
         "date": "2023-02-02",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "avnet-owner",
     "jpmorgan-chase-owner"

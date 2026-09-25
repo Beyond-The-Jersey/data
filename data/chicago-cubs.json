@@ -16,10 +16,10 @@
       "name": "Motorola",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "motorola-owner",
       "owner": "Motorola",
-      "verdict": null,
+      "verdict": "Owned by Motorola Solutions, Inc.. Nothing found.",
       "source": {
         "name": "MLB.com press release (Chicago Cubs)",
         "date": "2024-08-01",
@@ -27,7 +27,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "motorola-owner"
   ],

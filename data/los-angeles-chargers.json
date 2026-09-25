@@ -15,10 +15,10 @@
       "name": "SoFi",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "sofi-owner",
       "owner": "SoFi",
-      "verdict": null,
+      "verdict": "Owned by SoFi Technologies, Inc.. Nothing found.",
       "source": {
         "name": "KSL.com (AP)",
         "date": "2019-09-15",
@@ -30,10 +30,10 @@
       "name": "UCLA Health",
       "placement": "training-kit",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "serious",
       "ownerId": "ucla-health-owner",
       "owner": "UCLA Health",
-      "verdict": null,
+      "verdict": "UCLA Health is the ultimate owner of UCLA Health.",
       "source": {
         "name": "Zoomph (2026 NFL jersey patch guide)",
         "date": "2026-09-01",
@@ -41,7 +41,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "serious",
   "owners": [
     "sofi-owner",
     "ucla-health-owner"

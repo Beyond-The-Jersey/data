@@ -14,10 +14,10 @@
       "name": "Delta Air Lines",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "delta-air-lines-owner",
       "owner": "Delta Air Lines",
-      "verdict": null,
+      "verdict": "Owned by Delta Air Lines, Inc.. Nothing found.",
       "source": {
         "name": "Utah Jazz / NBA.com",
         "date": "2023-01-14",
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "delta-air-lines-owner",
     "healthequity-owner"

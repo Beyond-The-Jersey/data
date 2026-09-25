@@ -14,10 +14,10 @@
       "name": "Burns & McDonnell",
       "placement": "training-kit",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "burns-and-mcdonnell-owner",
       "owner": "Burns & McDonnell",
-      "verdict": null,
+      "verdict": "Owned by Burns & McDonnell. Nothing found.",
       "source": {
         "name": "Kansas City Chiefs",
         "date": "2025-08-25",
@@ -25,7 +25,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "burns-and-mcdonnell-owner"
   ],

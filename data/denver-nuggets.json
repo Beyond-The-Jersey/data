@@ -16,10 +16,10 @@
       "name": "Ball Corporation",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "ball-corporation-owner",
       "owner": "Ball Corporation",
-      "verdict": null,
+      "verdict": "Owned by Ball Corp. Nothing found.",
       "source": {
         "name": "Denver Nuggets (nba.com, KSE/Ball release)",
         "date": "2020-10-22",
@@ -31,10 +31,10 @@
       "name": "Ibotta",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "ibotta-owner",
       "owner": "Ibotta",
-      "verdict": null,
+      "verdict": "Owned by Ibotta, Inc.. Nothing found.",
       "source": {
         "name": "Sportcal",
         "date": "2026-04-17",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "ball-corporation-owner",
     "ibotta-owner"

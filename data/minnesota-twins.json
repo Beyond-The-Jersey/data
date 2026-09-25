@@ -16,10 +16,10 @@
       "name": "Securian Financial",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "securian-financial-owner",
       "owner": "Securian Financial",
-      "verdict": null,
+      "verdict": "Owned by Securian Financial Group, Inc.. Nothing found.",
       "source": {
         "name": "Sports Business Journal",
         "date": "2025-07-17",

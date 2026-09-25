@@ -31,10 +31,10 @@
       "name": "loanDepot",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "loandepot-owner",
       "owner": "loanDepot",
-      "verdict": null,
+      "verdict": "Owned by loanDepot, Inc.. Nothing found.",
       "source": {
         "name": "Miami Marlins / MLB.com press release",
         "date": "2021-03-31",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "adt-owner",
     "loandepot-owner"

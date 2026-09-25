@@ -30,10 +30,10 @@
       "name": "Raymond James Financial",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "raymond-james-financial-owner",
       "owner": "Raymond James Financial",
-      "verdict": null,
+      "verdict": "Owned by Raymond James Financial. Nothing found.",
       "source": {
         "name": "Tampa Bay Buccaneers",
         "date": "2016-05-31",
@@ -41,7 +41,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "fifth-third-bank-owner",
     "raymond-james-financial-owner"

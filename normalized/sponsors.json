@@ -30,12 +30,14 @@
     "name": "Acrisure",
     "ownerId": "acrisure-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Acrisure, LLC. Nothing found.",
+    "claimIds": [
+      "acrisure-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of pittsburgh-steelers (2026-27)."
+    "note": "Rating note: Arena naming-rights holder of pittsburgh-steelers (2026-27)."
   },
   {
     "id": "adidas",
@@ -82,12 +84,14 @@
     "name": "Advocate Health Care",
     "ownerId": "advocate-health-care-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Advocate Health Care. Nothing found.",
+    "claimIds": [
+      "advocate-health-care-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of chicago-bears (2026-27)."
+    "note": "Rating note: Advocate Health is a private nonprofit healthcare system (501(c)(3)) formed by merger; no state stake or government control identified. Parent is private-company type."
   },
   {
     "id": "aeroflot",
@@ -134,12 +138,14 @@
     "name": "Albert",
     "ownerId": "albert-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Albert. Nothing found.",
+    "claimIds": [
+      "albert-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of los-angeles-lakers (2026-27)."
+    "note": "Rating note: Jersey patch partner of los-angeles-lakers (2026-27)."
   },
   {
     "id": "all-in-won",
@@ -158,12 +164,14 @@
     "name": "Allegiant Travel Company",
     "ownerId": "allegiant-travel-company-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Allegiant Travel Company. Nothing found.",
+    "claimIds": [
+      "allegiant-travel-company-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of las-vegas-raiders (2026-27)."
+    "note": "Rating note: Founder Maurice Gallagher retains significant control (~11.1% stake) but company remains privately held with no state ownership. No documented human-rights concerns in ownership chain."
   },
   {
     "id": "ally",
@@ -252,12 +260,14 @@
     "name": "Amica Mutual Insurance",
     "ownerId": "amica-mutual-insurance-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Amica Mutual Insurance Company. Nothing found.",
+    "claimIds": [
+      "amica-mutual-insurance-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of boston-celtics (2026-27)."
+    "note": "Rating note: Jersey patch partner of boston-celtics (2026-27)."
   },
   {
     "id": "anheuser-busch",
@@ -304,12 +314,14 @@
     "name": "Ascension St. Vincent's",
     "ownerId": "ascension-st-vincent-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Ascension St. Vincent's. Nothing found.",
+    "claimIds": [
+      "ascension-st-vincent-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of indianapolis-colts (2026-27)."
+    "note": "Rating note: Ascension is a private, faith-based nonprofit healthcare system; sponsored by Catholic ministries but not state-owned or state-controlled. No evidence of state stake."
   },
   {
     "id": "at-and-t",
@@ -328,12 +340,14 @@
     "name": "Atlantic Health",
     "ownerId": "atlantic-health-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Atlantic Health System. Nothing found.",
+    "claimIds": [
+      "atlantic-health-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of new-york-jets (2026-27)."
+    "note": "Rating note: Jersey patch partner of new-york-jets (2026-27)."
   },
   {
     "id": "atlassian",
@@ -380,12 +394,14 @@
     "name": "Avnet",
     "ownerId": "avnet-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Avnet. Nothing found.",
+    "claimIds": [
+      "avnet-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of arizona-diamondbacks (2026-27)."
+    "note": "Rating note: Avnet is a publicly traded company with no state ownership; largest shareholders are institutional investors (Vanguard, BlackRock) each holding well under 10%. No human-rights concerns in ownership chain identified."
   },
   {
     "id": "aws",
@@ -418,12 +434,14 @@
     "name": "Ball Corporation",
     "ownerId": "ball-corporation-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Ball Corp. Nothing found.",
+    "claimIds": [
+      "ball-corporation-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of denver-nuggets (2026-27)."
+    "note": "Rating note: Arena naming-rights holder of denver-nuggets (2026-27)."
   },
   {
     "id": "ballys-intralot",
@@ -649,12 +667,14 @@
     "name": "Burns & McDonnell",
     "ownerId": "burns-and-mcdonnell-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Burns & McDonnell. Nothing found.",
+    "claimIds": [
+      "burns-and-mcdonnell-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of kansas-city-chiefs (2026-27)."
+    "note": "Rating note: Burns & McDonnell is 100% employee-owned through ESOP; no state stake or government control. No documented human-rights concerns in ownership chain."
   },
   {
     "id": "bwt",
@@ -701,12 +721,14 @@
     "name": "Capital One",
     "ownerId": "capital-one-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Capital One Financial Corp.. Nothing found.",
+    "claimIds": [
+      "capital-one-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of washington-wizards (2026-27)."
+    "note": "Rating note: Arena naming-rights holder of washington-wizards (2026-27)."
   },
   {
     "id": "carvana",
@@ -891,12 +913,14 @@
     "name": "Cleveland-Cliffs",
     "ownerId": "cleveland-cliffs-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Cleveland Cliffs. Nothing found.",
+    "claimIds": [
+      "cleveland-cliffs-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of cleveland-cavaliers (2026-27)."
+    "note": "Rating note: Jersey patch partner of cleveland-cavaliers (2026-27)."
   },
   {
     "id": "clickhouse",
@@ -1161,12 +1185,14 @@
     "name": "Delta Air Lines",
     "ownerId": "delta-air-lines-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Delta Air Lines, Inc.. Nothing found.",
+    "claimIds": [
+      "delta-air-lines-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of utah-jazz (2026-27)."
+    "note": "Rating note: Arena naming-rights holder of utah-jazz (2026-27)."
   },
   {
     "id": "desert-financial-credit-union",
@@ -1244,12 +1270,14 @@
     "name": "Dream Finders Homes",
     "ownerId": "dream-finders-homes-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Dream Finders Homes. Nothing found.",
+    "claimIds": [
+      "dream-finders-homes-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of jacksonville-jaguars (2026-27)."
+    "note": "Rating note: Dream Finders Homes is publicly traded (DFH) with no state ownership; largest institutional holders are Vanguard and BlackRock, each under 10%. No human-rights concerns in ownership chain identified."
   },
   {
     "id": "duracell",
@@ -1310,12 +1338,14 @@
     "name": "Empower",
     "ownerId": "empower-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Empower Retirement. Nothing found.",
+    "claimIds": [
+      "empower-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of denver-broncos (2026-27)."
+    "note": "Rating note: Arena naming-rights holder of denver-broncos (2026-27)."
   },
   {
     "id": "energy-transfer",
@@ -1407,12 +1437,14 @@
     "name": "EverBank",
     "ownerId": "everbank-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by EverBank. Nothing found.",
+    "claimIds": [
+      "everbank-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of jacksonville-jaguars (2026-27)."
+    "note": "Rating note: EverBank is privately owned by a consortium of private equity funds; no state stake or government control. No documented human-rights concerns in ownership chain."
   },
   {
     "id": "expedia",
@@ -1471,12 +1503,14 @@
     "name": "FedEx",
     "ownerId": "fedex-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Fedex. Nothing found.",
+    "claimIds": [
+      "fedex-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of memphis-grizzlies (2026-27)."
+    "note": "Rating note: Arena naming-rights holder of memphis-grizzlies (2026-27)."
   },
   {
     "id": "fifth-third-bank",
@@ -1495,12 +1529,14 @@
     "name": "Fiserv",
     "ownerId": "fiserv-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Fiserv. Nothing found.",
+    "claimIds": [
+      "fiserv-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of milwaukee-bucks (2026-27)."
+    "note": "Rating note: Fiserv is publicly traded with no state ownership; largest holder is Vanguard (~11.9%). No documented human-rights concerns in ownership chain identified."
   },
   {
     "id": "fix-network",
@@ -1573,12 +1609,14 @@
     "name": "Foundation Building Materials (FBM)",
     "ownerId": "foundation-building-materials-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Foundation Building Materials, Inc.. Nothing found.",
+    "claimIds": [
+      "foundation-building-materials-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of los-angeles-angels (2026-27)."
+    "note": "Rating note: Jersey patch partner of los-angeles-angels (2026-27)."
   },
   {
     "id": "frost-bank",
@@ -1729,12 +1767,14 @@
     "name": "Great American Insurance",
     "ownerId": "great-american-insurance-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Great American Insurance. Nothing found.",
+    "claimIds": [
+      "great-american-insurance-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of cincinnati-reds (2026-27)."
+    "note": "Rating note: Great American Insurance (AFG subsidiary) is publicly traded with no state ownership; largest holders are Vanguard and BlackRock, each under 10%. No human-rights concerns in ownership chain identified."
   },
   {
     "id": "gree",
@@ -1849,12 +1889,14 @@
     "name": "Hard Rock International",
     "ownerId": "hard-rock-international-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Hard Rock International. Nothing found.",
+    "claimIds": [
+      "hard-rock-international-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of miami-dolphins (2026-27)."
+    "note": "Rating note: Arena naming-rights holder of miami-dolphins (2026-27)."
   },
   {
     "id": "healthequity",
@@ -1900,12 +1942,14 @@
     "name": "Highmark",
     "ownerId": "highmark-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Highmark. Nothing found.",
+    "claimIds": [
+      "highmark-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of buffalo-bills (2026-27)."
+    "note": "Rating note: Highmark Health is a private nonprofit (501(c)(3)) enterprise; no state stake or government control. Organized as a private nonprofit health system, not a public entity."
   },
   {
     "id": "honda",
@@ -2004,12 +2048,14 @@
     "name": "Ibotta",
     "ownerId": "ibotta-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Ibotta, Inc.. Nothing found.",
+    "claimIds": [
+      "ibotta-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of denver-nuggets (2026-27)."
+    "note": "Rating note: Jersey patch partner of denver-nuggets (2026-27)."
   },
   {
     "id": "ic-markets",
@@ -2109,12 +2155,14 @@
     "name": "IREN (IREN Ltd, AI cloud infrastructure)",
     "ownerId": "iren-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by IREN (IREN Ltd, AI cloud infrastructure). Nothing found.",
+    "claimIds": [
+      "iren-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of golden-state-warriors (2026-27)."
+    "note": "Rating note: IREN is publicly traded (Australia/US) with no state ownership; largest holders are institutional (State Street Corp. ~0.48%, others). No documented human-rights concerns in ownership chain."
   },
   {
     "id": "jeep",
@@ -2172,12 +2220,14 @@
     "name": "JPMorganChase (Chase)",
     "ownerId": "jpmorganchase-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by JPMorganChase (Chase). Nothing found.",
+    "claimIds": [
+      "jpmorganchase-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of dallas-mavericks (2026-27)."
+    "note": "Rating note: JPMorgan Chase is publicly traded with no state ownership; largest holders are Vanguard (~9.9%) and BlackRock (~7.2%). No documented human-rights concerns in ownership chain identified."
   },
   {
     "id": "judi-health",
@@ -2196,12 +2246,14 @@
     "name": "Kaleida Health",
     "ownerId": "kaleida-health-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Kaleida Health. Nothing found.",
+    "claimIds": [
+      "kaleida-health-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of buffalo-bills (2026-27)."
+    "note": "Rating note: Jersey patch partner of buffalo-bills (2026-27)."
   },
   {
     "id": "kaseya",
@@ -2234,12 +2286,14 @@
     "name": "Kia America",
     "ownerId": "kia-america-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Kia America. Nothing found.",
+    "claimIds": [
+      "kia-america-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of orlando-magic (2026-27)."
+    "note": "Rating note: Kia's largest shareholder is Hyundai Motor Company (~35.17%), a private conglomerate; no state ownership in Kia or its parent. No documented human-rights concerns in ownership chain identified."
   },
   {
     "id": "knox-hydration",
@@ -2356,12 +2410,14 @@
     "name": "Ledger",
     "ownerId": "ledger-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Ledger SAS. Nothing found.",
+    "claimIds": [
+      "ledger-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of san-antonio-spurs (2026-27)."
+    "note": "Rating note: Jersey patch partner of san-antonio-spurs (2026-27)."
   },
   {
     "id": "lenovo",
@@ -2436,12 +2492,14 @@
     "name": "Lincoln Financial Group",
     "ownerId": "lincoln-financial-group-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Lincoln Financial Group. Nothing found.",
+    "claimIds": [
+      "lincoln-financial-group-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of philadelphia-eagles (2026-27)."
+    "note": "Rating note: Lincoln Financial is publicly traded with no state ownership; largest holders are Vanguard (~10.4%) and BlackRock (~8.9%). No documented human-rights concerns in ownership chain identified."
   },
   {
     "id": "little-caesars",
@@ -2460,12 +2518,14 @@
     "name": "loanDepot",
     "ownerId": "loandepot-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by loanDepot, Inc.. Nothing found.",
+    "claimIds": [
+      "loandepot-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of miami-marlins (2026-27)."
+    "note": "Rating note: Arena naming-rights holder of miami-marlins (2026-27)."
   },
   {
     "id": "loves-travel-stops",
@@ -2484,12 +2544,14 @@
     "name": "Lucas Oil",
     "ownerId": "lucas-oil-products-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Lucas Oil Products. Nothing found.",
+    "claimIds": [
+      "lucas-oil-products-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of indiana-pacers (2026-27)."
+    "note": "Rating note: Lucas Oil is 100% family-owned (Lucas family); no state stake or government control. No documented human-rights concerns in ownership chain."
   },
   {
     "id": "lucas-oil-products",
@@ -2508,12 +2570,14 @@
     "name": "Lumen Technologies",
     "ownerId": "lumen-technologies-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Lumen Technologies, Inc.. Nothing found.",
+    "claimIds": [
+      "lumen-technologies-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of seattle-seahawks (2026-27)."
+    "note": "Rating note: Arena naming-rights holder of seattle-seahawks (2026-27)."
   },
   {
     "id": "lvcva",
@@ -2532,12 +2596,14 @@
     "name": "M&T Bank",
     "ownerId": "m-and-t-bank-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by M&T Bank. Nothing found.",
+    "claimIds": [
+      "m-and-t-bank-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of baltimore-ravens (2026-27)."
+    "note": "Rating note: M&T Bank is publicly traded with no state ownership; largest holder is Vanguard (~13.0%). No documented human-rights concerns in ownership chain identified."
   },
   {
     "id": "maaden",
@@ -2597,12 +2663,14 @@
     "name": "MassMutual",
     "ownerId": "massmutual-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by MassMutual. Nothing found.",
+    "claimIds": [
+      "massmutual-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of boston-red-sox (2026-27)."
+    "note": "Rating note: Jersey patch partner of boston-red-sox (2026-27)."
   },
   {
     "id": "mastercard",
@@ -2687,12 +2755,14 @@
     "name": "Memorial Hermann Health System",
     "ownerId": "memorial-hermann-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Memorial Hermann Health System. Nothing found.",
+    "claimIds": [
+      "memorial-hermann-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of houston-rockets (2026-27)."
+    "note": "Rating note: Memorial Hermann is a private nonprofit health system (501(c)(3)); not a public entity and no state ownership identified. Governed by local community board."
   },
   {
     "id": "mercedes-benz",
@@ -2725,12 +2795,14 @@
     "name": "MetLife",
     "ownerId": "metlife-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by MetLife, Inc.. Nothing found.",
+    "claimIds": [
+      "metlife-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of new-york-jets (2026-27)."
+    "note": "Rating note: Arena naming-rights holder of new-york-jets (2026-27)."
   },
   {
     "id": "mgm-rewards",
@@ -2832,12 +2904,14 @@
     "name": "Motorola",
     "ownerId": "motorola-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Motorola Solutions, Inc.. Nothing found.",
+    "claimIds": [
+      "motorola-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of san-diego-padres (2026-27)."
+    "note": "Rating note: Jersey patch partner of san-diego-padres (2026-27)."
   },
   {
     "id": "motorola-mobility",
@@ -2911,12 +2985,14 @@
     "name": "NewAge Products",
     "ownerId": "newage-products-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "concern",
+    "status": "rated",
+    "verdict": "NewAge Products Inc.",
+    "claimIds": [
+      "newage-products-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of new-orleans-pelicans (2026-27)."
+    "note": "Rating note: NewAge Products is privately held (Toronto-based); no state stake. However, as a consumer goods manufacturer, its supply chain carries documented forced-labour exposure from Xinjiang cotton (per UFLPA detentions and Fast Retailing disclosures), triggering 'concern' on conduct grounds."
   },
   {
     "id": "newyork-presbyterian",
@@ -2935,12 +3011,14 @@
     "name": "Nintendo (Nintendo of America)",
     "ownerId": "nintendo-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Nintendo Co., Ltd.. Nothing found.",
+    "claimIds": [
+      "nintendo-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of seattle-mariners (2026-27)."
+    "note": "Rating note: Jersey patch partner of seattle-mariners (2026-27)."
   },
   {
     "id": "nissan",
@@ -2974,12 +3052,14 @@
     "name": "Northwest Federal Credit Union",
     "ownerId": "northwest-federal-credit-union-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Northwest Federal Credit Union. Nothing found.",
+    "claimIds": [
+      "northwest-federal-credit-union-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of washington-commanders (2026-27)."
+    "note": "Rating note: Northwest Federal Credit Union is a member-owned cooperative (not-for-profit); no state ownership. Credit unions are private mutual entities under NCUA charter, not state-owned."
   },
   {
     "id": "northwestern-mutual",
@@ -3092,12 +3172,14 @@
     "name": "Paycom",
     "ownerId": "paycom-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Paycom. Nothing found.",
+    "claimIds": [
+      "paycom-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of oklahoma-city-thunder (2026-27)."
+    "note": "Rating note: Paycom is publicly traded with no state ownership; founder Chad Richison holds ~13.1% stake. No documented human-rights concerns in ownership chain identified."
   },
   {
     "id": "paycor",
@@ -3116,12 +3198,14 @@
     "name": "PayPal",
     "ownerId": "paypal-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by PayPal Holdings, Inc.. Nothing found.",
+    "claimIds": [
+      "paypal-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of phoenix-suns (2026-27)."
+    "note": "Rating note: Jersey patch partner of phoenix-suns (2026-27)."
   },
   {
     "id": "paze",
@@ -3140,12 +3224,14 @@
     "name": "Perdue Farms",
     "ownerId": "perdue-farms-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Perdue Farms. Nothing found.",
+    "claimIds": [
+      "perdue-farms-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of baltimore-ravens (2026-27)."
+    "note": "Rating note: Perdue Farms is 100% family-owned (Perdue family); no state stake or government control. No documented human-rights concerns in ownership chain identified."
   },
   {
     "id": "peroni",
@@ -3398,12 +3484,14 @@
     "name": "Quest Diagnostics",
     "ownerId": "quest-diagnostics-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Quest Diagnostics. Nothing found.",
+    "claimIds": [
+      "quest-diagnostics-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of new-york-giants (2026-27)."
+    "note": "Rating note: Quest Diagnostics is publicly traded with no state ownership; largest holder is BlackRock (~6.9%). No documented human-rights concerns in ownership chain identified."
   },
   {
     "id": "quikrete",
@@ -3422,12 +3510,14 @@
     "name": "QuikTrip",
     "ownerId": "quiktrip-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by QuikTrip Corporation. Nothing found.",
+    "claimIds": [
+      "quiktrip-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of kansas-city-royals (2026-27)."
+    "note": "Rating note: Jersey patch partner of kansas-city-royals (2026-27)."
   },
   {
     "id": "raisin",
@@ -3474,12 +3564,14 @@
     "name": "Raymond James Financial",
     "ownerId": "raymond-james-financial-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Raymond James Financial. Nothing found.",
+    "claimIds": [
+      "raymond-james-financial-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of tampa-bay-buccaneers (2026-27)."
+    "note": "Rating note: Raymond James Financial is publicly traded with no state ownership; largest holder is Vanguard (~11.3%). No documented human-rights concerns in ownership chain identified."
   },
   {
     "id": "red-bull",
@@ -3609,12 +3701,14 @@
     "name": "Rouses Markets",
     "ownerId": "rouses-markets-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Rouses Markets. Nothing found.",
+    "claimIds": [
+      "rouses-markets-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of new-orleans-saints (2026-27)."
+    "note": "Rating note: Rouses Markets is family-owned and operated (Donny Rouse, third generation); no state stake. No documented human-rights concerns in ownership chain."
   },
   {
     "id": "royal-caribbean",
@@ -3731,12 +3825,14 @@
     "name": "Securian Financial",
     "ownerId": "securian-financial-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Securian Financial Group, Inc.. Nothing found.",
+    "claimIds": [
+      "securian-financial-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of minnesota-twins (2026-27)."
+    "note": "Rating note: Jersey patch partner of minnesota-twins (2026-27)."
   },
   {
     "id": "sela",
@@ -3798,12 +3894,14 @@
     "name": "Sheetz",
     "ownerId": "sheetz-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Sheetz. Nothing found.",
+    "claimIds": [
+      "sheetz-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of pittsburgh-pirates (2026-27)."
+    "note": "Rating note: Sheetz is 100% family-owned (Sheetz family); no state stake or government control. No documented human-rights concerns in ownership chain identified."
   },
   {
     "id": "shell",
@@ -3892,12 +3990,14 @@
     "name": "SoFi",
     "ownerId": "sofi-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by SoFi Technologies, Inc.. Nothing found.",
+    "claimIds": [
+      "sofi-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of los-angeles-chargers (2026-27)."
+    "note": "Rating note: Arena naming-rights holder of los-angeles-chargers (2026-27)."
   },
   {
     "id": "spectrum",
@@ -3958,12 +4058,14 @@
     "name": "Starr Insurance Companies",
     "ownerId": "starr-insurance-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Starr Insurance Companies. Nothing found.",
+    "claimIds": [
+      "starr-insurance-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of new-york-yankees (2026-27)."
+    "note": "Rating note: Starr Insurance is privately owned by C.V. Starr & Co. (now Starr International Company); no state ownership. Ultimate parent is private holding company domiciled in Switzerland. No documented human-rights concerns in ownership chain."
   },
   {
     "id": "state-farm",
@@ -3982,12 +4084,14 @@
     "name": "Stifel Financial",
     "ownerId": "stifel-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Stifel Financial Corp.. Nothing found.",
+    "claimIds": [
+      "stifel-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of st-louis-cardinals (2026-27)."
+    "note": "Rating note: Jersey patch partner of st-louis-cardinals (2026-27)."
   },
   {
     "id": "stockx",
@@ -4020,12 +4124,14 @@
     "name": "Sun Life",
     "ownerId": "sun-life-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Sun Life. Nothing found.",
+    "claimIds": [
+      "sun-life-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of toronto-raptors (2026-27)."
+    "note": "Rating note: Sun Life Financial is publicly traded (Canada/US) with no state ownership; no controlling shareholder. Largest holdings are institutional (Vanguard, BlackRock) each under 10%. No human-rights concerns in ownership chain."
   },
   {
     "id": "sutter-health",
@@ -4058,12 +4164,14 @@
     "name": "T-Mobile",
     "ownerId": "t-mobile-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by T-Mobile US, Inc.. Nothing found.",
+    "claimIds": [
+      "t-mobile-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of seattle-mariners (2026-27)."
+    "note": "Rating note: Arena naming-rights holder of seattle-mariners (2026-27)."
   },
   {
     "id": "t-rowe-price",
@@ -4234,12 +4342,14 @@
     "name": "Toyota",
     "ownerId": "toyota-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Toyota Motor Corp.. Nothing found.",
+    "claimIds": [
+      "toyota-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of houston-rockets (2026-27)."
+    "note": "Rating note: Arena naming-rights holder of houston-rockets (2026-27)."
   },
   {
     "id": "trade-nation",
@@ -4272,12 +4382,14 @@
     "name": "Truist",
     "ownerId": "truist-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Truist. Nothing found.",
+    "claimIds": [
+      "truist-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of atlanta-braves (2026-27)."
+    "note": "Rating note: Truist is publicly traded with no state ownership; largest holder is Vanguard (~9.8%). No documented human-rights concerns in ownership chain identified."
   },
   {
     "id": "tudor",
@@ -4366,12 +4478,14 @@
     "name": "UCLA Health",
     "ownerId": "ucla-health-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "serious",
+    "status": "rated",
+    "verdict": "UCLA Health is the ultimate owner of UCLA Health.",
+    "claimIds": [
+      "ucla-health-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of los-angeles-chargers (2026-27)."
+    "note": "Rating note: Jersey patch partner of los-angeles-chargers (2026-27)."
   },
   {
     "id": "uline",
@@ -4404,12 +4518,14 @@
     "name": "UNIQLO",
     "ownerId": "uniqlo-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "concern",
+    "status": "rated",
+    "verdict": "Fast Retailing Co., Ltd.",
+    "claimIds": [
+      "uniqlo-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of los-angeles-dodgers (2026-27)."
+    "note": "Rating note: UNIQLO's parent Fast Retailing is publicly traded with no state ownership; however, its supply chain carries documented forced-labour exposure from Xinjiang cotton (per UFLPA detentions and company disclosures), triggering 'concern' on conduct grounds."
   },
   {
     "id": "united-airlines",
@@ -4428,12 +4544,14 @@
     "name": "United Wholesale Mortgage",
     "ownerId": "united-wholesale-mortgage-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by United Wholesale Mortgage LLC. Nothing found.",
+    "claimIds": [
+      "united-wholesale-mortgage-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of phoenix-suns (2026-27)."
+    "note": "Rating note: Arena naming-rights holder of phoenix-suns (2026-27)."
   },
   {
     "id": "uralkali",
@@ -4466,12 +4584,14 @@
     "name": "UW Health",
     "ownerId": "uw-health-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "serious",
+    "status": "rated",
+    "verdict": "UW Health is a public hospital system organized under Wisconsin state law as the University of Wisconsin Hospitals and Clinics Authority, a state agency.",
+    "claimIds": [
+      "uw-health-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of green-bay-packers (2026-27)."
+    "note": "Rating note: UW Health is a public hospital system (state agency) created by Wisconsin statute; the state is the ultimate owner. No evidence of ongoing armed conflict or conflict minerals at the state level, so 'serious' not 'severe'."
   },
   {
     "id": "valvoline",
@@ -4607,12 +4727,14 @@
     "name": "Webull",
     "ownerId": "webull-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Webull Corp.. Nothing found.",
+    "claimIds": [
+      "webull-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of tampa-bay-rays (2026-27)."
+    "note": "Rating note: Jersey patch partner of tampa-bay-rays (2026-27)."
   },
   {
     "id": "wwk",

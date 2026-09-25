@@ -17,10 +17,10 @@
       "name": "NewAge Products",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "concern",
       "ownerId": "newage-products-owner",
       "owner": "NewAge Products",
-      "verdict": null,
+      "verdict": "NewAge Products Inc.",
       "source": {
         "name": "Sports Business Journal",
         "date": "2024-09-30",
@@ -43,7 +43,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "concern",
   "owners": [
     "newage-products-owner",
     "smoothie-king-owner"

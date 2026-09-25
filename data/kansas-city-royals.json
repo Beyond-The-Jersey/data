@@ -16,10 +16,10 @@
       "name": "QuikTrip",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "quiktrip-owner",
       "owner": "QuikTrip",
-      "verdict": null,
+      "verdict": "Owned by QuikTrip Corporation. Nothing found.",
       "source": {
         "name": "MLB.com / Kansas City Royals",
         "date": "2024-02-21",
@@ -27,7 +27,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "quiktrip-owner"
   ],

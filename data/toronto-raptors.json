@@ -29,10 +29,10 @@
       "name": "Sun Life",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "sun-life-owner",
       "owner": "Sun Life",
-      "verdict": null,
+      "verdict": "Owned by Sun Life. Nothing found.",
       "source": {
         "name": "Toronto Raptors / NBA.com",
         "date": "2017-07-06",
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "scotiabank-owner",
     "sun-life-owner"

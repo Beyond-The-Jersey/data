@@ -31,10 +31,10 @@
       "name": "Lumen Technologies",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "lumen-technologies-owner",
       "owner": "Lumen Technologies",
-      "verdict": null,
+      "verdict": "Owned by Lumen Technologies, Inc.. Nothing found.",
       "source": {
         "name": "Seattle Seahawks",
         "date": "2020-11-19",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "aws-owner",
     "lumen-technologies-owner"

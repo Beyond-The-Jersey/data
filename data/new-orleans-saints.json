@@ -29,10 +29,10 @@
       "name": "Rouses Markets",
       "placement": "training-kit",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "rouses-markets-owner",
       "owner": "Rouses Markets",
-      "verdict": null,
+      "verdict": "Owned by Rouses Markets. Nothing found.",
       "source": {
         "name": "Zoomph (NFL Practice Jersey Patch Sponsors guide; updated 2026-09-01)",
         "date": "2026-09-01",
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "caesars-entertainment-owner",
     "rouses-markets-owner"
