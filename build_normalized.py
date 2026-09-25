@@ -16,6 +16,7 @@ from datetime import date
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import pipeline_data as A
+import us_ingest as U
 
 # ------------------------------------------------------------------ research additions
 # Output of convert_research.py: Serie A + MLS clubs, Premier League sleeve sponsors,
@@ -99,7 +100,7 @@ print("clubs:", len(clubs))
 # ------------------------------------------------------------------ owners / sponsors
 owners = load("owners")
 oid = {o["id"]: o for o in owners}
-for o in A.NEW_OWNERS + RES["owners"]:
+for o in A.NEW_OWNERS + RES["owners"] + U.NEW_OWNERS:
     oid.setdefault(o["id"], o)
 # a few owners for existing seed sponsors
 for extra in [
@@ -119,7 +120,7 @@ write("owners", owners)
 
 ssponsors = load("sponsors")
 sid = {s["id"]: s for s in ssponsors}
-for s in A.NEW_SPONSORS + RES["sponsors"]:
+for s in A.NEW_SPONSORS + RES["sponsors"] + U.NEW_SPONSORS:
     sp = {k: v for k, v in s.items() if k != "ownerGuess"}
     sid.setdefault(sp["id"], sp)
 for name, owner in [
@@ -148,6 +149,7 @@ for c in claims:
         if note:
             c["source"]["note"] = note
 claims += A.EXTRA_CLAIMS
+claims += U.EXTRA_CLAIMS
 claims += [c for c in A.SEED_CLAIMS if c["id"] not in {x["id"] for x in claims}]
 
 # the schema wants a string date; some research pages carry none, so derive the year
@@ -409,6 +411,8 @@ for d in deals:
             "date": "2026-07-15",
             "url": "https://www.sportspro.com/news/sponsorship-marketing/aston-villa-visit-rwanda-shirt-principal-sponsorship-july-2026/",
         }
+deals += U.NEW_DEALS
+
 write("deals", deals)
 print("deals:", len(deals))
 
@@ -434,6 +438,11 @@ for d in deals:
 
 # ------------------------------------------------------------------ research kits
 for k in RES["kits"]:
+    if k["id"] not in {x["id"] for x in kits}:
+        kits.append(dict(k))
+
+# US league jerseys: the patch is on the kit, the arena right is a deal below
+for k in U.NEW_KITS:
     if k["id"] not in {x["id"] for x in kits}:
         kits.append(dict(k))
 
