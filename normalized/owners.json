@@ -93,7 +93,7 @@
   {
     "id": "allegiant-travel-company-owner",
     "name": "Allegiant Travel Company",
-    "type": "private-company",
+    "type": "listed-company",
     "parentId": null,
     "note": "arena naming-rights holder of las-vegas-raiders (2026-27).",
     "country": "USA"
@@ -523,7 +523,7 @@
   {
     "id": "cleveland-cliffs-owner",
     "name": "Cleveland-Cliffs LLC",
-    "type": "private-company",
+    "type": "listed-company",
     "parentId": null,
     "note": "jersey patch partner of cleveland-cavaliers (2026-27).",
     "country": "US"
@@ -681,7 +681,7 @@
   {
     "id": "delta-air-lines-owner",
     "name": "Delta Air Lines LLC",
-    "type": "private-company",
+    "type": "listed-company",
     "parentId": null,
     "note": "arena naming-rights holder of utah-jazz (2026-27).",
     "country": "US"
@@ -739,7 +739,7 @@
   {
     "id": "dream-finders-homes-owner",
     "name": "Dream Finders Homes",
-    "type": "private-company",
+    "type": "listed-company",
     "parentId": null,
     "note": "jersey patch partner of jacksonville-jaguars (2026-27).",
     "country": "USA"
@@ -776,7 +776,7 @@
   {
     "id": "empower-owner",
     "name": "Empower LLC",
-    "type": "private-company",
+    "type": "listed-company",
     "parentId": null,
     "note": "arena naming-rights holder of denver-broncos (2026-27).",
     "country": "US"
@@ -863,7 +863,7 @@
   {
     "id": "fedex-owner",
     "name": "FedEx LLC",
-    "type": "private-company",
+    "type": "listed-company",
     "parentId": null,
     "note": "arena naming-rights holder of memphis-grizzlies (2026-27).",
     "country": "US"
@@ -1237,7 +1237,7 @@
   {
     "id": "ibotta-owner",
     "name": "Ibotta LLC",
-    "type": "private-company",
+    "type": "listed-company",
     "parentId": null,
     "note": "jersey patch partner of denver-nuggets (2026-27).",
     "country": "US"
@@ -1663,7 +1663,7 @@
   {
     "id": "metlife-owner",
     "name": "MetLife LLC",
-    "type": "private-company",
+    "type": "listed-company",
     "parentId": null,
     "note": "arena naming-rights holder of new-york-jets (2026-27).",
     "country": "US"
@@ -1729,7 +1729,7 @@
   {
     "id": "motorola-owner",
     "name": "Motorola LLC",
-    "type": "private-company",
+    "type": "listed-company",
     "parentId": null,
     "note": "jersey patch partner of san-diego-padres (2026-27).",
     "country": "US"
@@ -1816,7 +1816,7 @@
   {
     "id": "nintendo-owner",
     "name": "Nintendo (Nintendo of America) LLC",
-    "type": "private-company",
+    "type": "listed-company",
     "parentId": null,
     "note": "jersey patch partner of seattle-mariners (2026-27).",
     "country": "US"
@@ -1848,7 +1848,7 @@
   {
     "id": "nrg-energy-reliant-brand-owner",
     "name": "NRG Energy (Reliant brand) LLC",
-    "type": "private-company",
+    "type": "listed-company",
     "parentId": null,
     "note": "arena naming-rights holder of houston-texans (2026-27).",
     "country": "US"
@@ -1929,7 +1929,7 @@
   {
     "id": "paypal-owner",
     "name": "PayPal LLC",
-    "type": "private-company",
+    "type": "listed-company",
     "parentId": null,
     "note": "jersey patch partner of phoenix-suns (2026-27).",
     "country": "US"
@@ -1981,7 +1981,7 @@
   },
   {
     "id": "pnc-bank-pnc-financial-services-owner",
-    "name": "PNC Bank (PNC Financial Services) Corporation",
+    "name": "PNC Financial Services Group, Inc.",
     "type": "listed-company",
     "parentId": null,
     "note": "arena naming-rights holder of pittsburgh-pirates (2026-27).",
@@ -2165,7 +2165,7 @@
   {
     "id": "rocket-rocket-companies-owner",
     "name": "Rocket (Rocket Companies) LLC",
-    "type": "private-company",
+    "type": "listed-company",
     "parentId": null,
     "note": "arena naming-rights holder of cleveland-cavaliers (2026-27).",
     "country": "US"
@@ -2335,7 +2335,7 @@
   {
     "id": "sofi-owner",
     "name": "SoFi LLC",
-    "type": "private-company",
+    "type": "listed-company",
     "parentId": null,
     "note": "arena naming-rights holder of los-angeles-chargers (2026-27).",
     "country": "US"
@@ -2469,7 +2469,7 @@
   {
     "id": "t-mobile-owner",
     "name": "T-Mobile LLC",
-    "type": "private-company",
+    "type": "listed-company",
     "parentId": null,
     "note": "arena naming-rights holder of seattle-mariners (2026-27).",
     "country": "US"
@@ -2570,7 +2570,7 @@
   {
     "id": "toyota-owner",
     "name": "Toyota LLC",
-    "type": "private-company",
+    "type": "listed-company",
     "parentId": null,
     "note": "arena naming-rights holder of houston-rockets (2026-27).",
     "country": "US"
@@ -2770,7 +2770,7 @@
   {
     "id": "webull-owner",
     "name": "Webull LLC",
-    "type": "private-company",
+    "type": "listed-company",
     "parentId": null,
     "note": "jersey patch partner of tampa-bay-rays (2026-27).",
     "country": "US"

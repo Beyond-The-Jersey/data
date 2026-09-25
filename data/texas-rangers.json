@@ -31,10 +31,10 @@
       "name": "Globe Life (Globe Life Inc.)",
       "placement": "stadium",
       "season": null,
-      "tier": "concern",
+      "tier": "none",
       "ownerId": "globe-life-globe-life-inc-owner",
       "owner": "Globe Life (Globe Life Inc.)",
-      "verdict": "Globe Life (Globe Life Inc.) is the ultimate owner of Globe Life (Globe Life Inc.).",
+      "verdict": "Owned by Globe Life (Globe Life Inc.). Nothing found.",
       "source": {
         "name": "Globe Life Inc. investor newsroom",
         "date": "2017-08-24",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "concern",
+  "worstTier": "none",
   "owners": [
     "energy-transfer-owner",
     "globe-life-globe-life-inc-owner"

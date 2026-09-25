@@ -32,10 +32,10 @@
       "name": "Empower",
       "placement": "stadium",
       "season": null,
-      "tier": "concern",
+      "tier": "none",
       "ownerId": "empower-owner",
       "owner": "Empower LLC",
-      "verdict": "Empower LLC is the ultimate owner of Empower.",
+      "verdict": "Owned by Empower LLC. Nothing found.",
       "source": {
         "name": "Metropolitan Football Stadium District (mfsd.com)",
         "date": "2019-09-06",
@@ -43,7 +43,7 @@
       }
     }
   ],
-  "worstTier": "concern",
+  "worstTier": "none",
   "owners": [
     "childrens-hospital-colorado-owner",
     "empower-owner"

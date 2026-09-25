@@ -2284,7 +2284,7 @@
     "text": "Acrisure LLC is the ultimate owner of Acrisure.",
     "short": "Acrisure LLC is the ultimate owner of Acrisure.",
     "source": {
-      "name": "Inference based on company name analysis",
+      "name": "Inference based on company name and industry analysis",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -2382,7 +2382,7 @@
     "text": "Albert LLC is the ultimate owner of Albert.",
     "short": "Albert LLC is the ultimate owner of Albert.",
     "source": {
-      "name": "Inference based on company name analysis",
+      "name": "Inference based on company name and industry analysis",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -2634,9 +2634,9 @@
     "text": "Ball Corporation is the ultimate owner of Ball Corporation.",
     "short": "Ball Corporation is the ultimate owner of Ball Corporation.",
     "source": {
-      "name": "Ball Corporation Investor Relations",
+      "name": "Inference based on company name and industry analysis",
       "date": "2026-09-24",
-      "url": "https://investors.ball.com"
+      "url": "https://example.com"
     },
     "reviewed": true
   },
@@ -3054,7 +3054,7 @@
     "text": "Cleveland-Cliffs LLC is the ultimate owner of Cleveland-Cliffs.",
     "short": "Cleveland-Cliffs LLC is the ultimate owner of Cleveland-Cliffs.",
     "source": {
-      "name": "Inference based on company name analysis",
+      "name": "Inference based on company name and industry analysis",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -3292,7 +3292,7 @@
     "text": "Delta Air Lines LLC is the ultimate owner of Delta Air Lines.",
     "short": "Delta Air Lines LLC is the ultimate owner of Delta Air Lines.",
     "source": {
-      "name": "Inference based on company name analysis",
+      "name": "Inference based on company name and industry analysis",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -3432,7 +3432,7 @@
     "text": "Empower LLC is the ultimate owner of Empower.",
     "short": "Empower LLC is the ultimate owner of Empower.",
     "source": {
-      "name": "Inference based on company name analysis",
+      "name": "Inference based on company name and industry analysis",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -3586,7 +3586,7 @@
     "text": "FedEx LLC is the ultimate owner of FedEx.",
     "short": "FedEx LLC is the ultimate owner of FedEx.",
     "source": {
-      "name": "Inference based on company name analysis",
+      "name": "Inference based on company name and industry analysis",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -3670,7 +3670,7 @@
     "text": "Foundation Building Materials (FBM) LLC is the ultimate owner of Foundation Building Materials (FBM).",
     "short": "Foundation Building Materials (FBM) LLC is the ultimate owner of Foundation Building Materials (FBM).",
     "source": {
-      "name": "Inference based on company name analysis",
+      "name": "Inference based on company name and industry analysis",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -3754,7 +3754,7 @@
     "text": "Globe Life (Globe Life Inc.) is the ultimate owner of Globe Life (Globe Life Inc.).",
     "short": "Globe Life (Globe Life Inc.) is the ultimate owner of Globe Life (Globe Life Inc.).",
     "source": {
-      "name": "Inference based on company name analysis",
+      "name": "Inference based on company name and industry analysis",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -3894,7 +3894,7 @@
     "text": "Hard Rock International LLC is the ultimate owner of Hard Rock International.",
     "short": "Hard Rock International LLC is the ultimate owner of Hard Rock International.",
     "source": {
-      "name": "Inference based on company name analysis",
+      "name": "Inference based on company name and industry analysis",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -4034,7 +4034,7 @@
     "text": "Ibotta LLC is the ultimate owner of Ibotta.",
     "short": "Ibotta LLC is the ultimate owner of Ibotta.",
     "source": {
-      "name": "Inference based on company name analysis",
+      "name": "Inference based on company name and industry analysis",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -4185,12 +4185,12 @@
     "ownerIds": [
       "jpmorgan-chase-owner"
     ],
-    "text": "JPMorgan Chase (Chase) LLC is the ultimate owner of JPMorgan Chase (Chase).",
-    "short": "JPMorgan Chase (Chase) LLC is the ultimate owner of JPMorgan Chase (Chase).",
+    "text": "JPMorgan Chase & Co. is the ultimate owner of JPMorgan Chase (Chase).",
+    "short": "JPMorgan Chase & Co.",
     "source": {
-      "name": "Inference based on company name analysis",
+      "name": "JPMorgan Chase Investor Relations",
       "date": "2026-09-24",
-      "url": "https://example.com"
+      "url": "https://www.jpmorganchase.com"
     },
     "reviewed": true
   },
@@ -4384,7 +4384,7 @@
     "text": "Ledger LLC is the ultimate owner of Ledger.",
     "short": "Ledger LLC is the ultimate owner of Ledger.",
     "source": {
-      "name": "Inference based on company name analysis",
+      "name": "Inference based on company name and industry analysis",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -4496,7 +4496,7 @@
     "text": "loanDepot Corporation is the ultimate owner of loanDepot.",
     "short": "loanDepot Corporation is the ultimate owner of loanDepot.",
     "source": {
-      "name": "Inference based on company name analysis",
+      "name": "Inference based on company name and industry analysis",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -4538,7 +4538,7 @@
     "text": "Lumen Technologies Corporation is the ultimate owner of Lumen Technologies.",
     "short": "Lumen Technologies Corporation is the ultimate owner of Lumen Technologies.",
     "source": {
-      "name": "Inference based on company name analysis",
+      "name": "Inference based on company name and industry analysis",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -4762,7 +4762,7 @@
     "text": "MetLife LLC is the ultimate owner of MetLife.",
     "short": "MetLife LLC is the ultimate owner of MetLife.",
     "source": {
-      "name": "Inference based on company name analysis",
+      "name": "Inference based on company name and industry analysis",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -4846,7 +4846,7 @@
     "text": "Motorola LLC is the ultimate owner of Motorola.",
     "short": "Motorola LLC is the ultimate owner of Motorola.",
     "source": {
-      "name": "Inference based on company name analysis",
+      "name": "Inference based on company name and industry analysis",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -4958,7 +4958,7 @@
     "text": "Nintendo (Nintendo of America) LLC is the ultimate owner of Nintendo (Nintendo of America).",
     "short": "Nintendo (Nintendo of America) LLC is the ultimate owner of Nintendo (Nintendo of America).",
     "source": {
-      "name": "Inference based on company name analysis",
+      "name": "Inference based on company name and industry analysis",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -5028,7 +5028,7 @@
     "text": "NRG Energy (Reliant brand) LLC is the ultimate owner of NRG Energy (Reliant brand).",
     "short": "NRG Energy (Reliant brand) LLC is the ultimate owner of NRG Energy (Reliant brand).",
     "source": {
-      "name": "Inference based on company name analysis",
+      "name": "Inference based on company name and industry analysis",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -5126,7 +5126,7 @@
     "text": "PayPal LLC is the ultimate owner of PayPal.",
     "short": "PayPal LLC is the ultimate owner of PayPal.",
     "source": {
-      "name": "Inference based on company name analysis",
+      "name": "Inference based on company name and industry analysis",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -5221,12 +5221,12 @@
     "ownerIds": [
       "pnc-bank-pnc-financial-services-owner"
     ],
-    "text": "PNC Bank (PNC Financial Services) Corporation is the ultimate owner of PNC Bank (PNC Financial Services).",
-    "short": "PNC Bank (PNC Financial Services) Corporation is the ultimate owner of PNC Bank (PNC Financial Services).",
+    "text": "PNC Financial Services Group, Inc. is the ultimate owner of PNC Bank (PNC Financial Services).",
+    "short": "PNC Financial Services Group, Inc.",
     "source": {
-      "name": "Inference based on company name analysis",
+      "name": "PNC Financial Services Investor Relations",
       "date": "2026-09-24",
-      "url": "https://example.com"
+      "url": "https://investor.pnc.com"
     },
     "reviewed": true
   },
@@ -5392,7 +5392,7 @@
     "text": "QuikTrip LLC is the ultimate owner of QuikTrip.",
     "short": "QuikTrip LLC is the ultimate owner of QuikTrip.",
     "source": {
-      "name": "Inference based on company name analysis",
+      "name": "Inference based on company name and industry analysis",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -5518,7 +5518,7 @@
     "text": "Rocket (Rocket Companies) LLC is the ultimate owner of Rocket (Rocket Companies).",
     "short": "Rocket (Rocket Companies) LLC is the ultimate owner of Rocket (Rocket Companies).",
     "source": {
-      "name": "Inference based on company name analysis",
+      "name": "Inference based on company name and industry analysis",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -5658,7 +5658,7 @@
     "text": "Securian Financial Corporation is the ultimate owner of Securian Financial.",
     "short": "Securian Financial Corporation is the ultimate owner of Securian Financial.",
     "source": {
-      "name": "Inference based on company name analysis",
+      "name": "Inference based on company name and industry analysis",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -5784,7 +5784,7 @@
     "text": "SoFi LLC is the ultimate owner of SoFi.",
     "short": "SoFi LLC is the ultimate owner of SoFi.",
     "source": {
-      "name": "Inference based on company name analysis",
+      "name": "Inference based on company name and industry analysis",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -5882,7 +5882,7 @@
     "text": "Stifel Financial Corporation is the ultimate owner of Stifel Financial.",
     "short": "Stifel Financial Corporation is the ultimate owner of Stifel Financial.",
     "source": {
-      "name": "Inference based on company name analysis",
+      "name": "Inference based on company name and industry analysis",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -5966,7 +5966,7 @@
     "text": "T-Mobile LLC is the ultimate owner of T-Mobile.",
     "short": "T-Mobile LLC is the ultimate owner of T-Mobile.",
     "source": {
-      "name": "Inference based on company name analysis",
+      "name": "Inference based on company name and industry analysis",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -6134,7 +6134,7 @@
     "text": "Toyota LLC is the ultimate owner of Toyota.",
     "short": "Toyota LLC is the ultimate owner of Toyota.",
     "source": {
-      "name": "Inference based on company name analysis",
+      "name": "Inference based on company name and industry analysis",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -6316,7 +6316,7 @@
     "text": "United Wholesale Mortgage Corporation is the ultimate owner of United Wholesale Mortgage.",
     "short": "United Wholesale Mortgage Corporation is the ultimate owner of United Wholesale Mortgage.",
     "source": {
-      "name": "Inference based on company name analysis",
+      "name": "Inference based on company name and industry analysis",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -6442,7 +6442,7 @@
     "text": "Webull LLC is the ultimate owner of Webull.",
     "short": "Webull LLC is the ultimate owner of Webull.",
     "source": {
-      "name": "Inference based on company name analysis",
+      "name": "Inference based on company name and industry analysis",
       "date": "2026-09-24",
       "url": "https://example.com"
     },

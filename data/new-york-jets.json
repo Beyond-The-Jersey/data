@@ -15,10 +15,10 @@
       "name": "Atlantic Health",
       "placement": "training-kit",
       "season": "2026-27",
-      "tier": "concern",
+      "tier": "none",
       "ownerId": "atlantic-health-owner",
       "owner": "Atlantic Health System",
-      "verdict": "Atlantic Health System is the ultimate owner of Atlantic Health.",
+      "verdict": "Owned by Atlantic Health System. Nothing found.",
       "source": {
         "name": "Zoomph (2026 NFL jersey patch guide)",
         "date": "2026-09-01",
@@ -41,7 +41,7 @@
       }
     }
   ],
-  "worstTier": "concern",
+  "worstTier": "none",
   "owners": [
     "atlantic-health-owner",
     "metlife-owner"

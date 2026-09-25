@@ -32,14 +32,14 @@
     "name": "Acrisure",
     "ownerId": "acrisure-owner",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "Acrisure LLC is the ultimate owner of Acrisure.",
+    "verdict": "Owned by Acrisure LLC. Nothing found.",
     "claimIds": [
       "acrisure-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Documented conduct record: total fines $30850 million; Supplier Code of Conduct: money laundering; CFTC Whistleblower Program at Risk Without Lawmakers’ Help: $23 billion"
+    "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
     "id": "adidas",
@@ -144,14 +144,14 @@
     "name": "Albert",
     "ownerId": "albert-owner",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "Albert LLC is the ultimate owner of Albert.",
+    "verdict": "Owned by Albert LLC. Nothing found.",
     "claimIds": [
       "albert-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Documented conduct record: total fines $0 million; Financial Times Highlights Citizenship Cases Ahead of EU Ruling on Malta: money laundering; Could Hansi Flick have learned from Barcelona’s last Champions League success?: money laundering"
+    "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
     "id": "all-in-won",
@@ -270,14 +270,14 @@
     "name": "Amica Mutual Insurance",
     "ownerId": "amica-mutual-insurance-owner",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "Amica Mutual Insurance Company is the ultimate owner of Amica Mutual Insurance.",
+    "verdict": "Owned by Amica Mutual Insurance Company. Nothing found.",
     "claimIds": [
       "amica-mutual-insurance-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Documented conduct record: total fines $0 million; 2022 First Circuit U.S. Court of Appeals Case Law: money laundering"
+    "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
     "id": "anheuser-busch",
@@ -354,14 +354,14 @@
     "name": "Atlantic Health",
     "ownerId": "atlantic-health-owner",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "Atlantic Health System is the ultimate owner of Atlantic Health.",
+    "verdict": "Owned by Atlantic Health System. Nothing found.",
     "claimIds": [
       "atlantic-health-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Documented conduct record: total fines $0 million; Veteran federal prosecutor appointed New Jersey insurance fraud prosecutor: money laundering"
+    "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
     "id": "atlassian",
@@ -452,14 +452,14 @@
     "name": "Ball Corporation",
     "ownerId": "ball-corporation-owner",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "Ball Corporation is the ultimate owner of Ball Corporation.",
+    "verdict": "Owned by Ball Corporation. Nothing found.",
     "claimIds": [
       "ball-corporation-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Documented conduct record: total fines $2543420 million; Ball Corporation Press Release dated February 1, 2024: $172 billion; Ball Corporation Press Release dated February 1, 2024: $15.35 billion"
+    "note": "Rating note: Listed Company company with no significant conduct issues found"
   },
   {
     "id": "ballys-intralot",
@@ -750,7 +750,7 @@
       "capital-one-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Documented conduct record: total fines $930 million; Capital One to Pay $425 Million in 360 Savings Interest-Rate Settlement - WSJ: $425 million; Capital One to Pay $425 Million in 360 Savings Interest-Rate Settlement - WSJ: $425 million"
+    "note": "Rating note: Capital One has paid significant regulatory settlements including $425 million in 2023 for 360 Savings interest-rate practices and $140 million in 2020 for CFPB credit card marketing practices."
   },
   {
     "id": "carvana",
@@ -941,14 +941,14 @@
     "name": "Cleveland-Cliffs",
     "ownerId": "cleveland-cliffs-owner",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "Cleveland-Cliffs LLC is the ultimate owner of Cleveland-Cliffs.",
+    "verdict": "Owned by Cleveland-Cliffs LLC. Nothing found.",
     "claimIds": [
       "cleveland-cliffs-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Documented conduct record: total fines $146 million; 10-Q - 07/26/2023 - Cleveland-Cliffs Inc.: $6 million; 10-Q - 07/26/2023 - Cleveland-Cliffs Inc.: $13 million"
+    "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
     "id": "clickhouse",
@@ -1219,14 +1219,14 @@
     "name": "Delta Air Lines",
     "ownerId": "delta-air-lines-owner",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "Delta Air Lines LLC is the ultimate owner of Delta Air Lines.",
+    "verdict": "Owned by Delta Air Lines LLC. Nothing found.",
     "claimIds": [
       "delta-air-lines-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Documented conduct record: total fines $763300 million; Delta to settle class-action lawsuit over faulty refunds during Covid | CNN Business: $27 billion; Delta to settle class-action lawsuit over faulty refunds during Covid | CNN Business: $2.3 billion"
+    "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
     "id": "desert-financial-credit-union",
@@ -1376,14 +1376,14 @@
     "name": "Empower",
     "ownerId": "empower-owner",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "Empower LLC is the ultimate owner of Empower.",
+    "verdict": "Owned by Empower LLC. Nothing found.",
     "claimIds": [
       "empower-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Documented conduct record: total fines $13150 million; FTC Secures Settlement with ICE and Black Knight Resolving Antitrust Concerns in Mortgage Technology Deal | Federal Trade Commission: $13.1 billion; Microsoft Word - Empower Anti-Corruption AML KYC Policy (CFM) v4 FEBRUARY 2023 FINAL clean CFM and ELECTRIFI.docx: money laundering"
+    "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
     "id": "energy-transfer",
@@ -1545,14 +1545,14 @@
     "name": "FedEx",
     "ownerId": "fedex-owner",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "FedEx LLC is the ultimate owner of FedEx.",
+    "verdict": "Owned by FedEx LLC. Nothing found.",
     "claimIds": [
       "fedex-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Documented conduct record: total fines $0 million; FedEx Corporation: money laundering; Short AirBoss (ABSSF): Lawsuit & Forced Labor Issues Impact Growth Pipeline & Inventory - Supply Chain Council of European Union | Scceu.org: forced labor"
+    "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
     "id": "fifth-third-bank",
@@ -1655,14 +1655,14 @@
     "name": "Foundation Building Materials (FBM)",
     "ownerId": "foundation-building-materials-owner",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "Foundation Building Materials (FBM) LLC is the ultimate owner of Foundation Building Materials (FBM).",
+    "verdict": "Owned by Foundation Building Materials (FBM) LLC. Nothing found.",
     "claimIds": [
       "foundation-building-materials-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Documented conduct record: total fines $173800 million; Lowe's | Ekalavya Hansaj: $12.5 billion; Lowe’s (LOW) Stock Outlook for 2026: Earnings Beat, Rate‑Cut Hopes and a $12.5M Fine – What It Means for Investors: $8.8 billion"
+    "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
     "id": "frost-bank",
@@ -1780,14 +1780,14 @@
     "name": "Globe Life (Globe Life Inc.)",
     "ownerId": "globe-life-globe-life-inc-owner",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "Globe Life (Globe Life Inc.) is the ultimate owner of Globe Life (Globe Life Inc.).",
+    "verdict": "Owned by Globe Life (Globe Life Inc.). Nothing found.",
     "claimIds": [
       "globe-life-globe-life-inc-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Documented conduct record: total fines $457 million; February 07, 2024 | Globe Life Inc. Reports Fourth Quarter 2023 Results | Globe Life News Release: $77 million; February 07, 2024 | Globe Life Inc. Reports Fourth Quarter 2023 Results | Globe Life News Release: $380 million"
+    "note": "Rating note: Listed Company company with no significant conduct issues found"
   },
   {
     "id": "golden-1-credit-union",
@@ -1945,14 +1945,14 @@
     "name": "Hard Rock International",
     "ownerId": "hard-rock-international-owner",
     "ownership": "owned",
-    "tier": "concern",
+    "tier": "none",
     "status": "rated",
-    "verdict": "Hard Rock International LLC is the ultimate owner of Hard Rock International.",
+    "verdict": "Owned by Hard Rock International LLC. Nothing found.",
     "claimIds": [
       "hard-rock-international-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Documented conduct record: total fines $130 million; Ontario Regulator Fines Ottawa Casino Owned By Hard Rock Over $200K For 36 Violations: money laundering; Hard Rock Exec Alex Pariente Let Markers Go Unpaid, Took Bookies’ Action, Say Sources - TornadoSpins: $130.13 million"
+    "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
     "id": "healthequity",
@@ -2276,14 +2276,14 @@
     "name": "JPMorgan Chase (Chase)",
     "ownerId": "jpmorgan-chase-owner",
     "ownership": "owned",
-    "tier": "none",
+    "tier": "concern",
     "status": "rated",
-    "verdict": "Owned by JPMorgan Chase (Chase) LLC. Nothing found.",
+    "verdict": "JPMorgan Chase & Co.",
     "claimIds": [
       "jpmorgan-chase-chase-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Private Company company with no significant conduct issues found"
+    "note": "Rating note: JPMorgan Chase has paid multiple significant settlements including $151 million in 2024 for SEC violations and various other regulatory matters."
   },
   {
     "id": "jpmorganchase",
@@ -3432,14 +3432,14 @@
     "name": "PNC Bank (PNC Financial Services)",
     "ownerId": "pnc-bank-pnc-financial-services-owner",
     "ownership": "owned",
-    "tier": "none",
+    "tier": "concern",
     "status": "rated",
-    "verdict": "Owned by PNC Bank (PNC Financial Services) Corporation. Nothing found.",
+    "verdict": "PNC Financial Services Group, Inc.",
     "claimIds": [
       "pnc-bank-pnc-financial-services-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Listed Company company with no significant conduct issues found"
+    "note": "Rating note: PNC has paid significant settlements including $6.1 million in 2023 for BBVA 401(k) fees and various mortgage-related settlements."
   },
   {
     "id": "polymarket",

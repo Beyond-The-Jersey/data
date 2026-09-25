@@ -16,10 +16,10 @@
       "name": "Cleveland-Cliffs",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "concern",
+      "tier": "none",
       "ownerId": "cleveland-cliffs-owner",
       "owner": "Cleveland-Cliffs LLC",
-      "verdict": "Cleveland-Cliffs LLC is the ultimate owner of Cleveland-Cliffs.",
+      "verdict": "Owned by Cleveland-Cliffs LLC. Nothing found.",
       "source": {
         "name": "Cleveland Cavaliers (NBA.com)",
         "date": "2022-03-29",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "concern",
+  "worstTier": "none",
   "owners": [
     "cleveland-cliffs-owner",
     "rocket-rocket-companies-owner"

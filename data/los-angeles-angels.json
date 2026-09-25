@@ -16,10 +16,10 @@
       "name": "Foundation Building Materials (FBM)",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "concern",
+      "tier": "none",
       "ownerId": "foundation-building-materials-owner",
       "owner": "Foundation Building Materials (FBM) LLC",
-      "verdict": "Foundation Building Materials (FBM) LLC is the ultimate owner of Foundation Building Materials (FBM).",
+      "verdict": "Owned by Foundation Building Materials (FBM) LLC. Nothing found.",
       "source": {
         "name": "Blinkfire Analytics",
         "date": "2026-04-20",
@@ -27,7 +27,7 @@
       }
     }
   ],
-  "worstTier": "concern",
+  "worstTier": "none",
   "owners": [
     "foundation-building-materials-owner"
   ],

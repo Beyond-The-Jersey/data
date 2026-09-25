@@ -14,10 +14,10 @@
       "name": "Delta Air Lines",
       "placement": "stadium",
       "season": null,
-      "tier": "concern",
+      "tier": "none",
       "ownerId": "delta-air-lines-owner",
       "owner": "Delta Air Lines LLC",
-      "verdict": "Delta Air Lines LLC is the ultimate owner of Delta Air Lines.",
+      "verdict": "Owned by Delta Air Lines LLC. Nothing found.",
       "source": {
         "name": "Utah Jazz / NBA.com",
         "date": "2023-01-14",
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "worstTier": "concern",
+  "worstTier": "none",
   "owners": [
     "delta-air-lines-owner",
     "healthequity-owner"

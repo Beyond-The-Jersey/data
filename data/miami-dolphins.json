@@ -31,10 +31,10 @@
       "name": "Hard Rock International",
       "placement": "stadium",
       "season": null,
-      "tier": "concern",
+      "tier": "none",
       "ownerId": "hard-rock-international-owner",
       "owner": "Hard Rock International LLC",
-      "verdict": "Hard Rock International LLC is the ultimate owner of Hard Rock International.",
+      "verdict": "Owned by Hard Rock International LLC. Nothing found.",
       "source": {
         "name": "Miami Dolphins Communications Portal",
         "date": "2016-08-17",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "concern",
+  "worstTier": "none",
   "owners": [
     "baptist-health-owner",
     "hard-rock-international-owner"
