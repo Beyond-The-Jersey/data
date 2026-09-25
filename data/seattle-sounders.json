@@ -4,7 +4,14 @@
   "sport": "soccer",
   "league": "mls",
   "country": "USA",
-  "contact": {},
+  "contact": {
+    "website": "https://www.soundersfc.com",
+    "contact-form": "https://www.soundersfc.com/tickets/information-request",
+    "email": "CustomerService@SoundersFC.com",
+    "phone": "+1 877-657-4625",
+    "x": "@SoundersFC",
+    "instagram": "@soundersfc"
+  },
   "sponsors": [
     {
       "id": "providence",

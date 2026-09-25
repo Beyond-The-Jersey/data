@@ -2427,6 +2427,68 @@
     "lastChecked": "2026-09-24"
   },
   {
+    "clubId": "dc-united",
+    "channels": [
+      {
+        "type": "website",
+        "value": "https://www.dcunited.com",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.dcunited.com",
+          "date": "2026-09-24"
+        },
+        "label": "Club website"
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.dcunited.com/tickets/contact",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.dcunited.com/tickets/contact",
+          "date": "2026-09-24"
+        },
+        "label": "Contact form"
+      },
+      {
+        "type": "email",
+        "value": "ticketing@dcunited.com",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.dcunited.com/tickets/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 202-600-9098",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.dcunited.com/tickets/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@dcunited",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.dcunited.com",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@dcunited",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.dcunited.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
     "clubId": "denver-broncos",
     "channels": [
       {
@@ -2916,6 +2978,130 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.fcaugsburg.de/",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "fc-cincinnati",
+    "channels": [
+      {
+        "type": "website",
+        "value": "https://www.fccincinnati.com",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.fccincinnati.com",
+          "date": "2026-09-24"
+        },
+        "label": "Club website"
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.fccincinnati.com/tickets/contact-us",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.fccincinnati.com/tickets/contact-us",
+          "date": "2026-09-24"
+        },
+        "label": "Contact form"
+      },
+      {
+        "type": "email",
+        "value": "tickets@fccincinnati.com",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.fccincinnati.com/tickets/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 513-977-5425",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.fccincinnati.com/tickets/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@fccincinnati",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.fccincinnati.com",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@fccincinnati",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.fccincinnati.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "fc-dallas",
+    "channels": [
+      {
+        "type": "website",
+        "value": "https://www.fcdallas.com",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.fcdallas.com",
+          "date": "2026-09-24"
+        },
+        "label": "Club website"
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.fcdallas.com/contact-us",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.fcdallas.com/contact-us",
+          "date": "2026-09-24"
+        },
+        "label": "Contact form"
+      },
+      {
+        "type": "email",
+        "value": "customerservice@fcdallas.com",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.fcdallas.com/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 214-705-6700",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.fcdallas.com/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@FCDallas",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.fcdallas.com",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@fcdallas",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.fcdallas.com",
           "date": "2026-09-24"
         }
       }
@@ -3448,6 +3634,68 @@
     "lastChecked": "2026-09-24"
   },
   {
+    "clubId": "houston-dynamo",
+    "channels": [
+      {
+        "type": "website",
+        "value": "https://www.houstondynamofc.com",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.houstondynamofc.com",
+          "date": "2026-09-24"
+        },
+        "label": "Club website"
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.houstondynamofc.com/contact-us",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.houstondynamofc.com/contact-us",
+          "date": "2026-09-24"
+        },
+        "label": "Contact form"
+      },
+      {
+        "type": "email",
+        "value": "info@houstondynamo.com",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.houstondynamofc.com/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 713-276-7500",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.houstondynamofc.com/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@houstondynamo",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.houstondynamofc.com",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@houstondynamo",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.houstondynamofc.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
     "clubId": "houston-rockets",
     "channels": [
       {
@@ -3665,6 +3913,50 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.colts.com/",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "inter-miami",
+    "channels": [
+      {
+        "type": "website",
+        "value": "https://www.intermiamicf.com",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.intermiamicf.com",
+          "date": "2026-09-24"
+        },
+        "label": "Club website"
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.intermiamicf.com/tickets/member-central/contact",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.intermiamicf.com/tickets/member-central/contact",
+          "date": "2026-09-24"
+        },
+        "label": "Contact form"
+      },
+      {
+        "type": "x",
+        "value": "@intermiamicf",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.intermiamicf.com",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@intermiamicf",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.intermiamicf.com",
           "date": "2026-09-24"
         }
       }
@@ -3965,6 +4257,68 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.nba.com/clippers/?tmd=1",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "la-galaxy",
+    "channels": [
+      {
+        "type": "website",
+        "value": "https://www.lagalaxy.com",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.lagalaxy.com",
+          "date": "2026-09-24"
+        },
+        "label": "Club website"
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.lagalaxy.com/club/contact",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.lagalaxy.com/club/contact",
+          "date": "2026-09-24"
+        },
+        "label": "Contact form"
+      },
+      {
+        "type": "email",
+        "value": "customerservice@lagalaxy.com",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.lagalaxy.com/club/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 877-342-5299",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.lagalaxy.com/club/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@LAGalaxy",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.lagalaxy.com",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@lagalaxy",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.lagalaxy.com",
           "date": "2026-09-24"
         }
       }
@@ -5043,6 +5397,68 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.mlb.com/twins",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "minnesota-united",
+    "channels": [
+      {
+        "type": "website",
+        "value": "https://www.mnufc.com",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mnufc.com",
+          "date": "2026-09-24"
+        },
+        "label": "Club website"
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mnufc.com/club/contact-us",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mnufc.com/club/contact-us",
+          "date": "2026-09-24"
+        },
+        "label": "Contact form"
+      },
+      {
+        "type": "email",
+        "value": "info@mnufc.com",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mnufc.com/club/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 763-476-2237",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mnufc.com/club/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@mnufc",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mnufc.com",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@mnufc",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.mnufc.com",
           "date": "2026-09-24"
         }
       }
@@ -7180,6 +7596,68 @@
     "lastChecked": "2026-09-24"
   },
   {
+    "clubId": "seattle-sounders",
+    "channels": [
+      {
+        "type": "website",
+        "value": "https://www.soundersfc.com",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.soundersfc.com",
+          "date": "2026-09-24"
+        },
+        "label": "Club website"
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.soundersfc.com/tickets/information-request",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.soundersfc.com/tickets/information-request",
+          "date": "2026-09-24"
+        },
+        "label": "Contact form"
+      },
+      {
+        "type": "email",
+        "value": "CustomerService@SoundersFC.com",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.soundersfc.com/tickets/information-request",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 877-657-4625",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.soundersfc.com/tickets/information-request",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@SoundersFC",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.soundersfc.com",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@soundersfc",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.soundersfc.com",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
     "clubId": "sevilla",
     "channels": [
       {
@@ -7225,6 +7703,68 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://sevillafc.es/",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "sporting-kansas-city",
+    "channels": [
+      {
+        "type": "website",
+        "value": "https://www.sportingkc.com",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.sportingkc.com",
+          "date": "2026-09-24"
+        },
+        "label": "Club website"
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.sportingkc.com/contact-us",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.sportingkc.com/contact-us",
+          "date": "2026-09-24"
+        },
+        "label": "Contact form"
+      },
+      {
+        "type": "email",
+        "value": "ClientServices@SportingKC.com",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.sportingkc.com/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 913-387-3400",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.sportingkc.com/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@SportingKC",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.sportingkc.com",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@sportingkc",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.sportingkc.com",
           "date": "2026-09-24"
         }
       }
@@ -7643,6 +8183,68 @@
     "lastChecked": "2026-09-24"
   },
   {
+    "clubId": "toronto-fc",
+    "channels": [
+      {
+        "type": "website",
+        "value": "https://www.torontofc.ca",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.torontofc.ca",
+          "date": "2026-09-24"
+        },
+        "label": "Club website"
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.torontofc.ca/tickets/members",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.torontofc.ca/tickets/members",
+          "date": "2026-09-24"
+        },
+        "label": "Contact form"
+      },
+      {
+        "type": "email",
+        "value": "TicketService@MLSE.com",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.torontofc.ca/tickets/members",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 416-360-4625",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.torontofc.ca/tickets/members",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@TorontoFC",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.torontofc.ca",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@torontofc",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.torontofc.ca",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
     "clubId": "toronto-raptors",
     "channels": [
       {
@@ -7863,6 +8465,68 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.valenciacf.com/",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "vancouver-whitecaps",
+    "channels": [
+      {
+        "type": "website",
+        "value": "https://www.whitecapsfc.com",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.whitecapsfc.com",
+          "date": "2026-09-24"
+        },
+        "label": "Club website"
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.whitecapsfc.com/club/contact-us",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.whitecapsfc.com/club/contact-us",
+          "date": "2026-09-24"
+        },
+        "label": "Contact form"
+      },
+      {
+        "type": "email",
+        "value": "info@whitecapsfc.com",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.whitecapsfc.com/club/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+1 604-669-9283",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.whitecapsfc.com/club/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@WhitecapsFC",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.whitecapsfc.com",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@whitecapsfc",
+        "source": {
+          "name": "Club website",
+          "url": "https://www.whitecapsfc.com",
           "date": "2026-09-24"
         }
       }

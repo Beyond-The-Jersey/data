@@ -4,7 +4,14 @@
   "sport": "soccer",
   "league": "mls",
   "country": "USA",
-  "contact": {},
+  "contact": {
+    "website": "https://www.fcdallas.com",
+    "contact-form": "https://www.fcdallas.com/contact-us",
+    "email": "customerservice@fcdallas.com",
+    "phone": "+1 214-705-6700",
+    "x": "@FCDallas",
+    "instagram": "@fcdallas"
+  },
   "sponsors": [
     {
       "id": "childrens-health",

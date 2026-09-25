@@ -4,7 +4,14 @@
   "sport": "soccer",
   "league": "mls",
   "country": "USA",
-  "contact": {},
+  "contact": {
+    "website": "https://www.sportingkc.com",
+    "contact-form": "https://www.sportingkc.com/contact-us",
+    "email": "ClientServices@SportingKC.com",
+    "phone": "+1 913-387-3400",
+    "x": "@SportingKC",
+    "instagram": "@sportingkc"
+  },
   "sponsors": [
     {
       "id": "compass-minerals",

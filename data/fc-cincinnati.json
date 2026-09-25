@@ -4,7 +4,14 @@
   "sport": "soccer",
   "league": "mls",
   "country": "USA",
-  "contact": {},
+  "contact": {
+    "website": "https://www.fccincinnati.com",
+    "contact-form": "https://www.fccincinnati.com/tickets/contact-us",
+    "email": "tickets@fccincinnati.com",
+    "phone": "+1 513-977-5425",
+    "x": "@fccincinnati",
+    "instagram": "@fccincinnati"
+  },
   "sponsors": [
     {
       "id": "mercy-health",

@@ -4,7 +4,14 @@
   "sport": "soccer",
   "league": "mls",
   "country": "Canada",
-  "contact": {},
+  "contact": {
+    "website": "https://www.whitecapsfc.com",
+    "contact-form": "https://www.whitecapsfc.com/club/contact-us",
+    "email": "info@whitecapsfc.com",
+    "phone": "+1 604-669-9283",
+    "x": "@WhitecapsFC",
+    "instagram": "@whitecapsfc"
+  },
   "sponsors": [
     {
       "id": "telus",

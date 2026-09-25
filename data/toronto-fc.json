@@ -4,7 +4,14 @@
   "sport": "soccer",
   "league": "mls",
   "country": "Canada",
-  "contact": {},
+  "contact": {
+    "website": "https://www.torontofc.ca",
+    "contact-form": "https://www.torontofc.ca/tickets/members",
+    "email": "TicketService@MLSE.com",
+    "phone": "+1 416-360-4625",
+    "x": "@TorontoFC",
+    "instagram": "@torontofc"
+  },
   "sponsors": [
     {
       "id": "bmo-bank",

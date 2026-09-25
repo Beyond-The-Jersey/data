@@ -4,7 +4,14 @@
   "sport": "soccer",
   "league": "mls",
   "country": "USA",
-  "contact": {},
+  "contact": {
+    "website": "https://www.houstondynamofc.com",
+    "contact-form": "https://www.houstondynamofc.com/contact-us",
+    "email": "info@houstondynamo.com",
+    "phone": "+1 713-276-7500",
+    "x": "@houstondynamo",
+    "instagram": "@houstondynamo"
+  },
   "sponsors": [
     {
       "id": "md-anderson-cancer-center",

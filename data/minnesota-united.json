@@ -4,7 +4,14 @@
   "sport": "soccer",
   "league": "mls",
   "country": "USA",
-  "contact": {},
+  "contact": {
+    "website": "https://www.mnufc.com",
+    "contact-form": "https://www.mnufc.com/club/contact-us",
+    "email": "info@mnufc.com",
+    "phone": "+1 763-476-2237",
+    "x": "@mnufc",
+    "instagram": "@mnufc"
+  },
   "sponsors": [
     {
       "id": "target",

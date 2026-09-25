@@ -4,7 +4,12 @@
   "sport": "soccer",
   "league": "mls",
   "country": "USA",
-  "contact": {},
+  "contact": {
+    "website": "https://www.intermiamicf.com",
+    "contact-form": "https://www.intermiamicf.com/tickets/member-central/contact",
+    "x": "@intermiamicf",
+    "instagram": "@intermiamicf"
+  },
   "sponsors": [
     {
       "id": "royal-caribbean",
