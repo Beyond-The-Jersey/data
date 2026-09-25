@@ -1069,7 +1069,7 @@ RATINGS = [{'sponsorId': 'aarp',
   'note': "Kept at 'none' rather than 'unrated' because the operating entity is clearly established; the opacity is "
           "about the group's ultimate beneficial owners, which Curaçao does not publish."},
  {'sponsorId': 'childrens-health',
-  'tier': 'serious',
+  'tier': 'unrated',
   'ownership': 'owned',
   'owner': {'id': 'ut-southwestern-medical-center',
             'name': 'The University of Texas Southwestern Medical Center',
@@ -1078,13 +1078,12 @@ RATINGS = [{'sponsorId': 'aarp',
             'note': 'Judgement call: the sponsor entry covers two owners. Scored on the state half (UT Southwestern) '
                     "because state ownership is the tier-driving fact; Children's Health's non-profit status is "
                     "evidenced by ProPublica Nonprofit Explorer (EIN 75-0800628). 'serious' reflects state rather "
-                    'than state-fund ownership.'},
+                    'than state-fund ownership. ON HOLD: public ownership, but no sourced claim of abuses by that '
+                    "owner, which serious needs; the sponsor also covers a private non-profit (Children's Health)."},
   'claim': {'text': "This is a split patch sponsor: Children's Health (home kit) is a private 501(c)(3) non-profit - "
                     "Children's Health System of Texas, EIN 75-0800628 - while UT Southwestern Medical Center (away "
                     'kit) is a state institution, the public medical school of The University of Texas, established '
-                    'as a UT medical branch in Dallas in 1949 under the UT Board of Regents. State ownership of one '
-                    'half of the patch drives a state tier. Human-rights relevance is limited to public-sector '
-                    'healthcare and labour policy.',
+                    'as a UT medical branch in Dallas in 1949 under the UT Board of Regents.',
             'short': "This is a split patch sponsor: Children's Health (home kit) is a private 501(c)(3) non-profit "
                      "- Children's Health System of Texas, EIN 75-0800628 - while UT….",
             'source': {'name': "UT Southwestern - 'Mission, Values, and History' (About Us)",
@@ -1096,7 +1095,10 @@ RATINGS = [{'sponsorId': 'aarp',
   'note': 'Judgement call: the sponsor entry covers two owners. Scored on the state half (UT Southwestern) because '
           "state ownership is the tier-driving fact; Children's Health's non-profit status is evidenced by "
           "ProPublica Nonprofit Explorer (EIN 75-0800628). 'serious' reflects state rather than state-fund "
-          'ownership.'},
+          'ownership. ON HOLD: public ownership, but no sourced claim of abuses by that owner, which serious needs; '
+          "the sponsor also covers a private non-profit (Children's Health).",
+  'hold': 'public ownership, but no sourced claim of abuses by that owner, which serious needs; the sponsor also '
+          "covers a private non-profit (Children's Health)"},
  {'sponsorId': 'childrens-hospital-colorado',
   'tier': 'none',
   'ownership': 'owned',
@@ -1844,20 +1846,19 @@ RATINGS = [{'sponsorId': 'aarp',
   'note': 'Although control lies with Kelcy Warren via LE GP, LLC, the partnership is publicly traded with no state '
           'stake; no serious conduct record identified.'},
  {'sponsorId': 'eni',
-  'tier': 'serious',
+  'tier': 'unrated',
   'ownership': 'owned',
   'owner': {'id': 'eni',
             'name': 'Eni S.p.A.',
             'type': 'state',
             'country': 'IT',
             'note': 'Kept at serious rather than severe: Eni is a state oil major with conflict-zone assets but is '
-                    'not itself a belligerent or a Russian state entity.'},
+                    'not itself a belligerent or a Russian state entity. ON HOLD: a 33% Italian state stake, no '
+                    'sourced claim of abuses by that owner, and the conflict-exposure sentence had no source.'},
   'claim': {'text': 'Eni S.p.A. is effectively Italian state-owned: the Ministry of Economy and Finance (MEF) holds '
                     '2.166% directly and a further 30.918% indirectly through Cassa Depositi e Prestiti (which is '
                     "82.77% MEF-owned) - 33.084% in total, alongside a golden share - per Eni's own shareholder "
-                    "communications to its 2026 AGM. State ownership alone earns serious. Eni's upstream operations "
-                    'in Libya, Egypt, Nigeria and Mozambique give it live, conflict-adjacent human-rights exposure '
-                    'on top.',
+                    'communications to its 2026 AGM.',
             'short': 'Eni S.p.A.',
             'source': {'name': 'Eni S.p.A. - Proposals of the Shareholder Ministry of the Economy and Finance (AGM '
                                '2026 filing)',
@@ -1866,7 +1867,10 @@ RATINGS = [{'sponsorId': 'aarp',
   'verdict': 'Eni S.p.A.',
   'confidence': 'high',
   'note': 'Kept at serious rather than severe: Eni is a state oil major with conflict-zone assets but is not itself '
-          'a belligerent or a Russian state entity.'},
+          'a belligerent or a Russian state entity. ON HOLD: a 33% Italian state stake, no sourced claim of abuses '
+          'by that owner, and the conflict-exposure sentence had no source.',
+  'hold': 'a 33% Italian state stake, no sourced claim of abuses by that owner, and the conflict-exposure sentence '
+          'had no source'},
  {'sponsorId': 'estrella-galicia',
   'tier': 'none',
   'ownership': 'owned',
@@ -1995,7 +1999,7 @@ RATINGS = [{'sponsorId': 'aarp',
   'note': 'Ultimate owner is the Government of Abu Dhabi, a state entity, which places it in the serious tier per '
           'rubric (state owner).'},
  {'sponsorId': 'experience-kissimmee',
-  'tier': 'serious',
+  'tier': 'unrated',
   'ownership': 'owned',
   'owner': {'id': 'osceola-county-tourism-authority',
             'name': 'Experience Kissimmee (official tourism authority for Osceola County, Florida)',
@@ -2003,12 +2007,11 @@ RATINGS = [{'sponsorId': 'aarp',
             'country': 'US',
             'note': "County-level rather than national, so 'concern' would also be defensible; called 'serious' "
                     "because the rubric gives 'serious' for any state or state-fund owner. Public funding confirmed "
-                    "in Experience Kissimmee's own 26-27 Grants Manual citing the Tourist Development Tax."},
+                    "in Experience Kissimmee's own 26-27 Grants Manual citing the Tourist Development Tax. ON HOLD: "
+                    'public ownership, but no sourced claim of abuses by that owner, which serious needs.'},
   'claim': {'text': 'Experience Kissimmee is not a company: it is the official destination marketing authority for '
                     "Osceola County, Florida, funded from the county's Tourist Development Tax and governed under "
-                    'the state Local Option Tourist Development Act. Because the owner is a public body, the '
-                    "state-owner rule puts it in 'serious'. Human-rights relevance is remote - a local government "
-                    'tourism body with no armed-conflict or conflict-minerals exposure.',
+                    'the state Local Option Tourist Development Act.',
             'short': 'Experience Kissimmee is not a company: it is the official destination marketing authority for '
                      "Osceola County, Florida, funded from the county's Tourist Development….",
             'source': {'name': 'Experience Kissimmee - About us (official tourism authority for Osceola County)',
@@ -2019,7 +2022,9 @@ RATINGS = [{'sponsorId': 'aarp',
   'confidence': 'high',
   'note': "County-level rather than national, so 'concern' would also be defensible; called 'serious' because the "
           "rubric gives 'serious' for any state or state-fund owner. Public funding confirmed in Experience "
-          "Kissimmee's own 26-27 Grants Manual citing the Tourist Development Tax."},
+          "Kissimmee's own 26-27 Grants Manual citing the Tourist Development Tax. ON HOLD: public ownership, but no "
+          'sourced claim of abuses by that owner, which serious needs.',
+  'hold': 'public ownership, but no sourced claim of abuses by that owner, which serious needs'},
  {'sponsorId': 'extreme-networks',
   'tier': 'none',
   'ownership': 'owned',
@@ -2962,18 +2967,16 @@ RATINGS = [{'sponsorId': 'aarp',
           "a sponsor at 'none' - so 'none' would be defensible for Intuit on a strict state-ownership-only reading. "
           "Not 'serious' (no state owner) and not 'severe' (no conflict exposure)."},
  {'sponsorId': 'io-sono-friuli-venezia-giulia',
-  'tier': 'serious',
+  'tier': 'unrated',
   'ownership': 'owned',
   'owner': {'id': 'friuli-venezia-giulia-region',
             'name': 'Regione Autonoma Friuli Venezia Giulia (via PromoTurismoFVG)',
             'type': 'state',
             'country': 'IT',
-            'note': None},
+            'note': 'ON HOLD: public ownership, but no sourced claim of abuses by that owner, which serious needs.'},
   'claim': {'text': "The Udinese front brand 'Io sono Friuli Venezia Giulia' is bought by the Friuli Venezia Giulia "
                     "regional government through PromoTurismoFVG, the region's public tourism agency, per the club's "
-                    'own announcement of the renewal to 2028/29. The owner is therefore a public authority - '
-                    "'serious' under the state-owner rule. Human-rights relevance: a regional government's "
-                    'destination marketing, with no conflict or minerals exposure.',
+                    'own announcement of the renewal to 2028/29.',
             'short': "The Udinese front brand 'Io sono Friuli Venezia Giulia' is bought by the Friuli Venezia Giulia "
                      "regional government through PromoTurismoFVG, the region's public….",
             'source': {'name': 'Udinese Calcio - Io sono Friuli Venezia Giulia renews Udinese shirt sponsorship deal '
@@ -2983,7 +2986,8 @@ RATINGS = [{'sponsorId': 'aarp',
   'verdict': "The Udinese front brand 'Io sono Friuli Venezia Giulia' is bought by the Friuli Venezia Giulia "
              "regional government through PromoTurismoFVG, the region's public….",
   'confidence': 'high',
-  'note': None},
+  'note': 'ON HOLD: public ownership, but no sourced claim of abuses by that owner, which serious needs.',
+  'hold': 'public ownership, but no sourced claim of abuses by that owner, which serious needs'},
  {'sponsorId': 'iren',
   'tier': 'none',
   'ownership': 'owned',
@@ -3633,14 +3637,15 @@ RATINGS = [{'sponsorId': 'aarp',
   'confidence': 'medium',
   'note': 'Listed Company company with no significant conduct issues found'},
  {'sponsorId': 'lvcva',
-  'tier': 'serious',
+  'tier': 'unrated',
   'ownership': 'owned',
   'owner': {'id': 'lvcva-owner',
             'name': 'Las Vegas Convention and Visitors Authority',
             'type': 'state',
             'country': 'US',
             'note': 'LVCVA is a state agency created by statute; Nevada is a U.S. state with no ongoing armed '
-                    'conflict or severe abuses, but state ownership triggers serious tier per rubric.'},
+                    'conflict or severe abuses, but state ownership triggers serious tier per rubric. ON HOLD: '
+                    'public ownership, but no sourced claim of abuses by that owner, which serious needs.'},
   'claim': {'text': 'The Las Vegas Convention and Visitors Authority (LVCVA) was founded by the Nevada Legislature '
                     'in 1955 as a governmental entity to serve this destination.',
             'short': 'The Las Vegas Convention and Visitors Authority (LVCVA) was founded by the Nevada Legislature '
@@ -3650,7 +3655,9 @@ RATINGS = [{'sponsorId': 'aarp',
              'as a governmental entity to serve this destination.',
   'confidence': 'high',
   'note': 'LVCVA is a state agency created by statute; Nevada is a U.S. state with no ongoing armed conflict or '
-          'severe abuses, but state ownership triggers serious tier per rubric.'},
+          'severe abuses, but state ownership triggers serious tier per rubric. ON HOLD: public ownership, but no '
+          'sourced claim of abuses by that owner, which serious needs.',
+  'hold': 'public ownership, but no sourced claim of abuses by that owner, which serious needs'},
  {'sponsorId': 'm-and-t-bank',
   'tier': 'none',
   'ownership': 'owned',
@@ -3807,18 +3814,17 @@ RATINGS = [{'sponsorId': 'aarp',
   'confidence': 'high',
   'note': None},
  {'sponsorId': 'md-anderson-cancer-center',
-  'tier': 'serious',
+  'tier': 'unrated',
   'ownership': 'owned',
   'owner': {'id': 'university-of-texas-system',
             'name': 'The University of Texas System (UT MD Anderson Cancer Center)',
             'type': 'state',
             'country': 'US',
-            'note': None},
+            'note': 'ON HOLD: public ownership, but no sourced claim of abuses by that owner, which serious needs.'},
   'claim': {'text': 'MD Anderson, the Houston Dynamo front sponsor, is a component institution of the University of '
                     'Texas System - its own about page states it is part of the UT System, and its financial '
                     'statements are those of a division of the System funded by state appropriations plus the '
-                    "Permanent University Fund and philanthropy. State ownership, so 'serious' under the rule. "
-                    'Human-rights relevance: public healthcare/research, no conflict exposure.',
+                    'Permanent University Fund and philanthropy.',
             'short': 'MD Anderson, the Houston Dynamo front sponsor, is a component institution of the University of '
                      'Texas System - its own about page states it is part of the UT….',
             'source': {'name': "UT MD Anderson - About MD Anderson ('Part of the University of Texas System')",
@@ -3827,7 +3833,8 @@ RATINGS = [{'sponsorId': 'aarp',
   'verdict': 'MD Anderson, the Houston Dynamo front sponsor, is a component institution of the University of Texas '
              'System - its own about page states it is part of the UT….',
   'confidence': 'high',
-  'note': None},
+  'note': 'ON HOLD: public ownership, but no sourced claim of abuses by that owner, which serious needs.',
+  'hold': 'public ownership, but no sourced claim of abuses by that owner, which serious needs'},
  {'sponsorId': 'mediacom',
   'tier': 'none',
   'ownership': 'owned',
@@ -3889,14 +3896,15 @@ RATINGS = [{'sponsorId': 'aarp',
   'note': 'Memorial Hermann is a private nonprofit health system (501(c)(3)); not a public entity and no state '
           'ownership identified. Governed by local community board.'},
  {'sponsorId': 'mercedes-benz',
-  'tier': 'serious',
+  'tier': 'unrated',
   'ownership': 'owned',
   'owner': {'id': 'mercedes-benz-group',
             'name': 'Mercedes-Benz Group AG',
             'type': 'listed-company',
             'country': 'DE',
             'note': 'Ultimate owners include state-owned enterprise BAIC Group and state fund Kuwait Investment '
-                    'Authority, making the owner type state/state-fund, thus serious tier.'},
+                    'Authority, making the owner type state/state-fund, thus serious tier. ON HOLD: minority state '
+                    'stakes (BAIC 9.98%, KIA 5.33%): concern at most under tiers.json.'},
   'claim': {'text': 'Mercedes-Benz Group AG has major shareholders including BAIC Group (state-owned enterprise of '
                     'China) holding 9.98% and Kuwait Investment Authority (state fund) holding 5.33% of voting '
                     'rights.',
@@ -3909,7 +3917,9 @@ RATINGS = [{'sponsorId': 'aarp',
              'holding 9.98% and Kuwait Investment Authority (state fund)….',
   'confidence': 'high',
   'note': 'Ultimate owners include state-owned enterprise BAIC Group and state fund Kuwait Investment Authority, '
-          'making the owner type state/state-fund, thus serious tier.'},
+          'making the owner type state/state-fund, thus serious tier. ON HOLD: minority state stakes (BAIC 9.98%, '
+          'KIA 5.33%): concern at most under tiers.json.',
+  'hold': 'minority state stakes (BAIC 9.98%, KIA 5.33%): concern at most under tiers.json'},
  {'sponsorId': 'mercy-health',
   'tier': 'none',
   'ownership': 'owned',
@@ -4569,7 +4579,7 @@ RATINGS = [{'sponsorId': 'aarp',
   'note': 'No state stake or serious conduct record identified. Ownership is private or listed with no state '
           'involvement.'},
  {'sponsorId': 'pirelli',
-  'tier': 'serious',
+  'tier': 'unrated',
   'ownership': 'owned',
   'owner': {'id': 'sinochem-holdings',
             'name': 'China National Chemical Corporation (Sinochem Holdings)',
@@ -4577,12 +4587,12 @@ RATINGS = [{'sponsorId': 'aarp',
             'country': 'CN',
             'note': "State stake is being reduced (talk of a further cut toward 10%) but Sinochem remained Pirelli's "
                     "second-largest shareholder after the July 2026 sale, so 'serious' still stands. Camfin "
-                    '(Tronchetti Provera family) is the largest holder.'},
+                    '(Tronchetti Provera family) is the largest holder. ON HOLD: a minority state stake (about 20%): '
+                    'concern at most under tiers.json.'},
   'claim': {'text': 'Pirelli & C. SpA is Borsa Italiana-listed but has long been part-owned by Sinochem, a Chinese '
                     "central state-owned enterprise under SASAC. Sinochem's vehicle Marco Polo International Italy "
                     'sold a 14% block (151.9m shares at EUR 6.50) to Czech investor Lumina Crown in July 2026, '
-                    'cutting the Chinese state stake from about 34% to roughly 20%. A Chinese state owner of that '
-                    'size is a material state link on a Ferrari sponsor.',
+                    'cutting the Chinese state stake from about 34% to roughly 20%.',
             'short': 'Pirelli & C.',
             'source': {'name': "European Rubber Journal, 'Sinochem completes EUR 1bn sale of Pirelli stake to Czech "
                                "investor'",
@@ -4592,7 +4602,9 @@ RATINGS = [{'sponsorId': 'aarp',
   'confidence': 'high',
   'note': "State stake is being reduced (talk of a further cut toward 10%) but Sinochem remained Pirelli's "
           "second-largest shareholder after the July 2026 sale, so 'serious' still stands. Camfin (Tronchetti "
-          'Provera family) is the largest holder.'},
+          'Provera family) is the largest holder. ON HOLD: a minority state stake (about 20%): concern at most under '
+          'tiers.json.',
+  'hold': 'a minority state stake (about 20%): concern at most under tiers.json'},
  {'sponsorId': 'play',
   'tier': 'none',
   'ownership': 'owned',
@@ -4704,14 +4716,15 @@ RATINGS = [{'sponsorId': 'aarp',
   'confidence': 'high',
   'note': 'Progressive is a publicly traded insurance company; no state stake or serious conduct record identified.'},
  {'sponsorId': 'prometeon',
-  'tier': 'serious',
+  'tier': 'unrated',
   'ownership': 'owned',
   'owner': {'id': 'sinochem-holdings',
             'name': 'Sinochem Holdings (via China National Tire & Rubber and Aeolus Tyre)',
             'type': 'state',
             'country': 'CN',
             'note': "Sinochem's own newsroom carries the same 38% CNRC/Prometeon transaction, confirming the state "
-                    'chain.'},
+                    "chain. ON HOLD: the only claim is about Pirelli's shareholder, not about Prometeon's own "
+                    'ownership.'},
   'claim': {'text': 'Prometeon Tyre Group, the truck/agro tyre business spun out of Pirelli in 2017, is controlled '
                     'through China National Tire & Rubber Co. (CNRC), a subsidiary of state-owned Sinochem Holdings; '
                     'CNRC holds 57.37% of Aeolus Tyre, which was entrusted with a further 38% of Prometeon and '
@@ -4725,7 +4738,9 @@ RATINGS = [{'sponsorId': 'aarp',
   'verdict': 'Prometeon Tyre Group, the truck/agro tyre business spun out of Pirelli in 2017, is controlled through '
              'China National Tire & Rubber Co.',
   'confidence': 'high',
-  'note': "Sinochem's own newsroom carries the same 38% CNRC/Prometeon transaction, confirming the state chain."},
+  'note': "Sinochem's own newsroom carries the same 38% CNRC/Prometeon transaction, confirming the state chain. ON "
+          "HOLD: the only claim is about Pirelli's shareholder, not about Prometeon's own ownership.",
+  'hold': "the only claim is about Pirelli's shareholder, not about Prometeon's own ownership"},
  {'sponsorId': 'providence',
   'tier': 'none',
   'ownership': 'owned',
@@ -4748,7 +4763,7 @@ RATINGS = [{'sponsorId': 'aarp',
   'confidence': 'high',
   'note': 'Catholic non-profit; some would flag religious-ethics issues, not state ownership.'},
  {'sponsorId': 'pulsee-luce-e-gas',
-  'tier': 'serious',
+  'tier': 'unrated',
   'ownership': 'owned',
   'owner': {'id': 'axpo-holding-ag',
             'name': 'Axpo Holding AG (owned by Swiss cantons and cantonal utilities)',
@@ -4756,11 +4771,12 @@ RATINGS = [{'sponsorId': 'aarp',
             'country': 'CH',
             'note': "Cantons are treated as 'state' (public-law bodies), which is why this lands at 'serious' rather "
                     "than 'none'. The shareholder table on the page carries a 2014 date but the structure is "
-                    'current.'},
+                    'current. ON HOLD: public ownership, but no sourced claim of abuses by that owner, which serious '
+                    'needs.'},
   'claim': {'text': 'Pulsee Luce e Gas is the digital retail energy brand of Axpo Italia, a subsidiary of Axpo '
                     'Holding AG. Axpo is 100% publicly owned: all its shares sit with the cantons of northeastern '
                     'Switzerland and their utilities, with Canton Zurich and its cantonal utility alone holding '
-                    'roughly 36%. The Genoa front sponsor is therefore backed by sub-national Swiss state capital.',
+                    'roughly 36%.',
             'short': 'Pulsee Luce e Gas is the digital retail energy brand of Axpo Italia, a subsidiary of Axpo '
                      'Holding AG.',
             'source': {'name': "Axpo Group, 'Owners - Entirely in public hands'",
@@ -4769,7 +4785,9 @@ RATINGS = [{'sponsorId': 'aarp',
   'verdict': 'Pulsee Luce e Gas is the digital retail energy brand of Axpo Italia, a subsidiary of Axpo Holding AG.',
   'confidence': 'high',
   'note': "Cantons are treated as 'state' (public-law bodies), which is why this lands at 'serious' rather than "
-          "'none'. The shareholder table on the page carries a 2014 date but the structure is current."},
+          "'none'. The shareholder table on the page carries a 2014 date but the structure is current. ON HOLD: "
+          'public ownership, but no sourced claim of abuses by that owner, which serious needs.',
+  'hold': 'public ownership, but no sourced claim of abuses by that owner, which serious needs'},
  {'sponsorId': 'puma',
   'tier': 'none',
   'ownership': 'owned',
@@ -5297,7 +5315,7 @@ RATINGS = [{'sponsorId': 'aarp',
   'note': "Judgement call: CDPQ's ~4.5% was treated as too small to justify 'concern'. Raise it if the dataset wants "
           'any state-fund presence flagged.'},
  {'sponsorId': 'sardegna-turismo',
-  'tier': 'serious',
+  'tier': 'unrated',
   'ownership': 'owned',
   'owner': {'id': 'regione-autonoma-della-sardegna',
             'name': 'Regione Autonoma della Sardegna (Assessorato del Turismo)',
@@ -5305,12 +5323,13 @@ RATINGS = [{'sponsorId': 'aarp',
             'country': 'IT',
             'note': 'Sponsor is a hybrid: regional state tourism body plus private brewery, and Cagliari has rotated '
                     'sponsors (Banco di Sardegna, Moby). Call is driven by the state-side branding; if the exposure '
-                    "is judged to be Doppio Malto alone the tier would drop to 'none'."},
+                    "is judged to be Doppio Malto alone the tier would drop to 'none'. ON HOLD: public ownership, "
+                    'but no sourced claim of abuses by that owner, which serious needs.'},
   'claim': {'text': "The 'Sardegna' branding on the Cagliari front shirt is the tourism promotion of the Autonomous "
                     'Region of Sardinia, run by its regional tourism department (Assessorato del Turismo, '
                     'Artigianato e Commercio), which has repeatedly signed main-sponsor deals with the club. It is a '
-                    'public-law regional body, so this is sub-national state money. The shirt front is co-branded '
-                    'with Sardinian craft-beer chain Doppio Malto, a private company.',
+                    'public-law regional body. The shirt front is co-branded with Sardinian craft-beer chain Doppio '
+                    'Malto, a private company.',
             'short': "The 'Sardegna' branding on the Cagliari front shirt is the tourism promotion of the Autonomous "
                      'Region of Sardinia, run by its regional tourism department….',
             'source': {'name': 'Regione Autonoma della Sardegna, Assessorato del turismo, artigianato e commercio',
@@ -5321,7 +5340,9 @@ RATINGS = [{'sponsorId': 'aarp',
   'confidence': 'medium',
   'note': 'Sponsor is a hybrid: regional state tourism body plus private brewery, and Cagliari has rotated sponsors '
           '(Banco di Sardegna, Moby). Call is driven by the state-side branding; if the exposure is judged to be '
-          "Doppio Malto alone the tier would drop to 'none'."},
+          "Doppio Malto alone the tier would drop to 'none'. ON HOLD: public ownership, but no sourced claim of "
+          'abuses by that owner, which serious needs.',
+  'hold': 'public ownership, but no sourced claim of abuses by that owner, which serious needs'},
  {'sponsorId': 'scotiabank',
   'tier': 'none',
   'ownership': 'owned',
@@ -6208,20 +6229,23 @@ RATINGS = [{'sponsorId': 'aarp',
   'note': 'Judgement call: the University of Colorado link is public-sector-adjacent but UCHealth is a separate '
           "501(c)(3), so 'none'. UCHealth in Colorado also works with Select Health."},
  {'sponsorId': 'ucla-health',
-  'tier': 'serious',
+  'tier': 'unrated',
   'ownership': 'owned',
   'owner': {'id': 'ucla-health-owner',
             'name': 'University of California',
             'type': 'state',
             'country': 'US',
             'note': 'UCLA Health is part of the University of California system, which is a public state university '
-                    'system.'},
+                    'system. ON HOLD: public ownership, but no sourced claim of abuses by that owner, which serious '
+                    'needs.'},
   'claim': {'text': 'UCLA Health is ultimately owned by the University of California, a state entity.',
             'short': 'UCLA Health is ultimately owned by the University of California, a state entity.',
             'source': {'name': 'UCLA Health About Us', 'date': None, 'url': 'https://www.uclahealth.org/about-us/'}},
   'verdict': 'UCLA Health is ultimately owned by the University of California, a state entity.',
   'confidence': 'high',
-  'note': 'UCLA Health is part of the University of California system, which is a public state university system.'},
+  'note': 'UCLA Health is part of the University of California system, which is a public state university system. ON '
+          'HOLD: public ownership, but no sourced claim of abuses by that owner, which serious needs.',
+  'hold': 'public ownership, but no sourced claim of abuses by that owner, which serious needs'},
  {'sponsorId': 'uline',
   'tier': 'none',
   'ownership': 'owned',
@@ -6374,7 +6398,7 @@ RATINGS = [{'sponsorId': 'aarp',
   'note': 'U.S. Bancorp is a publicly traded bank holding company; no state stake or serious conduct record '
           'identified.'},
  {'sponsorId': 'uw-health',
-  'tier': 'serious',
+  'tier': 'unrated',
   'ownership': 'owned',
   'owner': {'id': 'uw-health-owner',
             'name': 'UW Health',
@@ -6382,7 +6406,8 @@ RATINGS = [{'sponsorId': 'aarp',
             'country': 'USA',
             'note': 'UW Health is a public hospital system (state agency) created by Wisconsin statute; the state is '
                     'the ultimate owner. No evidence of ongoing armed conflict or conflict minerals at the state '
-                    "level, so 'serious' not 'severe'."},
+                    "level, so 'serious' not 'severe'. ON HOLD: public ownership, but no sourced claim of abuses by "
+                    'that owner, which serious needs.'},
   'claim': {'text': 'UW Health is a public hospital system organized under Wisconsin state law as the University of '
                     'Wisconsin Hospitals and Clinics Authority, a state agency.',
             'short': 'UW Health is a public hospital system organized under Wisconsin state law as the University of '
@@ -6395,7 +6420,9 @@ RATINGS = [{'sponsorId': 'aarp',
   'confidence': 'high',
   'note': 'UW Health is a public hospital system (state agency) created by Wisconsin statute; the state is the '
           'ultimate owner. No evidence of ongoing armed conflict or conflict minerals at the state level, so '
-          "'serious' not 'severe'."},
+          "'serious' not 'severe'. ON HOLD: public ownership, but no sourced claim of abuses by that owner, which "
+          'serious needs.',
+  'hold': 'public ownership, but no sourced claim of abuses by that owner, which serious needs'},
  {'sponsorId': 'valvoline',
   'tier': 'serious',
   'ownership': 'owned',

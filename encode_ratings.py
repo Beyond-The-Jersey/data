@@ -1,8 +1,25 @@
 """Turn the researched ratings into a Python module the builder can consume.
 
 Reads /tmp/ratings.json (produced by a research pass) and writes ratings_data.py.
-Two ratings are adjusted here, with the reason recorded alongside the research
+A few ratings are adjusted here, with the reason recorded alongside the research
 note so the reviewer can see the join between research and judgement.
+
+    python3 encode_ratings.py            # re-encode from the research outputs in /tmp
+    python3 encode_ratings.py --reapply  # re-apply HOLD and CLAIM_TEXT_FIX to the committed
+                                         # ratings_data.py (when the /tmp outputs are gone)
+
+The rating rule (tiers.json; README "Rating rule"):
+- serious means owned by a state or state fund *with documented serious abuses*;
+  severe means paid for by a state directly tied to ongoing severe abuses. Both
+  need a sourced claim of those abuses by a state in the sponsor's owner chain.
+- State ownership alone is not a tier. A public owner (a US state university, a
+  county tourism board, an Italian region, Swiss cantons) with no such claim is
+  held at 'unrated' until a person reviews it: the owner and the evidence stay,
+  the builder marks the sponsor 'being-rated'.
+- A minority state stake is a lesser link: concern at most, and only with a
+  sourced poor record for that state.
+- Claim texts state facts from their source. Rating commentary ("State ownership
+  alone earns serious", "Human-rights relevance is remote") belongs in the note.
 """
 import json
 import os
@@ -45,6 +62,67 @@ OVERRIDE = {
         "belligerent state and was sanctioned with it.",
     ),
 }
+
+
+# Ratings held back under the rule above: tier 'unrated', owner and evidence kept, the
+# reason recorded in the note. Remove an entry once a person has reviewed the sponsor.
+PUBLIC_ONLY = "public ownership, but no sourced claim of abuses by that owner, which serious needs"
+HOLD = {
+    "childrens-health": PUBLIC_ONLY + "; the sponsor also covers a private non-profit (Children's Health)",
+    "md-anderson-cancer-center": PUBLIC_ONLY,
+    "io-sono-friuli-venezia-giulia": PUBLIC_ONLY,
+    "sardegna-turismo": PUBLIC_ONLY,
+    "pulsee-luce-e-gas": PUBLIC_ONLY,
+    "experience-kissimmee": PUBLIC_ONLY,
+    "lvcva": PUBLIC_ONLY,
+    "ucla-health": PUBLIC_ONLY,
+    "uw-health": PUBLIC_ONLY,
+    "eni": "a 33% Italian state stake, no sourced claim of abuses by that owner, and the "
+           "conflict-exposure sentence had no source",
+    "prometeon": "the only claim is about Pirelli's shareholder, not about Prometeon's own ownership",
+    "pirelli": "a minority state stake (about 20%): concern at most under tiers.json",
+    "mercedes-benz": "minority state stakes (BAIC 9.98%, KIA 5.33%): concern at most under tiers.json",
+}
+
+# Rating commentary inside claim texts, which the cited sources don't say. Exact text.
+CLAIM_TEXT_FIX = {
+    "childrens-health": [(" State ownership of one half of the patch drives a state tier. Human-rights relevance "
+                          "is limited to public-sector healthcare and labour policy.", "")],
+    "eni": [(" State ownership alone earns serious. Eni's upstream operations in Libya, Egypt, Nigeria and "
+             "Mozambique give it live, conflict-adjacent human-rights exposure on top.", "")],
+    "experience-kissimmee": [(" Because the owner is a public body, the state-owner rule puts it in 'serious'. "
+                              "Human-rights relevance is remote - a local government tourism body with no "
+                              "armed-conflict or conflict-minerals exposure.", "")],
+    "io-sono-friuli-venezia-giulia": [(" The owner is therefore a public authority - 'serious' under the "
+                                       "state-owner rule. Human-rights relevance: a regional government's "
+                                       "destination marketing, with no conflict or minerals exposure.", "")],
+    "md-anderson-cancer-center": [(" State ownership, so 'serious' under the rule. Human-rights relevance: "
+                                   "public healthcare/research, no conflict exposure.", "")],
+    "prometeon": [(" A Chinese state owner of that size is a material state link on a Ferrari sponsor.", "")],
+    "pirelli": [(" A Chinese state owner of that size is a material state link on a Ferrari sponsor.", "")],
+    "pulsee-luce-e-gas": [(" The Genoa front sponsor is therefore backed by sub-national Swiss state capital.", "")],
+    "sardegna-turismo": [(" It is a public-law regional body, so this is sub-national state money.",
+                          " It is a public-law regional body.")],
+}
+
+
+def apply_rule(entry):
+    """HOLD and CLAIM_TEXT_FIX for one encoded rating. Idempotent."""
+    sid = entry["sponsorId"]
+    claim = entry.get("claim") or {}
+    for old, new in CLAIM_TEXT_FIX.get(sid, []):
+        if old in claim.get("text", ""):
+            claim["text"] = claim["text"].replace(old, new)
+            claim["short"] = short_of(claim["text"])
+    if sid in HOLD and not entry.get("hold"):
+        entry["tier"] = "unrated"
+        entry["hold"] = HOLD[sid]
+        note = (entry.get("note") or "").strip()
+        entry["note"] = (note + " " if note else "") + "ON HOLD: " + HOLD[sid] + "."
+        if entry.get("owner"):
+            entry["owner"]["note"] = entry["note"]
+        entry["verdict"] = verdict_for("unrated", entry["owner"], claim.get("short", ""))
+    return entry
 
 
 def short_of(text, limit=165):
@@ -142,6 +220,7 @@ def main():
             "confidence": r.get("confidence"),
             "note": note or None,
         })
+        apply_rule(out[-1])
     out.sort(key=lambda x: x["sponsorId"])
 
     with open(OUT, "w", encoding="utf-8") as f:
@@ -155,5 +234,21 @@ def main():
     print("tiers:", dict(Counter(x["tier"] for x in out)))
 
 
+def reapply():
+    """Re-apply HOLD and CLAIM_TEXT_FIX to the committed ratings_data.py."""
+    import ratings_data
+    here = os.path.join(os.path.dirname(os.path.abspath(__file__)), "ratings_data.py")
+    out = [apply_rule(dict(r)) for r in ratings_data.RATINGS]
+    with open(here, "w", encoding="utf-8") as f:
+        f.write('"""Sponsor ratings with the owner chain and the evidence behind each one."""\n\n')
+        f.write("RATINGS = ")
+        f.write(pprint.pformat(out, width=118, sort_dicts=False))
+        f.write("\n")
+    from collections import Counter
+    print("reapplied to", here, "| held:", sum(1 for x in out if x.get("hold")),
+          "| tiers:", dict(Counter(x["tier"] for x in out)))
+
+
 if __name__ == "__main__":
-    main()
+    import sys
+    reapply() if "--reapply" in sys.argv else main()
