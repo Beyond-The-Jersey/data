@@ -18,10 +18,10 @@
       "name": "Providence",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "providence-health-system",
+      "owner": "Providence (Providence Health & Services / Providence Swedish)",
+      "verdict": "Owned by Providence (Providence Health & Services / Providence Swedish). Nothing found.",
       "source": {
         "name": "FOR SOCCER",
         "date": "2026-02-17",
@@ -29,7 +29,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
-  "owners": [],
+  "worstTier": "none",
+  "owners": [
+    "providence-health-system"
+  ],
   "lastUpdated": "2026-09-24"
 }

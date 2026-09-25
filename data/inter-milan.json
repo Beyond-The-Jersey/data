@@ -16,10 +16,10 @@
       "name": "Betsson.sport",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "betsson",
+      "owner": "Betsson AB",
+      "verdict": "Owned by Betsson AB. Nothing found.",
       "source": {
         "name": "Calcio e Finanza",
         "date": "2026-07-07",
@@ -27,7 +27,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
-  "owners": [],
+  "worstTier": "none",
+  "owners": [
+    "betsson"
+  ],
   "lastUpdated": "2026-09-24"
 }

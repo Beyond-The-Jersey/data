@@ -18,10 +18,10 @@
       "name": "Herbalife",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "concern",
+      "ownerId": "herbalife-ltd",
+      "owner": "Herbalife Ltd.",
+      "verdict": "Herbalife, the LA Galaxy front sponsor, is listed on the NYSE (HLF) with a public float and no state stake.",
       "source": {
         "name": "FOR SOCCER",
         "date": "2026-02-17",
@@ -29,7 +29,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
-  "owners": [],
+  "worstTier": "concern",
+  "owners": [
+    "herbalife-ltd"
+  ],
   "lastUpdated": "2026-09-24"
 }

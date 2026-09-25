@@ -29,10 +29,10 @@
       "name": "Experience Kissimmee",
       "placement": "sleeve",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "serious",
+      "ownerId": "osceola-county-tourism-authority",
+      "owner": "Experience Kissimmee (official tourism authority for Osceola County, Florida)",
+      "verdict": "Experience Kissimmee is not a company: it is the official destination marketing authority for Osceola County, Florida, funded from the county's Tourist Development….",
       "source": {
         "name": "Brighton & Hove Albion – 'Experience Kissimmee announces partnership with Albion'",
         "date": "2024-06-11",
@@ -40,9 +40,10 @@
       }
     }
   ],
-  "worstTier": "none",
+  "worstTier": "serious",
   "owners": [
-    "american-express-company"
+    "american-express-company",
+    "osceola-county-tourism-authority"
   ],
   "lastUpdated": "2026-09-24"
 }

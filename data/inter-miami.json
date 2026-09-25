@@ -16,10 +16,10 @@
       "name": "Royal Caribbean",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "royal-caribbean-cruises-ltd",
+      "owner": "Royal Caribbean Cruises Ltd.",
+      "verdict": "Owned by Royal Caribbean Cruises Ltd.. Nothing found.",
       "source": {
         "name": "royalcaribbean.com",
         "date": "2026-02-17",
@@ -27,7 +27,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
-  "owners": [],
+  "worstTier": "none",
+  "owners": [
+    "royal-caribbean-cruises-ltd"
+  ],
   "lastUpdated": "2026-09-24"
 }

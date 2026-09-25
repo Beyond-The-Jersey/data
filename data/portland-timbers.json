@@ -16,10 +16,10 @@
       "name": "Bank of America",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "concern",
+      "ownerId": "bank-of-america",
+      "owner": "Bank of America Corporation",
+      "verdict": "Bank of America Corporation is a US-listed bank with dispersed institutional ownership (BlackRock and Vanguard the largest holdings, both well under 10%) and no….",
       "source": {
         "name": "timbers.com",
         "date": "2026-01-15",
@@ -27,7 +27,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
-  "owners": [],
+  "worstTier": "concern",
+  "owners": [
+    "bank-of-america"
+  ],
   "lastUpdated": "2026-09-24"
 }

@@ -149,6 +149,20 @@
     "reviewed": false
   },
   {
+    "id": "adidas-ag-record",
+    "ownerIds": [
+      "adidas-ag"
+    ],
+    "text": "adidas AG is a Frankfurt-listed German sportswear maker with a near-total free float: the company's own ownership analysis for December 2025 identified almost 100% of shares, of which institutional investors hold 79%, retail and undisclosed holdings 20% and treasury 1%, and no single shareholder controls it. There is no state stake. The human-rights relevance sits in the supply chain, not the cap table: adidas cotton sourcing carries a documented forced-labour exposure in Xinjiang, where Xinjiang cotton was still detectable in adidas garments after the company's assurances. Tier is set to concern on that supply-chain record rather than on ownership.",
+    "short": "adidas AG is a Frankfurt-listed German sportswear maker with a near-total free float: the company's own ownership analysis for December 2025 identified almost 100%….",
+    "source": {
+      "name": "adidas AG Annual Report 2025 - 'Our Share'",
+      "date": "2025-12-31",
+      "url": "https://report.adidas-group.com/2025/en/to-our-shareholders/our-share.html"
+    },
+    "reviewed": false
+  },
+  {
     "id": "russian-federation-record",
     "ownerIds": [
       "russian-federation"
@@ -177,6 +191,48 @@
     "reviewed": false
   },
   {
+    "id": "ally-financial-record",
+    "ownerIds": [
+      "ally-financial"
+    ],
+    "text": "Ally Financial Inc. (NYSE: ALLY) is a US-listed digital bank and auto lender with no state shareholder; the largest holders are passive and mega-cap managers (Berkshire Hathaway affiliates ~9.4%, Vanguard ~9.1%, BlackRock ~8.3% as of March 2026). The company was majority-owned by the US Treasury after the 2008 GMAC bailout, but that stake was fully sold and today ownership is purely private and dispersed. Human-rights relevance is conduct-based and modest: subprime auto lending and repossession practice.",
+    "short": "Ally Financial Inc.",
+    "source": {
+      "name": "Ally Financial Inc. DEF 14A 2026 (SEC)",
+      "date": "2026-03-18",
+      "url": "https://www.sec.gov/Archives/edgar/data/40729/000119312526113819/ally-20260318.htm"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "alpinestars-record",
+    "ownerIds": [
+      "alpinestars"
+    ],
+    "text": "Alpinestars is a private Italian protective-gear manufacturer based in Asolo, owned and directed by the Mazzarolo family that founded it in 1963; Sante Mazzarolo started it and his son Gabriele Mazzarolo owns and runs the company today. There is no state stake and no listing, though Asian private-equity firms have been reported circling a ~EUR 1bn sale. Human-rights relevance is the ordinary apparel/leather supply-chain set.",
+    "short": "Alpinestars is a private Italian protective-gear manufacturer based in Asolo, owned and directed by the Mazzarolo family that founded it in 1963; Sante Mazzarolo….",
+    "source": {
+      "name": "Alpinestars - official About Us page",
+      "date": "2026-09-24",
+      "url": "https://alpinestars.com/pages/about-us"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "american-family-mutual-insurance-company-record",
+    "ownerIds": [
+      "american-family-mutual-insurance-company"
+    ],
+    "text": "American Family Insurance is a mutual: its parent is American Family Mutual Insurance Company, S.I., owned by its policyholders rather than by external shareholders, with American Family Connect, Homesite and Main Street America operating under the same mutual umbrella. There is no state stake and no listed float. Human-rights relevance is indirect - a US property-and-casualty insurer with no extractive or state-linked exposure.",
+    "short": "American Family Insurance is a mutual: its parent is American Family Mutual Insurance Company, S.I., owned by its policyholders rather than by external….",
+    "source": {
+      "name": "American Family Insurance newsroom - About American Family Insurance (Fast Facts)",
+      "date": "2026-03",
+      "url": "http://newsroom.amfam.com/fast-facts"
+    },
+    "reviewed": false
+  },
+  {
     "id": "arctempus-record",
     "ownerIds": [
       "arctempus"
@@ -191,6 +247,20 @@
     "reviewed": false
   },
   {
+    "id": "atlassian-record",
+    "ownerIds": [
+      "atlassian"
+    ],
+    "text": "Atlassian Corporation is a Nasdaq-listed software company whose super-voting Class B stock is held by co-founders Mike Cannon-Brookes and Scott Farquhar, giving them control despite the Class A float; the proxy states the company is not aware of any arrangement that could result in a change of control. No state shareholder. Human-rights relevance is ordinary corporate conduct rather than anything structural.",
+    "short": "Atlassian Corporation is a Nasdaq-listed software company whose super-voting Class B stock is held by co-founders Mike Cannon-Brookes and Scott Farquhar, giving….",
+    "source": {
+      "name": "Atlassian Corporation DEF 14A 2025 (SEC)",
+      "date": "2025-10-14",
+      "url": "https://www.sec.gov/Archives/edgar/data/1650372/000165037225000058/team-20251014.htm"
+    },
+    "reviewed": false
+  },
+  {
     "id": "baghdadi-capital-sa-record",
     "ownerIds": [
       "baghdadi-capital-sa"
@@ -201,6 +271,62 @@
       "name": "Baghdadi Capital, S.A. official 'Who We Are' page",
       "date": "2026-01",
       "url": "https://baghdadicapital.com/en/"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "standard-general-record",
+    "ownerIds": [
+      "standard-general"
+    ],
+    "text": "The Nottingham Forest sleeve sponsor is the combined Bally's Intralot betting and lottery group, created when Bally's Corporation's international interactive arm was merged into Athens-listed Intralot for EUR 2.7bn, with Bally's taking a 58% majority stake in the merged entity. Bally's Corporation is controlled by Soohyung ('Soo') Kim's hedge fund Standard General, which separately holds roughly 33% of Intralot's own voting rights via CQ Lottery LLC and PE Sub Holdings. Ownership is private with no state stake; Intralot's exposure is gaming licensing across Greece and other regulated markets.",
+    "short": "The Nottingham Forest sleeve sponsor is the combined Bally's Intralot betting and lottery group, created when Bally's Corporation's international interactive arm….",
+    "source": {
+      "name": "NEXT.io - 'EUR 2.7bn Bally's-Intralot deal creates Athens stock exchange gaming giant'",
+      "date": "2025-10-10",
+      "url": "https://next.io/news/investment/ballys-intralot-deal-athens-stock-exchange-giant"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "banca-popolare-del-frusinate-record",
+    "ownerIds": [
+      "banca-popolare-del-frusinate"
+    ],
+    "text": "Banca Popolare del Frusinate is a Frosinone-based 'Societa Cooperativa per Azioni' with share capital of EUR 31,883,700 fully paid as at 31 December 2025 - i.e. owned by its own member-shareholders rather than by a listed or state parent. Italian cooperative banks carry no state equity. Record is unremarkable at this size; its Frosinone/Lazio lending limits human-rights relevance to ordinary banking conduct.",
+    "short": "Banca Popolare del Frusinate is a Frosinone-based 'Societa Cooperativa per Azioni' with share capital of EUR 31,883,700 fully paid as at 31 December 2025 - i.e.",
+    "source": {
+      "name": "Banca Popolare del Frusinate - Dati Societari (company details)",
+      "date": "2025-12-31",
+      "url": "https://www.bpf.it/dati-societari/"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "bank-of-america-record",
+    "ownerIds": [
+      "bank-of-america"
+    ],
+    "text": "Bank of America Corporation is a US-listed bank with dispersed institutional ownership (BlackRock and Vanguard the largest holdings, both well under 10%) and no state shareholder - the US Treasury's crisis-era TARP stake is long gone. Its human-rights relevance is conduct rather than ownership: BofA is among the largest global financiers of fossil fuels and carried multi-billion-dollar mortgage and securities settlements after 2008. That gives a genuine but lesser documented record, hence concern rather than none.",
+    "short": "Bank of America Corporation is a US-listed bank with dispersed institutional ownership (BlackRock and Vanguard the largest holdings, both well under 10%) and no….",
+    "source": {
+      "name": "Bank of America Corporation DEF 14A 2026 (SEC)",
+      "date": "2026-03-23",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000119312526118929/d43888ddef14a.htm"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "barclays-record",
+    "ownerIds": [
+      "barclays"
+    ],
+    "text": "Barclays PLC is a UK-listed bank whose only notifiable holder above the 3% disclosure threshold as at 31 December 2025 is BlackRock (about 5.8% in 2024), with no state stake since the UK government's 2008 crisis holding was sold. The human-rights relevant record is conduct: LIBOR and mis-selling fines, and a leading European position in fossil-fuel financing. Concern, not serious, because ownership is purely private.",
+    "short": "Barclays PLC is a UK-listed bank whose only notifiable holder above the 3% disclosure threshold as at 31 December 2025 is BlackRock (about 5.8% in 2024), with no….",
+    "source": {
+      "name": "Barclays PLC Annual Report 2025 (Form 20-F), 'Major shareholders' p.114",
+      "date": "2025-12-31",
+      "url": "https://www.sec.gov/Archives/edgar/data/312069/000031206926000004/bcs-20251231.htm"
     },
     "reviewed": false
   },
@@ -233,6 +359,20 @@
     "reviewed": false
   },
   {
+    "id": "betsson-record",
+    "ownerIds": [
+      "betsson"
+    ],
+    "text": "Betsson AB is a Swedish online gaming group listed on Nasdaq Stockholm since 2000, with no state shareholder. Its A shares are concentrated in founder/family vehicles - Hamberg Forvaltning, Knutsson Holdings, Biljana Kling and the Lindwall family - which hold the bulk of the votes, while the B-share float is held by index funds such as Fidelity and Vanguard. Human-rights relevance is gambling regulation across many markets rather than ownership.",
+    "short": "Betsson AB is a Swedish online gaming group listed on Nasdaq Stockholm since 2000, with no state shareholder.",
+    "source": {
+      "name": "Betsson AB - Largest Shareholders (company IR)",
+      "date": "2026-06-30",
+      "url": "https://www.betssonab.com/investors/share/largest-shareholders"
+    },
+    "reviewed": false
+  },
+  {
     "id": "beumer-group-record",
     "ownerIds": [
       "beumer-group"
@@ -243,6 +383,90 @@
       "name": "FC Schalke 04 official press release 'BEUMER Group to become FC Schalke 04's new main partner'",
       "date": "2026-04-22",
       "url": "https://schalke04.de/en/partner-en/beumer-group-new-main-partner"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "grupo-bimbo-record",
+    "ownerIds": [
+      "grupo-bimbo"
+    ],
+    "text": "Grupo Bimbo, S.A.B. de C.V. is a Mexican-listed global baker whose controlling shareholder block sits with the founding Servitje family through the company's dual share structure; the shareholder table is published in the company's own governance section. There is no state stake. Human-rights relevance is labour and agricultural sourcing (palm oil, cocoa, wheat) in a very large supply chain.",
+    "short": "Grupo Bimbo, S.A.B.",
+    "source": {
+      "name": "Grupo Bimbo - Investor Relations, Governance / Shareholder Structure",
+      "date": "2026-09-24",
+      "url": "http://www.grupobimbo.com/en/investors/governance/structure"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "bank-of-montreal-record",
+    "ownerIds": [
+      "bank-of-montreal"
+    ],
+    "text": "Bank of Montreal (BMO) is a Canadian chartered bank listed in Toronto and New York with no state shareholder. Canadian law caps concentration: under the Bank Act no person may be a 'major shareholder' - more than 20% of any class of voting shares - of a bank of BMO's size, and none is, so the bank is institutionally dispersed by statute. Record is unremarkable; relevance is ordinary banking conduct.",
+    "short": "Bank of Montreal (BMO) is a Canadian chartered bank listed in Toronto and New York with no state shareholder.",
+    "source": {
+      "name": "Bank of Montreal Annual Information Form for the year ended 31 October 2025 (SEC 40-F Exhibit 99.1)",
+      "date": "2025-12-04",
+      "url": "https://www.sec.gov/Archives/edgar/data/927971/000119312525307982/d938207dex991.htm"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "boeing-record",
+    "ownerIds": [
+      "boeing"
+    ],
+    "text": "The Boeing Company is a US-listed commercial and defence aerospace prime with a widely held register and no state shareholder; its largest holders are index managers (Vanguard 9.0%, FMR 7.0%, BlackRock 6.8% as at 31 December 2025). Human-rights relevance is the conduct record: two 737 MAX crashes killed 346 people, the type was grounded for 20 months, and the defence arm sells aircraft and munitions into live conflicts. That is a genuine but non-state record, so concern.",
+    "short": "The Boeing Company is a US-listed commercial and defence aerospace prime with a widely held register and no state shareholder; its largest holders are index….",
+    "source": {
+      "name": "The Boeing Company DEF 14A 2026, 'Principal Shareholders' (SEC)",
+      "date": "2026-03-06",
+      "url": "https://www.sec.gov/Archives/edgar/data/12927/000119312526096787/d39411ddef14a.htm"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "boylesports-record",
+    "ownerIds": [
+      "boylesports"
+    ],
+    "text": "BoyleSports is Ireland's largest independent bookmaker, privately held and owned by founder John Boyle and his family, with no stock exchange listing and no state stake. Industry reports in 2026 describe the family as having explored a sale, so ownership is stated as of September 2026. Human-rights relevance is gambling regulation exposure in Ireland and the UK (Gibraltar licence; UK Gambling Commission account 39469).",
+    "short": "BoyleSports is Ireland's largest independent bookmaker, privately held and owned by founder John Boyle and his family, with no stock exchange listing and no state….",
+    "source": {
+      "name": "Listed Casino Companies - BoyleSports company profile",
+      "date": "2026-09",
+      "url": "https://listedcasinocompanies.com/boylesports"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "cvc-capital-partners-record",
+    "ownerIds": [
+      "cvc-capital-partners"
+    ],
+    "text": "Breitling SA is a Swiss luxury watchmaker that is no longer family-held: CVC Fund VI agreed to buy an 80% stake in 2017 (with Theodore Schneider re-investing for 20%) and CVC then bought the remaining 20% in November 2018, taking it to 100%. The ultimate owner is therefore CVC Capital Partners, a private-equity manager (CVC Capital Partners plc is itself Amsterdam-listed, but the fund holding Breitling is private). No state stake; relevance is ordinary consumer-goods supply chain.",
+    "short": "Breitling SA is a Swiss luxury watchmaker that is no longer family-held: CVC Fund VI agreed to buy an 80% stake in 2017 (with Theodore Schneider re-investing for….",
+    "source": {
+      "name": "CVC Capital Partners - 'CVC Fund VI agrees to acquire majority stake in Breitling SA'",
+      "date": "2017-04-28",
+      "url": "http://cvc.com/media/news/2017/2017-04-28-cvc-fund-vi-agrees-to-acquire-majority-stake-in-breitling-sa"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "bwt-group-record",
+    "ownerIds": [
+      "bwt-group"
+    ],
+    "text": "BWT AG (Best Water Technology), based in Mondsee, Austria, is a private water-treatment manufacturer. The company has been controlled since a 1990 management buy-out led by Andreas Weissenbacher, and its last published shareholder structure - in the FY2014 report, before the Vienna listing was wound up - showed the WAB group holding 79.7% with only 14.3% free float. There is no state stake; relevance is industrial/water-sector conduct rather than rights.",
+    "short": "BWT AG (Best Water Technology), based in Mondsee, Austria, is a private water-treatment manufacturer.",
+    "source": {
+      "name": "BWT AG Annual Report 2014, 'Shareholder structure'",
+      "date": "2014-12-31",
+      "url": "https://www.bwt.com/en/-/media/bwt/www,-d-,bwt,-d-,com/documents/financial-publications/annual-reports/bwt-annual-report-2014.pdf"
     },
     "reviewed": false
   },
@@ -261,6 +485,62 @@
     "reviewed": false
   },
   {
+    "id": "carvana-record",
+    "ownerIds": [
+      "carvana"
+    ],
+    "text": "Carvana Co. is a US-listed used-car retailer controlled by founder Ernest Garcia III and the Garcia family through high-vote Class B stock; the equity plan itself defines the 'Garcia Parties' as a distinct change-of-control bloc, and Garcia signs the 10-K as chairman and CEO. No state shareholder. Human-rights relevance is consumer-credit and reconditioning-centre labour.",
+    "short": "Carvana Co.",
+    "source": {
+      "name": "Carvana Co. DEF 14A 2026, 'Security Ownership of Certain Beneficial Owners and Management' (SEC)",
+      "date": "2026-03-25",
+      "url": "https://www.sec.gov/Archives/edgar/data/1690820/000169082026000024/cvna-20260325.htm"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "motors-record",
+    "ownerIds": [
+      "motors"
+    ],
+    "text": "Cazoo is no longer the listed business it once was: the company went into administration in May 2024 and its brand and tech were sold to Motors, the used-car marketplace owned since 2021 by New York private-equity house O3 Industries and Frankfurt-based Novum Capital. Ownership today is therefore private equity with no state stake. Human-rights relevance is evidence-thin - the collapsed company left GBP 259m owed to over 10,000 creditors, but no material rights record.",
+    "short": "Cazoo is no longer the listed business it once was: the company went into administration in May 2024 and its brand and tech were sold to Motors, the used-car….",
+    "source": {
+      "name": "BusinessCloud - 'Private equity-backed Motors snaps up Cazoo brand'",
+      "date": "2024-06-28",
+      "url": "https://businesscloud.co.uk/news/private-equity-backed-motors-snaps-up-cazoo-brand"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "continent-gaming-record",
+    "ownerIds": [
+      "continent-gaming"
+    ],
+    "text": "CHEXX (chexx.bet), the Crystal Palace sleeve brand, is owned and operated by Continent Gaming N.V., a Curaçao-registered private company (registration 159857) licensed by the Curaçao Gaming Authority, with Continent Gaming LTD in Cyprus acting as agent. Ownership is entirely private with no state stake. The record is opaque rather than abusive: CHEXX has been criticised as a thinly documented, Asia-facing operator behind a Premier League sleeve deal.",
+    "short": "CHEXX (chexx.bet), the Crystal Palace sleeve brand, is owned and operated by Continent Gaming N.V., a Curaçao-registered private company (registration 159857)….",
+    "source": {
+      "name": "CHEXX help centre - 'About us' (operator and licence disclosure)",
+      "date": "2025-06-14",
+      "url": "https://help.chexx.bet/en/articles/9114022-about-us"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "ut-southwestern-medical-center-record",
+    "ownerIds": [
+      "ut-southwestern-medical-center"
+    ],
+    "text": "This is a split patch sponsor: Children's Health (home kit) is a private 501(c)(3) non-profit - Children's Health System of Texas, EIN 75-0800628 - while UT Southwestern Medical Center (away kit) is a state institution, the public medical school of The University of Texas, established as a UT medical branch in Dallas in 1949 under the UT Board of Regents. State ownership of one half of the patch drives a state tier. Human-rights relevance is limited to public-sector healthcare and labour policy.",
+    "short": "This is a split patch sponsor: Children's Health (home kit) is a private 501(c)(3) non-profit - Children's Health System of Texas, EIN 75-0800628 - while UT….",
+    "source": {
+      "name": "UT Southwestern - 'Mission, Values, and History' (About Us)",
+      "date": "2026-09-24",
+      "url": "https://utsw.edu/about-us/mission-history"
+    },
+    "reviewed": false
+  },
+  {
     "id": "circle-internet-group-record",
     "ownerIds": [
       "circle-internet-group"
@@ -271,6 +551,34 @@
       "name": "SEC Form S-1, Circle Internet Group, Inc.",
       "date": "2025-06",
       "url": "https://www.sec.gov/Archives/edgar/data/1876042/000119312525178989/d839239ds1.htm"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "cisco-record",
+    "ownerIds": [
+      "cisco"
+    ],
+    "text": "Cisco Systems, Inc. (NASDAQ: CSCO) is a US-listed networking and software group with an extremely dispersed register - no shareholder above roughly 5-6% and heavy index-fund representation - and no state stake. Human-rights relevance is ordinary corporate conduct; Cisco's main geopolitical exposure is its China/Huawei position rather than anything in its cap table.",
+    "short": "Cisco Systems, Inc.",
+    "source": {
+      "name": "Cisco Systems, Inc. Form 10-K for fiscal 2025 (SEC)",
+      "date": "2025-09-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000132/csco-20260725.htm"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "anthropic-record",
+    "ownerIds": [
+      "anthropic"
+    ],
+    "text": "Claude is the product of Anthropic PBC, a Delaware public-benefit corporation that is privately held but minority-owned by Big Tech: court documents in the Google antitrust case put Alphabet at about 14% of Anthropic, with Amazon a further roughly 8%. Neither parent controls Anthropic, and there is no state stake. Human-rights relevance is compute and data-labour supply chain rather than ownership.",
+    "short": "Claude is the product of Anthropic PBC, a Delaware public-benefit corporation that is privately held but minority-owned by Big Tech: court documents in the Google….",
+    "source": {
+      "name": "The New York Times - 'Inside Google's Investment in Anthropic'",
+      "date": "2025-03-11",
+      "url": "https://www.nytimes.com/2025/03/11/technology/google-investment-anthropic.html"
     },
     "reviewed": false
   },
@@ -303,6 +611,48 @@
     "reviewed": false
   },
   {
+    "id": "cognizant-record",
+    "ownerIds": [
+      "cognizant"
+    ],
+    "text": "Cognizant Technology Solutions Corporation (NASDAQ: CTSH) is a US-listed IT services firm with dispersed institutional ownership and no state shareholder in any of its share classes. Human-rights relevance is conduct and labour: a very large India-centric delivery workforce plus a 2019 FCPA settlement with the SEC over bribery in India. That is a genuine but lesser documented record, hence concern.",
+    "short": "Cognizant Technology Solutions Corporation (NASDAQ: CTSH) is a US-listed IT services firm with dispersed institutional ownership and no state shareholder in any of….",
+    "source": {
+      "name": "Cognizant Technology Solutions Corporation DEF 14A 2026, 'Corporate governance' (SEC)",
+      "date": "2026-04-17",
+      "url": "https://www.sec.gov/Archives/edgar/data/1058290/000130817926000290/ctsh014861-def14a.htm"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "belden-record",
+    "ownerIds": [
+      "belden"
+    ],
+    "text": "The Haas partner brands have been split up since the deal was signed. RUCKUS Networks was sold by Vistance Networks (formerly CommScope Holding) to Belden Inc. (NYSE: BDC) on 1 July 2026, while the CommScope name and its connectivity business went to Amphenol Corporation in January 2026 for $10.5bn. Belden is a US-listed manufacturer with no state stake; ownership of the sponsor is therefore private, and human-rights relevance is ordinary manufacturing supply chain.",
+    "short": "The Haas partner brands have been split up since the deal was signed.",
+    "source": {
+      "name": "Belden Inc. - 'Belden Completes Acquisition of RUCKUS Networks'",
+      "date": "2026-07-01",
+      "url": "https://investor.belden.com/news/news-details/2026/Belden-Completes-Acquisition-of-RUCKUS-Networks/default.aspx"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "compass-minerals-record",
+    "ownerIds": [
+      "compass-minerals"
+    ],
+    "text": "Compass Minerals International, Inc. (NYSE: CMP) is a US-listed salt and plant-nutrition miner with no state shareholder. Its register does contain one large private block - Koch Industries holds about 16.8% through KMT Investment Holdings - but Koch is a family-owned private company, not a state, so the tier stays none. Human-rights relevance is mining, water and permitting conduct (its lithium and salt operations consume significant water).",
+    "short": "Compass Minerals International, Inc.",
+    "source": {
+      "name": "Compass Minerals International, Inc. DEF 14A 2026, '5% Stockholders' (SEC)",
+      "date": "2026-01-23",
+      "url": "https://www.sec.gov/Archives/edgar/data/1227654/000130817926000019/cmp014557_def14a.htm"
+    },
+    "reviewed": false
+  },
+  {
     "id": "corendon-tourism-group-record",
     "ownerIds": [
       "corendon-tourism-group"
@@ -313,6 +663,62 @@
       "name": "Corendon Airlines corporate profile / TravMagazine reporting on Corendon management",
       "date": "2024-01",
       "url": "https://www.travmagazine.nl/en/corendon-introduces-its-new-management-team"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "crowdstrike-record",
+    "ownerIds": [
+      "crowdstrike"
+    ],
+    "text": "CrowdStrike Holdings, Inc. (NASDAQ: CRWD) is a US-listed cybersecurity company with a dispersed register dominated by index funds; co-founder and CEO George Kurtz is the most prominent individual holder. There is no state shareholder. Human-rights relevance is thin - its record event (the July 2024 global outage) is operational rather than rights-based.",
+    "short": "CrowdStrike Holdings, Inc.",
+    "source": {
+      "name": "CrowdStrike Holdings, Inc. DEF 14A 2026, 'Security Ownership of Certain Beneficial Owners and Management' (SEC)",
+      "date": "2026-05-05",
+      "url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465926055599/tm2532333-4_def14a.htm"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "foris-dax-record",
+    "ownerIds": [
+      "foris-dax"
+    ],
+    "text": "Crypto.com's corporate chain ends offshore: the OCC's conditional trust-bank approval records that Foris Holdings KY Limited, a Cayman Islands corporation, owns Foris DAX MT Ltd. (Malta), which is described as the top-tier holding company for the Crypto.com family of companies. Ownership is entirely private, with no state stake, albeit in a Cayman/Malta structure that is opaque below the top tier. Human-rights relevance is crypto-market and licensing conduct across many jurisdictions.",
+    "short": "Crypto.com's corporate chain ends offshore: the OCC's conditional trust-bank approval records that Foris Holdings KY Limited, a Cayman Islands corporation, owns….",
+    "source": {
+      "name": "US Office of the Comptroller of the Currency, Conditional Approval 1367 (Crypto.com National Trust Bank)",
+      "date": "2026-02-20",
+      "url": "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1367.pdf"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "davide-campari-milano-record",
+    "ownerIds": [
+      "davide-campari-milano"
+    ],
+    "text": "Cynar is not an independent company - it is a brand in the portfolio of Davide Campari-Milano N.V., the Milan-headquartered spirits group listed on Borsa Italiana, sitting in its 'House of Aperitifs' brand cluster. Campari itself is controlled by the Garavoglia family through their holding company but has no state shareholder. Human-rights relevance is alcohol-sector labour and agricultural sourcing (sugar, agave, botanicals).",
+    "short": "Cynar is not an independent company - it is a brand in the portfolio of Davide Campari-Milano N.V., the Milan-headquartered spirits group listed on Borsa Italiana,….",
+    "source": {
+      "name": "Campari Group Annual Report for the year ended 31 December 2024, brand overview",
+      "date": "2024-12-31",
+      "url": "https://camparigroup.com/sites/default/files/downloads/01.1%20Campari%20Group_Annual%20Report%20for%20the%20year%20ended%2031%20December%202024.pdf"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "access-industries-record",
+    "ownerIds": [
+      "access-industries"
+    ],
+    "text": "DAZN Bet Club sits on DAZN, the sports-streaming group that is wholly owned by Access Industries, Len Blavatnik's privately held global investment company, where DAZN appears as a portfolio holding. There is no state stake - Blavatnik's money is private family capital, though Access has historically held Russia-linked assets. Human-rights relevance is gambling licensing and sports-rights economics.",
+    "short": "DAZN Bet Club sits on DAZN, the sports-streaming group that is wholly owned by Access Industries, Len Blavatnik's privately held global investment company, where….",
+    "source": {
+      "name": "Access Industries - DAZN portfolio page",
+      "date": "2026-09-24",
+      "url": "https://www.accessindustries.com/investments/dazn"
     },
     "reviewed": false
   },
@@ -331,6 +737,34 @@
     "reviewed": false
   },
   {
+    "id": "deghi-record",
+    "ownerIds": [
+      "deghi"
+    ],
+    "text": "DEGHI S.p.A. is a private Italian furniture and home e-commerce company based in the Lecce area, founded in 2009 and still closely identified with and led by founder Alberto Paglialunga (it trades from a garage start-up to roughly EUR 85m revenue). There is no state stake and no listing. Human-rights relevance is ordinary retail, logistics and delivery labour.",
+    "short": "DEGHI S.p.A.",
+    "source": {
+      "name": "DEGHI - 'Noi siamo Deghi' (company page)",
+      "date": "2026-09-24",
+      "url": "https://www.deghi.it/noi-siamo-deghi"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "dell-technologies-record",
+    "ownerIds": [
+      "dell-technologies"
+    ],
+    "text": "Dell Technologies Inc. (NYSE: DELL) is a US-listed hardware and infrastructure company controlled by founder Michael S. Dell through high-vote Class B common stock - he is chairman and CEO and signs the 10-K as principal executive officer - with 47.8m Class B shares outstanding against 276.7m Class A. There is no state shareholder. Human-rights relevance is manufacturing supply chain and China exposure.",
+    "short": "Dell Technologies Inc.",
+    "source": {
+      "name": "Dell Technologies Inc. DEF 14A 2026, 'Security Ownership of Certain Beneficial Owners and Management' (SEC)",
+      "date": "2026-05-15",
+      "url": "https://www.sec.gov/Archives/edgar/data/1571996/000119312526226734/d132444ddef14a.htm"
+    },
+    "reviewed": false
+  },
+  {
     "id": "federal-republic-of-germany-record",
     "ownerIds": [
       "federal-republic-of-germany"
@@ -341,6 +775,20 @@
       "name": "Deutsche Telekom Investor Relations, Shareholder structure; KfW newsroom",
       "date": "2026-06-30",
       "url": "https://www.telekom.com/en/investor-relations/share/shareholder-structure"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "deutsche-post-dhl-record",
+    "ownerIds": [
+      "deutsche-post-dhl"
+    ],
+    "text": "DHL Group (Deutsche Post AG) is a listed German logistics company, but it is not purely private: KfW Bankengruppe, the state-owned German development bank, holds approximately 204 million shares, 17.727% of the share capital as at 30 June 2026. A partial state stake earns the mid tier rather than serious. Human-rights relevance is logistics labour and subcontracting across a global network.",
+    "short": "DHL Group (Deutsche Post AG) is a listed German logistics company, but it is not purely private: KfW Bankengruppe, the state-owned German development bank, holds….",
+    "source": {
+      "name": "DHL Group - Shareholder Structure (company IR)",
+      "date": "2026-06-30",
+      "url": "https://www.dpdhl.com/en/investors/shares/shareholder-structure.html"
     },
     "reviewed": false
   },
@@ -359,6 +807,62 @@
     "reviewed": false
   },
   {
+    "id": "tpg-record",
+    "ownerIds": [
+      "tpg"
+    ],
+    "text": "DirecTV is now wholly owned by TPG Capital, the US/European private-equity platform of TPG Inc., which completed its purchase of AT&T's remaining 70% stake on 2 July 2025 and made DIRECTV a wholly owned portfolio company. Ownership is purely private equity with no state stake. Human-rights relevance is ordinary media/consumer labour and contractor conduct.",
+    "short": "DirecTV is now wholly owned by TPG Capital, the US/European private-equity platform of TPG Inc., which completed its purchase of AT&T's remaining 70% stake on 2….",
+    "source": {
+      "name": "TPG - 'TPG Completes Acquisition of AT&T's 70% Stake in DIRECTV'",
+      "date": "2025-07-02",
+      "url": "https://shareholders.tpg.com/news-releases/news-release-details/tpg-completes-acquisition-atts-70-stake-directv/"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "berkshire-hathaway-record",
+    "ownerIds": [
+      "berkshire-hathaway"
+    ],
+    "text": "Duracell is a wholly owned subsidiary of Berkshire Hathaway Inc., transferred from Procter & Gamble in a February 2016 share exchange and described by Duracell itself as a 'Berkshire Hathaway Company since 2016'. Berkshire is NYSE-listed with no state shareholder. Human-rights relevance is battery manufacturing inputs (lithium, cobalt, manganese) and their supply chains.",
+    "short": "Duracell is a wholly owned subsidiary of Berkshire Hathaway Inc., transferred from Procter & Gamble in a February 2016 share exchange and described by Duracell….",
+    "source": {
+      "name": "P&G press release on SEC EDGAR - 'P&G Completes Exchange of Duracell to Berkshire Hathaway'",
+      "date": "2016-02-29",
+      "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042416000171/duracelltransferpressrelease.htm"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "el-camino-health-record",
+    "ownerIds": [
+      "el-camino-health"
+    ],
+    "text": "El Camino Health is a not-for-profit hospital system in Santa Clara County, California, running two acute-care hospitals in Los Gatos and Mountain View and a network of clinics. It has no external owner beyond itself - no state stake and no listed float. Human-rights relevance is thin: a local health system's labour and access record.",
+    "short": "El Camino Health is a not-for-profit hospital system in Santa Clara County, California, running two acute-care hospitals in Los Gatos and Mountain View and a….",
+    "source": {
+      "name": "El Camino Health - About Us",
+      "date": "2026-09-24",
+      "url": "https://elcaminohealth.org/about-us"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "eni-record",
+    "ownerIds": [
+      "eni"
+    ],
+    "text": "Eni S.p.A. is effectively Italian state-owned: the Ministry of Economy and Finance (MEF) holds 2.166% directly and a further 30.918% indirectly through Cassa Depositi e Prestiti (which is 82.77% MEF-owned) - 33.084% in total, alongside a golden share - per Eni's own shareholder communications to its 2026 AGM. State ownership alone earns serious. Eni's upstream operations in Libya, Egypt, Nigeria and Mozambique give it live, conflict-adjacent human-rights exposure on top.",
+    "short": "Eni S.p.A.",
+    "source": {
+      "name": "Eni S.p.A. - Proposals of the Shareholder Ministry of the Economy and Finance (AGM 2026 filing)",
+      "date": "2026-04-10",
+      "url": "https://www.eni.com/content/dam/enicom/documents/eng/governance/shareholders-meetings/2026/Proposals-of-Shareholder-Ministry-of-the-Economy-and-Finance-in-relation-to-item-6-7-and-10-of-the-agenda.pdf"
+    },
+    "reviewed": false
+  },
+  {
     "id": "corporacion-hijos-de-rivera-record",
     "ownerIds": [
       "corporacion-hijos-de-rivera"
@@ -369,6 +873,90 @@
       "name": "Corporacion Hijos de Rivera official company page; Estrella Galicia International 'independent family-owned brewery'",
       "date": "2026",
       "url": "http://corporacionhijosderivera.com/en/company"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "etoro-record",
+    "ownerIds": [
+      "etoro"
+    ],
+    "text": "eToro Group Ltd. is an Israeli-founded, UK-headquartered trading platform that went public on Nasdaq in May 2025, pricing an upsized IPO of 13.7m Class A shares at $52.00 for gross proceeds of $403m; founders retain control through a dual-class structure. There is no state stake. Human-rights relevance is retail-CFD selling conduct and crypto exposure.",
+    "short": "eToro Group Ltd.",
+    "source": {
+      "name": "eToro Group Ltd. Form 6-K (SEC) - IPO consummation",
+      "date": "2025-05-15",
+      "url": "https://www.sec.gov/Archives/edgar/data/1493318/000121390025044406/ea0242225-6k_etoro.htm"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "entain-plc-record",
+    "ownerIds": [
+      "entain-plc"
+    ],
+    "text": "Eurobet.live is the Italian-facing brand of Eurobet, described as the largest Italian brand inside the Entain group, a London-listed bookmaker (LSE: ENT). Eurobet was founded in 1995 and passed into the Coral/Gala Coral lineage before that business merged into Entain, so the ultimate owner is a dispersed public float with no state stake. Human-rights relevance is ordinary listed-corporate exposure (Italian ADM-licensed betting, franchised shop estate).",
+    "short": "Eurobet.live is the Italian-facing brand of Eurobet, described as the largest Italian brand inside the Entain group, a London-listed bookmaker (LSE: ENT).",
+    "source": {
+      "name": "iGaming Times - Eurobet operator profile",
+      "date": "2026-09-24",
+      "url": "https://igaming-times.com/directory/eurobet"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "expedia-group-inc-record",
+    "ownerIds": [
+      "expedia-group-inc"
+    ],
+    "text": "Expedia's Liverpool sleeve deal is with Expedia Group, Inc., a Delaware-incorporated company listed on Nasdaq (EXPE) and the parent of the Expedia, Hotels.com and Vrbo brands. It has a dispersed public float with index managers (BlackRock, Vanguard, State Street) as the largest holders and no controlling shareholder or state stake. Human-rights relevance: none material beyond big-tech/consumer-Internet norms.",
+    "short": "Expedia's Liverpool sleeve deal is with Expedia Group, Inc., a Delaware-incorporated company listed on Nasdaq (EXPE) and the parent of the Expedia, Hotels.com and….",
+    "source": {
+      "name": "Expedia Group, Inc. Form 10-K for FY2025 (SEC)",
+      "date": "2026-02-13",
+      "url": "https://www.sec.gov/Archives/edgar/data/1324424/000132442426000008/expe-20251231.htm"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "osceola-county-tourism-authority-record",
+    "ownerIds": [
+      "osceola-county-tourism-authority"
+    ],
+    "text": "Experience Kissimmee is not a company: it is the official destination marketing authority for Osceola County, Florida, funded from the county's Tourist Development Tax and governed under the state Local Option Tourist Development Act. Because the owner is a public body, the state-owner rule puts it in 'serious'. Human-rights relevance is remote - a local government tourism body with no armed-conflict or conflict-minerals exposure.",
+    "short": "Experience Kissimmee is not a company: it is the official destination marketing authority for Osceola County, Florida, funded from the county's Tourist Development….",
+    "source": {
+      "name": "Experience Kissimmee - About us (official tourism authority for Osceola County)",
+      "date": "2026-09-24",
+      "url": "https://experiencekissimmee.com/about-us"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "extreme-networks-inc-record",
+    "ownerIds": [
+      "extreme-networks-inc"
+    ],
+    "text": "Extreme Networks, Inc. (Nasdaq: EXTR) is the Audi Revolut F1 Team partner: a US networking vendor listed on Nasdaq with dispersed institutional ownership and no parent company, family control or state stake. Human-rights relevance is limited to ordinary supply-chain and hardware-sourcing exposure.",
+    "short": "Extreme Networks, Inc.",
+    "source": {
+      "name": "Extreme Networks Investor Relations - corporate overview",
+      "date": "2026-09-24",
+      "url": "https://investor.extremenetworks.com/"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "mondofix-inc-record",
+    "ownerIds": [
+      "mondofix-inc"
+    ],
+    "text": "The Haas F1 partner is Fix Network, the trading name of Mondofix Inc., a Blainville, Quebec company running the Fix Auto, NOVUS Glass and ProColor franchise networks. President and CEO Steve Leal joined as a franchisee, led a buyout to become largest shareholder of Fix Auto Canada in 2013 and took majority control in 2015 - private Canadian ownership, no state stake. Nothing suggests a state or conflict link; the sponsor is a franchised collision-repair operator.",
+    "short": "The Haas F1 partner is Fix Network, the trading name of Mondofix Inc., a Blainville, Quebec company running the Fix Auto, NOVUS Glass and ProColor franchise networks.",
+    "source": {
+      "name": "Fix Network World - Steve Leal, President & CEO (leadership profile)",
+      "date": "2022-12-31",
+      "url": "https://fixnetwork.com/en/leadership-team/steve-leal"
     },
     "reviewed": false
   },
@@ -387,6 +975,20 @@
     "reviewed": false
   },
   {
+    "id": "ford-motor-company-record",
+    "ownerIds": [
+      "ford-motor-company"
+    ],
+    "text": "The Oracle Red Bull Racing front-of-car branding is Ford Motor Company (NYSE: F), the Dearborn automaker. Ford is publicly listed but not ownerless: the Ford family holds the super-voting Class B stock disclosed in the company's proxy's Class B beneficial ownership table, so control is family-anchored while the economic float is public. No state stake; human-rights relevance is ordinary manufacturing and battery-minerals supply-chain exposure.",
+    "short": "The Oracle Red Bull Racing front-of-car branding is Ford Motor Company (NYSE: F), the Dearborn automaker.",
+    "source": {
+      "name": "Ford Motor Company DEF 14A proxy statement (SEC)",
+      "date": "2026-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/37996/000155278126000164/e26003_f-def14a.htm"
+    },
+    "reviewed": false
+  },
+  {
     "id": "fundacion-1890-record",
     "ownerIds": [
       "fundacion-1890"
@@ -401,6 +1003,48 @@
     "reviewed": false
   },
   {
+    "id": "zhejiang-geely-holding-group-record",
+    "ownerIds": [
+      "zhejiang-geely-holding-group"
+    ],
+    "text": "Geely Auto UK, the Coventry City sleeve sponsor, is the UK arm of Geely Automobile Holdings Limited (HKEX: 0175), and Geely's own annual report states that the company's ultimate holding company is Zhejiang Geely Holding Group Company Limited, beneficially owned by Li Shufu. So the chain ends in a private Chinese family holding rather than the Chinese state. Human-rights relevance: automotive manufacturing and battery/cobalt supply chains, but no state or conflict-minerals owner.",
+    "short": "Geely Auto UK, the Coventry City sleeve sponsor, is the UK arm of Geely Automobile Holdings Limited (HKEX: 0175), and Geely's own annual report states that the….",
+    "source": {
+      "name": "Geely Automobile Holdings Limited, Annual Report 2025 (HKEX filing)",
+      "date": "2026-03",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0318/2026031800309.pdf"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "procter-and-gamble-record",
+    "ownerIds": [
+      "procter-and-gamble"
+    ],
+    "text": "Gillette, the New England Revolution front sponsor, is a P&G brand - listed on P&G's own brand pages under Grooming. P&G (NYSE: PG) is a widely held listed consumer-goods major with no controlling shareholder and no state stake. Human-rights relevance: large consumer supply chains (palm oil, contract manufacturing), but nothing that lifts it above 'none'.",
+    "short": "Gillette, the New England Revolution front sponsor, is a P&G brand - listed on P&G's own brand pages under Grooming.",
+    "source": {
+      "name": "Procter & Gamble - brands index (Gillette under Grooming)",
+      "date": "2026",
+      "url": "https://us.pg.com/brands/"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "alphabet-inc-record",
+    "ownerIds": [
+      "alphabet-inc"
+    ],
+    "text": "The McLaren front branding is Google, a subsidiary of Alphabet Inc., the Nasdaq-listed holding company (GOOGL/GOOG) that Google's own company page names as the parent of which Sundar Pichai is CEO. Alphabet is not state-owned: control sits with founders through super-voting Class B stock while the economic ownership is a public float. Human-rights relevance: data/privacy and antitrust exposure, not state or conflict money.",
+    "short": "The McLaren front branding is Google, a subsidiary of Alphabet Inc., the Nasdaq-listed holding company (GOOGL/GOOG) that Google's own company page names as the….",
+    "source": {
+      "name": "Google - About Google, Company Info",
+      "date": "2026",
+      "url": "https://about.google/company-info/"
+    },
+    "reviewed": false
+  },
+  {
     "id": "gree-group-zhuhai-sasac-record",
     "ownerIds": [
       "gree-group-zhuhai-sasac"
@@ -411,6 +1055,34 @@
       "name": "Zhuhai Gree Group company history (state-owned nature change); Shenzhen Stock Exchange filings on the 2019 Gree Group/Zhuhai Mingjun share transfer",
       "date": "2024-06-08",
       "url": "http://static.cninfo.com.cn/finalpage/2024-06-08/1220300050.PDF"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "bain-capital-record",
+    "ownerIds": [
+      "bain-capital"
+    ],
+    "text": "Guidehouse, the D.C. United front sponsor, is a Washington-based consultancy owned by Bain Capital Private Equity, which bought it from Veritas Capital in a $5.3bn deal that closed in December 2023 - Guidehouse's own newsroom confirms the completion. Ownership is therefore private PE money (Bain's funds and their LPs), no state stake. Human-rights relevance: consulting/defense-adjacent services, nothing state-owned.",
+    "short": "Guidehouse, the D.C.",
+    "source": {
+      "name": "Guidehouse newsroom - completion of transaction with Bain Capital",
+      "date": "2023-12-14",
+      "url": "https://guidehouse.com/news/corporate-news/2023/guidehouse-completes-transaction-with-bain-capital"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "hinduja-group-record",
+    "ownerIds": [
+      "hinduja-group"
+    ],
+    "text": "Gulf Oil International, the McLaren F1 team partner, states on its own site that Gulf is part of the Hinduja Group, the family-owned conglomerate controlled by the Hinduja family since 1914. Ownership is therefore private family capital, with no state stake - the Gulf brand was bought out of Chevron's old downstream business in 2001 and is now licensing/IP-driven. Human-rights relevance: oil marketing plus a diversified group with banking and healthcare arms.",
+    "short": "Gulf Oil International, the McLaren F1 team partner, states on its own site that Gulf is part of the Hinduja Group, the family-owned conglomerate controlled by the….",
+    "source": {
+      "name": "Gulf Oil International - About us (Hinduja Group)",
+      "date": "2026",
+      "url": "https://www.gulfoilltd.com/about-us"
     },
     "reviewed": false
   },
@@ -443,6 +1115,62 @@
     "reviewed": false
   },
   {
+    "id": "herbalife-ltd-record",
+    "ownerIds": [
+      "herbalife-ltd"
+    ],
+    "text": "Herbalife, the LA Galaxy front sponsor, is listed on the NYSE (HLF) with a public float and no state stake. It is rated 'concern' on conduct, not ownership: in July 2016 Herbalife settled FTC charges for $200m and was forced to restructure distributor rewards after the FTC found misleading earnings claims in its multi-level marketing model - the distributor network being the human-rights/consumer-pressure point. Otherwise unremarkable.",
+    "short": "Herbalife, the LA Galaxy front sponsor, is listed on the NYSE (HLF) with a public float and no state stake.",
+    "source": {
+      "name": "US Federal Trade Commission press release - Herbalife $200m settlement",
+      "date": "2016-07-15",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2016/07/herbalife-will-restructure-its-multi-level-marketing-operations-pay-200-million-consumer-redress"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "hibob-record",
+    "ownerIds": [
+      "hibob"
+    ],
+    "text": "HiBob, the Fulham sleeve sponsor, is a privately held HR-software company (Tel Aviv-founded, London and New York presence) whose own about page records a $150m Series C at a $1.65bn valuation, later followed by Series D money - venture capital, not state capital. No parent company, no state stake. Human-rights relevance: SaaS workforce-data business only.",
+    "short": "HiBob, the Fulham sleeve sponsor, is a privately held HR-software company (Tel Aviv-founded, London and New York presence) whose own about page records a $150m….",
+    "source": {
+      "name": "HiBob - About HiBob (company history incl. $150m Series C)",
+      "date": "2026",
+      "url": "https://www.hibob.com/about/"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "honda-motor-co-ltd-record",
+    "ownerIds": [
+      "honda-motor-co-ltd"
+    ],
+    "text": "The Aston Martin F1 front branding is Honda / Honda Racing Corporation, a division of Honda Motor Co., Ltd., the Tokyo- and NYSE-listed automaker and motorcycle maker. Honda has no parent company: its annual report filing shows dispersed ownership dominated by Japanese trust banks and insurers (Mitsubishi UFJ Trust / Master Trust Bank of Japan vehicles). No state stake; relevance is automotive supply chains.",
+    "short": "The Aston Martin F1 front branding is Honda / Honda Racing Corporation, a division of Honda Motor Co., Ltd., the Tokyo- and NYSE-listed automaker and motorcycle….",
+    "source": {
+      "name": "Honda Motor Co., Ltd. Form 20-F (SEC)",
+      "date": "2026-06-18",
+      "url": "https://www.sec.gov/Archives/edgar/data/715153/000119312526274991/d116494d20f.htm"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "hp-inc-record",
+    "ownerIds": [
+      "hp-inc"
+    ],
+    "text": "The Ferrari front branding is HP Inc., the Delaware-incorporated, NYSE-listed hardware company created by the 2015 Hewlett-Packard split. Dispersed public ownership, no parent, no state stake. Human-rights relevance: hardware supply chains and printer/ink subscription litigation, none of it owner-level state exposure.",
+    "short": "The Ferrari front branding is HP Inc., the Delaware-incorporated, NYSE-listed hardware company created by the 2015 Hewlett-Packard split.",
+    "source": {
+      "name": "HP Inc. Form 10-K for FY2025 (SEC)",
+      "date": "2025-12-10",
+      "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721725000071/hpq-20251031.htm"
+    },
+    "reviewed": false
+  },
+  {
     "id": "ursapharm-arzneimittel-gmbh-record",
     "ownerIds": [
       "ursapharm-arzneimittel-gmbh"
@@ -457,6 +1185,20 @@
     "reviewed": false
   },
   {
+    "id": "ifs-ab-record",
+    "ownerIds": [
+      "ifs-ab"
+    ],
+    "text": "IFS, the Cadillac F1 partner, is controlled by private equity: EQT holds control and Hg became a co-control shareholder in April 2025, with TA Associates and new investors including a wholly owned subsidiary of the Abu Dhabi Investment Authority (ADIA) alongside CPP Investments, in a deal valuing IFS at EUR15bn. ADIA is a sovereign wealth fund, so this is a partial state-fund stake - 'concern' rather than 'serious', since the state money is minority. Human-rights relevance: UAE sovereign capital at minority level plus PE leverage.",
+    "short": "IFS, the Cadillac F1 partner, is controlled by private equity: EQT holds control and Hg became a co-control shareholder in April 2025, with TA Associates and new….",
+    "source": {
+      "name": "EQT / Hg / TA Associates press release - IFS valued at EUR 15bn in minority stake sale",
+      "date": "2025-04-09",
+      "url": "https://mb.cision.com/Main/87/4133272/3378631.pdf"
+    },
+    "reviewed": false
+  },
+  {
     "id": "recruit-holdings-record",
     "ownerIds": [
       "recruit-holdings"
@@ -467,6 +1209,76 @@
       "name": "Recruit Holdings official 'Group Companies' page",
       "date": "2026",
       "url": "https://recruit-holdings.com/en/about/group"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "ineos-group-limited-record",
+    "ownerIds": [
+      "ineos-group-limited"
+    ],
+    "text": "INEOS, the Mercedes F1 partner and one-third team shareholder, states it is privately owned; it was founded and is chaired by Sir Jim Ratcliffe, who holds the large majority of the equity with Andy Currie and John Reece as minority shareholders. No state stake at all. Human-rights relevance: as a petrochemicals producer it carries a documented pollution/permitting record (Grangemouth and European crackers), but ownership is clean private money.",
+    "short": "INEOS, the Mercedes F1 partner and one-third team shareholder, states it is privately owned; it was founded and is chaired by Sir Jim Ratcliffe, who holds the….",
+    "source": {
+      "name": "INEOS - About (privately owned; Chairman Sir Jim Ratcliffe)",
+      "date": "2026",
+      "url": "https://www.ineos.com/about/"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "friuli-venezia-giulia-region-record",
+    "ownerIds": [
+      "friuli-venezia-giulia-region"
+    ],
+    "text": "The Udinese front brand 'Io sono Friuli Venezia Giulia' is bought by the Friuli Venezia Giulia regional government through PromoTurismoFVG, the region's public tourism agency, per the club's own announcement of the renewal to 2028/29. The owner is therefore a public authority - 'serious' under the state-owner rule. Human-rights relevance: a regional government's destination marketing, with no conflict or minerals exposure.",
+    "short": "The Udinese front brand 'Io sono Friuli Venezia Giulia' is bought by the Friuli Venezia Giulia regional government through PromoTurismoFVG, the region's public….",
+    "source": {
+      "name": "Udinese Calcio - Io sono Friuli Venezia Giulia renews Udinese shirt sponsorship deal until 2028/29",
+      "date": "2026-03-13",
+      "url": "https://www.udinese.it/news/club/io-sono-friuli-venezia-giulia-renews-udinese-shirt-sponsorship-deal-until-202829"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "stellantis-nv-record",
+    "ownerIds": [
+      "stellantis-nv"
+    ],
+    "text": "Jeep (with Visit Detroit) on the Juventus front is a brand of Stellantis N.V., the Amsterdam-domiciled, NYSE/Euronext-listed automaker. Stellantis' 20-F lists its largest shareholders as Exor N.V. (15.48%), Etablissements Peugeot Freres (7.72%) and Bpifrance Participations (6.64%) - Bpifrance being the French state investment bank, giving a genuine but minority state stake, hence 'concern'. Human-rights relevance: French state money at ~6.6% plus normal automaker supply-chain exposure.",
+    "short": "Jeep (with Visit Detroit) on the Juventus front is a brand of Stellantis N.V., the Amsterdam-domiciled, NYSE/Euronext-listed automaker.",
+    "source": {
+      "name": "Stellantis N.V. Form 20-F for FY2025, shareholder section (SEC)",
+      "date": "2026-02-26",
+      "url": "https://www.sec.gov/Archives/edgar/data/1605484/000160548426000021/stellantis-20251231.htm"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "suntory-holdings-record",
+    "ownerIds": [
+      "suntory-holdings"
+    ],
+    "text": "Jim Beam, the Cadillac F1 partner, is a brand of Suntory Global Spirits, the spirits arm of Japan's privately held Suntory Holdings, which acquired Beam Inc. in 2014 for about $16bn (confirmed by Suntory's own rebrand announcement). Ownership is family/foundation-anchored private capital with no state stake. Human-rights relevance: agricultural supply chains (corn, agave) in a consumer-goods group.",
+    "short": "Jim Beam, the Cadillac F1 partner, is a brand of Suntory Global Spirits, the spirits arm of Japan's privately held Suntory Holdings, which acquired Beam Inc.",
+    "source": {
+      "name": "Suntory Global Spirits - Beam Suntory rebrands to Suntory Global Spirits",
+      "date": "2024-04-30",
+      "url": "https://www.suntoryglobalspirits.com/news/beam-suntory-rebrands-suntory-global-spirits"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "uney-gmbh-record",
+    "ownerIds": [
+      "uney-gmbh"
+    ],
+    "text": "KChat, Leeds United's new sleeve partner for 2026/27, is operated by Uney GmbH, a Zug, Switzerland company - its own privacy policy and terms identify Uney GmbH as the contracting entity and data controller. It is a pre-launch privately held messaging startup, so no state stake. Human-rights relevance: data-sovereignty positioning (Swiss hosting, E2EE) rather than any state or resource link.",
+    "short": "KChat, Leeds United's new sleeve partner for 2026/27, is operated by Uney GmbH, a Zug, Switzerland company - its own privacy policy and terms identify Uney GmbH as….",
+    "source": {
+      "name": "KChat - Privacy Policy (operated by Uney GmbH, Zug, Switzerland)",
+      "date": "2026-04-03",
+      "url": "https://kchat.com/en/privacy-policy"
     },
     "reviewed": false
   },
@@ -555,6 +1367,34 @@
     "reviewed": false
   },
   {
+    "id": "lenovo-group-ltd-record",
+    "ownerIds": [
+      "lenovo-group-ltd"
+    ],
+    "text": "Lenovo, Formula 1's league-level partner, is listed in Hong Kong (992) and its largest shareholder is Legend Holdings Corporation with about 31.4% - Legend's own annual report records both that holding and Chinese Academy of Sciences Holdings Co., Ltd. (CAS Holdings) as a substantial shareholder with roughly 29% of Legend. There is therefore a real but indirect Chinese state (CAS) interest of only about 9% economic - 'concern', not 'serious'. Human-rights relevance: Chinese state-linked ownership and hardware supply-chain/labour exposure.",
+    "short": "Lenovo, Formula 1's league-level partner, is listed in Hong Kong (992) and its largest shareholder is Legend Holdings Corporation with about 31.4% - Legend's own….",
+    "source": {
+      "name": "Legend Holdings Corporation Annual Report 2023 (HKEX filing) - shareholding table and substantial-shareholder definitions",
+      "date": "2024-04-25",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2024/0425/2024042500436.pdf"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "sgam-spa-record",
+    "ownerIds": [
+      "sgam-spa"
+    ],
+    "text": "Lete, the Atalanta front sponsor, is the flagship brand of SGAM S.p.A. (Societa Generale delle Acque Minerali), the Rome-based bottler; its president and CEO is Nicola Arnone, a fourth-generation member of the Naples Arnone beverage family, and the company is described as a family-run structure. Ownership is private with no state stake. Human-rights relevance: bottled-water extraction/plastics - ordinary consumer-goods exposure.",
+    "short": "Lete, the Atalanta front sponsor, is the flagship brand of SGAM S.p.A.",
+    "source": {
+      "name": "RDEditore - Acqua Lete company profile (Nicola Arnone, family ownership)",
+      "date": "2026",
+      "url": "https://www.rdeditore.it/it/100ecc8aziende/acqua-lete/"
+    },
+    "reviewed": false
+  },
+  {
     "id": "haufe-group-se-record",
     "ownerIds": [
       "haufe-group-se"
@@ -565,6 +1405,34 @@
       "name": "Haufe-Lexware fact sheet 2024; Handelsregisterauszug HRA 4408 (Haufe-Lexware GmbH & Co. KG)",
       "date": "2024",
       "url": "https://www.lexware.de/fileadmin/pressematerial/factsheet_lexware_2024.pdf"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "libertex-group-record",
+    "ownerIds": [
+      "libertex-group"
+    ],
+    "text": "Libertex, the Audi Revolut F1 partner, is the brand of Libertex Group, operated in the EU by Cyprus-registered Indication Investments Ltd; the group was co-founded in 1997 by Vyacheslav Taran, a Russian-born Monaco resident who was its chairman and controlling shareholder until his death in a November 2022 helicopter crash. Ownership is private (Taran's estate/family after 2022), with no state stake despite the Russian origin. Human-rights relevance: CFD retail-brokerage conduct rather than state money.",
+    "short": "Libertex, the Audi Revolut F1 partner, is the brand of Libertex Group, operated in the EU by Cyprus-registered Indication Investments Ltd; the group was co-founded….",
+    "source": {
+      "name": "FX News Group - Libertex official statement on passing of Chairman Viacheslav Taran",
+      "date": "2022-11-28",
+      "url": "https://fxnewsgroup.com/forex-news/retail-forex/libertex-official-statement-on-passing-of-chairman-viacheslav-taran/"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "mapei-spa-record",
+    "ownerIds": [
+      "mapei-spa"
+    ],
+    "text": "Mapei, the Sassuolo front sponsor, is the family-owned Italian adhesives and chemicals group founded in 1937 by Rodolfo Squinzi; the third generation of the Squinzi family now runs it as group CEOs. Entirely private, no state stake and, unusually for a sponsor of this size in Italy, no bank-foundation ownership. Human-rights relevance: construction-chemicals emissions and raw-material supply chains.",
+    "short": "Mapei, the Sassuolo front sponsor, is the family-owned Italian adhesives and chemicals group founded in 1937 by Rodolfo Squinzi; the third generation of the….",
+    "source": {
+      "name": "Mapei - Mapei in Italy (Squinzi family, third generation CEOs)",
+      "date": "2026",
+      "url": "https://www.mapei.com/it/en/about-us/mapei-in-italy"
     },
     "reviewed": false
   },
@@ -583,6 +1451,20 @@
     "reviewed": false
   },
   {
+    "id": "mastercard-inc-record",
+    "ownerIds": [
+      "mastercard-inc"
+    ],
+    "text": "Mastercard, title partner on the McLaren front, is Mastercard Incorporated (NYSE: MA), a Delaware corporation with a fully dispersed public float; its 10-K notes the Mastercard Foundation's substantial stock ownership as a governance feature, but the Foundation is a private charitable body, not a state. No state stake. Human-rights relevance: payments/fintech conduct and its football sponsorship estate.",
+    "short": "Mastercard, title partner on the McLaren front, is Mastercard Incorporated (NYSE: MA), a Delaware corporation with a fully dispersed public float; its 10-K notes….",
+    "source": {
+      "name": "Mastercard Incorporated Form 10-K for FY2025 (SEC)",
+      "date": "2026-02-11",
+      "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/ma-20251231.pdf"
+    },
+    "reviewed": false
+  },
+  {
     "id": "matthaei-gruppe-record",
     "ownerIds": [
       "matthaei-gruppe"
@@ -593,6 +1475,76 @@
       "name": "Matthaei official press release announcing the Werder Bremen main sponsorship; Matthaei group site",
       "date": "2023-02-10",
       "url": "https://www.matthaei.de/news/2023/matth%C3%A4i-wird-neuer-haupt-und-trikotsponsor-des-sv-werder-41657"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "yildiz-holding-record",
+    "ownerIds": [
+      "yildiz-holding"
+    ],
+    "text": "McVitie's, the Hull City sleeve brand, belongs to pladis Global, whose own about page states it was formed in 2016 when parent company Yildiz Holding brought its biscuit and confectionery brands together; Yildiz is controlled by Turkey's Ulker family. Ownership is private family capital, not Turkish state capital, so 'none'. Human-rights relevance: Turkish conglomerate labour and agricultural supply chains.",
+    "short": "McVitie's, the Hull City sleeve brand, belongs to pladis Global, whose own about page states it was formed in 2016 when parent company Yildiz Holding brought its….",
+    "source": {
+      "name": "pladis - About us (formed 2016 under parent company Yildiz Holding)",
+      "date": "2026",
+      "url": "https://www.pladisglobal.com/about-us/"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "university-of-texas-system-record",
+    "ownerIds": [
+      "university-of-texas-system"
+    ],
+    "text": "MD Anderson, the Houston Dynamo front sponsor, is a component institution of the University of Texas System - its own about page states it is part of the UT System, and its financial statements are those of a division of the System funded by state appropriations plus the Permanent University Fund and philanthropy. State ownership, so 'serious' under the rule. Human-rights relevance: public healthcare/research, no conflict exposure.",
+    "short": "MD Anderson, the Houston Dynamo front sponsor, is a component institution of the University of Texas System - its own about page states it is part of the UT….",
+    "source": {
+      "name": "UT MD Anderson - About MD Anderson ('Part of the University of Texas System')",
+      "date": "2026",
+      "url": "https://www.mdanderson.org/about-md-anderson.html"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "mediacom-communications-corp-record",
+    "ownerIds": [
+      "mediacom-communications-corp"
+    ],
+    "text": "Mediacom, the Fiorentina front sponsor, was founded and majority-owned by Rocco B. Commisso (who also owned Fiorentina) until his death in January 2026; a CPUC transfer-of-control application records that 100% of the indirect equity in the cable operator passed to his widow Catherine Commisso, son Giuseppe and sister Italia. Private family ownership, no state stake. Human-rights relevance: regional US broadband (a de facto local monopoly service), not state money.",
+    "short": "Mediacom, the Fiorentina front sponsor, was founded and majority-owned by Rocco B.",
+    "source": {
+      "name": "California Public Utilities Commission - Mediacom indirect involuntary transfer of control after death of Rocco B. Commisso (application)",
+      "date": "2026-08-11",
+      "url": "https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M614/K481/614481300.PDF"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "bon-secours-mercy-health-record",
+    "ownerIds": [
+      "bon-secours-mercy-health"
+    ],
+    "text": "The FC Cincinnati front sponsor is Mercy Health, the Ohio and Kentucky ministry whose own site describes it as one ministry of Catholic healthcare across those states and part of what became Bon Secours Mercy Health in the 2018 merger of the two systems. It is a not-for-profit, so there is no shareholder owner and no state stake. Human-rights relevance: Catholic healthcare ethics and US hospital labour, nothing state-linked.",
+    "short": "The FC Cincinnati front sponsor is Mercy Health, the Ohio and Kentucky ministry whose own site describes it as one ministry of Catholic healthcare across those….",
+    "source": {
+      "name": "Mercy Health (Ohio and Kentucky) - About us",
+      "date": "2026",
+      "url": "https://www.mercy.com/about-us/"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "microsoft-corporation-record",
+    "ownerIds": [
+      "microsoft-corporation"
+    ],
+    "text": "The Mercedes F1 partner is Microsoft Corporation, the Washington-incorporated, Nasdaq-listed software company with a dispersed public float and no controlling shareholder or state stake. Human-rights relevance: cloud/AI data-centre and workforce exposure, plus its substantial government contracting, but nothing that reaches the state-owner threshold.",
+    "short": "The Mercedes F1 partner is Microsoft Corporation, the Washington-incorporated, Nasdaq-listed software company with a dispersed public float and no controlling….",
+    "source": {
+      "name": "Microsoft Corporation Form 10-K for FY2026 (SEC)",
+      "date": "2026-07-29",
+      "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm"
     },
     "reviewed": false
   },
@@ -611,6 +1563,20 @@
     "reviewed": false
   },
   {
+    "id": "exxon-mobil-corporation-record",
+    "ownerIds": [
+      "exxon-mobil-corporation"
+    ],
+    "text": "Mobil 1 (and Esso) is the Oracle Red Bull Racing fuel/lubricants partner and is a brand of Exxon Mobil Corporation (NYSE: XOM), the New Jersey-incorporated oil major with a dispersed public float and no state stake. Rated 'concern' rather than 'none' on conduct: a sustained documented pollution and climate-liability record, from the Exxon Valdez legacy to the US state and municipal climate suits that its own filings discuss under legal proceedings and climate-risk disclosure. Ownership itself is clean private-float.",
+    "short": "Mobil 1 (and Esso) is the Oracle Red Bull Racing fuel/lubricants partner and is a brand of Exxon Mobil Corporation (NYSE: XOM), the New Jersey-incorporated oil….",
+    "source": {
+      "name": "Exxon Mobil Corporation Form 10-K for FY2025 (SEC)",
+      "date": "2026-02-18",
+      "url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm"
+    },
+    "reviewed": false
+  },
+  {
     "id": "monzo-bank-limited-record",
     "ownerIds": [
       "monzo-bank-limited"
@@ -621,6 +1587,104 @@
       "name": "Monzo Investor Information / Annual Report & Group Financial Statements",
       "date": "2026",
       "url": "https://monzo.com/investor-information"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "tek-fox-ltd-record",
+    "ownerIds": [
+      "tek-fox-ltd"
+    ],
+    "text": "MrQ, the Bournemouth sleeve sponsor, is operated by Tek Fox Ltd, a Malta-registered company (C96152) that took the brand over from its founder Savvas Fellas's Lindar Media in August 2024 - MrQ's own privacy policy names Tek Fox as the controller and UKGC licence 60629 sits with it. Privately held with no state stake. Human-rights relevance: gambling-harm/consumer-protection conduct, not state money.",
+    "short": "MrQ, the Bournemouth sleeve sponsor, is operated by Tek Fox Ltd, a Malta-registered company (C96152) that took the brand over from its founder Savvas Fellas's….",
+    "source": {
+      "name": "MrQ - Privacy Policy (operated by Tek Fox Ltd, Malta, reg. C96152)",
+      "date": "2026",
+      "url": "https://mrq.com/privacy-policy"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "msc-group-aponte-family-record",
+    "ownerIds": [
+      "msc-group-aponte-family"
+    ],
+    "text": "MSC Cruises, partner of Alpine and Napoli front sponsor, is the cruise division of MSC Group, which its own site describes as an independent, family-owned company founded in 1970 by Captain Gianluigi Aponte and now led by his son Diego Aponte, with ownership having passed to the founder's children. Entirely private Swiss-Italian family capital, no state stake. Human-rights relevance: shipping cruise labour and marine-fuel emissions, plus MSC's container-shipping scale.",
+    "short": "MSC Cruises, partner of Alpine and Napoli front sponsor, is the cruise division of MSC Group, which its own site describes as an independent, family-owned company….",
+    "source": {
+      "name": "MSC - About us ('independent and family-owned company', Aponte family)",
+      "date": "2026",
+      "url": "https://www.msc.com/en/about-us"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "nationwide-mutual-insurance-company-record",
+    "ownerIds": [
+      "nationwide-mutual-insurance-company"
+    ],
+    "text": "Nationwide, the Columbus Crew front sponsor, is the Columbus-based Fortune 100 insurer whose marks are owned by Nationwide Mutual Insurance Company - a mutual, i.e. policyholder-owned rather than shareholder-owned, so there is no external owner control group and no state stake; in June 2026 it also joined the Crew's ownership group. Human-rights relevance: insurance/financial services conduct only.",
+    "short": "Nationwide, the Columbus Crew front sponsor, is the Columbus-based Fortune 100 insurer whose marks are owned by Nationwide Mutual Insurance Company - a mutual, i.e.",
+    "source": {
+      "name": "PR Newswire / Nationwide - Nationwide joins Columbus Crew ownership group",
+      "date": "2026-06-25",
+      "url": "https://www.prnewswire.com/news-releases/nationwide-joins-columbus-crew-ownership-group-302810835.html"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "netapp-inc-record",
+    "ownerIds": [
+      "netapp-inc"
+    ],
+    "text": "NetApp, Inc. is a Delaware corporation listed on Nasdaq (ticker NTAP); it has no controlling shareholder and no material state stake. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "NetApp, Inc.",
+    "source": {
+      "name": "NetApp, Inc. Form 10-K FY2026 (SEC EDGAR)",
+      "date": "2026-06-05",
+      "url": "https://www.sec.gov/Archives/edgar/data/1002047/000119312526259683/ntap-20260424.htm"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "carlyle-group-and-gic-record",
+    "ownerIds": [
+      "carlyle-group-and-gic"
+    ],
+    "text": "Nouryon (formerly AkzoNobel Specialty Chemicals) is a privately held Dutch specialty chemicals group bought in 2018 for EUR 10.1bn and jointly owned by private-equity firm The Carlyle Group and GIC, Singapore's sovereign wealth fund. The Singapore state fund is therefore a co-controlling shareholder, giving a genuine partial state stake without the sponsor becoming a state entity. Human-rights relevance is indirect: chemical manufacturing exposure, but the ownership chain runs into a sovereign fund.",
+    "short": "Nouryon (formerly AkzoNobel Specialty Chemicals) is a privately held Dutch specialty chemicals group bought in 2018 for EUR 10.1bn and jointly owned by….",
+    "source": {
+      "name": "Nouryon, Information for investor relations",
+      "date": "2026-09",
+      "url": "https://www.nouryon.com/company/investor-relations"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "oracle-corporation-record",
+    "ownerIds": [
+      "oracle-corporation"
+    ],
+    "text": "Oracle Corporation is NYSE-listed (ORCL) and majority-free-float, with co-founder Larry Ellison the largest single holder at roughly 40%. There is no state or sovereign-fund owner. The F1 title sponsorship is funded from private corporate capital.",
+    "short": "Oracle Corporation is NYSE-listed (ORCL) and majority-free-float, with co-founder Larry Ellison the largest single holder at roughly 40%.",
+    "source": {
+      "name": "Oracle Corporation Form 10-K FY2026 (SEC EDGAR)",
+      "date": "2026-06-22",
+      "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/orcl-20260531.htm"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "orlando-health-inc-record",
+    "ownerIds": [
+      "orlando-health-inc"
+    ],
+    "text": "Orlando Health is a private, not-for-profit healthcare organisation headquartered in Florida, with no shareholders and no state stake; it is a 501(c)(3) system. Sponsorship spend is therefore private/non-profit money with no political ownership chain.",
+    "short": "Orlando Health is a private, not-for-profit healthcare organisation headquartered in Florida, with no shareholders and no state stake; it is a 501(c)(3) system.",
+    "source": {
+      "name": "Orlando Health, About Us",
+      "date": "2026-09",
+      "url": "https://www.orlandohealth.com/about-us"
     },
     "reviewed": false
   },
@@ -639,9 +1703,37 @@
     "reviewed": false
   },
   {
+    "id": "sinochem-holdings-record",
+    "ownerIds": [
+      "sinochem-holdings"
+    ],
+    "text": "Pirelli & C. SpA is Borsa Italiana-listed but has long been part-owned by Sinochem, a Chinese central state-owned enterprise under SASAC. Sinochem's vehicle Marco Polo International Italy sold a 14% block (151.9m shares at EUR 6.50) to Czech investor Lumina Crown in July 2026, cutting the Chinese state stake from about 34% to roughly 20%. A Chinese state owner of that size is a material state link on a Ferrari sponsor.",
+    "short": "Pirelli & C.",
+    "source": {
+      "name": "European Rubber Journal, 'Sinochem completes EUR 1bn sale of Pirelli stake to Czech investor'",
+      "date": "2026-08-03",
+      "url": "https://www.european-rubber-journal.com/article/2099513/sinochem-completes-1bn-sale-of-pirelli-stake-to-czech-investor"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "ed-sheeran-record",
+    "ownerIds": [
+      "ed-sheeran"
+    ],
+    "text": "The 'Play' logo on the Ipswich Town sleeve is the branding of singer Ed Sheeran's 2025-27 'Play' concert tour - a private, self-owned brand with no corporate parent and no state stake. Ipswich Town 2026-27 shirts carry principal partner HALO on the chest and Sheeran's 'Play' tour mark on the sleeve. Purely private money.",
+    "short": "The 'Play' logo on the Ipswich Town sleeve is the branding of singer Ed Sheeran's 2025-27 'Play' concert tour - a private, self-owned brand with no corporate….",
+    "source": {
+      "name": "The Kitman, 'Ipswich Town Reveal 2026-27 Home and Away Kits'",
+      "date": "2026-06",
+      "url": "https://thekitman.co.uk/ipswich-town-reveal-2026-27-home-and-away-kits"
+    },
+    "reviewed": false
+  },
+  {
     "id": "eni-spa-record",
     "ownerIds": [
-      "eni-spa"
+      "eni"
     ],
     "text": "Plenitude is Eni's retail/renewables division; Eni is listed on Borsa Italiana and NYSE but the Italian Ministry of Economy and Finance plus CDP S.p.A. together hold 33.09% of its share capital, i.e. a state link at the owner. Eni is restructuring/deconsolidating Plenitude with Ares (20%) and EIP (10%), leaving Eni around 65%.",
     "short": "Plenitude is Eni's retail/renewables division; Eni is listed on Borsa Italiana and NYSE but the Italian Ministry of Economy and Finance plus CDP S.p.A.",
@@ -649,6 +1741,76 @@
       "name": "Eni official shareholder-structure page (MEF + CDP = 33.09%); Eni press release on deconsolidation of Plenitude",
       "date": "2026-03-19",
       "url": "https://www.eni.com/en-IT/governance/shareholding-structure.html"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "blockratize-inc-record",
+    "ownerIds": [
+      "blockratize-inc"
+    ],
+    "text": "Polymarket is operated by Blockratize, Inc., a Delaware private company founded by Shayne Coplan; it is venture-backed with Intercontinental Exchange (NYSE: ICE) as a strategic minority investor. Ultimate control remains with the founder and venture investors, with no state stake. Offshore operations run through Adventure One Ltd in Panama.",
+    "short": "Polymarket is operated by Blockratize, Inc., a Delaware private company founded by Shayne Coplan; it is venture-backed with Intercontinental Exchange (NYSE: ICE)….",
+    "source": {
+      "name": "Intercontinental Exchange, 'ICE Announces Strategic Investment in Polymarket'",
+      "date": "2025-10-07",
+      "url": "https://ir.theice.com/press/news-details/2025/ICE-Announces-Strategic-Investment-in-Polymarket/default.aspx"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "providence-health-system-record",
+    "ownerIds": [
+      "providence-health-system"
+    ],
+    "text": "Providence is a not-for-profit Catholic health system serving the western United States; the Sounders deal is signed at health-system level via Providence Swedish. There are no shareholders and no state owner, so this is non-profit private money. Human-rights relevance is limited to ordinary health-sector conduct.",
+    "short": "Providence is a not-for-profit Catholic health system serving the western United States; the Sounders deal is signed at health-system level via Providence Swedish.",
+    "source": {
+      "name": "Seattle Sounders FC, 'Sounders FC and Providence agree to unprecedented community-focused partnership'",
+      "date": "2023-01-20",
+      "url": "https://www.soundersfc.com/news/sounders-fc-and-providence-agree-to-unprecedented-community-focused-partnership"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "axpo-holding-ag-record",
+    "ownerIds": [
+      "axpo-holding-ag"
+    ],
+    "text": "Pulsee Luce e Gas is the digital retail energy brand of Axpo Italia, a subsidiary of Axpo Holding AG. Axpo is 100% publicly owned: all its shares sit with the cantons of northeastern Switzerland and their utilities, with Canton Zurich and its cantonal utility alone holding roughly 36%. The Genoa front sponsor is therefore backed by sub-national Swiss state capital.",
+    "short": "Pulsee Luce e Gas is the digital retail energy brand of Axpo Italia, a subsidiary of Axpo Holding AG.",
+    "source": {
+      "name": "Axpo Group, 'Owners - Entirely in public hands'",
+      "date": "2026-09",
+      "url": "https://axpo.com/group/en/about-us/axpo-group/owners.html"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "anta-sports-products-record",
+    "ownerIds": [
+      "anta-sports-products"
+    ],
+    "text": "Puma SE is a Frankfurt-listed company whose largest shareholder, the Pinault family's Groupe Artemis (~29%), agreed in January 2026 to sell its entire 29.06% stake to ANTA Sports Products Limited (HKEX: 2020) for EUR 1.5bn. ANTA is a Chinese listed sportswear group controlled by the Ding family; it is privately controlled, not state-owned. The Ferrari sponsor's ownership chain therefore leads to private Chinese capital, not the Chinese state.",
+    "short": "Puma SE is a Frankfurt-listed company whose largest shareholder, the Pinault family's Groupe Artemis (~29%), agreed in January 2026 to sell its entire 29.06% stake….",
+    "source": {
+      "name": "ANTA Sports Products Limited, HKEX announcement: Acquisition of 29.06% equity interest in PUMA SE",
+      "date": "2026-01-27",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0127/2026012700061.pdf"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "nestle-sa-record",
+    "ownerIds": [
+      "nestle-sa"
+    ],
+    "text": "Purina (Nestle Purina PetCare) is the pet-food division of Nestle S.A., the SIX-listed Swiss food group. Nestle has a broad institutional shareholder base with no controlling or state shareholder, so the St. Louis CITY SC front sponsorship is private corporate money. Human-rights exposure comes from Nestle's own supply-chain record rather than any state owner.",
+    "short": "Purina (Nestle Purina PetCare) is the pet-food division of Nestle S.A., the SIX-listed Swiss food group.",
+    "source": {
+      "name": "Nestle S.A., Annual Review 2025",
+      "date": "2026-02",
+      "url": "https://www.nestle.com/sites/default/files/2026-02/annual-review-2025-en.pdf"
     },
     "reviewed": false
   },
@@ -663,6 +1825,34 @@
       "name": "Qatar Airways Group audited consolidated financial statements (note: corporate information); Human Rights Watch",
       "date": "2022-03 / 2022-11",
       "url": "https://www.qatarairways.com/content/dam/documents/annual-reports/2022/financial-statement-en.pdf"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "state-of-qatar-qia-record",
+    "ownerIds": [
+      "state-of-qatar-qia"
+    ],
+    "text": "Qatar Airways is wholly owned by the State of Qatar, held through the Qatar Investment Authority sovereign wealth fund, and appears in QIA's domestic portfolio alongside QNB and Ooredoo. There are no private shareholders and no listing. The F1 global partnership is therefore effectively Gulf state money, which the method places at 'serious' absent live armed conflict.",
+    "short": "Qatar Airways is wholly owned by the State of Qatar, held through the Qatar Investment Authority sovereign wealth fund, and appears in QIA's domestic portfolio….",
+    "source": {
+      "name": "Qatar Investment Authority, Portfolio",
+      "date": "2026-09",
+      "url": "https://www.qia.qa/en/Portfolio/Pages/default.aspx"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "qualcomm-incorporated-record",
+    "ownerIds": [
+      "qualcomm-incorporated"
+    ],
+    "text": "QUALCOMM Incorporated is a Nasdaq-listed (QCOM) semiconductor company with a dispersed institutional shareholder base and no state or sovereign-fund owner. The Snapdragon-branded Mercedes sponsorship is private corporate spend. Human-rights exposure would come from chip supply chains, especially China and Taiwan manufacturing.",
+    "short": "QUALCOMM Incorporated is a Nasdaq-listed (QCOM) semiconductor company with a dispersed institutional shareholder base and no state or sovereign-fund owner.",
+    "source": {
+      "name": "QUALCOMM Incorporated Form 10-K FY2025 (SEC EDGAR)",
+      "date": "2025-11-05",
+      "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/qcom-20250928.htm"
     },
     "reviewed": false
   },
@@ -695,6 +1885,20 @@
     "reviewed": false
   },
   {
+    "id": "renasant-corporation-record",
+    "ownerIds": [
+      "renasant-corporation"
+    ],
+    "text": "Renasant Bank is the principal subsidiary of Renasant Corporation, an NYSE-listed (RNST) regional bank holding company based in Tupelo, Mississippi. It is privately held through public markets with no state ownership. The Nashville SC front sponsorship is plain private bank marketing money.",
+    "short": "Renasant Bank is the principal subsidiary of Renasant Corporation, an NYSE-listed (RNST) regional bank holding company based in Tupelo, Mississippi.",
+    "source": {
+      "name": "Renasant Corporation Form 10-K FY2025 (SEC EDGAR)",
+      "date": "2026-03-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/715072/000071507226000017/rnst-20251231.htm"
+    },
+    "reviewed": false
+  },
+  {
     "id": "reuter-gruppe-record",
     "ownerIds": [
       "reuter-gruppe"
@@ -719,6 +1923,34 @@
       "name": "REWE Group official 'Cooperative' page and investor presentation (REWE COOPERATIVES / six owner cooperatives)",
       "date": "2024-07",
       "url": "https://www.rewe-group.com/en/cooperative/"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "royal-caribbean-cruises-ltd-record",
+    "ownerIds": [
+      "royal-caribbean-cruises-ltd"
+    ],
+    "text": "Royal Caribbean Group is NYSE-listed (RCL) with a fully dispersed public shareholder base and no state or sovereign-fund owner. The Inter Miami front deal is funded from corporate capital. Human-rights relevance centres on crew/labour and environmental compliance at sea rather than ownership.",
+    "short": "Royal Caribbean Group is NYSE-listed (RCL) with a fully dispersed public shareholder base and no state or sovereign-fund owner.",
+    "source": {
+      "name": "Royal Caribbean Cruises Ltd. Form 10-K FY2025 (SEC EDGAR)",
+      "date": "2026-02-11",
+      "url": "https://www.sec.gov/Archives/edgar/data/884887/000088488726000007/rcl-20251231.htm"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "3m-company-record",
+    "ownerIds": [
+      "3m-company"
+    ],
+    "text": "3M is an NYSE-listed conglomerate with no controlling or state shareholder. The Cadillac F1 partnership is private corporate money. 3M's notable human-rights/conduct exposure is litigation-driven - PFAS ('forever chemicals') contamination settlements and combat-earplug hearing-loss claims - not state ownership.",
+    "short": "3M is an NYSE-listed conglomerate with no controlling or state shareholder.",
+    "source": {
+      "name": "3M Company Form 10-K FY2025 (SEC EDGAR)",
+      "date": "2026-02-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/66740/000006674026000014/mmm-20251231.htm"
     },
     "reviewed": false
   },
@@ -751,6 +1983,48 @@
     "reviewed": false
   },
   {
+    "id": "saputo-inc-record",
+    "ownerIds": [
+      "saputo-inc"
+    ],
+    "text": "Saputo Inc. is a Toronto-listed dairy processor controlled by the Saputo family through Jolina Capital, with a large family insider block. Quebec's public pension manager CDPQ holds a minority financial stake of roughly 4.5% after a September 2024 purchase, so there is a small state-fund presence but no state control. The Bologna front sponsorship is private family-controlled corporate money.",
+    "short": "Saputo Inc.",
+    "source": {
+      "name": "La Caisse (CDPQ), 'CDPQ increases its stake in Saputo Inc.'",
+      "date": "2024-09-30",
+      "url": "https://www.lacaisse.com/en/news/pressreleases/cdpq-increases-its-stake-saputo-inc"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "regione-autonoma-della-sardegna-record",
+    "ownerIds": [
+      "regione-autonoma-della-sardegna"
+    ],
+    "text": "The 'Sardegna' branding on the Cagliari front shirt is the tourism promotion of the Autonomous Region of Sardinia, run by its regional tourism department (Assessorato del Turismo, Artigianato e Commercio), which has repeatedly signed main-sponsor deals with the club. It is a public-law regional body, so this is sub-national state money. The shirt front is co-branded with Sardinian craft-beer chain Doppio Malto, a private company.",
+    "short": "The 'Sardegna' branding on the Cagliari front shirt is the tourism promotion of the Autonomous Region of Sardinia, run by its regional tourism department….",
+    "source": {
+      "name": "Regione Autonoma della Sardegna, Assessorato del turismo, artigianato e commercio",
+      "date": "2026-09",
+      "url": "https://www.regione.sardegna.it/ricerca/assessorato-del-turismo-artigianato-e-commercio-527"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "intermountain-health-record",
+    "ownerIds": [
+      "intermountain-health"
+    ],
+    "text": "Select Health is the insurance arm of Intermountain Health, a non-profit integrated health system based in Salt Lake City. No shareholders, no state stake - the Real Salt Lake front deal is non-profit healthcare money. Human-rights relevance is minimal apart from ordinary US health-insurance conduct.",
+    "short": "Select Health is the insurance arm of Intermountain Health, a non-profit integrated health system based in Salt Lake City.",
+    "source": {
+      "name": "Select Health, About Us",
+      "date": "2026-09",
+      "url": "https://selecthealth.org/about-us"
+    },
+    "reviewed": false
+  },
+  {
     "id": "sesame-hr-sl-record",
     "ownerIds": [
       "sesame-hr-sl"
@@ -761,6 +2035,34 @@
       "name": "PSG Equity press release on Sesame's EUR 23m round; GP Bullhound Fund VI announcement",
       "date": "2024-05-08",
       "url": "https://psgequity.com/news/sesame-closes-new-investment-round-of-23m-to-continue-its-investment-in-ai-and-accelerate-international-expansion"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "natural-nine-bv-record",
+    "ownerIds": [
+      "natural-nine-bv"
+    ],
+    "text": "Shuffle, the crypto casino and sportsbook that took the Sunderland sleeve, is owned and operated by Natural Nine B.V., a Curaçao-registered company licensed by the Curaçao Gaming Authority. It is privately held with no corporate or state parent. In practice this means an opaque offshore gambling owner rather than a state one.",
+    "short": "Shuffle, the crypto casino and sportsbook that took the Sunderland sleeve, is owned and operated by Natural Nine B.V., a Curaçao-registered company licensed by the….",
+    "source": {
+      "name": "Shuffle.com, Terms of Service",
+      "date": "2026-09",
+      "url": "https://shuffle.com/info/terms"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "siemens-ag-record",
+    "ownerIds": [
+      "siemens-ag"
+    ],
+    "text": "Siemens AG is a Frankfurt-listed industrial group (MDAX/DAX-scale, Siemens family a long-standing minority holder) with no state shareholder. The Siemens family holding is personal and the rest is free float, so the Red Bull partnership is private corporate money. Human-rights exposure attaches to Siemens' own conduct and supply chains rather than any state owner.",
+    "short": "Siemens AG is a Frankfurt-listed industrial group (MDAX/DAX-scale, Siemens family a long-standing minority holder) with no state shareholder.",
+    "source": {
+      "name": "Siemens AG, Siemens Report 2025",
+      "date": "2025-12",
+      "url": "https://www.siemens.com/siemensreport"
     },
     "reviewed": false
   },
@@ -793,6 +2095,20 @@
     "reviewed": false
   },
   {
+    "id": "easygo-record",
+    "ownerIds": [
+      "easygo"
+    ],
+    "text": "Stake.com is owned and operated by Medium Rare, N.V., a Curaçao company, and sits under the Australian private group Easygo, controlled by co-founders Ed Craven and Bijan Tehrani. There is no state or sovereign-fund owner - the Everton sleeve is private gambling money. Human-rights relevance is thin: offshore licensing and gambling-consumer issues.",
+    "short": "Stake.com is owned and operated by Medium Rare, N.V., a Curaçao company, and sits under the Australian private group Easygo, controlled by co-founders Ed Craven….",
+    "source": {
+      "name": "Stake.com, Terms of Service",
+      "date": "2026-09",
+      "url": "https://stake.com/policies/terms"
+    },
+    "reviewed": false
+  },
+  {
     "id": "standard-chartered-plc-record",
     "ownerIds": [
       "standard-chartered-plc"
@@ -803,6 +2119,76 @@
       "name": "US DOJ press release (Dec 10, 2012); DLA Piper legal bulletin on the 2019 USD1.1bn settlement",
       "date": "2012-12-10 / 2019-04",
       "url": "https://www.justice.gov/archives/opa/pr/standard-chartered-bank-agrees-forfeit-227-million-illegal-transactions-iran-sudan-libya-and"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "sumup-ltd-record",
+    "ownerIds": [
+      "sumup-ltd"
+    ],
+    "text": "SumUp is a privately held London-headquartered payments company that has raised over EUR 1.5bn in equity and debt from Bain Capital Tech Opportunities, BlackRock, Centerbridge, Crestline, Fin Capital and others. No sovereign or state entity is among the disclosed lead investors, so the Manchester United sleeve is private venture/PE-backed money.",
+    "short": "SumUp is a privately held London-headquartered payments company that has raised over EUR 1.5bn in equity and debt from Bain Capital Tech Opportunities, BlackRock,….",
+    "source": {
+      "name": "SumUp, 'Global fintech SumUp raises EUR 590 million...'",
+      "date": "2022-06-23",
+      "url": "https://www.sumup.com/en-ie/press/global-fintech-sumup-raises-590-million-euros"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "suzuki-motor-corporation-record",
+    "ownerIds": [
+      "suzuki-motor-corporation"
+    ],
+    "text": "Suzuki Motor Corporation is a Tokyo-listed automaker with a dispersed Japanese institutional shareholder base and no state ownership; its Annual Securities Report shows no government holder of note. The Torino FC front sponsorship is private corporate money. Human-rights exposure is ordinary auto-supply-chain and Gujarat/India manufacturing labour issues.",
+    "short": "Suzuki Motor Corporation is a Tokyo-listed automaker with a dispersed Japanese institutional shareholder base and no state ownership; its Annual Securities Report….",
+    "source": {
+      "name": "Suzuki Motor Corporation, Annual Securities Report FY2025",
+      "date": "2025-06",
+      "url": "https://www.globalsuzuki.com/ir/library/asr/pdf/asr_fy2025.pdf"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "lvmh-record",
+    "ownerIds": [
+      "lvmh"
+    ],
+    "text": "TAG Heuer is one of the Maisons in LVMH's Watches & Jewelry division, so its ultimate parent is LVMH SE, a Euronext Paris-listed luxury group controlled by the Arnault family. There is no state stake in that chain. The Red Bull partnership is therefore private family-controlled corporate money.",
+    "short": "TAG Heuer is one of the Maisons in LVMH's Watches & Jewelry division, so its ultimate parent is LVMH SE, a Euronext Paris-listed luxury group controlled by the….",
+    "source": {
+      "name": "LVMH, 'Watches & Jewelry' Maisons",
+      "date": "2026-09",
+      "url": "https://www.lvmh.com/en/our-maisons/watches-jewelry"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "target-corporation-record",
+    "ownerIds": [
+      "target-corporation"
+    ],
+    "text": "Target Corporation is NYSE-listed (TGT) with a fully dispersed shareholder base and no state or sovereign-fund owner. The Minnesota United front deal is private corporate money. Human-rights relevance is ordinary retail supply-chain labour exposure.",
+    "short": "Target Corporation is NYSE-listed (TGT) with a fully dispersed shareholder base and no state or sovereign-fund owner.",
+    "source": {
+      "name": "Target Corporation Form 10-K FY2025 (SEC EDGAR)",
+      "date": "2026-03-11",
+      "url": "https://www.sec.gov/Archives/edgar/data/27419/000002741926000016/tgt-20260131.htm"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "teamviewer-se-record",
+    "ownerIds": [
+      "teamviewer-se"
+    ],
+    "text": "TeamViewer SE is a Frankfurt-listed software company; its own annual report records free float at 100% of share capital at 31 December 2025, with only 4% held as treasury shares. No shareholder reaches the 3% disclosure threshold, meaning no state or family block. The Mercedes partnership is private corporate money.",
+    "short": "TeamViewer SE is a Frankfurt-listed software company; its own annual report records free float at 100% of share capital at 31 December 2025, with only 4% held as….",
+    "source": {
+      "name": "TeamViewer SE, Annual Report 2025 (Geschaeftsbericht)",
+      "date": "2026-03",
+      "url": "https://ir.teamviewer.com/media/document/d9e92a6b-c9ee-44c2-ac79-55c87db52ca1/assets/TeamViewer_Geschaeftsbericht_2025.pdf"
     },
     "reviewed": false
   },
@@ -821,6 +2207,20 @@
     "reviewed": false
   },
   {
+    "id": "telus-corporation-record",
+    "ownerIds": [
+      "telus-corporation"
+    ],
+    "text": "TELUS is a TSX/NYSE-listed Canadian telecom with a dispersed public shareholder base and no state owner; it files with the SEC as a foreign private issuer. The Vancouver Whitecaps front deal is private corporate money. Human-rights exposure is ordinary telecom supply chain (Huawei/network equipment) and privacy conduct.",
+    "short": "TELUS is a TSX/NYSE-listed Canadian telecom with a dispersed public shareholder base and no state owner; it files with the SEC as a foreign private issuer.",
+    "source": {
+      "name": "TELUS Corporation Form 40-F FY2025 (SEC EDGAR)",
+      "date": "2026-02-12",
+      "url": "https://www.sec.gov/Archives/edgar/data/868675/000110465926013854/tu-20251231x40f.htm"
+    },
+    "reviewed": false
+  },
+  {
     "id": "temporal-technologies-record",
     "ownerIds": [
       "temporal-technologies"
@@ -831,6 +2231,34 @@
       "name": "Temporal Series E reporting (GeekWire-derived coverage)",
       "date": "2026",
       "url": "https://425business.com/news/temporal-raises-550m-in-series-e-company-valued-at-12-55b/article_3f5859c3-e9d8-4cc7-816f-6616745a60dc.html"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "apollo-global-management-record",
+    "ownerIds": [
+      "apollo-global-management"
+    ],
+    "text": "Tenneco was taken private in November 2022 by funds managed by Apollo affiliates in an all-cash deal worth roughly USD 7.1bn including debt, and is no longer exchange-listed. Apollo Global Management itself is NYSE-listed with no state stake. The Cadillac F1 partnership is therefore private-equity money, with a debt-loading and cost-cutting risk profile typical of a buyout.",
+    "short": "Tenneco was taken private in November 2022 by funds managed by Apollo affiliates in an all-cash deal worth roughly USD 7.1bn including debt, and is no longer….",
+    "source": {
+      "name": "Apollo, 'Apollo Funds Complete Acquisition of Tenneco'",
+      "date": "2022-11-17",
+      "url": "https://apollo.com/insights-news/pressreleases/2022/11/apollo-funds-complete-acquisition-of-tenneco-134627289"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "toyota-motor-corporation-record",
+    "ownerIds": [
+      "toyota-motor-corporation"
+    ],
+    "text": "Toyota Gazoo Racing is Toyota Motor Corporation's motorsport arm, so the Haas F1 title sponsorship is funded by Toyota itself. Toyota is Tokyo/NYSE-listed with a cross-holding network of Japanese financial and industrial shareholders (Toyota Industries, Nippon Life, Denso and others) and no state owner. The ownership chain is therefore purely private Japanese corporate capital.",
+    "short": "Toyota Gazoo Racing is Toyota Motor Corporation's motorsport arm, so the Haas F1 title sponsorship is funded by Toyota itself.",
+    "source": {
+      "name": "Toyota Motor Corporation Form 20-F FY2026 (SEC EDGAR)",
+      "date": "2026-06-10",
+      "url": "https://www.sec.gov/Archives/edgar/data/1094517/000119312526264811/d101983d20f.htm"
     },
     "reviewed": false
   },
@@ -877,6 +2305,48 @@
     "reviewed": false
   },
   {
+    "id": "ubs-group-ag-record",
+    "ownerIds": [
+      "ubs-group-ag"
+    ],
+    "text": "UBS Group AG is a SIX/NYSE-listed bank with a broad free float and no state shareholder; the Swiss Confederation exited its crisis-era stake long ago. Its 20-F discusses 'significant shareholders' only in the sense of reporting-threshold disclosures by private investors. The Mercedes partnership is private bank money.",
+    "short": "UBS Group AG is a SIX/NYSE-listed bank with a broad free float and no state shareholder; the Swiss Confederation exited its crisis-era stake long ago.",
+    "source": {
+      "name": "UBS Group AG Form 20-F FY2025 (SEC EDGAR)",
+      "date": "2026-03-09",
+      "url": "https://www.sec.gov/Archives/edgar/data/1610520/000161052026000023/ubs-20251231.htm"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "uchealth-record",
+    "ownerIds": [
+      "uchealth"
+    ],
+    "text": "UCHealth is a non-profit health system headquartered in Aurora, Colorado, formed from University of Colorado Hospital and Poudre Valley Health System. It has no shareholders and no direct state owner, although it is academically tied to the University of Colorado. The Colorado Rapids front deal is non-profit health money.",
+    "short": "UCHealth is a non-profit health system headquartered in Aurora, Colorado, formed from University of Colorado Hospital and Poudre Valley Health System.",
+    "source": {
+      "name": "UCHealth newsroom, 'About UCHealth'",
+      "date": "2026-09",
+      "url": "https://www.uchealth.org/newsroom/about-uchealth/"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "unicredit-spa-record",
+    "ownerIds": [
+      "unicredit-spa"
+    ],
+    "text": "UniCredit is a listed bank that states plainly it has no controlling shareholder or shareholder pact, with over 80% of capital held by professional investors mostly outside Italy. Its own structure chart shows sovereign wealth funds at about 6% and foundations at a similar level, so state money is present but not controlling. The Ferrari sleeve sponsorship is private bank money.",
+    "short": "UniCredit is a listed bank that states plainly it has no controlling shareholder or shareholder pact, with over 80% of capital held by professional investors….",
+    "source": {
+      "name": "UniCredit, Shareholders structure",
+      "date": "2026-09",
+      "url": "https://unicreditgroup.eu/en/investors/equity-investors/shareholders-structure.html"
+    },
+    "reviewed": false
+  },
+  {
     "id": "uralchem-record",
     "ownerIds": [
       "uralchem"
@@ -887,6 +2357,34 @@
       "name": "Fitch Ratings (rating action recording Uralchem's 81.47% stake); Reuters (Mazepin sells controlling stake in Uralchem)",
       "date": "2021-10-05 / 2022",
       "url": "https://www.fitchratings.com/research/corporate-finance/fitch-revises-uralkali-outlook-to-negative-affirms-at-bb-05-10-2021"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "saudi-aramco-record",
+    "ownerIds": [
+      "saudi-aramco"
+    ],
+    "text": "Valvoline Global Operations is the former Valvoline Inc. global products business, bought outright by Saudi Aramco for USD 2.65bn and completed on 2 March 2023; it is now an Aramco subsidiary, with only the US quick-lube business remaining listed as Valvoline Inc. Aramco is majority-owned by the Saudi Arabian Government (around 81.5% direct after the 2024 secondary offering, plus a further block via PIF's Sanabil). The Aston Martin sponsorship is therefore Saudi state money.",
+    "short": "Valvoline Global Operations is the former Valvoline Inc.",
+    "source": {
+      "name": "Aramco, 'Aramco completes $2.65bn acquisition of Valvoline Inc's global products business'",
+      "date": "2023-03-02",
+      "url": "https://www.aramco.com/en/news-media/news/2023/aramco-completes-acquisition-of-valvoline"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "visa-inc-record",
+    "ownerIds": [
+      "visa-inc"
+    ],
+    "text": "Visa Inc. is NYSE-listed with a widely dispersed shareholder base and no state or sovereign-fund owner. The Red Bull sleeve deal is private corporate money. Human-rights relevance is limited to interchange/fee conduct and card-network market power rather than ownership.",
+    "short": "Visa Inc.",
+    "source": {
+      "name": "Visa Inc. Form 10-K FY2025 (SEC EDGAR)",
+      "date": "2025-11-06",
+      "url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316125000089/v-20250930.htm"
     },
     "reviewed": false
   },
@@ -943,6 +2441,20 @@
       "name": "WWK insurer profile (WWK Lebensversicherung a.G. as mutual parent); WWK corporate history",
       "date": "2026",
       "url": "https://boleron.eu/en/germany/insurer/wwk"
+    },
+    "reviewed": false
+  },
+  {
+    "id": "yeti-holdings-inc-record",
+    "ownerIds": [
+      "yeti-holdings-inc"
+    ],
+    "text": "YETI Holdings, Inc. is NYSE-listed (YETI) with a dispersed shareholder base and no state owner. The Austin FC front sponsorship is private corporate money. Human-rights relevance is ordinary consumer-goods supply-chain labour exposure.",
+    "short": "YETI Holdings, Inc.",
+    "source": {
+      "name": "YETI Holdings, Inc. Form 10-K FY2025 (SEC EDGAR)",
+      "date": "2026-02-27",
+      "url": "https://www.sec.gov/Archives/edgar/data/1670592/000167059226000013/yeti-20260103.htm"
     },
     "reviewed": false
   },
@@ -1349,20 +2861,6 @@
       "name": "US Department of Justice - 'U.S. and Five Gulf States Reach Historic Settlement with BP'",
       "date": "2015-10-05",
       "url": "https://www.justice.gov/archives/opa/pr/us-and-five-gulf-states-reach-historic-settlement-bp-resolve-civil-lawsuit-over-deepwater"
-    },
-    "reviewed": false
-  },
-  {
-    "id": "3m-company-record",
-    "ownerIds": [
-      "3m-company"
-    ],
-    "text": "No state shareholder (NYSE-listed), but a sustained documented adverse record: a $10.3bn settlement, court-approved, over PFAS contamination of US public drinking-water systems.",
-    "short": "No state shareholder (NYSE-listed), but a sustained documented adverse record: a $10.3bn settlement, court-approved, over PFAS contamination of US public….",
-    "source": {
-      "name": "3M investor relations - settlement with public water suppliers (final court approval)",
-      "date": "2024-05-01",
-      "url": "https://investors.3m.com/news-events/press-releases/detail/1836/3m-settlement-with-public-water-suppliers-to-address-pfas"
     },
     "reviewed": false
   },

@@ -14,10 +14,10 @@
       "name": "American Family Insurance",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "american-family-mutual-insurance-company",
+      "owner": "American Family Mutual Insurance Company, S.I.",
+      "verdict": "Owned by American Family Mutual Insurance Company, S.I.. Nothing found.",
       "source": {
         "name": "atlutd.com",
         "date": "2026-02-17",
@@ -25,7 +25,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
-  "owners": [],
+  "worstTier": "none",
+  "owners": [
+    "american-family-mutual-insurance-company"
+  ],
   "lastUpdated": "2026-09-24"
 }

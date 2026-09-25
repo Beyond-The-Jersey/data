@@ -17,10 +17,10 @@
       "name": "Sardegna Turismo / Doppio Malto",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "serious",
+      "ownerId": "regione-autonoma-della-sardegna",
+      "owner": "Regione Autonoma della Sardegna (Assessorato del Turismo)",
+      "verdict": "The 'Sardegna' branding on the Cagliari front shirt is the tourism promotion of the Autonomous Region of Sardinia, run by its regional tourism department….",
       "source": {
         "name": "Calcio e Finanza",
         "date": "2026-07-07",
@@ -28,7 +28,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
-  "owners": [],
+  "worstTier": "serious",
+  "owners": [
+    "regione-autonoma-della-sardegna"
+  ],
   "lastUpdated": "2026-09-24"
 }

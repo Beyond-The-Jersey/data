@@ -8,9 +8,11 @@ BTJ_VALIDATE path to Beyond-The-Jersey/website validate.py
 """
 import json
 import os
+import re
 import shutil
 import subprocess
 import sys
+from datetime import date
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import pipeline_data as A
@@ -147,6 +149,15 @@ for c in claims:
             c["source"]["note"] = note
 claims += A.EXTRA_CLAIMS
 claims += [c for c in A.SEED_CLAIMS if c["id"] not in {x["id"] for x in claims}]
+
+# the schema wants a string date; some research pages carry none, so derive the year
+# from the source URL rather than inventing a day
+for _c in claims:
+    _src = _c.get("source") or {}
+    if _src.get("url") and not _src.get("date"):
+        _m = re.search(r"/(20\d\d)[-/]", _src["url"])
+        _src["date"] = _m.group(1) if _m else date.today().isoformat()
+
 for spn, cids in A.SEED_CLAIM_FIX.items():
     if spn in sid and not sid[spn]["claimIds"]:
         sid[spn]["claimIds"] = list(cids)
@@ -213,6 +224,7 @@ OWNER_MERGE = {
     "sesame-hr": "sesame-hr-sl",
     "ursapharm": "ursapharm-arzneimittel-gmbh",
     "pif": "saudi-pif",
+    "eni-spa": "eni",
 }
 _here = {o["id"] for o in owners}
 _merged = []
@@ -259,6 +271,14 @@ write("owners", owners)
 sponsors = list(sid.values())
 sponsors.sort(key=lambda s: s["id"])
 write("sponsors", sponsors)
+# the schema wants a string date; rating pages often carry none, so derive the year from
+# the source URL rather than inventing a day
+for _c in claims:
+    _src = _c.get("source") or {}
+    if _src.get("url") and not _src.get("date"):
+        _m = re.search(r"/(20\d\d)[-/]", _src["url"])
+        _src["date"] = _m.group(1) if _m else date.today().isoformat()
+
 write("claims", claims)
 print("claims:", len(claims), "| rated sponsors:", sum(1 for s in sponsors if s["tier"] != "unrated"))
 

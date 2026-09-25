@@ -15,10 +15,10 @@
       "name": "Geely Auto UK",
       "placement": "sleeve",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "zhejiang-geely-holding-group",
+      "owner": "Zhejiang Geely Holding Group Co., Ltd.",
+      "verdict": "Owned by Zhejiang Geely Holding Group Co., Ltd.. Nothing found.",
       "source": {
         "name": "Coventry City FC – 'Coventry City FC announces Geely Auto UK as Official Sleeve Partner and Official Vehicle Partner'",
         "date": "2026-08-21",
@@ -43,7 +43,8 @@
   ],
   "worstTier": "none",
   "owners": [
-    "monzo-bank-limited"
+    "monzo-bank-limited",
+    "zhejiang-geely-holding-group"
   ],
   "lastUpdated": "2026-09-24"
 }

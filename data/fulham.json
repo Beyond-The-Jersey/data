@@ -31,10 +31,10 @@
       "name": "HiBob",
       "placement": "sleeve",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "hibob",
+      "owner": "HiBob (Bob)",
+      "verdict": "Owned by HiBob (Bob). Nothing found.",
       "source": {
         "name": "Fulham FC – 'Fulham FC announces extended partnership with HiBob as Official Sleeve Partner & Principal Partner'",
         "date": "2025-12-15",
@@ -44,7 +44,8 @@
   ],
   "worstTier": "none",
   "owners": [
-    "clickhouse-inc"
+    "clickhouse-inc",
+    "hibob"
   ],
   "lastUpdated": "2026-09-24"
 }

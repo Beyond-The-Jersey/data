@@ -14,10 +14,10 @@
       "name": "YETI",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "yeti-holdings-inc",
+      "owner": "YETI Holdings, Inc.",
+      "verdict": "Owned by YETI Holdings, Inc.. Nothing found.",
       "source": {
         "name": "FOR SOCCER",
         "date": "2026-02-17",
@@ -25,7 +25,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
-  "owners": [],
+  "worstTier": "none",
+  "owners": [
+    "yeti-holdings-inc"
+  ],
   "lastUpdated": "2026-09-24"
 }

@@ -16,8 +16,8 @@
       "placement": "front",
       "season": "2026-27",
       "tier": "concern",
-      "ownerId": "eni-spa",
-      "owner": "Eni S.p.A. (Plenitude S.p.A. subsidiary)",
+      "ownerId": "eni",
+      "owner": "Eni S.p.A.",
       "verdict": "Plenitude is Eni's retail/renewables division; Eni is listed on Borsa Italiana and NYSE but the Italian Ministry of Economy and Finance plus CDP S.p.A.",
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
@@ -28,7 +28,7 @@
   ],
   "worstTier": "concern",
   "owners": [
-    "eni-spa"
+    "eni"
   ],
   "lastUpdated": "2026-09-24"
 }

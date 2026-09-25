@@ -18,10 +18,10 @@
       "name": "MD Anderson Cancer Center",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "serious",
+      "ownerId": "university-of-texas-system",
+      "owner": "The University of Texas System (UT MD Anderson Cancer Center)",
+      "verdict": "MD Anderson, the Houston Dynamo front sponsor, is a component institution of the University of Texas System - its own about page states it is part of the UT….",
       "source": {
         "name": "FOR SOCCER",
         "date": "2026-02-17",
@@ -29,7 +29,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
-  "owners": [],
+  "worstTier": "serious",
+  "owners": [
+    "university-of-texas-system"
+  ],
   "lastUpdated": "2026-09-24"
 }

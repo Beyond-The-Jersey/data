@@ -16,10 +16,10 @@
       "name": "CHEXX",
       "placement": "sleeve",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "continent-gaming",
+      "owner": "Continent Gaming N.V.",
+      "verdict": "Owned by Continent Gaming N.V.. Nothing found.",
       "source": {
         "name": "Crystal Palace FC – 'Crystal Palace FC announce CHEXX as Official Sleeve Partner'",
         "date": "2026-08-28",
@@ -44,6 +44,7 @@
   ],
   "worstTier": "none",
   "owners": [
+    "continent-gaming",
     "temporal-technologies"
   ],
   "lastUpdated": "2026-09-24"

@@ -16,10 +16,10 @@
       "name": "Suzuki",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "suzuki-motor-corporation",
+      "owner": "Suzuki Motor Corporation",
+      "verdict": "Owned by Suzuki Motor Corporation. Nothing found.",
       "source": {
         "name": "Torino FC",
         "date": "2026-07-03",
@@ -27,7 +27,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
-  "owners": [],
+  "worstTier": "none",
+  "owners": [
+    "suzuki-motor-corporation"
+  ],
   "lastUpdated": "2026-09-24"
 }

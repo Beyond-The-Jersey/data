@@ -16,10 +16,10 @@
       "name": "Mapei",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "mapei-spa",
+      "owner": "Mapei S.p.A.",
+      "verdict": "Owned by Mapei S.p.A.. Nothing found.",
       "source": {
         "name": "Calcio e Finanza",
         "date": "2026-07-07",
@@ -27,7 +27,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
-  "owners": [],
+  "worstTier": "none",
+  "owners": [
+    "mapei-spa"
+  ],
   "lastUpdated": "2026-09-24"
 }

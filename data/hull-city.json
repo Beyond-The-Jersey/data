@@ -31,10 +31,10 @@
       "name": "McVitie's",
       "placement": "sleeve",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "yildiz-holding",
+      "owner": "Yildiz Holding A.S. (Ulker family)",
+      "verdict": "Owned by Yildiz Holding A.S. (Ulker family). Nothing found.",
       "source": {
         "name": "Hull City AFC – 'Hull City and McVitie's announce new partnership'",
         "date": "2026-08-21",
@@ -44,7 +44,8 @@
   ],
   "worstTier": "none",
   "owners": [
-    "corendon-tourism-group"
+    "corendon-tourism-group",
+    "yildiz-holding"
   ],
   "lastUpdated": "2026-09-24"
 }

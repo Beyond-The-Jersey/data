@@ -16,10 +16,10 @@
       "name": "Orlando Health",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "orlando-health-inc",
+      "owner": "Orlando Health, Inc.",
+      "verdict": "Owned by Orlando Health, Inc.. Nothing found.",
       "source": {
         "name": "orlandocitysc.com",
         "date": "2026-02-17",
@@ -27,7 +27,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
-  "owners": [],
+  "worstTier": "none",
+  "owners": [
+    "orlando-health-inc"
+  ],
   "lastUpdated": "2026-09-24"
 }

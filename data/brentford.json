@@ -15,10 +15,10 @@
       "name": "Cazoo",
       "placement": "sleeve",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "motors",
+      "owner": "Motors.co.uk Limited (O3 Industries / Novum Capital)",
+      "verdict": "Owned by Motors.co.uk Limited (O3 Industries / Novum Capital). Nothing found.",
       "source": {
         "name": "Brentford FC – 'Brentford Football Club extend official sleeve partnership with Cazoo'",
         "date": "2026-07-16",
@@ -43,6 +43,7 @@
   ],
   "worstTier": "none",
   "owners": [
+    "motors",
     "recruit-holdings"
   ],
   "lastUpdated": "2026-09-24"

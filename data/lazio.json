@@ -15,10 +15,10 @@
       "name": "Polymarket",
       "placement": "front",
       "season": null,
-      "tier": "unrated",
-      "ownerId": "blockratize",
+      "tier": "none",
+      "ownerId": "blockratize-inc",
       "owner": "Blockratize, Inc. (dba Polymarket)",
-      "verdict": null,
+      "verdict": "Owned by Blockratize, Inc. (dba Polymarket). Nothing found.",
       "source": {
         "name": "SBC News",
         "date": "2026-08-12",
@@ -26,9 +26,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
-    "blockratize"
+    "blockratize-inc"
   ],
   "lastUpdated": "2026-09-24"
 }

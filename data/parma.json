@@ -14,10 +14,10 @@
       "name": "Prometeon",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "serious",
+      "ownerId": "sinochem-holdings",
+      "owner": "China National Chemical Corporation (Sinochem Holdings)",
+      "verdict": "Prometeon Tyre Group, the truck/agro tyre business spun out of Pirelli in 2017, is controlled through China National Tire & Rubber Co.",
       "source": {
         "name": "Parma Calcio 1913",
         "date": "2025-10-30",
@@ -25,7 +25,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
-  "owners": [],
+  "worstTier": "serious",
+  "owners": [
+    "sinochem-holdings"
+  ],
   "lastUpdated": "2026-09-24"
 }

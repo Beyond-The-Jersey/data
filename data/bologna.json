@@ -14,10 +14,10 @@
       "name": "Saputo",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "saputo-inc",
+      "owner": "Saputo Inc.",
+      "verdict": "Owned by Saputo Inc.. Nothing found.",
       "source": {
         "name": "Bologna FC 1909",
         "date": "2023-07-13",
@@ -25,7 +25,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
-  "owners": [],
+  "worstTier": "none",
+  "owners": [
+    "saputo-inc"
+  ],
   "lastUpdated": "2026-09-24"
 }

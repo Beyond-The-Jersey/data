@@ -17,10 +17,10 @@
       "name": "Eurobet.live",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "entain-plc",
+      "owner": "Entain plc",
+      "verdict": "Owned by Entain plc. Nothing found.",
       "source": {
         "name": "iGaming Republic",
         "date": "2026-03-18",
@@ -28,7 +28,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
-  "owners": [],
+  "worstTier": "none",
+  "owners": [
+    "entain-plc"
+  ],
   "lastUpdated": "2026-09-24"
 }

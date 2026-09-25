@@ -32,10 +32,10 @@
       "name": "SumUp",
       "placement": "sleeve",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "sumup-ltd",
+      "owner": "SumUp Ltd",
+      "verdict": "Owned by SumUp Ltd. Nothing found.",
       "source": {
         "name": "Manchester United – 'SumUp becomes United's Official Sleeve Partner'",
         "date": "2026-09-08",
@@ -45,7 +45,8 @@
   ],
   "worstTier": "none",
   "owners": [
-    "qualcomm"
+    "qualcomm",
+    "sumup-ltd"
   ],
   "lastUpdated": "2026-09-24"
 }

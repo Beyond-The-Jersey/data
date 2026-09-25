@@ -14,10 +14,10 @@
       "name": "Nationwide",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "nationwide-mutual-insurance-company",
+      "owner": "Nationwide Mutual Insurance Company",
+      "verdict": "Owned by Nationwide Mutual Insurance Company. Nothing found.",
       "source": {
         "name": "FOR SOCCER",
         "date": "2026-02-17",
@@ -25,7 +25,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
-  "owners": [],
+  "worstTier": "none",
+  "owners": [
+    "nationwide-mutual-insurance-company"
+  ],
   "lastUpdated": "2026-09-24"
 }

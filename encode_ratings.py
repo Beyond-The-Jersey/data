@@ -6,9 +6,12 @@ note so the reviewer can see the join between research and judgement.
 """
 import json
 import os
+import pprint
 import re
 
-SRC = ["/tmp/ratings.json", "/tmp/ratings2.json"]
+SRC = ["/tmp/ratings.json", "/tmp/ratings2.json",
+       "/tmp/rate_batch_1_out.json", "/tmp/rate_batch_2_out.json",
+       "/tmp/rate_batch_3_out.json"]
 OUT = "/tmp/data/ratings_data.py"
 
 # sponsorId -> ownership on the shirt's owner chain
@@ -106,7 +109,8 @@ def main():
     with open(OUT, "w", encoding="utf-8") as f:
         f.write('"""Sponsor ratings with the owner chain and the evidence behind each one."""\n\n')
         f.write("RATINGS = ")
-        f.write(json.dumps(out, indent=4, ensure_ascii=False))
+        # this file is imported as Python, so it needs None/True, not JSON null/true
+        f.write(pprint.pformat(out, width=118, sort_dicts=False))
         f.write("\n")
     print("wrote", OUT, len(out), "ratings")
     from collections import Counter

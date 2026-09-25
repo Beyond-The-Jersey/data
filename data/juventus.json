@@ -16,10 +16,10 @@
       "name": "Jeep (with Visit Detroit)",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "concern",
+      "ownerId": "stellantis-nv",
+      "owner": "Stellantis N.V.",
+      "verdict": "Jeep (with Visit Detroit) on the Juventus front is a brand of Stellantis N.V., the Amsterdam-domiciled, NYSE/Euronext-listed automaker.",
       "source": {
         "name": "Juventus FC",
         "date": "2025-05-15",
@@ -27,7 +27,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
-  "owners": [],
+  "worstTier": "concern",
+  "owners": [
+    "stellantis-nv"
+  ],
   "lastUpdated": "2026-09-24"
 }

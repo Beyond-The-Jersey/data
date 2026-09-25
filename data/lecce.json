@@ -16,10 +16,10 @@
       "name": "DEGHI",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "deghi",
+      "owner": "DEGHI S.p.A.",
+      "verdict": "Owned by DEGHI S.p.A.. Nothing found.",
       "source": {
         "name": "Corriere Salentino",
         "date": "2025-11-01",
@@ -27,7 +27,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
-  "owners": [],
+  "worstTier": "none",
+  "owners": [
+    "deghi"
+  ],
   "lastUpdated": "2026-09-24"
 }

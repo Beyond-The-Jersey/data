@@ -15,10 +15,10 @@
       "name": "Shuffle",
       "placement": "sleeve",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "natural-nine-bv",
+      "owner": "Natural Nine B.V.",
+      "verdict": "Owned by Natural Nine B.V.. Nothing found.",
       "source": {
         "name": "Sunderland AFC – 'Sunderland AFC and Shuffle join forces in new global sleeve partnership'",
         "date": "2026-09-11",
@@ -26,7 +26,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
-  "owners": [],
+  "worstTier": "none",
+  "owners": [
+    "natural-nine-bv"
+  ],
   "lastUpdated": "2026-09-24"
 }

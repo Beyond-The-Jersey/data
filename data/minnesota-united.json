@@ -18,10 +18,10 @@
       "name": "Target",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "target-corporation",
+      "owner": "Target Corporation",
+      "verdict": "Owned by Target Corporation. Nothing found.",
       "source": {
         "name": "FOR SOCCER",
         "date": "2026-02-17",
@@ -29,7 +29,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
-  "owners": [],
+  "worstTier": "none",
+  "owners": [
+    "target-corporation"
+  ],
   "lastUpdated": "2026-09-24"
 }

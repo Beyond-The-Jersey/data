@@ -18,10 +18,10 @@
       "name": "Compass Minerals",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "compass-minerals",
+      "owner": "Compass Minerals International, Inc.",
+      "verdict": "Owned by Compass Minerals International, Inc.. Nothing found.",
       "source": {
         "name": "FOR SOCCER",
         "date": "2026-02-17",
@@ -29,7 +29,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
-  "owners": [],
+  "worstTier": "none",
+  "owners": [
+    "compass-minerals"
+  ],
   "lastUpdated": "2026-09-24"
 }

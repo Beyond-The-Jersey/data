@@ -15,10 +15,10 @@
       "name": "MrQ",
       "placement": "sleeve",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "tek-fox-ltd",
+      "owner": "Tek Fox Ltd (MrQ)",
+      "verdict": "Owned by Tek Fox Ltd (MrQ). Nothing found.",
       "source": {
         "name": "AFC Bournemouth – 'AFC Bournemouth announces multi-year partnership with MrQ'",
         "date": "2026-07-08",
@@ -43,7 +43,8 @@
   ],
   "worstTier": "none",
   "owners": [
-    "discovery-limited"
+    "discovery-limited",
+    "tek-fox-ltd"
   ],
   "lastUpdated": "2026-09-24"
 }

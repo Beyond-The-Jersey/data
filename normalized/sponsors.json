@@ -16,24 +16,30 @@
   {
     "id": "adidas",
     "name": "adidas",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "adidas-ag",
+    "ownership": "owned",
+    "tier": "concern",
+    "status": "rated",
+    "verdict": "adidas AG is a Frankfurt-listed German sportswear maker with a near-total free float: the company's own ownership analysis for December 2025 identified almost 100%….",
+    "claimIds": [
+      "adidas-ag-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Judgement call: ownership is clean (no state stake) so 'none' was tempting, but the Xinjiang cotton/forced-labour exposure is a named, documented human-rights issue, so 'concern' on record not ownership. Same owner as sponsorId 'adidas-a'."
   },
   {
     "id": "adidas-a",
     "name": "adidas",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "adidas-ag",
+    "ownership": "owned",
+    "tier": "concern",
+    "status": "rated",
+    "verdict": "adidas AG is a Frankfurt-listed German sportswear maker with a near-total free float: the company's own ownership analysis for December 2025 identified almost 100%….",
+    "claimIds": [
+      "adidas-ag-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Same company as sponsorId 'adidas' (Mercedes and Audi F1 partner deals are both adidas AG)."
   },
   {
     "id": "aeroflot",
@@ -66,34 +72,42 @@
   {
     "id": "ally",
     "name": "Ally",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "ally-financial",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Ally Financial Inc.. Nothing found.",
+    "claimIds": [
+      "ally-financial-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Historic US Treasury stake (2009-2014) noted but fully exited, so not scored as state."
   },
   {
     "id": "alpinestars-c",
     "name": "Alpinestars",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "alpinestars",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Alpinestars S.p.A. (Mazzarolo family). Nothing found.",
+    "claimIds": [
+      "alpinestars-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Family ownership from the company's own history page; no dated shareholder register published. Same owner as 'alpinestars-h'."
   },
   {
     "id": "alpinestars-h",
     "name": "Alpinestars",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "alpinestars",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Alpinestars S.p.A. (Mazzarolo family). Nothing found.",
+    "claimIds": [
+      "alpinestars-record"
+    ],
     "aliases": []
   },
   {
@@ -114,13 +128,16 @@
   {
     "id": "american-family-insurance",
     "name": "American Family Insurance",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "american-family-mutual-insurance-company",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by American Family Mutual Insurance Company, S.I.. Nothing found.",
+    "claimIds": [
+      "american-family-mutual-insurance-company-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Type recorded as private-company because policyholder-owned mutuals are not listed; effectively member-owned."
   },
   {
     "id": "aramco",
@@ -153,13 +170,16 @@
   {
     "id": "atlassian",
     "name": "Atlassian",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "atlassian",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Atlassian Corporation. Nothing found.",
+    "claimIds": [
+      "atlassian-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Founders are now based in the US/Australia; company redomiciled to Delaware. No state stake in either jurisdiction."
   },
   {
     "id": "att",
@@ -192,45 +212,55 @@
   {
     "id": "ballys-intralot",
     "name": "Bally's Intralot",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "standard-general",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Standard General L.P.. Nothing found.",
+    "claimIds": [
+      "standard-general-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Ultimate owner traced to Standard General (Soo Kim) on both sides of the merger. Intralot's own IR page (intralot.com/gr/investor-relations/stock) lays out the Standard General control chain and CQ Lottery's 26.86% / PE Sub Holdings' 6.48% stakes. Sponsor name 'Bally's Intralot' refers to the merged entity, not to a brand."
   },
   {
     "id": "banca-popolare-del-frusinate",
     "name": "Banca Popolare del Frusinate",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "banca-popolare-del-frusinate",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Banca Popolare del Frusinate S.C.p.A.. Nothing found.",
+    "claimIds": [
+      "banca-popolare-del-frusinate-record"
+    ],
     "aliases": []
   },
   {
     "id": "bank-of-america",
     "name": "Bank of America",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "bank-of-america",
+    "ownership": "owned",
+    "tier": "concern",
+    "status": "rated",
+    "verdict": "Bank of America Corporation is a US-listed bank with dispersed institutional ownership (BlackRock and Vanguard the largest holdings, both well under 10%) and no….",
+    "claimIds": [
+      "bank-of-america-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Fossil-fuel and settlement record is well documented but not 'sustained abuse', so concern not serious."
   },
   {
     "id": "barclays",
     "name": "Barclays",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "barclays",
+    "ownership": "owned",
+    "tier": "concern",
+    "status": "rated",
+    "verdict": "Barclays PLC is a UK-listed bank whose only notifiable holder above the 3% disclosure threshold as at 31 December 2025 is BlackRock (about 5.8% in 2024), with no….",
+    "claimIds": [
+      "barclays-record"
+    ],
     "aliases": []
   },
   {
@@ -264,12 +294,14 @@
   {
     "id": "betsson-sport",
     "name": "Betsson.sport",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "betsson",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Betsson AB. Nothing found.",
+    "claimIds": [
+      "betsson-record"
+    ],
     "aliases": []
   },
   {
@@ -303,46 +335,58 @@
   {
     "id": "bimbo",
     "name": "Bimbo (home) / Thomas' (away)",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "grupo-bimbo",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Grupo Bimbo, S.A.B. de C.V.. Nothing found.",
+    "claimIds": [
+      "grupo-bimbo-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: The site publishes shareholder structure as a downloadable table rather than inline, so the exact family percentage is not stated on the page itself."
   },
   {
     "id": "bmo-bank",
     "name": "BMO Bank",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "bank-of-montreal",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Bank of Montreal. Nothing found.",
+    "claimIds": [
+      "bank-of-montreal-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: BMO's 40-F primary document is largely XBRL; the ownership evidence used is the AIF exhibit."
   },
   {
     "id": "boeing",
     "name": "Boeing",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "boeing",
+    "ownership": "owned",
+    "tier": "concern",
+    "status": "rated",
+    "verdict": "The Boeing Company is a US-listed commercial and defence aerospace prime with a widely held register and no state shareholder; its largest holders are index….",
+    "claimIds": [
+      "boeing-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Read literally, Boeing's weapons sales to conflict parties could argue for severe; kept at concern because the company itself is not a belligerent state entity."
   },
   {
     "id": "boylesports",
     "name": "BoyleSports",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "boylesports",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by BoyleSports (Boyle family). Nothing found.",
+    "claimIds": [
+      "boylesports-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: boylesports.com itself geo-blocks some US IPs, so a secondary aggregator was used for the ownership statement."
   },
   {
     "id": "bp",
@@ -361,24 +405,30 @@
   {
     "id": "breitling",
     "name": "Breitling",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "cvc-capital-partners",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by CVC Capital Partners (CVC Fund VI). Nothing found.",
+    "claimIds": [
+      "cvc-capital-partners-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: CVC's own 28 Apr 2017 release documents the 80/20 deal; the follow-on 20% purchase (Nov 2018) is documented by Unquote. Owner type kept as private-company because the holder is a PE fund, not the listed manager."
   },
   {
     "id": "bwt",
     "name": "BWT",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "bwt-group",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by BWT AG (WAB Group / Weissenbacher family). Nothing found.",
+    "claimIds": [
+      "bwt-group-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Judgement call: the FY2014 report is the last shareholder register BWT published, so the 79.7% WAB figure is dated but consistent with the company's current self-description as founder/management-controlled. No more recent register found."
   },
   {
     "id": "c-hedenkamp",
@@ -397,12 +447,14 @@
   {
     "id": "carvana",
     "name": "Carvana",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "carvana",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Carvana Co.. Nothing found.",
+    "claimIds": [
+      "carvana-record"
+    ],
     "aliases": []
   },
   {
@@ -436,35 +488,44 @@
   {
     "id": "cazoo",
     "name": "Cazoo",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "motors",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Motors.co.uk Limited (O3 Industries / Novum Capital). Nothing found.",
+    "claimIds": [
+      "motors-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Trace corrected: the given owner chain was empty; Cazoo's brand now sits with Motors (O3/Novum), NOT with the original Cazoo Group. Motors itself was bought from eBay Classifieds in Dec 2021 by O3 Industries and Novum Capital."
   },
   {
     "id": "chexx",
     "name": "CHEXX",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "continent-gaming",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Continent Gaming N.V.. Nothing found.",
+    "claimIds": [
+      "continent-gaming-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Kept at 'none' rather than 'unrated' because the operating entity is clearly established; the opacity is about the group's ultimate beneficial owners, which Curaçao does not publish."
   },
   {
     "id": "childrens-health",
     "name": "Children's Health (home) / UT Southwestern Medical Center (away)",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "ut-southwestern-medical-center",
+    "ownership": "owned",
+    "tier": "serious",
+    "status": "rated",
+    "verdict": "This is a split patch sponsor: Children's Health (home kit) is a private 501(c)(3) non-profit - Children's Health System of Texas, EIN 75-0800628 - while UT….",
+    "claimIds": [
+      "ut-southwestern-medical-center-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Judgement call: the sponsor entry covers two owners. Scored on the state half (UT Southwestern) because state ownership is the tier-driving fact; Children's Health's non-profit status is evidenced by ProPublica Nonprofit Explorer (EIN 75-0800628). 'serious' reflects state rather than state-fund ownership."
   },
   {
     "id": "circle-usdc",
@@ -486,13 +547,16 @@
   {
     "id": "cisco",
     "name": "Cisco",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "cisco",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Cisco Systems, Inc.. Nothing found.",
+    "claimIds": [
+      "cisco-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Used the FY2025 10-K; ownership is disclosed by incorporation into the proxy, which shows no 5%+ holder of note."
   },
   {
     "id": "claro",
@@ -511,13 +575,16 @@
   {
     "id": "claude",
     "name": "Claude",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "anthropic",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Anthropic PBC. Nothing found.",
+    "claimIds": [
+      "anthropic-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Stake figures come from court filings reported by NYT (Google ~14%) and from Amazon/Google quarterly disclosures for the Amazon figure; both are minority and none is controlling."
   },
   {
     "id": "clickhouse",
@@ -550,13 +617,16 @@
   {
     "id": "cognizant",
     "name": "Cognizant",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "cognizant",
+    "ownership": "owned",
+    "tier": "concern",
+    "status": "rated",
+    "verdict": "Cognizant Technology Solutions Corporation (NASDAQ: CTSH) is a US-listed IT services firm with dispersed institutional ownership and no state shareholder in any of….",
+    "claimIds": [
+      "cognizant-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Tier call is the softest in the batch - the FCPA case is real but small relative to peer sets. 'none' would be defensible."
   },
   {
     "id": "coinbase",
@@ -575,24 +645,30 @@
   {
     "id": "commscope",
     "name": "CommScope / Ruckus Networks",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "belden",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Belden Inc.. Nothing found.",
+    "claimIds": [
+      "belden-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Ambiguity flagged: the sponsor label spans 'CommScope / Ruckus' but the two brands now have different owners. Called it on Ruckus (the explicitly named brand and the product actually promoted on the Haas car) -> Belden. If the entry means CommScope the brand, the owner is Amphenol Corporation (SEC 8-K, 9 Jan 2026)."
   },
   {
     "id": "compass-minerals",
     "name": "Compass Minerals",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "compass-minerals",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Compass Minerals International, Inc.. Nothing found.",
+    "claimIds": [
+      "compass-minerals-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Koch's 16.81% is the notable structural fact; it is private capital, so no tier change. Koch does, however, have its own well-documented political and environmental record that may matter downstream in this dataset."
   },
   {
     "id": "core-scientific",
@@ -625,35 +701,43 @@
   {
     "id": "crowdstrike",
     "name": "CrowdStrike",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "crowdstrike",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by CrowdStrike Holdings, Inc.. Nothing found.",
+    "claimIds": [
+      "crowdstrike-record"
+    ],
     "aliases": []
   },
   {
     "id": "crypto-com",
     "name": "Crypto.com",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "foris-dax",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Foris DAX MT Limited (owned by Foris Holdings KY Limited). Nothing found.",
+    "claimIds": [
+      "foris-dax-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Used a US regulator document rather than a company page because it names the top-tier holding company, which the Crypto.com site does not."
   },
   {
     "id": "cynar-spritz",
     "name": "Cynar Spritz",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "davide-campari-milano",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Davide Campari-Milano N.V.. Nothing found.",
+    "claimIds": [
+      "davide-campari-milano-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Campari's own website renders client-side, so the annual report PDF was used to establish Cynar as a Campari brand. The sponsor name 'Cynar Spritz' is a brand, not an entity."
   },
   {
     "id": "damac",
@@ -672,13 +756,16 @@
   {
     "id": "dazn-bet-club",
     "name": "DAZN Bet Club",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "access-industries",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Access Industries, Inc.. Nothing found.",
+    "claimIds": [
+      "access-industries-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Blavatnik is Ukrainian-born, US/UK-resident; Access is not a Russian state vehicle, so not scored severe. The DAZN 'Bet Club' product is a DAZN betting sub-brand rather than a separate company."
   },
   {
     "id": "deel",
@@ -697,23 +784,28 @@
   {
     "id": "deghi",
     "name": "DEGHI",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "deghi",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by DEGHI S.p.A.. Nothing found.",
+    "claimIds": [
+      "deghi-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: The sponsor also appears alongside Betitaly/Betitalypay on the Lecce shirt; DEGHI is the main sponsor and the entity rated. Ownership is founder-led but no formal shareholder register is published."
   },
   {
     "id": "dell",
     "name": "Dell Technologies",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "dell-technologies",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Dell Technologies Inc.. Nothing found.",
+    "claimIds": [
+      "dell-technologies-record"
+    ],
     "aliases": []
   },
   {
@@ -736,13 +828,16 @@
   {
     "id": "dhl",
     "name": "DHL",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "deutsche-post-dhl",
+    "ownership": "owned",
+    "tier": "concern",
+    "status": "rated",
+    "verdict": "DHL Group (Deutsche Post AG) is a listed German logistics company, but it is not purely private: KfW Bankengruppe, the state-owned German development bank, holds….",
+    "claimIds": [
+      "deutsche-post-dhl-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Judgement call: 17.7% via KfW is a partial, not controlling, state stake, so 'concern' per the rubric. DHL would argue over 78% is free float and it is not state-controlled - which is why it is not 'serious'."
   },
   {
     "id": "digi",
@@ -761,34 +856,42 @@
   {
     "id": "directv",
     "name": "DirecTV",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "tpg",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by TPG Capital (TPG Inc.). Nothing found.",
+    "claimIds": [
+      "tpg-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: TPG Inc. is itself Nasdaq-listed, but DirecTV is held by TPG's private funds, so the owner type is private-company."
   },
   {
     "id": "duracell",
     "name": "Duracell",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "berkshire-hathaway",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Berkshire Hathaway Inc.. Nothing found.",
+    "claimIds": [
+      "berkshire-hathaway-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Duracell's own company page (duracell.com/company) also states the Berkshire position since 2016."
   },
   {
     "id": "el-camino-health",
     "name": "El Camino Health",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "el-camino-health",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by El Camino Health. Nothing found.",
+    "claimIds": [
+      "el-camino-health-record"
+    ],
     "aliases": []
   },
   {
@@ -809,13 +912,16 @@
   {
     "id": "eni",
     "name": "Eni",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "eni",
+    "ownership": "owned",
+    "tier": "serious",
+    "status": "rated",
+    "verdict": "Eni S.p.A.",
+    "claimIds": [
+      "eni-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Kept at serious rather than severe: Eni is a state oil major with conflict-zone assets but is not itself a belligerent or a Russian state entity."
   },
   {
     "id": "estrella-galicia",
@@ -851,68 +957,84 @@
   {
     "id": "etoro",
     "name": "eToro",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "etoro",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by eToro Group Ltd.. Nothing found.",
+    "claimIds": [
+      "etoro-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Corrected from the blank owner in the input: eToro listed in May 2025, so its owner is a public float with founder control, not a private company."
   },
   {
     "id": "eurobet-live",
     "name": "Eurobet.live",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "entain-plc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Entain plc. Nothing found.",
+    "claimIds": [
+      "entain-plc-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Entain ownership corroborated by SportBusiness ('Entain-owned infotainment platform') which is paywalled; no primary corporate filing opened for the Eurobet.live brand entity itself, hence medium confidence."
   },
   {
     "id": "expedia",
     "name": "Expedia",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "expedia-group-inc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Expedia Group, Inc.. Nothing found.",
+    "claimIds": [
+      "expedia-group-inc-record"
+    ],
     "aliases": []
   },
   {
     "id": "experience-kissimmee",
     "name": "Experience Kissimmee",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "osceola-county-tourism-authority",
+    "ownership": "owned",
+    "tier": "serious",
+    "status": "rated",
+    "verdict": "Experience Kissimmee is not a company: it is the official destination marketing authority for Osceola County, Florida, funded from the county's Tourist Development….",
+    "claimIds": [
+      "osceola-county-tourism-authority-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: County-level rather than national, so 'concern' would also be defensible; called 'serious' because the rubric gives 'serious' for any state or state-fund owner. Public funding confirmed in Experience Kissimmee's own 26-27 Grants Manual citing the Tourist Development Tax."
   },
   {
     "id": "extreme-networks",
     "name": "Extreme Networks",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "extreme-networks-inc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Extreme Networks, Inc.. Nothing found.",
+    "claimIds": [
+      "extreme-networks-inc-record"
+    ],
     "aliases": []
   },
   {
     "id": "fix-network",
     "name": "FIX Network",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "mondofix-inc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Mondofix Inc. (dba Fix Network World). Nothing found.",
+    "claimIds": [
+      "mondofix-inc-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: The group publishes no share register; 'largest shareholder' and 'majority control' are the company's own words. No state or PE owner identified."
   },
   {
     "id": "flexicar",
@@ -931,23 +1053,27 @@
   {
     "id": "ford",
     "name": "Ford / Ford Racing",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "ford-motor-company",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Ford Motor Company. Nothing found.",
+    "claimIds": [
+      "ford-motor-company-record"
+    ],
     "aliases": []
   },
   {
     "id": "ford-rb",
     "name": "Ford Racing",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "ford-motor-company",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Ford Motor Company. Nothing found.",
+    "claimIds": [
+      "ford-motor-company-record"
+    ],
     "aliases": []
   },
   {
@@ -1009,34 +1135,41 @@
   {
     "id": "geely-auto-uk",
     "name": "Geely Auto UK",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "zhejiang-geely-holding-group",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Zhejiang Geely Holding Group Co., Ltd.. Nothing found.",
+    "claimIds": [
+      "zhejiang-geely-holding-group-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Geely Holding has had state-linked co-investors and provincial funds at points, but the disclosed ultimate beneficial owner is Li Shufu, so no material state stake was established."
   },
   {
     "id": "gillette",
     "name": "Gillette",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "procter-and-gamble",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by The Procter & Gamble Company. Nothing found.",
+    "claimIds": [
+      "procter-and-gamble-record"
+    ],
     "aliases": []
   },
   {
     "id": "google",
     "name": "Google",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "alphabet-inc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Alphabet Inc.. Nothing found.",
+    "claimIds": [
+      "alphabet-inc-record"
+    ],
     "aliases": []
   },
   {
@@ -1056,35 +1189,42 @@
   {
     "id": "guidehouse",
     "name": "Guidehouse",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "bain-capital",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Bain Capital, LP (Bain Capital Private Equity). Nothing found.",
+    "claimIds": [
+      "bain-capital-record"
+    ],
     "aliases": []
   },
   {
     "id": "gulf-oil",
     "name": "Gulf Oil International",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "hinduja-group",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Hinduja Group (Hinduja family). Nothing found.",
+    "claimIds": [
+      "hinduja-group-record"
+    ],
     "aliases": []
   },
   {
     "id": "gulf-oil-w",
     "name": "Gulf Oil International",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "hinduja-group",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Hinduja Group (Hinduja family). Nothing found.",
+    "claimIds": [
+      "hinduja-group-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Same ultimate owner for the Williams partnership as for the McLaren deal; Hinduja Group is family-held, so no state stake."
   },
   {
     "id": "halo",
@@ -1131,45 +1271,54 @@
   {
     "id": "herbalife",
     "name": "Herbalife",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "herbalife-ltd",
+    "ownership": "owned",
+    "tier": "concern",
+    "status": "rated",
+    "verdict": "Herbalife, the LA Galaxy front sponsor, is listed on the NYSE (HLF) with a public float and no state stake.",
+    "claimIds": [
+      "herbalife-ltd-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: The 2016 FTC action is dated but is still the defining regulatory finding; Herbalife has had no state or conflict link."
   },
   {
     "id": "hibob",
     "name": "HiBob",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "hibob",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by HiBob (Bob). Nothing found.",
+    "claimIds": [
+      "hibob-record"
+    ],
     "aliases": []
   },
   {
     "id": "honda",
     "name": "Honda / Honda Racing Corporation",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "honda-motor-co-ltd",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Honda Motor Co., Ltd.. Nothing found.",
+    "claimIds": [
+      "honda-motor-co-ltd-record"
+    ],
     "aliases": []
   },
   {
     "id": "hp",
     "name": "HP",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "hp-inc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by HP Inc.. Nothing found.",
+    "claimIds": [
+      "hp-inc-record"
+    ],
     "aliases": []
   },
   {
@@ -1231,13 +1380,16 @@
   {
     "id": "ifs",
     "name": "IFS",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "ifs-ab",
+    "ownership": "owned",
+    "tier": "concern",
+    "status": "rated",
+    "verdict": "IFS, the Cadillac F1 partner, is controlled by private equity: EQT holds control and Hg became a co-control shareholder in April 2025, with TA Associates and new….",
+    "claimIds": [
+      "ifs-ab-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: EQT itself is a listed Swedish PE firm, so the chain has both listed-PE and private-fund layers; ADIA's entry is minority, hence 'concern'."
   },
   {
     "id": "indeed",
@@ -1256,57 +1408,70 @@
   {
     "id": "ineos-s",
     "name": "INEOS",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "ineos-group-limited",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by INEOS Group Limited. Nothing found.",
+    "claimIds": [
+      "ineos-group-limited-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Ratcliffe's majority stake and the Currie/Reece minority are well reported but not on the page opened; the page does confirm private ownership and Ratcliffe's chairmanship. Tier kept 'none' on ownership grounds rather than 'concern' on the petrochemicals record."
   },
   {
     "id": "io-sono-friuli-venezia-giulia",
     "name": "Io sono Friuli Venezia Giulia",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "friuli-venezia-giulia-region",
+    "ownership": "owned",
+    "tier": "serious",
+    "status": "rated",
+    "verdict": "The Udinese front brand 'Io sono Friuli Venezia Giulia' is bought by the Friuli Venezia Giulia regional government through PromoTurismoFVG, the region's public….",
+    "claimIds": [
+      "friuli-venezia-giulia-region-record"
+    ],
     "aliases": []
   },
   {
     "id": "jeep",
     "name": "Jeep (with Visit Detroit)",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "stellantis-nv",
+    "ownership": "owned",
+    "tier": "concern",
+    "status": "rated",
+    "verdict": "Jeep (with Visit Detroit) on the Juventus front is a brand of Stellantis N.V., the Amsterdam-domiciled, NYSE/Euronext-listed automaker.",
+    "claimIds": [
+      "stellantis-nv-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: The 2026 20-F also records Bpifrance's loyalty-voting power; the stake is minority and doubled-voting, so 'concern' not 'serious'."
   },
   {
     "id": "jim-beam",
     "name": "Jim Beam",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "suntory-holdings",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Suntory Holdings Limited. Nothing found.",
+    "claimIds": [
+      "suntory-holdings-record"
+    ],
     "aliases": []
   },
   {
     "id": "kchat",
     "name": "KChat",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "uney-gmbh",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Uney GmbH. Nothing found.",
+    "claimIds": [
+      "uney-gmbh-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: The beneficial owners of Uney GmbH are not published; the app is developed outside the EU (Singapore contact number on the Play listing) with Swiss incorporation. Called 'none' on the absence of any identified state stake."
   },
   {
     "id": "knox-hydration",
@@ -1409,24 +1574,30 @@
   {
     "id": "lenovo",
     "name": "Lenovo",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "lenovo-group-ltd",
+    "ownership": "owned",
+    "tier": "concern",
+    "status": "rated",
+    "verdict": "Lenovo, Formula 1's league-level partner, is listed in Hong Kong (992) and its largest shareholder is Legend Holdings Corporation with about 31.4% - Legend's own….",
+    "claimIds": [
+      "lenovo-group-ltd-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Legend Holdings holds 31.41% of Lenovo (also confirmed on Lenovo's own IR shareholding page); CAS Holdings held ~29.04% of Legend. Control runs through a listed holding company, so the state's effective economic interest is under 10% - hence 'concern'."
   },
   {
     "id": "lete",
     "name": "Lete",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "sgam-spa",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Societa Generale delle Acque Minerali S.p.A. (Acqua Lete). Nothing found.",
+    "claimIds": [
+      "sgam-spa-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: No published shareholder register found; family control inferred from the CEO being the fourth generation of the owning family plus Italian press describing it as a family structure."
   },
   {
     "id": "lexware",
@@ -1445,13 +1616,16 @@
   {
     "id": "liberty-broker",
     "name": "Libertex",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "libertex-group",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Libertex Group / Indication Investments Ltd. Nothing found.",
+    "claimIds": [
+      "libertex-group-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Post-2022 succession of Taran's controlling stake is not publicly detailed; the Libertex/Forex Club group remains privately held with no disclosed state shareholder."
   },
   {
     "id": "maaden",
@@ -1470,12 +1644,14 @@
   {
     "id": "mapei",
     "name": "Mapei",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "mapei-spa",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Mapei S.p.A.. Nothing found.",
+    "claimIds": [
+      "mapei-spa-record"
+    ],
     "aliases": []
   },
   {
@@ -1495,12 +1671,14 @@
   {
     "id": "mastercard",
     "name": "Mastercard",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "mastercard-inc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Mastercard Incorporated. Nothing found.",
+    "claimIds": [
+      "mastercard-inc-record"
+    ],
     "aliases": []
   },
   {
@@ -1520,46 +1698,55 @@
   {
     "id": "mcvities",
     "name": "McVitie's",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "yildiz-holding",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Yildiz Holding A.S. (Ulker family). Nothing found.",
+    "claimIds": [
+      "yildiz-holding-record"
+    ],
     "aliases": []
   },
   {
     "id": "md-anderson-cancer-center",
     "name": "MD Anderson Cancer Center",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "university-of-texas-system",
+    "ownership": "owned",
+    "tier": "serious",
+    "status": "rated",
+    "verdict": "MD Anderson, the Houston Dynamo front sponsor, is a component institution of the University of Texas System - its own about page states it is part of the UT….",
+    "claimIds": [
+      "university-of-texas-system-record"
+    ],
     "aliases": []
   },
   {
     "id": "mediacom",
     "name": "Mediacom",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "mediacom-communications-corp",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Mediacom Communications Corporation. Nothing found.",
+    "claimIds": [
+      "mediacom-communications-corp-record"
+    ],
     "aliases": []
   },
   {
     "id": "mercy-health",
     "name": "Mercy Health",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "bon-secours-mercy-health",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Bon Secours Mercy Health (Mercy Health, Ohio and Kentucky). Nothing found.",
+    "claimIds": [
+      "bon-secours-mercy-health-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Nonprofits have no 'owner', so type was recorded as private-company; the Bon Secours Mercy Health parentage is in press coverage rather than on the page opened."
   },
   {
     "id": "mgm-rewards",
@@ -1578,12 +1765,14 @@
   {
     "id": "microsoft",
     "name": "Microsoft",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "microsoft-corporation",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Microsoft Corporation. Nothing found.",
+    "claimIds": [
+      "microsoft-corporation-record"
+    ],
     "aliases": []
   },
   {
@@ -1603,24 +1792,30 @@
   {
     "id": "mobil-1",
     "name": "Mobil 1 / Esso",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "exxon-mobil-corporation",
+    "ownership": "owned",
+    "tier": "concern",
+    "status": "rated",
+    "verdict": "Mobil 1 (and Esso) is the Oracle Red Bull Racing fuel/lubricants partner and is a brand of Exxon Mobil Corporation (NYSE: XOM), the New Jersey-incorporated oil….",
+    "claimIds": [
+      "exxon-mobil-corporation-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Judgement call: the tier reflects corporate conduct (pollution/climate) rather than any state stake; a stricter 'state-only' reading would make it 'none'."
   },
   {
     "id": "mobil-1-rb",
     "name": "Mobil 1",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "exxon-mobil-corporation",
+    "ownership": "owned",
+    "tier": "concern",
+    "status": "rated",
+    "verdict": "Mobil 1 (and Esso) is the Racing Bulls fuel/lubricants partner and is a brand of Exxon Mobil Corporation (NYSE: XOM), the New Jersey-incorporated oil major with a….",
+    "claimIds": [
+      "exxon-mobil-corporation-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Judgement call: the tier reflects corporate conduct (pollution/climate) rather than any state stake; a stricter 'state-only' reading would make it 'none'."
   },
   {
     "id": "monzo",
@@ -1639,46 +1834,57 @@
   {
     "id": "mrq",
     "name": "MrQ",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "tek-fox-ltd",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Tek Fox Ltd (MrQ). Nothing found.",
+    "claimIds": [
+      "tek-fox-ltd-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: The beneficial owners behind Tek Fox Ltd are not published; the founder/majority owner is reported as Savvas Fellas (Lindar Media). No state stake identified."
   },
   {
     "id": "msc-cruises",
     "name": "MSC Cruises",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "ownerId": "msc-group-aponte-family",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Mediterranean Shipping Company (MSC Group) - Aponte family. Nothing found.",
+    "claimIds": [
+      "msc-group-aponte-family-record"
+    ],
     "aliases": []
   },
   {
     "id": "nationwide",
     "name": "Nationwide",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "nationwide-mutual-insurance-company",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Nationwide Mutual Insurance Company. Nothing found.",
+    "claimIds": [
+      "nationwide-mutual-insurance-company-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Type recorded as private-company because the schema has no 'mutual' option; the release confirms Nationwide Mutual Insurance Company as the mark owner."
   },
   {
     "id": "netapp",
     "name": "NetApp",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "netapp-inc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by NetApp, Inc.. Nothing found.",
+    "claimIds": [
+      "netapp-inc-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: No state or state-fund holder identified."
   },
   {
     "id": "noon",
@@ -1698,13 +1904,16 @@
   {
     "id": "nouryon",
     "name": "Nouryon",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "carlyle-group-and-gic",
+    "ownership": "owned",
+    "tier": "concern",
+    "status": "rated",
+    "verdict": "Nouryon (formerly AkzoNobel Specialty Chemicals) is a privately held Dutch specialty chemicals group bought in 2018 for EUR 10.1bn and jointly owned by….",
+    "claimIds": [
+      "carlyle-group-and-gic-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Tiered 'concern' not 'serious' because GIC co-owns with private-equity capital rather than holding 100%. Nouryon does not publish an exact split; 'jointly owned' implies broadly equal stakes."
   },
   {
     "id": "okx",
@@ -1723,24 +1932,30 @@
   {
     "id": "oracle",
     "name": "Oracle",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "oracle-corporation",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Oracle Corporation. Nothing found.",
+    "claimIds": [
+      "oracle-corporation-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Ellison's ~40.6% stake is personal, not state."
   },
   {
     "id": "orlando-health",
     "name": "Orlando Health",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "orlando-health-inc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Orlando Health, Inc.. Nothing found.",
+    "claimIds": [
+      "orlando-health-inc-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Non-profit classified under private-company; no state funding owner, though it does receive public reimbursement as a hospital system."
   },
   {
     "id": "pamesa-ceramica",
@@ -1787,29 +2002,35 @@
   {
     "id": "pirelli",
     "name": "Pirelli",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "sinochem-holdings",
+    "ownership": "owned",
+    "tier": "serious",
+    "status": "rated",
+    "verdict": "Pirelli & C.",
+    "claimIds": [
+      "sinochem-holdings-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: State stake is being reduced (talk of a further cut toward 10%) but Sinochem remained Pirelli's second-largest shareholder after the July 2026 sale, so 'serious' still stands. Camfin (Tronchetti Provera family) is the largest holder."
   },
   {
     "id": "play",
     "name": "Play (Ed Sheeran 'Play' tour)",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "ed-sheeran",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Ed Sheeran / 'Play' tour (private individual). Nothing found.",
+    "claimIds": [
+      "ed-sheeran-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Owner is a natural person, not a company, so type is mapped to private-company. Sheeran is also a minority shareholder in Ipswich Town, which can make the arrangement look corporate when it is personal."
   },
   {
     "id": "plenitude",
     "name": "Plenitude",
-    "ownerId": "eni-spa",
+    "ownerId": "eni",
     "ownership": "owned",
     "tier": "concern",
     "status": "rated",
@@ -1823,80 +2044,100 @@
   {
     "id": "polymarket",
     "name": "Polymarket",
-    "ownerId": "blockratize",
+    "ownerId": "blockratize-inc",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Blockratize, Inc. (dba Polymarket). Nothing found.",
+    "claimIds": [
+      "blockratize-inc-record"
+    ],
     "aliases": [],
-    "note": "Crypto prediction market. Not an ADM-licensed operator in Italy, so the Lazio deal is branded on its information site."
+    "note": "Rating note: ICE's investment (reported ~USD 2bn, with a further USD 600m in 2026) is minority; ownership of the wider Polymarket structure is unusually opaque, but no state owner is evident. The supplied currentOwnerId 'blockratize' was correct; normalised to blockratize-inc."
   },
   {
     "id": "prometeon",
     "name": "Prometeon",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "sinochem-holdings",
+    "ownership": "owned",
+    "tier": "serious",
+    "status": "rated",
+    "verdict": "Prometeon Tyre Group, the truck/agro tyre business spun out of Pirelli in 2017, is controlled through China National Tire & Rubber Co.",
+    "claimIds": [
+      "sinochem-holdings-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Sinochem's own newsroom carries the same 38% CNRC/Prometeon transaction, confirming the state chain."
   },
   {
     "id": "providence",
     "name": "Providence",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "providence-health-system",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Providence (Providence Health & Services / Providence Swedish). Nothing found.",
+    "claimIds": [
+      "providence-health-system-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Catholic non-profit; some would flag religious-ethics issues, not state ownership."
   },
   {
     "id": "pulsee-luce-e-gas",
     "name": "Pulsee Luce e Gas",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "axpo-holding-ag",
+    "ownership": "owned",
+    "tier": "serious",
+    "status": "rated",
+    "verdict": "Pulsee Luce e Gas is the digital retail energy brand of Axpo Italia, a subsidiary of Axpo Holding AG.",
+    "claimIds": [
+      "axpo-holding-ag-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Cantons are treated as 'state' (public-law bodies), which is why this lands at 'serious' rather than 'none'. The shareholder table on the page carries a 2014 date but the structure is current."
   },
   {
     "id": "puma",
     "name": "PUMA",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "anta-sports-products",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by ANTA Sports Products Limited. Nothing found.",
+    "claimIds": [
+      "anta-sports-products-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Deal signed Jan 2026 and cleared by Chinese and Indian competition authorities; completion by the time of writing is assumed but not separately confirmed. Puma delivered 'none' because ANTA has no material state stake - worth revisiting if a state fund takes a position."
   },
   {
     "id": "puma-am",
     "name": "PUMA",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "anta-sports-products",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by ANTA Sports Products Limited. Nothing found.",
+    "claimIds": [
+      "anta-sports-products-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Duplicate of the 'puma' sponsor record on a different car; kept separate because the dataset lists them separately."
   },
   {
     "id": "purina",
     "name": "Purina",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "nestle-sa",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Nestle S.A.. Nothing found.",
+    "claimIds": [
+      "nestle-sa-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: nestle.com blocks direct scraping (403); the Annual Review PDF was opened via extractor. Purina is a subsidiary brand of Nestle S.A."
   },
   {
     "id": "qatar-airways",
@@ -1915,24 +2156,30 @@
   {
     "id": "qatar-airways-global",
     "name": "Qatar Airways",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "state-of-qatar-qia",
+    "ownership": "owned",
+    "tier": "serious",
+    "status": "rated",
+    "verdict": "Qatar Airways is wholly owned by the State of Qatar, held through the Qatar Investment Authority sovereign wealth fund, and appears in QIA's domestic portfolio….",
+    "claimIds": [
+      "state-of-qatar-qia-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Called 'serious' rather than 'severe': Qatar is not a party to an ongoing armed conflict. Stake is arguably indirect (QIA + Ministry of Finance), but the state owns 100%."
   },
   {
     "id": "qualcomm",
     "name": "Qualcomm Snapdragon",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "qualcomm-incorporated",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by QUALCOMM Incorporated. Nothing found.",
+    "claimIds": [
+      "qualcomm-incorporated-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: No state stake identified."
   },
   {
     "id": "raisin",
@@ -1979,13 +2226,16 @@
   {
     "id": "renasant-bank",
     "name": "Renasant Bank",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "renasant-corporation",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Renasant Corporation. Nothing found.",
+    "claimIds": [
+      "renasant-corporation-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Bank regulation gives government-adjacent exposure but no equity stake."
   },
   {
     "id": "reuter",
@@ -2049,24 +2299,30 @@
   {
     "id": "royal-caribbean",
     "name": "Royal Caribbean",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "royal-caribbean-cruises-ltd",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Royal Caribbean Cruises Ltd.. Nothing found.",
+    "claimIds": [
+      "royal-caribbean-cruises-ltd-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Liberian-incorporated but US-listed; no flag-of-convenience state owner."
   },
   {
     "id": "s-3m",
     "name": "3M",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "3m-company",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by 3M Company. Nothing found.",
+    "claimIds": [
+      "3m-company-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Serious conduct record but private owner, so 'none' under the ownership-led method rather than 'concern'."
   },
   {
     "id": "sabor-a-malaga",
@@ -2113,24 +2369,30 @@
   {
     "id": "saputo",
     "name": "Saputo",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "saputo-inc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Saputo Inc.. Nothing found.",
+    "claimIds": [
+      "saputo-inc-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Judgement call: CDPQ's ~4.5% was treated as too small to justify 'concern'. Raise it if the dataset wants any state-fund presence flagged."
   },
   {
     "id": "sardegna-turismo",
     "name": "Sardegna Turismo / Doppio Malto",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "regione-autonoma-della-sardegna",
+    "ownership": "owned",
+    "tier": "serious",
+    "status": "rated",
+    "verdict": "The 'Sardegna' branding on the Cagliari front shirt is the tourism promotion of the Autonomous Region of Sardinia, run by its regional tourism department….",
+    "claimIds": [
+      "regione-autonoma-della-sardegna-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Sponsor is a hybrid: regional state tourism body plus private brewery, and Cagliari has rotated sponsors (Banco di Sardegna, Moby). Call is driven by the state-side branding; if the exposure is judged to be Doppio Malto alone the tier would drop to 'none'."
   },
   {
     "id": "sela",
@@ -2150,13 +2412,16 @@
   {
     "id": "select-health",
     "name": "Select Health",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "intermountain-health",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Intermountain Health. Nothing found.",
+    "claimIds": [
+      "intermountain-health-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Select Health's own page describes integration with Intermountain Health; it also works with UCHealth in Colorado, which is a separate non-profit."
   },
   {
     "id": "sesame-hr",
@@ -2189,24 +2454,30 @@
   {
     "id": "shuffle",
     "name": "Shuffle",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "natural-nine-bv",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Natural Nine B.V.. Nothing found.",
+    "claimIds": [
+      "natural-nine-bv-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Natural Nine B.V. is the disclosed operator; the ultimate beneficial owners behind it are not clearly published (reported founders include Darcy Spangler, Noah Dummett and Harley Fresh) and the Curaçao licensing regime is lightly supervised. Tier 'none' because no state element is evident - not because the chain is transparent."
   },
   {
     "id": "siemens",
     "name": "Siemens",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "siemens-ag",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Siemens AG. Nothing found.",
+    "claimIds": [
+      "siemens-ag-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Ownership is dispersed; no state stake. Conduct record (e.g. historic bribery, gas-turbine/Siemens Energy split) is not state-related."
   },
   {
     "id": "singha",
@@ -2253,13 +2524,16 @@
   {
     "id": "stake",
     "name": "Stake",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "easygo",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Easygo (Medium Rare N.V. trading entity). Nothing found.",
+    "claimIds": [
+      "easygo-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: The stake.com terms page is JavaScript-heavy, so the ownership sentence was read from the page's terms text; the Easygo/Craven/Tehrani link comes from secondary coverage rather than a filing. Curaçao-licensed, so no regulator-disclosed ownership."
   },
   {
     "id": "standard-chartered",
@@ -2278,57 +2552,72 @@
   {
     "id": "sumup",
     "name": "SumUp",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "sumup-ltd",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by SumUp Ltd. Nothing found.",
+    "claimIds": [
+      "sumup-ltd-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Investor list is from 2022; later rounds (2025, led by Sixth Street Growth with Bain) added no state investor. SumUp's holding structure is private so an undisclosed minority state fund cannot be fully excluded."
   },
   {
     "id": "suzuki",
     "name": "Suzuki",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "suzuki-motor-corporation",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Suzuki Motor Corporation. Nothing found.",
+    "claimIds": [
+      "suzuki-motor-corporation-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: No state stake; the PDF extract was thin, so the ownership conclusion rests on the listed, dispersed structure rather than a quoted holder table."
   },
   {
     "id": "tag-heuer",
     "name": "TAG Heuer",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "lvmh",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by LVMH Moet Hennessy Louis Vuitton SE. Nothing found.",
+    "claimIds": [
+      "lvmh-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Owner is LVMH rather than TAG Heuer itself - the brand is a subsidiary, not a shareholder-level entity."
   },
   {
     "id": "target",
     "name": "Target",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "target-corporation",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Target Corporation. Nothing found.",
+    "claimIds": [
+      "target-corporation-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: No state stake identified."
   },
   {
     "id": "teamviewer",
     "name": "TeamViewer",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "teamviewer-se",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by TeamViewer SE. Nothing found.",
+    "claimIds": [
+      "teamviewer-se-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Largest individual holders sit just under the 3% reporting threshold; none identified as state-linked."
   },
   {
     "id": "tecnocasa-group",
@@ -2347,13 +2636,16 @@
   {
     "id": "telus",
     "name": "Telus",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "telus-corporation",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by TELUS Corporation. Nothing found.",
+    "claimIds": [
+      "telus-corporation-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: No state stake; Canadian pension funds are minority institutional holders only."
   },
   {
     "id": "temporal",
@@ -2372,24 +2664,30 @@
   {
     "id": "tenneco",
     "name": "Tenneco",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "apollo-global-management",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Apollo Global Management, Inc. (Apollo Funds). Nothing found.",
+    "claimIds": [
+      "apollo-global-management-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Owned by Apollo-managed funds rather than Apollo the listed entity; classified as listed-company because the ultimate parent is listed. Apollo's own investor base includes sovereign funds but none control it."
   },
   {
     "id": "tgr",
     "name": "Toyota Gazoo Racing",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "toyota-motor-corporation",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Toyota Motor Corporation. Nothing found.",
+    "claimIds": [
+      "toyota-motor-corporation-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: The 20-F carries a 5%-plus beneficial ownership table; no government holder appears. Toyota's keiretsu cross-shareholdings are private."
   },
   {
     "id": "tm-real-estate-group",
@@ -2478,35 +2776,44 @@
   {
     "id": "ubs",
     "name": "UBS",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "ubs-group-ag",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by UBS Group AG. Nothing found.",
+    "claimIds": [
+      "ubs-group-ag-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: No state stake. Note the Swiss state was famously a shareholder during 2008-2009 and again took a backstop role in the 2023 Credit Suisse rescue, but holds no ongoing equity."
   },
   {
     "id": "uchealth",
     "name": "UCHealth",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "uchealth",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by UCHealth (University of Colorado Health). Nothing found.",
+    "claimIds": [
+      "uchealth-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Judgement call: the University of Colorado link is public-sector-adjacent but UCHealth is a separate 501(c)(3), so 'none'. UCHealth in Colorado also works with Select Health."
   },
   {
     "id": "unicredit",
     "name": "UniCredit",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "unicredit-spa",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by UniCredit S.p.A.. Nothing found.",
+    "claimIds": [
+      "unicredit-spa-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Judgement call: ~6% aggregate SWF holding was judged too small and too dispersed to lift this to 'concern'. Italian banking foundations (private-law entities) hold the rest of the notable blocks."
   },
   {
     "id": "uralkali",
@@ -2525,35 +2832,44 @@
   {
     "id": "valvoline",
     "name": "Valvoline Global Operations",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "saudi-aramco",
+    "ownership": "owned",
+    "tier": "serious",
+    "status": "rated",
+    "verdict": "Valvoline Global Operations is the former Valvoline Inc.",
+    "claimIds": [
+      "saudi-aramco-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Called 'serious' not 'severe' under the Gulf-state rule. Saudi Arabia is a party to the Yemen conflict but large-scale coalition operations have wound down; if the dataset treats Yemen as live, this and Aramco's other sponsorships would move to 'severe'."
   },
   {
     "id": "visa",
     "name": "Visa",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "visa-inc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Visa Inc.. Nothing found.",
+    "claimIds": [
+      "visa-inc-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: No state stake identified."
   },
   {
     "id": "visa-rb",
     "name": "Visa",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "visa-inc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by Visa Inc.. Nothing found.",
+    "claimIds": [
+      "visa-inc-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: Duplicate sponsor record for a second car; same owner resolved."
   },
   {
     "id": "visit-qatar",
@@ -2647,13 +2963,16 @@
   {
     "id": "yeti",
     "name": "YETI",
-    "ownerId": null,
-    "ownership": null,
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "ownerId": "yeti-holdings-inc",
+    "ownership": "owned",
+    "tier": "none",
+    "status": "rated",
+    "verdict": "Owned by YETI Holdings, Inc.. Nothing found.",
+    "claimIds": [
+      "yeti-holdings-inc-record"
+    ],
+    "aliases": [],
+    "note": "Rating note: No state stake identified."
   },
   {
     "id": "zoomex",

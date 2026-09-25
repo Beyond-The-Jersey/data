@@ -31,10 +31,10 @@
       "name": "Play (Ed Sheeran 'Play' tour)",
       "placement": "sleeve",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "ed-sheeran",
+      "owner": "Ed Sheeran / 'Play' tour (private individual)",
+      "verdict": "Owned by Ed Sheeran / 'Play' tour (private individual). Nothing found.",
       "source": {
         "name": "Ipswich Town FC – '2026/27 KITS REVEALED'",
         "date": "2026-07-03",
@@ -44,6 +44,7 @@
   ],
   "worstTier": "none",
   "owners": [
+    "ed-sheeran",
     "halo-lifestyle-llc"
   ],
   "lastUpdated": "2026-09-24"

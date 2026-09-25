@@ -18,10 +18,10 @@
       "name": "Children's Health (home) / UT Southwestern Medical Center (away)",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "serious",
+      "ownerId": "ut-southwestern-medical-center",
+      "owner": "The University of Texas Southwestern Medical Center",
+      "verdict": "This is a split patch sponsor: Children's Health (home kit) is a private 501(c)(3) non-profit - Children's Health System of Texas, EIN 75-0800628 - while UT….",
       "source": {
         "name": "FOR SOCCER",
         "date": "2026-02-17",
@@ -29,7 +29,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
-  "owners": [],
+  "worstTier": "serious",
+  "owners": [
+    "ut-southwestern-medical-center"
+  ],
   "lastUpdated": "2026-09-24"
 }

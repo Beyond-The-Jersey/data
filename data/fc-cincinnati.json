@@ -18,10 +18,10 @@
       "name": "Mercy Health",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "bon-secours-mercy-health",
+      "owner": "Bon Secours Mercy Health (Mercy Health, Ohio and Kentucky)",
+      "verdict": "Owned by Bon Secours Mercy Health (Mercy Health, Ohio and Kentucky). Nothing found.",
       "source": {
         "name": "FOR SOCCER",
         "date": "2026-02-17",
@@ -29,7 +29,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
-  "owners": [],
+  "worstTier": "none",
+  "owners": [
+    "bon-secours-mercy-health"
+  ],
   "lastUpdated": "2026-09-24"
 }

@@ -29,10 +29,10 @@
       "name": "Ford Racing",
       "placement": "sleeve",
       "season": "2026",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "ford-motor-company",
+      "owner": "Ford Motor Company",
+      "verdict": "Owned by Ford Motor Company. Nothing found.",
       "source": {
         "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
         "date": "2026-09-24",
@@ -59,10 +59,10 @@
       "name": "Mobil 1",
       "placement": "partner",
       "season": "2026",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "concern",
+      "ownerId": "exxon-mobil-corporation",
+      "owner": "Exxon Mobil Corporation",
+      "verdict": "Mobil 1 (and Esso) is the Racing Bulls fuel/lubricants partner and is a brand of Exxon Mobil Corporation (NYSE: XOM), the New Jersey-incorporated oil major with a….",
       "source": {
         "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
         "date": "2026-09-24",
@@ -74,10 +74,10 @@
       "name": "Nouryon",
       "placement": "partner",
       "season": "2026",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "concern",
+      "ownerId": "carlyle-group-and-gic",
+      "owner": "The Carlyle Group and GIC (joint owners)",
+      "verdict": "Nouryon (formerly AkzoNobel Specialty Chemicals) is a privately held Dutch specialty chemicals group bought in 2018 for EUR 10.1bn and jointly owned by….",
       "source": {
         "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
         "date": "2026-09-24",
@@ -134,10 +134,10 @@
       "name": "Visa",
       "placement": "front",
       "season": "2026",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "visa-inc",
+      "owner": "Visa Inc.",
+      "verdict": "Owned by Visa Inc.. Nothing found.",
       "source": {
         "name": "Visa Investor Relations – Visa renews partnership across Red Bull Formula One teams",
         "date": "2026-02-21",
@@ -145,13 +145,17 @@
       }
     }
   ],
-  "worstTier": "none",
+  "worstTier": "concern",
   "owners": [
     "block-inc",
+    "carlyle-group-and-gic",
+    "exxon-mobil-corporation",
+    "ford-motor-company",
     "hugo-boss-ag",
     "mateschitz-yoovidhya-families",
     "rolex-sa",
-    "salesforce-inc"
+    "salesforce-inc",
+    "visa-inc"
   ],
   "lastUpdated": "2026-09-24"
 }

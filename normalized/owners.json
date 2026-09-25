@@ -7,6 +7,20 @@
     "country": "USA"
   },
   {
+    "id": "access-industries",
+    "name": "Access Industries, Inc.",
+    "type": "private-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
+    "id": "adidas-ag",
+    "name": "adidas AG",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "DE"
+  },
+  {
     "id": "agnelli-elkann",
     "name": "Agnelli/Elkann family",
     "type": "private-company",
@@ -19,6 +33,27 @@
     "type": "listed-company",
     "parentId": null,
     "country": "Hong Kong"
+  },
+  {
+    "id": "ally-financial",
+    "name": "Ally Financial Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
+    "id": "alphabet-inc",
+    "name": "Alphabet Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
+    "id": "alpinestars",
+    "name": "Alpinestars S.p.A. (Mazzarolo family)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "IT"
   },
   {
     "id": "america-movil",
@@ -35,11 +70,39 @@
     "parentId": null
   },
   {
+    "id": "american-family-mutual-insurance-company",
+    "name": "American Family Mutual Insurance Company, S.I.",
+    "type": "private-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
     "id": "amr-gp",
     "name": "AMR GP Limited",
     "type": "private-company",
     "country": "United Kingdom",
     "parentId": null
+  },
+  {
+    "id": "anta-sports-products",
+    "name": "ANTA Sports Products Limited",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "CN"
+  },
+  {
+    "id": "anthropic",
+    "name": "Anthropic PBC",
+    "type": "private-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
+    "id": "apollo-global-management",
+    "name": "Apollo Global Management, Inc. (Apollo Funds)",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
   },
   {
     "id": "arctempus",
@@ -63,6 +126,13 @@
     "parentId": null
   },
   {
+    "id": "atlassian",
+    "name": "Atlassian Corporation",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
     "id": "att-inc",
     "name": "AT&T Inc.",
     "type": "listed-company",
@@ -77,6 +147,13 @@
     "parentId": "volkswagen-ag"
   },
   {
+    "id": "axpo-holding-ag",
+    "name": "Axpo Holding AG (owned by Swiss cantons and cantonal utilities)",
+    "type": "state",
+    "parentId": null,
+    "country": "CH"
+  },
+  {
     "id": "baghdadi-capital-sa",
     "name": "Baghdadi Capital, S.A. (family office of Baihas Baghdadi)",
     "type": "private-company",
@@ -84,11 +161,67 @@
     "country": "ES"
   },
   {
+    "id": "bain-capital",
+    "name": "Bain Capital, LP (Bain Capital Private Equity)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
+    "id": "banca-popolare-del-frusinate",
+    "name": "Banca Popolare del Frusinate S.C.p.A.",
+    "type": "private-company",
+    "parentId": null,
+    "country": "IT"
+  },
+  {
+    "id": "bank-of-america",
+    "name": "Bank of America Corporation",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
+    "id": "bank-of-montreal",
+    "name": "Bank of Montreal",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "CA"
+  },
+  {
+    "id": "barclays",
+    "name": "Barclays PLC",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "GB"
+  },
+  {
     "id": "barmenia-versicherungen-ag",
     "name": "Barmenia Versicherungen a.G. (BarmeniaGothaer Group)",
     "type": "private-company",
     "parentId": null,
     "country": "DE"
+  },
+  {
+    "id": "belden",
+    "name": "Belden Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
+    "id": "berkshire-hathaway",
+    "name": "Berkshire Hathaway Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
+    "id": "betsson",
+    "name": "Betsson AB",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "SE"
   },
   {
     "id": "beumer-group",
@@ -112,11 +245,39 @@
     "country": "USA"
   },
   {
+    "id": "blockratize-inc",
+    "name": "Blockratize, Inc. (dba Polymarket)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
+    "id": "boeing",
+    "name": "The Boeing Company",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
+    "id": "bon-secours-mercy-health",
+    "name": "Bon Secours Mercy Health (Mercy Health, Ohio and Kentucky)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
     "id": "boon-rawd-brewery",
     "name": "Boon Rawd Brewery Co., Ltd. (Bhirombhakdi family)",
     "type": "private-company",
     "parentId": null,
     "country": "Thailand"
+  },
+  {
+    "id": "boylesports",
+    "name": "BoyleSports (Boyle family)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "IE"
   },
   {
     "id": "bp-plc",
@@ -126,6 +287,13 @@
     "country": "United Kingdom"
   },
   {
+    "id": "bwt-group",
+    "name": "BWT AG (WAB Group / Weissenbacher family)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "AT"
+  },
+  {
     "id": "c-hedenkamp-gmbh",
     "name": "C. Hedenkamp GmbH & Co. KG",
     "type": "private-company",
@@ -133,11 +301,32 @@
     "country": "DE"
   },
   {
+    "id": "carlyle-group-and-gic",
+    "name": "The Carlyle Group and GIC (joint owners)",
+    "type": "state-fund",
+    "parentId": null,
+    "country": "SG"
+  },
+  {
+    "id": "carvana",
+    "name": "Carvana Co.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
     "id": "circle-internet-group",
     "name": "Circle Internet Group",
     "type": "listed-company",
     "parentId": null,
     "country": "USA"
+  },
+  {
+    "id": "cisco",
+    "name": "Cisco Systems, Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
   },
   {
     "id": "clickhouse-inc",
@@ -154,11 +343,32 @@
     "country": "GB"
   },
   {
+    "id": "cognizant",
+    "name": "Cognizant Technology Solutions Corporation",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
     "id": "coinbase-global",
     "name": "Coinbase Global, Inc.",
     "type": "listed-company",
     "parentId": null,
     "country": "United States"
+  },
+  {
+    "id": "compass-minerals",
+    "name": "Compass Minerals International, Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
+    "id": "continent-gaming",
+    "name": "Continent Gaming N.V.",
+    "type": "private-company",
+    "parentId": null,
+    "country": "CW"
   },
   {
     "id": "core-scientific",
@@ -189,6 +399,20 @@
     "country": "ES"
   },
   {
+    "id": "crowdstrike",
+    "name": "CrowdStrike Holdings, Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
+    "id": "cvc-capital-partners",
+    "name": "CVC Capital Partners (CVC Fund VI)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "LU"
+  },
+  {
     "id": "cyvn",
     "name": "CYVN Holdings",
     "type": "state-fund",
@@ -203,11 +427,39 @@
     "parentId": "twg-global"
   },
   {
+    "id": "davide-campari-milano",
+    "name": "Davide Campari-Milano N.V.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "IT"
+  },
+  {
     "id": "deel-inc",
     "name": "Deel, Inc.",
     "type": "private-company",
     "parentId": null,
     "country": "US"
+  },
+  {
+    "id": "deghi",
+    "name": "DEGHI S.p.A.",
+    "type": "private-company",
+    "parentId": null,
+    "country": "IT"
+  },
+  {
+    "id": "dell-technologies",
+    "name": "Dell Technologies Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
+    "id": "deutsche-post-dhl",
+    "name": "DHL Group (Deutsche Post AG)",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "DE"
   },
   {
     "id": "deutsche-telekom-ag",
@@ -245,11 +497,39 @@
     "parentId": null
   },
   {
-    "id": "eni-spa",
-    "name": "Eni S.p.A. (Plenitude S.p.A. subsidiary)",
-    "type": "listed-company",
+    "id": "easygo",
+    "name": "Easygo (Medium Rare N.V. trading entity)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "AU"
+  },
+  {
+    "id": "ed-sheeran",
+    "name": "Ed Sheeran / 'Play' tour (private individual)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "GB"
+  },
+  {
+    "id": "el-camino-health",
+    "name": "El Camino Health",
+    "type": "private-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
+    "id": "eni",
+    "name": "Eni S.p.A.",
+    "type": "state",
     "parentId": null,
     "country": "IT"
+  },
+  {
+    "id": "entain-plc",
+    "name": "Entain plc",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "GB"
   },
   {
     "id": "essilorluxottica",
@@ -259,11 +539,39 @@
     "country": "France/Italy"
   },
   {
+    "id": "etoro",
+    "name": "eToro Group Ltd.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "IL"
+  },
+  {
     "id": "exor-nv",
     "name": "Exor N.V.",
     "type": "listed-company",
     "country": "Netherlands",
     "parentId": null
+  },
+  {
+    "id": "expedia-group-inc",
+    "name": "Expedia Group, Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
+    "id": "extreme-networks-inc",
+    "name": "Extreme Networks, Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
+    "id": "exxon-mobil-corporation",
+    "name": "Exxon Mobil Corporation",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
   },
   {
     "id": "federal-republic-of-germany",
@@ -294,11 +602,32 @@
     "country": "ES"
   },
   {
+    "id": "ford-motor-company",
+    "name": "Ford Motor Company",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
+    "id": "foris-dax",
+    "name": "Foris DAX MT Limited (owned by Foris Holdings KY Limited)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "KY"
+  },
+  {
     "id": "french-state",
     "name": "French State via APE",
     "type": "state",
     "country": "France",
     "parentId": "renault-group"
+  },
+  {
+    "id": "friuli-venezia-giulia-region",
+    "name": "Regione Autonoma Friuli Venezia Giulia (via PromoTurismoFVG)",
+    "type": "state",
+    "parentId": null,
+    "country": "IT"
   },
   {
     "id": "fundacion-1890",
@@ -394,6 +723,13 @@
     "country": "CN"
   },
   {
+    "id": "grupo-bimbo",
+    "name": "Grupo Bimbo, S.A.B. de C.V.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "MX"
+  },
+  {
     "id": "grupo-saltoki",
     "name": "Grupo Saltoki (Comercial de Suministros, S.A.)",
     "type": "private-company",
@@ -450,6 +786,41 @@
     "country": "DE"
   },
   {
+    "id": "herbalife-ltd",
+    "name": "Herbalife Ltd.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
+    "id": "hibob",
+    "name": "HiBob (Bob)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "IL"
+  },
+  {
+    "id": "hinduja-group",
+    "name": "Hinduja Group (Hinduja family)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "GB"
+  },
+  {
+    "id": "honda-motor-co-ltd",
+    "name": "Honda Motor Co., Ltd.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "JP"
+  },
+  {
+    "id": "hp-inc",
+    "name": "HP Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
     "id": "hugo-boss-ag",
     "name": "HUGO BOSS AG",
     "type": "listed-company",
@@ -464,6 +835,13 @@
     "country": "United States"
   },
   {
+    "id": "ifs-ab",
+    "name": "IFS AB (Industrial and Financial Systems)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "SE"
+  },
+  {
     "id": "indeed-inc",
     "name": "Indeed, Inc.",
     "type": "private-company",
@@ -476,6 +854,20 @@
     "type": "private-company",
     "country": "United Kingdom",
     "parentId": null
+  },
+  {
+    "id": "ineos-group-limited",
+    "name": "INEOS Group Limited",
+    "type": "private-company",
+    "parentId": null,
+    "country": "GB"
+  },
+  {
+    "id": "intermountain-health",
+    "name": "Intermountain Health",
+    "type": "private-company",
+    "parentId": null,
+    "country": "US"
   },
   {
     "id": "international-capital-markets",
@@ -556,11 +948,39 @@
     "via": "Land Baden-Wuerttemberg"
   },
   {
+    "id": "lenovo-group-ltd",
+    "name": "Lenovo Group Limited",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "HK"
+  },
+  {
     "id": "lexware-gmbh",
     "name": "Lexware (Haufe Group)",
     "type": "private-company",
     "parentId": null,
     "country": "Germany"
+  },
+  {
+    "id": "libertex-group",
+    "name": "Libertex Group / Indication Investments Ltd",
+    "type": "private-company",
+    "parentId": null,
+    "country": "CY"
+  },
+  {
+    "id": "lvmh",
+    "name": "LVMH Moet Hennessy Louis Vuitton SE",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "FR"
+  },
+  {
+    "id": "mapei-spa",
+    "name": "Mapei S.p.A.",
+    "type": "private-company",
+    "parentId": null,
+    "country": "IT"
   },
   {
     "id": "maple-invest",
@@ -582,6 +1002,13 @@
     "type": "private-company",
     "country": "Austria",
     "parentId": "mateschitz-yoovidhya-families"
+  },
+  {
+    "id": "mastercard-inc",
+    "name": "Mastercard Incorporated",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
   },
   {
     "id": "mateschitz-yoovidhya-families",
@@ -612,6 +1039,13 @@
     "parentId": null
   },
   {
+    "id": "mediacom-communications-corp",
+    "name": "Mediacom Communications Corporation",
+    "type": "private-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
     "id": "mercedes-benz-group",
     "name": "Mercedes-Benz Group AG",
     "type": "listed-company",
@@ -624,6 +1058,13 @@
     "type": "listed-company",
     "parentId": null,
     "country": "United States"
+  },
+  {
+    "id": "microsoft-corporation",
+    "name": "Microsoft Corporation",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
   },
   {
     "id": "mk-sports-news",
@@ -640,8 +1081,22 @@
     "country": "China"
   },
   {
+    "id": "mondofix-inc",
+    "name": "Mondofix Inc. (dba Fix Network World)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "CA"
+  },
+  {
     "id": "monzo-bank-limited",
     "name": "Monzo Bank Limited (private, VC-backed)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "GB"
+  },
+  {
+    "id": "motors",
+    "name": "Motors.co.uk Limited (O3 Industries / Novum Capital)",
     "type": "private-company",
     "parentId": null,
     "country": "GB"
@@ -652,6 +1107,13 @@
     "type": "private-company",
     "country": "United Kingdom",
     "parentId": null
+  },
+  {
+    "id": "msc-group-aponte-family",
+    "name": "Mediterranean Shipping Company (MSC Group) - Aponte family",
+    "type": "private-company",
+    "parentId": null,
+    "country": "CH"
   },
   {
     "id": "mubadala",
@@ -668,11 +1130,60 @@
     "parentId": "mclaren-group"
   },
   {
+    "id": "nationwide-mutual-insurance-company",
+    "name": "Nationwide Mutual Insurance Company",
+    "type": "private-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
+    "id": "natural-nine-bv",
+    "name": "Natural Nine B.V.",
+    "type": "private-company",
+    "parentId": null,
+    "country": "CW"
+  },
+  {
+    "id": "nestle-sa",
+    "name": "Nestle S.A.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "CH"
+  },
+  {
+    "id": "netapp-inc",
+    "name": "NetApp, Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
     "id": "okx-group",
     "name": "OKX / Aux Cayes FinTech Co. Ltd (OK Group)",
     "type": "private-company",
     "parentId": null,
     "country": "Seychelles"
+  },
+  {
+    "id": "oracle-corporation",
+    "name": "Oracle Corporation",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
+    "id": "orlando-health-inc",
+    "name": "Orlando Health, Inc.",
+    "type": "private-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
+    "id": "osceola-county-tourism-authority",
+    "name": "Experience Kissimmee (official tourism authority for Osceola County, Florida)",
+    "type": "state",
+    "parentId": null,
+    "country": "US"
   },
   {
     "id": "otro-capital",
@@ -717,11 +1228,25 @@
     "country": "Italy"
   },
   {
+    "id": "procter-and-gamble",
+    "name": "The Procter & Gamble Company",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
     "id": "profine-gmbh",
     "name": "profine GmbH (owner Dr Peter A. Mrosik / Hidden Peak Capital)",
     "type": "private-company",
     "parentId": null,
     "country": "DE"
+  },
+  {
+    "id": "providence-health-system",
+    "name": "Providence (Providence Health & Services / Providence Swedish)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "US"
   },
   {
     "id": "pvh-corp",
@@ -743,6 +1268,13 @@
     "type": "listed-company",
     "parentId": null,
     "country": "USA"
+  },
+  {
+    "id": "qualcomm-incorporated",
+    "name": "QUALCOMM Incorporated",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
   },
   {
     "id": "raisin-ds",
@@ -771,6 +1303,20 @@
     "type": "private-company",
     "country": "United Kingdom",
     "parentId": "mateschitz-yoovidhya-families"
+  },
+  {
+    "id": "regione-autonoma-della-sardegna",
+    "name": "Regione Autonoma della Sardegna (Assessorato del Turismo)",
+    "type": "state",
+    "parentId": null,
+    "country": "IT"
+  },
+  {
+    "id": "renasant-corporation",
+    "name": "Renasant Corporation",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
   },
   {
     "id": "renault-group",
@@ -808,6 +1354,13 @@
     "country": "Switzerland"
   },
   {
+    "id": "royal-caribbean-cruises-ltd",
+    "name": "Royal Caribbean Cruises Ltd.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
     "id": "russian-federation",
     "name": "Russian Federation (Federal Agency for State Property Management)",
     "type": "state",
@@ -836,6 +1389,20 @@
     "country": "Germany"
   },
   {
+    "id": "saputo-inc",
+    "name": "Saputo Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "CA"
+  },
+  {
+    "id": "saudi-aramco",
+    "name": "Saudi Arabian Oil Company (Aramco)",
+    "type": "state",
+    "parentId": null,
+    "country": "SA"
+  },
+  {
     "id": "saudi-pif",
     "name": "Public Investment Fund (Saudi Arabia)",
     "type": "state-fund",
@@ -858,11 +1425,32 @@
     "country": "ES"
   },
   {
+    "id": "sgam-spa",
+    "name": "Societa Generale delle Acque Minerali S.p.A. (Acqua Lete)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "IT"
+  },
+  {
     "id": "shell-plc",
     "name": "Shell plc",
     "type": "listed-company",
     "parentId": null,
     "country": "United Kingdom"
+  },
+  {
+    "id": "siemens-ag",
+    "name": "Siemens AG",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "DE"
+  },
+  {
+    "id": "sinochem-holdings",
+    "name": "China National Chemical Corporation (Sinochem Holdings)",
+    "type": "state",
+    "parentId": null,
+    "country": "CN"
   },
   {
     "id": "spotify-technology",
@@ -879,6 +1467,13 @@
     "country": "United Kingdom"
   },
   {
+    "id": "standard-general",
+    "name": "Standard General L.P.",
+    "type": "private-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
     "id": "state-of-baden-wuerttemberg",
     "name": "State of Baden-Württemberg, Sparkassenverband Baden-Württemberg and City of Stuttgart",
     "type": "state",
@@ -886,11 +1481,60 @@
     "country": "DE"
   },
   {
+    "id": "state-of-qatar-qia",
+    "name": "State of Qatar (via Qatar Investment Authority)",
+    "type": "state",
+    "parentId": null,
+    "country": "QA"
+  },
+  {
+    "id": "stellantis-nv",
+    "name": "Stellantis N.V.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "NL"
+  },
+  {
+    "id": "sumup-ltd",
+    "name": "SumUp Ltd",
+    "type": "private-company",
+    "parentId": null,
+    "country": "GB"
+  },
+  {
+    "id": "suntory-holdings",
+    "name": "Suntory Holdings Limited",
+    "type": "private-company",
+    "parentId": null,
+    "country": "JP"
+  },
+  {
     "id": "super-group",
     "name": "Super Group (SGHC) Limited",
     "type": "listed-company",
     "parentId": null,
     "country": "Guernsey"
+  },
+  {
+    "id": "suzuki-motor-corporation",
+    "name": "Suzuki Motor Corporation",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "JP"
+  },
+  {
+    "id": "target-corporation",
+    "name": "Target Corporation",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
+    "id": "teamviewer-se",
+    "name": "TeamViewer SE",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "DE"
   },
   {
     "id": "tecnocasa-group",
@@ -905,6 +1549,20 @@
     "type": "private-company",
     "parentId": null,
     "country": "IT"
+  },
+  {
+    "id": "tek-fox-ltd",
+    "name": "Tek Fox Ltd (MrQ)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "MT"
+  },
+  {
+    "id": "telus-corporation",
+    "name": "TELUS Corporation",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "CA"
   },
   {
     "id": "temporal-technologies",
@@ -935,6 +1593,20 @@
     "parentId": "motorsport-invest"
   },
   {
+    "id": "toyota-motor-corporation",
+    "name": "Toyota Motor Corporation",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "JP"
+  },
+  {
+    "id": "tpg",
+    "name": "TPG Capital (TPG Inc.)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
     "id": "turkiye-wealth-fund",
     "name": "Türkiye Wealth Fund",
     "type": "state-fund",
@@ -956,6 +1628,41 @@
     "parentId": null
   },
   {
+    "id": "ubs-group-ag",
+    "name": "UBS Group AG",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "CH"
+  },
+  {
+    "id": "uchealth",
+    "name": "UCHealth (University of Colorado Health)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
+    "id": "uney-gmbh",
+    "name": "Uney GmbH",
+    "type": "private-company",
+    "parentId": null,
+    "country": "CH"
+  },
+  {
+    "id": "unicredit-spa",
+    "name": "UniCredit S.p.A.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "IT"
+  },
+  {
+    "id": "university-of-texas-system",
+    "name": "The University of Texas System (UT MD Anderson Cancer Center)",
+    "type": "state",
+    "parentId": null,
+    "country": "US"
+  },
+  {
     "id": "uralchem",
     "name": "Uralchem PJSC (controlled by Dmitry Mazepin and family)",
     "type": "private-company",
@@ -968,6 +1675,20 @@
     "type": "private-company",
     "parentId": null,
     "country": "DE"
+  },
+  {
+    "id": "ut-southwestern-medical-center",
+    "name": "The University of Texas Southwestern Medical Center",
+    "type": "state",
+    "parentId": null,
+    "country": "US"
+  },
+  {
+    "id": "visa-inc",
+    "name": "Visa Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
   },
   {
     "id": "vodafone-group",
@@ -1012,6 +1733,13 @@
     "country": "Germany"
   },
   {
+    "id": "yeti-holdings-inc",
+    "name": "YETI Holdings, Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
     "id": "yew-tree",
     "name": "Yew Tree Consortium",
     "type": "private-company",
@@ -1019,11 +1747,25 @@
     "parentId": "amr-gp"
   },
   {
+    "id": "yildiz-holding",
+    "name": "Yildiz Holding A.S. (Ulker family)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "TR"
+  },
+  {
     "id": "yoovidhya-family",
     "name": "Yoovidhya family",
     "type": "private-company",
     "country": "Thailand",
     "parentId": "mateschitz-yoovidhya-families"
+  },
+  {
+    "id": "zhejiang-geely-holding-group",
+    "name": "Zhejiang Geely Holding Group Co., Ltd.",
+    "type": "private-company",
+    "parentId": null,
+    "country": "CN"
   },
   {
     "id": "zoomex",

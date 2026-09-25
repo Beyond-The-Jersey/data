@@ -17,10 +17,10 @@
       "name": "Mediacom",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "mediacom-communications-corp",
+      "owner": "Mediacom Communications Corporation",
+      "verdict": "Owned by Mediacom Communications Corporation. Nothing found.",
       "source": {
         "name": "Firenze Viola",
         "date": "2026-07-10",
@@ -28,7 +28,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
-  "owners": [],
+  "worstTier": "none",
+  "owners": [
+    "mediacom-communications-corp"
+  ],
   "lastUpdated": "2026-09-24"
 }

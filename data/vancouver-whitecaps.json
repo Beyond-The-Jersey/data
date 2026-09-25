@@ -18,10 +18,10 @@
       "name": "Telus",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "telus-corporation",
+      "owner": "TELUS Corporation",
+      "verdict": "Owned by TELUS Corporation. Nothing found.",
       "source": {
         "name": "mlssoccer.com",
         "date": "2026-02-17",
@@ -29,7 +29,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
-  "owners": [],
+  "worstTier": "none",
+  "owners": [
+    "telus-corporation"
+  ],
   "lastUpdated": "2026-09-24"
 }

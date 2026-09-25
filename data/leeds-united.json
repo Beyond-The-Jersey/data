@@ -17,10 +17,10 @@
       "name": "KChat",
       "placement": "sleeve",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "uney-gmbh",
+      "owner": "Uney GmbH",
+      "verdict": "Owned by Uney GmbH. Nothing found.",
       "source": {
         "name": "Leeds United – 'KChat to become Official Sleeve Partner for 2026/27 Season'",
         "date": "2026-08-17",
@@ -45,7 +45,8 @@
   ],
   "worstTier": "none",
   "owners": [
-    "mateschitz-yoovidhya-families"
+    "mateschitz-yoovidhya-families",
+    "uney-gmbh"
   ],
   "lastUpdated": "2026-09-24"
 }

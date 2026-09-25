@@ -16,10 +16,10 @@
       "name": "Gillette",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "procter-and-gamble",
+      "owner": "The Procter & Gamble Company",
+      "verdict": "Owned by The Procter & Gamble Company. Nothing found.",
       "source": {
         "name": "revolutionsoccer.net",
         "date": "2025-02-11",
@@ -27,7 +27,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
-  "owners": [],
+  "worstTier": "none",
+  "owners": [
+    "procter-and-gamble"
+  ],
   "lastUpdated": "2026-09-24"
 }

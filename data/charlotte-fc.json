@@ -15,10 +15,10 @@
       "name": "Ally",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "ally-financial",
+      "owner": "Ally Financial Inc.",
+      "verdict": "Owned by Ally Financial Inc.. Nothing found.",
       "source": {
         "name": "FOR SOCCER",
         "date": "2026-02-17",
@@ -26,7 +26,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
-  "owners": [],
+  "worstTier": "none",
+  "owners": [
+    "ally-financial"
+  ],
   "lastUpdated": "2026-09-24"
 }

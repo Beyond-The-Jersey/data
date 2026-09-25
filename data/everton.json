@@ -30,10 +30,10 @@
       "name": "Stake",
       "placement": "sleeve",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "easygo",
+      "owner": "Easygo (Medium Rare N.V. trading entity)",
+      "verdict": "Owned by Easygo (Medium Rare N.V. trading entity). Nothing found.",
       "source": {
         "name": "Everton FC – 'Everton & Stake Extend Partnership With Official Sleeve Agreement'",
         "date": "2026-06-30",
@@ -43,7 +43,8 @@
   ],
   "worstTier": "none",
   "owners": [
-    "cmc-markets-plc"
+    "cmc-markets-plc",
+    "easygo"
   ],
   "lastUpdated": "2026-09-24"
 }

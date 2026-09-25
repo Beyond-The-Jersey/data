@@ -15,10 +15,10 @@
       "name": "MSC Cruises",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "msc-group-aponte-family",
+      "owner": "Mediterranean Shipping Company (MSC Group) - Aponte family",
+      "verdict": "Owned by Mediterranean Shipping Company (MSC Group) - Aponte family. Nothing found.",
       "source": {
         "name": "Calcio e Finanza",
         "date": "2026-07-07",
@@ -26,7 +26,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
-  "owners": [],
+  "worstTier": "none",
+  "owners": [
+    "msc-group-aponte-family"
+  ],
   "lastUpdated": "2026-09-24"
 }

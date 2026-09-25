@@ -16,10 +16,10 @@
       "name": "Lete",
       "placement": "front",
       "season": "2026-27",
-      "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "sgam-spa",
+      "owner": "Societa Generale delle Acque Minerali S.p.A. (Acqua Lete)",
+      "verdict": "Owned by Societa Generale delle Acque Minerali S.p.A. (Acqua Lete). Nothing found.",
       "source": {
         "name": "Atalanta BC",
         "date": "2026-07-16",
@@ -27,7 +27,9 @@
       }
     }
   ],
-  "worstTier": "unrated",
-  "owners": [],
+  "worstTier": "none",
+  "owners": [
+    "sgam-spa"
+  ],
   "lastUpdated": "2026-09-24"
 }
