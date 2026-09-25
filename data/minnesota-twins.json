@@ -27,14 +27,14 @@
       }
     },
     {
-      "id": "target-target-corporation",
-      "name": "Target (Target Corporation)",
+      "id": "target",
+      "name": "Target",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
-      "ownerId": "target-target-corporation-owner",
-      "owner": "Target (Target Corporation)",
-      "verdict": null,
+      "tier": "none",
+      "ownerId": "target-corporation",
+      "owner": "Target Corporation",
+      "verdict": "Owned by Target Corporation. Nothing found.",
       "source": {
         "name": "Chief Marketer",
         "date": "2008-09-15",
@@ -42,10 +42,10 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "securian-financial-owner",
-    "target-target-corporation-owner"
+    "target-corporation"
   ],
   "lastUpdated": "2026-09-24"
 }

@@ -835,7 +835,7 @@
     "note": "Rating note: Used the FY2025 10-K; ownership is disclosed by incorporation into the proxy, which shows no 5%+ holder of note."
   },
   {
-    "id": "citigroup-citi",
+    "id": "citigroup",
     "name": "Citigroup (Citi)",
     "ownerId": "citigroup-citi-owner",
     "ownership": "owned",
@@ -847,7 +847,7 @@
     "note": "Arena naming-rights holder of new-york-mets (2026-27)."
   },
   {
-    "id": "citizens-bank-citizens-financial-group",
+    "id": "citizens-bank",
     "name": "Citizens Bank (Citizens Financial Group)",
     "ownerId": "citizens-bank-citizens-financial-group-owner",
     "ownership": "owned",
@@ -995,7 +995,7 @@
     "note": "Rating note: Koch's 16.81% is the notable structural fact; it is private capital, so no tier change. Koch does, however, have its own well-documented political and environmental record that may matter downstream in this dataset."
   },
   {
-    "id": "coors-brewing-co-molson-coors",
+    "id": "coors-brewing-co",
     "name": "Coors Brewing Co. (Molson Coors)",
     "ownerId": "coors-brewing-co-molson-coors-owner",
     "ownership": "owned",
@@ -1621,7 +1621,7 @@
     "note": "Rating note: Ownership: Mubadala portfolio page - G42 'backed by Mubadala, Silver Lake, Microsoft and Dalio Family Office' (https://www.mubadala.com/en/what-we-do/g42). Mubadala is a shareholder, not sole owner, so 'part-owned'. Mercedes F1 sponsor."
   },
   {
-    "id": "gainbridge-group-1001",
+    "id": "gainbridge",
     "name": "Gainbridge (Group 1001)",
     "ownerId": "gainbridge-group-1001-owner",
     "ownership": "owned",
@@ -1688,19 +1688,7 @@
     "aliases": []
   },
   {
-    "id": "gillette-procter-and-gamble",
-    "name": "Gillette (Procter & Gamble)",
-    "ownerId": "gillette-procter-and-gamble-owner",
-    "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": [],
-    "note": "Arena naming-rights holder of new-england-patriots (2026-27)."
-  },
-  {
-    "id": "globe-life-globe-life-inc",
+    "id": "globe-life",
     "name": "Globe Life (Globe Life Inc.)",
     "ownerId": "globe-life-globe-life-inc-owner",
     "ownership": "owned",
@@ -1960,7 +1948,7 @@
     "note": "Rating note: The company's own IR page states the majority of shares are in free float."
   },
   {
-    "id": "huntington-national-bank-huntington-bancshares",
+    "id": "huntington-national-bank",
     "name": "Huntington National Bank (Huntington Bancshares)",
     "ownerId": "huntington-national-bank-huntington-bancshares-owner",
     "ownership": "owned",
@@ -1984,6 +1972,18 @@
     ],
     "aliases": [],
     "note": "Rating note: URSAPHARM is the owner of the HYLO trademark (USPTO registration 5887500 in its name). Not HYLO the drink brand."
+  },
+  {
+    "id": "hyundai",
+    "name": "Hyundai (Hyundai Motor America)",
+    "ownerId": "hyundai-owner",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Jersey patch partner of la-rams (2026-27)."
   },
   {
     "id": "ibm",
@@ -2080,6 +2080,18 @@
     "note": "Rating note: Ratcliffe's majority stake and the Currie/Reece minority are well reported but not on the page opened; the page does confirm private ownership and Ratcliffe's chairmanship. Tier kept 'none' on ownership grounds rather than 'concern' on the petrochemicals record."
   },
   {
+    "id": "intuit",
+    "name": "Intuit (Intuit Inc., Nasdaq: INTU)",
+    "ownerId": "intuit-intuit-inc-nasdaq-intu-owner",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Arena naming-rights holder of la-clippers (2026-27)."
+  },
+  {
     "id": "io-sono-friuli-venezia-giulia",
     "name": "Io sono Friuli Venezia Giulia",
     "ownerId": "friuli-venezia-giulia-region",
@@ -2144,9 +2156,9 @@
     "aliases": []
   },
   {
-    "id": "jpmorgan-chase-chase",
+    "id": "jpmorgan-chase",
     "name": "JPMorgan Chase (Chase)",
-    "ownerId": "jpmorgan-chase-chase-owner",
+    "ownerId": "jpmorgan-chase-owner",
     "ownership": "owned",
     "tier": "unrated",
     "status": "unrated",
@@ -2154,18 +2166,6 @@
     "claimIds": [],
     "aliases": [],
     "note": "Arena naming-rights holder of arizona-diamondbacks (2026-27)."
-  },
-  {
-    "id": "jpmorgan-chase-chase-brand",
-    "name": "JPMorgan Chase (Chase brand)",
-    "ownerId": "jpmorgan-chase-chase-owner",
-    "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": [],
-    "note": "Arena naming-rights holder of golden-state-warriors (2026-27)."
   },
   {
     "id": "jpmorganchase",
@@ -2392,7 +2392,7 @@
     "note": "Rating note: No published shareholder register found; family control inferred from the CEO being the fourth generation of the owning family plus Italian press describing it as a family structure."
   },
   {
-    "id": "levi-strauss-and-co-levi-s",
+    "id": "levi-strauss-and-co",
     "name": "Levi Strauss & Co. (Levi's)",
     "ownerId": "levi-strauss-and-co-levi-s-owner",
     "ownership": "owned",
@@ -2733,18 +2733,6 @@
     "note": "Arena naming-rights holder of new-york-jets (2026-27)."
   },
   {
-    "id": "metlife-metropolitan-life-insurance",
-    "name": "MetLife (Metropolitan Life Insurance)",
-    "ownerId": "metlife-metropolitan-life-insurance-owner",
-    "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": [],
-    "note": "Arena naming-rights holder of new-york-giants (2026-27)."
-  },
-  {
     "id": "mgm-rewards",
     "name": "MGM Rewards",
     "ownerId": "mgm-resorts",
@@ -3020,7 +3008,7 @@
     "note": "Rating note: Tiered 'concern' not 'serious' because GIC co-owns with private-equity capital rather than holding 100%. Nouryon does not publish an exact split; 'jointly owned' implies broadly equal stakes."
   },
   {
-    "id": "nrg-energy-reliant-brand",
+    "id": "nrg-energy",
     "name": "NRG Energy (Reliant brand)",
     "ownerId": "nrg-energy-reliant-brand-owner",
     "ownership": "owned",
@@ -3242,7 +3230,7 @@
     "note": "Rating note: Flagged for proper look: the Italian state stake in Eni sits below 50% and via a listed parent, so concern rather than serious. Claims of Eni human-rights/environmental harm (Niger Delta, OPL 245) are contested and partly settled, supporting concern not serious."
   },
   {
-    "id": "pnc-bank-pnc-financial-services",
+    "id": "pnc-bank",
     "name": "PNC Bank (PNC Financial Services)",
     "ownerId": "pnc-bank-pnc-financial-services-owner",
     "ownership": "owned",
@@ -3456,7 +3444,7 @@
     "note": "Rating note: Bank investors are minority VC/strategic stakes, so the owner stays private-company with no state link (Orange Ventures is Orange SA, itself only partly French state-owned - not counted)."
   },
   {
-    "id": "rate-formerly-guaranteed-rate",
+    "id": "rate",
     "name": "Rate (formerly Guaranteed Rate)",
     "ownerId": "rate-formerly-guaranteed-rate-owner",
     "ownership": "owned",
@@ -3593,7 +3581,7 @@
     "note": "Jersey patch partner of memphis-grizzlies (2026-27)."
   },
   {
-    "id": "rocket-rocket-companies",
+    "id": "rocket",
     "name": "Rocket (Rocket Companies)",
     "ownerId": "rocket-rocket-companies-owner",
     "ownership": "owned",
@@ -3912,7 +3900,7 @@
     "note": "Arena naming-rights holder of los-angeles-chargers (2026-27)."
   },
   {
-    "id": "spectrum-charter-communications",
+    "id": "spectrum",
     "name": "Spectrum (Charter Communications)",
     "ownerId": "spectrum-charter-communications-owner",
     "ownership": "owned",
@@ -4118,18 +4106,6 @@
     "note": "Rating note: No state stake identified."
   },
   {
-    "id": "target-target-corporation",
-    "name": "Target (Target Corporation)",
-    "ownerId": "target-target-corporation-owner",
-    "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
-    "aliases": [],
-    "note": "Arena naming-rights holder of minnesota-twins (2026-27)."
-  },
-  {
     "id": "td-bank",
     "name": "TD Bank",
     "ownerId": "td-bank-owner",
@@ -4280,7 +4256,7 @@
     "note": "Rating note: Private individual owner → none. Source is trade press rather than a filing, hence medium confidence."
   },
   {
-    "id": "tropicana-tropicana-brands-group",
+    "id": "tropicana",
     "name": "Tropicana (Tropicana Brands Group)",
     "ownerId": "tropicana-tropicana-brands-group-owner",
     "ownership": "owned",
@@ -4665,7 +4641,7 @@
     "note": "Jersey patch partner of houston-texans (2026-27)."
   },
   {
-    "id": "xfinity-mobile-comcast",
+    "id": "xfinity-mobile",
     "name": "Xfinity Mobile (Comcast)",
     "ownerId": "xfinity-mobile-comcast-owner",
     "ownership": "owned",

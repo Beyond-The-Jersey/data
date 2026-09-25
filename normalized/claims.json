@@ -303,7 +303,7 @@
     "reviewed": true
   },
   {
-    "id": "huntington-national-bank-huntington-bancshares-2026",
+    "id": "huntington-national-bank-2026",
     "ownerIds": [
       "huntington-national-bank-huntington-bancshares-owner"
     ],
@@ -387,9 +387,9 @@
     "reviewed": true
   },
   {
-    "id": "jpmorgan-chase-chase-2026",
+    "id": "jpmorgan-chase-2026",
     "ownerIds": [
-      "jpmorgan-chase-chase-owner"
+      "jpmorgan-chase-owner"
     ],
     "text": "JPMorgan Chase (Chase) is the arena naming-rights holder of arizona-diamondbacks for 2026-27.",
     "short": "Arena naming-rights holder JPMorgan Chase (Chase) 2026-27",
@@ -415,7 +415,7 @@
     "reviewed": true
   },
   {
-    "id": "rate-formerly-guaranteed-rate-2026",
+    "id": "rate-2026",
     "ownerIds": [
       "rate-formerly-guaranteed-rate-owner"
     ],
@@ -457,7 +457,7 @@
     "reviewed": true
   },
   {
-    "id": "citigroup-citi-2026",
+    "id": "citigroup-2026",
     "ownerIds": [
       "citigroup-citi-owner"
     ],
@@ -723,20 +723,6 @@
     "reviewed": true
   },
   {
-    "id": "gillette-procter-and-gamble-2026",
-    "ownerIds": [
-      "gillette-procter-and-gamble-owner"
-    ],
-    "text": "Gillette (Procter & Gamble) is the arena naming-rights holder of new-england-patriots for 2026-27.",
-    "short": "Arena naming-rights holder Gillette (Procter & Gamble) 2026-27",
-    "source": {
-      "name": "New England Patriots (patriots.com)",
-      "date": "2010-09-22",
-      "url": "https://www.patriots.com/news/p-g-extends-naming-rights-for-gillette-stadium-through-the-2031-season-114846"
-    },
-    "reviewed": true
-  },
-  {
     "id": "us-bank-2026",
     "ownerIds": [
       "us-bank-owner"
@@ -751,7 +737,7 @@
     "reviewed": true
   },
   {
-    "id": "levi-strauss-and-co-levi-s-2026",
+    "id": "levi-strauss-and-co-2026",
     "ownerIds": [
       "levi-strauss-and-co-levi-s-owner"
     ],
@@ -1213,7 +1199,7 @@
     "reviewed": true
   },
   {
-    "id": "citizens-bank-citizens-financial-group-2026",
+    "id": "citizens-bank-2026",
     "ownerIds": [
       "citizens-bank-citizens-financial-group-owner"
     ],
@@ -1241,7 +1227,7 @@
     "reviewed": true
   },
   {
-    "id": "tropicana-tropicana-brands-group-2026",
+    "id": "tropicana-2026",
     "ownerIds": [
       "tropicana-tropicana-brands-group-owner"
     ],
@@ -1269,7 +1255,7 @@
     "reviewed": true
   },
   {
-    "id": "spectrum-charter-communications-2026",
+    "id": "spectrum-2026",
     "ownerIds": [
       "spectrum-charter-communications-owner"
     ],
@@ -1293,20 +1279,6 @@
       "name": "Silicon Valley / Bay Area News Group",
       "date": "2026-06-27",
       "url": "https://siliconvalley.com/2026/06/27/warriors-announce-ai-data-center-company-as-jersey-sponsor"
-    },
-    "reviewed": true
-  },
-  {
-    "id": "jpmorgan-chase-chase-brand-2026",
-    "ownerIds": [
-      "jpmorgan-chase-chase-owner"
-    ],
-    "text": "JPMorgan Chase (Chase brand) is the arena naming-rights holder of golden-state-warriors for 2026-27.",
-    "short": "Arena naming-rights holder JPMorgan Chase (Chase brand) 2026-27",
-    "source": {
-      "name": "SFBayCA",
-      "date": "2016-01-28",
-      "url": "https://sfbayca.com/2016/01/28/warriors-announce-chase-arena-as-future-home"
     },
     "reviewed": true
   },
@@ -1339,7 +1311,7 @@
     "reviewed": true
   },
   {
-    "id": "xfinity-mobile-comcast-2026",
+    "id": "xfinity-mobile-2026",
     "ownerIds": [
       "xfinity-mobile-comcast-owner"
     ],
@@ -1465,9 +1437,9 @@
     "reviewed": true
   },
   {
-    "id": "metlife-metropolitan-life-insurance-2026",
+    "id": "metlife-2026",
     "ownerIds": [
-      "metlife-metropolitan-life-insurance-owner"
+      "metlife-owner"
     ],
     "text": "MetLife (Metropolitan Life Insurance) is the arena naming-rights holder of new-york-giants for 2026-27.",
     "short": "Arena naming-rights holder MetLife (Metropolitan Life Insurance) 2026-27",
@@ -1535,7 +1507,7 @@
     "reviewed": true
   },
   {
-    "id": "coors-brewing-co-molson-coors-2026",
+    "id": "coors-brewing-co-2026",
     "ownerIds": [
       "coors-brewing-co-molson-coors-owner"
     ],
@@ -1591,7 +1563,7 @@
     "reviewed": true
   },
   {
-    "id": "pnc-bank-pnc-financial-services-2026",
+    "id": "pnc-bank-2026",
     "ownerIds": [
       "pnc-bank-pnc-financial-services-owner"
     ],
@@ -1619,7 +1591,7 @@
     "reviewed": true
   },
   {
-    "id": "globe-life-globe-life-inc-2026",
+    "id": "globe-life-2026",
     "ownerIds": [
       "globe-life-globe-life-inc-owner"
     ],
@@ -1829,20 +1801,6 @@
     "reviewed": true
   },
   {
-    "id": "metlife-2026",
-    "ownerIds": [
-      "metlife-owner"
-    ],
-    "text": "MetLife is the arena naming-rights holder of new-york-jets for 2026-27.",
-    "short": "Arena naming-rights holder MetLife 2026-27",
-    "source": {
-      "name": "MetLife Stadium (official)",
-      "date": "2026-09-10",
-      "url": "https://www.metlifestadium.com/news/detail/metlife-stadium-welcomes-back-football-fueled-by-new-and-expanded-partnerships-across-the-jets-and-giants-platform"
-    },
-    "reviewed": true
-  },
-  {
     "id": "nissan-2026",
     "ownerIds": [
       "nissan-owner"
@@ -1955,7 +1913,7 @@
     "reviewed": true
   },
   {
-    "id": "rocket-rocket-companies-2026",
+    "id": "rocket-2026",
     "ownerIds": [
       "rocket-rocket-companies-owner"
     ],
@@ -1983,7 +1941,7 @@
     "reviewed": true
   },
   {
-    "id": "gainbridge-group-1001-2026",
+    "id": "gainbridge-2026",
     "ownerIds": [
       "gainbridge-group-1001-owner"
     ],
@@ -2081,7 +2039,7 @@
     "reviewed": true
   },
   {
-    "id": "nrg-energy-reliant-brand-2026",
+    "id": "nrg-energy-2026",
     "ownerIds": [
       "nrg-energy-reliant-brand-owner"
     ],
@@ -2207,20 +2165,6 @@
     "reviewed": true
   },
   {
-    "id": "target-target-corporation-2026",
-    "ownerIds": [
-      "target-target-corporation-owner"
-    ],
-    "text": "Target (Target Corporation) is the arena naming-rights holder of minnesota-twins for 2026-27.",
-    "short": "Arena naming-rights holder Target (Target Corporation) 2026-27",
-    "source": {
-      "name": "Chief Marketer",
-      "date": "2008-09-15",
-      "url": "https://chiefmarketer.com/target-scores-naming-rights-for-minnesota-twins-ballpark"
-    },
-    "reviewed": true
-  },
-  {
     "id": "airwallex-2026",
     "ownerIds": [
       "airwallex-owner"
@@ -2259,6 +2203,48 @@
       "name": "AARP press release",
       "date": "2025-06-30",
       "url": "https://www.aarp.org/press/releases/2025-06-30-aarp-becomes-washington-nationals-inaugural-jersey-patch-sponsor-and-an-official-community-impact-partner.html"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "visit-rwanda-2026",
+    "ownerIds": [
+      "government-of-rwanda"
+    ],
+    "text": "Visit Rwanda (Rwanda Development Board) is the jersey patch partner of la-clippers for 2026-27.",
+    "short": "Jersey patch partner Visit Rwanda (Rwanda Development Board) 2026-27",
+    "source": {
+      "name": "LA Clippers press release (NBA.com)",
+      "date": "2025-09-29",
+      "url": "https://www.nba.com/clippers/news/visit-rwanda-lands-in-los-angeles"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "intuit-2026",
+    "ownerIds": [
+      "intuit-intuit-inc-nasdaq-intu-owner"
+    ],
+    "text": "Intuit (Intuit Inc., Nasdaq: INTU) is the arena naming-rights holder of la-clippers for 2026-27.",
+    "short": "Arena naming-rights holder Intuit (Intuit Inc., Nasdaq: INTU) 2026-27",
+    "source": {
+      "name": "Intuit Inc. investor press release (Business Wire)",
+      "date": "2021-09-17",
+      "url": "https://investors.intuit.com/news-events/press-releases/detail/161/la-clippers-to-announce-partnership-during-groundbreaking-for-intuit-dome"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "hyundai-2026",
+    "ownerIds": [
+      "hyundai-owner"
+    ],
+    "text": "Hyundai (Hyundai Motor America) is the jersey patch partner of la-rams for 2026-27.",
+    "short": "Jersey patch partner Hyundai (Hyundai Motor America) 2026-27",
+    "source": {
+      "name": "Zoomph (2026 NFL practice-jersey patch guide)",
+      "date": "2026-09-01",
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
     },
     "reviewed": true
   },

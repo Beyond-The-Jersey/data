@@ -6105,6 +6105,54 @@
     "change": null
   },
   {
+    "id": "la-clippers-2026-27-home",
+    "clubId": "la-clippers",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "visit-rwanda",
+        "placement": "patch",
+        "source": {
+          "name": "LA Clippers press release (NBA.com)",
+          "date": "2025-09-29",
+          "url": "https://www.nba.com/clippers/news/visit-rwanda-lands-in-los-angeles"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Visit Rwanda (Rwanda Development Board).",
+    "change": null
+  },
+  {
+    "id": "la-rams-2026-27-home",
+    "clubId": "la-rams",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "hyundai",
+        "placement": "training-kit",
+        "source": {
+          "name": "Zoomph (2026 NFL practice-jersey patch guide)",
+          "date": "2026-09-01",
+          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Practice-jersey patch: Hyundai (Hyundai Motor America).",
+    "change": null
+  },
+  {
     "id": "paris-saint-germain-2026-27-home",
     "clubId": "paris-saint-germain",
     "season": "2026-27",

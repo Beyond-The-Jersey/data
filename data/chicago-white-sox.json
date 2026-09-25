@@ -27,7 +27,7 @@
       }
     },
     {
-      "id": "rate-formerly-guaranteed-rate",
+      "id": "rate",
       "name": "Rate (formerly Guaranteed Rate)",
       "placement": "stadium",
       "season": null,

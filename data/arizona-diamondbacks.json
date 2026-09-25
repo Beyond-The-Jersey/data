@@ -27,13 +27,13 @@
       }
     },
     {
-      "id": "jpmorgan-chase-chase",
+      "id": "jpmorgan-chase",
       "name": "JPMorgan Chase (Chase)",
       "placement": "stadium",
       "season": null,
       "tier": "unrated",
-      "ownerId": "jpmorgan-chase-chase-owner",
-      "owner": "JPMorgan Chase (Chase)",
+      "ownerId": "jpmorgan-chase-owner",
+      "owner": "JPMorgan Chase (Chase brand)",
       "verdict": null,
       "source": {
         "name": "Ballparks of Baseball",
@@ -45,7 +45,7 @@
   "worstTier": "unrated",
   "owners": [
     "avnet-owner",
-    "jpmorgan-chase-chase-owner"
+    "jpmorgan-chase-owner"
   ],
   "lastUpdated": "2026-09-24"
 }

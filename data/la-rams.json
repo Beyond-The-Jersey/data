@@ -11,9 +11,39 @@
   },
   "sponsors": [
     {
+      "id": "hyundai",
+      "name": "Hyundai (Hyundai Motor America)",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "hyundai-owner",
+      "owner": "Hyundai (Hyundai Motor America)",
+      "verdict": null,
+      "source": {
+        "name": "Zoomph (2026 NFL practice-jersey patch guide)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      }
+    },
+    {
+      "id": "sofi",
+      "name": "SoFi",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "sofi-owner",
+      "owner": "SoFi",
+      "verdict": null,
+      "source": {
+        "name": "Los Angeles Times (quoting the joint club/venue release)",
+        "date": "2019-09-15",
+        "url": "https://www.latimes.com/sports/rams/story/2019-09-15/inglewood-stadium-name-chargers-rams"
+      }
+    },
+    {
       "id": "visit-rwanda",
       "name": "Visit Rwanda",
-      "placement": "stadium",
+      "placement": "partner",
       "season": null,
       "tier": "severe",
       "ownerId": "government-of-rwanda",
@@ -24,7 +54,9 @@
   ],
   "worstTier": "severe",
   "owners": [
-    "government-of-rwanda"
+    "government-of-rwanda",
+    "hyundai-owner",
+    "sofi-owner"
   ],
   "lastUpdated": "2026-09-24"
 }

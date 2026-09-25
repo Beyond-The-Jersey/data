@@ -25,26 +25,10 @@
         "date": "2026-09-01",
         "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
       }
-    },
-    {
-      "id": "gillette-procter-and-gamble",
-      "name": "Gillette (Procter & Gamble)",
-      "placement": "stadium",
-      "season": null,
-      "tier": "unrated",
-      "ownerId": "gillette-procter-and-gamble-owner",
-      "owner": "Gillette (Procter & Gamble)",
-      "verdict": null,
-      "source": {
-        "name": "New England Patriots (patriots.com)",
-        "date": "2010-09-22",
-        "url": "https://www.patriots.com/news/p-g-extends-naming-rights-for-gillette-stadium-through-the-2031-season-114846"
-      }
     }
   ],
   "worstTier": "none",
   "owners": [
-    "gillette-procter-and-gamble-owner",
     "procter-and-gamble"
   ],
   "lastUpdated": "2026-09-24"

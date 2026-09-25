@@ -24,13 +24,13 @@
       }
     },
     {
-      "id": "jpmorgan-chase-chase-brand",
-      "name": "JPMorgan Chase (Chase brand)",
+      "id": "jpmorgan-chase",
+      "name": "JPMorgan Chase (Chase)",
       "placement": "stadium",
       "season": null,
       "tier": "unrated",
-      "ownerId": "jpmorgan-chase-chase-owner",
-      "owner": "JPMorgan Chase (Chase)",
+      "ownerId": "jpmorgan-chase-owner",
+      "owner": "JPMorgan Chase (Chase brand)",
       "verdict": null,
       "source": {
         "name": "SFBayCA",
@@ -42,7 +42,7 @@
   "worstTier": "unrated",
   "owners": [
     "iren-owner",
-    "jpmorgan-chase-chase-owner"
+    "jpmorgan-chase-owner"
   ],
   "lastUpdated": "2026-09-24"
 }

@@ -281,12 +281,12 @@
     "clubId": "la-rams",
     "orgName": null,
     "sponsorId": "visit-rwanda",
-    "placement": "stadium",
+    "placement": "partner",
     "from": "2025",
     "to": null,
     "value": null,
     "source": null,
-    "note": "At the stadium rather than on the shirt; value not disclosed."
+    "note": "Club partnership shown at the stadium, not the venue naming rights (SoFi holds those); value not disclosed."
   },
   {
     "id": "bal-visit-rwanda",
@@ -1229,10 +1229,10 @@
     "note": "Practice-jersey patch."
   },
   {
-    "id": "cleveland-browns-huntington-national-bank-huntington-bancshares-stadium",
+    "id": "cleveland-browns-huntington-national-bank-stadium",
     "clubId": "cleveland-browns",
     "orgName": "Huntington National Bank (Huntington Bancshares)",
-    "sponsorId": "huntington-national-bank-huntington-bancshares",
+    "sponsorId": "huntington-national-bank",
     "placement": "stadium",
     "from": "2026",
     "to": null,
@@ -1325,10 +1325,10 @@
     "note": "Jersey patch."
   },
   {
-    "id": "arizona-diamondbacks-jpmorgan-chase-chase-stadium",
+    "id": "arizona-diamondbacks-jpmorgan-chase-stadium",
     "clubId": "arizona-diamondbacks",
     "orgName": "JPMorgan Chase (Chase)",
-    "sponsorId": "jpmorgan-chase-chase",
+    "sponsorId": "jpmorgan-chase",
     "placement": "stadium",
     "from": "2026",
     "to": null,
@@ -1357,10 +1357,10 @@
     "note": "Jersey patch."
   },
   {
-    "id": "chicago-white-sox-rate-formerly-guaranteed-rate-stadium",
+    "id": "chicago-white-sox-rate-stadium",
     "clubId": "chicago-white-sox",
     "orgName": "Rate (formerly Guaranteed Rate)",
-    "sponsorId": "rate-formerly-guaranteed-rate",
+    "sponsorId": "rate",
     "placement": "stadium",
     "from": "2026",
     "to": null,
@@ -1405,10 +1405,10 @@
     "note": "Jersey patch."
   },
   {
-    "id": "new-york-mets-citigroup-citi-stadium",
+    "id": "new-york-mets-citigroup-stadium",
     "clubId": "new-york-mets",
     "orgName": "Citigroup (Citi)",
-    "sponsorId": "citigroup-citi",
+    "sponsorId": "citigroup",
     "placement": "stadium",
     "from": "2026",
     "to": null,
@@ -1725,10 +1725,10 @@
     "note": "Practice-jersey patch."
   },
   {
-    "id": "new-england-patriots-gillette-procter-and-gamble-stadium",
+    "id": "new-england-patriots-gillette-stadium",
     "clubId": "new-england-patriots",
     "orgName": "Gillette (Procter & Gamble)",
-    "sponsorId": "gillette-procter-and-gamble",
+    "sponsorId": "gillette",
     "placement": "stadium",
     "from": "2026",
     "to": null,
@@ -1757,10 +1757,10 @@
     "note": "Practice-jersey patch."
   },
   {
-    "id": "san-francisco-49ers-levi-strauss-and-co-levi-s-stadium",
+    "id": "san-francisco-49ers-levi-strauss-and-co-stadium",
     "clubId": "san-francisco-49ers",
     "orgName": "Levi Strauss & Co. (Levi's)",
-    "sponsorId": "levi-strauss-and-co-levi-s",
+    "sponsorId": "levi-strauss-and-co",
     "placement": "stadium",
     "from": "2026",
     "to": null,
@@ -2317,10 +2317,10 @@
     "note": "Jersey patch."
   },
   {
-    "id": "philadelphia-phillies-citizens-bank-citizens-financial-group-stadium",
+    "id": "philadelphia-phillies-citizens-bank-stadium",
     "clubId": "philadelphia-phillies",
     "orgName": "Citizens Bank (Citizens Financial Group)",
-    "sponsorId": "citizens-bank-citizens-financial-group",
+    "sponsorId": "citizens-bank",
     "placement": "stadium",
     "from": "2026",
     "to": null,
@@ -2349,10 +2349,10 @@
     "note": "Jersey patch."
   },
   {
-    "id": "tampa-bay-rays-tropicana-tropicana-brands-group-stadium",
+    "id": "tampa-bay-rays-tropicana-stadium",
     "clubId": "tampa-bay-rays",
     "orgName": "Tropicana (Tropicana Brands Group)",
-    "sponsorId": "tropicana-tropicana-brands-group",
+    "sponsorId": "tropicana",
     "placement": "stadium",
     "from": "2026",
     "to": null,
@@ -2381,10 +2381,10 @@
     "note": "Jersey patch."
   },
   {
-    "id": "charlotte-hornets-spectrum-charter-communications-stadium",
+    "id": "charlotte-hornets-spectrum-stadium",
     "clubId": "charlotte-hornets",
     "orgName": "Spectrum (Charter Communications)",
-    "sponsorId": "spectrum-charter-communications",
+    "sponsorId": "spectrum",
     "placement": "stadium",
     "from": "2026",
     "to": null,
@@ -2413,10 +2413,10 @@
     "note": "Jersey patch."
   },
   {
-    "id": "golden-state-warriors-jpmorgan-chase-chase-brand-stadium",
+    "id": "golden-state-warriors-jpmorgan-chase-stadium",
     "clubId": "golden-state-warriors",
     "orgName": "JPMorgan Chase (Chase brand)",
-    "sponsorId": "jpmorgan-chase-chase-brand",
+    "sponsorId": "jpmorgan-chase",
     "placement": "stadium",
     "from": "2026",
     "to": null,
@@ -2477,10 +2477,10 @@
     "note": "Jersey patch."
   },
   {
-    "id": "philadelphia-76ers-xfinity-mobile-comcast-stadium",
+    "id": "philadelphia-76ers-xfinity-mobile-stadium",
     "clubId": "philadelphia-76ers",
     "orgName": "Xfinity Mobile (Comcast)",
-    "sponsorId": "xfinity-mobile-comcast",
+    "sponsorId": "xfinity-mobile",
     "placement": "stadium",
     "from": "2026",
     "to": null,
@@ -2621,10 +2621,10 @@
     "note": "Practice-jersey patch."
   },
   {
-    "id": "new-york-giants-metlife-metropolitan-life-insurance-stadium",
+    "id": "new-york-giants-metlife-stadium",
     "clubId": "new-york-giants",
     "orgName": "MetLife (Metropolitan Life Insurance)",
-    "sponsorId": "metlife-metropolitan-life-insurance",
+    "sponsorId": "metlife",
     "placement": "stadium",
     "from": "2026",
     "to": null,
@@ -2701,10 +2701,10 @@
     "note": "Jersey patch."
   },
   {
-    "id": "colorado-rockies-coors-brewing-co-molson-coors-stadium",
+    "id": "colorado-rockies-coors-brewing-co-stadium",
     "clubId": "colorado-rockies",
     "orgName": "Coors Brewing Co. (Molson Coors)",
-    "sponsorId": "coors-brewing-co-molson-coors",
+    "sponsorId": "coors-brewing-co",
     "placement": "stadium",
     "from": "2026",
     "to": null,
@@ -2765,10 +2765,10 @@
     "note": "Jersey patch."
   },
   {
-    "id": "pittsburgh-pirates-pnc-bank-pnc-financial-services-stadium",
+    "id": "pittsburgh-pirates-pnc-bank-stadium",
     "clubId": "pittsburgh-pirates",
     "orgName": "PNC Bank (PNC Financial Services)",
-    "sponsorId": "pnc-bank-pnc-financial-services",
+    "sponsorId": "pnc-bank",
     "placement": "stadium",
     "from": "2026",
     "to": null,
@@ -2797,10 +2797,10 @@
     "note": "Jersey patch."
   },
   {
-    "id": "texas-rangers-globe-life-globe-life-inc-stadium",
+    "id": "texas-rangers-globe-life-stadium",
     "clubId": "texas-rangers",
     "orgName": "Globe Life (Globe Life Inc.)",
-    "sponsorId": "globe-life-globe-life-inc",
+    "sponsorId": "globe-life",
     "placement": "stadium",
     "from": "2026",
     "to": null,
@@ -3261,10 +3261,10 @@
     "note": "Jersey patch."
   },
   {
-    "id": "cleveland-cavaliers-rocket-rocket-companies-stadium",
+    "id": "cleveland-cavaliers-rocket-stadium",
     "clubId": "cleveland-cavaliers",
     "orgName": "Rocket (Rocket Companies)",
-    "sponsorId": "rocket-rocket-companies",
+    "sponsorId": "rocket",
     "placement": "stadium",
     "from": "2026",
     "to": null,
@@ -3293,10 +3293,10 @@
     "note": "Jersey patch."
   },
   {
-    "id": "indiana-pacers-gainbridge-group-1001-stadium",
+    "id": "indiana-pacers-gainbridge-stadium",
     "clubId": "indiana-pacers",
     "orgName": "Gainbridge (Group 1001)",
-    "sponsorId": "gainbridge-group-1001",
+    "sponsorId": "gainbridge",
     "placement": "stadium",
     "from": "2026",
     "to": null,
@@ -3437,10 +3437,10 @@
     "note": "Practice-jersey patch."
   },
   {
-    "id": "houston-texans-nrg-energy-reliant-brand-stadium",
+    "id": "houston-texans-nrg-energy-stadium",
     "clubId": "houston-texans",
     "orgName": "NRG Energy (Reliant brand)",
-    "sponsorId": "nrg-energy-reliant-brand",
+    "sponsorId": "nrg-energy",
     "placement": "stadium",
     "from": "2026",
     "to": null,
@@ -3613,10 +3613,10 @@
     "note": "Jersey patch."
   },
   {
-    "id": "minnesota-twins-target-target-corporation-stadium",
+    "id": "minnesota-twins-target-stadium",
     "clubId": "minnesota-twins",
     "orgName": "Target (Target Corporation)",
-    "sponsorId": "target-target-corporation",
+    "sponsorId": "target",
     "placement": "stadium",
     "from": "2026",
     "to": null,
@@ -3675,6 +3675,70 @@
       "url": "https://www.aarp.org/press/releases/2025-06-30-aarp-becomes-washington-nationals-inaugural-jersey-patch-sponsor-and-an-official-community-impact-partner.html"
     },
     "note": "Jersey patch."
+  },
+  {
+    "id": "la-clippers-visit-rwanda-patch",
+    "clubId": "la-clippers",
+    "orgName": "Visit Rwanda (Rwanda Development Board)",
+    "sponsorId": "visit-rwanda",
+    "placement": "patch",
+    "from": "2025",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "LA Clippers press release (NBA.com)",
+      "date": "2025-09-29",
+      "url": "https://www.nba.com/clippers/news/visit-rwanda-lands-in-los-angeles"
+    },
+    "note": "Jersey patch."
+  },
+  {
+    "id": "la-clippers-intuit-stadium",
+    "clubId": "la-clippers",
+    "orgName": "Intuit (Intuit Inc., Nasdaq: INTU)",
+    "sponsorId": "intuit",
+    "placement": "stadium",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Intuit Inc. investor press release (Business Wire)",
+      "date": "2021-09-17",
+      "url": "https://investors.intuit.com/news-events/press-releases/detail/161/la-clippers-to-announce-partnership-during-groundbreaking-for-intuit-dome"
+    },
+    "note": "Arena naming rights: Intuit Dome."
+  },
+  {
+    "id": "la-rams-hyundai-patch",
+    "clubId": "la-rams",
+    "orgName": "Hyundai (Hyundai Motor America)",
+    "sponsorId": "hyundai",
+    "placement": "training-kit",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Zoomph (2026 NFL practice-jersey patch guide)",
+      "date": "2026-09-01",
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+    },
+    "note": "Practice-jersey patch."
+  },
+  {
+    "id": "la-rams-sofi-stadium",
+    "clubId": "la-rams",
+    "orgName": "SoFi (Social Finance, Inc.)",
+    "sponsorId": "sofi",
+    "placement": "stadium",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Los Angeles Times (quoting the joint club/venue release)",
+      "date": "2019-09-15",
+      "url": "https://www.latimes.com/sports/rams/story/2019-09-15/inglewood-stadium-name-chargers-rams"
+    },
+    "note": "Arena naming rights: SoFi Stadium."
   },
   {
     "id": "lazio-polymarket",

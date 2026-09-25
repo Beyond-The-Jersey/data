@@ -10,13 +10,13 @@
   },
   "sponsors": [
     {
-      "id": "metlife-metropolitan-life-insurance",
-      "name": "MetLife (Metropolitan Life Insurance)",
+      "id": "metlife",
+      "name": "MetLife",
       "placement": "stadium",
       "season": null,
       "tier": "unrated",
-      "ownerId": "metlife-metropolitan-life-insurance-owner",
-      "owner": "MetLife (Metropolitan Life Insurance)",
+      "ownerId": "metlife-owner",
+      "owner": "MetLife",
       "verdict": null,
       "source": {
         "name": "NJ.com",
@@ -42,7 +42,7 @@
   ],
   "worstTier": "unrated",
   "owners": [
-    "metlife-metropolitan-life-insurance-owner",
+    "metlife-owner",
     "quest-diagnostics-owner"
   ],
   "lastUpdated": "2026-09-24"

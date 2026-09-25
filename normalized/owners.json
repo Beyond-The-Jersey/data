@@ -952,13 +952,6 @@
     "parentId": "motorsport-invest"
   },
   {
-    "id": "gillette-procter-and-gamble-owner",
-    "name": "Gillette (Procter & Gamble)",
-    "type": "unknown",
-    "parentId": null,
-    "note": "arena naming-rights holder of new-england-patriots (2026-27)."
-  },
-  {
     "id": "globe-life-globe-life-inc-owner",
     "name": "Globe Life (Globe Life Inc.)",
     "type": "unknown",
@@ -1178,6 +1171,13 @@
     "note": "arena naming-rights holder of cleveland-browns (2026-27)."
   },
   {
+    "id": "hyundai-owner",
+    "name": "Hyundai (Hyundai Motor America)",
+    "type": "unknown",
+    "parentId": null,
+    "note": "jersey patch partner of la-rams (2026-27)."
+  },
+  {
     "id": "ibm-corp",
     "name": "International Business Machines Corporation",
     "type": "listed-company",
@@ -1241,6 +1241,13 @@
     "country": "Australia"
   },
   {
+    "id": "intuit-intuit-inc-nasdaq-intu-owner",
+    "name": "Intuit (Intuit Inc., Nasdaq: INTU)",
+    "type": "unknown",
+    "parentId": null,
+    "note": "arena naming-rights holder of la-clippers (2026-27)."
+  },
+  {
     "id": "iren-owner",
     "name": "IREN (IREN Ltd, AI cloud infrastructure)",
     "type": "unknown",
@@ -1262,11 +1269,11 @@
     "note": "jersey patch partner of philadelphia-eagles (2026-27)."
   },
   {
-    "id": "jpmorgan-chase-chase-owner",
-    "name": "JPMorgan Chase (Chase)",
+    "id": "jpmorgan-chase-owner",
+    "name": "JPMorgan Chase (Chase brand)",
     "type": "unknown",
     "parentId": null,
-    "note": "arena naming-rights holder of arizona-diamondbacks (2026-27)."
+    "note": "arena naming-rights holder of golden-state-warriors (2026-27)."
   },
   {
     "id": "jpmorganchase-owner",
@@ -1576,13 +1583,6 @@
     "type": "listed-company",
     "country": "Germany",
     "parentId": null
-  },
-  {
-    "id": "metlife-metropolitan-life-insurance-owner",
-    "name": "MetLife (Metropolitan Life Insurance)",
-    "type": "unknown",
-    "parentId": null,
-    "note": "arena naming-rights holder of new-york-giants (2026-27)."
   },
   {
     "id": "metlife-owner",
@@ -2368,13 +2368,6 @@
     "type": "listed-company",
     "parentId": null,
     "country": "US"
-  },
-  {
-    "id": "target-target-corporation-owner",
-    "name": "Target (Target Corporation)",
-    "type": "unknown",
-    "parentId": null,
-    "note": "arena naming-rights holder of minnesota-twins (2026-27)."
   },
   {
     "id": "td-bank-owner",
