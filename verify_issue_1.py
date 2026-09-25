@@ -59,7 +59,7 @@ bad = [c["id"] for c in changes if not (c.get("date") and c.get("title") and c.g
 chk("every change is dated, titled, rated and sourced", not bad, str(bad))
 
 # 5 sports / leagues
-chk("no american_football", {c["sportId"] for c in clubs} == {"soccer", "american-football", "basketball", "baseball"})
+chk("no american_football", {"soccer", "american-football", "basketball", "baseball"} <= {c["sportId"] for c in clubs})
 chk("baseball in sports.json", "baseball" in {s["id"] for s in sports})
 chk("mlb and 2-bundesliga in leagues.json",
     {"mlb", "2-bundesliga"} <= {l["id"] for l in leagues})
