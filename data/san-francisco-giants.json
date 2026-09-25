@@ -16,10 +16,10 @@
       "name": "Airwallex",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "airwallex-owner",
       "owner": "Airwallex",
-      "verdict": null,
+      "verdict": "Owned by Airwallex. Nothing found.",
       "source": {
         "name": "MLB.com press release (San Francisco Giants)",
         "date": "2026-02-18",

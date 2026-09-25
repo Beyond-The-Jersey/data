@@ -31,10 +31,10 @@
       "name": "TD Bank",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "td-bank-owner",
       "owner": "TD Bank",
-      "verdict": null,
+      "verdict": "Owned by TD Bank. Nothing found.",
       "source": {
         "name": "Blinkfire Analytics (2026 MLB jersey patch list)",
         "date": "2026-04-20",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "rogers-communications-owner",
     "td-bank-owner"

@@ -16,10 +16,10 @@
       "name": "Daikin Comfort Technologies",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "daikin-comfort-technologies-owner",
       "owner": "Daikin Comfort Technologies",
-      "verdict": null,
+      "verdict": "Owned by Daikin Comfort Technologies. Nothing found.",
       "source": {
         "name": "MLB.com press release (Houston Astros)",
         "date": "2024-11-18",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "daikin-comfort-technologies-owner",
     "occidental-petroleum-owner"

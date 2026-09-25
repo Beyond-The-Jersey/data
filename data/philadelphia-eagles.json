@@ -15,10 +15,10 @@
       "name": "Jefferson Health",
       "placement": "training-kit",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "jefferson-health-owner",
       "owner": "Jefferson Health",
-      "verdict": null,
+      "verdict": "Owned by Jefferson Health. Nothing found.",
       "source": {
         "name": "Zoomph (2026 NFL practice jersey patch guide)",
         "date": "2026-09-01",

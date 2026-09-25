@@ -16,10 +16,10 @@
       "name": "Amazon Web Services (AWS)",
       "placement": "training-kit",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "aws-owner",
       "owner": "Amazon Web Services (AWS)",
-      "verdict": null,
+      "verdict": "Owned by Amazon Web Services (AWS). Nothing found.",
       "source": {
         "name": "Zoomph (NFL Practice Jersey Patch Sponsors guide; updated 2026-09-01)",
         "date": "2026-09-01",

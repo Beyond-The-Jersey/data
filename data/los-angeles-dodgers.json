@@ -16,10 +16,10 @@
       "name": "Guggenheim Baseball Management",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "guggenheim-owner",
       "owner": "Guggenheim Baseball Management",
-      "verdict": null,
+      "verdict": "Owned by Guggenheim Baseball Management. Nothing found.",
       "source": {
         "name": "DodgerBlue",
         "date": "2026-03-25",

@@ -31,10 +31,10 @@
       "name": "Sutter Health",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "sutter-health-owner",
       "owner": "Sutter Health",
-      "verdict": null,
+      "verdict": "Owned by Sutter Health. Nothing found.",
       "source": {
         "name": "Fierce Healthcare",
         "date": "2024-04-04",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "lvcva-owner",
     "sutter-health-owner"

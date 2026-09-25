@@ -16,10 +16,10 @@
       "name": "U.S. Bank",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "us-bank-owner",
       "owner": "U.S. Bank",
-      "verdict": null,
+      "verdict": "Owned by U.S. Bank. Nothing found.",
       "source": {
         "name": "Minnesota Vikings",
         "date": "2015-06-15",
@@ -27,7 +27,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "us-bank-owner"
   ],

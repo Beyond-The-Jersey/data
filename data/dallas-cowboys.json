@@ -15,10 +15,10 @@
       "name": "AT&T",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "att-inc",
       "owner": "AT&T Inc.",
-      "verdict": null,
+      "verdict": "Owned by AT&T Inc.. Nothing found.",
       "source": {
         "name": "ESPN",
         "date": "2013-07-25",

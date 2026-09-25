@@ -17,10 +17,10 @@
       "name": "AARP",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "aarp-owner",
       "owner": "AARP",
-      "verdict": null,
+      "verdict": "Owned by AARP. Nothing found.",
       "source": {
         "name": "AARP press release",
         "date": "2025-06-30",
@@ -28,7 +28,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "aarp-owner"
   ],

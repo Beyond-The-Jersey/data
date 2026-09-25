@@ -31,10 +31,10 @@
       "name": "Lucas Oil Products",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "lucas-oil-products-owner",
       "owner": "Lucas Oil Products",
-      "verdict": null,
+      "verdict": "Owned by Lucas Oil Products. Nothing found.",
       "source": {
         "name": "Encyclopedia of Indianapolis",
         "date": "2006-02-28",

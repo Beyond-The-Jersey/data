@@ -14,10 +14,10 @@
       "name": "American Airlines",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "american-airlines-owner",
       "owner": "American Airlines",
-      "verdict": null,
+      "verdict": "Owned by American Airlines. Nothing found.",
       "source": {
         "name": "RetroSeasons",
         "date": "1999-03-18",

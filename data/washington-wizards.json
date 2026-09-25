@@ -29,10 +29,10 @@
       "name": "Robinhood",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "robinhood-owner",
       "owner": "Robinhood",
-      "verdict": null,
+      "verdict": "Owned by Robinhood. Nothing found.",
       "source": {
         "name": "Washington Wizards (nba.com)",
         "date": "2023-10-23",

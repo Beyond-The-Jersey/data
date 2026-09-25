@@ -29,10 +29,10 @@
       "name": "Robinhood",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "robinhood-owner",
       "owner": "Robinhood",
-      "verdict": null,
+      "verdict": "Owned by Robinhood. Nothing found.",
       "source": {
         "name": "Sports Business Journal",
         "date": "2024-09-19",

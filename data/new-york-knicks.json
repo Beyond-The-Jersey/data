@@ -14,10 +14,10 @@
       "name": "Experience Abu Dhabi (Dept. of Culture and Tourism - Abu Dhabi)",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "serious",
       "ownerId": "government-of-abu-dhabi",
       "owner": "Government of Abu Dhabi",
-      "verdict": null,
+      "verdict": "Experience Abu Dhabi is the official tourism authority of the Emirate of Abu Dhabi, a state government entity.",
       "source": {
         "name": "PR Newswire / MSG Sports Corp.",
         "date": "2024-10-17",
@@ -25,7 +25,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "serious",
   "owners": [
     "government-of-abu-dhabi"
   ],

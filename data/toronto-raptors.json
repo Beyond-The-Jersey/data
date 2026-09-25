@@ -14,10 +14,10 @@
       "name": "Scotiabank",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "scotiabank-owner",
       "owner": "Scotiabank",
-      "verdict": null,
+      "verdict": "Owned by Scotiabank. Nothing found.",
       "source": {
         "name": "PR Newswire (Scotiabank / MLSE)",
         "date": "2017-08-29",

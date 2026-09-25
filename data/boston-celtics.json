@@ -30,10 +30,10 @@
       "name": "TD Bank",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "td-bank-owner",
       "owner": "TD Bank",
-      "verdict": null,
+      "verdict": "Owned by TD Bank. Nothing found.",
       "source": {
         "name": "TD Bank / Delaware North (stories.td.com)",
         "date": "2023-01-12",

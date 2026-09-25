@@ -16,10 +16,10 @@
       "name": "Marathon",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "marathon-owner",
       "owner": "Marathon",
-      "verdict": null,
+      "verdict": "Owned by Marathon. Nothing found.",
       "source": {
         "name": "Crain's Cleveland Business",
         "date": "2026-09-10",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "marathon-owner",
     "progressive-owner"

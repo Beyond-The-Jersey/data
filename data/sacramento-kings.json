@@ -29,10 +29,10 @@
       "name": "Sutter Health",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "sutter-health-owner",
       "owner": "Sutter Health",
-      "verdict": null,
+      "verdict": "Owned by Sutter Health. Nothing found.",
       "source": {
         "name": "Sports Business Journal",
         "date": "2026-05-12",
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "golden-1-credit-union-owner",
     "sutter-health-owner"

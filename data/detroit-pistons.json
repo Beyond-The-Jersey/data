@@ -15,10 +15,10 @@
       "name": "Little Caesars",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "little-caesars-owner",
       "owner": "Little Caesars",
-      "verdict": null,
+      "verdict": "Owned by Little Caesars. Nothing found.",
       "source": {
         "name": "PR Newswire (Little Caesars Pizza / Olympia Entertainment)",
         "date": "2016-04-28",
@@ -41,7 +41,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "little-caesars-owner",
     "stockx-owner"

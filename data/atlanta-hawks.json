@@ -31,10 +31,10 @@
       "name": "State Farm",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "state-farm-owner",
       "owner": "State Farm",
-      "verdict": null,
+      "verdict": "Owned by State Farm. Nothing found.",
       "source": {
         "name": "Peachtree Hoops (SB Nation)",
         "date": "2018-08-29",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "paze-owner",
     "state-farm-owner"

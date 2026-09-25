@@ -14,10 +14,10 @@
       "name": "Kroger",
       "placement": "training-kit",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "concern",
       "ownerId": "kroger-owner",
       "owner": "Kroger",
-      "verdict": null,
+      "verdict": "Kroger agreed to pay up to $1.4 billion to settle opioid lawsuits with states, counties and tribes in 2023.",
       "source": {
         "name": "Zoomph (2026 NFL jersey patch guide)",
         "date": "2026-09-01",
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "concern",
   "owners": [
     "kroger-owner",
     "nissan-owner"

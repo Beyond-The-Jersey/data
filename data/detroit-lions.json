@@ -16,10 +16,10 @@
       "name": "Ford Motor Company",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "ford-motor-company",
       "owner": "Ford Motor Company",
-      "verdict": null,
+      "verdict": "Owned by Ford Motor Company. Nothing found.",
       "source": {
         "name": "Detroit Lions",
         "date": "2025-03-28",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "ford-motor-company",
     "meijer-owner"

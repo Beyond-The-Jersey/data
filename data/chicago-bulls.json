@@ -30,10 +30,10 @@
       "name": "United Airlines",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "united-airlines-owner",
       "owner": "United Airlines",
-      "verdict": null,
+      "verdict": "Owned by United Airlines. Nothing found.",
       "source": {
         "name": "United Center (official)",
         "date": "2013-12-11",
@@ -41,7 +41,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "motorola-mobility-owner",
     "united-airlines-owner"

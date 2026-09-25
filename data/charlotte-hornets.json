@@ -16,10 +16,10 @@
       "name": "Judi Health",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "judi-health-owner",
       "owner": "Judi Health",
-      "verdict": null,
+      "verdict": "Owned by Judi Health. Nothing found.",
       "source": {
         "name": "Charlotte Hornets / NBA.com",
         "date": "2025-09-24",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "judi-health-owner",
     "spectrum-charter-communications-owner"

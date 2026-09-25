@@ -29,10 +29,10 @@
       "name": "Walt Disney World Resort",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "walt-disney-world-owner",
       "owner": "Walt Disney World Resort",
-      "verdict": null,
+      "verdict": "Owned by Walt Disney World Resort. Nothing found.",
       "source": {
         "name": "Orlando Magic (nba.com/magic)",
         "date": "2022-10-26",

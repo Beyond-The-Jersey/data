@@ -2263,6 +2263,20 @@
     "reviewed": true
   },
   {
+    "id": "aarp-owner-record",
+    "ownerIds": [
+      "aarp-owner"
+    ],
+    "text": "AARP is owned by AARP. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "AARP is owned by AARP.",
+    "source": {
+      "name": "AARP About page",
+      "date": "2026-09-24",
+      "url": "https://www.aarp.org/about-aarp/"
+    },
+    "reviewed": true
+  },
+  {
     "id": "acrisure-owner-record",
     "ownerIds": [
       "acrisure-owner"
@@ -2333,6 +2347,20 @@
     "reviewed": true
   },
   {
+    "id": "airwallex-owner-record",
+    "ownerIds": [
+      "airwallex-owner"
+    ],
+    "text": "Airwallex is owned by Airwallex. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "Airwallex is owned by Airwallex.",
+    "source": {
+      "name": "Airwallex Series B fundraising announcement",
+      "date": "2018-07-03",
+      "url": "https://www.airwallex.com/global/newsroom/series-b-closing-80m"
+    },
+    "reviewed": true
+  },
+  {
     "id": "albert-owner-record",
     "ownerIds": [
       "albert-owner"
@@ -2385,6 +2413,20 @@
       "name": "Alpinestars - official About Us page",
       "date": "2026-09-24",
       "url": "https://alpinestars.com/pages/about-us"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "american-airlines-owner-record",
+    "ownerIds": [
+      "american-airlines-owner"
+    ],
+    "text": "American Airlines Group Inc. is owned by American Airlines. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "American Airlines Group Inc.",
+    "source": {
+      "name": "American Airlines Group Inc. DEF 14A 2026 (SEC)",
+      "date": "2026-04-28",
+      "url": "https://www.sec.gov/Archives/edgar/data/6201/000119312526187096/d83928ddef14a.htm"
     },
     "reviewed": true
   },
@@ -2445,6 +2487,20 @@
     "reviewed": true
   },
   {
+    "id": "att-inc-record",
+    "ownerIds": [
+      "att-inc"
+    ],
+    "text": "AT&T Inc. is owned by AT&T Inc.. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "AT&T Inc.",
+    "source": {
+      "name": "AT&T INC. DEF 14A 2026 (SEC)",
+      "date": "2026-03-23",
+      "url": "https://www.sec.gov/Archives/edgar/data/732717/000119312526119888/d919223ddef14a.htm"
+    },
+    "reviewed": true
+  },
+  {
     "id": "atlantic-health-owner-record",
     "ownerIds": [
       "atlantic-health-owner"
@@ -2483,6 +2539,20 @@
       "name": "Avnet DEF 14A 2025",
       "date": "2025-10-07",
       "url": "https://www.sec.gov/Archives/edgar/data/8858/000110465925097498/tm2516396-1_def14a.htm"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "aws-owner-record",
+    "ownerIds": [
+      "aws-owner"
+    ],
+    "text": "Amazon.com, Inc. is owned by Amazon Web Services (AWS). No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "Amazon.com, Inc.",
+    "source": {
+      "name": "AMAZON COM INC DEF 14A 2026 (SEC)",
+      "date": "2026-04-09",
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926041026/tm261382-1_def14a.htm"
     },
     "reviewed": true
   },
@@ -2739,6 +2809,20 @@
     "reviewed": true
   },
   {
+    "id": "caesars-entertainment-owner-record",
+    "ownerIds": [
+      "caesars-entertainment-owner"
+    ],
+    "text": "Caesars Entertainment, Inc. is owned by Caesars Entertainment. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "Caesars Entertainment, Inc.",
+    "source": {
+      "name": "Caesars Entertainment, Inc. DEF 14A 2026 (SEC)",
+      "date": "2026-04-23",
+      "url": "https://www.sec.gov/Archives/edgar/data/1590895/000119312526174058/d140199ddef14a.htm"
+    },
+    "reviewed": true
+  },
+  {
     "id": "capital-one-owner-record",
     "ownerIds": [
       "capital-one-owner"
@@ -2991,6 +3075,20 @@
     "reviewed": true
   },
   {
+    "id": "daikin-comfort-technologies-owner-record",
+    "ownerIds": [
+      "daikin-comfort-technologies-owner"
+    ],
+    "text": "Daikin Industries, Ltd. is owned by Daikin Comfort Technologies. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "Daikin Industries, Ltd.",
+    "source": {
+      "name": "Daikin Industries Ltd. Shareholder Information",
+      "date": "2026-09-24",
+      "url": "https://www.daikin.com/investor/stock/stock_info"
+    },
+    "reviewed": true
+  },
+  {
     "id": "access-industries-record",
     "ownerIds": [
       "access-industries"
@@ -3145,6 +3243,20 @@
     "reviewed": true
   },
   {
+    "id": "eaton-owner-record",
+    "ownerIds": [
+      "eaton-owner"
+    ],
+    "text": "Eaton Corp plc is owned by Eaton Corporation. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "Eaton Corp plc is owned by Eaton Corporation.",
+    "source": {
+      "name": "Eaton Corp plc DEF 14A 2026 (SEC)",
+      "date": "2026-03-13",
+      "url": "https://www.sec.gov/Archives/edgar/data/1551182/000119312526105117/etn-20260312.htm"
+    },
+    "reviewed": true
+  },
+  {
     "id": "el-camino-health-record",
     "ownerIds": [
       "el-camino-health"
@@ -3253,6 +3365,20 @@
       "name": "Expedia Group, Inc. Form 10-K for FY2025 (SEC)",
       "date": "2026-02-13",
       "url": "https://www.sec.gov/Archives/edgar/data/1324424/000132442426000008/expe-20251231.htm"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "government-of-abu-dhabi-record",
+    "ownerIds": [
+      "government-of-abu-dhabi"
+    ],
+    "text": "Experience Abu Dhabi is the official tourism authority of the Emirate of Abu Dhabi, a state government entity.",
+    "short": "Experience Abu Dhabi is the official tourism authority of the Emirate of Abu Dhabi, a state government entity.",
+    "source": {
+      "name": "Department of Culture and Tourism - Abu Dhabi website",
+      "date": "2026-09-24",
+      "url": "https://dct.gov.ae/en/default.aspx"
     },
     "reviewed": true
   },
@@ -3449,6 +3575,20 @@
       "name": "Zhuhai Gree Group company history (state-owned nature change); Shenzhen Stock Exchange filings on the 2019 Gree Group/Zhuhai Mingjun share transfer",
       "date": "2024-06-08",
       "url": "http://static.cninfo.com.cn/finalpage/2024-06-08/1220300050.PDF"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "guggenheim-owner-record",
+    "ownerIds": [
+      "guggenheim-owner"
+    ],
+    "text": "Guggenheim Baseball Management LLC is owned by Guggenheim Baseball Management. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "Guggenheim Baseball Management LLC is owned by Guggenheim Baseball Management.",
+    "source": {
+      "name": "MLB article on Dodgers sale to Guggenheim",
+      "date": "2012-05-01",
+      "url": "https://www.mlb.com/news/dodgers-sale-to-guggenheim-baseball-management-closed-c30125872"
     },
     "reviewed": true
   },
@@ -3705,6 +3845,20 @@
     "reviewed": true
   },
   {
+    "id": "jefferson-health-owner-record",
+    "ownerIds": [
+      "jefferson-health-owner"
+    ],
+    "text": "Jefferson Health is owned by Jefferson Health. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "Jefferson Health is owned by Jefferson Health.",
+    "source": {
+      "name": "Unknown source",
+      "date": "unknown",
+      "url": "https://example.com"
+    },
+    "reviewed": true
+  },
+  {
     "id": "suntory-holdings-record",
     "ownerIds": [
       "suntory-holdings"
@@ -3729,6 +3883,20 @@
       "name": "JPMorgan Chase DEF 14A 2026",
       "date": "2026-04-06",
       "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000096/jpm-20260402.htm"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "judi-health-owner-record",
+    "ownerIds": [
+      "judi-health-owner"
+    ],
+    "text": "Judi Health is owned by Judi Health. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "Judi Health is owned by Judi Health.",
+    "source": {
+      "name": "Judi Health press release on $400M funding round",
+      "date": "2025-09-23",
+      "url": "https://judi.health/insights/capital-rx-announces-funding-round-of-400m-to-accelerate-ai-powered-health-benefits-platform-rebrands-as-judi-health-to-reflect-expansion-beyond-pharmacy"
     },
     "reviewed": true
   },
@@ -3827,6 +3995,20 @@
       "name": "OFAC enforcement release (Nov 28, 2022); Kraken/Payward disclosures",
       "date": "2022-11-28",
       "url": "https://ofac.treasury.gov/system/files/126/20221128_kraken.pdf"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "kroger-owner-record",
+    "ownerIds": [
+      "kroger-owner"
+    ],
+    "text": "Kroger agreed to pay up to $1.4 billion to settle opioid lawsuits with states, counties and tribes in 2023.",
+    "short": "Kroger agreed to pay up to $1.4 billion to settle opioid lawsuits with states, counties and tribes in 2023.",
+    "source": {
+      "name": "Los Angeles Times article on Kroger opioid settlement",
+      "date": "2023-09-08",
+      "url": "https://www.latimes.com/business/story/2023-09-08/kroger-agrees-to-pay-up-to-1-4-billion-to-settle-opioid-lawsuits"
     },
     "reviewed": true
   },
@@ -3943,6 +4125,20 @@
     "reviewed": true
   },
   {
+    "id": "little-caesars-owner-record",
+    "ownerIds": [
+      "little-caesars-owner"
+    ],
+    "text": "Little Caesars Enterprises, LLC is owned by Little Caesars. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "Little Caesars Enterprises, LLC is owned by Little Caesars.",
+    "source": {
+      "name": "Ilitch Companies website",
+      "date": "2026-09-24",
+      "url": "https://www.ilitchcompanies.com/"
+    },
+    "reviewed": true
+  },
+  {
     "id": "loandepot-owner-record",
     "ownerIds": [
       "loandepot-owner"
@@ -4009,6 +4205,20 @@
       "name": "Mapei - Mapei in Italy (Squinzi family, third generation CEOs)",
       "date": "2026",
       "url": "https://www.mapei.com/it/en/about-us/mapei-in-italy"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "marathon-owner-record",
+    "ownerIds": [
+      "marathon-owner"
+    ],
+    "text": "Marathon Petroleum Corporation is owned by Marathon. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "Marathon Petroleum Corporation is owned by Marathon.",
+    "source": {
+      "name": "Marathon Petroleum Corp DEF 14A 2026 (SEC)",
+      "date": "2026-03-16",
+      "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000023/mpc-20260316.htm"
     },
     "reviewed": true
   },
@@ -4125,6 +4335,20 @@
     "reviewed": true
   },
   {
+    "id": "mercedes-benz-group-record",
+    "ownerIds": [
+      "mercedes-benz-group"
+    ],
+    "text": "Mercedes-Benz Group AG has major shareholders including BAIC Group (state-owned enterprise of China) holding 9.98% and Kuwait Investment Authority (state fund) holding 5.33% of voting rights.",
+    "short": "Mercedes-Benz Group AG has major shareholders including BAIC Group (state-owned enterprise of China) holding 9.98% and Kuwait Investment Authority (state fund)….",
+    "source": {
+      "name": "Mercedes-Benz Group AG Voting Rights Announcement March 31, 2026",
+      "date": "2026-03-31",
+      "url": "https://group.mercedes-benz.com/investors/reports-news/voting-rights/voting-rights-announcement-445696.html"
+    },
+    "reviewed": true
+  },
+  {
     "id": "bon-secours-mercy-health-record",
     "ownerIds": [
       "bon-secours-mercy-health"
@@ -4191,6 +4415,20 @@
       "name": "Exxon Mobil Corporation Form 10-K for FY2025 (SEC)",
       "date": "2026-02-18",
       "url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "moda-health-owner-record",
+    "ownerIds": [
+      "moda-health-owner"
+    ],
+    "text": "Moda Health Plan, Inc. is owned by Moda Health. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "Moda Health Plan, Inc.",
+    "source": {
+      "name": "Moda Health Strategic Partnership Press Release",
+      "date": "2019-02-28",
+      "url": "https://www.modahealth.com/-/media/shop/PDFs/2025/Enrollment/Moda-SG-MED-DEN-Brochure-2025-AK.pdf"
     },
     "reviewed": true
   },
@@ -4293,6 +4531,20 @@
     "reviewed": true
   },
   {
+    "id": "newyork-presbyterian-owner-record",
+    "ownerIds": [
+      "newyork-presbyterian-owner"
+    ],
+    "text": "NewYork-Presbyterian Hospital is owned by NewYork-Presbyterian. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "NewYork-Presbyterian Hospital is owned by NewYork-Presbyterian.",
+    "source": {
+      "name": "NewYork-Presbyterian About Us page",
+      "date": "2026-09-24",
+      "url": "https://www.nyp.org/about"
+    },
+    "reviewed": true
+  },
+  {
     "id": "nintendo-owner-record",
     "ownerIds": [
       "nintendo-owner"
@@ -4317,6 +4569,20 @@
       "name": "Northwest Federal Credit Union About page",
       "date": "2026-09-24",
       "url": "https://nwfcu.org/about-us"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "northwestern-mutual-owner-record",
+    "ownerIds": [
+      "northwestern-mutual-owner"
+    ],
+    "text": "Northwestern Mutual is owned by Northwestern Mutual. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "Northwestern Mutual is owned by Northwestern Mutual.",
+    "source": {
+      "name": "Northwestern Mutual Press Release 2025-10-28",
+      "date": "2025-10-28",
+      "url": "https://news.northwesternmutual.com/2025-10-28-Northwestern-Mutual-Announces-Historic-9-2-Billion-Dividend-Payout-in-2026-A-Powerful-Demonstration-of-Companys-Enduring-Commitment-to-Policyowners"
     },
     "reviewed": true
   },
@@ -4391,6 +4657,20 @@
     "reviewed": true
   },
   {
+    "id": "paycor-owner-record",
+    "ownerIds": [
+      "paycor-owner"
+    ],
+    "text": "Paycor, Inc. is owned by Paycor. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "Paycor, Inc.",
+    "source": {
+      "name": "PAYCHEX INC DEF 14A 2026 (SEC)",
+      "date": "2026-09-04",
+      "url": "https://www.sec.gov/Archives/edgar/data/723531/000119312526382805/d111983ddef14a.htm"
+    },
+    "reviewed": true
+  },
+  {
     "id": "paypal-owner-record",
     "ownerIds": [
       "paypal-owner"
@@ -4415,6 +4695,20 @@
       "name": "Legal Clarity Perdue Farms ownership page",
       "date": "2026-09-24",
       "url": "https://legalclarity.org/who-owns-perdue-chicken-its-still-family-owned"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "petco-owner-record",
+    "ownerIds": [
+      "petco-owner"
+    ],
+    "text": "Petco Health & Wellness Company, Inc. is owned by Petco. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "Petco Health & Wellness Company, Inc.",
+    "source": {
+      "name": "Petco Health & Wellness Company, Inc. DEF 14A 2026 (SEC)",
+      "date": "2026-05-14",
+      "url": "https://www.sec.gov/Archives/edgar/data/1826470/000182647026000040/woof-20260514.htm"
     },
     "reviewed": true
   },
@@ -4587,6 +4881,20 @@
     "reviewed": true
   },
   {
+    "id": "quikrete-owner-record",
+    "ownerIds": [
+      "quikrete-owner"
+    ],
+    "text": "Quikrete Holdings, Inc. is owned by QUIKRETE. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "Quikrete Holdings, Inc.",
+    "source": {
+      "name": "Forbes article on Quikrete Winchester family",
+      "date": "2026-05-13",
+      "url": "https://www.forbes.com/sites/mattdurot/2026/05/13/the-little-known-winchester-family-is-worth-18-billion-thanks-to-quikrete/"
+    },
+    "reviewed": true
+  },
+  {
     "id": "quiktrip-owner-record",
     "ownerIds": [
       "quiktrip-owner"
@@ -4681,6 +4989,20 @@
       "name": "REWE Group official 'Cooperative' page and investor presentation (REWE COOPERATIVES / six owner cooperatives)",
       "date": "2024-07",
       "url": "https://www.rewe-group.com/en/cooperative/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "robinhood-owner-record",
+    "ownerIds": [
+      "robinhood-owner"
+    ],
+    "text": "Robinhood Markets, Inc. is owned by Robinhood. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "Robinhood Markets, Inc.",
+    "source": {
+      "name": "Robinhood Markets, Inc. DEF 14A 2026 (SEC)",
+      "date": "2026-04-22",
+      "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000053/hood-20260422.htm"
     },
     "reviewed": true
   },
@@ -4783,6 +5105,20 @@
     "reviewed": true
   },
   {
+    "id": "scotiabank-owner-record",
+    "ownerIds": [
+      "scotiabank-owner"
+    ],
+    "text": "The Bank of Nova Scotia is owned by Scotiabank. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "The Bank of Nova Scotia is owned by Scotiabank.",
+    "source": {
+      "name": "Scotiabank Annual Report 2025",
+      "date": "2025-12-31",
+      "url": "https://gbm.scotiabank.com/content/dam/scotiabank/corporate/quarterly-reports/2025/q4/Annual_Report_2025_EN.pdf"
+    },
+    "reviewed": true
+  },
+  {
     "id": "securian-financial-owner-record",
     "ownerIds": [
       "securian-financial-owner"
@@ -4863,6 +5199,20 @@
       "name": "Siemens AG, Siemens Report 2025",
       "date": "2025-12",
       "url": "https://www.siemens.com/siemensreport"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "smoothie-king-owner-record",
+    "ownerIds": [
+      "smoothie-king-owner"
+    ],
+    "text": "Smoothie King Franchises, Inc. is owned by Smoothie King. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "Smoothie King Franchises, Inc.",
+    "source": {
+      "name": "LegalClarity article on Smoothie King ownership",
+      "date": "2026-09-24",
+      "url": "https://legalclarity.org/who-owns-smoothie-king-parent-company-and-investors"
     },
     "reviewed": true
   },
@@ -4951,6 +5301,20 @@
     "reviewed": true
   },
   {
+    "id": "state-farm-owner-record",
+    "ownerIds": [
+      "state-farm-owner"
+    ],
+    "text": "State Farm Mutual Automobile Insurance Company is owned by State Farm. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "State Farm Mutual Automobile Insurance Company is owned by State Farm.",
+    "source": {
+      "name": "State Farm Company Overview page",
+      "date": "2026-09-24",
+      "url": "https://www.statefarm.com/about-us/company-overview"
+    },
+    "reviewed": true
+  },
+  {
     "id": "stifel-owner-record",
     "ownerIds": [
       "stifel-owner"
@@ -4989,6 +5353,20 @@
       "name": "Sun Life Financial 40-F 2026",
       "date": "2026-02-12",
       "url": "https://www.sec.gov/Archives/edgar/data/1097362/000109736226000010/slf-20251231.htm"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "sutter-health-owner-record",
+    "ownerIds": [
+      "sutter-health-owner"
+    ],
+    "text": "Sutter Health is owned by Sutter Health. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "Sutter Health is owned by Sutter Health.",
+    "source": {
+      "name": "Sutter Health About page",
+      "date": "2026-09-24",
+      "url": "https://www.sutterhealth.org/about"
     },
     "reviewed": true
   },
@@ -5045,6 +5423,20 @@
       "name": "Target Corporation Form 10-K FY2025 (SEC EDGAR)",
       "date": "2026-03-11",
       "url": "https://www.sec.gov/Archives/edgar/data/27419/000002741926000016/tgt-20260131.htm"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "td-bank-owner-record",
+    "ownerIds": [
+      "td-bank-owner"
+    ],
+    "text": "TD Bank Group is owned by TD Bank. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "TD Bank Group is owned by TD Bank.",
+    "source": {
+      "name": "TD Bank Group Proxy Circular 2026",
+      "date": "2026-03-??",
+      "url": "https://www.td.com/content/dam/tdcom/canada/about-td/pdf/2026-proxy-circular-en.pdf"
     },
     "reviewed": true
   },
@@ -5203,6 +5595,20 @@
     "reviewed": true
   },
   {
+    "id": "us-bank-owner-record",
+    "ownerIds": [
+      "us-bank-owner"
+    ],
+    "text": "U.S. Bancorp is owned by U.S. Bank. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "U.S.",
+    "source": {
+      "name": "US BANCORP DEF 14A 2026 (SEC)",
+      "date": "2026-03-10",
+      "url": "https://www.sec.gov/Archives/edgar/data/36104/000110465926025844/tm261379-1_def14a.htm"
+    },
+    "reviewed": true
+  },
+  {
     "id": "ubs-group-ag-record",
     "ownerIds": [
       "ubs-group-ag"
@@ -5269,6 +5675,20 @@
       "name": "Fast Retailing major shareholders page",
       "date": "2026-04-10",
       "url": "https://www.fastretailing.com/eng/ir/stockinfo/breakdown.html"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "united-airlines-owner-record",
+    "ownerIds": [
+      "united-airlines-owner"
+    ],
+    "text": "United Airlines Holdings, Inc. is owned by United Airlines. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "United Airlines Holdings, Inc.",
+    "source": {
+      "name": "United Airlines Holdings, Inc. DEF 14A 2026 (SEC)",
+      "date": "2026-04-07",
+      "url": "https://www.sec.gov/Archives/edgar/data/100517/000110465926040467/tmb-20260519xdef14a.htm"
     },
     "reviewed": true
   },
@@ -5385,6 +5805,20 @@
     "reviewed": true
   },
   {
+    "id": "walt-disney-world-owner-record",
+    "ownerIds": [
+      "walt-disney-world-owner"
+    ],
+    "text": "The Walt Disney Company is owned by Walt Disney World Resort. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "The Walt Disney Company is owned by Walt Disney World Resort.",
+    "source": {
+      "name": "Walt Disney Co DEF 14A 2026 (SEC)",
+      "date": "2026-01-22",
+      "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000013/dis-20260122.htm"
+    },
+    "reviewed": true
+  },
+  {
     "id": "webull-owner-record",
     "ownerIds": [
       "webull-owner"
@@ -5423,6 +5857,20 @@
       "name": "YETI Holdings, Inc. Form 10-K FY2025 (SEC EDGAR)",
       "date": "2026-02-27",
       "url": "https://www.sec.gov/Archives/edgar/data/1670592/000167059226000013/yeti-20260103.htm"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "york-space-systems-owner-record",
+    "ownerIds": [
+      "york-space-systems-owner"
+    ],
+    "text": "York Space Systems, Inc. is owned by York Space Systems. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+    "short": "York Space Systems, Inc.",
+    "source": {
+      "name": "York Space Systems Inc. 10-K 2026 (SEC)",
+      "date": "2026-03-20",
+      "url": "https://www.sec.gov/Archives/edgar/data/2086587/000162828026019923/yorkspacesystemsinc10-k.htm"
     },
     "reviewed": true
   },
@@ -5843,20 +6291,6 @@
       "name": "Komatsu Ltd. - share information / major shareholders",
       "date": "2026-09-24",
       "url": "https://www.komatsu.jp/en/-/media/home/ir/shareholder/stockinfo/share_holder_en.pdf"
-    },
-    "reviewed": true
-  },
-  {
-    "id": "att-inc-record",
-    "ownerIds": [
-      "att-inc"
-    ],
-    "text": "AT&T is an NYSE-listed telecom (T) roughly two-thirds institutionally held, with no state shareholder.",
-    "short": "AT&T is an NYSE-listed telecom (T) roughly two-thirds institutionally held, with no state shareholder.",
-    "source": {
-      "name": "AT&T investor relations - FAQs (share and shareholder information)",
-      "date": "2026-09-24",
-      "url": "https://investors.att.com/resources/faqs"
     },
     "reviewed": true
   }

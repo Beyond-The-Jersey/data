@@ -31,10 +31,10 @@
       "name": "Paycor",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "paycor-owner",
       "owner": "Paycor",
-      "verdict": null,
+      "verdict": "Owned by Paycor. Nothing found.",
       "source": {
         "name": "Cincinnati Bengals",
         "date": "2022-08-09",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "fifth-third-bank-owner",
     "paycor-owner"

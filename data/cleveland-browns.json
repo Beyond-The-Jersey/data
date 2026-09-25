@@ -17,10 +17,10 @@
       "name": "Eaton Corporation",
       "placement": "training-kit",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "eaton-owner",
       "owner": "Eaton Corporation",
-      "verdict": null,
+      "verdict": "Owned by Eaton Corporation. Nothing found.",
       "source": {
         "name": "Zoomph (NFL practice-jersey sponsor tracker)",
         "date": "2026-09-01",
@@ -43,7 +43,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "eaton-owner",
     "huntington-national-bank-huntington-bancshares-owner"

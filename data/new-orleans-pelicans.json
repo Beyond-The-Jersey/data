@@ -32,10 +32,10 @@
       "name": "Smoothie King",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "smoothie-king-owner",
       "owner": "Smoothie King",
-      "verdict": null,
+      "verdict": "Owned by Smoothie King. Nothing found.",
       "source": {
         "name": "FOX Sports / AP",
         "date": "2023-12-26",

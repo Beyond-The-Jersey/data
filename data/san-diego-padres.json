@@ -31,10 +31,10 @@
       "name": "Petco",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "petco-owner",
       "owner": "Petco",
-      "verdict": null,
+      "verdict": "Owned by Petco. Nothing found.",
       "source": {
         "name": "Ballpark Digest",
         "date": "2021-03-08",

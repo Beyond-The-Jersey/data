@@ -31,10 +31,10 @@
       "name": "York Space Systems",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "york-space-systems-owner",
       "owner": "York Space Systems",
-      "verdict": null,
+      "verdict": "Owned by York Space Systems. Nothing found.",
       "source": {
         "name": "Colorado Rockies / MLB.com press release",
         "date": "2025-07-01",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
     "coors-brewing-co-molson-coors-owner",
     "york-space-systems-owner"

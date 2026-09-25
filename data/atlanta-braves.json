@@ -16,10 +16,10 @@
       "name": "QUIKRETE",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "unrated",
+      "tier": "none",
       "ownerId": "quikrete-owner",
       "owner": "QUIKRETE",
-      "verdict": null,
+      "verdict": "Owned by QUIKRETE. Nothing found.",
       "source": {
         "name": "MLB.com press release (Atlanta Braves)",
         "date": "2023-05-18",
