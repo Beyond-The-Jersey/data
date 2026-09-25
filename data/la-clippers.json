@@ -5,9 +5,9 @@
   "league": "nba",
   "country": "USA",
   "contact": {
+    "contact-form": "https://www.nba.com/clippers/?tmd=1/contact-us",
     "x": "@LAClippers",
-    "instagram": "@laclippers",
-    "website": "https://www.clippers.com"
+    "instagram": "@laclippers"
   },
   "sponsors": [
     {

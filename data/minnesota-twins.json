@@ -5,9 +5,10 @@
   "league": "mlb",
   "country": "USA",
   "contact": {
+    "email": "twins@twinsbaseball.com",
+    "contact-form": "https://www.mlb.com/twins/official-information/contact",
     "x": "@Twins",
-    "instagram": "@twins",
-    "website": "https://www.mlb.com/twins"
+    "instagram": "@twins"
   },
   "sponsors": [],
   "worstTier": "unrated",

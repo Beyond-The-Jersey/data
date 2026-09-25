@@ -6,6 +6,7 @@ record the exact URL each channel came from. Nothing is generated from the slug.
 import json
 import os
 import re
+from urllib.parse import urljoin
 import concurrent.futures as cf
 
 import requests
@@ -250,8 +251,13 @@ CONTACT_PATHS = [
     "/kontakt/", "/contact.html", "/contact/index.html",
     "/impressum", "/en/kontakt", "/aviso-legal", "/legal-notice", "/rgpd",
     "/club/contacto", "/en/contact-us", "/about-us/contact", "/kontakt/kontakt",
+    # Italian
+    "/contatti", "/it/contatti", "/club/contatti", "/societa/contatti", "/contattaci",
+    # MLS / F1 team sites
+    "/contact-us/", "/contacts", "/contacto/", "/club/contact", "/fans/contact-us",
+    "/about/contact-us", "/en/contact/", "/it/contact",
 ]
-CONTACT_HINT = ("contact", "kontakt", "contacto", "impressum", "aviso-legal",
+CONTACT_HINT = ("contact", "kontakt", "contacto", "contatti", "impressum", "aviso-legal",
                 "legal-notice", "rgpd")
 
 EMAIL_RE = re.compile(r'mailto:([A-Za-z0-9._%+\-]+@[A-Za-z0-9.\-]+\.[A-Za-z]{2,})')
@@ -298,28 +304,58 @@ def pick(regex, html, skip, normalize=None):
         v = m.group(1)
         if normalize:
             v = normalize(v)
+        if v is None:
+            continue
         if v.lower() in skip or v in seen:
             continue
         seen.append(v)
     return seen
 
 
-def contact_page(root):
-    """Return (url, html) of the club's own contact page."""
+CONTACT_LINK_RE = re.compile(r"contact|contatt|kontakt|contacto|contatti|impressum|"
+                              r"supporter-liaison|aviso-legal", re.I)
+
+
+def contact_page(root, home_html=None):
+    """Return (url, html) of the club's own contact page.
+
+    Tries the links the homepage actually publishes first - club sites do not agree on
+    a path, and a fixed list misses most Italian, MLS and motorsport sites. Falls back
+    to the conventional paths.
+    """
+    cands, seen = [], set()
+    if home_html:
+        for href in re.findall(r'href="([^"]+)"', home_html):
+            if href.startswith(("mailto:", "tel:", "#")):
+                continue
+            if CONTACT_LINK_RE.search(href):
+                cands.append((urljoin(root, href), True))
     for p in CONTACT_PATHS:
-        if p in root:
+        if p not in root:
+            cands.append((root.rstrip("/") + p, False))
+
+    fallback = None
+    for cand, discovered in cands:
+        if cand in seen:
             continue
-        url, html = get(root.rstrip("/") + p)
+        seen.add(cand)
+        url, html = get(cand)
         if not url:
             continue
         low = url.lower()
         if any(k in low for k in ("404", "not-found")):
             continue
-        # only accept if it looks like a contact page
-        if EMAIL_RE.search(html) or TEL_RE.search(html) or "<form" in html.lower():
-            if any(k in low for k in CONTACT_HINT):
-                return url, html
-    return None, None
+        if not (discovered or any(k in low for k in CONTACT_HINT)):
+            continue
+        looks_like_contact = (EMAIL_RE.search(html) or TEL_RE.search(html)
+                              or "<form" in html.lower())
+        if looks_like_contact:
+            return url, html
+        # a real contact page whose details are rendered by JS: keep it as a fallback
+        # rather than discarding a page the club itself calls "contact"
+        if fallback is None:
+            fallback = (url, html)
+    return fallback if fallback else (None, None)
 
 
 def src_of(url):
@@ -429,7 +465,10 @@ OVERRIDES = {
 def build(club):
     pages = []
     home = None
-    for cand in SITES.get(club, []):
+    site = SITES.get(club, [])
+    if isinstance(site, str):
+        site = [site]
+    for cand in site:
         url, html = get(cand)
         if url:
             home = (url, html)
@@ -439,7 +478,7 @@ def build(club):
             return club, {"clubId": club, "channels": OVERRIDES[club], "lastChecked": DATE}
         return club, None
     pages.append(home)
-    cpage = contact_page(home[0])
+    cpage = contact_page(home[0], home[1])
     if cpage[0]:
         pages.append(cpage)
 

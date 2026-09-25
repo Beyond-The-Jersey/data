@@ -4,7 +4,13 @@
   "sport": "soccer",
   "league": "serie-a",
   "country": "Italy",
-  "contact": {},
+  "contact": {
+    "email": "fiorentinapoint@acffiorentina.it",
+    "phone": "055571259",
+    "contact-form": "https://www.acffiorentina.com/faq-supporto-contatti",
+    "x": "@acffiorentina",
+    "instagram": "@acffiorentina"
+  },
   "sponsors": [
     {
       "id": "mediacom",

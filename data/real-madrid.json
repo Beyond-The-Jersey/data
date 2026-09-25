@@ -6,9 +6,9 @@
   "country": "Spain",
   "contact": {
     "email": "oap@corp.realmadrid.com",
+    "contact-form": "https://www.realmadrid.com/es-ES/el-club/contacto",
     "x": "@realmadrid",
-    "instagram": "@realmadrid",
-    "website": "https://www.realmadrid.com"
+    "instagram": "@realmadrid"
   },
   "sponsors": [
     {

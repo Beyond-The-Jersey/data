@@ -5,9 +5,10 @@
   "league": "nfl",
   "country": "USA",
   "contact": {
+    "email": "askquestions@cardinals.nfl.net",
+    "contact-form": "https://www.azcardinals.com/about-us/contact-us",
     "x": "@AZCardinals",
-    "instagram": "@azcardinals",
-    "website": "https://www.azcardinals.com"
+    "instagram": "@azcardinals"
   },
   "sponsors": [],
   "worstTier": "unrated",

@@ -4,7 +4,12 @@
   "sport": "soccer",
   "league": "mls",
   "country": "USA",
-  "contact": {},
+  "contact": {
+    "email": "nycfc@nycfc.com",
+    "contact-form": "https://www.newyorkcityfc.com/team/contactus",
+    "x": "@newyorkcityfc",
+    "instagram": "@newyorkcityfc"
+  },
   "sponsors": [
     {
       "id": "etihad-airways",

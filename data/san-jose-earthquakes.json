@@ -4,7 +4,11 @@
   "sport": "soccer",
   "league": "mls",
   "country": "USA",
-  "contact": {},
+  "contact": {
+    "contact-form": "https://www.sjearthquakes.com/club/contact",
+    "x": "@SJEarthquakes",
+    "instagram": "@sjearthquakes"
+  },
   "sponsors": [
     {
       "id": "el-camino-health",

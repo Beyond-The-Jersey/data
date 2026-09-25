@@ -4,7 +4,12 @@
   "sport": "soccer",
   "league": "serie-a",
   "country": "Italy",
-  "contact": {},
+  "contact": {
+    "email": "sponsorshipenquiries@acmilan.com",
+    "contact-form": "https://www.acmilan.com/it/contatti",
+    "x": "@acmilan",
+    "instagram": "@acmilan"
+  },
   "sponsors": [
     {
       "id": "emirates",

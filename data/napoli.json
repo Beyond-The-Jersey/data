@@ -4,7 +4,11 @@
   "sport": "soccer",
   "league": "serie-a",
   "country": "Italy",
-  "contact": {},
+  "contact": {
+    "contact-form": "https://sscnapoli.it/contatti/",
+    "x": "@SSCNapoli",
+    "instagram": "@officialsscnapoli"
+  },
   "sponsors": [
     {
       "id": "msc-cruises",

@@ -5,9 +5,10 @@
   "league": "nfl",
   "country": "USA",
   "contact": {
+    "email": "GuestExperience@HardRockStadium.com",
+    "contact-form": "https://www.miamidolphins.com/_libraries/footer/contact-us",
     "x": "@miamidolphins",
-    "instagram": "@miamidolphins",
-    "website": "https://www.miamidolphins.com"
+    "instagram": "@miamidolphins"
   },
   "sponsors": [],
   "worstTier": "unrated",

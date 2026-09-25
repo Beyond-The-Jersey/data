@@ -5,9 +5,10 @@
   "league": "mlb",
   "country": "Canada",
   "contact": {
+    "email": "jayscarefoundation@bluejays.com",
+    "contact-form": "https://www.mlb.com/bluejays/official-information/contact",
     "x": "@BlueJays",
-    "instagram": "@bluejays",
-    "website": "https://www.mlb.com/bluejays"
+    "instagram": "@bluejays"
   },
   "sponsors": [],
   "worstTier": "unrated",

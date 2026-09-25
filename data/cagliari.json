@@ -4,7 +4,13 @@
   "sport": "soccer",
   "league": "serie-a",
   "country": "Italy",
-  "contact": {},
+  "contact": {
+    "email": "info@cagliaricalcio.com",
+    "phone": "+390704618182",
+    "contact-form": "https://cagliaricalcio.com/casteddu/contatti/",
+    "x": "@CagliariCalcio",
+    "instagram": "@cagliaricalcio"
+  },
   "sponsors": [
     {
       "id": "sardegna-turismo",

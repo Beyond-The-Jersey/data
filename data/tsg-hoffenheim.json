@@ -5,11 +5,9 @@
   "league": "bundesliga",
   "country": "Germany",
   "contact": {
-    "email": "akademie@tsg-hoffenheim.de",
-    "contact-form": "https://www.tsg-hoffenheim.de/akademie/services/kontakt",
+    "contact-form": "https://www.tsg-hoffenheim.de/kontakt",
     "x": "@tsghoffenheim",
-    "instagram": "@tsghoffenheim",
-    "website": "https://www.tsg-hoffenheim.de"
+    "instagram": "@tsghoffenheim"
   },
   "sponsors": [
     {

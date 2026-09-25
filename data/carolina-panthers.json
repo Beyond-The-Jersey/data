@@ -5,9 +5,9 @@
   "league": "nfl",
   "country": "USA",
   "contact": {
+    "contact-form": "https://www.panthers.com/about-us/contact-us",
     "x": "@panthers",
-    "instagram": "@panthers",
-    "website": "https://www.panthers.com"
+    "instagram": "@panthers"
   },
   "sponsors": [],
   "worstTier": "unrated",

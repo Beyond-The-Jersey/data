@@ -5,9 +5,10 @@
   "league": "mlb",
   "country": "USA",
   "contact": {
+    "email": "guestservices@braves.com",
+    "contact-form": "https://www.mlb.com/braves/official-information/contact",
     "x": "@Braves",
-    "instagram": "@braves",
-    "website": "https://www.mlb.com/braves"
+    "instagram": "@braves"
   },
   "sponsors": [],
   "worstTier": "unrated",

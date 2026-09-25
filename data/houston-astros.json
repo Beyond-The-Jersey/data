@@ -5,9 +5,10 @@
   "league": "mlb",
   "country": "USA",
   "contact": {
+    "email": "foundation@astros.com",
+    "contact-form": "https://www.mlb.com/astros/official-information/contact",
     "x": "@astros",
-    "instagram": "@astros",
-    "website": "https://www.mlb.com/astros"
+    "instagram": "@astros"
   },
   "sponsors": [],
   "worstTier": "unrated",

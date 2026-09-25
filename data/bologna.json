@@ -4,7 +4,10 @@
   "sport": "soccer",
   "league": "serie-a",
   "country": "Italy",
-  "contact": {},
+  "contact": {
+    "x": "@BfcOfficialPage",
+    "instagram": "@bolognafc1909"
+  },
   "sponsors": [
     {
       "id": "saputo",

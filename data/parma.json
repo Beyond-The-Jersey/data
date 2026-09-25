@@ -4,7 +4,10 @@
   "sport": "soccer",
   "league": "serie-a",
   "country": "Italy",
-  "contact": {},
+  "contact": {
+    "x": "@1913parmacalcio",
+    "instagram": "@parmacalcio1913"
+  },
   "sponsors": [
     {
       "id": "prometeon",

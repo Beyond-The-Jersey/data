@@ -5,9 +5,10 @@
   "league": "mlb",
   "country": "USA",
   "contact": {
+    "email": "spring@athletics.com",
+    "contact-form": "https://www.mlb.com/athletics/official-information/contact",
     "x": "@Athletics",
-    "instagram": "@athletics",
-    "website": "https://www.mlb.com/athletics"
+    "instagram": "@athletics"
   },
   "sponsors": [],
   "worstTier": "unrated",

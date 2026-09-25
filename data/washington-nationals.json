@@ -5,9 +5,11 @@
   "league": "mlb",
   "country": "USA",
   "contact": {
+    "email": "ticketinfo@nationals.com",
+    "phone": "2026756287",
+    "contact-form": "https://www.mlb.com/nationals/official-information/contact",
     "x": "@Nationals",
-    "instagram": "@nationals",
-    "website": "https://www.mlb.com/nationals"
+    "instagram": "@nationals"
   },
   "sponsors": [],
   "worstTier": "unrated",

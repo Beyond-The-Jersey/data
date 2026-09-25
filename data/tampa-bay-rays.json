@@ -5,9 +5,10 @@
   "league": "mlb",
   "country": "USA",
   "contact": {
+    "email": "customerservice@raysbaseball.com",
+    "contact-form": "https://www.mlb.com/rays/official-information/contact",
     "x": "@Raysbaseball",
-    "instagram": "@raysbaseball",
-    "website": "https://www.mlb.com/rays"
+    "instagram": "@raysbaseball"
   },
   "sponsors": [],
   "worstTier": "unrated",

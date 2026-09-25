@@ -5,9 +5,10 @@
   "league": "mlb",
   "country": "USA",
   "contact": {
+    "email": "fanservices@cleguardians.com",
+    "contact-form": "https://www.mlb.com/guardians/official-information/contact",
     "x": "@CLEGuardians",
-    "instagram": "@CLEGuardians",
-    "website": "https://www.mlb.com/guardians"
+    "instagram": "@CLEGuardians"
   },
   "sponsors": [],
   "worstTier": "unrated",

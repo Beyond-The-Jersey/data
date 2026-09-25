@@ -5,9 +5,10 @@
   "league": "mlb",
   "country": "USA",
   "contact": {
+    "email": "comments@padres.com",
+    "contact-form": "https://www.mlb.com/padres/official-information/contact",
     "x": "@padres",
-    "instagram": "@padres",
-    "website": "https://www.mlb.com/padres"
+    "instagram": "@padres"
   },
   "sponsors": [],
   "worstTier": "unrated",

@@ -4,7 +4,10 @@
   "sport": "soccer",
   "league": "mls",
   "country": "USA",
-  "contact": {},
+  "contact": {
+    "x": "@ChicagoFire",
+    "instagram": "@chicagofire"
+  },
   "sponsors": [
     {
       "id": "carvana",

@@ -5,10 +5,9 @@
   "league": "nfl",
   "country": "USA",
   "contact": {
-    "contact-form": "https://www.chargers.com/contact-us/",
+    "contact-form": "https://www.chargers.com/contact-us/careers",
     "x": "@Chargers",
-    "instagram": "@chargers",
-    "website": "https://www.chargers.com"
+    "instagram": "@chargers"
   },
   "sponsors": [],
   "worstTier": "unrated",

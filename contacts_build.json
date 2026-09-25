@@ -1,7 +1,69 @@
 [
   {
+    "clubId": "ac-milan",
+    "channels": [
+      {
+        "type": "email",
+        "value": "sponsorshipenquiries@acmilan.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.acmilan.com/it/contatti",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "licensingenquiries@acmilan.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.acmilan.com/it/contatti",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.acmilan.com/it/contatti",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.acmilan.com/it/contatti",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@acmilan",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.acmilan.com/it",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@acmilan",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.acmilan.com/it",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
     "clubId": "afc-bournemouth",
     "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://www.afcb.co.uk/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.afcb.co.uk/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@afcbournemouth",
@@ -19,23 +81,28 @@
           "url": "https://www.afcb.co.uk/",
           "date": "2026-09-24"
         }
-      },
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "alpine",
+    "channels": [
       {
-        "type": "website",
-        "value": "https://www.afcb.co.uk",
+        "type": "x",
+        "value": "@AlpineF1Team",
         "source": {
-          "name": "Club website",
-          "url": "https://www.afcb.co.uk",
+          "name": "Club website contact page",
+          "url": "https://www.alpinef1.com/",
           "date": "2026-09-24"
         }
       },
       {
-        "type": "contact-form",
-        "value": "https://www.afcb.co.uk/contact",
-        "label": "Contact page",
+        "type": "instagram",
+        "value": "@alpinef1team",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.afcb.co.uk/contact",
+          "url": "https://www.alpinef1.com/",
           "date": "2026-09-24"
         }
       }
@@ -45,6 +112,34 @@
   {
     "clubId": "arizona-cardinals",
     "channels": [
+      {
+        "type": "email",
+        "value": "askquestions@cardinals.nfl.net",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.azcardinals.com/about-us/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "cardstix@cardinals.nfl.net",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.azcardinals.com/about-us/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.azcardinals.com/about-us/contact-us",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.azcardinals.com/about-us/contact-us",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@AZCardinals",
@@ -62,15 +157,6 @@
           "url": "https://www.azcardinals.com/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.azcardinals.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.azcardinals.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -78,6 +164,34 @@
   {
     "clubId": "arizona-diamondbacks",
     "channels": [
+      {
+        "type": "email",
+        "value": "fanfeedback@dbacks.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/dbacks/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "tickets@dbacks.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/dbacks/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/dbacks/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/dbacks/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@dbacks",
@@ -95,15 +209,6 @@
           "url": "https://www.mlb.com/dbacks",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.mlb.com/dbacks",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.mlb.com/dbacks",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -111,6 +216,16 @@
   {
     "clubId": "arsenal",
     "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://www.arsenal.com/meetings-and-events/contact-us",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.arsenal.com/meetings-and-events/contact-us",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@Arsenal",
@@ -128,13 +243,99 @@
           "url": "https://www.arsenal.com/",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "as-roma",
+    "channels": [
+      {
+        "type": "email",
+        "value": "youthdevelopment@asroma.it",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.asroma.com/en/club/contact-us",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.arsenal.com/the-club/contact-us",
+        "type": "email",
+        "value": "callcenter@asroma.it",
         "source": {
-          "name": "Club website",
-          "url": "https://www.arsenal.com/the-club/contact-us",
+          "name": "Club website contact page",
+          "url": "https://www.asroma.com/en/club/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+390689386000",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.asroma.com/en",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.asroma.com/en/club/contact-us",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.asroma.com/en/club/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@ASRomaEN",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.asroma.com/en",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@officialasroma",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.asroma.com/en",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "aston-martin",
+    "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://www.astonmartinf1.com/en-GB/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.astonmartinf1.com/en-GB/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@astonmartinf1",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.astonmartinf1.com/en-GB",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@astonmartinf1",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.astonmartinf1.com/en-GB",
           "date": "2026-09-24"
         }
       }
@@ -144,6 +345,16 @@
   {
     "clubId": "aston-villa",
     "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://www.avfc.co.uk/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.avfc.co.uk/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@AstonVilla",
@@ -161,23 +372,47 @@
           "url": "https://www.avfc.co.uk/",
           "date": "2026-09-24"
         }
-      },
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "atalanta",
+    "channels": [
       {
-        "type": "website",
-        "value": "https://www.avfc.co.uk",
+        "type": "email",
+        "value": "slo@atalanta.it",
         "source": {
-          "name": "Club website",
-          "url": "https://www.avfc.co.uk",
+          "name": "Club website contact page",
+          "url": "https://www.atalanta.it/slo-supporter-liaison-officer",
           "date": "2026-09-24"
         }
       },
       {
         "type": "contact-form",
-        "value": "https://www.avfc.co.uk/contact",
-        "label": "Contact page",
+        "value": "https://www.atalanta.it/slo-supporter-liaison-officer",
+        "label": "Contact form",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.avfc.co.uk/contact",
+          "url": "https://www.atalanta.it/slo-supporter-liaison-officer",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@Atalanta_BC",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.atalanta.it/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@atalantabc",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.atalanta.it/",
           "date": "2026-09-24"
         }
       }
@@ -232,15 +467,6 @@
           "url": "https://www.athletic-club.eus/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.athletic-club.eus",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.athletic-club.eus",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -248,6 +474,34 @@
   {
     "clubId": "athletics",
     "channels": [
+      {
+        "type": "email",
+        "value": "spring@athletics.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/athletics/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "tickets@sutterhealthpark.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/athletics/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/athletics/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/athletics/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@Athletics",
@@ -265,15 +519,6 @@
           "url": "https://www.mlb.com/athletics",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.mlb.com/athletics",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.mlb.com/athletics",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -281,6 +526,34 @@
   {
     "clubId": "atlanta-braves",
     "channels": [
+      {
+        "type": "email",
+        "value": "guestservices@braves.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/braves/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "groups@braves.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/braves/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/braves/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/braves/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@Braves",
@@ -295,15 +568,6 @@
         "value": "@braves",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.mlb.com/braves",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.mlb.com/braves",
-        "source": {
-          "name": "Club website",
           "url": "https://www.mlb.com/braves",
           "date": "2026-09-24"
         }
@@ -339,15 +603,6 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.atlantafalcons.com/about/contact",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.atlantafalcons.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.atlantafalcons.com",
           "date": "2026-09-24"
         }
       }
@@ -393,13 +648,28 @@
           "url": "https://www.nba.com/hawks/",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "atlanta-united",
+    "channels": [
+      {
+        "type": "x",
+        "value": "@ATLUTD",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.atlutd.com/",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.hawks.com",
+        "type": "instagram",
+        "value": "@atlutd",
         "source": {
-          "name": "Club website",
-          "url": "https://www.hawks.com",
+          "name": "Club website contact page",
+          "url": "https://www.atlutd.com/",
           "date": "2026-09-24"
         }
       }
@@ -454,13 +724,52 @@
           "url": "https://www.atleticodemadrid.com/",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "audi",
+    "channels": [
+      {
+        "type": "x",
+        "value": "@audif1_",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.audif1.com/en",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.atleticodemadrid.com",
+        "type": "instagram",
+        "value": "@audif1",
         "source": {
-          "name": "Club website",
-          "url": "https://www.atleticodemadrid.com",
+          "name": "Club website contact page",
+          "url": "https://www.audif1.com/en",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "austin-fc",
+    "channels": [
+      {
+        "type": "x",
+        "value": "@AustinFC",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.austinfc.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@austinfc",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.austinfc.com/",
           "date": "2026-09-24"
         }
       }
@@ -470,6 +779,34 @@
   {
     "clubId": "baltimore-orioles",
     "channels": [
+      {
+        "type": "email",
+        "value": "birdmail@orioles.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/orioles/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+18888482473",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/orioles",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/orioles/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/orioles/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@Orioles",
@@ -484,15 +821,6 @@
         "value": "@orioles",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.mlb.com/orioles",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.mlb.com/orioles",
-        "source": {
-          "name": "Club website",
           "url": "https://www.mlb.com/orioles",
           "date": "2026-09-24"
         }
@@ -537,15 +865,6 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.baltimoreravens.com/",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.baltimoreravens.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.baltimoreravens.com",
           "date": "2026-09-24"
         }
       }
@@ -600,15 +919,6 @@
           "url": "https://www.fcbarcelona.com/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.fcbarcelona.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.fcbarcelona.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -617,8 +927,36 @@
     "clubId": "bayer-leverkusen",
     "channels": [
       {
-        "type": "website",
-        "value": "https://www.bayer04.de/de-de",
+        "type": "contact-form",
+        "value": "https://www.bayer04.de/de-de/page/impressum",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.bayer04.de/de-de/page/impressum",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+4921450001904",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.bayer04.de/de-de",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@bayer04fussball",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.bayer04.de/de-de",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@bayer04fussball",
         "source": {
           "name": "Club website contact page",
           "url": "https://www.bayer04.de/de-de",
@@ -667,13 +1005,28 @@
           "url": "https://fcbayern.com/en/contact",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "bologna",
+    "channels": [
+      {
+        "type": "x",
+        "value": "@BfcOfficialPage",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.bolognafc.it/",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://fcbayern.com",
+        "type": "instagram",
+        "value": "@bolognafc1909",
         "source": {
-          "name": "Club website",
-          "url": "https://fcbayern.com",
+          "name": "Club website contact page",
+          "url": "https://www.bolognafc.it/",
           "date": "2026-09-24"
         }
       }
@@ -685,29 +1038,29 @@
     "channels": [
       {
         "type": "email",
-        "value": "service@bvb.de",
+        "value": "inklusion@bvb.de",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.bvb.de/de/de/allgemein/impressum.html",
+          "url": "https://www.bvb.de/de/de/mannschaften/fussball/frauen/kontakt-tickets.html",
           "date": "2026-09-24"
         }
       },
       {
         "type": "email",
-        "value": "medien@bvb.de",
+        "value": "dortmundermaedchen@bvb.de",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.bvb.de/de/de/allgemein/impressum.html",
+          "url": "https://www.bvb.de/de/de/mannschaften/fussball/frauen/kontakt-tickets.html",
           "date": "2026-09-24"
         }
       },
       {
         "type": "contact-form",
-        "value": "https://www.bvb.de/de/de/allgemein/impressum.html",
+        "value": "https://www.bvb.de/de/de/mannschaften/fussball/frauen/kontakt-tickets.html",
         "label": "Contact form",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.bvb.de/de/de/allgemein/impressum.html",
+          "url": "https://www.bvb.de/de/de/mannschaften/fussball/frauen/kontakt-tickets.html",
           "date": "2026-09-24"
         }
       },
@@ -728,15 +1081,6 @@
           "url": "https://www.bvb.de/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.bvb.de",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.bvb.de",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -745,21 +1089,12 @@
     "clubId": "borussia-monchengladbach",
     "channels": [
       {
-        "type": "website",
-        "value": "https://www.borussia.de/",
-        "source": {
-          "name": "Club website contact page",
-          "url": "https://www.borussia.de/",
-          "date": "2026-09-24"
-        }
-      },
-      {
         "type": "contact-form",
-        "value": "https://www.borussia.de/kontakt",
-        "label": "Contact page",
+        "value": "https://www.borussia.de/contact",
+        "label": "Contact form",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.borussia.de/kontakt",
+          "url": "https://www.borussia.de/contact",
           "date": "2026-09-24"
         }
       }
@@ -769,6 +1104,16 @@
   {
     "clubId": "boston-celtics",
     "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://www.nba.com/celtics/fans/contact-us",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.nba.com/celtics/fans/contact-us",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@celtics",
@@ -786,25 +1131,6 @@
           "url": "https://www.nba.com/celtics/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.celtics.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.celtics.com",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "contact-form",
-        "value": "https://www.nba.com/celtics/fans/contact-us",
-        "label": "Contact page",
-        "source": {
-          "name": "Club website contact page",
-          "url": "https://www.nba.com/celtics/fans/contact-us",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -812,6 +1138,34 @@
   {
     "clubId": "boston-red-sox",
     "channels": [
+      {
+        "type": "email",
+        "value": "ticketoffice@redsox.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/redsox/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "tours@redsox.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/redsox/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/redsox/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/redsox/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@RedSox",
@@ -826,15 +1180,6 @@
         "value": "@redsox",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.mlb.com/redsox",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.mlb.com/redsox",
-        "source": {
-          "name": "Club website",
           "url": "https://www.mlb.com/redsox",
           "date": "2026-09-24"
         }
@@ -881,15 +1226,6 @@
           "url": "https://www.brentfordfc.com/en/contact-us",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.brentfordfc.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.brentfordfc.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -898,48 +1234,21 @@
     "clubId": "brighton-and-hove-albion",
     "channels": [
       {
-        "type": "x",
-        "value": "@OfficialBHAFC",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.brightonandhovealbion.com/",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.brightonandhovealbion.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.brightonandhovealbion.com",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "x",
-        "value": "@OfficialBHAFC",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.brightonandhovealbion.com/",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "email",
-        "value": "supporter.services@brightonandhovealbion.com",
-        "source": {
-          "name": "Club website contact page",
-          "url": "https://www.brightonandhovealbion.com/contact-us",
-          "date": "2026-09-24"
-        }
-      },
-      {
         "type": "contact-form",
-        "value": "https://www.brightonandhovealbion.com/contact-us",
-        "label": "Contact page",
+        "value": "https://www.brightonandhovealbion.com/home/contact",
+        "label": "Contact form",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.brightonandhovealbion.com/contact-us",
+          "url": "https://www.brightonandhovealbion.com/home/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@Boro",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.brightonandhovealbion.com/home",
           "date": "2026-09-24"
         }
       }
@@ -952,6 +1261,52 @@
       {
         "type": "website",
         "value": "https://www.nba.com/nets/",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.nba.com/nets/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "fans@brooklynnets.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.nba.com/nets/news/2020/03/13/a-letter-to-our-valued-fans",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+19176186100",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.barclayscenter.com/connect-with-us/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.barclayscenter.com/connect-with-us/contact-us",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.barclayscenter.com/connect-with-us/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@BrooklynNets",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.nba.com/nets/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@brooklynnets",
         "source": {
           "name": "Club website contact page",
           "url": "https://www.nba.com/nets/",
@@ -981,13 +1336,108 @@
           "url": "https://www.buffalobills.com/",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "cadillac",
+    "channels": [
+      {
+        "type": "email",
+        "value": "media@cadillacf1team.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.cadillacf1team.com/contact-us",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.buffalobills.com",
+        "type": "email",
+        "value": "generalenquiries@cadillacf1team.com",
         "source": {
-          "name": "Club website",
-          "url": "https://www.buffalobills.com",
+          "name": "Club website contact page",
+          "url": "https://www.cadillacf1team.com/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.cadillacf1team.com/contact-us",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.cadillacf1team.com/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@cadillac_f1",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.cadillacf1team.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@CadillacF1",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.cadillacf1team.com/",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "cagliari",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@cagliaricalcio.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://cagliaricalcio.com/casteddu/contatti/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+390704618182",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://cagliaricalcio.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://cagliaricalcio.com/casteddu/contatti/",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://cagliaricalcio.com/casteddu/contatti/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@CagliariCalcio",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://cagliaricalcio.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@cagliaricalcio",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://cagliaricalcio.com/",
           "date": "2026-09-24"
         }
       }
@@ -997,6 +1447,16 @@
   {
     "clubId": "carolina-panthers",
     "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://www.panthers.com/about-us/contact-us",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.panthers.com/about-us/contact-us",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@panthers",
@@ -1012,15 +1472,6 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.panthers.com/",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.panthers.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.panthers.com",
           "date": "2026-09-24"
         }
       }
@@ -1066,13 +1517,62 @@
           "url": "https://rccelta.es/",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "cf-montreal",
+    "channels": [
+      {
+        "type": "x",
+        "value": "@cfmontreal",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.cfmontreal.com/",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://rccelta.es",
+        "type": "instagram",
+        "value": "@cfmontreal",
         "source": {
-          "name": "Club website",
-          "url": "https://rccelta.es",
+          "name": "Club website contact page",
+          "url": "https://www.cfmontreal.com/",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "charlotte-fc",
+    "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://www.charlottefootballclub.com/contact-us",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.charlottefootballclub.com/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@CharlotteFC",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.charlottefootballclub.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@charlottefc",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.charlottefootballclub.com/",
           "date": "2026-09-24"
         }
       }
@@ -1118,15 +1618,6 @@
           "url": "https://www.nba.com/hornets/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.hornets.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.hornets.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -1170,15 +1661,6 @@
           "url": "https://www.chelseafc.com/en",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.chelseafc.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.chelseafc.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -1186,6 +1668,34 @@
   {
     "clubId": "chicago-bears",
     "channels": [
+      {
+        "type": "email",
+        "value": "legalrequests@bears.nfl.net",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.chicagobears.com/about/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "service@fanaticsretailgroup.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.chicagobears.com/about/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.chicagobears.com/about/contact-us",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.chicagobears.com/about/contact-us",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@ChicagoBears",
@@ -1203,15 +1713,6 @@
           "url": "https://www.chicagobears.com/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.chicagobears.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.chicagobears.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -1219,6 +1720,16 @@
   {
     "clubId": "chicago-bulls",
     "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://www.nba.com/bulls/?tmd=1/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.nba.com/bulls/?tmd=1/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@chicagobulls",
@@ -1236,15 +1747,6 @@
           "url": "https://www.nba.com/bulls/?tmd=1",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.bulls.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.bulls.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -1252,6 +1754,25 @@
   {
     "clubId": "chicago-cubs",
     "channels": [
+      {
+        "type": "email",
+        "value": "fanservices@cubs.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/cubs/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/cubs/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/cubs/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@Cubs",
@@ -1269,13 +1790,28 @@
           "url": "https://www.mlb.com/cubs",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "chicago-fire",
+    "channels": [
+      {
+        "type": "x",
+        "value": "@ChicagoFire",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.chicagofirefc.com/",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.mlb.com/cubs",
+        "type": "instagram",
+        "value": "@chicagofire",
         "source": {
-          "name": "Club website",
-          "url": "https://www.mlb.com/cubs",
+          "name": "Club website contact page",
+          "url": "https://www.chicagofirefc.com/",
           "date": "2026-09-24"
         }
       }
@@ -1285,6 +1821,34 @@
   {
     "clubId": "chicago-white-sox",
     "channels": [
+      {
+        "type": "email",
+        "value": "community@chisox.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/whitesox/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "tickets@chisox.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/whitesox/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/whitesox/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/whitesox/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@whitesox",
@@ -1302,15 +1866,6 @@
           "url": "https://www.mlb.com/whitesox",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.mlb.com/whitesox",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.mlb.com/whitesox",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -1318,6 +1873,25 @@
   {
     "clubId": "cincinnati-bengals",
     "channels": [
+      {
+        "type": "email",
+        "value": "Webmaster@Bengals.nfl.net",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.bengals.com/fans/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.bengals.com/fans/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.bengals.com/fans/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@GeoffHobsonCin",
@@ -1335,15 +1909,6 @@
           "url": "https://www.bengals.com/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.bengals.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.bengals.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -1351,6 +1916,34 @@
   {
     "clubId": "cincinnati-reds",
     "channels": [
+      {
+        "type": "email",
+        "value": "ticketservices@reds.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/reds/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "HallofFame@reds.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/reds/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/reds/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/reds/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@Reds",
@@ -1365,15 +1958,6 @@
         "value": "@reds",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.mlb.com/reds",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.mlb.com/reds",
-        "source": {
-          "name": "Club website",
           "url": "https://www.mlb.com/reds",
           "date": "2026-09-24"
         }
@@ -1438,15 +2022,6 @@
           "url": "https://www.clevelandbrowns.com/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.clevelandbrowns.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.clevelandbrowns.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -1499,15 +2074,6 @@
           "url": "https://www.nba.com/cavaliers/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.cavs.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.cavs.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -1515,6 +2081,34 @@
   {
     "clubId": "cleveland-guardians",
     "channels": [
+      {
+        "type": "email",
+        "value": "fanservices@cleguardians.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/guardians/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "cteamstore@cleguardians.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/guardians/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/guardians/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/guardians/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@CLEGuardians",
@@ -1532,13 +2126,56 @@
           "url": "https://www.mlb.com/guardians",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "colorado-rapids",
+    "channels": [
+      {
+        "type": "email",
+        "value": "Sean.Sullivan@TeamKSE.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.coloradorapids.com/tickets/contact-us",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.mlb.com/guardians",
+        "type": "email",
+        "value": "Max.grillo@teamkse.com",
         "source": {
-          "name": "Club website",
-          "url": "https://www.mlb.com/guardians",
+          "name": "Club website contact page",
+          "url": "https://www.coloradorapids.com/tickets/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.coloradorapids.com/tickets/contact-us",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.coloradorapids.com/tickets/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@ColoradoRapids",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.coloradorapids.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@ColoradoRapids",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.coloradorapids.com/",
           "date": "2026-09-24"
         }
       }
@@ -1548,6 +2185,34 @@
   {
     "clubId": "colorado-rockies",
     "channels": [
+      {
+        "type": "email",
+        "value": "rockiestix@rockies.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/rockies/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "seasontickets@rockies.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/rockies/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/rockies/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/rockies/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@Rockies",
@@ -1565,13 +2230,52 @@
           "url": "https://www.mlb.com/rockies",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "columbus-crew",
+    "channels": [
+      {
+        "type": "x",
+        "value": "@columbuscrew",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.columbuscrew.com/",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.mlb.com/rockies",
+        "type": "instagram",
+        "value": "@columbuscrew",
         "source": {
-          "name": "Club website",
-          "url": "https://www.mlb.com/rockies",
+          "name": "Club website contact page",
+          "url": "https://www.columbuscrew.com/",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "como",
+    "channels": [
+      {
+        "type": "x",
+        "value": "@Como_1907",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.comofootball.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@como_1907official",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.comofootball.com/",
           "date": "2026-09-24"
         }
       }
@@ -1581,6 +2285,16 @@
   {
     "clubId": "coventry-city",
     "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://www.ccfc.co.uk/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.ccfc.co.uk/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@coventrycityfc",
@@ -1598,23 +2312,46 @@
           "url": "https://www.ccfc.co.uk/",
           "date": "2026-09-24"
         }
-      },
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "cremonese",
+    "channels": [
       {
-        "type": "website",
-        "value": "https://www.ccfc.co.uk",
+        "type": "email",
+        "value": "segreteria@uscremonese.it",
         "source": {
-          "name": "Club website",
-          "url": "https://www.ccfc.co.uk",
+          "name": "Club website contact page",
+          "url": "https://uscremonese.it/",
           "date": "2026-09-24"
         }
       },
       {
-        "type": "contact-form",
-        "value": "https://www.ccfc.co.uk/contact",
-        "label": "Contact page",
+        "type": "email",
+        "value": "biglietteria@uscremonese.it",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.ccfc.co.uk/contact",
+          "url": "https://uscremonese.it/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@uscremonese",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://uscremonese.it/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@uscremonese",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://uscremonese.it/",
           "date": "2026-09-24"
         }
       }
@@ -1669,15 +2406,6 @@
           "url": "https://www.cpfc.co.uk/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.cpfc.co.uk",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.cpfc.co.uk",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -1712,15 +2440,6 @@
           "url": "https://www.dallascowboys.com/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.dallascowboys.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.dallascowboys.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -1743,15 +2462,6 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.nba.com/mavs/",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.mavs.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.mavs.com",
           "date": "2026-09-24"
         }
       }
@@ -1815,15 +2525,6 @@
           "url": "https://www.denverbroncos.com/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.denverbroncos.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.denverbroncos.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -1876,15 +2577,6 @@
           "url": "https://www.nba.com/nuggets/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.nuggets.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.nuggets.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -1912,11 +2604,11 @@
       },
       {
         "type": "contact-form",
-        "value": "https://deportivoalaves.com:443/es/contact",
+        "value": "https://deportivoalaves.com:443/es/aviso-legal",
         "label": "Contact form",
         "source": {
           "name": "Club website contact page",
-          "url": "https://deportivoalaves.com:443/es/contact",
+          "url": "https://deportivoalaves.com:443/es/aviso-legal",
           "date": "2026-09-24"
         }
       },
@@ -1937,15 +2629,6 @@
           "url": "https://deportivoalaves.com:443/es/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.deportivoalaves.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.deportivoalaves.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -1953,6 +2636,16 @@
   {
     "clubId": "deportivo-la-coruna",
     "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://www.rcdeportivo.es/es/contacto",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.rcdeportivo.es/es/contacto",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@RCDeportivo",
@@ -1970,25 +2663,6 @@
           "url": "https://www.rcdeportivo.es/es",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.rcdeportivo.es",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.rcdeportivo.es",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "contact-form",
-        "value": "https://www.rcdeportivo.es/es/contacto",
-        "label": "Contact page",
-        "source": {
-          "name": "Club website contact page",
-          "url": "https://www.rcdeportivo.es/es/contacto",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -1996,6 +2670,25 @@
   {
     "clubId": "detroit-lions",
     "channels": [
+      {
+        "type": "phone",
+        "value": "3132622000",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.detroitlions.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.detroitlions.com/about-us/contact-us",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.detroitlions.com/about-us/contact-us",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@Lions",
@@ -2013,15 +2706,6 @@
           "url": "https://www.detroitlions.com/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.detroitlions.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.detroitlions.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -2029,6 +2713,16 @@
   {
     "clubId": "detroit-pistons",
     "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://www.nba.com/pistons/?tmd=1/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.nba.com/pistons/?tmd=1/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@detroitpistons",
@@ -2044,15 +2738,6 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.nba.com/pistons/?tmd=1",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.pistons.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.pistons.com",
           "date": "2026-09-24"
         }
       }
@@ -2063,6 +2748,16 @@
     "clubId": "detroit-tigers",
     "channels": [
       {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/tigers/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/tigers/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
         "type": "x",
         "value": "@tigers",
         "source": {
@@ -2076,15 +2771,6 @@
         "value": "@tigers",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.mlb.com/tigers",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.mlb.com/tigers",
-        "source": {
-          "name": "Club website",
           "url": "https://www.mlb.com/tigers",
           "date": "2026-09-24"
         }
@@ -2115,11 +2801,11 @@
       },
       {
         "type": "contact-form",
-        "value": "https://www.eintracht.de/impressum/",
+        "value": "https://www.deutsche-bank.de/pk/service-und-kontakt/kooperationen/eintracht-frankfurt.html?kid=e.0600.10.57",
         "label": "Contact form",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.eintracht.de/impressum/",
+          "url": "https://www.deutsche-bank.de/pk/service-und-kontakt/kooperationen/eintracht-frankfurt.html?kid=e.0600.10.57",
           "date": "2026-09-24"
         }
       },
@@ -2138,15 +2824,6 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.eintracht.de/",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.eintracht.de",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.eintracht.de",
           "date": "2026-09-24"
         }
       }
@@ -2171,15 +2848,6 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.elchecf.es/",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.elchecf.es",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.elchecf.es",
           "date": "2026-09-24"
         }
       }
@@ -2215,15 +2883,6 @@
           "url": "https://www.rcdespanyol.com/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.rcdespanyol.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.rcdespanyol.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -2231,6 +2890,16 @@
   {
     "clubId": "everton",
     "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://www.evertonfc.com/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.evertonfc.com/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@everton",
@@ -2248,25 +2917,6 @@
           "url": "https://www.evertonfc.com/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.evertonfc.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.evertonfc.com",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "contact-form",
-        "value": "https://www.evertonfc.com/contact",
-        "label": "Contact page",
-        "source": {
-          "name": "Club website contact page",
-          "url": "https://www.evertonfc.com/contact",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -2275,12 +2925,21 @@
     "clubId": "fc-augsburg",
     "channels": [
       {
+        "type": "email",
+        "value": "info@fcaugsburg.de",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.fcaugsburg.de/page/kontakt-51",
+          "date": "2026-09-24"
+        }
+      },
+      {
         "type": "contact-form",
-        "value": "https://www.fcaugsburg.de/contact",
+        "value": "https://www.fcaugsburg.de/page/kontakt-51",
         "label": "Contact form",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.fcaugsburg.de/contact",
+          "url": "https://www.fcaugsburg.de/page/kontakt-51",
           "date": "2026-09-24"
         }
       },
@@ -2301,15 +2960,6 @@
           "url": "https://www.fcaugsburg.de/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.fcaugsburg.de",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.fcaugsburg.de",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -2319,20 +2969,29 @@
     "channels": [
       {
         "type": "email",
-        "value": "info@004gmbh.de",
+        "value": "service@fc.de",
         "source": {
           "name": "Club website contact page",
-          "url": "https://fc.de/impressum",
+          "url": "https://fc.de/service/rund-um-den-fc/kontakt",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "fanshop-service@fc.de",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://fc.de/service/rund-um-den-fc/kontakt",
           "date": "2026-09-24"
         }
       },
       {
         "type": "contact-form",
-        "value": "https://fc.de/impressum",
+        "value": "https://fc.de/service/rund-um-den-fc/kontakt",
         "label": "Contact form",
         "source": {
           "name": "Club website contact page",
-          "url": "https://fc.de/impressum",
+          "url": "https://fc.de/service/rund-um-den-fc/kontakt",
           "date": "2026-09-24"
         }
       },
@@ -2353,13 +3012,142 @@
           "url": "https://fc.de/",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "ferrari",
+    "channels": [
+      {
+        "type": "email",
+        "value": "customercare@ferraristore.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.ferrari.com/en-EN/contacts",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://fc.de",
+        "type": "contact-form",
+        "value": "https://www.ferrari.com/en-EN/contacts",
+        "label": "Contact form",
         "source": {
-          "name": "Club website",
-          "url": "https://fc.de",
+          "name": "Club website contact page",
+          "url": "https://www.ferrari.com/en-EN/contacts",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@Scuderiaferrari",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.ferrari.com/en-EN/formula1",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@ferrari",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.ferrari.com/en-EN/formula1",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "fiorentina",
+    "channels": [
+      {
+        "type": "email",
+        "value": "fiorentinapoint@acffiorentina.it",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.acffiorentina.com/faq-supporto-contatti",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "customercare@fiorentinastore.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.acffiorentina.com/faq-supporto-contatti",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "055571259",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.acffiorentina.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.acffiorentina.com/faq-supporto-contatti",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.acffiorentina.com/faq-supporto-contatti",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@acffiorentina",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.acffiorentina.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@acffiorentina",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.acffiorentina.com/",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "frosinone",
+    "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://www.frosinonecalcio.com/contatti/",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.frosinonecalcio.com/contatti/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@Frosinone1928",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.frosinonecalcio.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@frosinonecalcio",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.frosinonecalcio.com/",
           "date": "2026-09-24"
         }
       }
@@ -2370,12 +3158,30 @@
     "clubId": "fulham",
     "channels": [
       {
+        "type": "email",
+        "value": "bookings@brasserieconstance.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.fulhamfc.com/more/contact-us/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "info@lighthousesocial.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.fulhamfc.com/more/contact-us/",
+          "date": "2026-09-24"
+        }
+      },
+      {
         "type": "contact-form",
-        "value": "https://www.fulhamfc.com/contact-us/",
+        "value": "https://www.fulhamfc.com/more/contact-us/",
         "label": "Contact form",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.fulhamfc.com/contact-us/",
+          "url": "https://www.fulhamfc.com/more/contact-us/",
           "date": "2026-09-24"
         }
       },
@@ -2396,13 +3202,38 @@
           "url": "https://www.fulhamfc.com/",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "genoa",
+    "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://genoacfc.it/contatti/",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://genoacfc.it/contatti/",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.fulhamfc.com",
+        "type": "x",
+        "value": "@GenoaCFC",
         "source": {
-          "name": "Club website",
-          "url": "https://www.fulhamfc.com",
+          "name": "Club website contact page",
+          "url": "https://genoacfc.it/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@genoacfc",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://genoacfc.it/",
           "date": "2026-09-24"
         }
       }
@@ -2423,11 +3254,11 @@
       },
       {
         "type": "contact-form",
-        "value": "https://www.getafecf.com/contacto",
+        "value": "https://www.getafecf.com/aviso-legal",
         "label": "Contact form",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.getafecf.com/contacto",
+          "url": "https://www.getafecf.com/aviso-legal",
           "date": "2026-09-24"
         }
       },
@@ -2448,15 +3279,6 @@
           "url": "https://www.getafecf.com/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.getafecf.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.getafecf.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -2465,18 +3287,9 @@
     "clubId": "golden-state-warriors",
     "channels": [
       {
-        "type": "website",
-        "value": "https://www.nba.com/warriors/?tmd=1",
-        "source": {
-          "name": "Club website contact page",
-          "url": "https://www.nba.com/warriors/?tmd=1",
-          "date": "2026-09-24"
-        }
-      },
-      {
         "type": "contact-form",
         "value": "https://www.nba.com/warriors/?tmd=1/contact",
-        "label": "Contact page",
+        "label": "Contact form",
         "source": {
           "name": "Club website contact page",
           "url": "https://www.nba.com/warriors/?tmd=1/contact",
@@ -2499,6 +3312,25 @@
         }
       },
       {
+        "type": "phone",
+        "value": "19205697500",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.packers.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.packers.com/lambeau-field/contact-us",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.packers.com/lambeau-field/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
         "type": "x",
         "value": "@packers",
         "source": {
@@ -2515,13 +3347,38 @@
           "url": "https://www.packers.com/",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "haas",
+    "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://www.haasf1team.com/contact-us",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.haasf1team.com/contact-us",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.packers.com",
+        "type": "x",
+        "value": "@HaasF1Team",
         "source": {
-          "name": "Club website",
-          "url": "https://www.packers.com",
+          "name": "Club website contact page",
+          "url": "https://www.haasf1team.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@haasf1team",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.haasf1team.com/",
           "date": "2026-09-24"
         }
       }
@@ -2585,13 +3442,47 @@
           "url": "https://www.hsv.de/",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "hellas-verona",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@hellasverona.it",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.hellasverona.it/en/club/contacts",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.hsv.de",
+        "type": "email",
+        "value": "biglietteria@hellasverona.it",
         "source": {
-          "name": "Club website",
-          "url": "https://www.hsv.de",
+          "name": "Club website contact page",
+          "url": "https://www.hellasverona.it/en/club/contacts",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+390458186111",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.hellasverona.it/en",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.hellasverona.it/en/club/contacts",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.hellasverona.it/en/club/contacts",
           "date": "2026-09-24"
         }
       }
@@ -2601,6 +3492,25 @@
   {
     "clubId": "houston-astros",
     "channels": [
+      {
+        "type": "email",
+        "value": "foundation@astros.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/astros/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/astros/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/astros/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@astros",
@@ -2615,15 +3525,6 @@
         "value": "@astros",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.mlb.com/astros",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.mlb.com/astros",
-        "source": {
-          "name": "Club website",
           "url": "https://www.mlb.com/astros",
           "date": "2026-09-24"
         }
@@ -2642,6 +3543,43 @@
           "url": "https://www.nba.com/rockets/",
           "date": "2026-09-24"
         }
+      },
+      {
+        "type": "phone",
+        "value": "+17136273865",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.toyotacenter.com/connect-with-us/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.toyotacenter.com/connect-with-us/contact-us",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.toyotacenter.com/connect-with-us/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@HoustonRockets",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.nba.com/rockets/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@houstonrockets",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.nba.com/rockets/",
+          "date": "2026-09-24"
+        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -2649,6 +3587,34 @@
   {
     "clubId": "houston-texans",
     "channels": [
+      {
+        "type": "email",
+        "value": "Ticketing@HoustonTexans.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.houstontexans.com/game-day/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "Fanfeedback@houstontexans.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.houstontexans.com/game-day/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.houstontexans.com/game-day/contact-us",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.houstontexans.com/game-day/contact-us",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@HoustonTexans",
@@ -2664,15 +3630,6 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.houstontexans.com/",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.houstontexans.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.houstontexans.com",
           "date": "2026-09-24"
         }
       }
@@ -2718,15 +3675,6 @@
           "url": "https://www.wearehullcity.co.uk/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.wearehullcity.co.uk",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.wearehullcity.co.uk",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -2752,15 +3700,6 @@
           "url": "https://www.nba.com/pacers/contact-us-pacers",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.pacers.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.pacers.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -2768,6 +3707,34 @@
   {
     "clubId": "indianapolis-colts",
     "channels": [
+      {
+        "type": "email",
+        "value": "webmaster@colts.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.colts.com/footer/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "Colts.Community@colts.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.colts.com/footer/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.colts.com/footer/contact-us",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.colts.com/footer/contact-us",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@colts",
@@ -2785,13 +3752,56 @@
           "url": "https://www.colts.com/",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "inter-milan",
+    "channels": [
+      {
+        "type": "email",
+        "value": "tour@sansirostadium.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.inter.it/it/club/inter-contatti",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.colts.com",
+        "type": "email",
+        "value": "storecustomercare@inter.it",
         "source": {
-          "name": "Club website",
-          "url": "https://www.colts.com",
+          "name": "Club website contact page",
+          "url": "https://www.inter.it/it/club/inter-contatti",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.inter.it/it/club/inter-contatti",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.inter.it/it/club/inter-contatti",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@Inter",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.inter.it/it",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@inter",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.inter.it/it",
           "date": "2026-09-24"
         }
       }
@@ -2806,7 +3816,7 @@
         "value": "mainticketoffice@itfc.co.uk",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.itfc.co.uk/contact-us/",
+          "url": "https://www.itfc.co.uk/club/contactus/",
           "date": "2026-09-24"
         }
       },
@@ -2815,17 +3825,17 @@
         "value": "hospitality@itfc.co.uk",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.itfc.co.uk/contact-us/",
+          "url": "https://www.itfc.co.uk/club/contactus/",
           "date": "2026-09-24"
         }
       },
       {
         "type": "contact-form",
-        "value": "https://www.itfc.co.uk/contact-us/",
+        "value": "https://www.itfc.co.uk/club/contactus/",
         "label": "Contact form",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.itfc.co.uk/contact-us/",
+          "url": "https://www.itfc.co.uk/club/contactus/",
           "date": "2026-09-24"
         }
       },
@@ -2846,15 +3856,6 @@
           "url": "https://www.itfc.co.uk/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.itfc.co.uk",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.itfc.co.uk",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -2868,6 +3869,16 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.jaguars.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.jaguars.com/forms/contactus",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.jaguars.com/forms/contactus",
           "date": "2026-09-24"
         }
       },
@@ -2888,13 +3899,47 @@
           "url": "https://www.jaguars.com/",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "juventus",
+    "channels": [
+      {
+        "type": "email",
+        "value": "slo@juventus.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.juventus.com/it/bianconeri/supporter-liaison-officer",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.jaguars.com",
+        "type": "contact-form",
+        "value": "https://www.juventus.com/it/bianconeri/supporter-liaison-officer",
+        "label": "Contact form",
         "source": {
-          "name": "Club website",
-          "url": "https://www.jaguars.com",
+          "name": "Club website contact page",
+          "url": "https://www.juventus.com/it/bianconeri/supporter-liaison-officer",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@juventusfc",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.juventus.com/it",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@juventus",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.juventus.com/it",
           "date": "2026-09-24"
         }
       }
@@ -2921,15 +3966,6 @@
           "url": "https://www.chiefs.com/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.chiefs.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.chiefs.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -2937,6 +3973,34 @@
   {
     "clubId": "kansas-city-royals",
     "channels": [
+      {
+        "type": "email",
+        "value": "ticketservices@royals.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/royals/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "fanfeedback@royals.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/royals/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/royals/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/royals/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@royals",
@@ -2954,15 +4018,6 @@
           "url": "https://www.mlb.com/royals",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.mlb.com/royals",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.mlb.com/royals",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -2970,6 +4025,16 @@
   {
     "clubId": "la-clippers",
     "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://www.nba.com/clippers/?tmd=1/contact-us",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.nba.com/clippers/?tmd=1/contact-us",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@LAClippers",
@@ -2985,15 +4050,6 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.nba.com/clippers/?tmd=1",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.clippers.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.clippers.com",
           "date": "2026-09-24"
         }
       }
@@ -3030,15 +4086,6 @@
           "url": "https://www.therams.com/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.therams.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.therams.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -3046,6 +4093,25 @@
   {
     "clubId": "las-vegas-raiders",
     "channels": [
+      {
+        "type": "phone",
+        "value": "18007243377",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.raiders.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.raiders.com/about/contact-us",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.raiders.com/about/contact-us",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@raiders",
@@ -3063,13 +4129,89 @@
           "url": "https://www.raiders.com/",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "lazio",
+    "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://www.sslazio.it/it/club/organizzazione/info-contatti",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.sslazio.it/it/club/organizzazione/info-contatti",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.raiders.com",
+        "type": "x",
+        "value": "@OfficialSSLazio",
         "source": {
-          "name": "Club website",
-          "url": "https://www.raiders.com",
+          "name": "Club website contact page",
+          "url": "https://www.sslazio.it/it",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@official_sslazio",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.sslazio.it/it",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "lecce",
+    "channels": [
+      {
+        "type": "email",
+        "value": "rdp@uslecce.it",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://uslecce.it/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "slo@uslecce.it",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://uslecce.it/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "+390832241501",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://uslecce.it/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@OfficialUSLecce",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://uslecce.it/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@uslecce",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://uslecce.it/",
           "date": "2026-09-24"
         }
       }
@@ -3133,15 +4275,6 @@
           "url": "https://www.leedsunited.com/en",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.leedsunited.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.leedsunited.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -3151,29 +4284,20 @@
     "channels": [
       {
         "type": "email",
-        "value": "info@levanteud.es",
+        "value": "admon@levanteud.es",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.levanteud.com/contacto",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "email",
-        "value": "ticketing@levanteud.es",
-        "source": {
-          "name": "Club website contact page",
-          "url": "https://www.levanteud.com/contacto",
+          "url": "https://www.levanteud.com/aviso-legal",
           "date": "2026-09-24"
         }
       },
       {
         "type": "contact-form",
-        "value": "https://www.levanteud.com/contacto",
+        "value": "https://www.levanteud.com/aviso-legal",
         "label": "Contact form",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.levanteud.com/contacto",
+          "url": "https://www.levanteud.com/aviso-legal",
           "date": "2026-09-24"
         }
       },
@@ -3194,15 +4318,6 @@
           "url": "https://www.levanteud.com/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.levanteud.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.levanteud.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -3210,6 +4325,16 @@
   {
     "clubId": "liverpool",
     "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://www.liverpoolfc.com/info/contact-us",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.liverpoolfc.com/info/contact-us",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@lfc",
@@ -3227,25 +4352,6 @@
           "url": "https://www.liverpoolfc.com/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.liverpoolfc.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.liverpoolfc.com",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "contact-form",
-        "value": "https://www.liverpoolfc.com/info/contact-us",
-        "label": "Contact page",
-        "source": {
-          "name": "Club website contact page",
-          "url": "https://www.liverpoolfc.com/info/contact-us",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -3253,6 +4359,34 @@
   {
     "clubId": "los-angeles-angels",
     "channels": [
+      {
+        "type": "email",
+        "value": "ballparkinfo@angels.mlb.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/angels/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "accessibility@angels.mlb.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/angels/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/angels/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/angels/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@angels",
@@ -3270,15 +4404,6 @@
           "url": "https://www.mlb.com/angels",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.mlb.com/angels",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.mlb.com/angels",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -3288,11 +4413,11 @@
     "channels": [
       {
         "type": "contact-form",
-        "value": "https://www.chargers.com/contact-us/",
+        "value": "https://www.chargers.com/contact-us/careers",
         "label": "Contact form",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.chargers.com/contact-us/",
+          "url": "https://www.chargers.com/contact-us/careers",
           "date": "2026-09-24"
         }
       },
@@ -3313,15 +4438,6 @@
           "url": "https://www.chargers.com/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.chargers.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.chargers.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -3329,6 +4445,34 @@
   {
     "clubId": "los-angeles-dodgers",
     "channels": [
+      {
+        "type": "email",
+        "value": "fanfeedback@ladodgers.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/dodgers/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "tours@ladodgers.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/dodgers/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/dodgers/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/dodgers/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@dodgers",
@@ -3346,13 +4490,56 @@
           "url": "https://www.mlb.com/dodgers",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "los-angeles-fc",
+    "channels": [
+      {
+        "type": "email",
+        "value": "lafcpr@lafc.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.lafc.com/contact",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.mlb.com/dodgers",
+        "type": "email",
+        "value": "tickets@lafc.com",
         "source": {
-          "name": "Club website",
-          "url": "https://www.mlb.com/dodgers",
+          "name": "Club website contact page",
+          "url": "https://www.lafc.com/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.lafc.com/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.lafc.com/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@LAFC",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.lafc.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@lafc",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.lafc.com/",
           "date": "2026-09-24"
         }
       }
@@ -3363,6 +4550,16 @@
     "clubId": "los-angeles-lakers",
     "channels": [
       {
+        "type": "contact-form",
+        "value": "https://www.nba.com/lakers/?tmd=1/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.nba.com/lakers/?tmd=1/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
         "type": "x",
         "value": "@lakers",
         "source": {
@@ -3377,34 +4574,6 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.nba.com/lakers/?tmd=1",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.lakers.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.lakers.com",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "email",
-        "value": "PartnershipInfo@lakers.com",
-        "source": {
-          "name": "Club website contact page",
-          "url": "https://www.nba.com/lakers/contact",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "contact-form",
-        "value": "https://www.nba.com/lakers/contact",
-        "label": "Contact page",
-        "source": {
-          "name": "Club website contact page",
-          "url": "https://www.nba.com/lakers/contact",
           "date": "2026-09-24"
         }
       }
@@ -3450,15 +4619,6 @@
           "url": "https://www.mainz05.de/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.mainz05.de",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.mainz05.de",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -3502,15 +4662,6 @@
           "url": "https://www.malagacf.com/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.malagacf.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.malagacf.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -3518,6 +4669,16 @@
   {
     "clubId": "manchester-city",
     "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://www.mancity.com/help-and-support/contact-us",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mancity.com/help-and-support/contact-us",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@ManCity",
@@ -3533,25 +4694,6 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.mancity.com/",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.mancity.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.mancity.com",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "contact-form",
-        "value": "https://www.mancity.com/help-and-support/contact-us",
-        "label": "Contact page",
-        "source": {
-          "name": "Club website contact page",
-          "url": "https://www.mancity.com/help-and-support/contact-us",
           "date": "2026-09-24"
         }
       }
@@ -3615,13 +4757,20 @@
           "url": "https://www.manutd.com/en",
           "date": "2026-09-24"
         }
-      },
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "mclaren",
+    "channels": [
       {
-        "type": "website",
-        "value": "https://www.manutd.com",
+        "type": "contact-form",
+        "value": "https://www.mclaren.com/racing/contact-us/",
+        "label": "Contact form",
         "source": {
-          "name": "Club website",
-          "url": "https://www.manutd.com",
+          "name": "Club website contact page",
+          "url": "https://www.mclaren.com/racing/contact-us/",
           "date": "2026-09-24"
         }
       }
@@ -3648,23 +4797,47 @@
           "url": "https://www.nba.com/grizzlies/?tmd=1",
           "date": "2026-09-24"
         }
-      },
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "mercedes",
+    "channels": [
       {
-        "type": "website",
-        "value": "https://www.grizzlies.com",
+        "type": "email",
+        "value": "enquiries@mercedesamgf1.com",
         "source": {
-          "name": "Club website",
-          "url": "https://www.grizzlies.com",
+          "name": "Club website contact page",
+          "url": "https://www.mercedesamgf1.com/legal-notice",
           "date": "2026-09-24"
         }
       },
       {
         "type": "contact-form",
-        "value": "https://memphisbasketball.formstack.com/forms/grizzlies_contact_us",
-        "label": "Contact page",
+        "value": "https://www.mercedesamgf1.com/legal-notice",
+        "label": "Contact form",
         "source": {
           "name": "Club website contact page",
-          "url": "https://memphisbasketball.formstack.com/forms/grizzlies_contact_us",
+          "url": "https://www.mercedesamgf1.com/legal-notice",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@MERCEDESAMGF1",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mercedesamgf1.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@MercedesAMGF1",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mercedesamgf1.com/",
           "date": "2026-09-24"
         }
       }
@@ -3674,6 +4847,34 @@
   {
     "clubId": "miami-dolphins",
     "channels": [
+      {
+        "type": "email",
+        "value": "GuestExperience@HardRockStadium.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.miamidolphins.com/_libraries/footer/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "finstix@dolphins.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.miamidolphins.com/_libraries/footer/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.miamidolphins.com/_libraries/footer/contact-us",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.miamidolphins.com/_libraries/footer/contact-us",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@miamidolphins",
@@ -3689,15 +4890,6 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.miamidolphins.com/",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.miamidolphins.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.miamidolphins.com",
           "date": "2026-09-24"
         }
       }
@@ -3724,34 +4916,6 @@
           "url": "https://www.nba.com/heat/?tmd=1",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.heat.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.heat.com",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "email",
-        "value": "seasonticketservices@heat.com",
-        "source": {
-          "name": "Club website contact page",
-          "url": "https://www.nba.com/heat/contact",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "contact-form",
-        "value": "https://www.nba.com/heat/contact",
-        "label": "Contact page",
-        "source": {
-          "name": "Club website contact page",
-          "url": "https://www.nba.com/heat/contact",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -3759,6 +4923,34 @@
   {
     "clubId": "miami-marlins",
     "channels": [
+      {
+        "type": "email",
+        "value": "enrollment@marlins.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/marlins/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "groups@marlins.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/marlins/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/marlins/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/marlins/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@marlins",
@@ -3773,15 +4965,6 @@
         "value": "@marlins",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.mlb.com/marlins",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.mlb.com/marlins",
-        "source": {
-          "name": "Club website",
           "url": "https://www.mlb.com/marlins",
           "date": "2026-09-24"
         }
@@ -3793,6 +4976,34 @@
     "clubId": "milwaukee-brewers",
     "channels": [
       {
+        "type": "email",
+        "value": "Ticket.TeamLeader@Brewers.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/brewers/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "suiteservices@brewers.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/brewers/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/brewers/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/brewers/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
         "type": "x",
         "value": "@brewers",
         "source": {
@@ -3806,15 +5017,6 @@
         "value": "@brewers",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.mlb.com/brewers",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.mlb.com/brewers",
-        "source": {
-          "name": "Club website",
           "url": "https://www.mlb.com/brewers",
           "date": "2026-09-24"
         }
@@ -3852,15 +5054,6 @@
           "url": "https://www.nba.com/bucks/contact",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.bucks.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.bucks.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -3885,25 +5078,6 @@
           "url": "https://www.nba.com/timberwolves/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.timberwolves.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.timberwolves.com",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "contact-form",
-        "value": "https://www.nba.com/timberwolves/contact",
-        "label": "Contact page",
-        "source": {
-          "name": "Club website contact page",
-          "url": "https://www.nba.com/timberwolves/contact",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -3911,6 +5085,34 @@
   {
     "clubId": "minnesota-twins",
     "channels": [
+      {
+        "type": "email",
+        "value": "twins@twinsbaseball.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/twins/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "tickets@twinsbaseball.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/twins/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/twins/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/twins/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@Twins",
@@ -3928,15 +5130,6 @@
           "url": "https://www.mlb.com/twins",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.mlb.com/twins",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.mlb.com/twins",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -3944,6 +5137,34 @@
   {
     "clubId": "minnesota-vikings",
     "channels": [
+      {
+        "type": "email",
+        "value": "customerservice@vikings.nfl.net",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.vikings.com/footer/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "info@usbankstadium.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.vikings.com/footer/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.vikings.com/footer/contact-us",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.vikings.com/footer/contact-us",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@vikings",
@@ -3961,13 +5182,124 @@
           "url": "https://www.vikings.com/",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "monza",
+    "channels": [
+      {
+        "type": "phone",
+        "value": "+39039836664",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.acmonza.com/",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.vikings.com",
+        "type": "contact-form",
+        "value": "https://www.acmonza.com/it/contatti/",
+        "label": "Contact form",
         "source": {
-          "name": "Club website",
-          "url": "https://www.vikings.com",
+          "name": "Club website contact page",
+          "url": "https://www.acmonza.com/it/contatti/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@ACMonza",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.acmonza.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@acmonza",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.acmonza.com/",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "napoli",
+    "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://sscnapoli.it/contatti/",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://sscnapoli.it/contatti/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@SSCNapoli",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://sscnapoli.it/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@officialsscnapoli",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://sscnapoli.it/",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "nashville-sc",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@nashvillesc.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.nashvillesc.com/club/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.nashvillesc.com/club/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.nashvillesc.com/club/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@nashvillesc",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.nashvillesc.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@nashvillesc",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.nashvillesc.com/",
           "date": "2026-09-24"
         }
       }
@@ -3987,6 +5319,16 @@
         }
       },
       {
+        "type": "contact-form",
+        "value": "https://www.patriots.com/press-room/contact-us",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.patriots.com/press-room/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
         "type": "x",
         "value": "@patriots",
         "source": {
@@ -4003,13 +5345,56 @@
           "url": "https://www.patriots.com/",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "new-england-revolution",
+    "channels": [
+      {
+        "type": "email",
+        "value": "tix@revolutionsoccer.net",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.revolutionsoccer.net/club/contact-us",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.patriots.com",
+        "type": "email",
+        "value": "customerservice@revolutionsoccer.net",
         "source": {
-          "name": "Club website",
-          "url": "https://www.patriots.com",
+          "name": "Club website contact page",
+          "url": "https://www.revolutionsoccer.net/club/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.revolutionsoccer.net/club/contact-us",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.revolutionsoccer.net/club/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@nerevolution",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.revolutionsoccer.net/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@nerevolution",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.revolutionsoccer.net/",
           "date": "2026-09-24"
         }
       }
@@ -4073,15 +5458,6 @@
           "url": "https://www.nba.com/pelicans/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.pelicans.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.pelicans.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -4106,13 +5482,56 @@
           "url": "https://www.neworleanssaints.com/",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "new-york-city-fc",
+    "channels": [
+      {
+        "type": "email",
+        "value": "nycfc@nycfc.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.newyorkcityfc.com/team/contactus",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.neworleanssaints.com",
+        "type": "email",
+        "value": "FanServices@nycfc.com",
         "source": {
-          "name": "Club website",
-          "url": "https://www.neworleanssaints.com",
+          "name": "Club website contact page",
+          "url": "https://www.newyorkcityfc.com/team/contactus",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.newyorkcityfc.com/team/contactus",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.newyorkcityfc.com/team/contactus",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@newyorkcityfc",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.newyorkcityfc.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@newyorkcityfc",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.newyorkcityfc.com/",
           "date": "2026-09-24"
         }
       }
@@ -4139,15 +5558,6 @@
           "url": "https://www.giants.com/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.giants.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.giants.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -4155,6 +5565,16 @@
   {
     "clubId": "new-york-jets",
     "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://www.newyorkjets.com/faqs/contact-us",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.newyorkjets.com/faqs/contact-us",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@nyjets",
@@ -4170,15 +5590,6 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.newyorkjets.com/",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.newyorkjets.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.newyorkjets.com",
           "date": "2026-09-24"
         }
       }
@@ -4205,15 +5616,6 @@
           "url": "https://www.nba.com/knicks/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.nyknicks.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.nyknicks.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -4221,6 +5623,16 @@
   {
     "clubId": "new-york-mets",
     "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/mets/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/mets/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@mets",
@@ -4238,13 +5650,28 @@
           "url": "https://www.mlb.com/mets",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "new-york-red-bulls",
+    "channels": [
+      {
+        "type": "x",
+        "value": "@newyorkredbulls",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.newyorkredbulls.com/",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.mlb.com/mets",
+        "type": "instagram",
+        "value": "@newyorkredbulls",
         "source": {
-          "name": "Club website",
-          "url": "https://www.mlb.com/mets",
+          "name": "Club website contact page",
+          "url": "https://www.newyorkredbulls.com/",
           "date": "2026-09-24"
         }
       }
@@ -4254,6 +5681,34 @@
   {
     "clubId": "new-york-yankees",
     "channels": [
+      {
+        "type": "email",
+        "value": "tickets@yankees.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/yankees/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "seasontickets@yankees.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/yankees/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/yankees/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/yankees/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@Yankees",
@@ -4268,15 +5723,6 @@
         "value": "@yankees",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.mlb.com/yankees",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.mlb.com/yankees",
-        "source": {
-          "name": "Club website",
           "url": "https://www.mlb.com/yankees",
           "date": "2026-09-24"
         }
@@ -4313,15 +5759,6 @@
           "url": "https://www.newcastleunited.com/en",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.newcastleunited.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.newcastleunited.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -4329,6 +5766,16 @@
   {
     "clubId": "nottingham-forest",
     "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://www.nottinghamforest.co.uk/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.nottinghamforest.co.uk/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@nffc",
@@ -4344,25 +5791,6 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.nottinghamforest.co.uk/",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.nottinghamforest.co.uk",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.nottinghamforest.co.uk",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "contact-form",
-        "value": "https://www.nottinghamforest.co.uk/contact",
-        "label": "Contact page",
-        "source": {
-          "name": "Club website contact page",
-          "url": "https://www.nottinghamforest.co.uk/contact",
           "date": "2026-09-24"
         }
       }
@@ -4399,13 +5827,56 @@
           "url": "https://www.nba.com/thunder/contact",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "orlando-city",
+    "channels": [
+      {
+        "type": "email",
+        "value": "tickets@orlandocitysoccer.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.orlandocitysc.com/club/contact",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.okcthunder.com",
+        "type": "email",
+        "value": "jreaves@orlandocitysc.com",
         "source": {
-          "name": "Club website",
-          "url": "https://www.okcthunder.com",
+          "name": "Club website contact page",
+          "url": "https://www.orlandocitysc.com/club/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.orlandocitysc.com/club/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.orlandocitysc.com/club/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@orlandocitysc",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.orlandocitysc.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@orlandocitysc",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.orlandocitysc.com/",
           "date": "2026-09-24"
         }
       }
@@ -4430,15 +5901,6 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.nba.com/magic/",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.orlandomagic.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.orlandomagic.com",
           "date": "2026-09-24"
         }
       }
@@ -4482,15 +5944,6 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.osasuna.es/",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.osasuna.es",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.osasuna.es",
           "date": "2026-09-24"
         }
       }
@@ -4545,13 +5998,28 @@
           "url": "https://www.psg.fr/en",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "parma",
+    "channels": [
+      {
+        "type": "x",
+        "value": "@1913parmacalcio",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.parmacalcio1913.com/",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://en.psg.fr",
+        "type": "instagram",
+        "value": "@parmacalcio1913",
         "source": {
-          "name": "Club website",
-          "url": "https://en.psg.fr",
+          "name": "Club website contact page",
+          "url": "https://www.parmacalcio1913.com/",
           "date": "2026-09-24"
         }
       }
@@ -4578,25 +6046,6 @@
           "url": "https://www.nba.com/sixers/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.sixers.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.sixers.com",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "contact-form",
-        "value": "https://www.nba.com/sixers/contact",
-        "label": "Contact page",
-        "source": {
-          "name": "Club website contact page",
-          "url": "https://www.nba.com/sixers/contact",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -4604,6 +6053,16 @@
   {
     "clubId": "philadelphia-eagles",
     "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://www.philadelphiaeagles.com/footer/contact-us/",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.philadelphiaeagles.com/footer/contact-us/",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@Eagles",
@@ -4621,25 +6080,6 @@
           "url": "https://www.philadelphiaeagles.com/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.philadelphiaeagles.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.philadelphiaeagles.com",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "contact-form",
-        "value": "https://www.philadelphiaeagles.com/footer/contact-us/",
-        "label": "Contact page",
-        "source": {
-          "name": "Club website contact page",
-          "url": "https://www.philadelphiaeagles.com/footer/contact-us/",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -4647,6 +6087,34 @@
   {
     "clubId": "philadelphia-phillies",
     "channels": [
+      {
+        "type": "email",
+        "value": "tickets@phillies.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/phillies/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "seasonmvp@phillies.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/phillies/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/phillies/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/phillies/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@Phillies",
@@ -4664,13 +6132,47 @@
           "url": "https://www.mlb.com/phillies",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "philadelphia-union",
+    "channels": [
+      {
+        "type": "email",
+        "value": "fanservices@philadelphiaunion.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.philadelphiaunion.com/club/contact-us",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.mlb.com/phillies",
+        "type": "contact-form",
+        "value": "https://www.philadelphiaunion.com/club/contact-us",
+        "label": "Contact form",
         "source": {
-          "name": "Club website",
-          "url": "https://www.mlb.com/phillies",
+          "name": "Club website contact page",
+          "url": "https://www.philadelphiaunion.com/club/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@PhilaUnion",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.philadelphiaunion.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@philaunion",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.philadelphiaunion.com/",
           "date": "2026-09-24"
         }
       }
@@ -4697,13 +6199,47 @@
           "url": "https://www.nba.com/suns/",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "pisa",
+    "channels": [
+      {
+        "type": "phone",
+        "value": "+39050555930",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://pisasportingclub.com/",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.suns.com",
+        "type": "contact-form",
+        "value": "https://pisasportingclub.com/contatti/",
+        "label": "Contact form",
         "source": {
-          "name": "Club website",
-          "url": "https://www.suns.com",
+          "name": "Club website contact page",
+          "url": "https://pisasportingclub.com/contatti/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@PisaSC",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://pisasportingclub.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@pisasportingclub",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://pisasportingclub.com/",
           "date": "2026-09-24"
         }
       }
@@ -4713,6 +6249,34 @@
   {
     "clubId": "pittsburgh-pirates",
     "channels": [
+      {
+        "type": "email",
+        "value": "talkback@pirates.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/pirates/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "ticketservices@pirates.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/pirates/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/pirates/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/pirates/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@Pirates",
@@ -4730,15 +6294,6 @@
           "url": "https://www.mlb.com/pirates",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.mlb.com/pirates",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.mlb.com/pirates",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -4746,6 +6301,34 @@
   {
     "clubId": "pittsburgh-steelers",
     "channels": [
+      {
+        "type": "email",
+        "value": "ticketoffice@steelers.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.steelers.com/legal/contact-us/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "merchandise@steelers.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.steelers.com/legal/contact-us/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.steelers.com/legal/contact-us/",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.steelers.com/legal/contact-us/",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@steelers",
@@ -4763,13 +6346,47 @@
           "url": "https://www.steelers.com/",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "portland-timbers",
+    "channels": [
+      {
+        "type": "email",
+        "value": "ticketsales@timbers.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.timbers.com/",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.steelers.com",
+        "type": "contact-form",
+        "value": "https://www.timbers.com/contact-us",
+        "label": "Contact form",
         "source": {
-          "name": "Club website",
-          "url": "https://www.steelers.com",
+          "name": "Club website contact page",
+          "url": "https://www.timbers.com/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@PTFCAuthentics",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.timbers.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@TimbersFC",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.timbers.com/",
           "date": "2026-09-24"
         }
       }
@@ -4796,23 +6413,29 @@
           "url": "https://www.nba.com/blazers/",
           "date": "2026-09-24"
         }
-      },
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "racing-bulls",
+    "channels": [
       {
-        "type": "website",
-        "value": "https://www.trailblazers.com",
+        "type": "contact-form",
+        "value": "https://www.visacashapprb.com/int-en/contact",
+        "label": "Contact form",
         "source": {
-          "name": "Club website",
-          "url": "https://www.trailblazers.com",
+          "name": "Club website contact page",
+          "url": "https://www.visacashapprb.com/int-en/contact",
           "date": "2026-09-24"
         }
       },
       {
-        "type": "contact-form",
-        "value": "https://www.nba.com/blazers/contact-us",
-        "label": "Contact page",
+        "type": "instagram",
+        "value": "@visacashapprb",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.nba.com/blazers/contact-us",
+          "url": "https://www.visacashapprb.com/int-en",
           "date": "2026-09-24"
         }
       }
@@ -4847,15 +6470,6 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.realracingclub.es/",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.realracingclub.es",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.realracingclub.es",
           "date": "2026-09-24"
         }
       }
@@ -4910,15 +6524,6 @@
           "url": "https://www.rayovallecano.es/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.rayovallecano.es",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.rayovallecano.es",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -4926,6 +6531,16 @@
   {
     "clubId": "rb-leipzig",
     "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://rbleipzig.com/de/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://rbleipzig.com/de/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@RBLeipzig",
@@ -4943,25 +6558,6 @@
           "url": "https://rbleipzig.com/de",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://rbleipzig.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://rbleipzig.com",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "contact-form",
-        "value": "https://rbleipzig.com/de/kontakt",
-        "label": "Contact page",
-        "source": {
-          "name": "Club website contact page",
-          "url": "https://rbleipzig.com/de/kontakt",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -4971,11 +6567,11 @@
     "channels": [
       {
         "type": "contact-form",
-        "value": "https://www.realbetisbalompie.es/contacto",
+        "value": "https://www.realbetisbalompie.es/club/contacto",
         "label": "Contact form",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.realbetisbalompie.es/contacto",
+          "url": "https://www.realbetisbalompie.es/club/contacto",
           "date": "2026-09-24"
         }
       },
@@ -4994,15 +6590,6 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.realbetisbalompie.es/",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.realbetisbalompie.es",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.realbetisbalompie.es",
           "date": "2026-09-24"
         }
       }
@@ -5031,6 +6618,16 @@
         }
       },
       {
+        "type": "contact-form",
+        "value": "https://www.realmadrid.com/es-ES/el-club/contacto",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.realmadrid.com/es-ES/el-club/contacto",
+          "date": "2026-09-24"
+        }
+      },
+      {
         "type": "x",
         "value": "@realmadrid",
         "source": {
@@ -5047,13 +6644,56 @@
           "url": "https://www.realmadrid.com/",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "real-salt-lake",
+    "channels": [
+      {
+        "type": "email",
+        "value": "support@rsl.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.rsl.com/club/contact-us",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.realmadrid.com",
+        "type": "email",
+        "value": "FanRelations@RSL.com",
         "source": {
-          "name": "Club website",
-          "url": "https://www.realmadrid.com",
+          "name": "Club website contact page",
+          "url": "https://www.rsl.com/club/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.rsl.com/club/contact-us",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.rsl.com/club/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@realsaltlake",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.rsl.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@realsaltlake",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.rsl.com/",
           "date": "2026-09-24"
         }
       }
@@ -5063,6 +6703,25 @@
   {
     "clubId": "real-sociedad",
     "channels": [
+      {
+        "type": "email",
+        "value": "realsoc@realsociedad.eus",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.realsociedad.eus/es/i/aviso-legal",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.realsociedad.eus/es/i/aviso-legal",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.realsociedad.eus/es/i/aviso-legal",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@RealSociedad",
@@ -5080,13 +6739,20 @@
           "url": "https://www.realsociedad.eus/",
           "date": "2026-09-24"
         }
-      },
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "red-bull-racing",
+    "channels": [
       {
-        "type": "website",
-        "value": "https://www.realsociedad.eus",
+        "type": "contact-form",
+        "value": "https://www.redbullracing.com/int-en/club/contacto",
+        "label": "Contact form",
         "source": {
-          "name": "Club website",
-          "url": "https://www.realsociedad.eus",
+          "name": "Club website contact page",
+          "url": "https://www.redbullracing.com/int-en/club/contacto",
           "date": "2026-09-24"
         }
       }
@@ -5113,25 +6779,6 @@
           "url": "https://www.nba.com/kings/?tmd=1",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.kings.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.kings.com",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "contact-form",
-        "value": "https://www.nba.com/kings/contact-us",
-        "label": "Contact page",
-        "source": {
-          "name": "Club website contact page",
-          "url": "https://www.nba.com/kings/contact-us",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -5156,13 +6803,65 @@
           "url": "https://www.nba.com/spurs/",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "san-diego-fc",
+    "channels": [
+      {
+        "type": "email",
+        "value": "customerservice@sandiegofc.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.sandiegofc.com/club/contact",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.spurs.com",
+        "type": "email",
+        "value": "media@sandiegofc.com",
         "source": {
-          "name": "Club website",
-          "url": "https://www.spurs.com",
+          "name": "Club website contact page",
+          "url": "https://www.sandiegofc.com/club/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "6415852864001",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.sandiegofc.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.sandiegofc.com/club/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.sandiegofc.com/club/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@sandiegofc",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.sandiegofc.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@sandiegofc",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.sandiegofc.com/",
           "date": "2026-09-24"
         }
       }
@@ -5172,6 +6871,34 @@
   {
     "clubId": "san-diego-padres",
     "channels": [
+      {
+        "type": "email",
+        "value": "comments@padres.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/padres/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "tickets@padres.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/padres/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/padres/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/padres/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@padres",
@@ -5186,15 +6913,6 @@
         "value": "@padres",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.mlb.com/padres",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.mlb.com/padres",
-        "source": {
-          "name": "Club website",
           "url": "https://www.mlb.com/padres",
           "date": "2026-09-24"
         }
@@ -5206,6 +6924,16 @@
     "clubId": "san-francisco-49ers",
     "channels": [
       {
+        "type": "contact-form",
+        "value": "https://www.49ers.com/about-us/contact-us",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.49ers.com/about-us/contact-us",
+          "date": "2026-09-24"
+        }
+      },
+      {
         "type": "x",
         "value": "@49ers",
         "source": {
@@ -5220,15 +6948,6 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.49ers.com/",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.49ers.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.49ers.com",
           "date": "2026-09-24"
         }
       }
@@ -5239,6 +6958,34 @@
     "clubId": "san-francisco-giants",
     "channels": [
       {
+        "type": "email",
+        "value": "customerservice@sfgiants.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/giants/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "tixoffice@sfgiants.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/giants/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/giants/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/giants/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
         "type": "x",
         "value": "@SFGiants",
         "source": {
@@ -5255,13 +7002,90 @@
           "url": "https://www.mlb.com/giants",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "san-jose-earthquakes",
+    "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://www.sjearthquakes.com/club/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.sjearthquakes.com/club/contact",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.mlb.com/giants",
+        "type": "x",
+        "value": "@SJEarthquakes",
         "source": {
-          "name": "Club website",
-          "url": "https://www.mlb.com/giants",
+          "name": "Club website contact page",
+          "url": "https://www.sjearthquakes.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@sjearthquakes",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.sjearthquakes.com/",
+          "date": "2026-09-24"
+        }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "sassuolo",
+    "channels": [
+      {
+        "type": "email",
+        "value": "info@sassuolocalcio.it",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.sassuolocalcio.it/club/contatti/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "segreteria@sassuolocalcio.it",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.sassuolocalcio.it/club/contatti/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.sassuolocalcio.it/club/contatti/",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.sassuolocalcio.it/club/contatti/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@SassuoloUS",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.sassuolocalcio.it/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@sassuolocalcio",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.sassuolocalcio.it/",
           "date": "2026-09-24"
         }
       }
@@ -5273,10 +7097,10 @@
     "channels": [
       {
         "type": "email",
-        "value": "scf@scfreiburg.com",
+        "value": "nachhaltigkeit@scfreiburg.com",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.scfreiburg.com/kontakt",
+          "url": "https://www.scfreiburg.com/nachhaltigkeit/strategie/kontakt/",
           "date": "2026-09-24"
         }
       },
@@ -5291,11 +7115,11 @@
       },
       {
         "type": "contact-form",
-        "value": "https://www.scfreiburg.com/kontakt",
+        "value": "https://www.scfreiburg.com/nachhaltigkeit/strategie/kontakt/",
         "label": "Contact form",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.scfreiburg.com/kontakt",
+          "url": "https://www.scfreiburg.com/nachhaltigkeit/strategie/kontakt/",
           "date": "2026-09-24"
         }
       },
@@ -5307,15 +7131,6 @@
           "url": "https://www.scfreiburg.com/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.scfreiburg.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.scfreiburg.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -5325,11 +7140,11 @@
     "channels": [
       {
         "type": "contact-form",
-        "value": "https://www.scp07.de/Kontakt/",
+        "value": "https://www.scp07.de/Teams/Leistungszentrum/#1029-Kontakt",
         "label": "Contact form",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.scp07.de/Kontakt/",
+          "url": "https://www.scp07.de/Teams/Leistungszentrum/#1029-Kontakt",
           "date": "2026-09-24"
         }
       },
@@ -5339,15 +7154,6 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.scp07.de/",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.scp07.de",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.scp07.de",
           "date": "2026-09-24"
         }
       }
@@ -5377,11 +7183,11 @@
       },
       {
         "type": "contact-form",
-        "value": "https://schalke04.de/kontakt/index.html",
+        "value": "https://schalke04.de/kontakt/",
         "label": "Contact form",
         "source": {
           "name": "Club website contact page",
-          "url": "https://schalke04.de/kontakt/index.html",
+          "url": "https://schalke04.de/kontakt/",
           "date": "2026-09-24"
         }
       },
@@ -5402,15 +7208,6 @@
           "url": "https://schalke04.de/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://schalke04.de",
-        "source": {
-          "name": "Club website",
-          "url": "https://schalke04.de",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -5418,6 +7215,34 @@
   {
     "clubId": "seattle-mariners",
     "channels": [
+      {
+        "type": "email",
+        "value": "tickets@mariners.mlb.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/mariners/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "FanCare@Mariners.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/mariners/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/mariners/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/mariners/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@Mariners",
@@ -5435,15 +7260,6 @@
           "url": "https://www.mlb.com/mariners",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.mlb.com/mariners",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.mlb.com/mariners",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -5451,6 +7267,25 @@
   {
     "clubId": "seattle-seahawks",
     "channels": [
+      {
+        "type": "phone",
+        "value": "+14252038444",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.seahawks.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://suites.seahawks.com/contact?utm_source=web-app&amp;utm_medium=button&amp;utm_campaign=4415546923_sr26&amp;utm_content=home-page",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://suites.seahawks.com/contact?utm_source=web-app&amp;utm_medium=button&amp;utm_campaign=4415546923_sr26&amp;utm_content=home-page",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@Seahawks",
@@ -5466,15 +7301,6 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.seahawks.com/",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.seahawks.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.seahawks.com",
           "date": "2026-09-24"
         }
       }
@@ -5529,15 +7355,6 @@
           "url": "https://sevillafc.es/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.sevillafc.es",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.sevillafc.es",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -5545,6 +7362,34 @@
   {
     "clubId": "st-louis-cardinals",
     "channels": [
+      {
+        "type": "email",
+        "value": "tickets@cardinals.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/cardinals/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "ticketinfo@cardinals.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/cardinals/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/cardinals/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/cardinals/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@Cardinals",
@@ -5562,13 +7407,38 @@
           "url": "https://www.mlb.com/cardinals",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "st-louis-city",
+    "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://www.stlcitysc.com/about/contact-us/",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.stlcitysc.com/about/contact-us/",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.mlb.com/cardinals",
+        "type": "x",
+        "value": "@stlCITYsc",
         "source": {
-          "name": "Club website",
-          "url": "https://www.mlb.com/cardinals",
+          "name": "Club website contact page",
+          "url": "https://www.stlcitysc.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@stlcitysc",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.stlcitysc.com/",
           "date": "2026-09-24"
         }
       }
@@ -5578,6 +7448,16 @@
   {
     "clubId": "sunderland",
     "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://www.safc.com/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.safc.com/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@sunderlandafc",
@@ -5593,25 +7473,6 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.safc.com/",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.safc.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.safc.com",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "contact-form",
-        "value": "https://www.safc.com/contact",
-        "label": "Contact page",
-        "source": {
-          "name": "Club website contact page",
-          "url": "https://www.safc.com/contact",
           "date": "2026-09-24"
         }
       }
@@ -5648,24 +7509,6 @@
           "url": "https://sv07elversberg.de/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.sv07elversberg.de",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.sv07elversberg.de",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "email",
-        "value": "impressum@sv07elversberg.de",
-        "source": {
-          "name": "Club website contact page",
-          "url": "https://sv07elversberg.de/impressum/",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -5700,15 +7543,6 @@
           "url": "https://www.buccaneers.com/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.buccaneers.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.buccaneers.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -5716,6 +7550,34 @@
   {
     "clubId": "tampa-bay-rays",
     "channels": [
+      {
+        "type": "email",
+        "value": "customerservice@raysbaseball.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/rays/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "tickets@raysbaseball.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/rays/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/rays/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/rays/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@Raysbaseball",
@@ -5730,15 +7592,6 @@
         "value": "@raysbaseball",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.mlb.com/rays",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.mlb.com/rays",
-        "source": {
-          "name": "Club website",
           "url": "https://www.mlb.com/rays",
           "date": "2026-09-24"
         }
@@ -5766,15 +7619,6 @@
           "url": "https://www.tennesseetitans.com/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.tennesseetitans.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.tennesseetitans.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -5782,6 +7626,34 @@
   {
     "clubId": "texas-rangers",
     "channels": [
+      {
+        "type": "email",
+        "value": "ticketoffice@texasrangers.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/rangers/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "foundation@texasrangers.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/rangers/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/rangers/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/rangers/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@Rangers",
@@ -5799,13 +7671,47 @@
           "url": "https://www.mlb.com/rangers",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "torino",
+    "channels": [
+      {
+        "type": "email",
+        "value": "slo@torinofc.it",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.torinofc.it/fan/supporter-liaison-officer-slo",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.mlb.com/rangers",
+        "type": "contact-form",
+        "value": "https://www.torinofc.it/fan/supporter-liaison-officer-slo",
+        "label": "Contact form",
         "source": {
-          "name": "Club website",
-          "url": "https://www.mlb.com/rangers",
+          "name": "Club website contact page",
+          "url": "https://www.torinofc.it/fan/supporter-liaison-officer-slo",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@TorinoFC_1906",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.torinofc.it/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@torinofc1906",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.torinofc.it/",
           "date": "2026-09-24"
         }
       }
@@ -5815,6 +7721,34 @@
   {
     "clubId": "toronto-blue-jays",
     "channels": [
+      {
+        "type": "email",
+        "value": "jayscarefoundation@bluejays.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/bluejays/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "fanfeedback@bluejays.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/bluejays/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/bluejays/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/bluejays/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@BlueJays",
@@ -5829,15 +7763,6 @@
         "value": "@bluejays",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.mlb.com/bluejays",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.mlb.com/bluejays",
-        "source": {
-          "name": "Club website",
           "url": "https://www.mlb.com/bluejays",
           "date": "2026-09-24"
         }
@@ -5863,15 +7788,6 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.nba.com/raptors/",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.raptors.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.raptors.com",
           "date": "2026-09-24"
         }
       }
@@ -5908,15 +7824,6 @@
           "url": "https://www.tottenhamhotspur.com/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.tottenhamhotspur.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.tottenhamhotspur.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -5925,21 +7832,12 @@
     "clubId": "tsg-hoffenheim",
     "channels": [
       {
-        "type": "email",
-        "value": "akademie@tsg-hoffenheim.de",
-        "source": {
-          "name": "Club website contact page",
-          "url": "https://www.tsg-hoffenheim.de/akademie/services/kontakt",
-          "date": "2026-09-24"
-        }
-      },
-      {
         "type": "contact-form",
-        "value": "https://www.tsg-hoffenheim.de/akademie/services/kontakt",
+        "value": "https://www.tsg-hoffenheim.de/kontakt",
         "label": "Contact form",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.tsg-hoffenheim.de/akademie/services/kontakt",
+          "url": "https://www.tsg-hoffenheim.de/kontakt",
           "date": "2026-09-24"
         }
       },
@@ -5960,13 +7858,56 @@
           "url": "https://www.tsg-hoffenheim.de/",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "udinese",
+    "channels": [
+      {
+        "type": "email",
+        "value": "stampa@udinese.it",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.udinese.it/club/contatti",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.tsg-hoffenheim.de",
+        "type": "email",
+        "value": "udinese@udinesespa.it",
         "source": {
-          "name": "Club website",
-          "url": "https://www.tsg-hoffenheim.de",
+          "name": "Club website contact page",
+          "url": "https://www.udinese.it/club/contatti",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.udinese.it/club/contatti",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.udinese.it/club/contatti",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@Udinese_1896",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.udinese.it/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@udinesecalcio",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.udinese.it/",
           "date": "2026-09-24"
         }
       }
@@ -5994,15 +7935,6 @@
           "url": "https://www.fc-union-berlin.de/en",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.fc-union-berlin.de",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.fc-union-berlin.de",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -6027,34 +7959,6 @@
           "url": "https://www.nba.com/jazz/?tmd=1",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.utahjazz.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.utahjazz.com",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "phone",
-        "value": "18013252500",
-        "source": {
-          "name": "Club website contact page",
-          "url": "https://www.nba.com/jazz/contact",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "contact-form",
-        "value": "https://www.nba.com/jazz/contact",
-        "label": "Contact page",
-        "source": {
-          "name": "Club website contact page",
-          "url": "https://www.nba.com/jazz/contact",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -6064,11 +7968,11 @@
     "channels": [
       {
         "type": "contact-form",
-        "value": "https://www.valenciacf.com/contact",
+        "value": "https://www.valenciacf.com/aviso-legal",
         "label": "Contact form",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.valenciacf.com/contact",
+          "url": "https://www.valenciacf.com/aviso-legal",
           "date": "2026-09-24"
         }
       },
@@ -6089,13 +7993,38 @@
           "url": "https://www.valenciacf.com/",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "venezia",
+    "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://www.veneziafc.it/club/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.veneziafc.it/club/contact",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.valenciacf.com",
+        "type": "x",
+        "value": "@VeneziaFC_IT",
         "source": {
-          "name": "Club website",
-          "url": "https://www.valenciacf.com",
+          "name": "Club website contact page",
+          "url": "https://www.veneziafc.it/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@veneziafc",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.veneziafc.it/",
           "date": "2026-09-24"
         }
       }
@@ -6106,12 +8035,30 @@
     "clubId": "vfb-stuttgart",
     "channels": [
       {
+        "type": "email",
+        "value": "l.lang@vfb-stuttgart.de",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.vfb.de/de/1893/frauen/kontakt/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "oriana.daleo@vfb-stuttgart.de",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.vfb.de/de/1893/frauen/kontakt/",
+          "date": "2026-09-24"
+        }
+      },
+      {
         "type": "contact-form",
-        "value": "https://www.vfb.de/de/1893/club/service/formales/impressum/",
+        "value": "https://www.vfb.de/de/1893/frauen/kontakt/",
         "label": "Contact form",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.vfb.de/de/1893/club/service/formales/impressum/",
+          "url": "https://www.vfb.de/de/1893/frauen/kontakt/",
           "date": "2026-09-24"
         }
       },
@@ -6130,15 +8077,6 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.vfb.de/",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.vfb.de",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.vfb.de",
           "date": "2026-09-24"
         }
       }
@@ -6202,15 +8140,6 @@
           "url": "https://www.vfl-wolfsburg.de/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.vfl-wolfsburg.de",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.vfl-wolfsburg.de",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -6219,21 +8148,12 @@
     "clubId": "villarreal",
     "channels": [
       {
-        "type": "email",
-        "value": "info@villarrealcf.es",
-        "source": {
-          "name": "Club website contact page",
-          "url": "https://villarrealcf.es/es/aviso-legal/",
-          "date": "2026-09-24"
-        }
-      },
-      {
         "type": "contact-form",
-        "value": "https://villarrealcf.es/es/aviso-legal/",
+        "value": "https://villarrealcf.es/es/formulario-contacto/",
         "label": "Contact form",
         "source": {
           "name": "Club website contact page",
-          "url": "https://villarrealcf.es/es/aviso-legal/",
+          "url": "https://villarrealcf.es/es/formulario-contacto/",
           "date": "2026-09-24"
         }
       },
@@ -6254,15 +8174,6 @@
           "url": "https://villarrealcf.es/es/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.villarrealcf.es",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.villarrealcf.es",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -6270,6 +8181,16 @@
   {
     "clubId": "washington-commanders",
     "channels": [
+      {
+        "type": "contact-form",
+        "value": "https://www.commanders.com/about-us/contact-us",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.commanders.com/about-us/contact-us",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@commanders",
@@ -6287,15 +8208,6 @@
           "url": "https://www.commanders.com/",
           "date": "2026-09-24"
         }
-      },
-      {
-        "type": "website",
-        "value": "https://www.commanders.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.commanders.com",
-          "date": "2026-09-24"
-        }
       }
     ],
     "lastChecked": "2026-09-24"
@@ -6303,6 +8215,43 @@
   {
     "clubId": "washington-nationals",
     "channels": [
+      {
+        "type": "email",
+        "value": "ticketinfo@nationals.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/nationals/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "email",
+        "value": "groupsales@nationals.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/nationals/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "phone",
+        "value": "2026756287",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/nationals",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "contact-form",
+        "value": "https://www.mlb.com/nationals/official-information/contact",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.mlb.com/nationals/official-information/contact",
+          "date": "2026-09-24"
+        }
+      },
       {
         "type": "x",
         "value": "@Nationals",
@@ -6317,15 +8266,6 @@
         "value": "@nationals",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.mlb.com/nationals",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.mlb.com/nationals",
-        "source": {
-          "name": "Club website",
           "url": "https://www.mlb.com/nationals",
           "date": "2026-09-24"
         }
@@ -6351,15 +8291,6 @@
         "source": {
           "name": "Club website contact page",
           "url": "https://www.nba.com/wizards/",
-          "date": "2026-09-24"
-        }
-      },
-      {
-        "type": "website",
-        "value": "https://www.washingtonwizards.com",
-        "source": {
-          "name": "Club website",
-          "url": "https://www.washingtonwizards.com",
           "date": "2026-09-24"
         }
       }
@@ -6397,6 +8328,16 @@
         }
       },
       {
+        "type": "contact-form",
+        "value": "https://www.werder.de/service/kontakt",
+        "label": "Contact form",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.werder.de/service/kontakt",
+          "date": "2026-09-24"
+        }
+      },
+      {
         "type": "x",
         "value": "@werderbremen",
         "source": {
@@ -6413,23 +8354,56 @@
           "url": "https://www.werder.de/",
           "date": "2026-09-24"
         }
+      }
+    ],
+    "lastChecked": "2026-09-24"
+  },
+  {
+    "clubId": "williams",
+    "channels": [
+      {
+        "type": "email",
+        "value": "support@digital.williamsf1.com",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.williamsf1.com/contact",
+          "date": "2026-09-24"
+        }
       },
       {
-        "type": "website",
-        "value": "https://www.werder.de",
+        "type": "email",
+        "value": "events@williamsf1.com",
         "source": {
-          "name": "Club website",
-          "url": "https://www.werder.de",
+          "name": "Club website contact page",
+          "url": "https://www.williamsf1.com/contact",
           "date": "2026-09-24"
         }
       },
       {
         "type": "contact-form",
-        "value": "https://www.werder.de/service/kontakt",
-        "label": "Contact page",
+        "value": "https://www.williamsf1.com/contact",
+        "label": "Contact form",
         "source": {
           "name": "Club website contact page",
-          "url": "https://www.werder.de/service/kontakt",
+          "url": "https://www.williamsf1.com/contact",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "x",
+        "value": "@Williamsf1",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.williamsf1.com/",
+          "date": "2026-09-24"
+        }
+      },
+      {
+        "type": "instagram",
+        "value": "@williamsf1official",
+        "source": {
+          "name": "Club website contact page",
+          "url": "https://www.williamsf1.com/",
           "date": "2026-09-24"
         }
       }

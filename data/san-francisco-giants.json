@@ -5,9 +5,10 @@
   "league": "mlb",
   "country": "USA",
   "contact": {
+    "email": "customerservice@sfgiants.com",
+    "contact-form": "https://www.mlb.com/giants/official-information/contact",
     "x": "@SFGiants",
-    "instagram": "@SFGiants",
-    "website": "https://www.mlb.com/giants"
+    "instagram": "@SFGiants"
   },
   "sponsors": [],
   "worstTier": "unrated",

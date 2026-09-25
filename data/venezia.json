@@ -4,7 +4,11 @@
   "sport": "soccer",
   "league": "serie-a",
   "country": "Italy",
-  "contact": {},
+  "contact": {
+    "contact-form": "https://www.veneziafc.it/club/contact",
+    "x": "@VeneziaFC_IT",
+    "instagram": "@veneziafc"
+  },
   "sponsors": [
     {
       "id": "cynar-spritz",

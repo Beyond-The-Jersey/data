@@ -5,9 +5,10 @@
   "league": "mlb",
   "country": "USA",
   "contact": {
+    "email": "rockiestix@rockies.com",
+    "contact-form": "https://www.mlb.com/rockies/official-information/contact",
     "x": "@Rockies",
-    "instagram": "@rockies",
-    "website": "https://www.mlb.com/rockies"
+    "instagram": "@rockies"
   },
   "sponsors": [],
   "worstTier": "unrated",

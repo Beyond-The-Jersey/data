@@ -4,7 +4,10 @@
   "sport": "soccer",
   "league": "mls",
   "country": "USA",
-  "contact": {},
+  "contact": {
+    "x": "@columbuscrew",
+    "instagram": "@columbuscrew"
+  },
   "sponsors": [
     {
       "id": "nationwide",

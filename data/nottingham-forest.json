@@ -5,10 +5,9 @@
   "league": "premier-league",
   "country": "England",
   "contact": {
+    "contact-form": "https://www.nottinghamforest.co.uk/contact",
     "x": "@nffc",
-    "instagram": "@tnfcofficial",
-    "website": "https://www.nottinghamforest.co.uk",
-    "contact-form": "https://www.nottinghamforest.co.uk/contact"
+    "instagram": "@tnfcofficial"
   },
   "sponsors": [
     {

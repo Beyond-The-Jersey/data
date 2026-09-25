@@ -4,7 +4,11 @@
   "sport": "motorsport",
   "league": "formula-1",
   "country": "United States",
-  "contact": {},
+  "contact": {
+    "contact-form": "https://www.haasf1team.com/contact-us",
+    "x": "@HaasF1Team",
+    "instagram": "@haasf1team"
+  },
   "sponsors": [
     {
       "id": "alpinestars-h",

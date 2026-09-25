@@ -4,7 +4,10 @@
   "sport": "soccer",
   "league": "mls",
   "country": "USA",
-  "contact": {},
+  "contact": {
+    "x": "@ATLUTD",
+    "instagram": "@atlutd"
+  },
   "sponsors": [
     {
       "id": "american-family-insurance",

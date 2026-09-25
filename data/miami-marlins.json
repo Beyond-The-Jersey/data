@@ -5,9 +5,10 @@
   "league": "mlb",
   "country": "USA",
   "contact": {
+    "email": "enrollment@marlins.com",
+    "contact-form": "https://www.mlb.com/marlins/official-information/contact",
     "x": "@marlins",
-    "instagram": "@marlins",
-    "website": "https://www.mlb.com/marlins"
+    "instagram": "@marlins"
   },
   "sponsors": [],
   "worstTier": "unrated",

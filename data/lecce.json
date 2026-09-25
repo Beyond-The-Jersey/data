@@ -4,7 +4,12 @@
   "sport": "soccer",
   "league": "serie-a",
   "country": "Italy",
-  "contact": {},
+  "contact": {
+    "email": "rdp@uslecce.it",
+    "phone": "+390832241501",
+    "x": "@OfficialUSLecce",
+    "instagram": "@uslecce"
+  },
   "sponsors": [
     {
       "id": "deghi",

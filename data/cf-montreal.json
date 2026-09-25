@@ -4,7 +4,10 @@
   "sport": "soccer",
   "league": "mls",
   "country": "Canada",
-  "contact": {},
+  "contact": {
+    "x": "@cfmontreal",
+    "instagram": "@cfmontreal"
+  },
   "sponsors": [
     {
       "id": "bmo-bank",

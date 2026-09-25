@@ -5,9 +5,10 @@
   "league": "nfl",
   "country": "USA",
   "contact": {
+    "email": "Webmaster@Bengals.nfl.net",
+    "contact-form": "https://www.bengals.com/fans/contact",
     "x": "@GeoffHobsonCin",
-    "instagram": "@bengals",
-    "website": "https://www.bengals.com"
+    "instagram": "@bengals"
   },
   "sponsors": [],
   "worstTier": "unrated",

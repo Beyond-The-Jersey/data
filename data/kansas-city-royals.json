@@ -5,9 +5,10 @@
   "league": "mlb",
   "country": "USA",
   "contact": {
+    "email": "ticketservices@royals.com",
+    "contact-form": "https://www.mlb.com/royals/official-information/contact",
     "x": "@royals",
-    "instagram": "@kcroyals",
-    "website": "https://www.mlb.com/royals"
+    "instagram": "@kcroyals"
   },
   "sponsors": [],
   "worstTier": "unrated",

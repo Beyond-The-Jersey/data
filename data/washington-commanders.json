@@ -5,9 +5,9 @@
   "league": "nfl",
   "country": "USA",
   "contact": {
+    "contact-form": "https://www.commanders.com/about-us/contact-us",
     "x": "@commanders",
-    "instagram": "@commanders",
-    "website": "https://www.commanders.com"
+    "instagram": "@commanders"
   },
   "sponsors": [],
   "worstTier": "unrated",

@@ -5,9 +5,10 @@
   "league": "mlb",
   "country": "USA",
   "contact": {
+    "email": "tickets@cardinals.com",
+    "contact-form": "https://www.mlb.com/cardinals/official-information/contact",
     "x": "@Cardinals",
-    "instagram": "@cardinals",
-    "website": "https://www.mlb.com/cardinals"
+    "instagram": "@cardinals"
   },
   "sponsors": [],
   "worstTier": "unrated",

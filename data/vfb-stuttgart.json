@@ -5,10 +5,10 @@
   "league": "bundesliga",
   "country": "Germany",
   "contact": {
-    "contact-form": "https://www.vfb.de/de/1893/club/service/formales/impressum/",
+    "email": "l.lang@vfb-stuttgart.de",
+    "contact-form": "https://www.vfb.de/de/1893/frauen/kontakt/",
     "x": "@vfb",
-    "instagram": "@vfb",
-    "website": "https://www.vfb.de"
+    "instagram": "@vfb"
   },
   "sponsors": [
     {

@@ -5,9 +5,10 @@
   "league": "mlb",
   "country": "USA",
   "contact": {
+    "email": "fanservices@cubs.com",
+    "contact-form": "https://www.mlb.com/cubs/official-information/contact",
     "x": "@Cubs",
-    "instagram": "@cubs",
-    "website": "https://www.mlb.com/cubs"
+    "instagram": "@cubs"
   },
   "sponsors": [],
   "worstTier": "unrated",

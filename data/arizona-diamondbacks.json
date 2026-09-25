@@ -5,9 +5,10 @@
   "league": "mlb",
   "country": "USA",
   "contact": {
+    "email": "fanfeedback@dbacks.com",
+    "contact-form": "https://www.mlb.com/dbacks/official-information/contact",
     "x": "@dbacks",
-    "instagram": "@dbacks",
-    "website": "https://www.mlb.com/dbacks"
+    "instagram": "@dbacks"
   },
   "sponsors": [],
   "worstTier": "unrated",

@@ -4,7 +4,10 @@
   "sport": "soccer",
   "league": "mls",
   "country": "USA",
-  "contact": {},
+  "contact": {
+    "x": "@AustinFC",
+    "instagram": "@austinfc"
+  },
   "sponsors": [
     {
       "id": "yeti",

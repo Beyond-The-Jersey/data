@@ -5,9 +5,10 @@
   "league": "mlb",
   "country": "USA",
   "contact": {
+    "email": "tickets@phillies.com",
+    "contact-form": "https://www.mlb.com/phillies/official-information/contact",
     "x": "@Phillies",
-    "instagram": "@phillies",
-    "website": "https://www.mlb.com/phillies"
+    "instagram": "@phillies"
   },
   "sponsors": [],
   "worstTier": "unrated",

@@ -4,7 +4,12 @@
   "sport": "motorsport",
   "league": "formula-1",
   "country": "United Kingdom",
-  "contact": {},
+  "contact": {
+    "email": "enquiries@mercedesamgf1.com",
+    "contact-form": "https://www.mercedesamgf1.com/legal-notice",
+    "x": "@MERCEDESAMGF1",
+    "instagram": "@MercedesAMGF1"
+  },
   "sponsors": [
     {
       "id": "adidas",

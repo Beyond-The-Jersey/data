@@ -5,10 +5,9 @@
   "league": "premier-league",
   "country": "England",
   "contact": {
+    "contact-form": "https://www.evertonfc.com/contact",
     "x": "@everton",
-    "instagram": "@evertonfcofficial",
-    "website": "https://www.evertonfc.com",
-    "contact-form": "https://www.evertonfc.com/contact"
+    "instagram": "@evertonfcofficial"
   },
   "sponsors": [
     {

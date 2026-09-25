@@ -4,7 +4,12 @@
   "sport": "soccer",
   "league": "serie-a",
   "country": "Italy",
-  "contact": {},
+  "contact": {
+    "email": "tour@sansirostadium.com",
+    "contact-form": "https://www.inter.it/it/club/inter-contatti",
+    "x": "@Inter",
+    "instagram": "@inter"
+  },
   "sponsors": [
     {
       "id": "betsson-sport",

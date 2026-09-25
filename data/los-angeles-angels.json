@@ -5,9 +5,10 @@
   "league": "mlb",
   "country": "USA",
   "contact": {
+    "email": "ballparkinfo@angels.mlb.com",
+    "contact-form": "https://www.mlb.com/angels/official-information/contact",
     "x": "@angels",
-    "instagram": "@angels",
-    "website": "https://www.mlb.com/angels"
+    "instagram": "@angels"
   },
   "sponsors": [],
   "worstTier": "unrated",

@@ -5,9 +5,10 @@
   "league": "mlb",
   "country": "USA",
   "contact": {
+    "email": "community@chisox.com",
+    "contact-form": "https://www.mlb.com/whitesox/official-information/contact",
     "x": "@whitesox",
-    "instagram": "@whitesox",
-    "website": "https://www.mlb.com/whitesox"
+    "instagram": "@whitesox"
   },
   "sponsors": [],
   "worstTier": "unrated",

@@ -6,9 +6,9 @@
   "country": "USA",
   "contact": {
     "email": "podcasts@patriots.com",
+    "contact-form": "https://www.patriots.com/press-room/contact-us",
     "x": "@patriots",
-    "instagram": "@patriots",
-    "website": "https://www.patriots.com"
+    "instagram": "@patriots"
   },
   "sponsors": [],
   "worstTier": "unrated",

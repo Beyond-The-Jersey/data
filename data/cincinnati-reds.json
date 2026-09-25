@@ -5,9 +5,10 @@
   "league": "mlb",
   "country": "USA",
   "contact": {
+    "email": "ticketservices@reds.com",
+    "contact-form": "https://www.mlb.com/reds/official-information/contact",
     "x": "@Reds",
-    "instagram": "@reds",
-    "website": "https://www.mlb.com/reds"
+    "instagram": "@reds"
   },
   "sponsors": [],
   "worstTier": "unrated",

@@ -5,9 +5,11 @@
   "league": "mlb",
   "country": "USA",
   "contact": {
+    "email": "birdmail@orioles.com",
+    "phone": "+18888482473",
+    "contact-form": "https://www.mlb.com/orioles/official-information/contact",
     "x": "@Orioles",
-    "instagram": "@orioles",
-    "website": "https://www.mlb.com/orioles"
+    "instagram": "@orioles"
   },
   "sponsors": [],
   "worstTier": "unrated",

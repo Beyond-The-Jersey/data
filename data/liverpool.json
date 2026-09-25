@@ -5,10 +5,9 @@
   "league": "premier-league",
   "country": "England",
   "contact": {
+    "contact-form": "https://www.liverpoolfc.com/info/contact-us",
     "x": "@lfc",
-    "instagram": "@liverpoolfc",
-    "website": "https://www.liverpoolfc.com",
-    "contact-form": "https://www.liverpoolfc.com/info/contact-us"
+    "instagram": "@liverpoolfc"
   },
   "sponsors": [
     {

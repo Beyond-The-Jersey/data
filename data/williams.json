@@ -4,7 +4,12 @@
   "sport": "motorsport",
   "league": "formula-1",
   "country": "United Kingdom",
-  "contact": {},
+  "contact": {
+    "email": "support@digital.williamsf1.com",
+    "contact-form": "https://www.williamsf1.com/contact",
+    "x": "@Williamsf1",
+    "instagram": "@williamsf1official"
+  },
   "sponsors": [
     {
       "id": "atlassian",

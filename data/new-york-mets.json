@@ -5,9 +5,9 @@
   "league": "mlb",
   "country": "USA",
   "contact": {
+    "contact-form": "https://www.mlb.com/mets/official-information/contact",
     "x": "@mets",
-    "instagram": "@mets",
-    "website": "https://www.mlb.com/mets"
+    "instagram": "@mets"
   },
   "sponsors": [],
   "worstTier": "unrated",

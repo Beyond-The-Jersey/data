@@ -5,8 +5,7 @@
   "league": "bundesliga",
   "country": "Germany",
   "contact": {
-    "website": "https://www.borussia.de/",
-    "contact-form": "https://www.borussia.de/kontakt"
+    "contact-form": "https://www.borussia.de/contact"
   },
   "sponsors": [
     {

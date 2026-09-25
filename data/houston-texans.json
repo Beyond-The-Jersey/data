@@ -5,9 +5,10 @@
   "league": "nfl",
   "country": "USA",
   "contact": {
+    "email": "Ticketing@HoustonTexans.com",
+    "contact-form": "https://www.houstontexans.com/game-day/contact-us",
     "x": "@HoustonTexans",
-    "instagram": "@HoustonTexans",
-    "website": "https://www.houstontexans.com"
+    "instagram": "@HoustonTexans"
   },
   "sponsors": [],
   "worstTier": "unrated",

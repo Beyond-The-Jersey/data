@@ -5,11 +5,10 @@
   "league": "la-liga",
   "country": "Spain",
   "contact": {
-    "email": "info@levanteud.es",
-    "contact-form": "https://www.levanteud.com/contacto",
+    "email": "admon@levanteud.es",
+    "contact-form": "https://www.levanteud.com/aviso-legal",
     "x": "@levanteud",
-    "instagram": "@levanteud",
-    "website": "https://www.levanteud.com"
+    "instagram": "@levanteud"
   },
   "sponsors": [
     {

@@ -4,7 +4,11 @@
   "sport": "soccer",
   "league": "serie-a",
   "country": "Italy",
-  "contact": {},
+  "contact": {
+    "contact-form": "https://www.sslazio.it/it/club/organizzazione/info-contatti",
+    "x": "@OfficialSSLazio",
+    "instagram": "@official_sslazio"
+  },
   "sponsors": [],
   "worstTier": "unrated",
   "owners": [],

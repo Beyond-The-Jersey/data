@@ -4,7 +4,12 @@
   "sport": "soccer",
   "league": "serie-a",
   "country": "Italy",
-  "contact": {},
+  "contact": {
+    "email": "slo@torinofc.it",
+    "contact-form": "https://www.torinofc.it/fan/supporter-liaison-officer-slo",
+    "x": "@TorinoFC_1906",
+    "instagram": "@torinofc1906"
+  },
   "sponsors": [
     {
       "id": "suzuki",

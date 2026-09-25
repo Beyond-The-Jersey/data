@@ -4,7 +4,12 @@
   "sport": "soccer",
   "league": "serie-a",
   "country": "Italy",
-  "contact": {},
+  "contact": {
+    "email": "info@sassuolocalcio.it",
+    "contact-form": "https://www.sassuolocalcio.it/club/contatti/",
+    "x": "@SassuoloUS",
+    "instagram": "@sassuolocalcio"
+  },
   "sponsors": [
     {
       "id": "mapei",

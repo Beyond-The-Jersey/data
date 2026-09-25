@@ -5,10 +5,10 @@
   "league": "bundesliga",
   "country": "Germany",
   "contact": {
-    "contact-form": "https://www.fcaugsburg.de/contact",
+    "email": "info@fcaugsburg.de",
+    "contact-form": "https://www.fcaugsburg.de/page/kontakt-51",
     "x": "@FCAugsburg",
-    "instagram": "@fcaugsburg1907",
-    "website": "https://www.fcaugsburg.de"
+    "instagram": "@fcaugsburg1907"
   },
   "sponsors": [
     {

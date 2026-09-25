@@ -5,9 +5,10 @@
   "league": "nfl",
   "country": "USA",
   "contact": {
+    "phone": "18007243377",
+    "contact-form": "https://www.raiders.com/about/contact-us",
     "x": "@raiders",
-    "instagram": "@raiders",
-    "website": "https://www.raiders.com"
+    "instagram": "@raiders"
   },
   "sponsors": [],
   "worstTier": "unrated",

@@ -5,9 +5,10 @@
   "league": "mlb",
   "country": "USA",
   "contact": {
+    "email": "talkback@pirates.com",
+    "contact-form": "https://www.mlb.com/pirates/official-information/contact",
     "x": "@Pirates",
-    "instagram": "@pittsburghpirates",
-    "website": "https://www.mlb.com/pirates"
+    "instagram": "@pittsburghpirates"
   },
   "sponsors": [],
   "worstTier": "unrated",

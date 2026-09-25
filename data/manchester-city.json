@@ -5,10 +5,9 @@
   "league": "premier-league",
   "country": "England",
   "contact": {
+    "contact-form": "https://www.mancity.com/help-and-support/contact-us",
     "x": "@ManCity",
-    "instagram": "@mancity",
-    "website": "https://www.mancity.com",
-    "contact-form": "https://www.mancity.com/help-and-support/contact-us"
+    "instagram": "@mancity"
   },
   "sponsors": [
     {

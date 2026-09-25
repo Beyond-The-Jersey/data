@@ -5,11 +5,10 @@
   "league": "bundesliga",
   "country": "Germany",
   "contact": {
-    "email": "info@004gmbh.de",
-    "contact-form": "https://fc.de/impressum",
+    "email": "service@fc.de",
+    "contact-form": "https://fc.de/service/rund-um-den-fc/kontakt",
     "x": "@fckoeln",
-    "instagram": "@fckoeln",
-    "website": "https://fc.de"
+    "instagram": "@fckoeln"
   },
   "sponsors": [
     {

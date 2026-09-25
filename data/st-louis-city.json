@@ -4,7 +4,11 @@
   "sport": "soccer",
   "league": "mls",
   "country": "USA",
-  "contact": {},
+  "contact": {
+    "contact-form": "https://www.stlcitysc.com/about/contact-us/",
+    "x": "@stlCITYsc",
+    "instagram": "@stlcitysc"
+  },
   "sponsors": [
     {
       "id": "purina",

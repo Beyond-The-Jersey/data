@@ -5,9 +5,10 @@
   "league": "nfl",
   "country": "USA",
   "contact": {
+    "email": "legalrequests@bears.nfl.net",
+    "contact-form": "https://www.chicagobears.com/about/contact-us",
     "x": "@ChicagoBears",
-    "instagram": "@chicagobears",
-    "website": "https://www.chicagobears.com"
+    "instagram": "@chicagobears"
   },
   "sponsors": [],
   "worstTier": "unrated",

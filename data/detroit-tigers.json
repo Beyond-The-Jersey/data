@@ -5,9 +5,9 @@
   "league": "mlb",
   "country": "USA",
   "contact": {
+    "contact-form": "https://www.mlb.com/tigers/official-information/contact",
     "x": "@tigers",
-    "instagram": "@tigers",
-    "website": "https://www.mlb.com/tigers"
+    "instagram": "@tigers"
   },
   "sponsors": [],
   "worstTier": "unrated",

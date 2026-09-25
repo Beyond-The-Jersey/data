@@ -4,7 +4,12 @@
   "sport": "soccer",
   "league": "mls",
   "country": "USA",
-  "contact": {},
+  "contact": {
+    "email": "support@rsl.com",
+    "contact-form": "https://www.rsl.com/club/contact-us",
+    "x": "@realsaltlake",
+    "instagram": "@realsaltlake"
+  },
   "sponsors": [
     {
       "id": "select-health",

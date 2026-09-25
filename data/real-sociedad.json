@@ -5,9 +5,10 @@
   "league": "la-liga",
   "country": "Spain",
   "contact": {
+    "email": "realsoc@realsociedad.eus",
+    "contact-form": "https://www.realsociedad.eus/es/i/aviso-legal",
     "x": "@RealSociedad",
-    "instagram": "@realsociedad",
-    "website": "https://www.realsociedad.eus"
+    "instagram": "@realsociedad"
   },
   "sponsors": [
     {

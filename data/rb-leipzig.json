@@ -5,10 +5,9 @@
   "league": "bundesliga",
   "country": "Germany",
   "contact": {
+    "contact-form": "https://rbleipzig.com/de/contact",
     "x": "@RBLeipzig",
-    "instagram": "@rbleipzig",
-    "website": "https://rbleipzig.com",
-    "contact-form": "https://rbleipzig.com/de/kontakt"
+    "instagram": "@rbleipzig"
   },
   "sponsors": [
     {

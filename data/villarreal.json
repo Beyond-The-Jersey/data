@@ -5,11 +5,9 @@
   "league": "la-liga",
   "country": "Spain",
   "contact": {
-    "email": "info@villarrealcf.es",
-    "contact-form": "https://villarrealcf.es/es/aviso-legal/",
+    "contact-form": "https://villarrealcf.es/es/formulario-contacto/",
     "x": "@VillarrealCF",
-    "instagram": "@villarrealcf",
-    "website": "https://www.villarrealcf.es"
+    "instagram": "@villarrealcf"
   },
   "sponsors": [
     {

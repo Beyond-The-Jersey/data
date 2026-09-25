@@ -6,9 +6,10 @@
   "country": "USA",
   "contact": {
     "email": "PolicysPerspective@packers.com",
+    "phone": "19205697500",
+    "contact-form": "https://www.packers.com/lambeau-field/contact-us",
     "x": "@packers",
-    "instagram": "@packers",
-    "website": "https://www.packers.com"
+    "instagram": "@packers"
   },
   "sponsors": [],
   "worstTier": "unrated",

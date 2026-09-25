@@ -4,7 +4,13 @@
   "sport": "soccer",
   "league": "mls",
   "country": "USA",
-  "contact": {},
+  "contact": {
+    "email": "customerservice@sandiegofc.com",
+    "phone": "6415852864001",
+    "contact-form": "https://www.sandiegofc.com/club/contact",
+    "x": "@sandiegofc",
+    "instagram": "@sandiegofc"
+  },
   "sponsors": [
     {
       "id": "directv",

@@ -5,9 +5,10 @@
   "league": "nfl",
   "country": "USA",
   "contact": {
+    "email": "ticketoffice@steelers.com",
+    "contact-form": "https://www.steelers.com/legal/contact-us/",
     "x": "@steelers",
-    "instagram": "@steelers",
-    "website": "https://www.steelers.com"
+    "instagram": "@steelers"
   },
   "sponsors": [],
   "worstTier": "unrated",

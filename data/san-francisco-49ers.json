@@ -5,9 +5,9 @@
   "league": "nfl",
   "country": "USA",
   "contact": {
+    "contact-form": "https://www.49ers.com/about-us/contact-us",
     "x": "@49ers",
-    "instagram": "@49ers",
-    "website": "https://www.49ers.com"
+    "instagram": "@49ers"
   },
   "sponsors": [],
   "worstTier": "unrated",

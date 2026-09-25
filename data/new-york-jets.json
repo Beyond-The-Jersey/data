@@ -5,9 +5,9 @@
   "league": "nfl",
   "country": "USA",
   "contact": {
+    "contact-form": "https://www.newyorkjets.com/faqs/contact-us",
     "x": "@nyjets",
-    "instagram": "@nyjets",
-    "website": "https://www.newyorkjets.com"
+    "instagram": "@nyjets"
   },
   "sponsors": [],
   "worstTier": "unrated",

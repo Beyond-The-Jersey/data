@@ -5,9 +5,10 @@
   "league": "nfl",
   "country": "USA",
   "contact": {
+    "phone": "+14252038444",
+    "contact-form": "https://suites.seahawks.com/contact?utm_source=web-app&amp;utm_medium=button&amp;utm_campaign=4415546923_sr26&amp;utm_content=home-page",
     "x": "@Seahawks",
-    "instagram": "@seahawks",
-    "website": "https://www.seahawks.com"
+    "instagram": "@seahawks"
   },
   "sponsors": [],
   "worstTier": "unrated",

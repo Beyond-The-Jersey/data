@@ -4,7 +4,10 @@
   "sport": "soccer",
   "league": "mls",
   "country": "USA",
-  "contact": {},
+  "contact": {
+    "x": "@newyorkredbulls",
+    "instagram": "@newyorkredbulls"
+  },
   "sponsors": [
     {
       "id": "red-bull",

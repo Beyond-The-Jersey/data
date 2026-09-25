@@ -4,7 +4,12 @@
   "sport": "soccer",
   "league": "serie-a",
   "country": "Italy",
-  "contact": {},
+  "contact": {
+    "email": "stampa@udinese.it",
+    "contact-form": "https://www.udinese.it/club/contatti",
+    "x": "@Udinese_1896",
+    "instagram": "@udinesecalcio"
+  },
   "sponsors": [
     {
       "id": "io-sono-friuli-venezia-giulia",

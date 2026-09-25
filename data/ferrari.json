@@ -4,7 +4,12 @@
   "sport": "motorsport",
   "league": "formula-1",
   "country": "Italy",
-  "contact": {},
+  "contact": {
+    "email": "customercare@ferraristore.com",
+    "contact-form": "https://www.ferrari.com/en-EN/contacts",
+    "x": "@Scuderiaferrari",
+    "instagram": "@ferrari"
+  },
   "sponsors": [
     {
       "id": "hp",

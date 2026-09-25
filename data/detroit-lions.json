@@ -5,9 +5,10 @@
   "league": "nfl",
   "country": "USA",
   "contact": {
+    "phone": "3132622000",
+    "contact-form": "https://www.detroitlions.com/about-us/contact-us",
     "x": "@Lions",
-    "instagram": "@detroitlionsnfl",
-    "website": "https://www.detroitlions.com"
+    "instagram": "@detroitlionsnfl"
   },
   "sponsors": [],
   "worstTier": "unrated",

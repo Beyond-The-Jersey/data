@@ -4,7 +4,12 @@
   "sport": "soccer",
   "league": "serie-a",
   "country": "Italy",
-  "contact": {},
+  "contact": {
+    "email": "slo@juventus.com",
+    "contact-form": "https://www.juventus.com/it/bianconeri/supporter-liaison-officer",
+    "x": "@juventusfc",
+    "instagram": "@juventus"
+  },
   "sponsors": [
     {
       "id": "jeep",

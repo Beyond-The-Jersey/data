@@ -4,7 +4,11 @@
   "sport": "soccer",
   "league": "serie-a",
   "country": "Italy",
-  "contact": {},
+  "contact": {
+    "contact-form": "https://www.frosinonecalcio.com/contatti/",
+    "x": "@Frosinone1928",
+    "instagram": "@frosinonecalcio"
+  },
   "sponsors": [
     {
       "id": "banca-popolare-del-frusinate",

@@ -5,10 +5,9 @@
   "league": "nba",
   "country": "USA",
   "contact": {
+    "contact-form": "https://www.nba.com/celtics/fans/contact-us",
     "x": "@celtics",
-    "instagram": "@celtics",
-    "website": "https://www.celtics.com",
-    "contact-form": "https://www.nba.com/celtics/fans/contact-us"
+    "instagram": "@celtics"
   },
   "sponsors": [],
   "worstTier": "unrated",

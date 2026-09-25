@@ -5,10 +5,9 @@
   "league": "nfl",
   "country": "USA",
   "contact": {
+    "contact-form": "https://www.philadelphiaeagles.com/footer/contact-us/",
     "x": "@Eagles",
-    "instagram": "@philadelphiaeagles",
-    "website": "https://www.philadelphiaeagles.com",
-    "contact-form": "https://www.philadelphiaeagles.com/footer/contact-us/"
+    "instagram": "@philadelphiaeagles"
   },
   "sponsors": [],
   "worstTier": "unrated",

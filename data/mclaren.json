@@ -4,7 +4,9 @@
   "sport": "motorsport",
   "league": "formula-1",
   "country": "United Kingdom",
-  "contact": {},
+  "contact": {
+    "contact-form": "https://www.mclaren.com/racing/contact-us/"
+  },
   "sponsors": [
     {
       "id": "cisco",

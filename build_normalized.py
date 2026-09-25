@@ -470,8 +470,10 @@ cpath = os.path.join(HERE, "contacts_build.json")
 contacts = json.load(open(cpath, encoding="utf-8")) if os.path.exists(cpath) else []
 import build_contacts as BC  # noqa: E402
 
-have = {c["clubId"] for c in contacts}
 club_ids = {c["id"] for c in clubs}
+# the contact sweep is driven by a SITES map that can hold ids no longer in clubs.json
+contacts = [c for c in contacts if c["clubId"] in club_ids]
+have = {c["clubId"] for c in contacts}
 for cid in sorted(club_ids - have):
     if cid in BC.OVERRIDES:
         contacts.append({"clubId": cid, "channels": BC.OVERRIDES[cid], "lastChecked": A.D})

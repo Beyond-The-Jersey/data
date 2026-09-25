@@ -5,9 +5,10 @@
   "league": "mlb",
   "country": "USA",
   "contact": {
+    "email": "tickets@mariners.mlb.com",
+    "contact-form": "https://www.mlb.com/mariners/official-information/contact",
     "x": "@Mariners",
-    "instagram": "@mariners",
-    "website": "https://www.mlb.com/mariners"
+    "instagram": "@mariners"
   },
   "sponsors": [],
   "worstTier": "unrated",

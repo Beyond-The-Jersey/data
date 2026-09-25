@@ -5,10 +5,8 @@
   "league": "premier-league",
   "country": "England",
   "contact": {
-    "x": "@OfficialBHAFC",
-    "website": "https://www.brightonandhovealbion.com",
-    "email": "supporter.services@brightonandhovealbion.com",
-    "contact-form": "https://www.brightonandhovealbion.com/contact-us"
+    "contact-form": "https://www.brightonandhovealbion.com/home/contact",
+    "x": "@Boro"
   },
   "sponsors": [
     {

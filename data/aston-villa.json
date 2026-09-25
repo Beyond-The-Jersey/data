@@ -5,10 +5,9 @@
   "league": "premier-league",
   "country": "England",
   "contact": {
+    "contact-form": "https://www.avfc.co.uk/contact",
     "x": "@AstonVilla",
-    "instagram": "@astonvilla",
-    "website": "https://www.avfc.co.uk",
-    "contact-form": "https://www.avfc.co.uk/contact"
+    "instagram": "@astonvilla"
   },
   "sponsors": [
     {

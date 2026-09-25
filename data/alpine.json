@@ -4,7 +4,10 @@
   "sport": "motorsport",
   "league": "formula-1",
   "country": "United Kingdom",
-  "contact": {},
+  "contact": {
+    "x": "@AlpineF1Team",
+    "instagram": "@alpinef1team"
+  },
   "sponsors": [
     {
       "id": "boeing",

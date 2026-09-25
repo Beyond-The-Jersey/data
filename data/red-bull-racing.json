@@ -4,7 +4,9 @@
   "sport": "motorsport",
   "league": "formula-1",
   "country": "United Kingdom",
-  "contact": {},
+  "contact": {
+    "contact-form": "https://www.redbullracing.com/int-en/club/contacto"
+  },
   "sponsors": [
     {
       "id": "att",

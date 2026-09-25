@@ -5,11 +5,10 @@
   "league": "bundesliga",
   "country": "Germany",
   "contact": {
-    "email": "service@bvb.de",
-    "contact-form": "https://www.bvb.de/de/de/allgemein/impressum.html",
+    "email": "inklusion@bvb.de",
+    "contact-form": "https://www.bvb.de/de/de/mannschaften/fussball/frauen/kontakt-tickets.html",
     "x": "@bvb",
-    "instagram": "@bvb09",
-    "website": "https://www.bvb.de"
+    "instagram": "@bvb09"
   },
   "sponsors": [
     {

@@ -4,7 +4,11 @@
   "sport": "motorsport",
   "league": "formula-1",
   "country": "United Kingdom",
-  "contact": {},
+  "contact": {
+    "contact-form": "https://www.astonmartinf1.com/en-GB/contact",
+    "x": "@astonmartinf1",
+    "instagram": "@astonmartinf1"
+  },
   "sponsors": [
     {
       "id": "aramco",

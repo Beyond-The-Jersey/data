@@ -5,9 +5,10 @@
   "league": "mlb",
   "country": "USA",
   "contact": {
+    "email": "fanfeedback@ladodgers.com",
+    "contact-form": "https://www.mlb.com/dodgers/official-information/contact",
     "x": "@dodgers",
-    "instagram": "@dodgers",
-    "website": "https://www.mlb.com/dodgers"
+    "instagram": "@dodgers"
   },
   "sponsors": [],
   "worstTier": "unrated",

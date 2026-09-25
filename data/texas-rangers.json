@@ -5,9 +5,10 @@
   "league": "mlb",
   "country": "USA",
   "contact": {
+    "email": "ticketoffice@texasrangers.com",
+    "contact-form": "https://www.mlb.com/rangers/official-information/contact",
     "x": "@Rangers",
-    "instagram": "@rangers",
-    "website": "https://www.mlb.com/rangers"
+    "instagram": "@rangers"
   },
   "sponsors": [],
   "worstTier": "unrated",

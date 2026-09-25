@@ -4,7 +4,11 @@
   "sport": "soccer",
   "league": "serie-a",
   "country": "Italy",
-  "contact": {},
+  "contact": {
+    "contact-form": "https://genoacfc.it/contatti/",
+    "x": "@GenoaCFC",
+    "instagram": "@genoacfc"
+  },
   "sponsors": [
     {
       "id": "pulsee-luce-e-gas",

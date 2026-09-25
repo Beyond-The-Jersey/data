@@ -5,10 +5,9 @@
   "league": "premier-league",
   "country": "England",
   "contact": {
+    "contact-form": "https://www.afcb.co.uk/contact",
     "x": "@afcbournemouth",
-    "instagram": "@afcb",
-    "website": "https://www.afcb.co.uk",
-    "contact-form": "https://www.afcb.co.uk/contact"
+    "instagram": "@afcb"
   },
   "sponsors": [
     {

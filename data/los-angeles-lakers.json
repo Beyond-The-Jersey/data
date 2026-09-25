@@ -5,11 +5,9 @@
   "league": "nba",
   "country": "USA",
   "contact": {
+    "contact-form": "https://www.nba.com/lakers/?tmd=1/contact",
     "x": "@lakers",
-    "instagram": "@lakers",
-    "website": "https://www.lakers.com",
-    "email": "PartnershipInfo@lakers.com",
-    "contact-form": "https://www.nba.com/lakers/contact"
+    "instagram": "@lakers"
   },
   "sponsors": [],
   "worstTier": "unrated",

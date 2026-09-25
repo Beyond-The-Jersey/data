@@ -5,10 +5,9 @@
   "league": "premier-league",
   "country": "England",
   "contact": {
+    "contact-form": "https://www.safc.com/contact",
     "x": "@sunderlandafc",
-    "instagram": "@sunderlandafc",
-    "website": "https://www.safc.com",
-    "contact-form": "https://www.safc.com/contact"
+    "instagram": "@sunderlandafc"
   },
   "sponsors": [
     {

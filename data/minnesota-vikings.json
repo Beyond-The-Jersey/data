@@ -5,9 +5,10 @@
   "league": "nfl",
   "country": "USA",
   "contact": {
+    "email": "customerservice@vikings.nfl.net",
+    "contact-form": "https://www.vikings.com/footer/contact-us",
     "x": "@vikings",
-    "instagram": "@vikings",
-    "website": "https://www.vikings.com"
+    "instagram": "@vikings"
   },
   "sponsors": [],
   "worstTier": "unrated",

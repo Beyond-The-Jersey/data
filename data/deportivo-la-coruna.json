@@ -5,10 +5,9 @@
   "league": "la-liga",
   "country": "Spain",
   "contact": {
+    "contact-form": "https://www.rcdeportivo.es/es/contacto",
     "x": "@RCDeportivo",
-    "instagram": "@rcdeportivo",
-    "website": "https://www.rcdeportivo.es",
-    "contact-form": "https://www.rcdeportivo.es/es/contacto"
+    "instagram": "@rcdeportivo"
   },
   "sponsors": [
     {

@@ -4,7 +4,12 @@
   "sport": "soccer",
   "league": "mls",
   "country": "USA",
-  "contact": {},
+  "contact": {
+    "email": "info@nashvillesc.com",
+    "contact-form": "https://www.nashvillesc.com/club/contact",
+    "x": "@nashvillesc",
+    "instagram": "@nashvillesc"
+  },
   "sponsors": [
     {
       "id": "renasant-bank",

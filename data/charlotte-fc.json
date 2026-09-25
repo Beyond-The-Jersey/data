@@ -4,7 +4,11 @@
   "sport": "soccer",
   "league": "mls",
   "country": "USA",
-  "contact": {},
+  "contact": {
+    "contact-form": "https://www.charlottefootballclub.com/contact-us",
+    "x": "@CharlotteFC",
+    "instagram": "@charlottefc"
+  },
   "sponsors": [
     {
       "id": "ally",

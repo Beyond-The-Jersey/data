@@ -5,9 +5,10 @@
   "league": "nfl",
   "country": "USA",
   "contact": {
+    "email": "webmaster@colts.com",
+    "contact-form": "https://www.colts.com/footer/contact-us",
     "x": "@colts",
-    "instagram": "@colts",
-    "website": "https://www.colts.com"
+    "instagram": "@colts"
   },
   "sponsors": [],
   "worstTier": "unrated",

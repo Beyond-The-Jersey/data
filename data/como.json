@@ -4,7 +4,10 @@
   "sport": "soccer",
   "league": "serie-a",
   "country": "Italy",
-  "contact": {},
+  "contact": {
+    "x": "@Como_1907",
+    "instagram": "@como_1907official"
+  },
   "sponsors": [
     {
       "id": "revolut",

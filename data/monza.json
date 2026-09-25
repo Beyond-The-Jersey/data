@@ -4,7 +4,12 @@
   "sport": "soccer",
   "league": "serie-a",
   "country": "Italy",
-  "contact": {},
+  "contact": {
+    "phone": "+39039836664",
+    "contact-form": "https://www.acmonza.com/it/contatti/",
+    "x": "@ACMonza",
+    "instagram": "@acmonza"
+  },
   "sponsors": [
     {
       "id": "dazn-bet-club",

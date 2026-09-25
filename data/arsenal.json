@@ -5,9 +5,9 @@
   "league": "premier-league",
   "country": "England",
   "contact": {
+    "contact-form": "https://www.arsenal.com/meetings-and-events/contact-us",
     "x": "@Arsenal",
-    "instagram": "@arsenal",
-    "website": "https://www.arsenal.com/the-club/contact-us"
+    "instagram": "@arsenal"
   },
   "sponsors": [
     {

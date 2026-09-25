@@ -4,7 +4,12 @@
   "sport": "soccer",
   "league": "mls",
   "country": "USA",
-  "contact": {},
+  "contact": {
+    "email": "tix@revolutionsoccer.net",
+    "contact-form": "https://www.revolutionsoccer.net/club/contact-us",
+    "x": "@nerevolution",
+    "instagram": "@nerevolution"
+  },
   "sponsors": [
     {
       "id": "gillette",

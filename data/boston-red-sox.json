@@ -5,9 +5,10 @@
   "league": "mlb",
   "country": "USA",
   "contact": {
+    "email": "ticketoffice@redsox.com",
+    "contact-form": "https://www.mlb.com/redsox/official-information/contact",
     "x": "@RedSox",
-    "instagram": "@redsox",
-    "website": "https://www.mlb.com/redsox"
+    "instagram": "@redsox"
   },
   "sponsors": [],
   "worstTier": "unrated",

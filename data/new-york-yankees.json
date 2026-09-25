@@ -5,9 +5,10 @@
   "league": "mlb",
   "country": "USA",
   "contact": {
+    "email": "tickets@yankees.com",
+    "contact-form": "https://www.mlb.com/yankees/official-information/contact",
     "x": "@Yankees",
-    "instagram": "@yankees",
-    "website": "https://www.mlb.com/yankees"
+    "instagram": "@yankees"
   },
   "sponsors": [],
   "worstTier": "unrated",

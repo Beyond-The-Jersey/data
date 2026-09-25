@@ -5,9 +5,9 @@
   "league": "nba",
   "country": "USA",
   "contact": {
+    "contact-form": "https://www.nba.com/pistons/?tmd=1/contact",
     "x": "@detroitpistons",
-    "instagram": "@detroitpistons",
-    "website": "https://www.pistons.com"
+    "instagram": "@detroitpistons"
   },
   "sponsors": [],
   "worstTier": "unrated",

@@ -5,10 +5,9 @@
   "league": "premier-league",
   "country": "England",
   "contact": {
+    "contact-form": "https://www.ccfc.co.uk/contact",
     "x": "@coventrycityfc",
-    "instagram": "@coventrycityfc",
-    "website": "https://www.ccfc.co.uk",
-    "contact-form": "https://www.ccfc.co.uk/contact"
+    "instagram": "@coventrycityfc"
   },
   "sponsors": [
     {

@@ -4,7 +4,10 @@
   "sport": "motorsport",
   "league": "formula-1",
   "country": "Italy",
-  "contact": {},
+  "contact": {
+    "contact-form": "https://www.visacashapprb.com/int-en/contact",
+    "instagram": "@visacashapprb"
+  },
   "sponsors": [
     {
       "id": "cash-app",

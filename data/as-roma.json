@@ -4,7 +4,13 @@
   "sport": "soccer",
   "league": "serie-a",
   "country": "Italy",
-  "contact": {},
+  "contact": {
+    "email": "youthdevelopment@asroma.it",
+    "phone": "+390689386000",
+    "contact-form": "https://www.asroma.com/en/club/contact-us",
+    "x": "@ASRomaEN",
+    "instagram": "@officialasroma"
+  },
   "sponsors": [
     {
       "id": "eurobet-live",

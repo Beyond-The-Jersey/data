@@ -6,9 +6,9 @@
   "country": "USA",
   "contact": {
     "email": "ticketing@jaguars.com",
+    "contact-form": "https://www.jaguars.com/forms/contactus",
     "x": "@Jaguars",
-    "instagram": "@jaguars",
-    "website": "https://www.jaguars.com"
+    "instagram": "@jaguars"
   },
   "sponsors": [],
   "worstTier": "unrated",

@@ -4,7 +4,10 @@
   "sport": "motorsport",
   "league": "formula-1",
   "country": "Germany",
-  "contact": {},
+  "contact": {
+    "x": "@audif1_",
+    "instagram": "@audif1"
+  },
   "sponsors": [
     {
       "id": "adidas-a",
