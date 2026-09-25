@@ -14,10 +14,10 @@
       "name": "Kia America",
       "placement": "stadium",
       "season": null,
-      "tier": "none",
+      "tier": "concern",
       "ownerId": "kia-america-owner",
       "owner": "Kia America",
-      "verdict": "Owned by Kia America. Nothing found.",
+      "verdict": "Kia Corporation is a KRX-listed automaker with Hyundai Motor Company as largest shareholder (~35.17%) and no state ownership; Hyundai Motor Company is a privately….",
       "source": {
         "name": "Kia Media (Kia America press release)",
         "date": "2023-12-20",
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "worstTier": "none",
+  "worstTier": "concern",
   "owners": [
     "kia-america-owner",
     "walt-disney-world-owner"

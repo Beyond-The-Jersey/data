@@ -18,7 +18,7 @@
       "season": "2026-27",
       "tier": "none",
       "ownerId": "baptist-health-owner",
-      "owner": "Baptist Health",
+      "owner": "Baptist Health South Florida",
       "verdict": "Owned by Baptist Health South Florida. Nothing found.",
       "source": {
         "name": "Zoomph (2026 NFL practice jersey patch guide)",
@@ -31,10 +31,10 @@
       "name": "Hard Rock International",
       "placement": "stadium",
       "season": null,
-      "tier": "none",
+      "tier": "concern",
       "ownerId": "hard-rock-international-owner",
-      "owner": "Hard Rock International",
-      "verdict": "Owned by Unknown. Nothing found.",
+      "owner": "Hard Rock International LLC",
+      "verdict": "Hard Rock International LLC is the ultimate owner of Hard Rock International.",
       "source": {
         "name": "Miami Dolphins Communications Portal",
         "date": "2016-08-17",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "none",
+  "worstTier": "concern",
   "owners": [
     "baptist-health-owner",
     "hard-rock-international-owner"

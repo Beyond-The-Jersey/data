@@ -18,7 +18,7 @@
       "season": "2026-27",
       "tier": "none",
       "ownerId": "energy-transfer-owner",
-      "owner": "Energy Transfer",
+      "owner": "Energy Transfer LP",
       "verdict": "Owned by Energy Transfer LP. Nothing found.",
       "source": {
         "name": "Texas Rangers / MLB.com press release",
@@ -31,10 +31,10 @@
       "name": "Globe Life (Globe Life Inc.)",
       "placement": "stadium",
       "season": null,
-      "tier": "none",
+      "tier": "concern",
       "ownerId": "globe-life-globe-life-inc-owner",
       "owner": "Globe Life (Globe Life Inc.)",
-      "verdict": "Owned by Globe Life (Globe Life Inc.) Corporation. Nothing found.",
+      "verdict": "Globe Life (Globe Life Inc.) is the ultimate owner of Globe Life (Globe Life Inc.).",
       "source": {
         "name": "Globe Life Inc. investor newsroom",
         "date": "2017-08-24",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "none",
+  "worstTier": "concern",
   "owners": [
     "energy-transfer-owner",
     "globe-life-globe-life-inc-owner"

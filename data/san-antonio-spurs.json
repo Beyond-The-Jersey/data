@@ -16,7 +16,7 @@
       "season": null,
       "tier": "none",
       "ownerId": "frost-bank-owner",
-      "owner": "Frost Bank",
+      "owner": "Cullen/Frost Bankers, Inc.",
       "verdict": "Owned by Cullen/Frost Bankers, Inc.. Nothing found.",
       "source": {
         "name": "San Antonio Spurs (nba.com)",
@@ -31,8 +31,8 @@
       "season": "2026-27",
       "tier": "none",
       "ownerId": "ledger-owner",
-      "owner": "Ledger",
-      "verdict": "Owned by Unknown. Nothing found.",
+      "owner": "Ledger LLC",
+      "verdict": "Owned by Ledger LLC. Nothing found.",
       "source": {
         "name": "San Antonio Spurs (spurs.com)",
         "date": "2025-06-24",

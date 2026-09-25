@@ -14,10 +14,10 @@
       "name": "FedEx",
       "placement": "stadium",
       "season": null,
-      "tier": "none",
+      "tier": "concern",
       "ownerId": "fedex-owner",
-      "owner": "FedEx",
-      "verdict": "Owned by Unknown. Nothing found.",
+      "owner": "FedEx LLC",
+      "verdict": "FedEx LLC is the ultimate owner of FedEx.",
       "source": {
         "name": "Inside Hoops (Grizzlies/FedEx release)",
         "date": "2025-01-01",
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "worstTier": "none",
+  "worstTier": "concern",
   "owners": [
     "fedex-owner",
     "robinhood-owner"

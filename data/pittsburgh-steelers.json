@@ -16,10 +16,10 @@
       "name": "Acrisure",
       "placement": "stadium",
       "season": null,
-      "tier": "none",
+      "tier": "concern",
       "ownerId": "acrisure-owner",
-      "owner": "Acrisure",
-      "verdict": "Owned by Unknown. Nothing found.",
+      "owner": "Acrisure LLC",
+      "verdict": "Acrisure LLC is the ultimate owner of Acrisure.",
       "source": {
         "name": "Pittsburgh Steelers",
         "date": "2022-07-12",
@@ -27,7 +27,7 @@
       }
     }
   ],
-  "worstTier": "none",
+  "worstTier": "concern",
   "owners": [
     "acrisure-owner"
   ],

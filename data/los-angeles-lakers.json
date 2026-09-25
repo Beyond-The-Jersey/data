@@ -15,10 +15,10 @@
       "name": "Albert",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "none",
+      "tier": "concern",
       "ownerId": "albert-owner",
-      "owner": "Albert",
-      "verdict": "Owned by Unknown. Nothing found.",
+      "owner": "Albert LLC",
+      "verdict": "Albert LLC is the ultimate owner of Albert.",
       "source": {
         "name": "Yahoo Sports",
         "date": "2026-07-17",
@@ -41,7 +41,7 @@
       }
     }
   ],
-  "worstTier": "none",
+  "worstTier": "concern",
   "owners": [
     "albert-owner",
     "foris-dax"

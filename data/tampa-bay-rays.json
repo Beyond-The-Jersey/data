@@ -18,7 +18,7 @@
       "season": null,
       "tier": "none",
       "ownerId": "tropicana-tropicana-brands-group-owner",
-      "owner": "Tropicana (Tropicana Brands Group)",
+      "owner": "Tropicana Brands Group",
       "verdict": "Owned by Tropicana Brands Group. Nothing found.",
       "source": {
         "name": "MLB.com ballpark guide",
@@ -33,8 +33,8 @@
       "season": "2026-27",
       "tier": "none",
       "ownerId": "webull-owner",
-      "owner": "Webull",
-      "verdict": "Owned by Unknown. Nothing found.",
+      "owner": "Webull LLC",
+      "verdict": "Owned by Webull LLC. Nothing found.",
       "source": {
         "name": "MLB.com (Tampa Bay Rays)",
         "date": "2026-03-19",

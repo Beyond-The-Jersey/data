@@ -32,14 +32,14 @@
     "name": "Acrisure",
     "ownerId": "acrisure-owner",
     "ownership": "owned",
-    "tier": "none",
+    "tier": "concern",
     "status": "rated",
-    "verdict": "Owned by Unknown. Nothing found.",
+    "verdict": "Acrisure LLC is the ultimate owner of Acrisure.",
     "claimIds": [
       "acrisure-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Unknown company with no significant conduct issues found"
+    "note": "Rating note: Documented conduct record: total fines $30850 million; Supplier Code of Conduct: money laundering; CFTC Whistleblower Program at Risk Without Lawmakers’ Help: $23 billion"
   },
   {
     "id": "adidas",
@@ -144,14 +144,14 @@
     "name": "Albert",
     "ownerId": "albert-owner",
     "ownership": "owned",
-    "tier": "none",
+    "tier": "concern",
     "status": "rated",
-    "verdict": "Owned by Unknown. Nothing found.",
+    "verdict": "Albert LLC is the ultimate owner of Albert.",
     "claimIds": [
       "albert-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Unknown company with no significant conduct issues found"
+    "note": "Rating note: Documented conduct record: total fines $0 million; Financial Times Highlights Citizenship Cases Ahead of EU Ruling on Malta: money laundering; Could Hansi Flick have learned from Barcelona’s last Champions League success?: money laundering"
   },
   {
     "id": "all-in-won",
@@ -270,14 +270,14 @@
     "name": "Amica Mutual Insurance",
     "ownerId": "amica-mutual-insurance-owner",
     "ownership": "owned",
-    "tier": "none",
+    "tier": "concern",
     "status": "rated",
-    "verdict": "Owned by Amica Mutual Insurance Parent Company. Nothing found.",
+    "verdict": "Amica Mutual Insurance Company is the ultimate owner of Amica Mutual Insurance.",
     "claimIds": [
       "amica-mutual-insurance-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Private Company company with no significant conduct issues found"
+    "note": "Rating note: Documented conduct record: total fines $0 million; 2022 First Circuit U.S. Court of Appeals Case Law: money laundering"
   },
   {
     "id": "anheuser-busch",
@@ -356,12 +356,12 @@
     "ownership": "owned",
     "tier": "concern",
     "status": "rated",
-    "verdict": "Ownership of Atlantic Health involves entities with documented conduct issues.",
+    "verdict": "Atlantic Health System is the ultimate owner of Atlantic Health.",
     "claimIds": [
       "atlantic-health-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Documented conduct record: UNITED STATES OF AMERICA CONSUMER FINANCIAL PROTECTION BUREAU: $20 billion; UNITED STATES OF AMERICA CONSUMER FINANCIAL PROTECTION BUREAU: $5 billion"
+    "note": "Rating note: Documented conduct record: total fines $0 million; Veteran federal prosecutor appointed New Jersey insurance fraud prosecutor: money laundering"
   },
   {
     "id": "atlassian",
@@ -454,12 +454,12 @@
     "ownership": "owned",
     "tier": "concern",
     "status": "rated",
-    "verdict": "Ownership of Ball Corporation involves entities with documented conduct issues.",
+    "verdict": "Ball Corporation is the ultimate owner of Ball Corporation.",
     "claimIds": [
       "ball-corporation-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Documented conduct record: Corporate Credit Index — 262+ Scored Institutions | FaultlineAmerica: $418 million; 2013 YEAR-END FCPA UPDATE: $569 million"
+    "note": "Rating note: Documented conduct record: total fines $2543420 million; Ball Corporation Press Release dated February 1, 2024: $172 billion; Ball Corporation Press Release dated February 1, 2024: $15.35 billion"
   },
   {
     "id": "ballys-intralot",
@@ -745,12 +745,12 @@
     "ownership": "owned",
     "tier": "concern",
     "status": "rated",
-    "verdict": "Ownership of Capital One involves entities with documented conduct issues.",
+    "verdict": "Capital One Financial Corp.",
     "claimIds": [
       "capital-one-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Documented conduct record: : money laundering; [PDF] 2024 National Money Laundering Risk Assessment (NMLRA): $3 billion"
+    "note": "Rating note: Documented conduct record: total fines $930 million; Capital One to Pay $425 Million in 360 Savings Interest-Rate Settlement - WSJ: $425 million; Capital One to Pay $425 Million in 360 Savings Interest-Rate Settlement - WSJ: $425 million"
   },
   {
     "id": "carvana",
@@ -941,14 +941,14 @@
     "name": "Cleveland-Cliffs",
     "ownerId": "cleveland-cliffs-owner",
     "ownership": "owned",
-    "tier": "none",
+    "tier": "concern",
     "status": "rated",
-    "verdict": "Owned by Unknown. Nothing found.",
+    "verdict": "Cleveland-Cliffs LLC is the ultimate owner of Cleveland-Cliffs.",
     "claimIds": [
       "cleveland-cliffs-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Unknown company with no significant conduct issues found"
+    "note": "Rating note: Documented conduct record: total fines $146 million; 10-Q - 07/26/2023 - Cleveland-Cliffs Inc.: $6 million; 10-Q - 07/26/2023 - Cleveland-Cliffs Inc.: $13 million"
   },
   {
     "id": "clickhouse",
@@ -1219,14 +1219,14 @@
     "name": "Delta Air Lines",
     "ownerId": "delta-air-lines-owner",
     "ownership": "owned",
-    "tier": "none",
+    "tier": "concern",
     "status": "rated",
-    "verdict": "Owned by Unknown. Nothing found.",
+    "verdict": "Delta Air Lines LLC is the ultimate owner of Delta Air Lines.",
     "claimIds": [
       "delta-air-lines-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Unknown company with no significant conduct issues found"
+    "note": "Rating note: Documented conduct record: total fines $763300 million; Delta to settle class-action lawsuit over faulty refunds during Covid | CNN Business: $27 billion; Delta to settle class-action lawsuit over faulty refunds during Covid | CNN Business: $2.3 billion"
   },
   {
     "id": "desert-financial-credit-union",
@@ -1376,14 +1376,14 @@
     "name": "Empower",
     "ownerId": "empower-owner",
     "ownership": "owned",
-    "tier": "none",
+    "tier": "concern",
     "status": "rated",
-    "verdict": "Owned by Unknown. Nothing found.",
+    "verdict": "Empower LLC is the ultimate owner of Empower.",
     "claimIds": [
       "empower-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Unknown company with no significant conduct issues found"
+    "note": "Rating note: Documented conduct record: total fines $13150 million; FTC Secures Settlement with ICE and Black Knight Resolving Antitrust Concerns in Mortgage Technology Deal | Federal Trade Commission: $13.1 billion; Microsoft Word - Empower Anti-Corruption AML KYC Policy (CFM) v4 FEBRUARY 2023 FINAL clean CFM and ELECTRIFI.docx: money laundering"
   },
   {
     "id": "energy-transfer",
@@ -1545,14 +1545,14 @@
     "name": "FedEx",
     "ownerId": "fedex-owner",
     "ownership": "owned",
-    "tier": "none",
+    "tier": "concern",
     "status": "rated",
-    "verdict": "Owned by Unknown. Nothing found.",
+    "verdict": "FedEx LLC is the ultimate owner of FedEx.",
     "claimIds": [
       "fedex-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Unknown company with no significant conduct issues found"
+    "note": "Rating note: Documented conduct record: total fines $0 million; FedEx Corporation: money laundering; Short AirBoss (ABSSF): Lawsuit & Forced Labor Issues Impact Growth Pipeline & Inventory - Supply Chain Council of European Union | Scceu.org: forced labor"
   },
   {
     "id": "fifth-third-bank",
@@ -1655,14 +1655,14 @@
     "name": "Foundation Building Materials (FBM)",
     "ownerId": "foundation-building-materials-owner",
     "ownership": "owned",
-    "tier": "none",
+    "tier": "concern",
     "status": "rated",
-    "verdict": "Owned by Unknown. Nothing found.",
+    "verdict": "Foundation Building Materials (FBM) LLC is the ultimate owner of Foundation Building Materials (FBM).",
     "claimIds": [
       "foundation-building-materials-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Unknown company with no significant conduct issues found"
+    "note": "Rating note: Documented conduct record: total fines $173800 million; Lowe's | Ekalavya Hansaj: $12.5 billion; Lowe’s (LOW) Stock Outlook for 2026: Earnings Beat, Rate‑Cut Hopes and a $12.5M Fine – What It Means for Investors: $8.8 billion"
   },
   {
     "id": "frost-bank",
@@ -1780,14 +1780,14 @@
     "name": "Globe Life (Globe Life Inc.)",
     "ownerId": "globe-life-globe-life-inc-owner",
     "ownership": "owned",
-    "tier": "none",
+    "tier": "concern",
     "status": "rated",
-    "verdict": "Owned by Globe Life (Globe Life Inc.) Corporation. Nothing found.",
+    "verdict": "Globe Life (Globe Life Inc.) is the ultimate owner of Globe Life (Globe Life Inc.).",
     "claimIds": [
       "globe-life-globe-life-inc-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Listed Company company with no significant conduct issues found"
+    "note": "Rating note: Documented conduct record: total fines $457 million; February 07, 2024 | Globe Life Inc. Reports Fourth Quarter 2023 Results | Globe Life News Release: $77 million; February 07, 2024 | Globe Life Inc. Reports Fourth Quarter 2023 Results | Globe Life News Release: $380 million"
   },
   {
     "id": "golden-1-credit-union",
@@ -1945,14 +1945,14 @@
     "name": "Hard Rock International",
     "ownerId": "hard-rock-international-owner",
     "ownership": "owned",
-    "tier": "none",
+    "tier": "concern",
     "status": "rated",
-    "verdict": "Owned by Unknown. Nothing found.",
+    "verdict": "Hard Rock International LLC is the ultimate owner of Hard Rock International.",
     "claimIds": [
       "hard-rock-international-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Unknown company with no significant conduct issues found"
+    "note": "Rating note: Documented conduct record: total fines $130 million; Ontario Regulator Fines Ottawa Casino Owned By Hard Rock Over $200K For 36 Violations: money laundering; Hard Rock Exec Alex Pariente Let Markers Go Unpaid, Took Bookies’ Action, Say Sources - TornadoSpins: $130.13 million"
   },
   {
     "id": "healthequity",
@@ -2112,12 +2112,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Unknown. Nothing found.",
+    "verdict": "Owned by Ibotta LLC. Nothing found.",
     "claimIds": [
       "ibotta-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Unknown company with no significant conduct issues found"
+    "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
     "id": "ic-markets",
@@ -2278,12 +2278,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Unknown. Nothing found.",
+    "verdict": "Owned by JPMorgan Chase (Chase) LLC. Nothing found.",
     "claimIds": [
       "jpmorgan-chase-chase-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Unknown company with no significant conduct issues found"
+    "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
     "id": "jpmorganchase",
@@ -2320,7 +2320,7 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Kaleida Health Parent Company. Nothing found.",
+    "verdict": "Owned by Kaleida Health. Nothing found.",
     "claimIds": [
       "kaleida-health-owner-record"
     ],
@@ -2360,14 +2360,14 @@
     "name": "Kia America",
     "ownerId": "kia-america-owner",
     "ownership": "owned",
-    "tier": "none",
+    "tier": "concern",
     "status": "rated",
-    "verdict": "Owned by Kia America. Nothing found.",
+    "verdict": "Kia Corporation is a KRX-listed automaker with Hyundai Motor Company as largest shareholder (~35.17%) and no state ownership; Hyundai Motor Company is a privately….",
     "claimIds": [
       "kia-america-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Kia's largest shareholder is Hyundai Motor Company (~35.17%), a private conglomerate; no state ownership in Kia or its parent. No documented human-rights concerns in ownership chain identified."
+    "note": "Rating note: Kia's largest shareholder is Hyundai Motor Company (~35.17%), a private conglomerate; no state ownership in Kia or its parent. No documented human-rights concerns in ownership chain identified. ADJUSTED: same chain as hyundai - Hyundai Motor Company holds 35.17% of Kia and the NPS 7.76% stake sits behind it"
   },
   {
     "id": "knox-hydration",
@@ -2488,12 +2488,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Unknown. Nothing found.",
+    "verdict": "Owned by Ledger LLC. Nothing found.",
     "claimIds": [
       "ledger-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Unknown company with no significant conduct issues found"
+    "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
     "id": "lenovo",
@@ -2753,7 +2753,7 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by MassMutual Parent Company. Nothing found.",
+    "verdict": "Owned by MassMutual. Nothing found.",
     "claimIds": [
       "massmutual-owner-record"
     ],
@@ -2889,12 +2889,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Unknown. Nothing found.",
+    "verdict": "Owned by MetLife LLC. Nothing found.",
     "claimIds": [
       "metlife-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Unknown company with no significant conduct issues found"
+    "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
     "id": "mgm-rewards",
@@ -3000,12 +3000,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Unknown. Nothing found.",
+    "verdict": "Owned by Motorola LLC. Nothing found.",
     "claimIds": [
       "motorola-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Unknown company with no significant conduct issues found"
+    "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
     "id": "motorola-mobility",
@@ -3111,12 +3111,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Unknown. Nothing found.",
+    "verdict": "Owned by Nintendo (Nintendo of America) LLC. Nothing found.",
     "claimIds": [
       "nintendo-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Unknown company with no significant conduct issues found"
+    "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
     "id": "nissan",
@@ -3196,12 +3196,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Unknown. Nothing found.",
+    "verdict": "Owned by NRG Energy (Reliant brand) LLC. Nothing found.",
     "claimIds": [
       "nrg-energy-reliant-brand-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Unknown company with no significant conduct issues found"
+    "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
     "id": "occidental-petroleum",
@@ -3308,12 +3308,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Unknown. Nothing found.",
+    "verdict": "Owned by PayPal LLC. Nothing found.",
     "claimIds": [
       "paypal-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Unknown company with no significant conduct issues found"
+    "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
     "id": "paze",
@@ -3630,12 +3630,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Unknown. Nothing found.",
+    "verdict": "Owned by QuikTrip LLC. Nothing found.",
     "claimIds": [
       "quiktrip-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Unknown company with no significant conduct issues found"
+    "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
     "id": "raisin",
@@ -3801,12 +3801,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Unknown. Nothing found.",
+    "verdict": "Owned by Rocket (Rocket Companies) LLC. Nothing found.",
     "claimIds": [
       "rocket-rocket-companies-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Unknown company with no significant conduct issues found"
+    "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
     "id": "rogers-communications",
@@ -4124,12 +4124,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Unknown. Nothing found.",
+    "verdict": "Owned by SoFi LLC. Nothing found.",
     "claimIds": [
       "sofi-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Unknown company with no significant conduct issues found"
+    "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
     "id": "spectrum",
@@ -4306,12 +4306,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Unknown. Nothing found.",
+    "verdict": "Owned by T-Mobile LLC. Nothing found.",
     "claimIds": [
       "t-mobile-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Unknown company with no significant conduct issues found"
+    "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
     "id": "t-rowe-price",
@@ -4488,12 +4488,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Unknown. Nothing found.",
+    "verdict": "Owned by Toyota LLC. Nothing found.",
     "claimIds": [
       "toyota-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Unknown company with no significant conduct issues found"
+    "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
     "id": "trade-nation",
@@ -4885,12 +4885,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Unknown. Nothing found.",
+    "verdict": "Owned by Webull LLC. Nothing found.",
     "claimIds": [
       "webull-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Unknown company with no significant conduct issues found"
+    "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
     "id": "wwk",

@@ -16,10 +16,10 @@
       "name": "Cleveland-Cliffs",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "none",
+      "tier": "concern",
       "ownerId": "cleveland-cliffs-owner",
-      "owner": "Cleveland-Cliffs",
-      "verdict": "Owned by Unknown. Nothing found.",
+      "owner": "Cleveland-Cliffs LLC",
+      "verdict": "Cleveland-Cliffs LLC is the ultimate owner of Cleveland-Cliffs.",
       "source": {
         "name": "Cleveland Cavaliers (NBA.com)",
         "date": "2022-03-29",
@@ -33,8 +33,8 @@
       "season": null,
       "tier": "none",
       "ownerId": "rocket-rocket-companies-owner",
-      "owner": "Rocket (Rocket Companies)",
-      "verdict": "Owned by Unknown. Nothing found.",
+      "owner": "Rocket (Rocket Companies) LLC",
+      "verdict": "Owned by Rocket (Rocket Companies) LLC. Nothing found.",
       "source": {
         "name": "Rocket Arena (venue press release)",
         "date": "2025-02-18",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "none",
+  "worstTier": "concern",
   "owners": [
     "cleveland-cliffs-owner",
     "rocket-rocket-companies-owner"

@@ -19,7 +19,7 @@
       "tier": "concern",
       "ownerId": "ball-corporation-owner",
       "owner": "Ball Corporation",
-      "verdict": "Ownership of Ball Corporation involves entities with documented conduct issues.",
+      "verdict": "Ball Corporation is the ultimate owner of Ball Corporation.",
       "source": {
         "name": "Denver Nuggets (nba.com, KSE/Ball release)",
         "date": "2020-10-22",
@@ -33,8 +33,8 @@
       "season": "2026-27",
       "tier": "none",
       "ownerId": "ibotta-owner",
-      "owner": "Ibotta",
-      "verdict": "Owned by Unknown. Nothing found.",
+      "owner": "Ibotta LLC",
+      "verdict": "Owned by Ibotta LLC. Nothing found.",
       "source": {
         "name": "Sportcal",
         "date": "2026-04-17",
