@@ -1,0 +1,28 @@
+{
+  "id": "superfile-trackhouse-motogp-team",
+  "team": "SuperFile Trackhouse MotoGP Team",
+  "sport": "motorsport",
+  "league": "motogp",
+  "country": "United States",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "superfile",
+      "name": "SuperFile",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "MotoGP.com - Trackhouse pulls the covers off 2026 with two stunning liveries",
+        "date": "2026-01-21",
+        "url": "https://www.motogp.com/en/news/2026/01/21/trackhouse-pulls-the-covers-off-2026-with-two-stunning-liveries/825875"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

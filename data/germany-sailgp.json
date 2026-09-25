@@ -1,0 +1,58 @@
+{
+  "id": "germany-sailgp",
+  "team": "Germany SailGP Team presented by Deutsche Bank",
+  "sport": "sailing",
+  "league": "sailgp",
+  "country": "Germany",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "deutsche-bank",
+      "name": "Deutsche Bank",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "SailGP team page - Germany presented by Deutsche Bank (Title Partner)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/teams/germany/"
+      }
+    },
+    {
+      "id": "riedel",
+      "name": "Riedel",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "SailGP team page - Germany (Official Partner)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/teams/germany/"
+      }
+    },
+    {
+      "id": "viessmann",
+      "name": "Viessmann",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "SailGP team page - Germany (Official Partner)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/teams/germany/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

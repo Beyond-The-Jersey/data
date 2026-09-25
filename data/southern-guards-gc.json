@@ -1,0 +1,105 @@
+{
+  "id": "southern-guards-gc",
+  "team": "Southern Guards GC",
+  "sport": "golf",
+  "league": "liv-golf",
+  "country": "South Africa",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "kwv",
+      "name": "KWV",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Southern Guards GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/southern-guards-gc"
+      }
+    },
+    {
+      "id": "new-era",
+      "name": "New Era",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Southern Guards GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/southern-guards-gc"
+      }
+    },
+    {
+      "id": "oscar-jacobson",
+      "name": "Oscar Jacobson",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Southern Guards GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/southern-guards-gc"
+      }
+    },
+    {
+      "id": "rhino-whiskey",
+      "name": "Rhino Whiskey",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Southern Guards GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/southern-guards-gc"
+      }
+    },
+    {
+      "id": "standard-bank",
+      "name": "Standard Bank",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": "standard-bank-group",
+      "owner": "Standard Bank Group",
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Southern Guards GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/southern-guards-gc"
+      }
+    },
+    {
+      "id": "we-buy-cars",
+      "name": "WeBuyCars",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Southern Guards GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/southern-guards-gc"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "standard-bank-group"
+  ],
+  "lastUpdated": "2026-09-24"
+}

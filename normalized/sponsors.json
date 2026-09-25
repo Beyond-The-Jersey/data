@@ -1,5 +1,17 @@
 [
   {
+    "id": "1xbet",
+    "name": "1xBet",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "FIBA Partner (about.fiba.basketball/en/partners, fetched 25 Sep 2026). Offshore betting operator; ownership structure not checked in this pass. FIBA's own site geo-restricts the 1xBet logo for some countries."
+  },
+  {
     "id": "3m",
     "name": "3M",
     "ownerId": "3m-company",
@@ -12,6 +24,20 @@
     ],
     "aliases": [],
     "note": "Rating note: PFAS/forever-chemicals liability is lasting; a plain 'listed, no state' record would read as none, so flagged as concern for the reviewer to overturn if the net is drawn tighter."
+  },
+  {
+    "id": "54",
+    "name": "54 (sport and entertainment agency)",
+    "ownerId": "saudi-pif",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "hexagon-54-lead-investor"
+    ],
+    "aliases": [],
+    "note": "The sport and entertainment agency owned by Saudi Arabia's Public Investment Fund (SportBusiness, 17 Dec 2025); named lead investor in the Hexagon World Series, a separate FIP-governed team circuit - not a sponsor of the Premier Padel tour itself. Also credited as the agency behind the creation of LIV Golf."
   },
   {
     "id": "aarp",
@@ -51,8 +77,83 @@
     "aliases": []
   },
   {
+    "id": "abbvie",
+    "name": "AbbVie",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
+  },
+  {
+    "id": "absa-group",
+    "name": "Absa",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "absa"
+    ],
+    "note": "Presenting sponsor of the Magical Kenya Open presented by absa (event name, 2026 Race to Dubai schedule). Ownership not traced here."
+  },
+  {
+    "id": "abu-dhabi-sports-council",
+    "name": "Abu Dhabi Sports Council",
+    "ownerId": "government-of-abu-dhabi",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Existing entry. This target adds: naming sponsor of the Emirates Poules d'Essai (French Guineas day, 10 May 2026) via the UAE President Cup series, per France Galop's partners page and the France Galop ticketing page."
+  },
+  {
     "id": "acadomia",
     "name": "Acadomia",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
+  },
+  {
+    "id": "accenture",
+    "name": "Accenture",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "WTA Tour Global Partner (wtatennis.com footer)."
+  },
+  {
+    "id": "accor",
+    "name": "Accor (ALL - Accor Live Limitless)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "ALL - Accor Live Limitless",
+      "Accor Live Limitless"
+    ],
+    "note": "Official Partner of the SailGP league; France team Global Partner as ALL - Accor Live Limitless (sailgp.com partners overview and France team page, fetched 2026-09-25)."
+  },
+  {
+    "id": "ace-hardware",
+    "name": "Ace Hardware",
     "ownerId": null,
     "ownership": null,
     "tier": "unrated",
@@ -211,6 +312,32 @@
     }
   },
   {
+    "id": "afrasia-bank",
+    "name": "AfrAsia Bank",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Title sponsor of the AfrAsia Bank Mauritius Open (event name, 2026 Race to Dubai schedule). Ownership not traced here."
+  },
+  {
+    "id": "afreximbank",
+    "name": "Afreximbank (African Export-Import Bank)",
+    "ownerId": "afreximbank",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "african export-import bank"
+    ],
+    "note": "BAL partner (bal.nba.com/partners; pr.nba.com 30 Jan 2026)."
+  },
+  {
     "id": "aia",
     "name": "AIA",
     "ownerId": "aia-group",
@@ -223,6 +350,34 @@
     ],
     "aliases": [],
     "note": "Rating note: Listed Hong Kong company → none. Historical note: AIA was spun out of AIG; the US government's AIG bailout stake was long ago exited."
+  },
+  {
+    "id": "air-senegal",
+    "name": "Air Senegal",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "air senegal sa"
+    ],
+    "note": "BAL partner (bal.nba.com/partners). Ownership (State of Senegal via CDC Seneegal) not verified against a primary source."
+  },
+  {
+    "id": "airasia",
+    "name": "AirAsia",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Air Asia"
+    ],
+    "note": "Ripper GC partner (livgolf.com/ripper-gc, fetched 2026-09-25)."
   },
   {
     "id": "airbnb",
@@ -249,6 +404,20 @@
     ],
     "aliases": [],
     "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
+  },
+  {
+    "id": "akron",
+    "name": "Akron",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "akron.com.mx"
+    ],
+    "note": "Torque GC partner; logo links to akron.com.mx (fetched 2026-09-25)."
   },
   {
     "id": "al-dahayan",
@@ -296,6 +465,18 @@
     "note": "Bahraini bank."
   },
   {
+    "id": "al-shaqab",
+    "name": "Al Shaqab (Qatar Foundation)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "The Al Shaqab Goodwood Cup (Group 1) opens the Qatar Goodwood Festival (goodwood.com day-by-day guide); Al Shaqab is Qatar Foundation's equestrian arm - ownership chain to Qatar Foundation not verified to a primary document this pass."
+  },
+  {
     "id": "alba",
     "name": "Alba (Aluminium Bahrain)",
     "ownerId": "mumtalakat",
@@ -310,6 +491,18 @@
     "note": "Aluminium producer; Bahraini state funds hold a stake."
   },
   {
+    "id": "albaik",
+    "name": "ALBAIK",
+    "ownerId": "albaik-food-systems",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Saudi fast-food chain; Official Global Supporter of the AFC Asian Cup Saudi Arabia 2027 (AFC, 2026-06-25)."
+  },
+  {
     "id": "albert",
     "name": "Albert",
     "ownerId": "albert-owner",
@@ -322,6 +515,20 @@
     ],
     "aliases": [],
     "note": "Rating note: Private Company company with no significant conduct issues found"
+  },
+  {
+    "id": "aldar-properties",
+    "name": "Aldar Properties",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "aldar"
+    ],
+    "note": "DP World Tour partner (tour partner bar, fetched 25 Sep 2026). Abu Dhabi-listed developer; aldar.com is JS-gated and no primary ownership statement was retrieved, so no owner linked."
   },
   {
     "id": "aldrees",
@@ -345,6 +552,20 @@
     "claimIds": [],
     "aliases": [],
     "note": "Al-Ettifaq / Al-Taawoun front sponsor."
+  },
+  {
+    "id": "alfred-dunhill",
+    "name": "Alfred Dunhill",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "dunhill"
+    ],
+    "note": "Title sponsor of the Alfred Dunhill Championship and Alfred Dunhill Links Championship (event names, 2026 Race to Dubai schedule). Richemont-owned brand; not traced to a primary document here."
   },
   {
     "id": "alinma-bank",
@@ -473,6 +694,32 @@
     "aliases": []
   },
   {
+    "id": "alrajhi-bank",
+    "name": "Alrajhi Bank",
+    "ownerId": "alrajhi-bank-owner",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "al rajhi bank"
+    ],
+    "note": "Official Regional Partner (Saudi Arabia) of the AFC Asian Cup Saudi Arabia 2027 (AFC, 2026-06-15)."
+  },
+  {
+    "id": "altrad",
+    "name": "Altrad",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Major Global Partner of New Zealand Rugby (allblacks.com/partners)."
+  },
+  {
     "id": "alula",
     "name": "AlUla",
     "ownerId": "royal-commission-for-alula",
@@ -485,6 +732,18 @@
       "experience alula"
     ],
     "note": "Saudi destination brand run by the Royal Commission for AlUla; co-title sponsor of Team Jayco AlUla."
+  },
+  {
+    "id": "amazing-cre",
+    "name": "Amazing CRE",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Korean Golf Club partner; logo links to a collection on sokimnewyork.com (livgolf.com/korean-golf-club, fetched 2026-09-25)."
   },
   {
     "id": "amazon",
@@ -541,6 +800,18 @@
     "note": "Rating note: Type recorded as private-company because policyholder-owned mutuals are not listed; effectively member-owned."
   },
   {
+    "id": "amgen",
+    "name": "Amgen",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Title sponsor of the Amgen Irish Open (event name, 2026 Race to Dubai schedule). US biotech; ownership not traced here."
+  },
+  {
     "id": "amica-mutual-insurance",
     "name": "Amica Mutual Insurance",
     "ownerId": "amica-mutual-insurance-owner",
@@ -589,6 +860,20 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "apex-group",
+    "name": "Apex Group",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Apex"
+    ],
+    "note": "Official Partner of SailGP; also title partner of the Apex Group Bermuda Sail Grand Prix and an official partner of the United States team (sailgp.com partners overview, US team page and 2026 calendar, fetched 2026-09-25)."
   },
   {
     "id": "apm-monaco",
@@ -640,6 +925,32 @@
     "note": "Rating note: RCD Espanyol's 20 Aug 2026 confirmation names ARCTEMPUS as main sponsor. Private, IESE-linked business network; the Espanyol owner Alan Pace is a counterparty, not an owner."
   },
   {
+    "id": "arena",
+    "name": "Arena",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "LIV Golf Official Supplier - temporary infrastructure and event solutions (livgolf.com/partners, fetched 2026-09-25)."
+  },
+  {
+    "id": "armani-exchange",
+    "name": "Armani Exchange (EA7)",
+    "ownerId": "armani",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "a|x armani exchange",
+      "ea7"
+    ]
+  },
+  {
     "id": "aroya-cruises",
     "name": "AROYA Cruises",
     "ownerId": "cruise-saudi",
@@ -650,6 +961,20 @@
     "claimIds": [],
     "aliases": [],
     "note": "Al-Nassr sleeve sponsor (a Cruise Saudi brand)."
+  },
+  {
+    "id": "asahi-super-dry",
+    "name": "Asahi Super Dry",
+    "ownerId": "asahi-group-holdings",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "asahi"
+    ],
+    "note": "RWC Principal Partner and Official Beer of all Rugby World Cup tournaments until 2029 (rugbyworldcup.com/2027/en/partners); Asahi Super Dry appears in the Europe/Asia Pacific brand lists of Asahi Group Holdings' business page."
   },
   {
     "id": "ascale",
@@ -677,8 +1002,31 @@
     "note": "Rating note: Ascension is a private, faith-based nonprofit healthcare system; sponsored by Catholic ministries but not state-owned or state-controlled. No evidence of state stake."
   },
   {
+    "id": "aspetar",
+    "name": "Aspetar",
+    "ownerId": "aspetar",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Doha sports-medicine hospital; the AFC's Official Medical Partner through June 2029 (AFC, 2026-04-17)."
+  },
+  {
     "id": "association-ela",
     "name": "Association ELA",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
+  },
+  {
+    "id": "astroturf",
+    "name": "ASTRO Turf",
     "ownerId": null,
     "ownership": null,
     "tier": "unrated",
@@ -841,6 +1189,20 @@
     "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
   },
   {
+    "id": "axi",
+    "name": "AXI",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "axi.com"
+    ],
+    "note": "DP World Tour partner (tour partner bar, fetched 25 Sep 2026). Online trading brand; ownership not traced here."
+  },
+  {
     "id": "ayuntamiento-de-benahavis",
     "name": "Ayuntamiento de Benahavis",
     "ownerId": "ayuntamiento-de-benahavis",
@@ -850,6 +1212,20 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "azimut",
+    "name": "Azimut",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Azimut Yachts"
+    ],
+    "note": "Italian luxury yacht builder; Global Partner of Red Bull Italy (sailgp.com team page, fetched 2026-09-25)."
   },
   {
     "id": "b-and-b-hotels",
@@ -902,6 +1278,20 @@
     "note": "Bahraini state investment promotion agency; long-running backer of the team."
   },
   {
+    "id": "bahrain-gsa",
+    "name": "General Sports Authority (Bahrain)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "gsa bahrain"
+    ],
+    "note": "Official Supporter of the Bapco Energies Bahrain Championship (event sponsors page, fetched 25 Sep 2026). Bahrain state sports authority; not traced to a primary document here."
+  },
+  {
     "id": "bahrain-victorious",
     "name": "Bahrain Victorious",
     "ownerId": "government-of-bahrain",
@@ -913,6 +1303,18 @@
     "aliases": [
       "victorious bahrain"
     ]
+  },
+  {
+    "id": "bahri",
+    "name": "Bahri (National Shipping Company of Saudi Arabia)",
+    "ownerId": "saudi-pif",
+    "ownership": "part-owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "LIV Golf Premium Partner (livgolf.com/partners). AGBI company profile: PIF holds 22.55%, Saudi Aramco Development Company 20%, remainder public (https://www.agbi.com/companies/bahri-company/, fetched 2026-09-25)."
   },
   {
     "id": "baja",
@@ -955,6 +1357,17 @@
     "note": "Rating note: Ultimate owner traced to Standard General (Soo Kim) on both sides of the merger. Intralot's own IR page (intralot.com/gr/investor-relations/stock) lays out the Standard General control chain and CQ Lottery's 26.86% / PE Sub Holdings' 6.48% stakes. Sponsor name 'Bally's Intralot' refers to the merged entity, not to a brand."
   },
   {
+    "id": "banana-boat",
+    "name": "Banana Boat",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
+  },
+  {
     "id": "banca-popolare-del-frusinate",
     "name": "Banca Popolare del Frusinate",
     "ownerId": "banca-popolare-del-frusinate",
@@ -991,6 +1404,18 @@
     ],
     "aliases": [],
     "note": "Rating note: Fossil-fuel and settlement record is well documented but not 'sustained abuse', so concern not serious."
+  },
+  {
+    "id": "bank-of-kigali",
+    "name": "Bank of Kigali",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "BAL partner; 'Rwanda's largest commercial bank' (bal.nba.com/partners). Owner left null pending a primary source on its shareholder register."
   },
   {
     "id": "banque-saudi-fransi",
@@ -1031,6 +1456,20 @@
     ],
     "aliases": [],
     "note": "Rating note: Explicitly states not-for-profit mission; no state stake or serious conduct record identified."
+  },
+  {
+    "id": "barbican",
+    "name": "Barbican",
+    "ownerId": "rani-refreshments",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "barbican malt"
+    ],
+    "note": "Non-alcoholic malt brand. Official Global Supporter of AFC club competitions (ACL Elite, ACL Two, Women's Champions League), renewed 2025-11-21 for the 2025/26 season."
   },
   {
     "id": "barclays",
@@ -1082,6 +1521,20 @@
     "aliases": []
   },
   {
+    "id": "bbc",
+    "name": "BBC",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "british broadcasting corporation"
+    ],
+    "note": "UK public broadcaster; WSL minor partner and co-broadcaster per wslfootball.com."
+  },
+  {
     "id": "bcare",
     "name": "BCare",
     "ownerId": null,
@@ -1128,6 +1581,17 @@
     ],
     "aliases": [],
     "note": "Rating note: Private Greek/Czech owners, no state link → none. Kaizen is registered/parented in Malta while Greek-founded; country shown as GR as the operating origin. Ownership percentage sourced from trade press, hence medium confidence."
+  },
+  {
+    "id": "betmgm",
+    "name": "BetMGM",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
   },
   {
     "id": "betsson-sport",
@@ -1222,6 +1686,32 @@
     "note": "Rating note: The site publishes shareholder structure as a downloadable table rather than inline, so the exact family percentage is not stated on the page itself."
   },
   {
+    "id": "bishop",
+    "name": "Bishop Retail Co.",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Kit sponsor of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/"
+  },
+  {
+    "id": "bk8",
+    "name": "BK8",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "bk8 news"
+    ],
+    "note": "Title sponsor of Gresini Racing MotoGP for the 2025 and 2026 seasons (Gresini Racing announcement, 2025-02-24). Ownership not found on BK8's own site; not yet researched."
+  },
+  {
     "id": "bkt",
     "name": "BKT",
     "ownerId": "balkrishna-industries",
@@ -1230,7 +1720,9 @@
     "status": "unrated",
     "verdict": null,
     "claimIds": [],
-    "aliases": []
+    "aliases": [
+      "bkt tires"
+    ]
   },
   {
     "id": "black-panther",
@@ -1256,6 +1748,18 @@
     "aliases": []
   },
   {
+    "id": "blueberry",
+    "name": "Blueberry",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Team Partner of the BONDS Flying Roos (sailgp.com team page, fetched 2026-09-25)."
+  },
+  {
     "id": "bmo-bank",
     "name": "BMO Bank",
     "ownerId": "bank-of-montreal",
@@ -1270,6 +1774,48 @@
     "note": "Rating note: BMO's 40-F primary document is largely XBRL; the ownership evidence used is the AIF exhibit."
   },
   {
+    "id": "bmw",
+    "name": "BMW",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "bmw group"
+    ],
+    "note": "DP World Tour partner (tour partner bar, fetched 25 Sep 2026); title sponsor of the BMW Australian PGA Championship, BMW International Open and BMW PGA Championship. BMW AG is a Frankfurt-listed manufacturer (existing owner entry bmw-ag); not linked here because the tour page does not say which BMW entity is the partner."
+  },
+  {
+    "id": "bmw-m",
+    "name": "BMW M",
+    "ownerId": "bmw-ag",
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "bmw m gmbh"
+    ],
+    "note": "Official Car of MotoGP (motogp.com/en/sponsors). BMW M is BMW AG's high-performance/motorsport division; BMW AG is a Frankfurt-listed manufacturer with no state shareholder."
+  },
+  {
+    "id": "boc",
+    "name": "Bank of Bahrain and Kuwait (BOK/B.O.C)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "boc bahrain"
+    ],
+    "note": "Official Supporter of the Bapco Energies Bahrain Championship (event sponsors page, fetched 25 Sep 2026). Ownership not traced here."
+  },
+  {
     "id": "boeing",
     "name": "Boeing",
     "ownerId": "boeing",
@@ -1282,6 +1828,31 @@
     ],
     "aliases": [],
     "note": "Rating note: Read literally, Boeing's weapons sales to conflict parties could argue for severe; kept at concern because the company itself is not a belligerent state entity."
+  },
+  {
+    "id": "bonds",
+    "name": "Bonds",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "BONDS"
+    ],
+    "note": "Australian clothing brand; title sponsor of the rebranded BONDS Flying Roos since June 2025 (SailGP press release, 5 Jun 2025). Ownership chain (Hanesbrands, then Gildan, per Wikipedia lead) not verified to a primary source; ownerId left null."
+  },
+  {
+    "id": "booking-com",
+    "name": "Booking.com",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
   },
   {
     "id": "bora",
@@ -1360,6 +1931,58 @@
     "aliases": []
   },
   {
+    "id": "british-gas",
+    "name": "British Gas",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "centrica"
+    ],
+    "note": "Energy supplier owned by Centrica; official energy partner of the WSL and WSL2 from 2025/26."
+  },
+  {
+    "id": "budweiser",
+    "name": "Budweiser",
+    "ownerId": "anheuser-busch-owner",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "BAL partner (bal.nba.com/partners); AB InBev brand."
+  },
+  {
+    "id": "buffalo-trace-distillery",
+    "name": "Buffalo Trace Distillery",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "buffalo trace"
+    ],
+    "note": "DP World Tour partner (tour partner bar, fetched 25 Sep 2026). Sazerac-owned distillery per general knowledge; not traced to a primary document here, so no owner linked."
+  },
+  {
+    "id": "bupa",
+    "name": "Bupa",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Global Partner of New Zealand Rugby (allblacks.com/partners)."
+  },
+  {
     "id": "burns-and-mcdonnell",
     "name": "Burns & McDonnell",
     "ownerId": "burns-and-mcdonnell-owner",
@@ -1372,6 +1995,20 @@
     ],
     "aliases": [],
     "note": "Rating note: Burns & McDonnell is 100% employee-owned through ESOP; no state stake or government control. No documented human-rights concerns in ownership chain."
+  },
+  {
+    "id": "butterfield",
+    "name": "Butterfield",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Butterfield Bank"
+    ],
+    "note": "Official financial services partner of NorthStar Canada (SailGP press release, 18 Jul 2025)."
   },
   {
     "id": "bwin",
@@ -1427,6 +2064,18 @@
     "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
   },
   {
+    "id": "callaway",
+    "name": "Callaway",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Legion XIII partner (livgolf.com/legion-xiii, fetched 2026-09-25)."
+  },
+  {
     "id": "candy",
     "name": "Candy",
     "ownerId": null,
@@ -1450,6 +2099,20 @@
     ],
     "aliases": [],
     "note": "Rating note: Capital One has paid significant regulatory settlements including $425 million in 2023 for 360 Savings interest-rate practices and $140 million in 2020 for CFPB credit card marketing practices."
+  },
+  {
+    "id": "carling",
+    "name": "Carling",
+    "ownerId": "molson-coors",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "carling lager"
+    ],
+    "note": "Official beer partner of the Emirates FA Cup and Adobe Women's FA Cup until 2027 (FA Cup page footer and Sportcal). Carling is a Molson Coors core power brand per molsoncoors.com/about."
   },
   {
     "id": "carlsberg",
@@ -1499,6 +2162,32 @@
     ],
     "aliases": [],
     "note": "Rating note: Block was Square, Inc.; founder Jack Dorsey holds a minority. No sovereign wealth stake."
+  },
+  {
+    "id": "castle-lager",
+    "name": "Castle",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "castle lager"
+    ],
+    "note": "Principal Partner of the Springboks (springboks.rugby/partners)."
+  },
+  {
+    "id": "castle-lite",
+    "name": "Castle Lite",
+    "ownerId": "anheuser-busch-owner",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "BAL partner (bal.nba.com/partners); AB InBev brand brewed under South African Breweries."
   },
   {
     "id": "castore",
@@ -1552,6 +2241,18 @@
     "aliases": []
   },
   {
+    "id": "celsius",
+    "name": "CELSIUS",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "4Aces GC partner (livgolf.com/4aces-gc, fetched 2026-09-25)."
+  },
+  {
     "id": "cenomi",
     "name": "Cenomi",
     "ownerId": null,
@@ -1589,6 +2290,20 @@
     "note": "Rating note: Kept at 'none' rather than 'unrated' because the operating entity is clearly established; the opacity is about the group's ultimate beneficial owners, which Curaçao does not publish."
   },
   {
+    "id": "childfund-rugby",
+    "name": "ChildFund Rugby",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "childfund"
+    ],
+    "note": "Social Impact Supporter of Men's Rugby World Cup 2027 (rugbyworldcup.com/2027/en/partners); also appears in World Rugby's Impact Beyond footer."
+  },
+  {
     "id": "childrens-health",
     "name": "Children's Health (home) / UT Southwestern Medical Center (away)",
     "ownerId": "ut-southwestern-medical-center",
@@ -1615,6 +2330,17 @@
     ],
     "aliases": [],
     "note": "Rating note: Explicitly states private, non-profit status; no state stake or serious conduct record identified."
+  },
+  {
+    "id": "church-and-dwight",
+    "name": "Church & Dwight",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
   },
   {
     "id": "cichy-manutention",
@@ -1724,6 +2450,18 @@
     ],
     "aliases": [],
     "note": "Rating note: Stake figures come from court filings reported by NYT (Google ~14%) and from Amazon/Google quarterly disclosures for the Amazon figure; both are minority and none is controlling."
+  },
+  {
+    "id": "clearscore",
+    "name": "ClearScore",
+    "ownerId": "clearscore-group",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official partner of the Emirates FA Cup and Adobe Women's FA Cup on a multi-year deal announced 22 Oct 2025 (thefa.com)."
   },
   {
     "id": "cleveland-cliffs",
@@ -1873,6 +2611,18 @@
     "note": "Rating note: Koch's 16.81% is the notable structural fact; it is private capital, so no tier change. Koch does, however, have its own well-documented political and environmental record that may matter downstream in this dataset."
   },
   {
+    "id": "convoy-of-hope",
+    "name": "Convoy of Hope",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "RangeGoats GC partner (livgolf.com/rangegoats-gc, fetched 2026-09-25)."
+  },
+  {
     "id": "coors-brewing-co",
     "name": "Coors Brewing Co. (Molson Coors)",
     "ownerId": "coors-brewing-co-molson-coors-owner",
@@ -1885,6 +2635,32 @@
     ],
     "aliases": [],
     "note": "Rating note: Molson Coors is publicly traded with no state ownership; largest holders are Vanguard (~12%) and BlackRock (~7.5%). No documented human-rights concerns in ownership chain."
+  },
+  {
+    "id": "coral",
+    "name": "Coral",
+    "ownerId": "entain-plc",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Entain plc's UK betting brand; first front-of-shirt deal in its history, on Birmingham City men's and women's shirts from 2026/27."
+  },
+  {
+    "id": "corales-puntacana",
+    "name": "Corales Puntacana",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "puntacana resort and club"
+    ],
+    "note": "Title sponsor of the Corales Puntacana Championship (event name, 2026 Race to Dubai schedule). Puntacana Resort & Club; ownership not traced here."
   },
   {
     "id": "core-scientific",
@@ -1915,6 +2691,58 @@
     "note": "Rating note: Dutch/Turkish dual footprint, so some sources treat it as Turkish; ownership is private founder/family either way. CEO Gunay Uslu (Atilay's relative) is a former Dutch state secretary, which is a personnel not ownership link."
   },
   {
+    "id": "corona",
+    "name": "Corona",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
+  },
+  {
+    "id": "corpay",
+    "name": "Corpay",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "WTA Tour Global Partner (wtatennis.com footer)."
+  },
+  {
+    "id": "costa-cruises",
+    "name": "Costa (Costa Crociere)",
+    "ownerId": "costa-group",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "costa crociere",
+      "costa"
+    ]
+  },
+  {
+    "id": "credit-saison",
+    "name": "Credit Saison",
+    "ownerId": "credit-saison",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "cressent",
+      "crescent"
+    ],
+    "note": "Japanese card issuer; a top-tier Official Global Partner of the AFC (per Sportcal, 2026-05-06). The AFC-Credit Saison renewal announcement was not opened this run - the relationship is sourced only via the Sportcal tier listing."
+  },
+  {
     "id": "crowdstrike",
     "name": "CrowdStrike",
     "ownerId": "crowdstrike",
@@ -1926,6 +2754,20 @@
       "crowdstrike-record"
     ],
     "aliases": []
+  },
+  {
+    "id": "crown-resorts",
+    "name": "Crown",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "crown"
+    ],
+    "note": "Title sponsor of the Crown Australian Open (event name, 2026 Race to Dubai schedule). Ownership not traced here."
   },
   {
     "id": "crypto-com",
@@ -1940,6 +2782,30 @@
     ],
     "aliases": [],
     "note": "Rating note: Used a US regulator document rather than a company page because it names the top-tier holding company, which the Crypto.com site does not."
+  },
+  {
+    "id": "cupra",
+    "name": "CUPRA",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Title sponsor of the CUPRA Rotterdam Premier Padel P2 (FIP 2026 calendar) and of the Cupra FIP Tour; Official Automotive Partner of FIP (padelfip.com sponsor page, dated 23 Aug 2024). Ownership not yet researched."
+  },
+  {
+    "id": "cygames",
+    "name": "Cygames",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Japanese games company (founded May 2011); Premium Partner of the Qatar Prix de l'Arc de Triomphe and title sponsor of the Grand Prix de Paris since 2025 (France Galop partners page and France Galop ticketing page). Non-state; not prioritised for rating."
   },
   {
     "id": "cynar-spritz",
@@ -1993,6 +2859,20 @@
     ],
     "aliases": [],
     "note": "Rating note: Dubai-based but privately owned, not state-owned - so none. If the dataset later treats all Dubai-domiciled firms as state-linked this becomes the first to revisit."
+  },
+  {
+    "id": "daou",
+    "name": "DAOU Vineyards",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "DAOU"
+    ],
+    "note": "4Aces GC partner and LIV Golf Official Supplier (livgolf.com/partners, fetched 2026-09-25)."
   },
   {
     "id": "dar-wa-emaar",
@@ -2101,6 +2981,20 @@
     "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
+    "id": "denza",
+    "name": "DENZA",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Denza"
+    ],
+    "note": "Premium electric vehicle brand, official sponsor and electrified mobility partner of Los Gallos for the 2026 and 2027 seasons; originally formed 2010 as a joint venture with Mercedes-Benz (SailGP press release, 9 Feb 2026). BYD ownership chain not verified."
+  },
+  {
     "id": "desert-financial-credit-union",
     "name": "Desert Financial Credit Union",
     "ownerId": "desert-financial-credit-union-owner",
@@ -2113,6 +3007,49 @@
     ],
     "aliases": [],
     "note": "Rating note: Explicitly states not-for-profit, member-owned credit union; no state stake or serious conduct record identified."
+  },
+  {
+    "id": "destina",
+    "name": "Destina (Destination Sport)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Destination Sport"
+    ],
+    "note": "Majesticks GC partner (livgolf.com/majesticks-gc, fetched 2026-09-25)."
+  },
+  {
+    "id": "det-dubai",
+    "name": "Dubai Department of Economy and Tourism (Visit Dubai)",
+    "ownerId": "det-dubai",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "uae-mass-trial-2024"
+    ],
+    "aliases": [
+      "visit dubai",
+      "visitdubai.com"
+    ],
+    "ownerVerb": "owned by"
+  },
+  {
+    "id": "deutsche-bank",
+    "name": "Deutsche Bank",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Presents the Germany SailGP Team ('presented by Deutsche Bank') and is its Title Partner (sailgp.com team page, fetched 2026-09-25)."
   },
   {
     "id": "deutsche-telekom",
@@ -2143,6 +3080,18 @@
     "aliases": [
       "dvag"
     ]
+  },
+  {
+    "id": "devis",
+    "name": "Devis Co., Ltd., new uniform partner from the 2026/27 season.",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Kit sponsor of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/"
   },
   {
     "id": "devk",
@@ -2277,6 +3226,19 @@
     "aliases": []
   },
   {
+    "id": "dnata",
+    "name": "dnata",
+    "ownerId": "government-of-dubai",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "uae-mass-trial-2024"
+    ],
+    "aliases": []
+  },
+  {
     "id": "doordash",
     "name": "DoorDash",
     "ownerId": null,
@@ -2287,6 +3249,34 @@
     "claimIds": [],
     "aliases": [],
     "note": "Official Tournament Supporter."
+  },
+  {
+    "id": "dove-men-care",
+    "name": "Dove Men+Care",
+    "ownerId": "unilever",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "dove"
+    ],
+    "note": "Official Body Care Supplier of Rugby World Cup 2027 (rugbyworldcup.com/2027/en/partners). Dove is a Unilever brand; the normalized Unilever sponsor entry has ownerId null, so no owner chain written here."
+  },
+  {
+    "id": "dp-world",
+    "name": "DP World",
+    "ownerId": "dp-world-limited",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "DP World Logistics"
+    ],
+    "note": "ICC Premier Partner (top tier) since May 2024, original partnership June 2023; also runs the Beyond Boundaries grassroots programme. Ultimate owner is the Government of Dubai per DP World's FY2025 Annual Report."
   },
   {
     "id": "dr-tooth-clinics",
@@ -2312,6 +3302,74 @@
     ],
     "aliases": [],
     "note": "Rating note: Dream Finders Homes is publicly traded (DFH) with no state ownership; largest institutional holders are Vanguard and BlackRock, each under 10%. No human-rights concerns in ownership chain identified."
+  },
+  {
+    "id": "ds-automobiles",
+    "name": "DS Automobiles",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "DS"
+    ],
+    "note": "French Stellantis marque; Title Partner of the France team (sailgp.com team page, fetched 2026-09-25). Stellantis ownership per Wikipedia lead, not verified to a primary source."
+  },
+  {
+    "id": "dubai-duty-free",
+    "name": "Dubai Duty Free",
+    "ownerId": "investment-corporation-of-dubai",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "ddf"
+    ],
+    "note": "Owner, organiser and title sponsor of the Dubai Duty Free Tennis Championships (ATP 500 + WTA 1000, Dubai); a holding in the Investment Corporation of Dubai's Retail & Others portfolio."
+  },
+  {
+    "id": "dubai-holding",
+    "name": "Dubai Holding",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Presenting Partner of the Emirates Dubai 7s (emiratesdubai7s.com date-announcement page); ownership not stated on dubaiholding.com this pass - see unsourced."
+  },
+  {
+    "id": "dubal-holding",
+    "name": "Dubal Holding",
+    "ownerId": "investment-corporation-of-dubai",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "uae-mass-trial-2024"
+    ],
+    "aliases": [],
+    "note": "Platinum Partner of the Emirates Dubai 7s (emiratesdubai7s.com); dubalholding.com footer: 'DUBAL Holding L.L.C - A subsidiary of Investment Corporation of Dubai'."
+  },
+  {
+    "id": "dulsco",
+    "name": "Dulsco",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "dulsco group"
+    ],
+    "note": "Presenting Partner of the Emirates Dubai 7s (emiratesdubai7s.com date-announcement page); founded 1935, ownership not stated on its about page."
   },
   {
     "id": "duracell",
@@ -2359,6 +3417,47 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "ea-sports-fc",
+    "name": "EA Sports FC",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "ea fc"
+    ],
+    "note": "Electronic Arts football-game brand; WSL major partner per wslfootball.com."
+  },
+  {
+    "id": "ea-sports-fc-afc",
+    "name": "EA Sports FC",
+    "ownerId": "electronic-arts",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "ea fc"
+    ],
+    "note": "Official Licensed Product of the AFC Asian Cup Saudi Arabia 2027 (AFC, 2026-05-06). Separate sponsor entry because the existing ea-sports id is used for Roshn Saudi League deals."
+  },
+  {
+    "id": "ea7-emporio-armani",
+    "name": "EA7 Emporio Armani",
+    "ownerId": "armani",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "ea7"
+    ]
   },
   {
     "id": "easypost",
@@ -2409,6 +3508,18 @@
     "aliases": []
   },
   {
+    "id": "edgeconnex",
+    "name": "EdgeConneX",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "OKGC partner (livgolf.com/okgc, fetched 2026-09-25)."
+  },
+  {
     "id": "ef-education-first",
     "name": "EF Education First",
     "ownerId": null,
@@ -2421,6 +3532,21 @@
       "ef education"
     ],
     "note": "Swiss-based, Swedish-founded education company (Hult family)."
+  },
+  {
+    "id": "ega",
+    "name": "Emirates Golf Association",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "ega",
+      "emirates golf federation"
+    ],
+    "note": "Founding Partner of the Hero Dubai Desert Classic per the event's own sponsors page (europeantour.com/dpworld-tour/hero-dubai-desert-classic-2026/sponsors, fetched 25 Sep 2026); egfgolf.com. UAE golf governing body; ownership not stated on the event page."
   },
   {
     "id": "el-camino-health",
@@ -2469,6 +3595,20 @@
     "aliases": []
   },
   {
+    "id": "emaar",
+    "name": "Emaar",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Emaar Properties"
+    ],
+    "note": "Title sponsor in the event name 'Emaar Dubai Premier Padel P1' (FIP 2026 calendar, fetched 2026-09-25). Ownership not yet researched."
+  },
+  {
     "id": "emirates",
     "name": "Emirates",
     "ownerId": "government-of-dubai",
@@ -2493,6 +3633,18 @@
     }
   },
   {
+    "id": "emirates-nbd",
+    "name": "Emirates NBD",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official Partner of the Hero Dubai Desert Classic (event sponsors page, fetched 25 Sep 2026). Dubai bank, part-owned by Investment Corporation of Dubai per general knowledge; not traced to a primary document here."
+  },
+  {
     "id": "empower",
     "name": "Empower",
     "ownerId": "empower-owner",
@@ -2507,6 +3659,20 @@
     "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
+    "id": "enel",
+    "name": "Enel",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "ENEL"
+    ],
+    "note": "Official partner of Mubadala Brazil and title partner of the Enel Rio Sail Grand Prix (sailgp.com team page and 2026 calendar, fetched 2026-09-25)."
+  },
+  {
     "id": "energy-transfer",
     "name": "Energy Transfer",
     "ownerId": "energy-transfer-owner",
@@ -2519,6 +3685,17 @@
     ],
     "aliases": [],
     "note": "Rating note: Although control lies with Kelcy Warren via LE GP, LLC, the partnership is publicly traded with no state stake; no serious conduct record identified."
+  },
+  {
+    "id": "enerjisa",
+    "name": "Enerjisa",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
   },
   {
     "id": "eni",
@@ -2544,6 +3721,47 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "eqt",
+    "name": "EQT",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Global Partner of Emirates Great Britain SailGP Team (sailgp.com team page, fetched 2026-09-25)."
+  },
+  {
+    "id": "esl-faceit-group",
+    "name": "ESL FACEIT Group (EFG)",
+    "ownerId": "esl-faceit-group",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "EFG",
+      "ESL",
+      "FACEIT",
+      "DreamHack"
+    ],
+    "note": "World's largest esports company; runs IEM, ESL Pro League, DreamHack and is the EWC's Official Operating Partner. PIF-owned through Savvy even for events held in Europe."
+  },
+  {
+    "id": "estrella-damm",
+    "name": "Estrella Damm",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Title sponsor of the Estrella Damm Catalunya Championship (event name, 2026 Race to Dubai schedule). Damm group beer brand; ownership not traced here."
   },
   {
     "id": "estrella-galicia",
@@ -2660,9 +3878,13 @@
     "status": "rated",
     "verdict": "Experience Abu Dhabi is the official tourism authority of the Emirate of Abu Dhabi, a state government entity.",
     "claimIds": [
-      "government-of-abu-dhabi-record"
+      "government-of-abu-dhabi-record",
+      "uae-mass-trial-2024"
     ],
-    "aliases": [],
+    "aliases": [
+      "dct abu dhabi"
+    ],
+    "ownerVerb": "owned by",
     "note": "Rating note: Ultimate owner is the Government of Abu Dhabi, a state entity, which places it in the serious tier per rubric (state owner).",
     "why": {
       "text": "Experience Abu Dhabi is the official tourism authority of the Emirate of Abu Dhabi, part of the United Arab Emirates. In 2024, 43 activists and dissidents got life sentences in a single mass trial that rights groups called grossly unfair, and in March 2025 the UAE’s Federal Supreme Court upheld the convictions. A tourism brand on a famous jersey makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
@@ -2673,8 +3895,7 @@
       ],
       "messageLine": "In 2024, 43 activists in the UAE got life sentences in one mass trial, and the convictions were upheld in 2025.",
       "status": "draft"
-    },
-    "ownerVerb": "paid for by"
+    }
   },
   {
     "id": "experience-kissimmee",
@@ -2689,6 +3910,20 @@
     ],
     "aliases": [],
     "note": "Rating note: County-level rather than national, so 'concern' would also be defensible; called 'serious' because the rubric gives 'serious' for any state or state-fund owner. Public funding confirmed in Experience Kissimmee's own 26-27 Grants Manual citing the Tourist Development Tax. ON HOLD: public ownership, but no sourced claim of abuses by that owner, which serious needs."
+  },
+  {
+    "id": "explora-journeys",
+    "name": "Explora Journeys",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Explora"
+    ],
+    "note": "Luxury ocean travel brand of MSC (Aponte-Diamant family, per Wikipedia lead); Title Partner of the Switzerland team since April 2026 - team races as Explora Journeys Swiss SailGP Team (SailGP press release, 15 Apr 2026)."
   },
   {
     "id": "expressvpn",
@@ -2716,6 +3951,43 @@
     "aliases": []
   },
   {
+    "id": "exxonmobil-qatar",
+    "name": "ExxonMobil (Qatar Open presenting sponsor)",
+    "ownerId": "exxon-mobil-corporation",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "exxon mobil"
+    ],
+    "note": "Presenting/title sponsor of the Qatar Open ATP 500 in Doha (atpqataropen.com sponsors page); ExxonMobil Corporation is a US-listed oil major."
+  },
+  {
+    "id": "fanatics",
+    "name": "Fanatics",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "RWC 2027 Official Supplier (rugbyworldcup.com/2027/en/partners)."
+  },
+  {
+    "id": "fanduel",
+    "name": "FanDuel",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
+  },
+  {
     "id": "fdj",
     "name": "FDJ United",
     "ownerId": "french-state",
@@ -2728,6 +4000,20 @@
       "francaise des jeux"
     ],
     "note": "French national lottery, privatised in 2019 but the French state remains the largest shareholder."
+  },
+  {
+    "id": "federation-royale-marocaine-de-basketball",
+    "name": "Federation Royale Marocaine de BasketBall",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "frmbb"
+    ],
+    "note": "Institutional partner named in the BAL's 22-partner list for 2026 (pr.nba.com, 25 May 2026)."
   },
   {
     "id": "fedex",
@@ -2744,6 +4030,20 @@
     "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
+    "id": "fever",
+    "name": "Fever",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "FeverUp"
+    ],
+    "note": "Fireballs GC partner and LIV Golf Official Supplier - Marketing & Technology Partner for ticketing (livgolf.com/partners, fetched 2026-09-25)."
+  },
+  {
     "id": "fifth-third-bank",
     "name": "Fifth Third Bank",
     "ownerId": "fifth-third-bank-owner",
@@ -2756,6 +4056,17 @@
     ],
     "aliases": [],
     "note": "Rating note: Fifth Third Bancorp is a publicly traded bank holding company; no state stake or serious conduct record identified."
+  },
+  {
+    "id": "firehouse-subs",
+    "name": "Firehouse Subs",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
   },
   {
     "id": "fiserv",
@@ -2811,6 +4122,18 @@
     "note": "Rating note: Single-owner private group, ~180 dealerships in Spain/Portugal. Not the unrelated Australian Hertz franchise."
   },
   {
+    "id": "flexx",
+    "name": "FLEXX",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Named among the BAL's record 22 partners for 2026 (pr.nba.com, 25 May 2026); not on the bal.nba.com partners page; identity not confirmed."
+  },
+  {
     "id": "florina-shoes",
     "name": "Florina Shoes",
     "ownerId": null,
@@ -2833,6 +4156,18 @@
     "aliases": []
   },
   {
+    "id": "flyhouse",
+    "name": "FlyHouse",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "4Aces GC partner (livgolf.com/4aces-gc, fetched 2026-09-25)."
+  },
+  {
     "id": "flynas",
     "name": "flynas",
     "ownerId": null,
@@ -2843,6 +4178,20 @@
     "claimIds": [],
     "aliases": [],
     "note": "Saudi low-cost airline."
+  },
+  {
+    "id": "fnb",
+    "name": "FNB",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "first national bank"
+    ],
+    "note": "Principal Partner of the Springboks (springboks.rugby/partners); shirt placement not stated on that page."
   },
   {
     "id": "football-manager",
@@ -2899,6 +4248,18 @@
     "aliases": []
   },
   {
+    "id": "fortinet",
+    "name": "Fortinet",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "DP World Tour partner (tour partner bar, fetched 25 Sep 2026). NASDAQ-listed cybersecurity company; ownership not traced here."
+  },
+  {
     "id": "foundation-building-materials",
     "name": "Foundation Building Materials (FBM)",
     "ownerId": "foundation-building-materials-owner",
@@ -2911,6 +4272,32 @@
     ],
     "aliases": [],
     "note": "Rating note: Private Company company with no significant conduct issues found"
+  },
+  {
+    "id": "freddys",
+    "name": "Freddy's",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Freddys Frozen Custard"
+    ],
+    "note": "RangeGoats GC partner (livgolf.com/rangegoats-gc, fetched 2026-09-25)."
+  },
+  {
+    "id": "french-embassy-of-senegal",
+    "name": "French Embassy of Senegal",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Institutional partner named in the BAL's season announcement (pr.nba.com, 30 Jan 2026) and 22-partner list (25 May 2026)."
   },
   {
     "id": "freshly-kitchen",
@@ -3033,6 +4420,20 @@
     "note": "Rating note: Group 1001 is a privately held insurance holding company controlled by Mark Walter (via TWG Global); no state ownership. No documented human-rights concerns in ownership chain identified."
   },
   {
+    "id": "gallagher-insurance",
+    "name": "Gallagher Insurance",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "arthur j. gallagher"
+    ],
+    "note": "Official Platinum Partner of New Zealand Rugby (allblacks.com/partners)."
+  },
+  {
     "id": "gana-energia",
     "name": "Gana Energia",
     "ownerId": "gana-energia",
@@ -3042,6 +4443,20 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "ganten",
+    "name": "Ganten",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Baisuishan"
+    ],
+    "note": "Chinese bottled-water brand (Baisuishan); FIBA Partner. Ownership not checked in this pass."
   },
   {
     "id": "gate",
@@ -3060,6 +4475,17 @@
   {
     "id": "gathern",
     "name": "Gathern",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
+  },
+  {
+    "id": "gatorade",
+    "name": "Gatorade",
     "ownerId": null,
     "ownership": null,
     "tier": "unrated",
@@ -3108,6 +4534,55 @@
     "note": "Rating note: Geely Holding has had state-linked co-investors and provincial funds at points, but the disclosed ultimate beneficial owner is Li Shufu, so no material state stake was established."
   },
   {
+    "id": "geico",
+    "name": "GEICO",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
+  },
+  {
+    "id": "genesis",
+    "name": "Genesis",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "genesis worldwide"
+    ],
+    "note": "Title sponsor of the Genesis Scottish Open and Genesis Championship (event names, 2026). Genesis is Hyundai Motor Group's luxury car brand; the event pages name no sponsor details, so no owner linked here pending a primary source."
+  },
+  {
+    "id": "genesys",
+    "name": "Genesys",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Majesticks GC partner (livgolf.com/majesticks-gc, fetched 2026-09-25)."
+  },
+  {
+    "id": "ggm-gastro",
+    "name": "GGM Gastro",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "German commercial catering-equipment supplier; Official Partner of Everton Women from October 2025 with its mark on the back of the shorts."
+  },
+  {
     "id": "giant",
     "name": "Giant",
     "ownerId": null,
@@ -3118,6 +4593,20 @@
     "claimIds": [],
     "aliases": [],
     "note": "Taiwanese bicycle manufacturer; bike supplier."
+  },
+  {
+    "id": "gilbert",
+    "name": "Gilbert",
+    "ownerId": "grays-of-cambridge",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "gilbert rugby"
+    ],
+    "note": "Official match ball of every Rugby World Cup since 1995, supplying RWC Australia 2027 and 2029 (rugbyworldcup.com/2027/en/partners); gilbertrugby.com footer: (c) 2026 Grays of Cambridge."
   },
   {
     "id": "gillette",
@@ -3186,6 +4675,18 @@
     "aliases": []
   },
   {
+    "id": "google-cloud",
+    "name": "Google Cloud",
+    "ownerId": "alphabet-inc",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Crushers GC partner (livgolf.com/crushers-gc, fetched 2026-09-25)."
+  },
+  {
     "id": "google-pixel",
     "name": "Google Pixel",
     "ownerId": null,
@@ -3223,6 +4724,32 @@
     ],
     "aliases": [],
     "note": "Rating note: Chinese appliance maker, so Xinjiang/forced-labour questions attach to the wider PRC SOE supply chain but no Gree-specific adverse finding was located: hence concern (partial state ownership) rather than serious. Owner type 'state' (municipal SASAC), country CN."
+  },
+  {
+    "id": "greenride-africa",
+    "name": "Greenride Africa",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "BAL partner; Rwanda-based electric mobility / ride-hailing company (bal.nba.com/partners). Ownership not traced."
+  },
+  {
+    "id": "greyson",
+    "name": "Greyson Clothiers",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Greyson"
+    ],
+    "note": "Legion XIII and Ripper GC partner (team pages, fetched 2026-09-25)."
   },
   {
     "id": "groupama",
@@ -3321,6 +4848,18 @@
     ]
   },
   {
+    "id": "gulf-air",
+    "name": "Gulf Air",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official Sponsor of the Bapco Energies Bahrain Championship (event sponsors page, fetched 25 Sep 2026). Bahrain's national carrier per general knowledge; not traced to a primary document here."
+  },
+  {
     "id": "gulf-oil",
     "name": "Gulf Oil International",
     "ownerId": "hinduja-group",
@@ -3357,6 +4896,18 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "hahn",
+    "name": "Hahn",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Ripper GC partner (livgolf.com/ripper-gc, fetched 2026-09-25)."
   },
   {
     "id": "haier",
@@ -3461,6 +5012,20 @@
     "note": "Kit supplier to Al-Hazem."
   },
   {
+    "id": "hcltech",
+    "name": "HCLTech",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "hcl technologies"
+    ],
+    "note": "DP World Tour partner (tour partner bar, fetched 25 Sep 2026). NSE/BSE-listed IT services company; ownership not traced here."
+  },
+  {
     "id": "healthequity",
     "name": "HealthEquity",
     "ownerId": "healthequity-owner",
@@ -3536,6 +5101,35 @@
     "note": "Rating note: The 2016 FTC action is dated but is still the defining regulatory finding; Herbalife has had no state or conflict link."
   },
   {
+    "id": "here-we-flo",
+    "name": "Here We Flo",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "flo"
+    ],
+    "note": "Female-owned period-care brand; Chelsea FC Women's Official Back of Short partner per chelseafc.com."
+  },
+  {
+    "id": "hero-motocorp",
+    "name": "Hero MotoCorp",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "hero motocorp ltd",
+      "hero"
+    ],
+    "note": "India's largest two-wheeler manufacturer by its own site tagline ('India's Leading Two-Wheeler Manufacturer'); title sponsor of the Hero Dubai Desert Classic and Hero Indian Open (event names on the 2026 schedule). Ownership not traced to a primary document in this pass."
+  },
+  {
     "id": "hexaom",
     "name": "Hexaom",
     "ownerId": null,
@@ -3598,6 +5192,18 @@
     "note": "Chinese TV/appliance brand; sponsor of World Cup 26 and first partner of the FIFA Club World Cup 2025."
   },
   {
+    "id": "hologic",
+    "name": "Hologic",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Former WTA Tour title sponsor; replaced by Mercedes-Benz from 1 January 2026."
+  },
+  {
     "id": "home-depot",
     "name": "Home Depot",
     "ownerId": null,
@@ -3623,6 +5229,18 @@
     "aliases": []
   },
   {
+    "id": "howden",
+    "name": "Howden",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "UK insurance broker, employee-owned ('our business is grounded in employee ownership', howdengroup.com); presenter of the Neom Turf Cup and the Red Sea Turf Handicap presenter is Longines. Entry exists (SailGP); this adds the Saudi Cup presenter role."
+  },
+  {
     "id": "hp",
     "name": "HP",
     "ownerId": "hp-inc",
@@ -3634,6 +5252,18 @@
       "hp-inc-record"
     ],
     "aliases": []
+  },
+  {
+    "id": "hsbc",
+    "name": "HSBC",
+    "ownerId": "hsbc-holdings",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "LIV Golf 'Global Pillar Partner' (livgolf.com/partners); also a partner of Crushers GC and Majesticks GC."
   },
   {
     "id": "hugo",
@@ -3674,6 +5304,18 @@
     ],
     "aliases": [],
     "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
+  },
+  {
+    "id": "husqvarna",
+    "name": "Husqvarna",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "DP World Tour partner (tour partner bar, fetched 25 Sep 2026) and title sponsor of the Husqvarna British Masters (event name). Husqvarna Group is a Stockholm-listed manufacturer; ownership not traced here."
   },
   {
     "id": "hylo",
@@ -3758,6 +5400,18 @@
     "note": "Rating note: Broker operated by the same private group in Australia, Cyprus (CySEC) and the Seychelles."
   },
   {
+    "id": "icelandic-glacial",
+    "name": "Icelandic Glacial",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Cleeks GC partner (livgolf.com/cleeks-gc, fetched 2026-09-25)."
+  },
+  {
     "id": "idm-energiesysteme",
     "name": "IDM Energiesysteme",
     "ownerId": "idm-energiesysteme",
@@ -3783,6 +5437,21 @@
     ],
     "aliases": [],
     "note": "Rating note: EQT itself is a listed Swedish PE firm, so the chain has both listed-PE and private-fund layers; ADIA's entry is minority, hence 'concern'."
+  },
+  {
+    "id": "ihg-hotels-resorts",
+    "name": "IHG Hotels & Resorts",
+    "ownerId": "intercontinental-hotels-group",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "intercontinental hotels group",
+      "ihg"
+    ],
+    "note": "RWC 2027 Official Partner and Official Hotel Partner of Men's Rugby World Cup 2027 (announced 22 Sep 2026); also a Platinum Partner of the Emirates Dubai 7s."
   },
   {
     "id": "indeed",
@@ -3839,6 +5508,18 @@
     "note": "Rating note: Ratcliffe's majority stake and the Currie/Reece minority are well reported but not on the page opened; the page does confirm private ownership and Ratcliffe's chairmanship. Tier kept 'none' on ownership grounds rather than 'concern' on the petrochemicals record."
   },
   {
+    "id": "infosys",
+    "name": "Infosys",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Listed on the ATP Tour's official partners as 'Infosys - DIGITAL INNOVATION PARTNER' (atptour.com/en/-/partners, fetched 25 Sep 2026). Infosys Ltd is a Mumbai-listed IT services company; no state shareholder claimed and its partnership start year was not verifiable here (infosys.com blocks automated access)."
+  },
+  {
     "id": "intermarche",
     "name": "Intermarché",
     "ownerId": null,
@@ -3853,6 +5534,18 @@
     "note": "French supermarket chain."
   },
   {
+    "id": "intersport",
+    "name": "Intersport",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "International sporting-goods retail group; FIBA Partner. Ownership not checked in this pass."
+  },
+  {
     "id": "intuit",
     "name": "Intuit (Intuit Inc., Nasdaq: INTU)",
     "ownerId": "intuit-intuit-inc-nasdaq-intu-owner",
@@ -3865,6 +5558,18 @@
     ],
     "aliases": [],
     "note": "Rating note: Ownership is clean: Nasdaq-listed, US-incorporated, dispersed float, only two >5% holders (both passive index managers), no state stake, so the ownership half of the test returns 'none'. Tiered 'concern' on conduct, following the house practice set by the herbalife, cognizant, citigroup and kroger entries, where a single named enforcement record with money attached was treated as the rubric's 'a lesser link': the FTC issued an Opinion and Final Order on 22 January 2024 upholding the Chief ALJ and holding that Intuit violated Section 5 of the FTC Act by running 'free' ads for products most consumers were ineligible for (https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-issues-opinion-finding-turbotax-maker-intuit-inc-engaged-deceptive-practices), and Intuit paid $141m to about 4.4 million mainly low-income taxpayers under a 50-state settlement signed in May 2022 (https://ag.ny.gov/press-release/2022/attorney-general-james-secures-141-million-millions-americans-deceived-turbotax). The 2026 DEF 14A is also the primary document that rules out a state stake: it is filed after the FY2025 10-K and carries the >5% beneficial-ownership table as of 31 October 2025 on 278,508,855 shares outstanding. Offsets in the other direction, recorded honestly: the FTC matter is one saga rather than a sustained pattern, and the precedent entry for deel held that company-level regulatory matters alone keep a sponsor at 'none' - so 'none' would be defensible for Intuit on a strict state-ownership-only reading. Not 'serious' (no state owner) and not 'severe' (no conflict exposure)."
+  },
+  {
+    "id": "investec",
+    "name": "Investec",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Title sponsor of the Investec South African Open Championship (event name, 2026 Race to Dubai schedule). Ownership not traced here."
   },
   {
     "id": "io-sono-friuli-venezia-giulia",
@@ -3893,6 +5598,41 @@
     ],
     "aliases": [],
     "note": "Rating note: IREN is publicly traded (Australia/US) with no state ownership; largest holders are institutional (State Street Corp. ~0.48%, others). No documented human-rights concerns in ownership chain."
+  },
+  {
+    "id": "isco",
+    "name": "ISCO",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Title sponsor of the ISCO Championship (event name, 2026 Race to Dubai schedule). Ownership not traced here."
+  },
+  {
+    "id": "itm",
+    "name": "ITM",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "New Zealand building-supplies co-operative; Official Partner of the Black Foils and title partner of the ITM New Zealand Sail Grand Prix since 2022 (SailGP press release, 7 Dec 2022; team page fetched 2026-09-25)."
+  },
+  {
+    "id": "ito-en",
+    "name": "Ito En",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
   },
   {
     "id": "iz",
@@ -3929,6 +5669,17 @@
     "note": "Kit supplier to Al-Ettifaq."
   },
   {
+    "id": "japan-airlines",
+    "name": "Japan Airlines (JAL)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
+  },
+  {
     "id": "jayco",
     "name": "Jayco",
     "ownerId": null,
@@ -3939,6 +5690,20 @@
     "claimIds": [],
     "aliases": [],
     "note": "Australian caravan/RV maker; team backer Gerry Ryan (private, not state-linked)."
+  },
+  {
+    "id": "jcb",
+    "name": "JCB",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "aliases": [
+      "JC Bamford Excavators"
+    ],
+    "claimIds": [],
+    "note": "LIV Golf Presenting Partner (livgolf.com/partners); JCB Golf & Country Club hosts LIV Golf UK. Ownership not confirmed on jcb.com this pass."
   },
   {
     "id": "jean-floch",
@@ -3982,13 +5747,18 @@
   {
     "id": "jetour",
     "name": "Jetour",
-    "ownerId": null,
-    "ownership": null,
+    "ownerId": "chery-automobile",
+    "ownership": "owned",
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
-    "claimIds": [],
-    "aliases": []
+    "claimIds": [
+      "chery-state-shareholders"
+    ],
+    "aliases": [
+      "JETOUR"
+    ],
+    "note": "FIBA Partner or Global Supplier (the two FIBA pages disagree; see unsourced). Jetour is a brand of Chery Automobile Co., Ltd. (one of its marques per the HKEX prospectus), so it inherits Chery's minority local-government state holdings (about 34.5% combined post-IPO)."
   },
   {
     "id": "jim-beam",
@@ -4004,6 +5774,29 @@
     "aliases": []
   },
   {
+    "id": "john-deere",
+    "name": "John Deere",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
+  },
+  {
+    "id": "joie",
+    "name": "Joie",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "British baby-gear brand; Manchester City Women's team partner since March 2023, and the women's team's stadium is named the Joie Stadium."
+  },
+  {
     "id": "jp-financial",
     "name": "JP Financial",
     "ownerId": "jp-financial",
@@ -4013,6 +5806,21 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "jp-morgan",
+    "name": "JP Morgan",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "J.P. Morgan",
+      "JPMorgan"
+    ],
+    "note": "Global Partner of Emirates Great Britain SailGP Team (sailgp.com team page, fetched 2026-09-25)."
   },
   {
     "id": "jpmorgan-chase",
@@ -4057,6 +5865,30 @@
     "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
   },
   {
+    "id": "jumeirah",
+    "name": "Jumeirah",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Global Partner of Emirates Great Britain SailGP Team (sailgp.com team page, fetched 2026-09-25). Dubai state link: Jumeirah has been part of Dubai Holding (owned by Sheikh Mohammed bin Rashid Al Maktoum) since 2004, per Wikipedia lead only; ownerId left null pending a primary source."
+  },
+  {
+    "id": "junckers",
+    "name": "Junckers",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Danish wooden-flooring maker; FIBA Global Supplier. Ownership not checked in this pass."
+  },
+  {
     "id": "jussieu-secours",
     "name": "JUSSIEU Secours",
     "ownerId": null,
@@ -4079,6 +5911,18 @@
     "aliases": []
   },
   {
+    "id": "juvenescence",
+    "name": "Juvenescence",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Partner of NorthStar Canada (SailGP press release, 2024)."
+  },
+  {
     "id": "kaleida-health",
     "name": "Kaleida Health",
     "ownerId": "kaleida-health-owner",
@@ -4091,6 +5935,18 @@
     ],
     "aliases": [],
     "note": "Rating note: Private Company company with no significant conduct issues found"
+  },
+  {
+    "id": "kalshi",
+    "name": "Kalshi",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Crushers GC partner (livgolf.com/crushers-gc, fetched 2026-09-25)."
   },
   {
     "id": "kammelna",
@@ -4131,6 +5987,18 @@
     "note": "Rating note: Described as majority-owned by Insight Partners; no state stake or serious conduct record identified."
   },
   {
+    "id": "kawasaki-heavy-industries",
+    "name": "Kawasaki Heavy Industries",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Kit sponsor of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/"
+  },
+  {
     "id": "kayanee",
     "name": "Kayanee",
     "ownerId": "kayanee",
@@ -4155,6 +6023,20 @@
     ],
     "aliases": [],
     "note": "Rating note: The beneficial owners of Uney GmbH are not published; the app is developed outside the EU (Singapore contact number on the Play listing) with Swiss incorporation. Called 'none' on the absence of any identified state stake."
+  },
+  {
+    "id": "kelme",
+    "name": "Kelme",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "new millennium sports"
+    ],
+    "note": "Spanish sportswear brand; the AFC's Official Technical Sponsor and match-ball supplier, extended to 2029 and covering ACL Elite, Asian Cup 2027 and more (Kelme, 2024-11-18). Owner named in note only - New Millennium Sports S.L. (Wikipedia lead, not independently confirmed)."
   },
   {
     "id": "kermi",
@@ -4192,6 +6074,20 @@
     "claimIds": [],
     "aliases": [],
     "note": "Owner of 70% of Al-Hilal."
+  },
+  {
+    "id": "klm",
+    "name": "KLM",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "royal dutch airlines"
+    ],
+    "note": "Title sponsor of the KLM Open (event name, 2026 Race to Dubai schedule). Air France-KLM group airline; ownership not traced here."
   },
   {
     "id": "knox-hydration",
@@ -4236,6 +6132,17 @@
     "note": "Rating note: Corporate profile confirms TSE Prime listing; no government stake on the shareholder register."
   },
   {
+    "id": "konami",
+    "name": "Konami",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
+  },
+  {
     "id": "kosner",
     "name": "Kosner",
     "ownerId": "grupo-saltoki",
@@ -4248,6 +6155,18 @@
     ],
     "aliases": [],
     "note": "Rating note: Brand-origin trivia: the Kosner trademark itself originated in Lyon, France, and the construction-equipment arm joined the French Euromair-Mixer group in 2023, while the HVAC sponsorship sits with Saltoki. Both possible owners are private; no state link either way."
+  },
+  {
+    "id": "kpmg",
+    "name": "KPMG",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official Partner of SailGP; presenting partner of the Oracle Perth Sail Grand Prix and title partner of the KPMG Sydney Sail Grand Prix (sailgp.com partners overview and 2026 calendar, fetched 2026-09-25)."
   },
   {
     "id": "kraken",
@@ -4278,6 +6197,20 @@
     "note": "Rating note: Conduct record: opioid settlement settlement is a documented conduct record, warranting concern tier (lesser link). No state stake identified."
   },
   {
+    "id": "kuehne-nagel",
+    "name": "Kuehne + Nagel",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Kuehne+Nagel"
+    ],
+    "note": "Swiss logistics group; FIBA Global Supplier. Ownership not checked in this pass."
+  },
+  {
     "id": "kutxabank",
     "name": "Kutxabank",
     "ownerId": "kutxabank-sa",
@@ -4290,6 +6223,20 @@
     ],
     "aliases": [],
     "note": "Rating note: Flagged for proper look because savings-bank ownership feels public; legally the owners are private foundations, so none rather than concern. Not listed (no IPO; the foundations' reserve funds keep it unlisted)."
+  },
+  {
+    "id": "kwv",
+    "name": "KWV",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "KWV Brandy"
+    ],
+    "note": "Southern Guards GC partner (livgolf.com/southern-guards-gc, fetched 2026-09-25)."
   },
   {
     "id": "laser",
@@ -4472,6 +6419,18 @@
     "note": "German discount supermarket chain (Schwarz Group); majority owner of the team."
   },
   {
+    "id": "lilley-plummer-risks",
+    "name": "Lilley Plummer Risks",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Insurance broker owned by Goldman Sachs since 2024; West Ham's official sleeve partner from 2026/27."
+  },
+  {
     "id": "limova-ai",
     "name": "Limova.ai",
     "ownerId": null,
@@ -4495,6 +6454,18 @@
     ],
     "aliases": [],
     "note": "Rating note: Lincoln Financial is publicly traded with no state ownership; largest holders are Vanguard (~10.4%) and BlackRock (~8.9%). No documented human-rights concerns in ownership chain identified."
+  },
+  {
+    "id": "liqui-moly",
+    "name": "LIQUI MOLY",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "RWC 2027 Official Partner (rugbyworldcup.com/2027/en/partners). Ownership (widely reported as the Würth Group since 2018) was not confirmed on a primary page this pass - see unsourced."
   },
   {
     "id": "little-caesars",
@@ -4534,6 +6505,18 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "longines",
+    "name": "Longines",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Swiss watchmaker, 'a member of Swatch Group Ltd.'; presents the Red Sea Turf Handicap (USD $2.5m) at the Saudi Cup meeting, is official timekeeper at Chantilly/Deauville/Longchamp and sponsors the Prix de Diane Longines and Prix de l'Opera (France Galop partners page), and is a Dubai Racing Club partner."
   },
   {
     "id": "lotto",
@@ -4777,6 +6760,17 @@
     "note": "Rating note: Listed company with PE heritage (private-equity sponsors were prior owners) → none. Owner type recorded as listed-company because the sponsors' control has dispersed post-IPO."
   },
   {
+    "id": "mark-west-wines",
+    "name": "Mark West Wines",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
+  },
+  {
     "id": "marriott-bonvoy",
     "name": "Marriott Bonvoy",
     "ownerId": null,
@@ -4832,6 +6826,17 @@
   {
     "id": "mcarthurglen-troyes",
     "name": "McArthurGlen Troyes",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
+  },
+  {
+    "id": "mcdavid",
+    "name": "McDavid",
     "ownerId": null,
     "ownership": null,
     "tier": "unrated",
@@ -4907,6 +6912,18 @@
     "note": "Rating note: Explicitly states family-owned; no state stake or serious conduct record identified."
   },
   {
+    "id": "meiji",
+    "name": "Meiji",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "RWC 2027 Official Supplier (rugbyworldcup.com/2027/en/partners)."
+  },
+  {
     "id": "memorial-hermann",
     "name": "Memorial Hermann Health System",
     "ownerId": "memorial-hermann-owner",
@@ -4961,6 +6978,19 @@
     "note": "Rating note: Nonprofits have no 'owner', so type was recorded as private-company; the Bon Secours Mercy Health parentage is in press coverage rather than on the page opened."
   },
   {
+    "id": "meridianbet",
+    "name": "Meridianbet",
+    "ownerId": "meridianbet-group",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "meridian"
+    ]
+  },
+  {
     "id": "metlife",
     "name": "MetLife",
     "ownerId": "metlife-owner",
@@ -4997,6 +7027,17 @@
     "aliases": []
   },
   {
+    "id": "mgm-resorts",
+    "name": "MGM Resorts",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
+  },
+  {
     "id": "mgm-rewards",
     "name": "MGM Rewards",
     "ownerId": "mgm-resorts",
@@ -5020,6 +7061,30 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "michelin",
+    "name": "Michelin",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official Tyre of MotoGP (motogp.com/en/sponsors) and title sponsor of the Grand Prix of France and Aragon. Compagnie Generale des Etablissements Michelin is listed on Euronext Paris; ownership chain not yet researched."
+  },
+  {
+    "id": "michelob-ultra",
+    "name": "Michelob Ultra",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "DP World Tour partner (tour partner bar, fetched 25 Sep 2026). AB InBev brand (existing sponsor entry ab-inbev); not linked here because the tour page names only the brand."
   },
   {
     "id": "microsoft",
@@ -5046,6 +7111,44 @@
     "aliases": []
   },
   {
+    "id": "mip",
+    "name": "MIP (Mexico Infrastructure Partners)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "mexicoinfra"
+    ],
+    "note": "Fireballs GC partner, logo links to mexicoinfra.com (livgolf.com/fireballs-gc, fetched 2026-09-25)."
+  },
+  {
+    "id": "mitre",
+    "name": "Mitre",
+    "ownerId": "pentland-group",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official ball supplier of the Emirates FA Cup and Adobe Women's FA Cup (goal.com, Jan 2025); 'Official Ball Partner of The FA' (Yahoo/FA, Aug 2026). Mitre is owned by Pentland Brands per pentlandgroup.com/about-us."
+  },
+  {
+    "id": "mitsubishi-estate",
+    "name": "Mitsubishi Estate",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "RWC 2027 Official Supplier (rugbyworldcup.com/2027/en/partners)."
+  },
+  {
     "id": "mk-tiyu-news",
     "name": "MK TIYU News",
     "ownerId": "mk-sports-news",
@@ -5058,6 +7161,18 @@
     ],
     "aliases": [],
     "note": "Rating note: Honest unrated: the sponsor is real and named, but ownership is opaque and no reliable primary source identifies the ultimate owner club or whether any Chinese state entity is involved."
+  },
+  {
+    "id": "mmi",
+    "name": "mmi",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Platinum Partner of the Emirates Dubai 7s (emiratesdubai7s.com date-announcement page); corporate identity not researched this pass."
   },
   {
     "id": "mobil-1",
@@ -5124,6 +7239,34 @@
     "aliases": []
   },
   {
+    "id": "molten",
+    "name": "Molten",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Molten Corporation"
+    ],
+    "note": "Japanese sports-equipment maker founded 1958 in Hiroshima; supplies the official FIBA game ball, including an exclusive design for the World Cup 2027 qualifiers (Molten press release, 2025-10-09)."
+  },
+  {
+    "id": "monday-com",
+    "name": "Monday.com",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "monday.com"
+    ],
+    "note": "Global Partner of the BONDS Flying Roos (sailgp.com team page, fetched 2026-09-25)."
+  },
+  {
     "id": "mondelez",
     "name": "Mondelez International",
     "ownerId": "mondelez-international",
@@ -5133,6 +7276,20 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "monster-energy",
+    "name": "Monster Energy",
+    "ownerId": "monster-beverage-corp",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "monster"
+    ],
+    "note": "Title sponsor of Monster Energy Yamaha MotoGP since 2019; team title sponsor confirmed for 2026 at the Jakarta launch (Yamaha Motor race release, 2026-01-22). Monster Energy is the brand of Monster Beverage Corporation (Nasdaq: MNST); Coca-Cola held about 20.9% as of 13 Feb 2026 per the FY2025 10-K. No state or fund owner."
   },
   {
     "id": "monzo",
@@ -5158,6 +7315,30 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "morgan-stanley",
+    "name": "Morgan Stanley",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "WTA Tour Global Partner (wtatennis.com footer)."
+  },
+  {
+    "id": "moroccan-ministry-of-national-education",
+    "name": "Moroccan Ministry of National Education, Preschool and Sport",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Institutional partner named in the BAL's 22-partner list for 2026 (pr.nba.com, 25 May 2026)."
   },
   {
     "id": "motorola",
@@ -5240,6 +7421,18 @@
     "aliases": []
   },
   {
+    "id": "mubadala",
+    "name": "Mubadala Investment Company",
+    "ownerId": "mubadala",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Abu Dhabi sovereign fund; sole title sponsor of the Mubadala DC Open (ATP/WTA 500, Washington DC, 2026-2030) and host sponsor of the Rio Open (rioopen.com); title sponsor of the Mubadala Abu Dhabi Open (WTA)."
+  },
+  {
     "id": "mumtalakat",
     "name": "Mumtalakat",
     "ownerId": "mumtalakat",
@@ -5293,6 +7486,18 @@
     "note": "Rating note: Type recorded as private-company because the schema has no 'mutual' option; the release confirms Nationwide Mutual Insurance Company as the mark owner."
   },
   {
+    "id": "nedbank",
+    "name": "Nedbank",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Title sponsor of the Nedbank Golf Challenge (event name, 2026 Race to Dubai schedule). Ownership not traced here."
+  },
+  {
     "id": "neoleap",
     "name": "neoleap",
     "ownerId": "stc",
@@ -5314,7 +7519,7 @@
     "verdict": null,
     "claimIds": [],
     "aliases": [],
-    "note": "Owner of NEOM SC."
+    "note": "PIF giga-project; the Neom Turf Cup (USD $3m, Group 1) at the 2026 Saudi Cup meeting is presented by Howden, but NEOM's name is in the race title itself. Existing entry (owner of NEOM SC)."
   },
   {
     "id": "netapp",
@@ -5341,6 +7546,54 @@
     "claimIds": [],
     "aliases": [],
     "note": "Danish listed IT company; joined as co-title sponsor May 2026."
+  },
+  {
+    "id": "network-international",
+    "name": "Network International",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official Partner of the Hero Dubai Desert Classic (event sponsors page, fetched 25 Sep 2026). Ownership not traced here."
+  },
+  {
+    "id": "new-balance",
+    "name": "New Balance",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
+  },
+  {
+    "id": "new-era",
+    "name": "New Era",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "New Era Cap"
+    ],
+    "note": "Official Cap of LIV Golf and all 13 teams (livgolf.com/partners); appears on every team page. Koch-family business since 1920 per neweracap.com history; current ownership structure unconfirmed."
+  },
+  {
+    "id": "new-york-life",
+    "name": "New York Life",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
   },
   {
     "id": "newage-products",
@@ -5393,6 +7646,31 @@
     "aliases": []
   },
   {
+    "id": "nexo",
+    "name": "Nexo",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "nexo.com"
+    ],
+    "note": "DP World Tour partner; describes itself as 'the premier wealth platform for digital assets' (nexo.com/about); a 2025 milestone on its own site notes a 'Three-year partnership with the DP World Tour as its Official Digital Asset Partner'. Title sponsor of the Nexo Championship (event name, 2026). Private crypto lender; ownership not disclosed on its about page."
+  },
+  {
+    "id": "nfp",
+    "name": "NFP",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
+  },
+  {
     "id": "nhc",
     "name": "NHC (National Housing Company)",
     "ownerId": "nhc",
@@ -5414,6 +7692,18 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "night-dragon",
+    "name": "Night Dragon",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Torque GC partner; logo links to nightdragon.com (fetched 2026-09-25)."
   },
   {
     "id": "nike",
@@ -5454,6 +7744,46 @@
     ],
     "aliases": [],
     "note": "Rating note: The French State's stake in Renault creates an indirect state stake in Nissan; per rubric, partial state stake leads to concern tier."
+  },
+  {
+    "id": "nitto",
+    "name": "Nitto Denko",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "nitto denko corporation"
+    ],
+    "note": "Title sponsor of the Nitto ATP Finals through 2030. Nitto Denko is a Tokyo-listed Japanese materials company (Wikipedia lead, not cited as source); ownerId left null pending a filing check."
+  },
+  {
+    "id": "no-bull",
+    "name": "No Bull",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "No Bull Project"
+    ],
+    "note": "OKGC partner (livgolf.com/okgc, fetched 2026-09-25)."
+  },
+  {
+    "id": "noevia",
+    "name": "Noevir",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Kit sponsor of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/"
   },
   {
     "id": "noon",
@@ -5550,6 +7880,31 @@
     "note": "Catalan sports and entertainment agency co-founded by Andrés Iniesta; team title. Not state-linked."
   },
   {
+    "id": "nutrafol",
+    "name": "Nutrafol",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
+  },
+  {
+    "id": "o2",
+    "name": "O2",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "telefonica o2 uk"
+    ],
+    "note": "Sponsor logo shown in the englandrugby.com header ('header-sponsor-logo'); shirt placement not stated on the pages opened this pass - see unsourced."
+  },
+  {
     "id": "occidental-petroleum",
     "name": "Occidental Petroleum (Oxy)",
     "ownerId": "occidental-petroleum-owner",
@@ -5608,6 +7963,20 @@
     "aliases": []
   },
   {
+    "id": "office-national-marocain-du-tourisme",
+    "name": "Office National Marocain du Tourisme (ONMT)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "onmt"
+    ],
+    "note": "Moroccan national tourism office, partner named in the BAL's 22-partner list for 2026 (pr.nba.com, 25 May 2026)."
+  },
+  {
     "id": "offside",
     "name": "Offside",
     "ownerId": null,
@@ -5634,6 +8003,18 @@
     "note": "Rating note: Exchange founded 2013 by Star Xu (OK Group); no sovereign fund on the register. DOJ Information v. 25 Cr. names Aux Cayes FinTech Co. Ltd d/b/a 'OKEx'/'OKX'. Man City sleeve sponsor (existing dataset row)."
   },
   {
+    "id": "omega",
+    "name": "Omega",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Title sponsor of the Omega European Masters (event name, 2026 Race to Dubai schedule). Swatch Group brand; ownership not traced here."
+  },
+  {
     "id": "omniyat",
     "name": "OMNIYAT",
     "ownerId": null,
@@ -5644,6 +8025,30 @@
     "claimIds": [],
     "aliases": [],
     "note": "Dubai ultra-luxury real-estate developer; added as a Bahrain Victorious partner for 2026 (announced Nov 2025)."
+  },
+  {
+    "id": "open-sky-group",
+    "name": "Open Sky Group",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Majesticks GC partner (livgolf.com/majesticks-gc, fetched 2026-09-25)."
+  },
+  {
+    "id": "openbank",
+    "name": "Openbank",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Legion XIII partner (livgolf.com/legion-xiii, fetched 2026-09-25)."
   },
   {
     "id": "oracle",
@@ -5696,6 +8101,18 @@
     "note": "Rating note: Non-profit classified under private-company; no state funding owner, though it does receive public reimbursement as a hospital system."
   },
   {
+    "id": "oscar-jacobson",
+    "name": "Oscar Jacobson",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Southern Guards GC partner (livgolf.com/southern-guards-gc, fetched 2026-09-25)."
+  },
+  {
     "id": "oshee",
     "name": "Oshee",
     "ownerId": "oshee",
@@ -5744,6 +8161,20 @@
     "aliases": []
   },
   {
+    "id": "paramount",
+    "name": "Paramount (Paramount+)",
+    "ownerId": "paramount-skydance",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "paramount+"
+    ],
+    "note": "US media partner: exclusive home of Zuffa Boxing in the US, Canada and Latin America from January 2026, 12 cards in year one, select simulcasts on CBS."
+  },
+  {
     "id": "passenaud-recyclage",
     "name": "Passenaud Recyclage",
     "ownerId": null,
@@ -5753,6 +8184,18 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "paul-robinson-solicitors",
+    "name": "Paul Robinson Solicitors",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Essex law firm; West Ham Women's back-of-shirt partner since July 2025."
   },
   {
     "id": "paycom",
@@ -5851,6 +8294,22 @@
     "note": "Rating note: Acquisition completed 2016 following the SABMiller/AB InBev merger remedy package. Tokyo-listed, no sovereign stake."
   },
   {
+    "id": "pertamina",
+    "name": "Pertamina / Pertamina Enduro",
+    "ownerId": "pertamina",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "pertamina enduro",
+      "enduro",
+      "pt pertamina lubricants"
+    ],
+    "note": "Title sponsor of Pertamina Enduro VR46 Racing Team (2024-2026 per Crash.net, 2023-10-14) and title sponsor of the Pertamina Grand Prix of Indonesia (motogp.com/en/sponsors). PT Pertamina Lubricants is 99.96% held by PT Pertamina Patra Niaga, part of the Pertamina (Persero) downstream subholding, itself wholly state-owned."
+  },
+  {
     "id": "petco",
     "name": "Petco",
     "ownerId": "petco-owner",
@@ -5887,6 +8346,18 @@
     }
   },
   {
+    "id": "pick-n-pay",
+    "name": "Pick n Pay",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Principal Partner of the Springboks (springboks.rugby/partners)."
+  },
+  {
     "id": "picnic",
     "name": "Picnic",
     "ownerId": null,
@@ -5909,6 +8380,18 @@
     "claimIds": [],
     "aliases": [],
     "note": "Official Tournament Supporter in North America and Asia for FIFA World Cup 26, incorporating Savvy Games Group and Qiddiya City."
+  },
+  {
+    "id": "ping",
+    "name": "PING",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Torque GC partner (livgolf.com/torque-gc, fetched 2026-09-25)."
   },
   {
     "id": "pirelli",
@@ -5962,6 +8445,18 @@
     ],
     "aliases": [],
     "note": "Rating note: Flagged for proper look: the Italian state stake in Eni sits below 50% and via a listed parent, so concern rather than serious. Claims of Eni human-rights/environmental harm (Niger Delta, OPL 245) are contested and partly settled, supporting concern not serious."
+  },
+  {
+    "id": "plus",
+    "name": "PLUS",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Korean Golf Club partner; logo has no hyperlink and the brand behind it is unconfirmed (livgolf.com/korean-golf-club, fetched 2026-09-25)."
   },
   {
     "id": "pnc-bank",
@@ -6036,6 +8531,45 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "prima-assicurazioni",
+    "name": "Prima Assicurazioni",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "prima"
+    ],
+    "note": "Title sponsor of Prima Pramac Yamaha MotoGP, confirmed again for the 2026 season (Yamaha Motor race release, 2026-01-14). Ownership not yet researched (prima.it blocks fetching)."
+  },
+  {
+    "id": "primo-brands",
+    "name": "Primo Brands",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
+  },
+  {
+    "id": "primo-golf-apparel",
+    "name": "Primo Golf Apparel",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Primo"
+    ],
+    "note": "HyFlyers GC partner (livgolf.com/hyflyers-gc, fetched 2026-09-25)."
   },
   {
     "id": "progressive",
@@ -6184,6 +8718,101 @@
     "note": "Rating note: Called 'serious' rather than 'severe': Qatar is not a party to an ongoing armed conflict. Stake is arguably indirect (QIA + Ministry of Finance), but the state owns 100%."
   },
   {
+    "id": "qatar-foundation",
+    "name": "Qatar Foundation",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "qf"
+    ],
+    "note": "BAL partner (bal.nba.com/partners). Not-for-profit founded by the late Father Amir Sheikh Hamad Bin Khalifa Al Thani and Sheikha Moza bint Nasser (qf.org.qa/about); state-royal link recorded as a note, no ownerId assigned."
+  },
+  {
+    "id": "qatar-golf-association",
+    "name": "Qatar Golf Association",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "qga"
+    ],
+    "note": "Organiser/promoter of the Qatar Masters; its 2026 announcement credits the Qatar Olympic Committee's support (DP World Tour news article). No primary ownership statement found; left unowned rather than guessed."
+  },
+  {
+    "id": "qatar-racing",
+    "name": "Qatar Racing",
+    "ownerId": "qipco",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Title sponsor of British Champions Day from Aug 2026 for three years, including individual sponsorship of all seven races; the global racing and breeding operation of the QIPCO group, led by HH Sheikh Fahad Al Thani. Owner: QIPCO's Qatar Racing vehicle."
+  },
+  {
+    "id": "qavs",
+    "name": "QAVS",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Named among the BAL's record 22 partners for 2026 (pr.nba.com, 25 May 2026); not on the bal.nba.com partners page; identity not confirmed."
+  },
+  {
+    "id": "qiddiya",
+    "name": "Qiddiya City (Qiddiya Investment Company)",
+    "ownerId": "qiddiya",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Qiddiya City",
+      "QIC"
+    ],
+    "note": "PIF giga-project; EWC Nexus and Founding Partner. Building a gaming and esports district with arenas near Riyadh."
+  },
+  {
+    "id": "qipco",
+    "name": "QIPCO (Qatar Holdings and Investment Company)",
+    "ownerId": "qipco",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "qatar holdings and investment company"
+    ],
+    "note": "Private investment company of the Al Thani ruling family; sponsored British Champions Day since its 2011 inaugural running and extended to 2028 on 22 Jun 2026, then handed the title to subsidiary Qatar Racing."
+  },
+  {
+    "id": "qrec",
+    "name": "Qatar Racing and Equestrian Club (QREC)",
+    "ownerId": "qrec",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "qatar racing and equestrian club"
+    ],
+    "note": "Title sponsor of the Qatar Prix de l'Arc de Triomphe (EUR 5m) since 2008, plus 14 other French Group races and the Qatar Arabian World Cup (EUR 1m) - all per France Galop's partners page."
+  },
+  {
     "id": "qualcomm",
     "name": "Qualcomm Snapdragon",
     "ownerId": "qualcomm",
@@ -6279,6 +8908,18 @@
     "note": "Rating note: Bank investors are minority VC/strategic stakes, so the owner stays private-company with no state link (Orange Ventures is Orange SA, itself only partly French state-owned - not counted)."
   },
   {
+    "id": "rakuten-group",
+    "name": "Rakuten Group, Inc.",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Kit sponsor of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/"
+  },
+  {
     "id": "rassen",
     "name": "Rassin",
     "ownerId": null,
@@ -6370,6 +9011,18 @@
     "note": "Al-Ahli main shirt sponsor."
   },
   {
+    "id": "reebok",
+    "name": "Reebok",
+    "ownerId": "authentic-brands-group",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Crushers GC partner (livgolf.com/crushers-gc, fetched 2026-09-25); Reebok listed in Authentic Brands Group's brand portfolio."
+  },
+  {
     "id": "renasant-bank",
     "name": "Renasant Bank",
     "ownerId": "renasant-corporation",
@@ -6457,6 +9110,32 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "rhino-whiskey",
+    "name": "Rhino Whiskey",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Southern Guards GC partner (livgolf.com/southern-guards-gc, fetched 2026-09-25)."
+  },
+  {
+    "id": "riedel",
+    "name": "Riedel",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Riedel Communications"
+    ],
+    "note": "Official partner of the Germany team; founder Thomas Riedel is the German team's principal owner (sailgp.com team page and press release 10 Feb 2026)."
   },
   {
     "id": "riyad-bank",
@@ -6560,6 +9239,21 @@
     "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
+    "id": "rockwool",
+    "name": "ROCKWOOL",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Rockwool",
+      "ROCKWOOL Racing"
+    ],
+    "note": "Danish insulation multinational (Hedehusene); Title Partner of the Denmark team, which races as ROCKWOOL Racing (sailgp.com team page, fetched 2026-09-25). Ownership stake in the team not published."
+  },
+  {
     "id": "rogers-communications",
     "name": "Rogers Communications",
     "ownerId": "rogers-communications-owner",
@@ -6572,6 +9266,18 @@
     ],
     "aliases": [],
     "note": "Rating note: Rogers Communications is a publicly traded telecommunications company; no state stake or serious conduct record identified."
+  },
+  {
+    "id": "rolex",
+    "name": "Rolex",
+    "ownerId": "rolex-sa",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Title sponsor of the Rolex Shanghai Masters, Rolex Paris Masters and Rolex Monte-Carlo Masters; Rolex SA is held by the Hans Wilsdorf Foundation (private foundation, no state owner)."
   },
   {
     "id": "roshn",
@@ -6614,6 +9320,74 @@
     "note": "Rating note: Liberian-incorporated but US-listed; no flag-of-convenience state owner."
   },
   {
+    "id": "royal-stag",
+    "name": "Royal Stag",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Seagram's Royal Stag"
+    ],
+    "note": "ICC Official Supporter until end of 2027 (announced 5 June 2024), extending a 2018-2023 partnership. Quoted ICC announcement was made by Pernod Ricard India's CMO; the owner link to Pernod Ricard is noted but not filed as a claim."
+  },
+  {
+    "id": "rsk-group",
+    "name": "RSK Group",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "rsk"
+    ],
+    "note": "UK environmental, engineering and technical services group; Charlton's sole front-of-shirt sponsor for men's and women's first teams since 2025/26."
+  },
+  {
+    "id": "rssb",
+    "name": "Rwanda Social Security Board (RSSB)",
+    "ownerId": "rssb",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "rssb rwanda"
+    ],
+    "note": "Owner and name sponsor of RSSB Tigers, the 2026 BAL champions; took over Tigers BBC in 2025 (The New Times; Ecofin Agency)."
+  },
+  {
+    "id": "rwanda-events",
+    "name": "Rwanda Events",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Named among the BAL's record 22 partners for 2026 (pr.nba.com, 25 May 2026); identity/ownership not confirmed."
+  },
+  {
+    "id": "rwandair",
+    "name": "RwandAir",
+    "ownerId": "rwandair",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "rwandair express"
+    ],
+    "note": "Official Airline of the BAL; part of the Rwanda Development Board package (pr.nba.com, 19 Jun 2023)."
+  },
+  {
     "id": "s-3m",
     "name": "3M",
     "ownerId": "3m-company",
@@ -6640,6 +9414,17 @@
     ],
     "aliases": [],
     "note": "Rating note: Sub-national government owner (not a sovereign state, not a state fund) maps to concern as a lesser link. Currently front-of-shirt sponsor of Malaga CF (since 2021)."
+  },
+  {
+    "id": "sage",
+    "name": "Sage",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
   },
   {
     "id": "salesforce",
@@ -6679,6 +9464,32 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "sandmark",
+    "name": "Sandmark",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official Partner of Artemis SailGP Team (Sweden) (sailgp.com team page, fetched 2026-09-25)."
+  },
+  {
+    "id": "santander",
+    "name": "Santander",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Banco Santander"
+    ],
+    "note": "Official Partner of Los Gallos (Spain) (sailgp.com team page, fetched 2026-09-25)."
   },
   {
     "id": "santini",
@@ -6747,6 +9558,20 @@
     "note": "Al-Ahli front-of-shirt sponsor."
   },
   {
+    "id": "saudi-national-bank",
+    "name": "Saudi National Bank (SNB)",
+    "ownerId": "saudi-national-bank",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "snb"
+    ],
+    "note": "Saudi Arabia's largest bank; ultimate controlling party PIF (37.2% at 31 Dec 2025 per SNB's 2025 annual report), ultimately owned by the Saudi government. Presenter of the Riyadh Dirt Sprint (USD $2m) at the 2026 Saudi Cup meeting."
+  },
+  {
     "id": "saudi-qaid-transport",
     "name": "Saudi Qaid Transport Company",
     "ownerId": null,
@@ -6766,8 +9591,10 @@
     "status": "unrated",
     "verdict": null,
     "claimIds": [],
-    "aliases": [],
-    "note": "Official Saudi Pro League sponsor (fan travel)."
+    "aliases": [
+      "Saudi Arabian Airlines"
+    ],
+    "note": "EWC Official Airline 2026; already in sponsors.json as a Saudi Pro League sponsor."
   },
   {
     "id": "sayyar",
@@ -6779,6 +9606,20 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "schelde",
+    "name": "Schelde",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Schelde Sports"
+    ],
+    "note": "Dutch sports-equipment maker (backstops and courts); FIBA Global Supplier. Ownership not checked in this pass."
   },
   {
     "id": "science-technology",
@@ -6831,6 +9672,29 @@
     "aliases": []
   },
   {
+    "id": "seamless-digital",
+    "name": "Seamless Digital",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Majesticks GC partner (livgolf.com/majesticks-gc, fetched 2026-09-25)."
+  },
+  {
+    "id": "seatgeek",
+    "name": "SeatGeek",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
+  },
+  {
     "id": "securian-financial",
     "name": "Securian Financial",
     "ownerId": "securian-financial-owner",
@@ -6869,6 +9733,18 @@
     }
   },
   {
+    "id": "select-event-group",
+    "name": "Select Event Group",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "LIV Golf Official Supplier - structures and hospitality infrastructure at US tournaments (livgolf.com/partners, fetched 2026-09-25)."
+  },
+  {
     "id": "select-health",
     "name": "Select Health",
     "ownerId": "intermountain-health",
@@ -6881,6 +9757,18 @@
     ],
     "aliases": [],
     "note": "Rating note: Select Health's own page describes integration with Intermountain Health; it also works with UCHealth in Colorado, which is a separate non-profit."
+  },
+  {
+    "id": "servicenow",
+    "name": "ServiceNow",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "BAL partner (bal.nba.com/partners)."
   },
   {
     "id": "sesame-hr",
@@ -6959,7 +9847,7 @@
     "verdict": null,
     "claimIds": [],
     "aliases": [],
-    "note": "Front sponsor of Al-Nassr (second front) and NEOM SC; exact legal name unconfirmed."
+    "note": "Existing entry (exact legal name unconfirmed). Presenter of the Tuwaiq Cup (USD $1m, Listed) at the 2026 Saudi Cup meeting, per Thoroughbred Daily News race entries."
   },
   {
     "id": "shimano",
@@ -6986,6 +9874,18 @@
     ],
     "aliases": [],
     "note": "Rating note: Natural Nine B.V. is the disclosed operator; the ultimate beneficial owners behind it are not clearly published (reported founders include Darcy Spangler, Noah Dummett and Harley Fresh) and the Curaçao licensing regime is lightly supervised. Tier 'none' because no state element is evident - not because the chain is transparent."
+  },
+  {
+    "id": "shuzet-holdings",
+    "name": "Shuzet Holdings",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Kit sponsor of Vissel Kobe 2026-27 per https://www.vissel-kobe.co.jp/partner/uniform-partners/"
   },
   {
     "id": "siegmund",
@@ -7060,6 +9960,17 @@
     "note": "Rating note: Majority stake held by the Bhirombhakdi family (Nation Thailand, 2023). Thailand's state holds no equity in Boon Rawd."
   },
   {
+    "id": "siriusxm",
+    "name": "SiriusXM",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
+  },
+  {
     "id": "sixt",
     "name": "Sixt",
     "ownerId": null,
@@ -7069,6 +9980,49 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "skoda",
+    "name": "Škoda Auto",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "skoda uk",
+      "skoda auto"
+    ],
+    "note": "Czech car maker (Volkswagen Group); Chelsea Women's first Official Back of Shirt Partner since the May 2025 extension, after becoming the team's Official Car Partner at the start of 2024."
+  },
+  {
+    "id": "sky-sports",
+    "name": "Sky Sports",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "sky"
+    ],
+    "note": "Comcast-owned broadcaster; WSL principal partner and UK broadcaster from 2025/26."
+  },
+  {
+    "id": "smart",
+    "name": "Smart",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Smart Communications"
+    ],
+    "note": "Philippine wireless brand; FIBA Partner and backer of the event's 'Smart Fantasy League'. Wholly owned by PLDT Inc. per Wikipedia (lead only; confirm from a PLDT filing). smart.com.ph/corporate/about-us returned empty content to the fetcher."
   },
   {
     "id": "smoothie-king",
@@ -7108,6 +10062,20 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "sobha-realty",
+    "name": "Sobha Realty",
+    "ownerId": "sobha-realty",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Sobha"
+    ],
+    "note": "ICC Global Partner for ICC Men's events from February 2025 (started with the Men's Champions Trophy 2025); privately held by the Sobha Group of founder-chairman PNC Menon, not state-linked."
   },
   {
     "id": "sofi",
@@ -7178,6 +10146,43 @@
     "claimIds": [],
     "aliases": [],
     "note": "Belgian adhesives/sealants company owned by founder Vic Swerts."
+  },
+  {
+    "id": "south-african-tourism",
+    "name": "South African Tourism",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "sa tourism"
+    ],
+    "note": "BAL partner with in-arena visibility for the South Africa Conference (bal.nba.com/partners). Links to the national Department of Tourism (tourism.gov.za) from its site; formal status not verified."
+  },
+  {
+    "id": "sowayoga",
+    "name": "SowaYoga",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Legion XIII partner (livgolf.com/legion-xiii, fetched 2026-09-25)."
+  },
+  {
+    "id": "spalding",
+    "name": "Spalding",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
   },
   {
     "id": "spectrum",
@@ -7256,6 +10261,18 @@
     "note": "Rating note: The stake.com terms page is JavaScript-heavy, so the ownership sentence was read from the page's terms text; the Easygo/Craven/Tehrani link comes from secondary coverage rather than a filing. Curaçao-licensed, so no regulator-disclosed ownership."
   },
   {
+    "id": "standard-bank",
+    "name": "Standard Bank",
+    "ownerId": "standard-bank-group",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Southern Guards GC partner (livgolf.com/southern-guards-gc, fetched 2026-09-25); largest shareholder ICBC 19.7% (1H26) per standardbank.com shareholder information."
+  },
+  {
     "id": "standard-chartered",
     "name": "Standard Chartered",
     "ownerId": "standard-chartered-plc",
@@ -7320,6 +10337,21 @@
     "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
   },
   {
+    "id": "stc",
+    "name": "stc (Saudi Telecom Company)",
+    "ownerId": "stc",
+    "ownership": "part-owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "stc Group",
+      "Saudi Telecom Company"
+    ],
+    "note": "EWC Elite and Founding Partner for the third year in 2026; PIF is the majority shareholder."
+  },
+  {
     "id": "stifel",
     "name": "Stifel Financial",
     "ownerId": "stifel-owner",
@@ -7371,6 +10403,18 @@
     "aliases": []
   },
   {
+    "id": "strauss-america",
+    "name": "STRAUSS (Strauss America)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "US performance-workwear brand (us.strauss.com, STRAUSS/Strauss America), official sponsor per MLB.com. Distinct from the existing 'strauss' sponsor (Strauss GmbH, Germany) already in the data; not the same company."
+  },
+  {
     "id": "sublime-cote-divoire",
     "name": "Sublime Côte d'Ivoire",
     "ownerId": "government-of-cote-divoire",
@@ -7380,6 +10424,18 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "subway",
+    "name": "Subway",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "QSR franchise chain; WSL minor partner per wslfootball.com."
   },
   {
     "id": "sumup",
@@ -7422,6 +10478,31 @@
     "note": "Rating note: Sun Life Financial is publicly traded (Canada/US) with no state ownership; no controlling shareholder. Largest holdings are institutional (Vanguard, BlackRock) each under 10%. No human-rights concerns in ownership chain."
   },
   {
+    "id": "superbet",
+    "name": "Superbet",
+    "ownerId": "superbet-owner",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
+  },
+  {
+    "id": "superfile",
+    "name": "SuperFile",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "superfile trackhouse"
+    ],
+    "note": "Multi-year title partner of Trackhouse MotoGP from 2026 (SportsMint Media, 2026-06-10); the team competes as SuperFile Trackhouse MotoGP Team. Ownership not yet researched."
+  },
+  {
     "id": "sutter-health",
     "name": "Sutter Health",
     "ownerId": "sutter-health-owner",
@@ -7448,6 +10529,30 @@
     ],
     "aliases": [],
     "note": "Rating note: No state stake; the PDF extract was thin, so the ownership conclusion rests on the listed, dispersed structure rather than a quoted holder table."
+  },
+  {
+    "id": "swag-golf",
+    "name": "SWAG Golf",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "4Aces GC partner (livgolf.com/4aces-gc, fetched 2026-09-25)."
+  },
+  {
+    "id": "swannies",
+    "name": "Swannies",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "RangeGoats GC partner (livgolf.com/rangegoats-gc, fetched 2026-09-25)."
   },
   {
     "id": "systeme-u",
@@ -7503,6 +10608,21 @@
     "note": "Rating note: Owner is LVMH rather than TAG Heuer itself - the brand is a subsidiary, not a shareholder-level entity."
   },
   {
+    "id": "taisho-pharmaceutical",
+    "name": "Taisho Pharmaceutical",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "lipovitand",
+      "lipovitan d"
+    ],
+    "note": "RWC 2027 Official Supplier as LipovitanD (rugbyworldcup.com/2027/en/partners); also a Global Partner of New Zealand Rugby (allblacks.com/partners)."
+  },
+  {
     "id": "tameeni-insurance",
     "name": "Tameeni Insurance",
     "ownerId": null,
@@ -7513,6 +10633,20 @@
     "claimIds": [],
     "aliases": [],
     "note": "Present on several Saudi shirts (front/back)."
+  },
+  {
+    "id": "tamkeen",
+    "name": "Tamkeen (Bahrain Labour Fund)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "labour fund tamkeen"
+    ],
+    "note": "Official Partner of the Bapco Energies Bahrain Championship (event sponsors page, fetched 25 Sep 2026). tamkeen.bh: 'the only official domain of the Labour Fund Tamkeen' operating since 2006; no explicit government-ownership statement on the site."
   },
   {
     "id": "tamweel-aloula",
@@ -7577,6 +10711,21 @@
     ],
     "aliases": [],
     "note": "Rating note: Largest individual holders sit just under the 3% reporting threshold; none identified as state-linked."
+  },
+  {
+    "id": "tecno",
+    "name": "TECNO",
+    "ownerId": "transsion-holdings",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "tecno mobile",
+      "tecno telecom"
+    ],
+    "note": "TECNO brand of Transsion Holdings. Official Global Supporter of AFC club competitions covering the 2025/26 and 2026/27 seasons (AFC, 2025-09-11)."
   },
   {
     "id": "tecnocasa-group",
@@ -7646,6 +10795,18 @@
     "note": "Rating note: Owned by Apollo-managed funds rather than Apollo the listed entity; classified as listed-company because the ultimate parent is listed. Apollo's own investor base includes sovereign funds but none control it."
   },
   {
+    "id": "tesco",
+    "name": "Tesco",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "UK-listed supermarket; WSL major partner per wslfootball.com."
+  },
+  {
     "id": "tgr",
     "name": "Toyota Gazoo Racing",
     "ownerId": "toyota-motor-corporation",
@@ -7669,6 +10830,20 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "ticketmaster",
+    "name": "Ticketmaster",
+    "ownerId": "live-nation-entertainment",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "ticketmaster sport"
+    ],
+    "note": "RWC 2027 Official Supplier - 'Ticketmaster Sport is the global leader in sports ticketing' (rugbyworldcup.com/2027/en/partners). Ownership via Live Nation Entertainment not confirmed on a primary page this pass - see unsourced."
   },
   {
     "id": "tissot",
@@ -7697,6 +10872,20 @@
     "note": "Rating note: Not related to the unrelated US 'TM Real Estate Group LLC'. Family-held Alicante developer operating in Spain and Mexico."
   },
   {
+    "id": "todaytix",
+    "name": "TodayTix",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "todaytix group"
+    ],
+    "note": "Theatre and live-experience ticketing platform; Charlton Athletic's Official Experience Partner on a two-year deal from June 2026, on the back of the men's and women's first-team shirts."
+  },
+  {
     "id": "tommy-hilfiger",
     "name": "Tommy Hilfiger",
     "ownerId": "pvh-corp",
@@ -7722,6 +10911,20 @@
     "aliases": []
   },
   {
+    "id": "totalenergies",
+    "name": "TotalEnergies",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "total"
+    ],
+    "note": "Title sponsor of the Qatar TotalEnergies Open (WTA 1000, Doha). Listed company: shares listed on Euronext Paris, Euronext Brussels, the LSE and since 8 Dec 2025 the NYSE; largest single shareholder is BlackRock with 6.5% of capital as of 31 Dec 2025 - no state control."
+  },
+  {
     "id": "toyota",
     "name": "Toyota",
     "ownerId": "toyota-owner",
@@ -7734,6 +10937,18 @@
     ],
     "aliases": [],
     "note": "Rating note: Private Company company with no significant conduct issues found"
+  },
+  {
+    "id": "trackman",
+    "name": "Trackman",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "LIV Golf Official Supplier - radar-based performance data technology (livgolf.com/partners, fetched 2026-09-25)."
   },
   {
     "id": "trade-nation",
@@ -7754,6 +10969,17 @@
     "name": "Trainline",
     "ownerId": "trainline-plc",
     "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
+  },
+  {
+    "id": "traveller-whiskey",
+    "name": "Traveller Whiskey",
+    "ownerId": null,
+    "ownership": null,
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
@@ -7954,6 +11180,45 @@
     "note": "Rating note: Explicitly states family-owned since 1980; no state stake or serious conduct record identified."
   },
   {
+    "id": "uludag",
+    "name": "Uludağ",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "uludag"
+    ]
+  },
+  {
+    "id": "under-armour",
+    "name": "Under Armour",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "4Aces GC partner (livgolf.com/4aces-gc, fetched 2026-09-25)."
+  },
+  {
+    "id": "underdog",
+    "name": "Underdog",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Underdog Fantasy"
+    ],
+    "note": "Crushers GC partner (livgolf.com/crushers-gc, fetched 2026-09-25)."
+  },
+  {
     "id": "unibet",
     "name": "Unibet",
     "ownerId": null,
@@ -8075,6 +11340,18 @@
     "note": "Rating note: U.S. Bancorp is a publicly traded bank holding company; no state stake or serious conduct record identified."
   },
   {
+    "id": "usana",
+    "name": "USANA",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "WTA Official Supplier (wtatennis.com footer)."
+  },
+  {
     "id": "uw-health",
     "name": "UW Health",
     "ownerId": "uw-health-owner",
@@ -8103,6 +11380,17 @@
     "note": "Rating note: Called 'serious' not 'severe' under the Gulf-state rule. Saudi Arabia is a party to the Yemen conflict but large-scale coalition operations have wound down; if the dataset treats Yemen as live, this and Aramco's other sponsorships would move to 'severe'."
   },
   {
+    "id": "vatanmed",
+    "name": "Vatanmed",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
+  },
+  {
     "id": "vbet",
     "name": "VBET",
     "ownerId": null,
@@ -8124,6 +11412,18 @@
     "claimIds": [],
     "aliases": [],
     "note": "Official telecommunication services sponsor."
+  },
+  {
+    "id": "viessmann",
+    "name": "Viessmann",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official partner of the Germany SailGP Team (sailgp.com team page, fetched 2026-09-25)."
   },
   {
     "id": "ville-d-angers",
@@ -8286,6 +11586,18 @@
     "note": "Norwegian accounting/payroll software company (formerly Visma)."
   },
   {
+    "id": "vistajet",
+    "name": "VistaJet",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "HyFlyers GC partner (livgolf.com/hyflyers-gc, fetched 2026-09-25)."
+  },
+  {
     "id": "vitality",
     "name": "Vitality",
     "ownerId": "discovery-limited",
@@ -8325,6 +11637,20 @@
     "aliases": []
   },
   {
+    "id": "volvo-cars",
+    "name": "Volvo Cars",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "volvo"
+    ],
+    "note": "Title sponsor of the Volvo China Open (event name, 2026 Race to Dubai schedule). Ownership not traced to a primary document in this pass."
+  },
+  {
     "id": "walt-disney-world",
     "name": "Walt Disney World Resort",
     "ownerId": "walt-disney-world-owner",
@@ -8337,6 +11663,63 @@
     ],
     "aliases": [],
     "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
+  },
+  {
+    "id": "wasl-properties",
+    "name": "wasl",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "wasl asset management group",
+      "dubai real estate corporation"
+    ],
+    "note": "Official Partner of the Dubai Invitational and the Hero Dubai Desert Classic (event sponsors pages, fetched 25 Sep 2026). wasl.ae about-us: founded 25 May 2008 'from the union of the Dubai Development Board and Real Estate Department' and manages 'assets entrusted to us by DREC'; Dubai state lineage is the company's own history page, but an explicit 'Government of Dubai owner' statement was not found, so no owner linked."
+  },
+  {
+    "id": "wave",
+    "name": "Wave",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "wave mobile money"
+    ],
+    "note": "BAL partner (bal.nba.com/partners); African mobile-money company, co-founder and CEO Drew Durbin (wave.com/en/about)."
+  },
+  {
+    "id": "we-buy-cars",
+    "name": "WeBuyCars",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "We Buy Cars"
+    ],
+    "note": "Southern Guards GC partner (livgolf.com/southern-guards-gc, fetched 2026-09-25)."
+  },
+  {
+    "id": "webook",
+    "name": "Webook",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "webook.com"
+    ],
+    "note": "Saudi ticketing platform; EWC Official Ticket Partner. Ownership not sourced."
   },
   {
     "id": "webull",
@@ -8353,8 +11736,46 @@
     "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
+    "id": "wilson",
+    "name": "Wilson Sporting Goods",
+    "ownerId": "amer-sports",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official game ball of the NBA, WNBA, NBA G League, NBA 2K League and BAL (pr.nba.com, 13 May 2020). An NBA league partner, not a shirt sponsor."
+  },
+  {
     "id": "winamax",
     "name": "Winamax",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
+  },
+  {
+    "id": "wizteam",
+    "name": "WizTeam",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "wiz-team",
+      "event works"
+    ],
+    "note": "World Rugby Global Partner (world.rugby, fetched 2026-09-25). Swiss event-management software company, head office in Lausanne (wiz-team.com/about)."
+  },
+  {
+    "id": "wm",
+    "name": "WM (Waste Management)",
     "ownerId": null,
     "ownership": null,
     "tier": "unrated",
@@ -8373,6 +11794,20 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "wtw",
+    "name": "WTW",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "willis towers watson"
+    ],
+    "note": "Listed insurance broker; WSL major partner per wslfootball.com (site blocked verification of details)."
   },
   {
     "id": "wurth",
@@ -8423,6 +11858,18 @@
       "xidesheng"
     ],
     "note": "Chinese bicycle manufacturer based in Shenzhen; private."
+  },
+  {
+    "id": "xero",
+    "name": "Xero",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Global Partner of New Zealand Rugby (allblacks.com/partners)."
   },
   {
     "id": "xfinity",
@@ -8526,6 +11973,21 @@
     "note": "Rating note: No state stake identified."
   },
   {
+    "id": "yili",
+    "name": "Yili",
+    "ownerId": "yili-group",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Yili Group",
+      "Inner Mongolia Yili Industrial Group"
+    ],
+    "note": "Chinese dairy company; FIBA Partner and global partner of the FIBA World Cup since 2023 (Yili's own announcement, 2023-04-26). Weak state link confirmed from the 2025 annual report: largest shareholder Hohhot Investment Co., Ltd. at 8.51% (state legal person); no controlling shareholder, no actual controller."
+  },
+  {
     "id": "york-space-systems",
     "name": "York Space Systems",
     "ownerId": "york-space-systems-owner",
@@ -8553,6 +12015,31 @@
   {
     "id": "zoho-corporation",
     "name": "Zoho Corporation",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": []
+  },
+  {
+    "id": "zood-realty",
+    "name": "ZOOD Realty",
+    "ownerId": "zood-realty",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "zood"
+    ],
+    "note": "Presenter of the Saudi Derby (USD $1.5m) at the 2026 Saudi Cup meeting; ownership unresolved - zoodrealty.com carries no company information."
+  },
+  {
+    "id": "zoom",
+    "name": "Zoom",
     "ownerId": null,
     "ownership": null,
     "tier": "unrated",

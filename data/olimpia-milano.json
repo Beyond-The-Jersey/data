@@ -1,0 +1,31 @@
+{
+  "id": "olimpia-milano",
+  "team": "Olimpia Milano",
+  "sport": "basketball",
+  "league": "euroleague",
+  "country": "Italy",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "ea7-emporio-armani",
+      "name": "EA7 Emporio Armani",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "armani",
+      "owner": "Giorgio Armani S.p.A.",
+      "verdict": null,
+      "source": {
+        "name": "Olimpia Milano, 'L'Olimpia torna EA7' title-sponsor announcement (Wayback snapshot 7 Apr 2023)",
+        "date": "2022-07-07",
+        "url": "https://web.archive.org/web/20230407225620/https://www.olimpiamilano.com/ci-siamo-lolimpia-diventa-ea7-e-domani-scatta-la-campagna-abbonamenti-tutti-insieme/",
+        "note": "EA7 Emporio Armani title sponsor since 2022"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "armani"
+  ],
+  "lastUpdated": "2026-09-24"
+}

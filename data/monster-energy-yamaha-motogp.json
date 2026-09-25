@@ -1,0 +1,30 @@
+{
+  "id": "monster-energy-yamaha-motogp",
+  "team": "Monster Energy Yamaha MotoGP",
+  "sport": "motorsport",
+  "league": "motogp",
+  "country": "Japan",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "monster-energy",
+      "name": "Monster Energy",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": "monster-beverage-corp",
+      "owner": "Monster Beverage Corporation",
+      "verdict": null,
+      "source": {
+        "name": "Yamaha Motor - Monster Energy Yamaha MotoGP Enter V4 Era and Unveil 2026 Livery at Indonesia Launch Event",
+        "date": "2026-01-22",
+        "url": "https://global.yamaha-motor.com/race/release/2026/003/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "monster-beverage-corp"
+  ],
+  "lastUpdated": "2026-09-24"
+}

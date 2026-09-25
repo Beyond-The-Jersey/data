@@ -1,0 +1,45 @@
+{
+  "id": "red-bull-italy",
+  "team": "Red Bull Italy SailGP Team",
+  "sport": "sailing",
+  "league": "sailgp",
+  "country": "Italy",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "azimut",
+      "name": "Azimut",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "SailGP team page - Red Bull Italy (Global Partners)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/teams/red-bull-italy/"
+      }
+    },
+    {
+      "id": "red-bull",
+      "name": "Red Bull",
+      "placement": "front",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "mateschitz-yoovidhya-families",
+      "owner": "Mateschitz family (49%) and Yoovidhya family (51%), via Red Bull GmbH",
+      "verdict": "Owned by Mateschitz family (49%) and Yoovidhya family (51%), via Red Bull GmbH. Nothing found.",
+      "source": {
+        "name": "SailGP team page - Red Bull Italy (team name/identity)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/teams/red-bull-italy/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "mateschitz-yoovidhya-families"
+  ],
+  "lastUpdated": "2026-09-24"
+}

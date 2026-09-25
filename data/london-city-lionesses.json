@@ -1,0 +1,28 @@
+{
+  "id": "london-city-lionesses",
+  "team": "London City Lionesses",
+  "sport": "soccer",
+  "league": "womens-super-league",
+  "country": "England",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "nike",
+      "name": "Nike",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "London City Lionesses, official announcement",
+        "date": "2026-09-03",
+        "url": "https://www.londoncitylionesses.com/post/london-city-lionesses-and-nike-announce-landmark-multi-year-deal"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

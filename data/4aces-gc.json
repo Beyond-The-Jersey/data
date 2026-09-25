@@ -1,0 +1,103 @@
+{
+  "id": "4aces-gc",
+  "team": "4Aces GC",
+  "sport": "golf",
+  "league": "liv-golf",
+  "country": "International",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "celsius",
+      "name": "CELSIUS",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - 4Aces GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/4aces-gc"
+      }
+    },
+    {
+      "id": "daou",
+      "name": "DAOU Vineyards",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - 4Aces GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/4aces-gc"
+      }
+    },
+    {
+      "id": "flyhouse",
+      "name": "FlyHouse",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - 4Aces GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/4aces-gc"
+      }
+    },
+    {
+      "id": "new-era",
+      "name": "New Era",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - 4Aces GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/4aces-gc"
+      }
+    },
+    {
+      "id": "swag-golf",
+      "name": "SWAG Golf",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - 4Aces GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/4aces-gc"
+      }
+    },
+    {
+      "id": "under-armour",
+      "name": "Under Armour",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - 4Aces GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/4aces-gc"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

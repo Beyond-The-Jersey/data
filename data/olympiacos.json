@@ -1,0 +1,31 @@
+{
+  "id": "olympiacos",
+  "team": "Olympiacos B.C.",
+  "sport": "basketball",
+  "league": "euroleague",
+  "country": "Greece",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "superbet",
+      "name": "Superbet",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "superbet-owner",
+      "owner": "Superbet Group",
+      "verdict": null,
+      "source": {
+        "name": "Sport24, 'Superbet kai Olympiakos mazi mechri to 2032' (Superbet and Olympiacos together until 2032)",
+        "date": "2026-07-03",
+        "url": "https://www.sport24.gr/basket/superbet-kai-olimpiakos-mazi-mexri-to-2032/",
+        "note": "Superbet is the 'Great Sponsor' until 2032; deal reportedly worth EUR 55m including bonuses"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "superbet-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,0 +1,105 @@
+{
+  "id": "legion-xiii",
+  "team": "Legion XIII",
+  "sport": "golf",
+  "league": "liv-golf",
+  "country": "International",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "callaway",
+      "name": "Callaway",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Legion XIII team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/legion-xiii"
+      }
+    },
+    {
+      "id": "greyson",
+      "name": "Greyson Clothiers",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Legion XIII team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/legion-xiii"
+      }
+    },
+    {
+      "id": "new-era",
+      "name": "New Era",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Legion XIII team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/legion-xiii"
+      }
+    },
+    {
+      "id": "openbank",
+      "name": "Openbank",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Legion XIII team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/legion-xiii"
+      }
+    },
+    {
+      "id": "rolex",
+      "name": "Rolex",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": "rolex-sa",
+      "owner": "Rolex SA (Hans Wilsdorf Foundation)",
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Legion XIII team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/legion-xiii"
+      }
+    },
+    {
+      "id": "sowayoga",
+      "name": "SowaYoga",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Legion XIII team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/legion-xiii"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "rolex-sa"
+  ],
+  "lastUpdated": "2026-09-24"
+}

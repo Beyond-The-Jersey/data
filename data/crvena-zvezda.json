@@ -1,0 +1,31 @@
+{
+  "id": "crvena-zvezda",
+  "team": "KK Crvena zvezda",
+  "sport": "basketball",
+  "league": "euroleague",
+  "country": "Serbia",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "meridianbet",
+      "name": "Meridianbet",
+      "placement": "partner",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "meridianbet-group",
+      "owner": "Meridianbet Group",
+      "verdict": null,
+      "source": {
+        "name": "GlobeNewswire, Meridianbet emblem-integration deal with BC Crvena Zvezda (Wayback snapshot 14 Jan 2026)",
+        "date": "2024-11-21",
+        "url": "https://web.archive.org/web/20260114162714/https://www.globenewswire.com/news-release/2024/11/21/2984929/0/en/Meridianbet-Redefines-Sports-Sponsorship-with-Europe-s-First-Emblem-Integration-Deal-with-BC-Crvena-Zvezda.html",
+        "note": "Naming sponsor Crvena zvezda Meridianbet since 2023; logo integrated in club emblem"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "meridianbet-group"
+  ],
+  "lastUpdated": "2026-09-24"
+}

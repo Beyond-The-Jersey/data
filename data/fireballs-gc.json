@@ -1,0 +1,58 @@
+{
+  "id": "fireballs-gc",
+  "team": "Fireballs GC",
+  "sport": "golf",
+  "league": "liv-golf",
+  "country": "Spain",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "fever",
+      "name": "Fever",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Fireballs GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/fireballs-gc"
+      }
+    },
+    {
+      "id": "mip",
+      "name": "MIP (Mexico Infrastructure Partners)",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Fireballs GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/fireballs-gc"
+      }
+    },
+    {
+      "id": "new-era",
+      "name": "New Era",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Fireballs GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/fireballs-gc"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

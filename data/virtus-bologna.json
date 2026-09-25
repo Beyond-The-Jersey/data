@@ -1,0 +1,31 @@
+{
+  "id": "virtus-bologna",
+  "team": "Virtus Pallacanestro Bologna",
+  "sport": "basketball",
+  "league": "euroleague",
+  "country": "Italy",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "costa-cruises",
+      "name": "Costa (Costa Crociere)",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "costa-group",
+      "owner": "Costa Crociere (Costa Cruises)",
+      "verdict": null,
+      "source": {
+        "name": "Virtus Bologna, Costa Crociere is the new Title Sponsor LBA and Main Sponsor",
+        "date": "2026-09-13",
+        "url": "https://www.virtus.it/news/costa-crociere-e-il-nuovo-title-sponsor-lba-e-main-sponsor-della-virtus-pallacanestro-bologna/",
+        "note": "Costa Crociere Title and Main Sponsor for 2026/27; kit presented 13 Sep 2026 on Costa Pacifica"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "costa-group"
+  ],
+  "lastUpdated": "2026-09-24"
+}

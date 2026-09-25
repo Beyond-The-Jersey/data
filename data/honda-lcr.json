@@ -1,0 +1,30 @@
+{
+  "id": "honda-lcr",
+  "team": "Honda LCR",
+  "sport": "motorsport",
+  "league": "motogp",
+  "country": "Monaco",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "castrol",
+      "name": "Castrol",
+      "placement": "front",
+      "season": "2026",
+      "tier": "concern",
+      "ownerId": "bp-plc",
+      "owner": "BP p.l.c.",
+      "verdict": "Castrol is BP's lubricants brand, so it inherits BP's owner chain (London/NYSE-listed, no state shareholder) and its sustained documented adverse record on the….",
+      "source": {
+        "name": "MotoGP.com - Zarco's Castrol Honda LCR & Moreira's all-new Pro Honda LCR liveries revealed",
+        "date": "2026-02-01",
+        "url": "https://www.motogp.com/en/news/2026/02/01/zarcos-castrol-honda-lcr-moreiras-all-new-pro-honda-lcr-liveries-revealed/827151"
+      }
+    }
+  ],
+  "worstTier": "concern",
+  "owners": [
+    "bp-plc"
+  ],
+  "lastUpdated": "2026-09-24"
+}

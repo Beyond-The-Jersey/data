@@ -1,0 +1,45 @@
+{
+  "id": "mubadala-brazil",
+  "team": "Mubadala Brazil SailGP Team",
+  "sport": "sailing",
+  "league": "sailgp",
+  "country": "Brazil",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "enel",
+      "name": "Enel",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "SailGP team page - Mubadala Brazil (Official Partner)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/teams/mubadala-brazil/"
+      }
+    },
+    {
+      "id": "mubadala",
+      "name": "Mubadala Investment Company",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": "mubadala",
+      "owner": "Mubadala Investment Company (Abu Dhabi sovereign fund)",
+      "verdict": null,
+      "source": {
+        "name": "SailGP team page - Mubadala Brazil (Title Partner)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/teams/mubadala-brazil/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "mubadala"
+  ],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "asc-ville-de-dakar",
+  "team": "ASC Ville de Dakar",
+  "sport": "basketball",
+  "league": "basketball-africa-league",
+  "country": "Senegal",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "visit-rwanda",
+      "name": "Visit Rwanda",
+      "placement": "league-partner",
+      "season": "2026",
+      "tier": "severe",
+      "ownerId": "government-of-rwanda",
+      "owner": "Government of Rwanda",
+      "verdict": "Paid for by a government that UN experts say has 3,000–4,000 troops fighting alongside M23 rebels in eastern Congo.",
+      "source": {
+        "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
+        "date": "2023-06-19",
+        "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
+        "note": "'Visit Rwanda will continue to be showcased on BAL team uniforms and at the BAL Combine' - league-wide branding on all 12 teams' uniforms, not a club-level shirt deal."
+      }
+    }
+  ],
+  "worstTier": "severe",
+  "owners": [
+    "government-of-rwanda"
+  ],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "rugby-south-africa",
+  "team": "South Africa",
+  "sport": "rugby",
+  "league": "world-rugby",
+  "country": "South Africa",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "castle-lager",
+      "name": "Castle",
+      "placement": "partner",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Union partners page",
+        "date": "2026-09-25",
+        "url": "https://www.springboks.rugby/partners/",
+        "note": "Principal Partner of the Springboks (springboks.rugby/partners)."
+      }
+    },
+    {
+      "id": "fnb",
+      "name": "FNB",
+      "placement": "partner",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Union partners page",
+        "date": "2026-09-25",
+        "url": "https://www.springboks.rugby/partners/",
+        "note": "Principal Partner of the Springboks (springboks.rugby/partners); shirt placement not stated on that page."
+      }
+    },
+    {
+      "id": "pick-n-pay",
+      "name": "Pick n Pay",
+      "placement": "partner",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Union partners page",
+        "date": "2026-09-25",
+        "url": "https://www.springboks.rugby/partners/",
+        "note": "Principal Partner of the Springboks (springboks.rugby/partners)."
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "hyflyers-gc",
+  "team": "HyFlyers GC",
+  "sport": "golf",
+  "league": "liv-golf",
+  "country": "International",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "new-era",
+      "name": "New Era",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - HyFlyers GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/hyflyers-gc"
+      }
+    },
+    {
+      "id": "primo-golf-apparel",
+      "name": "Primo Golf Apparel",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - HyFlyers GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/hyflyers-gc"
+      }
+    },
+    {
+      "id": "rolex",
+      "name": "Rolex",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": "rolex-sa",
+      "owner": "Rolex SA (Hans Wilsdorf Foundation)",
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - HyFlyers GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/hyflyers-gc"
+      }
+    },
+    {
+      "id": "vistajet",
+      "name": "VistaJet",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - HyFlyers GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/hyflyers-gc"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "rolex-sa"
+  ],
+  "lastUpdated": "2026-09-24"
+}

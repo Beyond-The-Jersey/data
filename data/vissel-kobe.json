@@ -1,0 +1,109 @@
+{
+  "id": "vissel-kobe",
+  "team": "Vissel Kobe",
+  "sport": "soccer",
+  "league": "afc",
+  "country": "Japan",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "bishop",
+      "name": "Bishop Retail Co.",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Vissel Kobe - uniform partners (2026/27)",
+        "date": "2026-09-25",
+        "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
+        "note": "Front (right collarbone): Bishop Retail Co. (4th season on the shirt)."
+      }
+    },
+    {
+      "id": "devis",
+      "name": "Devis Co., Ltd., new uniform partner from the 2026/27 season.",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Vissel Kobe - uniform partners (2026/27)",
+        "date": "2026-09-25",
+        "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
+        "note": "Front (left collarbone): Devis Co., Ltd., new uniform partner from the 2026/27 season."
+      }
+    },
+    {
+      "id": "kawasaki-heavy-industries",
+      "name": "Kawasaki Heavy Industries",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Vissel Kobe - uniform partners (2026/27)",
+        "date": "2026-09-25",
+        "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
+        "note": "Back: Kawasaki Heavy Industries (25th season; back placement since 2025)."
+      }
+    },
+    {
+      "id": "noevia",
+      "name": "Noevir",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Vissel Kobe - uniform partners (2026/27)",
+        "date": "2026-09-25",
+        "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
+        "note": "Left sleeve: Noevir (also names the home stadium)."
+      }
+    },
+    {
+      "id": "rakuten-group",
+      "name": "Rakuten Group, Inc.",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Vissel Kobe - uniform partners (2026/27)",
+        "date": "2026-09-25",
+        "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
+        "note": "Front (chest): Rakuten Group, Inc."
+      }
+    },
+    {
+      "id": "shuzet-holdings",
+      "name": "Shuzet Holdings",
+      "placement": "shorts",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Vissel Kobe - uniform partners (2026/27)",
+        "date": "2026-09-25",
+        "url": "https://www.vissel-kobe.co.jp/partner/uniform-partners/",
+        "note": "Below the back number / shorts front: Shuzet Holdings (12th season)."
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

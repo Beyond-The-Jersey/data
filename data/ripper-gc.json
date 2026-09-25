@@ -1,0 +1,73 @@
+{
+  "id": "ripper-gc",
+  "team": "Ripper GC",
+  "sport": "golf",
+  "league": "liv-golf",
+  "country": "Australia",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "airasia",
+      "name": "AirAsia",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Ripper GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/ripper-gc"
+      }
+    },
+    {
+      "id": "greyson",
+      "name": "Greyson Clothiers",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Ripper GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/ripper-gc"
+      }
+    },
+    {
+      "id": "hahn",
+      "name": "Hahn",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Ripper GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/ripper-gc"
+      }
+    },
+    {
+      "id": "new-era",
+      "name": "New Era",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Ripper GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/ripper-gc"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

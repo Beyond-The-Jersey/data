@@ -1,0 +1,29 @@
+{
+  "id": "rugby-england",
+  "team": "England",
+  "sport": "rugby",
+  "league": "world-rugby",
+  "country": "England",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "o2",
+      "name": "O2",
+      "placement": "partner",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "englandrugby.com header sponsor",
+        "date": "2026-09-25",
+        "url": "https://www.englandrugby.com/",
+        "note": "O2 sponsor logo shown in the englandrugby.com header; shirt placement not confirmed."
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

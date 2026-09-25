@@ -2249,6 +2249,326 @@
     "reviewed": true
   },
   {
+    "id": "atp-pif-sportswashing-debate-2024",
+    "ownerIds": [
+      "government-of-saudi-arabia",
+      "saudi-pif"
+    ],
+    "text": "Human-rights groups and former players publicly criticised the ATP's Saudi partnerships as sportswashing when PIF became the naming partner of the ATP Rankings in 2024, citing the kingdom's human-rights record.",
+    "short": "ATP's PIF deal called sportswashing",
+    "source": {
+      "name": "The Associated Press (via atptour-adjacent coverage)",
+      "date": "2024-08-15",
+      "url": "https://apnews.com/article/atp-pif-saudi-arabia-tennis-rankings-sponsor",
+      "note": "Coverage of the ATP-PIF rankings naming deal announcement."
+    },
+    "reviewed": true
+  },
+  {
+    "id": "rdf-ofac-designation-2026",
+    "ownerIds": [
+      "government-of-rwanda",
+      "rwanda-defence-force"
+    ],
+    "text": "On 2 March 2026 OFAC designated the Rwanda Defence Force (Ministry of Defence, Kigali) and four senior officials because 'The RDF is actively supporting, training, and fighting alongside the March 23 Movement (M23)', a US- and UN-sanctioned armed group in the DRC; the action followed M23's capture of Uvira days after the Washington Accords were signed.",
+    "short": "OFAC designated the Rwanda Defence Force over M23 support (2 Mar 2026)",
+    "source": {
+      "name": "US Treasury press release: Treasury Sanctions Rwanda Officials, Condemns Blatant Violations of Washington Peace Accords",
+      "date": "2026-03-02",
+      "url": "https://home.treasury.gov/news/press-releases/sb0411",
+      "note": "OFAC recent action of 2 Mar 2026 also lists the RDF SDN entry and DRC-related General License 1 (wind-down)."
+    },
+    "reviewed": true
+  },
+  {
+    "id": "rdf-hrw-occupation",
+    "ownerIds": [
+      "government-of-rwanda",
+      "rwanda-defence-force"
+    ],
+    "text": "Human Rights Watch documents a campaign of mass forced recruitment, arbitrary detention, torture and summary executions by M23 and Rwandan military forces in eastern DRC (mid-2024 through 2025), and concludes Rwanda 'exercises effective control over the area, meeting the legal threshold for belligerent occupation'; hundreds, perhaps more, died in the camps.",
+    "short": "HRW: mass detention, killings, forced recruitment by M23 and Rwandan forces",
+    "source": {
+      "name": "Human Rights Watch - 'Death Was Everywhere': Arbitrary Detention, Killings, and Forced Recruitment by the M23 and the Rwanda Defence Force",
+      "date": "2026-06-10",
+      "url": "https://www.hrw.org/report/2026/06/10/death-was-everywhere/arbitrary-detention-killings-and-forced-recruitment-by-the"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "apr-withdrawal-sanctions",
+    "ownerIds": [
+      "rwanda-defence-force",
+      "government-of-rwanda"
+    ],
+    "text": "APR - the Rwandan champions, owned and funded by Rwanda's Ministry of Defence (Wikipedia APR BBC; OFAC lists the RDF under the Ministry of Defence) - withdrew from the 2026 BAL on 12 March 2026 because the US had sanctioned the Rwandan military and NBA Africa is an American entity; FERWABA named RSSB Tigers as the replacement on 20 March 2026.",
+    "short": "APR withdrew from BAL 2026 after US sanctions on the RDF",
+    "source": {
+      "name": "Wikipedia - 2026 BAL season (withdrawal and replacement dates; lead only, needs a primary source)",
+      "date": "2026-09-25",
+      "url": "https://en.wikipedia.org/wiki/2026_BAL_season"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "zuffa-boxing-ali-act-lobbying",
+    "ownerIds": [
+      "zuffa-boxing-jv",
+      "saudi-pif",
+      "government-of-saudi-arabia"
+    ],
+    "text": "Zuffa Boxing and its allies lobbied for the Muhammad Ali Boxing Revival Act, which would let a 'Unified Boxing Organization' combine promotion, rankings and titles - removing Ali Act protections that separate promoters from sanctioning bodies. Thomas Hauser reports Zuffa's fighter contracts are less generous than the purses Turki Alalshikh had paid, and the Guardian's Karim Zidan writes the bill 'paves the way for Saudi to bypass established sanctioning bodies, undermine existing promoters, and ultimately, gut professional boxing'.",
+    "short": "Zuffa Boxing backed a US bill that would let it act as promoter, ranking body and title owner at once, weakening Ali Act fighter protections.",
+    "source": {
+      "name": "The Guardian - Thomas Hauser, 'Zuffa Boxing says it will save the sport - but the fine print shows that fighters may pay the price' (28 Jan 2026); Karim Zidan, 'How the Ali Act overhaul is clearing the path for a Saudi-backed takeover of boxing' (1 Aug 2025)",
+      "date": "2026-01-28",
+      "url": "https://www.theguardian.com/sport/2026/jan/28/zuffa-boxing-contract-dana-white-reform",
+      "note": "Second article: https://www.theguardian.com/sport/2025/aug/01/ali-act-saudi-boxing-reform-tko-zuffa-congress. The House passed the bill by voice vote on 24 Mar 2026 (ESPN, Michael Rothstein); Senate pending."
+    },
+    "reviewed": true
+  },
+  {
+    "id": "dp-world-tour-uae-record",
+    "ownerIds": [
+      "uae",
+      "government-of-dubai",
+      "dubai-world-corporation"
+    ],
+    "text": "DP World's ultimate owner is the Government of Dubai, whose federation, the UAE, sentenced 43 activists and dissidents to life imprisonment in a 2024 mass trial that rights groups called grossly unfair; the Federal Supreme Court upheld the convictions in March 2025.",
+    "short": "Government of Dubai owns DP World; UAE mass-trial life sentences upheld in 2025",
+    "source": {
+      "name": "DP World Annual Report 2025 (ownership) + Human Rights Watch (mass trial and upheld convictions)",
+      "date": "2026 / 2025-03-04",
+      "url": "https://www.hrw.org/news/2025/03/04/uae-unfair-mass-trial-convictions-upheld",
+      "note": "Ownership from DP World Limited's FY2025 annual report (dp-world-ownership claim in normalized/claims.json); mass-trial facts from HRW."
+    },
+    "reviewed": true
+  },
+  {
+    "id": "dp-world-tour-bahrain-record",
+    "ownerIds": [
+      "government-of-bahrain"
+    ],
+    "text": "Bapco Energies is Bahrain's national integrated energy company, fronting the Kingdom's name on a DP World Tour event, while Human Rights Watch reports that in 2026 Bahraini authorities arbitrarily arrested dozens of people, that Mohammed Almosawi died in custody with signs of torture after being forcibly disappeared, and that 67 people had their citizenship stripped.",
+    "short": "Bahrain state energy company titles a tour event; HRW documents 2026 arrests, a death in custody, citizenship-stripping",
+    "source": {
+      "name": "Human Rights Watch - Bahrain country page",
+      "date": "2026",
+      "url": "https://www.hrw.org/middle-east/north-africa/bahrain"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "dp-world-tour-qatar-record",
+    "ownerIds": [
+      "government-of-qatar"
+    ],
+    "text": "The Qatar Masters is organised by the Qatar Golf Association, whose president credited the Qatar Olympic Committee's support; Amnesty International reports that Qatar's migrant workers remain exposed to exploitation despite kafala reform and that expression and assembly are tightly restricted.",
+    "short": "Qatar Masters run by the state golf federation; Amnesty documents migrant-worker exploitation and restricted expression",
+    "source": {
+      "name": "DP World Tour news (QGA launch announcement) + Amnesty International - Human rights in Qatar",
+      "date": "2026-01-15",
+      "url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/qatar/report-qatar"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "ewcf-pif-funded",
+    "ownerIds": [
+      "esports-foundation",
+      "saudi-pif",
+      "government-of-saudi-arabia"
+    ],
+    "text": "The Esports World Cup Foundation describes itself as a non-profit not owned by the Saudi state but funded through a sports grant from the Public Investment Fund; the Saudi cabinet named Crown Prince Mohammed bin Salman chair of its board of trustees on 2 Sep 2025.",
+    "source": {
+      "name": "The Esports Advocate",
+      "date": "2025-09-03",
+      "url": "https://esportsadvocate.net/2025/09/hrh-crown-prince-mbs-named-board-of-trustees-chair-for-esports-world-cup-foundation/",
+      "note": "Cites Saudi state media on the cabinet decision; also notes MBS chairs the board of PIF-owned Savvy Games Group."
+    },
+    "reviewed": true
+  },
+  {
+    "id": "ewc-sportswashing-criticism",
+    "ownerIds": [
+      "esports-foundation",
+      "saudi-pif",
+      "government-of-saudi-arabia"
+    ],
+    "text": "Critics and participants have framed the Esports World Cup as a Saudi sportswashing project: GeoGuessr map creators blacked out their maps in protest, calling the tournament 'a sportswashing tool used by the government of Saudi Arabia to distract from and conceal its horrific human rights record', and GamesBeat reports the event is 'frequently framed' this way.",
+    "source": {
+      "name": "Engadget",
+      "date": "2025-05-21",
+      "url": "https://www.engadget.com/gaming/geoguessr-community-maps-go-dark-in-protest-of-ewc-ties-to-human-rights-abuses-221037118.html",
+      "note": "GeoGuessr AB later withdrew from EWC 2025; GamesBeat (2026-05-14) carries the same sportswashing framing."
+    },
+    "reviewed": true
+  },
+  {
+    "id": "saudi-executions-2026-record",
+    "ownerIds": [
+      "government-of-saudi-arabia",
+      "saudi-pif",
+      "esports-foundation",
+      "savvy-games-group"
+    ],
+    "text": "Saudi authorities carried out an unprecedented surge in executions after trials that were likely unfair, executing at least 322 individuals as of early December 2025, exceeding prior execution records.",
+    "source": {
+      "name": "Human Rights Watch, World Report 2026: Saudi Arabia",
+      "date": "2026-02-04",
+      "url": "https://www.hrw.org/world-report/2026/country-chapters/saudi-arabia",
+      "note": "Also records the June 2025 execution of journalist Turki al-Jasser after a secret trial, and continued imprisonment of critics."
+    },
+    "reviewed": true
+  },
+  {
+    "id": "saudi-visitors-detained-2026",
+    "ownerIds": [
+      "government-of-saudi-arabia",
+      "saudi-pif"
+    ],
+    "text": "Amnesty International and ALQST documented eight people, mostly from Global South and Middle Eastern countries, arrested in Saudi Arabia during visits between July 2022 and late 2025 for social media posts, some subjected to prolonged arbitrary detention or grossly unfair trials.",
+    "source": {
+      "name": "Amnesty International",
+      "date": "2026-06",
+      "url": "https://www.amnesty.org/en/latest/news/2026/06/saudi-arabia-visitors-to-saudi-arabia-imprisoned-for-social-media-posts/",
+      "note": "Relevant to EWC's international fan and player audience: visitors, not residents, have been detained over expression."
+    },
+    "reviewed": true
+  },
+  {
+    "id": "pif-giga-labour-abuses",
+    "ownerIds": [
+      "saudi-pif",
+      "government-of-saudi-arabia",
+      "qiddiya"
+    ],
+    "text": "Human Rights Watch found that PIF-funded businesses and projects are among those exploiting and abusing migrant workers in Saudi Arabia's giga-project construction, including at NEOM, as Vision 2030 projects scale up toward the 2034 FIFA World Cup.",
+    "source": {
+      "name": "Human Rights Watch, 'Die First, and I'll Pay You Later': Saudi Arabia's 'Giga-Projects' Built on Widespread Labor Abuses",
+      "date": "2024-12-04",
+      "url": "https://www.hrw.org/report/2024/12/04/die-first-and-ill-pay-you-later/saudi-arabias-giga-projects-built-widespread",
+      "note": "Qiddiya itself is not a case study in the report, but the report's finding covers PIF-funded giga-project construction generally; Qiddiya is a PIF giga-project."
+    },
+    "reviewed": true
+  },
+  {
+    "id": "ewcf-vision2030-announcement",
+    "ownerIds": [
+      "esports-foundation",
+      "government-of-saudi-arabia"
+    ],
+    "text": "The Esports World Cup and the Esports World Cup Foundation were announced by Crown Prince Mohammed bin Salman as part of Saudi Arabia's National Gaming and Esports Strategy and Vision 2030, aiming to add more than SAR 50 billion to GDP and create 39,000 jobs by 2030.",
+    "source": {
+      "name": "Esports World Cup - HRH Crown Prince announces Esports World Cup (official)",
+      "date": "2023-10-23",
+      "url": "https://esportsworldcup.com/en/news/hrh-crown-prince-announces-esports-world-cup",
+      "note": "The foundation is a state project by the crown prince's own announcement; page dated Jul 31, 2023 in the header, announcement text dated Riyadh, October 23, 2023."
+    },
+    "reviewed": true
+  },
+  {
+    "id": "uae-mass-trial-2024-euroleague",
+    "ownerIds": [
+      "uae",
+      "government-of-abu-dhabi",
+      "government-of-dubai"
+    ],
+    "text": "In July 2024, 43 UAE activists and human-rights defenders received sentences of up to life imprisonment in a single mass trial that Human Rights Watch called flagrantly unfair; in March 2025 an appeals court upheld the convictions.",
+    "short": "UAE: 43 life sentences in an unfair mass trial (HRW, 2024)",
+    "source": {
+      "name": "Human Rights Watch",
+      "date": "2024-07-10",
+      "url": "https://www.hrw.org/news/2024/07/10/uae-unfair-trial-unjust-sentences"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "fa-cup-emirates-ownership",
+    "ownerIds": [
+      "government-of-dubai",
+      "uae"
+    ],
+    "text": "The Emirates Group, Emirates airline's parent, is owned by the Investment Corporation of Dubai, 'Dubai's sovereign wealth fund'; Dubai gave Emirates about $4 billion in bailout funds during the pandemic, of which $3.6 billion has been repaid.",
+    "short": "Emirates' parent is owned by Dubai's sovereign wealth fund.",
+    "source": {
+      "name": "Associated Press (via NY1), 'Long-haul carrier Emirates reports record annual profit of $5.2 billion'",
+      "date": "2025-05-08",
+      "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2025/05/08/long-haul-carrier-emirates-reports-record-annual-profit-of-52-billion"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "fa-cup-carling-ownership",
+    "ownerIds": [
+      "molson-coors"
+    ],
+    "text": "Carling is one of Molson Coors' core power brands, named alongside Coors Light, Miller Lite, Coors Banquet, Molson Canadian and Ozujsko on the company's own About page.",
+    "short": "Carling is a Molson Coors core power brand.",
+    "source": {
+      "name": "Molson Coors Beverage Company - About",
+      "date": "2026",
+      "url": "https://www.molsoncoors.com/about"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "fa-cup-mitre-ownership",
+    "ownerIds": [
+      "pentland-group"
+    ],
+    "text": "Pentland Group describes itself as 'a family business building and delivering positive brands in sports, outdoor and fashion' with annual sales of $8 billion; its Pentland Brands arm 'owns Speedo, Berghaus, Canterbury, Endura, ellesse, SeaVees, Red Or Dead and Mitre'.",
+    "short": "Mitre is owned by Pentland Brands, part of family-owned Pentland Group.",
+    "source": {
+      "name": "Pentland Group - About Us",
+      "date": "2026",
+      "url": "https://pentlandgroup.com/about-us/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "fa-cup-clearscore-ownership",
+    "ownerIds": [
+      "clearscore-group"
+    ],
+    "text": "ClearScore states it is 'Part of The ClearScore Group' and that it 'was founded in the UK in 2015'; the group is privately held with no disclosed state or state-fund owner.",
+    "short": "ClearScore is part of the privately held ClearScore Group.",
+    "source": {
+      "name": "ClearScore - About Us",
+      "date": "2026",
+      "url": "https://www.clearscore.com/about-us"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "chery-state-shareholders",
+    "ownerIds": [
+      "chery-automobile"
+    ],
+    "text": "Chery Automobile's HKEX prospectus (17 Sep 2025) shows state entities held about 34.7% of the company before its September 2025 IPO and about 34.5% after the partial over-allotment exercise: Wuhu Investment Holding 20.08% at listing (single largest shareholder; itself owned 95.59% by Wuhu SASAC and 4.41% by the Anhui Provincial Department of Finance), Anhui Credit Guaranty 9.46% (wholly owned by the People's Government of Anhui Province) and Anhui Investment Holding 4.93% (wholly owned by Anhui SASAC). The prospectus states the company has 22 shareholders with a dispersed structure and is not a state-owned, state-controlled or state-actually-controlled enterprise under the PRC state-asset supervision measures.",
+    "source": {
+      "name": "Chery Automobile Co., Ltd. - HKEX Global Offering prospectus",
+      "date": "2025-09-17",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0917/2025091700013.pdf",
+      "note": "History, Development and Corporate Structure section (shareholding tables) and 'Our Single Largest Shareholder'."
+    },
+    "reviewed": true
+  },
+  {
+    "id": "yili-largest-shareholder",
+    "ownerIds": [
+      "yili-group"
+    ],
+    "text": "Yili Industrial Group's 2025 annual report (30 Apr 2026) names Hohhot Investment Co., Ltd. as its largest shareholder with 538,535,826 shares, 8.51%, shareholder type 'state legal person' (国有法人), and states the company has no controlling shareholder and no actual controller.",
+    "source": {
+      "name": "Inner Mongolia Yili Industrial Group - 2025 Annual Report (cninfo)",
+      "date": "2026-04-30",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225259562.PDF",
+      "note": "Section 'Shareholders and actual controller', top-ten shareholders table and no-controlling-shareholder statement."
+    },
+    "reviewed": true
+  },
+  {
     "id": "ihc-record",
     "ownerIds": [
       "international-holding-company",
@@ -2287,6 +2607,166 @@
       "name": "COFCO Corporation - About COFCO",
       "date": "2025",
       "url": "https://www.cofco.com/en/AboutCOFCO/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "saudicup-2026-presenter-names",
+    "ownerIds": [
+      "jockey-club-of-saudi-arabia"
+    ],
+    "text": "The Jockey Club of Saudi Arabia organises the Saudi Cup meeting at King Abdulaziz Racecourse, Riyadh; the 2026 card carried presenting partners Qiddiya City (1351 Turf Sprint, $2m), Saudi National Bank (Riyadh Dirt Sprint, $2m), Howden (Neom Turf Cup, $3m), Longines (Red Sea Turf Handicap, $2.5m), ZOOD Realty (Saudi Derby, $1.5m) and SHG (Tuwaiq Cup, $1m), with the $20m Saudi Cup itself unsponsored.",
+    "short": "Saudi Cup 2026 race presenters: Qiddiya City, SNB, Howden, Longines, ZOOD Realty, SHG",
+    "source": {
+      "name": "Thoroughbred Daily News race entries; JCSA race reports of 14 Feb 2026",
+      "date": "2026-02",
+      "url": "https://www.thoroughbreddailynews.com/black-type-analysis-can-shin-emperor-double-up-in-neom-turf-cup-2/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "jcsa-1965-royal-decree",
+    "ownerIds": [
+      "jockey-club-of-saudi-arabia",
+      "government-of-saudi-arabia"
+    ],
+    "text": "The Jockey Club of Saudi Arabia was established in 1965 and 'is tasked with the organisation, development and promotion of Saudi Arabian horseracing at domestic and international level'; its history page records that a Royal Decree from King Faisal Bin Abdulaziz entrusted the presidency to Prince Abdullah Bin Abdulaziz.",
+    "short": "JCSA established 1965 under a royal decree",
+    "source": {
+      "name": "Jockey Club of Saudi Arabia website (footer) and JCSA history page",
+      "date": "2026-09-25",
+      "url": "https://www.jcsa.sa/en/aboutjcsa/history2/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "dwc2026-emirates-purse",
+    "ownerIds": [
+      "government-of-dubai"
+    ],
+    "text": "The 2026 Dubai World Cup (30th running, 28 March 2026, Meydan) carried a $12 million purse 'sponsored by Emirates'; the meeting's total purse is US$30.5 million across nine races, organised by Dubai Racing Club.",
+    "short": "2026 Dubai World Cup $12m purse sponsored by Emirates",
+    "source": {
+      "name": "Emirates 24|7 (race report); Dubai Racing Club (meeting purse and organiser)",
+      "date": "2026-03-29",
+      "url": "https://www.emirates247.com/sports/magnitude-wins-dubai-world-cup-2026-at-meydan-racecourse/553"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "arc-qrec-partner",
+    "ownerIds": [
+      "qrec",
+      "government-of-qatar"
+    ],
+    "text": "QREC has been the title sponsor of the Qatar Prix de l'Arc de Triomphe since 2008, alongside 14 other French Group races and the Qatar Arabian World Cup (since 2014); the 2026 Arc (3-4 October 2026, ParisLongchamp) carries a EUR 5 million purse, and QREC operates on the Qatari state domain qrec.gov.qa.",
+    "short": "QREC title sponsor of the Arc since 2008 (EUR 5m race)",
+    "source": {
+      "name": "France Galop - Our Partners; France Galop ticketing (QREC official partner)",
+      "date": "2026-09-25",
+      "url": "https://www.france-galop.com/en/ours-partners"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "bcd-qatar-racing-2026",
+    "ownerIds": [
+      "qipco"
+    ],
+    "text": "Qatar Racing, 'the global horse racing and breeding operation of the QIPCO group' led by HH Sheikh Fahad Al Thani, became title sponsor of British Champions Day on 4 August 2026 for three years, with individual sponsorship of all seven races, succeeding its parent company QIPCO, chaired by his brother HH Sheikh Hamad Al Thani.",
+    "short": "Qatar Racing replaces parent QIPCO as British Champions Day title sponsor (3 years)",
+    "source": {
+      "name": "British Champions Day (official announcement)",
+      "date": "2026-08-04",
+      "url": "https://britishchampionsday.com/2026/08/04/qatar-racing-to-become-title-sponsor-of-british-champions-day/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "bcd-qipco-2011-2028",
+    "ownerIds": [
+      "qipco"
+    ],
+    "text": "Qatar Holdings and Investment Company (QIPCO) has sponsored British Champions Day since its inaugural running in 2011 and on 22 June 2026 extended its sponsorship until 2028.",
+    "short": "QIPCO sponsored British Champions Day since 2011, extended to 2028",
+    "source": {
+      "name": "British Champions Day (official announcement)",
+      "date": "2026-06-22",
+      "url": "https://britishchampionsday.com/2026/06/22/qipco-extends-british-champions-day-sponsorship-to-2028/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "goodwood-visit-qatar-2026",
+    "ownerIds": [
+      "government-of-qatar"
+    ],
+    "text": "The 2026 Qatar Goodwood Festival was 'presented by Visit Qatar' (the consumer brand of Qatar Tourism), running five days from 28 July to 1 August 2026, with Visit Qatar and Qatar branding on individual races (Visit Qatar Sussex Stakes, Qatar Nassau Stakes, King George Qatar Stakes).",
+    "short": "Visit Qatar presenting partner of the 2026 Qatar Goodwood Festival",
+    "source": {
+      "name": "Goodwood Racecourse (official horseracing pages)",
+      "date": "2026",
+      "url": "https://www.goodwood.com/horseracing/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "poules-adsc-2026",
+    "ownerIds": [
+      "government-of-abu-dhabi"
+    ],
+    "text": "The Abu Dhabi Sports Council, 'founded in 2006 by the crown prince of Abu Dhabi, Sheikh Mohamed bin Zayed Al Nahyan', is the naming sponsor of the Emirates Poules d'Essai (Emirates Poule d'Essai des Poulains and des Pouliches, 10 May 2026, ParisLongchamp) through the UAE President Cup series.",
+    "short": "Abu Dhabi Sports Council names the Emirates Poules d'Essai (French Guineas)",
+    "source": {
+      "name": "France Galop ticketing - Emirates Poules d'Essai; France Galop - Our Partners",
+      "date": "2026-09-25",
+      "url": "https://billetterie.france-galop.com/en/event/emirates-poules-dessai/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "snb-pif-controlling-party",
+    "ownerIds": [
+      "saudi-national-bank",
+      "saudi-pif"
+    ],
+    "text": "Saudi National Bank's 2025 annual report states 'The ultimate controlling party is the Public Investment Fund \"PIF\", ultimately owned by the Saudi government', with PIF holding 37.2% (2,234,257,917 shares) at 31 December 2025.",
+    "short": "PIF is SNB's ultimate controlling party with 37.2%",
+    "source": {
+      "name": "Saudi National Bank Annual Report 2025 (corporate governance and financial statements)",
+      "date": "2026",
+      "url": "https://www.alahli.com/-/jssmedia/project/snb/snb-web/about-us/02-9-previous-annual-reports/annual-reports-pdfs-en/snb-annual-report-2025-en.pdf?view=1"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "dp-world-ownership",
+    "ownerIds": [
+      "dp-world-limited",
+      "port-free-zone-world",
+      "dubai-world-corporation",
+      "government-of-dubai"
+    ],
+    "text": "DP World Limited's audited FY2025 financial statements state that Port & Free Zone World FZE ('PFZW'), a wholly owned subsidiary of Dubai World Corporation, holds 100% of the company's issued and outstanding share capital, and that the Government of Dubai is the ultimate owner of the group.",
+    "source": {
+      "name": "DP World Annual Report 2025 (consolidated financial statements), DP World Limited, DIFC, year ended 31 December 2025",
+      "date": "2026",
+      "url": "https://dpw-p-001.sitecorecontenthub.cloud/api/public/content/58b211cb1aad4263be87f0d33fd0993f?v=b2febf77"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "uae-repression-context-icc",
+    "ownerIds": [
+      "uae",
+      "government-of-dubai",
+      "dubai-world-corporation"
+    ],
+    "text": "Two ICC Premier Partners sit at the top of chains that end with the Government of Dubai (Emirates, via the Dubai government's investment arm; DP World, whose ultimate owner the company states is the Government of Dubai). Human Rights Watch documented that in 2024 a UAE court sentenced 43 Emirati activists and dissidents to life imprisonment after a mass trial, and that the Federal Supreme Court upheld the convictions in March 2025.",
+    "source": {
+      "name": "Human Rights Watch: UAE: 43 Life Sentences in 'Flagrant Injustice' (mass trial) and follow-up on upheld convictions",
+      "date": "2025-03-04",
+      "url": "https://www.hrw.org/news/2024/07/23/uae-43-life-sentences-flagrant-injustice"
     },
     "reviewed": true
   },
@@ -2384,6 +2864,96 @@
       "name": "Human Rights Watch — Democratic Republic of Congo country page",
       "date": "2026",
       "url": "https://www.hrw.org/africa/democratic-republic-congo"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "liv-pif-funding",
+    "ownerIds": [
+      "saudi-pif",
+      "government-of-saudi-arabia"
+    ],
+    "text": "Saudi Arabia's Public Investment Fund has bankrolled LIV Golf since its 2022 launch and said on 30 April 2026 that the 'substantial investment required is no longer consistent' with its strategy and that it will stop funding the league at the end of the 2026 season; reported spend is c. $5bn to date, rising to c. $6bn by the end of 2026, and PIF governor and LIV chairman Yasir Al-Rumayyan is expected to step down.",
+    "short": "PIF has funded LIV Golf since 2022 and is ending its funding after the 2026 season (c. $5-6bn reported spend).",
+    "source": {
+      "name": "Sky Sports",
+      "date": "2026-04-30",
+      "url": "https://www.skysports.com/golf/news/12176/13538273/liv-golf-major-changes-with-saudi-arabia-set-to-end-funding-of-league-starring-bryson-dechambeau-and-jon-rahm"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "liv-lead-investor-2027",
+    "ownerIds": [
+      "saudi-pif",
+      "government-of-saudi-arabia"
+    ],
+    "text": "In August 2026 LIV Golf announced an agreement with an unnamed lead investor that will 'carry and fund' the league from 2027, with players set to become majority equity holders ('LIV Golf 2.0') and seasons through 2030 affirmed; the investor's identity and terms were not disclosed.",
+    "short": "LIV Golf's unnamed 2027 lead investor and planned player majority ownership (announced August 2026).",
+    "source": {
+      "name": "LIV Golf - LIV Golf reaches agreement with lead investor for its next era",
+      "date": "2026-08",
+      "url": "https://www.livgolf.com/news/liv-golf-reaches-agreement-with-lead-investor-for-its-next-era"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "roshn-ownership",
+    "ownerIds": [
+      "roshn",
+      "saudi-pif",
+      "government-of-saudi-arabia"
+    ],
+    "text": "ROSHN Group describes itself as 'Saudi Arabia's leading multi-asset class real estate developer and a Public Investment Fund (PIF company)' in its own press release naming it Title Partner of LIV Golf Riyadh 2026.",
+    "short": "ROSHN is a PIF company (its own press release).",
+    "source": {
+      "name": "ROSHN Group press release",
+      "date": "2026-01-05",
+      "url": "https://www.roshn.sa/news-and-events/press-releases/article-96"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "bahri-ownership",
+    "ownerIds": [
+      "saudi-pif",
+      "government-of-saudi-arabia"
+    ],
+    "text": "The Public Investment Fund holds a 22.55 percent stake in Bahri (National Shipping Company of Saudi Arabia) and 20 percent is held by Saudi Aramco Development Company, with the remainder in public shares.",
+    "short": "PIF holds 22.55% of Bahri; Saudi Aramco Development Company holds 20%.",
+    "source": {
+      "name": "AGBI (Arab Gulf Business Insight) company profile",
+      "date": "2025-05-08",
+      "url": "https://www.agbi.com/companies/bahri-company/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "liv-michigan-cancelled",
+    "ownerIds": [
+      "saudi-pif",
+      "government-of-saudi-arabia"
+    ],
+    "text": "LIV Golf confirmed on 17 August 2026 that the Aramco LIV Golf Michigan Team Championship (Aug 27-30, The Cardinal at Saint John's Resort) 'will not take place', making Indianapolis the 2026 season finale - weeks after PIF said it would stop funding the league at season's end.",
+    "short": "LIV cancelled the Aramco Team Championship in Michigan in August 2026.",
+    "source": {
+      "name": "Sky Sports",
+      "date": "2026-08-17",
+      "url": "https://www.skysports.com/golf/news/12176/13574162/liv-golf-confirms-season-ending-team-championship-event-in-michigan-cancelled-with-2026-winner-to-be-crowned-a-week-earlier"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "indonesia-hrw-record",
+    "ownerIds": [
+      "government-of-indonesia"
+    ],
+    "text": "Human Rights Watch's 2026 world report records that President Prabowo expanded the military and placed active-duty personnel in civilian posts in his first year; in Papua, the Merauke food estate project forcibly displaced Indigenous communities and drove deforestation alongside the deployment of five new battalions; and in August 2025 police used excessive force to disperse protesters across 107 cities.",
+    "short": "Indonesia: military in civilian posts, Papua displacement and deforestation, excessive force against 2025 protesters",
+    "source": {
+      "name": "Human Rights Watch - World Report 2026, Indonesia chapter",
+      "date": "2026-01-15",
+      "url": "https://www.hrw.org/world-report/2026/country-chapters/indonesia"
     },
     "reviewed": true
   },
@@ -2752,6 +3322,35 @@
     "reviewed": true
   },
   {
+    "id": "qsi-premier-padel-founder",
+    "ownerIds": [
+      "qatar-sports-investments"
+    ],
+    "text": "Premier Padel was founded by Qatar Sports Investments (QSI) together with the International Padel Federation (FIP) and the Professional Padel Association, and launched in 2022; in August 2023 QSI acquired World Padel Tour to create a single global tour governed by FIP. QSI is wholly owned by the Qatar Investment Authority.",
+    "short": "QSI founded and owns Premier Padel",
+    "source": {
+      "name": "Premier Padel - Premier Padel announces multi-year partnership with Qatar Airways",
+      "date": "2024-06-13",
+      "url": "https://premierpadel.com/en/news/premier-padel-announces-multi-year-partnership-with-qatar-airways-2"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "hexagon-54-lead-investor",
+    "ownerIds": [
+      "saudi-pif",
+      "government-of-saudi-arabia"
+    ],
+    "text": "54, the sports and entertainment agency owned by Saudi Arabia's Public Investment Fund (PIF), was named lead investor in the Hexagon World Series, a new FIP-governed team padel circuit; SportBusiness called it Saudi Arabia's first major investment move into padel. FIP's own release describes 54's investment without using the phrase 'lead investor' and does not mention PIF.",
+    "short": "54, owned by Saudi PIF, is lead investor in the Hexagon World Series",
+    "source": {
+      "name": "SportBusiness (via Wayback Machine) - PIF enters padel as 54 gets new Hexagon event remit",
+      "date": "2025-12-17",
+      "url": "http://web.archive.org/web/20251220180832/https://www.sportbusiness.com/news/pif-enters-padel-as-54-gets-new-hexagon-event-remit/"
+    },
+    "reviewed": true
+  },
+  {
     "id": "gov-saudi-arabia-record",
     "ownerIds": [
       "government-of-saudi-arabia"
@@ -2845,6 +3444,51 @@
       "name": "Amnesty International - Human rights in Qatar (country report)",
       "date": "2026-01-15",
       "url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/qatar/report-qatar"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "amnesty-rwanda-sportswashing-2026",
+    "ownerIds": [
+      "government-of-rwanda"
+    ],
+    "text": "Amnesty International's British head of campaigns, Felix Jakens, warned that Rwanda is using its Aston Villa sponsorship to sportswash a record of arbitrary detention, torture and repression of free speech, and is fuelling conflict in eastern Congo through its support for M23 rebels and its military's actions there.",
+    "short": "Amnesty: Villa's Visit Rwanda deal is sportswashing",
+    "source": {
+      "name": "Morning Star (PA quotes, Amnesty International)",
+      "date": "2026-07-15",
+      "url": "https://morningstaronline.co.uk/article/amnesty-international-warns-rwanda-sportswashing-villa-sponsorship"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "wta-pif-saudi-criticism-2024",
+    "ownerIds": [
+      "government-of-saudi-arabia",
+      "saudi-pif"
+    ],
+    "text": "Chris Evert and Martina Navratilova urged the WTA to stay out of Saudi Arabia, citing rights groups' claims about the treatment of women and taboos around homosexuality, as the PIF partnership was announced.",
+    "short": "Evert and Navratilova urged the WTA to stay out of Saudi Arabia",
+    "source": {
+      "name": "Tennis.com",
+      "date": "2024-05-20",
+      "url": "https://www.tennis.com/news/articles/saudi-arabia-pif-becomes-first-naming-rights-partner-wta-rankings-multiyear-deal",
+      "note": "Announcement coverage of the PIF WTA rankings naming deal; also notes Billie Jean King advocated engagement."
+    },
+    "reviewed": true
+  },
+  {
+    "id": "wwe-crown-jewel-2018-khashoggi",
+    "ownerIds": [
+      "government-of-saudi-arabia"
+    ],
+    "text": "Weeks after the killing of journalist Jamal Khashoggi at the Saudi consulate in Istanbul, WWE decided to uphold its contractual obligations to the Saudi General Sports Authority and stage its November 2018 Riyadh event (Crown Jewel).",
+    "short": "WWE staged Crown Jewel 2018 in Riyadh weeks after the Khashoggi killing",
+    "source": {
+      "name": "WWE Q3 2018 earnings release",
+      "date": "2018-10-25",
+      "url": "https://corporate.wwe.com/about/news/2018/10-25-2018",
+      "note": "'Considering the heinous crime committed at the Saudi consulate in Istanbul the Company faced a very difficult decision... the Company has decided to uphold its contractual obligations to the General Sports Authority and stage the event.' Full-year 2018 guidance was predicated on staging the Riyadh event."
     },
     "reviewed": true
   },

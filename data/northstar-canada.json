@@ -1,0 +1,58 @@
+{
+  "id": "northstar-canada",
+  "team": "NorthStar SailGP Team",
+  "sport": "sailing",
+  "league": "sailgp",
+  "country": "Canada",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "butterfield",
+      "name": "Butterfield",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "SailGP team page - NorthStar Canada (Official Partners)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/teams/canada/"
+      }
+    },
+    {
+      "id": "flyhouse",
+      "name": "FlyHouse",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "SailGP team page - NorthStar Canada (Team Suppliers)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/teams/canada/"
+      }
+    },
+    {
+      "id": "juvenescence",
+      "name": "Juvenescence",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "SailGP team page - NorthStar Canada (Official Partners)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/teams/canada/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

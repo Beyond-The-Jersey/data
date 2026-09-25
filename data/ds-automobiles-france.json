@@ -1,0 +1,43 @@
+{
+  "id": "ds-automobiles-france",
+  "team": "DS Automobiles SailGP Team France",
+  "sport": "sailing",
+  "league": "sailgp",
+  "country": "France",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "accor",
+      "name": "Accor (ALL - Accor Live Limitless)",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "SailGP team page - France (Global Partners: ALL - Accor Live Limitless)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/teams/france/"
+      }
+    },
+    {
+      "id": "ds-automobiles",
+      "name": "DS Automobiles",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "SailGP team page - DS Automobiles France (Title Partner)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/teams/france/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

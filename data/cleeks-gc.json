@@ -1,0 +1,43 @@
+{
+  "id": "cleeks-gc",
+  "team": "Cleeks Golf Club",
+  "sport": "golf",
+  "league": "liv-golf",
+  "country": "International",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "icelandic-glacial",
+      "name": "Icelandic Glacial",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Cleeks GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/cleeks-gc"
+      }
+    },
+    {
+      "id": "new-era",
+      "name": "New Era",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Cleeks GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/cleeks-gc"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

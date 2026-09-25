@@ -1,0 +1,139 @@
+{
+  "id": "crushers-gc",
+  "team": "Crushers GC",
+  "sport": "golf",
+  "league": "liv-golf",
+  "country": "International",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "google-cloud",
+      "name": "Google Cloud",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": "alphabet-inc",
+      "owner": "Alphabet Inc.",
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Crushers GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/crushers-gc"
+      }
+    },
+    {
+      "id": "hsbc",
+      "name": "HSBC",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": "hsbc-holdings",
+      "owner": "HSBC Holdings plc",
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Crushers GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/crushers-gc"
+      }
+    },
+    {
+      "id": "kalshi",
+      "name": "Kalshi",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Crushers GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/crushers-gc"
+      }
+    },
+    {
+      "id": "new-era",
+      "name": "New Era",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Crushers GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/crushers-gc"
+      }
+    },
+    {
+      "id": "qualcomm",
+      "name": "Qualcomm Snapdragon",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "qualcomm",
+      "owner": "Qualcomm Incorporated (Nasdaq-listed)",
+      "verdict": "Owned by QUALCOMM Incorporated. Nothing found.",
+      "source": {
+        "name": "LIV Golf - Crushers GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/crushers-gc"
+      }
+    },
+    {
+      "id": "reebok",
+      "name": "Reebok",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": "authentic-brands-group",
+      "owner": "Authentic Brands Group",
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Crushers GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/crushers-gc"
+      }
+    },
+    {
+      "id": "salesforce",
+      "name": "Salesforce",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "salesforce-inc",
+      "owner": "Salesforce, Inc.",
+      "verdict": "Owned by Salesforce, Inc.. Nothing found.",
+      "source": {
+        "name": "LIV Golf - Crushers GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/crushers-gc"
+      }
+    },
+    {
+      "id": "underdog",
+      "name": "Underdog",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Crushers GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/crushers-gc"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "alphabet-inc",
+    "authentic-brands-group",
+    "hsbc-holdings",
+    "qualcomm",
+    "salesforce-inc"
+  ],
+  "lastUpdated": "2026-09-24"
+}

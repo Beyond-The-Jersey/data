@@ -1,0 +1,73 @@
+{
+  "id": "rangegoats-gc",
+  "team": "RangeGoats Golf Club",
+  "sport": "golf",
+  "league": "liv-golf",
+  "country": "International",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "convoy-of-hope",
+      "name": "Convoy of Hope",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - RangeGoats GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/rangegoats-gc"
+      }
+    },
+    {
+      "id": "freddys",
+      "name": "Freddy's",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - RangeGoats GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/rangegoats-gc"
+      }
+    },
+    {
+      "id": "new-era",
+      "name": "New Era",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - RangeGoats GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/rangegoats-gc"
+      }
+    },
+    {
+      "id": "swannies",
+      "name": "Swannies",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - RangeGoats GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/rangegoats-gc"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

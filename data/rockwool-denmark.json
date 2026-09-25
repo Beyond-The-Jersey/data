@@ -1,0 +1,28 @@
+{
+  "id": "rockwool-denmark",
+  "team": "ROCKWOOL Racing SailGP Team",
+  "sport": "sailing",
+  "league": "sailgp",
+  "country": "Denmark",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "rockwool",
+      "name": "ROCKWOOL",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "SailGP team page - ROCKWOOL Denmark (Title Partner)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/teams/rockwool-denmark/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

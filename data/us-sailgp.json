@@ -1,0 +1,30 @@
+{
+  "id": "us-sailgp",
+  "team": "United States SailGP Team",
+  "sport": "sailing",
+  "league": "sailgp",
+  "country": "United States",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "tommy-hilfiger",
+      "name": "Tommy Hilfiger",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "pvh-corp",
+      "owner": "PVH Corp.",
+      "verdict": "Owned by PVH Corp.. Nothing found.",
+      "source": {
+        "name": "SailGP - Tommy Hilfiger and United States SailGP Team milestone partnership",
+        "date": "2024-06-21",
+        "url": "https://www.sailgp.com/news/24/tommy-hilfiger-united-states-sailgp-team-mileston-partnership/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "pvh-corp"
+  ],
+  "lastUpdated": "2026-09-24"
+}

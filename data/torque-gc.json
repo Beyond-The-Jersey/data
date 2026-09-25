@@ -1,0 +1,73 @@
+{
+  "id": "torque-gc",
+  "team": "Torque GC",
+  "sport": "golf",
+  "league": "liv-golf",
+  "country": "International",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "akron",
+      "name": "Akron",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Torque GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/torque-gc"
+      }
+    },
+    {
+      "id": "new-era",
+      "name": "New Era",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Torque GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/torque-gc"
+      }
+    },
+    {
+      "id": "night-dragon",
+      "name": "Night Dragon",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Torque GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/torque-gc"
+      }
+    },
+    {
+      "id": "ping",
+      "name": "PING",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Torque GC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/torque-gc"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

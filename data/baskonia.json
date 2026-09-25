@@ -1,0 +1,31 @@
+{
+  "id": "baskonia",
+  "team": "Saski Baskonia",
+  "sport": "basketball",
+  "league": "euroleague",
+  "country": "Spain",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "kosner",
+      "name": "Kosner",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "grupo-saltoki",
+      "owner": "Grupo Saltoki (Comercial de Suministros, S.A.)",
+      "verdict": "Owned by Grupo Saltoki (Comercial de Suministros, S.A.). Nothing found.",
+      "source": {
+        "name": "Baskonia, Kosner Baskonia naming announcement",
+        "date": "2025-11-20",
+        "url": "https://www.baskonia.com/kosner-baskonia/",
+        "note": "Kosner naming sponsor since 2025"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "grupo-saltoki"
+  ],
+  "lastUpdated": "2026-09-24"
+}

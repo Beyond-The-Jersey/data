@@ -28,8 +28,8 @@
       "placement": "front",
       "season": "2026-27",
       "tier": "unrated",
-      "ownerId": null,
-      "owner": null,
+      "ownerId": "chery-automobile",
+      "owner": "Chery Automobile Co., Ltd.",
       "verdict": null,
       "source": {
         "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
@@ -104,6 +104,8 @@
     }
   ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "chery-automobile"
+  ],
   "lastUpdated": "2026-09-24"
 }

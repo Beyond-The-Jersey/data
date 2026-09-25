@@ -1,0 +1,28 @@
+{
+  "id": "artemis-sweden",
+  "team": "Artemis SailGP Team",
+  "sport": "sailing",
+  "league": "sailgp",
+  "country": "Sweden",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "sandmark",
+      "name": "Sandmark",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "SailGP team page - Artemis (Official Partners)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/teams/artemis/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "emirates-great-britain",
+  "team": "Emirates Great Britain SailGP Team",
+  "sport": "sailing",
+  "league": "sailgp",
+  "country": "Great Britain",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "emirates",
+      "name": "Emirates",
+      "placement": "front",
+      "season": "2026",
+      "tier": "serious",
+      "ownerId": "government-of-dubai",
+      "owner": "Government of Dubai",
+      "verdict": "The airline is owned by the Dubai government’s investment arm.",
+      "source": {
+        "name": "Emirates media centre - Emirates signs on as global partner and exclusive airline partner of SailGP",
+        "date": "2024-11-14",
+        "url": "https://www.emirates.com/media-centre/emirates-signs-on-as-global-partner-and-exclusive-airline-partner-of-sailgp/",
+        "note": "Five-season global sponsorship from Nov 2024; Emirates is Title Partner of the Emirates Great Britain SailGP Team and its Portsmouth home event."
+      }
+    },
+    {
+      "id": "eqt",
+      "name": "EQT",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "SailGP team page - Emirates Great Britain (Global Partners)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/teams/emirates-great-britain/"
+      }
+    },
+    {
+      "id": "howden",
+      "name": "Howden",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "SailGP team page - Emirates Great Britain (Global Partners)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/teams/emirates-great-britain/"
+      }
+    },
+    {
+      "id": "jp-morgan",
+      "name": "JP Morgan",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "SailGP team page - Emirates Great Britain (Global Partners)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/teams/emirates-great-britain/"
+      }
+    },
+    {
+      "id": "jumeirah",
+      "name": "Jumeirah",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "SailGP team page - Emirates Great Britain (Global Partners)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/teams/emirates-great-britain/"
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "government-of-dubai"
+  ],
+  "lastUpdated": "2026-09-24"
+}

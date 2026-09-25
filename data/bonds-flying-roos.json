@@ -1,0 +1,59 @@
+{
+  "id": "bonds-flying-roos",
+  "team": "BONDS Flying Roos SailGP Team",
+  "sport": "sailing",
+  "league": "sailgp",
+  "country": "Australia",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "blueberry",
+      "name": "Blueberry",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "SailGP team page - BONDS Flying Roos (Team Partners)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/teams/australia/"
+      }
+    },
+    {
+      "id": "bonds",
+      "name": "Bonds",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "SailGP - Hugh Jackman and Ryan Reynolds announced as co-owners of BONDS Flying Roos Australia SailGP Team",
+        "date": "2025-06-05",
+        "url": "https://www.sailgp.com/news/25/hugh-jackman-ryan-reynolds-announced-co-owners-bonds-flying-roos-australia-sailgp-team/",
+        "note": "Team rebranded BONDS Flying Roos with BONDS as title sponsor; carries the name on the F50 and team identity."
+      }
+    },
+    {
+      "id": "monday-com",
+      "name": "Monday.com",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "SailGP team page - BONDS Flying Roos (Global Partners)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/teams/australia/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

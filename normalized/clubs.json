@@ -2579,6 +2579,2212 @@
     "aliases": []
   },
   {
+    "id": "al-ain",
+    "name": "Al Ain FC",
+    "shortName": "Al Ain",
+    "code": "AIN",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "United Arab Emirates",
+    "crest": null,
+    "aliases": [
+      "al ain fc"
+    ]
+  },
+  {
+    "id": "shabab-al-ahli",
+    "name": "Shabab Al Ahli Club",
+    "shortName": "Shabab Al Ahli",
+    "code": "SHA",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "United Arab Emirates",
+    "crest": null,
+    "aliases": [
+      "shabab al ahli dubai"
+    ]
+  },
+  {
+    "id": "al-wasl",
+    "name": "Al Wasl FC",
+    "shortName": "Al Wasl",
+    "code": "WAS",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "United Arab Emirates",
+    "crest": null,
+    "aliases": [
+      "al wasl fc"
+    ]
+  },
+  {
+    "id": "al-sadd",
+    "name": "Al Sadd SC",
+    "shortName": "Al Sadd",
+    "code": "SAD",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Qatar",
+    "crest": null,
+    "aliases": [
+      "al sadd sports club",
+      "al sadd doha"
+    ]
+  },
+  {
+    "id": "al-gharafa",
+    "name": "Al-Gharafa SC",
+    "shortName": "Al-Gharafa",
+    "code": "GHA",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Qatar",
+    "crest": null,
+    "aliases": [
+      "al gharafa sports club"
+    ]
+  },
+  {
+    "id": "al-shamal",
+    "name": "Al-Shamal SC",
+    "shortName": "Al-Shamal",
+    "code": "SHM",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Qatar",
+    "crest": null,
+    "aliases": [
+      "al shamal sports club"
+    ]
+  },
+  {
+    "id": "esteghlal",
+    "name": "Esteghlal FC",
+    "shortName": "Esteghlal",
+    "code": "EST",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Iran",
+    "crest": null,
+    "aliases": [
+      "esteghlal tehran",
+      "esteghlal meli"
+    ]
+  },
+  {
+    "id": "tractor",
+    "name": "Tractor SC",
+    "shortName": "Tractor",
+    "code": "TRA",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Iran",
+    "crest": null,
+    "aliases": [
+      "tractor sports club",
+      "tractor sazi tabriz"
+    ]
+  },
+  {
+    "id": "neftchi",
+    "name": "Neftchi Fergana",
+    "shortName": "Neftchi",
+    "code": "NEF",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Uzbekistan",
+    "crest": null,
+    "aliases": [
+      "neftchi farg'ona",
+      "neftchi farkona"
+    ]
+  },
+  {
+    "id": "pakhtakor",
+    "name": "Pakhtakor Tashkent",
+    "shortName": "Pakhtakor",
+    "code": "PAK",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Uzbekistan",
+    "crest": null,
+    "aliases": [
+      "pakhtakor tashkent fk"
+    ]
+  },
+  {
+    "id": "al-quwa-al-jawiya",
+    "name": "Al-Quwa Al-Jawiya",
+    "shortName": "Al-Quwa Al-Jawiya",
+    "code": "QAW",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Iraq",
+    "crest": null,
+    "aliases": [
+      "al quwa al jawiya",
+      "air force club baghdad"
+    ]
+  },
+  {
+    "id": "kashima-antlers",
+    "name": "Kashima Antlers",
+    "shortName": "Kashima",
+    "code": "KAS",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Japan",
+    "crest": null,
+    "aliases": [
+      "kashima antlers fc"
+    ]
+  },
+  {
+    "id": "vissel-kobe",
+    "name": "Vissel Kobe",
+    "shortName": "Vissel Kobe",
+    "code": "VIS",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Japan",
+    "crest": null,
+    "aliases": [
+      "vissel kobe fc"
+    ]
+  },
+  {
+    "id": "kashiwa-reysol",
+    "name": "Kashiwa Reysol",
+    "shortName": "Kashiwa",
+    "code": "REY",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Japan",
+    "crest": null,
+    "aliases": [
+      "kashiwa reysol fc"
+    ]
+  },
+  {
+    "id": "kyoto-sanga",
+    "name": "Kyoto Sanga FC",
+    "shortName": "Kyoto Sanga",
+    "code": "KYT",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Japan",
+    "crest": null,
+    "aliases": [
+      "kyoto sanga",
+      "kyoto purple sanga"
+    ]
+  },
+  {
+    "id": "gamba-osaka",
+    "name": "Gamba Osaka",
+    "shortName": "Gamba",
+    "code": "GAM",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Japan",
+    "crest": null,
+    "aliases": [
+      "gamba osaka fc"
+    ]
+  },
+  {
+    "id": "jeonbuk-hyundai-motors",
+    "name": "Jeonbuk Hyundai Motors",
+    "shortName": "Jeonbuk",
+    "code": "JEO",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "South Korea",
+    "crest": null,
+    "aliases": [
+      "jeonbuk hyundai motors fc",
+      "jeonbuk fc"
+    ]
+  },
+  {
+    "id": "daejeon-hana-citizen",
+    "name": "Daejeon Hana Citizen",
+    "shortName": "Daejeon Hana",
+    "code": "DAE",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "South Korea",
+    "crest": null,
+    "aliases": [
+      "daejeon hana citizen fc"
+    ]
+  },
+  {
+    "id": "pohang-steelers",
+    "name": "Pohang Steelers",
+    "shortName": "Pohang",
+    "code": "POH",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "South Korea",
+    "crest": null,
+    "aliases": [
+      "pohang steelers fc"
+    ]
+  },
+  {
+    "id": "buriram-united",
+    "name": "Buriram United",
+    "shortName": "Buriram",
+    "code": "BUR",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Thailand",
+    "crest": null,
+    "aliases": [
+      "buriram united fc"
+    ]
+  },
+  {
+    "id": "port-fc",
+    "name": "Port FC",
+    "shortName": "Port",
+    "code": "POR",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Thailand",
+    "crest": null,
+    "aliases": [
+      "port fc bangkok",
+      "port authority thailand"
+    ]
+  },
+  {
+    "id": "ratchaburi",
+    "name": "Ratchaburi FC",
+    "shortName": "Ratchaburi",
+    "code": "RAT",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Thailand",
+    "crest": null,
+    "aliases": [
+      "ratchaburi fc",
+      "ratchaburi mitr phol"
+    ]
+  },
+  {
+    "id": "shanghai-port",
+    "name": "Shanghai Port FC",
+    "shortName": "Shanghai Port",
+    "code": "SHP",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "shanghai haigang",
+      "shanghai port"
+    ]
+  },
+  {
+    "id": "beijing-guoan",
+    "name": "Beijing Guoan FC",
+    "shortName": "Beijing Guoan",
+    "code": "BJG",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "beijing guoan",
+      "beijing fc"
+    ]
+  },
+  {
+    "id": "newcastle-jets",
+    "name": "Newcastle Jets FC",
+    "shortName": "Newcastle Jets",
+    "code": "NJT",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Australia",
+    "crest": null,
+    "aliases": [
+      "newcastle jets"
+    ]
+  },
+  {
+    "id": "johor-darul-tazim",
+    "name": "Johor Darul Ta'zim FC",
+    "shortName": "JDT",
+    "code": "JDT",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Malaysia",
+    "crest": null,
+    "aliases": [
+      "johor darul takzim",
+      "jdt fc"
+    ]
+  },
+  {
+    "id": "cong-an-ha-noi",
+    "name": "Cong An Ha Noi FC",
+    "shortName": "Cong An Ha Noi",
+    "code": "CAH",
+    "sportId": "soccer",
+    "leagueId": "afc",
+    "country": "Vietnam",
+    "crest": null,
+    "aliases": [
+      "cong an ha noi",
+      "ha noi police fc",
+      "candid anh ha noi"
+    ]
+  },
+  {
+    "id": "australian-open",
+    "name": "Australian Open",
+    "shortName": "Australian Open",
+    "code": "AUS",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Australia",
+    "crest": null,
+    "aliases": [
+      "melbourne grand slam"
+    ]
+  },
+  {
+    "id": "french-open",
+    "name": "French Open",
+    "shortName": "Roland Garros",
+    "code": "FRE",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "France",
+    "crest": null,
+    "aliases": [
+      "roland garros",
+      "open de france"
+    ]
+  },
+  {
+    "id": "wimbledon",
+    "name": "Wimbledon",
+    "shortName": "Wimbledon",
+    "code": "WIM",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "United Kingdom",
+    "crest": null,
+    "aliases": [
+      "the championships wimbledon"
+    ]
+  },
+  {
+    "id": "us-open",
+    "name": "US Open",
+    "shortName": "US Open",
+    "code": "USO",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "us open tennis",
+      " flushing meadows"
+    ]
+  },
+  {
+    "id": "brisbane-international",
+    "name": "Brisbane International",
+    "shortName": "Brisbane",
+    "code": "BRI",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Australia",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "adelaide-international",
+    "name": "Adelaide International",
+    "shortName": "Adelaide",
+    "code": "ADE",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Australia",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "auckland-open",
+    "name": "Auckland Open",
+    "shortName": "Auckland",
+    "code": "AKL",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "New Zealand",
+    "crest": null,
+    "aliases": [
+      "asb classic"
+    ]
+  },
+  {
+    "id": "hong-kong-open",
+    "name": "Hong Kong Open",
+    "shortName": "Hong Kong",
+    "code": "HKO",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Hong Kong",
+    "crest": null,
+    "aliases": [
+      "prudential hong kong tennis open"
+    ]
+  },
+  {
+    "id": "qatar-open",
+    "name": "Qatar Open",
+    "shortName": "Qatar",
+    "code": "QAT",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Qatar",
+    "crest": null,
+    "aliases": [
+      "qatar open doha",
+      "atp qatar open"
+    ]
+  },
+  {
+    "id": "dubai-tennis-championships",
+    "name": "Dubai Tennis Championships",
+    "shortName": "Dubai",
+    "code": "DUB",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "United Arab Emirates",
+    "crest": null,
+    "aliases": [
+      "dubai duty free tennis championships"
+    ]
+  },
+  {
+    "id": "indian-wells-open",
+    "name": "Indian Wells Open",
+    "shortName": "Indian Wells",
+    "code": "IWO",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "bnp paribas open"
+    ]
+  },
+  {
+    "id": "miami-open",
+    "name": "Miami Open",
+    "shortName": "Miami",
+    "code": "MIA",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "miami open presented by itau"
+    ]
+  },
+  {
+    "id": "madrid-open",
+    "name": "Madrid Open",
+    "shortName": "Madrid",
+    "code": "MAD",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Spain",
+    "crest": null,
+    "aliases": [
+      "mutua madrid open"
+    ]
+  },
+  {
+    "id": "italian-open",
+    "name": "Italian Open",
+    "shortName": "Rome",
+    "code": "ITA",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Italy",
+    "crest": null,
+    "aliases": [
+      "internazionali bnl d'italia",
+      "rome masters"
+    ]
+  },
+  {
+    "id": "canadian-open",
+    "name": "Canadian Open",
+    "shortName": "Canada",
+    "code": "CAN",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Canada",
+    "crest": null,
+    "aliases": [
+      "national bank open",
+      "canada masters"
+    ]
+  },
+  {
+    "id": "cincinnati-open",
+    "name": "Cincinnati Open",
+    "shortName": "Cincinnati",
+    "code": "CIN",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "western and southern open"
+    ]
+  },
+  {
+    "id": "china-open",
+    "name": "China Open",
+    "shortName": "Beijing",
+    "code": "CHO",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "china open beijing"
+    ]
+  },
+  {
+    "id": "eastbourne-open",
+    "name": "Eastbourne Open",
+    "shortName": "Eastbourne",
+    "code": "EAS",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "United Kingdom",
+    "crest": null,
+    "aliases": [
+      "lexus eastbourne open"
+    ]
+  },
+  {
+    "id": "hamburg-open",
+    "name": "Hamburg Open",
+    "shortName": "Hamburg",
+    "code": "HAM",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [
+      "bitpanda hamburg open"
+    ]
+  },
+  {
+    "id": "rosmalen-championships",
+    "name": "Rosmalen Championships",
+    "shortName": "Rosmalen",
+    "code": "ROS",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Netherlands",
+    "crest": null,
+    "aliases": [
+      "libema open",
+      "s-hertogenbosch open",
+      "rosmalen open"
+    ]
+  },
+  {
+    "id": "queens-club-championships",
+    "name": "Queen's Club Championships",
+    "shortName": "Queen's",
+    "code": "QCC",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "United Kingdom",
+    "crest": null,
+    "aliases": [
+      "hsbc championships",
+      "london queens"
+    ]
+  },
+  {
+    "id": "dc-open",
+    "name": "DC Open",
+    "shortName": "Washington DC",
+    "code": "DCO",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "mubadala dc open",
+      "washington open"
+    ]
+  },
+  {
+    "id": "japan-open",
+    "name": "Japan Open",
+    "shortName": "Tokyo",
+    "code": "JPT",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Japan",
+    "crest": null,
+    "aliases": [
+      "japan open tennis championships tokyo"
+    ]
+  },
+  {
+    "id": "united-cup",
+    "name": "United Cup",
+    "shortName": "United Cup",
+    "code": "UNC",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Australia",
+    "crest": null,
+    "aliases": [
+      "atp wta united cup"
+    ]
+  },
+  {
+    "id": "monte-carlo-masters",
+    "name": "Monte-Carlo Masters",
+    "shortName": "Monte-Carlo",
+    "code": "MCO",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Monaco",
+    "crest": null,
+    "aliases": [
+      "rolex monte-carlo masters"
+    ]
+  },
+  {
+    "id": "shanghai-masters",
+    "name": "Shanghai Masters",
+    "shortName": "Shanghai",
+    "code": "SHA",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "rolex shanghai masters"
+    ]
+  },
+  {
+    "id": "paris-masters",
+    "name": "Paris Masters",
+    "shortName": "Paris",
+    "code": "PAR",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "France",
+    "crest": null,
+    "aliases": [
+      "rolex paris masters"
+    ]
+  },
+  {
+    "id": "atp-finals",
+    "name": "ATP Finals",
+    "shortName": "ATP Finals",
+    "code": "FIN",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Italy",
+    "crest": null,
+    "aliases": [
+      "nitto atp finals",
+      "atp finals turin"
+    ]
+  },
+  {
+    "id": "next-gen-atp-finals",
+    "name": "Next Gen ATP Finals",
+    "shortName": "Next Gen Finals",
+    "code": "NGF",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Italy",
+    "crest": null,
+    "aliases": [
+      "next gen atp finals reggio calabria"
+    ]
+  },
+  {
+    "id": "davis-cup-qualifiers-1",
+    "name": "Davis Cup Qualifiers first round",
+    "shortName": "Davis Cup Q1",
+    "code": "DV1",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "International",
+    "crest": null,
+    "aliases": [
+      "davis cup qualifiers first round 2026"
+    ]
+  },
+  {
+    "id": "davis-cup-qualifiers-2",
+    "name": "Davis Cup Qualifiers second round",
+    "shortName": "Davis Cup Q2",
+    "code": "DV2",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "International",
+    "crest": null,
+    "aliases": [
+      "davis cup qualifiers second round 2026"
+    ]
+  },
+  {
+    "id": "davis-cup-finals",
+    "name": "Davis Cup Finals",
+    "shortName": "Davis Cup Finals",
+    "code": "DVF",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Italy",
+    "crest": null,
+    "aliases": [
+      "davis cup final 8 bologna"
+    ]
+  },
+  {
+    "id": "laver-cup",
+    "name": "Laver Cup",
+    "shortName": "Laver Cup",
+    "code": "LVC",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "United Kingdom",
+    "crest": null,
+    "aliases": [
+      "laver cup london 2026"
+    ]
+  },
+  {
+    "id": "dallas-open",
+    "name": "Dallas Open",
+    "shortName": "Dallas",
+    "code": "DAL",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "nexo dallas open"
+    ]
+  },
+  {
+    "id": "rotterdam-open",
+    "name": "Rotterdam Open",
+    "shortName": "Rotterdam",
+    "code": "ROT",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Netherlands",
+    "crest": null,
+    "aliases": [
+      "abn amro open",
+      "abn amro world tennis tournament"
+    ]
+  },
+  {
+    "id": "rio-open",
+    "name": "Rio Open",
+    "shortName": "Rio",
+    "code": "RIO",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Brazil",
+    "crest": null,
+    "aliases": [
+      "rio open presented by claro"
+    ]
+  },
+  {
+    "id": "mexican-open",
+    "name": "Mexican Open",
+    "shortName": "Acapulco",
+    "code": "ACO",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Mexico",
+    "crest": null,
+    "aliases": [
+      "abierto mexicano telcel",
+      "telcel mexican open"
+    ]
+  },
+  {
+    "id": "barcelona-open",
+    "name": "Barcelona Open",
+    "shortName": "Barcelona",
+    "code": "BCN",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Spain",
+    "crest": null,
+    "aliases": [
+      "barcelona open banc sabadell",
+      "conde de godo"
+    ]
+  },
+  {
+    "id": "munich-open",
+    "name": "Bavarian International Tennis Championships",
+    "shortName": "Munich",
+    "code": "MUN",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [
+      "bmw open",
+      "bmw open by bitpanda",
+      "munich open"
+    ]
+  },
+  {
+    "id": "halle-open",
+    "name": "Halle Open",
+    "shortName": "Halle",
+    "code": "HAL",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [
+      "terra wortmann open"
+    ]
+  },
+  {
+    "id": "mallorca-championships",
+    "name": "Mallorca Championships",
+    "shortName": "Mallorca",
+    "code": "MAL",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Spain",
+    "crest": null,
+    "aliases": [
+      "vanda pharmaceuticals mallorca championships"
+    ]
+  },
+  {
+    "id": "swedish-open",
+    "name": "Swedish Open",
+    "shortName": "Båstad",
+    "code": "BAS",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Sweden",
+    "crest": null,
+    "aliases": [
+      "nordea open",
+      "swedish open bastad"
+    ]
+  },
+  {
+    "id": "austrian-open",
+    "name": "Austrian Open",
+    "shortName": "Kitzbühel",
+    "code": "KIT",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Austria",
+    "crest": null,
+    "aliases": [
+      "generali open",
+      "kitzbuhel open"
+    ]
+  },
+  {
+    "id": "us-clay-court-championships",
+    "name": "U.S. Men's Clay Court Championships",
+    "shortName": "Houston",
+    "code": "HOU",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "fayez sarofim us men's clay court championship",
+      "houston open"
+    ]
+  },
+  {
+    "id": "grand-prix-hassan-ii",
+    "name": "Grand Prix Hassan II",
+    "shortName": "Marrakesh",
+    "code": "MRK",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Morocco",
+    "crest": null,
+    "aliases": [
+      "marrakech open"
+    ]
+  },
+  {
+    "id": "argentina-open",
+    "name": "Argentina Open",
+    "shortName": "Buenos Aires",
+    "code": "BUE",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Argentina",
+    "crest": null,
+    "aliases": [
+      "ieb+ argentina open"
+    ]
+  },
+  {
+    "id": "chile-open",
+    "name": "Chile Open",
+    "shortName": "Santiago",
+    "code": "SCL",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Chile",
+    "crest": null,
+    "aliases": [
+      "bci chile open",
+      "santiago open"
+    ]
+  },
+  {
+    "id": "romanian-open",
+    "name": "Romanian Open",
+    "shortName": "Bucharest",
+    "code": "BUC",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Romania",
+    "crest": null,
+    "aliases": [
+      "tiriac open",
+      "tiriac open presented by unicredit"
+    ]
+  },
+  {
+    "id": "estoril-open",
+    "name": "Estoril Open",
+    "shortName": "Estoril",
+    "code": "EST",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "millennium estoril open"
+    ]
+  },
+  {
+    "id": "open-occitanie",
+    "name": "Open Occitanie",
+    "shortName": "Montpellier",
+    "code": "MTP",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "France",
+    "crest": null,
+    "aliases": [
+      "south of france open",
+      "montpellier open"
+    ]
+  },
+  {
+    "id": "stuttgart-open",
+    "name": "Stuttgart Open",
+    "shortName": "Stuttgart",
+    "code": "STU",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [
+      "boss open"
+    ]
+  },
+  {
+    "id": "geneva-open",
+    "name": "Geneva Open",
+    "shortName": "Geneva",
+    "code": "GEN",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Switzerland",
+    "crest": null,
+    "aliases": [
+      "gonet geneva open"
+    ]
+  },
+  {
+    "id": "lyon-open",
+    "name": "Grand Prix Auvergne-Rhône-Alpes",
+    "shortName": "Lyon",
+    "code": "LYO",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "France",
+    "crest": null,
+    "aliases": [
+      "open parce",
+      "lyon open 2026"
+    ]
+  },
+  {
+    "id": "swiss-open",
+    "name": "Swiss Open",
+    "shortName": "Gstaad",
+    "code": "GST",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Switzerland",
+    "crest": null,
+    "aliases": [
+      "efg swiss open gstaad"
+    ]
+  },
+  {
+    "id": "croatia-open",
+    "name": "Croatia Open",
+    "shortName": "Umag",
+    "code": "UMA",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Croatia",
+    "crest": null,
+    "aliases": [
+      "plava laguna croatia open umag"
+    ]
+  },
+  {
+    "id": "european-open",
+    "name": "European Open",
+    "shortName": "Brussels",
+    "code": "EUR",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Belgium",
+    "crest": null,
+    "aliases": [
+      "bnp paribas fortis european open"
+    ]
+  },
+  {
+    "id": "almaty-open",
+    "name": "Almaty Open",
+    "shortName": "Almaty",
+    "code": "ALM",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Kazakhstan",
+    "crest": null,
+    "aliases": [
+      "almaty open 2026"
+    ]
+  },
+  {
+    "id": "chengdu-open",
+    "name": "Chengdu Open",
+    "shortName": "Chengdu",
+    "code": "CDU",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "chengdu open 2026"
+    ]
+  },
+  {
+    "id": "hangzhou-open",
+    "name": "Hangzhou Open",
+    "shortName": "Hangzhou",
+    "code": "HZA",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "hangzhou open 2026"
+    ]
+  },
+  {
+    "id": "los-cabos-open",
+    "name": "Los Cabos Open",
+    "shortName": "Los Cabos",
+    "code": "LOS",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Mexico",
+    "crest": null,
+    "aliases": [
+      "mifel los cabos open"
+    ]
+  },
+  {
+    "id": "winston-salem-open",
+    "name": "Winston-Salem Open",
+    "shortName": "Winston-Salem",
+    "code": "WSA",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "winston salem open 2026"
+    ]
+  },
+  {
+    "id": "vienna-open",
+    "name": "Vienna Open",
+    "shortName": "Vienna",
+    "code": "VIE",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Austria",
+    "crest": null,
+    "aliases": [
+      "erste bank open"
+    ]
+  },
+  {
+    "id": "stockholm-open",
+    "name": "Stockholm Open",
+    "shortName": "Stockholm",
+    "code": "STO",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Sweden",
+    "crest": null,
+    "aliases": [
+      "bnp paribas nordic open",
+      "stockholm open 2026"
+    ]
+  },
+  {
+    "id": "delray-beach-open",
+    "name": "Delray Beach Open",
+    "shortName": "Delray Beach",
+    "code": "DLB",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "delray beach open by vitarich"
+    ]
+  },
+  {
+    "id": "swiss-indoors-basel",
+    "name": "Swiss Indoors",
+    "shortName": "Basel",
+    "code": "BSL",
+    "sportId": "tennis",
+    "leagueId": "atp-tour",
+    "country": "Switzerland",
+    "crest": null,
+    "aliases": [
+      "swiss indoors basel",
+      "basel open"
+    ]
+  },
+  {
+    "id": "asc-ville-de-dakar",
+    "name": "ASC Ville de Dakar",
+    "shortName": "Ville de Dakar",
+    "code": "AVD",
+    "sportId": "basketball",
+    "leagueId": "basketball-africa-league",
+    "country": "Senegal",
+    "crest": null,
+    "aliases": [
+      "ascvd",
+      "asc ville de dakar senegal"
+    ]
+  },
+  {
+    "id": "al-ahly",
+    "name": "Al Ahly",
+    "shortName": "Al Ahly",
+    "code": "AHL",
+    "sportId": "basketball",
+    "leagueId": "basketball-africa-league",
+    "country": "Egypt",
+    "crest": null,
+    "aliases": [
+      "al ahly sc",
+      "al ahly cairo",
+      "al ahly sporting club"
+    ]
+  },
+  {
+    "id": "al-ahly-ly",
+    "name": "Al Ahly Ly",
+    "shortName": "Al Ahly Ly",
+    "code": "ALL",
+    "sportId": "basketball",
+    "leagueId": "basketball-africa-league",
+    "country": "Libya",
+    "crest": null,
+    "aliases": [
+      "al ahly benghazi",
+      "alahli tripoli"
+    ]
+  },
+  {
+    "id": "club-africain",
+    "name": "Club Africain",
+    "shortName": "Club Africain",
+    "code": "CAF",
+    "sportId": "basketball",
+    "leagueId": "basketball-africa-league",
+    "country": "Tunisia",
+    "crest": null,
+    "aliases": [
+      "club africain tunisia",
+      "club africain basketball"
+    ]
+  },
+  {
+    "id": "dar-city",
+    "name": "Dar City Basketball Club",
+    "shortName": "Dar City",
+    "code": "DAR",
+    "sportId": "basketball",
+    "leagueId": "basketball-africa-league",
+    "country": "Tanzania",
+    "crest": null,
+    "aliases": [
+      "dar city tanzania"
+    ]
+  },
+  {
+    "id": "fus-de-rabat",
+    "name": "FUS de Rabat",
+    "shortName": "FUS Rabat",
+    "code": "FUS",
+    "sportId": "basketball",
+    "leagueId": "basketball-africa-league",
+    "country": "Morocco",
+    "crest": null,
+    "aliases": [
+      "fath union sport rabat",
+      "fus rabat basketball"
+    ]
+  },
+  {
+    "id": "jca-kings",
+    "name": "JCA Kings",
+    "shortName": "JCA Kings",
+    "code": "JCA",
+    "sportId": "basketball",
+    "leagueId": "basketball-africa-league",
+    "country": "Cote d'Ivoire",
+    "crest": null,
+    "aliases": [
+      "jeunesse club d'abidjan",
+      "jca abidjan"
+    ]
+  },
+  {
+    "id": "johannesburg-giants",
+    "name": "Johannesburg Giants",
+    "shortName": "Giants",
+    "code": "JGB",
+    "sportId": "basketball",
+    "leagueId": "basketball-africa-league",
+    "country": "South Africa",
+    "crest": null,
+    "aliases": [
+      "johannesburg giants basketball club"
+    ]
+  },
+  {
+    "id": "maktown-flyers",
+    "name": "Maktown Flyers",
+    "shortName": "Maktown",
+    "code": "MKF",
+    "sportId": "basketball",
+    "leagueId": "basketball-africa-league",
+    "country": "Nigeria",
+    "crest": null,
+    "aliases": [
+      "lagos legends",
+      "maktown flyers nigeria"
+    ]
+  },
+  {
+    "id": "nairobi-city-thunder",
+    "name": "Nairobi City Thunder",
+    "shortName": "NCT",
+    "code": "NCT",
+    "sportId": "basketball",
+    "leagueId": "basketball-africa-league",
+    "country": "Kenya",
+    "crest": null,
+    "aliases": [
+      "nairobi city thunder kenya"
+    ]
+  },
+  {
+    "id": "petro-de-luanda",
+    "name": "Petro de Luanda",
+    "shortName": "Petro",
+    "code": "PET",
+    "sportId": "basketball",
+    "leagueId": "basketball-africa-league",
+    "country": "Angola",
+    "crest": null,
+    "aliases": [
+      "atletico petroleos de luanda",
+      "petro de luanda basketball"
+    ]
+  },
+  {
+    "id": "rssb-tigers",
+    "name": "RSSB Tigers",
+    "shortName": "Tigers",
+    "code": "RSS",
+    "sportId": "basketball",
+    "leagueId": "basketball-africa-league",
+    "country": "Rwanda",
+    "crest": null,
+    "aliases": [
+      "tigers bbc",
+      "rssb tigers rwanda"
+    ]
+  },
+  {
+    "id": "bmw-australian-pga-championship",
+    "name": "BMW Australian PGA Championship",
+    "shortName": "Australian PGA",
+    "code": "APG",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "Australia",
+    "crest": null,
+    "aliases": [
+      "australian pga"
+    ]
+  },
+  {
+    "id": "crown-australian-open",
+    "name": "Crown Australian Open",
+    "shortName": "Crown Australian Open",
+    "code": "CAO",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "Australia",
+    "crest": null,
+    "aliases": [
+      "australian open golf"
+    ]
+  },
+  {
+    "id": "nedbank-golf-challenge",
+    "name": "Nedbank Golf Challenge in honour of Gary Player",
+    "shortName": "Nedbank Challenge",
+    "code": "NGC",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "South Africa",
+    "crest": null,
+    "aliases": [
+      "nedbank"
+    ]
+  },
+  {
+    "id": "alfred-dunhill-championship",
+    "name": "Alfred Dunhill Championship",
+    "shortName": "Dunhill Championship",
+    "code": "ADC",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "South Africa",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "afrasia-bank-mauritius-open",
+    "name": "AfrAsia Bank Mauritius Open",
+    "shortName": "Mauritius Open",
+    "code": "AMO",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "Mauritius",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "dubai-invitational",
+    "name": "Dubai Invitational",
+    "shortName": "Dubai Invitational",
+    "code": "DUI",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "UAE",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "hero-dubai-desert-classic",
+    "name": "Hero Dubai Desert Classic",
+    "shortName": "Dubai Desert Classic",
+    "code": "DDC",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "UAE",
+    "crest": null,
+    "aliases": [
+      "dubai desert classic"
+    ]
+  },
+  {
+    "id": "bapco-energies-bahrain-championship",
+    "name": "Bapco Energies Bahrain Championship",
+    "shortName": "Bahrain Championship",
+    "code": "BEC",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "Bahrain",
+    "crest": null,
+    "aliases": [
+      "bahrain championship"
+    ]
+  },
+  {
+    "id": "qatar-masters",
+    "name": "Qatar Masters",
+    "shortName": "Qatar Masters",
+    "code": "QMA",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "Qatar",
+    "crest": null,
+    "aliases": [
+      "commercial bank qatar masters"
+    ]
+  },
+  {
+    "id": "magical-kenya-open",
+    "name": "Magical Kenya Open presented by absa",
+    "shortName": "Kenya Open",
+    "code": "MKO",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "Kenya",
+    "crest": null,
+    "aliases": [
+      "kenya open"
+    ]
+  },
+  {
+    "id": "investec-south-african-open",
+    "name": "Investec South African Open Championship",
+    "shortName": "South African Open",
+    "code": "SAO",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "South Africa",
+    "crest": null,
+    "aliases": [
+      "south african open"
+    ]
+  },
+  {
+    "id": "joburg-open",
+    "name": "Joburg Open",
+    "shortName": "Joburg Open",
+    "code": "JOB",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "South Africa",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "hainan-classic",
+    "name": "Hainan Classic presented by MAEXTRO",
+    "shortName": "Hainan Classic",
+    "code": "HAI",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "China",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "hero-indian-open",
+    "name": "Hero Indian Open",
+    "shortName": "Indian Open",
+    "code": "HIO",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "India",
+    "crest": null,
+    "aliases": [
+      "indian open"
+    ]
+  },
+  {
+    "id": "masters",
+    "name": "THE MASTERS",
+    "shortName": "Masters",
+    "code": "MAS",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "the masters",
+      "masters tournament"
+    ]
+  },
+  {
+    "id": "volvo-china-open",
+    "name": "Volvo China Open",
+    "shortName": "China Open",
+    "code": "VCO",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "china open golf"
+    ]
+  },
+  {
+    "id": "turkish-airlines-open",
+    "name": "Turkish Airlines Open",
+    "shortName": "Turkish Airlines Open",
+    "code": "TAO",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "Turkiye",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "estrella-damm-catalunya-championship",
+    "name": "Estrella Damm Catalunya Championship",
+    "shortName": "Catalunya Championship",
+    "code": "EDC",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "Spain",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "us-pga-championship",
+    "name": "U.S. PGA Championship",
+    "shortName": "US PGA",
+    "code": "PGA",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "pga championship",
+      "us pga"
+    ]
+  },
+  {
+    "id": "soudal-open",
+    "name": "Soudal Open",
+    "shortName": "Soudal Open",
+    "code": "SOP",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "Belgium",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "austrian-alpine-open",
+    "name": "Austrian Alpine Open presented by Kitzbühel Tirol",
+    "shortName": "Austrian Alpine Open",
+    "code": "AAO",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "Austria",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "klm-open",
+    "name": "KLM Open",
+    "shortName": "KLM Open",
+    "code": "KLM",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "Netherlands",
+    "crest": null,
+    "aliases": [
+      "dutch open"
+    ]
+  },
+  {
+    "id": "us-open-golf",
+    "name": "U.S. Open",
+    "shortName": "US Open (golf)",
+    "code": "USG",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "us open golf"
+    ]
+  },
+  {
+    "id": "ds-automobiles-open-ditalia",
+    "name": "DS Automobiles 83° Open d'Italia",
+    "shortName": "Italian Open",
+    "code": "DSI",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "Italy",
+    "crest": null,
+    "aliases": [
+      "italian open golf",
+      "open ditalia"
+    ]
+  },
+  {
+    "id": "bmw-international-open",
+    "name": "BMW International Open",
+    "shortName": "BMW International Open",
+    "code": "BIO",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "Germany",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "genesis-scottish-open",
+    "name": "Genesis Scottish Open",
+    "shortName": "Scottish Open",
+    "code": "GSO",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "Scotland",
+    "crest": null,
+    "aliases": [
+      "scottish open"
+    ]
+  },
+  {
+    "id": "isco-championship",
+    "name": "ISCO Championship",
+    "shortName": "ISCO Championship",
+    "code": "ISC",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "United States",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "the-open-championship",
+    "name": "THE 154TH OPEN",
+    "shortName": "The Open",
+    "code": "TOD",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "the open championship",
+      "british open"
+    ]
+  },
+  {
+    "id": "corales-puntacana-championship",
+    "name": "Corales Puntacana Championship",
+    "shortName": "Puntacana Championship",
+    "code": "CPC",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "Dominican Republic",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "danish-golf-championship",
+    "name": "Danish Golf Championship",
+    "shortName": "Danish Championship",
+    "code": "DGC",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "Denmark",
+    "crest": null,
+    "aliases": [
+      "made in himmerland"
+    ]
+  },
+  {
+    "id": "nexo-championship",
+    "name": "Nexo Championship",
+    "shortName": "Nexo Championship",
+    "code": "NEX",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "Scotland",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "husqvarna-british-masters",
+    "name": "Husqvarna British Masters hosted by Sir Nick Faldo",
+    "shortName": "British Masters",
+    "code": "HBM",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "british masters"
+    ]
+  },
+  {
+    "id": "omega-european-masters",
+    "name": "Omega European Masters",
+    "shortName": "European Masters",
+    "code": "OEM",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "Switzerland",
+    "crest": null,
+    "aliases": [
+      "swiss open"
+    ]
+  },
+  {
+    "id": "amgen-irish-open",
+    "name": "Amgen Irish Open",
+    "shortName": "Irish Open",
+    "code": "AIO",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "Ireland",
+    "crest": null,
+    "aliases": [
+      "irish open"
+    ]
+  },
+  {
+    "id": "bmw-pga-championship",
+    "name": "BMW PGA Championship",
+    "shortName": "BMW PGA",
+    "code": "BPG",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "wentworth"
+    ]
+  },
+  {
+    "id": "fedex-open-de-france",
+    "name": "FedEx Open de France",
+    "shortName": "Open de France",
+    "code": "FOD",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "France",
+    "crest": null,
+    "aliases": [
+      "french open golf",
+      "open de france"
+    ]
+  },
+  {
+    "id": "alfred-dunhill-links-championship",
+    "name": "Alfred Dunhill Links Championship",
+    "shortName": "Dunhill Links",
+    "code": "ADL",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "Scotland",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "open-de-espana",
+    "name": "Open de España presented by Madrid",
+    "shortName": "Spanish Open",
+    "code": "ODE",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "Spain",
+    "crest": null,
+    "aliases": [
+      "spanish open"
+    ]
+  },
+  {
+    "id": "dp-world-india-championship",
+    "name": "DP World India Championship",
+    "shortName": "India Championship",
+    "code": "DWI",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "India",
+    "crest": null,
+    "aliases": [
+      "india championship"
+    ]
+  },
+  {
+    "id": "genesis-championship",
+    "name": "Genesis Championship",
+    "shortName": "Genesis Championship",
+    "code": "GNC",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "South Korea",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "abu-dhabi-championship",
+    "name": "Abu Dhabi Championship",
+    "shortName": "Abu Dhabi Championship",
+    "code": "ADH",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "UAE",
+    "crest": null,
+    "aliases": [
+      "abu dhabi hsbc championship"
+    ]
+  },
+  {
+    "id": "dp-world-tour-championship",
+    "name": "DP World Tour Championship, Dubai",
+    "shortName": "Tour Championship",
+    "code": "DWT",
+    "sportId": "golf",
+    "leagueId": "dp-world-tour",
+    "country": "UAE",
+    "crest": null,
+    "aliases": [
+      "dp world tour championship dubai"
+    ]
+  },
+  {
+    "id": "real-madrid-baloncesto",
+    "name": "Real Madrid Baloncesto",
+    "shortName": "Real Madrid",
+    "code": "RMB",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Spain",
+    "crest": null,
+    "aliases": [
+      "Real Madrid basketball"
+    ]
+  },
+  {
+    "id": "barcelona-basquet",
+    "name": "FC Barcelona Bàsquet",
+    "shortName": "Barcelona",
+    "code": "BAR",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Spain",
+    "crest": null,
+    "aliases": [
+      "FC Barcelona basketball"
+    ]
+  },
+  {
+    "id": "olympiacos",
+    "name": "Olympiacos B.C.",
+    "shortName": "Olympiacos",
+    "code": "OLY",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Greece",
+    "crest": null,
+    "aliases": [
+      "Olympiacos Piraeus",
+      "Olympiacos Superbet"
+    ]
+  },
+  {
+    "id": "panathinaikos",
+    "name": "Panathinaikos B.C.",
+    "shortName": "Panathinaikos",
+    "code": "PAO",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Greece",
+    "crest": null,
+    "aliases": [
+      "Panathinaikos AKTOR Athens"
+    ]
+  },
+  {
+    "id": "maccabi-tel-aviv",
+    "name": "Maccabi Tel Aviv B.C.",
+    "shortName": "Maccabi Tel Aviv",
+    "code": "MTA",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Israel",
+    "crest": null,
+    "aliases": [
+      "Maccabi Rapyd Tel Aviv"
+    ]
+  },
+  {
+    "id": "hapoel-tel-aviv",
+    "name": "Hapoel Tel Aviv B.C.",
+    "shortName": "Hapoel Tel Aviv",
+    "code": "HTA",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Israel",
+    "crest": null,
+    "aliases": [
+      "Hapoel IBI Tel Aviv"
+    ]
+  },
+  {
+    "id": "fenerbahce-basketball",
+    "name": "Fenerbahçe (men's basketball)",
+    "shortName": "Fenerbahçe",
+    "code": "FEN",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Türkiye",
+    "crest": null,
+    "aliases": [
+      "Fenerbahçe Beko İstanbul",
+      "Fenerbahçe Tarfin"
+    ]
+  },
+  {
+    "id": "anadolu-efes",
+    "name": "Anadolu Efes S.K.",
+    "shortName": "Anadolu Efes",
+    "code": "EFS",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Türkiye",
+    "crest": null,
+    "aliases": [
+      "Efes Istanbul"
+    ]
+  },
+  {
+    "id": "besiktas-basketball",
+    "name": "Beşiktaş J.K. (men's basketball)",
+    "shortName": "Beşiktaş",
+    "code": "BJK",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Türkiye",
+    "crest": null,
+    "aliases": [
+      "Beşiktaş Gain"
+    ]
+  },
+  {
+    "id": "bayern-munich-basketball",
+    "name": "FC Bayern Munich Basketball",
+    "shortName": "Bayern Munich",
+    "code": "FCB",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [
+      "FC Bayern Basketball"
+    ]
+  },
+  {
+    "id": "olimpia-milano",
+    "name": "Olimpia Milano",
+    "shortName": "Milano",
+    "code": "MIL",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Italy",
+    "crest": null,
+    "aliases": [
+      "EA7 Emporio Armani Milano"
+    ]
+  },
+  {
+    "id": "virtus-bologna",
+    "name": "Virtus Pallacanestro Bologna",
+    "shortName": "Virtus Bologna",
+    "code": "VIR",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Italy",
+    "crest": null,
+    "aliases": [
+      "Virtus Costa Bologna",
+      "Virtus Segafredo Bologna"
+    ]
+  },
+  {
+    "id": "asvel",
+    "name": "ASVEL Basket",
+    "shortName": "ASVEL",
+    "code": "ASV",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "France",
+    "crest": null,
+    "aliases": [
+      "LDLC ASVEL",
+      "Groupe LDLC ASVEL"
+    ]
+  },
+  {
+    "id": "paris-basketball",
+    "name": "Paris Basketball",
+    "shortName": "Paris",
+    "code": "PAR",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "France",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "zalgiris",
+    "name": "Žalgiris Kaunas",
+    "shortName": "Žalgiris",
+    "code": "ZAL",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Lithuania",
+    "crest": null,
+    "aliases": [
+      "Zalgiris Kaunas"
+    ]
+  },
+  {
+    "id": "baskonia",
+    "name": "Saski Baskonia",
+    "shortName": "Baskonia",
+    "code": "BAS",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Spain",
+    "crest": null,
+    "aliases": [
+      "Kosner Baskonia",
+      "Baskonia Vitoria-Gasteiz"
+    ]
+  },
+  {
+    "id": "valencia-basket",
+    "name": "Valencia Basket",
+    "shortName": "Valencia",
+    "code": "VAL",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Spain",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "crvena-zvezda",
+    "name": "KK Crvena zvezda",
+    "shortName": "Crvena zvezda",
+    "code": "CZV",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Serbia",
+    "crest": null,
+    "aliases": [
+      "Crvena zvezda Meridianbet Belgrade",
+      "Red Star Belgrade"
+    ]
+  },
+  {
+    "id": "partizan",
+    "name": "KK Partizan (basketball)",
+    "shortName": "Partizan",
+    "code": "PTZ",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "Serbia",
+    "crest": null,
+    "aliases": [
+      "Partizan Mozzart Bet",
+      "Partizan Belgrade"
+    ]
+  },
+  {
+    "id": "dubai-basketball",
+    "name": "Dubai Basketball",
+    "shortName": "Dubai",
+    "code": "DXB",
+    "sportId": "basketball",
+    "leagueId": "euroleague",
+    "country": "United Arab Emirates",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "qatar-basketball",
+    "name": "Qatar men's national basketball team",
+    "shortName": "Qatar",
+    "code": "QAT",
+    "sportId": "basketball",
+    "leagueId": "fiba",
+    "country": "Qatar",
+    "crest": null,
+    "aliases": [
+      "qatar national basketball team",
+      "qatar 2027 host team"
+    ]
+  },
+  {
+    "id": "turkiye-basketball",
+    "name": "Turkiye men's national basketball team",
+    "shortName": "Turkiye",
+    "code": "TUR",
+    "sportId": "basketball",
+    "leagueId": "fiba",
+    "country": "Turkiye",
+    "crest": null,
+    "aliases": [
+      "turkey national basketball team",
+      "turkiye national basketball team"
+    ]
+  },
+  {
     "id": "australia",
     "name": "Australia",
     "shortName": "Australia",
@@ -3107,6 +5313,62 @@
     "aliases": []
   },
   {
+    "id": "mens-t20-world-cup-2026",
+    "name": "ICC Men's T20 World Cup 2026",
+    "shortName": "Men's T20WC 2026",
+    "code": "MT20WC26",
+    "sportId": "cricket",
+    "leagueId": "icc-cricket",
+    "country": "India, Sri Lanka",
+    "crest": null,
+    "aliases": [
+      "T20 World Cup 2026",
+      "ICC Men's T20 World Cup 2026"
+    ]
+  },
+  {
+    "id": "womens-t20-world-cup-2026",
+    "name": "ICC Women's T20 World Cup 2026",
+    "shortName": "Women's T20WC 2026",
+    "code": "WT20WC26",
+    "sportId": "cricket",
+    "leagueId": "icc-cricket",
+    "country": "England, Wales",
+    "crest": null,
+    "aliases": [
+      "T20 World Cup 2026",
+      "ICC Women's T20 World Cup 2026"
+    ]
+  },
+  {
+    "id": "cricket-world-cup-2027",
+    "name": "ICC Men's Cricket World Cup 2027",
+    "shortName": "CWC 2027",
+    "code": "CWC27",
+    "sportId": "cricket",
+    "leagueId": "icc-cricket",
+    "country": "South Africa, Zimbabwe, Namibia",
+    "crest": null,
+    "aliases": [
+      "Cricket World Cup 2027",
+      "ICC Cricket World Cup 2027"
+    ]
+  },
+  {
+    "id": "world-test-championship",
+    "name": "ICC World Test Championship 2025-27",
+    "shortName": "WTC",
+    "code": "WTC",
+    "sportId": "cricket",
+    "leagueId": "icc-cricket",
+    "country": "Global",
+    "crest": null,
+    "aliases": [
+      "World Test Championship",
+      "ICC World Test Championship 2025-27"
+    ]
+  },
+  {
     "id": "angers-sco",
     "name": "Angers SCO",
     "shortName": "Angers",
@@ -3342,6 +5604,524 @@
     "aliases": [
       "troyes",
       "estac"
+    ]
+  },
+  {
+    "id": "4aces-gc",
+    "name": "4Aces GC",
+    "shortName": "4Aces",
+    "code": "4AC",
+    "sportId": "golf",
+    "leagueId": "liv-golf",
+    "country": "International",
+    "crest": null,
+    "aliases": [
+      "4 Aces",
+      "franchise team, no single country"
+    ]
+  },
+  {
+    "id": "cleeks-gc",
+    "name": "Cleeks Golf Club",
+    "shortName": "Cleeks",
+    "code": "CLK",
+    "sportId": "golf",
+    "leagueId": "liv-golf",
+    "country": "International",
+    "crest": null,
+    "aliases": [
+      "Cleeks GC",
+      "franchise team, no single country"
+    ]
+  },
+  {
+    "id": "crushers-gc",
+    "name": "Crushers GC",
+    "shortName": "Crushers",
+    "code": "CRU",
+    "sportId": "golf",
+    "leagueId": "liv-golf",
+    "country": "International",
+    "crest": null,
+    "aliases": [
+      "franchise team, no single country"
+    ]
+  },
+  {
+    "id": "fireballs-gc",
+    "name": "Fireballs GC",
+    "shortName": "Fireballs",
+    "code": "FIR",
+    "sportId": "golf",
+    "leagueId": "liv-golf",
+    "country": "Spain",
+    "crest": null,
+    "aliases": [
+      "Fireballs"
+    ]
+  },
+  {
+    "id": "hyflyers-gc",
+    "name": "HyFlyers GC",
+    "shortName": "HyFlyers",
+    "code": "HYF",
+    "sportId": "golf",
+    "leagueId": "liv-golf",
+    "country": "International",
+    "crest": null,
+    "aliases": [
+      "Hy Flyers",
+      "franchise team, no single country"
+    ]
+  },
+  {
+    "id": "korean-golf-club",
+    "name": "Korean Golf Club",
+    "shortName": "Korean GC",
+    "code": "KGC",
+    "sportId": "golf",
+    "leagueId": "liv-golf",
+    "country": "South Korea",
+    "crest": null,
+    "aliases": [
+      "Iron Heads GC"
+    ]
+  },
+  {
+    "id": "legion-xiii",
+    "name": "Legion XIII",
+    "shortName": "Legion XIII",
+    "code": "L13",
+    "sportId": "golf",
+    "leagueId": "liv-golf",
+    "country": "International",
+    "crest": null,
+    "aliases": [
+      "Legion 13",
+      "franchise team, no single country"
+    ]
+  },
+  {
+    "id": "majesticks-gc",
+    "name": "Majesticks Golf Club",
+    "shortName": "Majesticks",
+    "code": "MAJ",
+    "sportId": "golf",
+    "leagueId": "liv-golf",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "Majesticks GC"
+    ]
+  },
+  {
+    "id": "okgc",
+    "name": "OKGC",
+    "shortName": "OKGC",
+    "code": "OKG",
+    "sportId": "golf",
+    "leagueId": "liv-golf",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "Smash GC",
+      "Oklahoma Golf Club"
+    ]
+  },
+  {
+    "id": "rangegoats-gc",
+    "name": "RangeGoats Golf Club",
+    "shortName": "RangeGoats",
+    "code": "RGO",
+    "sportId": "golf",
+    "leagueId": "liv-golf",
+    "country": "International",
+    "crest": null,
+    "aliases": [
+      "RangeGoats GC",
+      "Range Goats",
+      "franchise team, no single country"
+    ]
+  },
+  {
+    "id": "ripper-gc",
+    "name": "Ripper GC",
+    "shortName": "Ripper",
+    "code": "RIP",
+    "sportId": "golf",
+    "leagueId": "liv-golf",
+    "country": "Australia",
+    "crest": null,
+    "aliases": [
+      "Ripper Golf Club"
+    ]
+  },
+  {
+    "id": "southern-guards-gc",
+    "name": "Southern Guards GC",
+    "shortName": "Southern Guards",
+    "code": "SGC",
+    "sportId": "golf",
+    "leagueId": "liv-golf",
+    "country": "South Africa",
+    "crest": null,
+    "aliases": [
+      "Stinger GC"
+    ]
+  },
+  {
+    "id": "torque-gc",
+    "name": "Torque GC",
+    "shortName": "Torque",
+    "code": "TOR",
+    "sportId": "golf",
+    "leagueId": "liv-golf",
+    "country": "International",
+    "crest": null,
+    "aliases": [
+      "Torque Golf Club",
+      "franchise team, no single country"
+    ]
+  },
+  {
+    "id": "aprilia-racing",
+    "name": "Aprilia Racing",
+    "shortName": "Aprilia Racing",
+    "code": "APR",
+    "sportId": "motorsport",
+    "leagueId": "motogp",
+    "country": "Italy",
+    "crest": null,
+    "aliases": [
+      "aprilia"
+    ]
+  },
+  {
+    "id": "bk8-gresini-racing-motogp",
+    "name": "BK8 Gresini Racing MotoGP",
+    "shortName": "Gresini",
+    "code": "GRE",
+    "sportId": "motorsport",
+    "leagueId": "motogp",
+    "country": "Italy",
+    "crest": null,
+    "aliases": [
+      "gresini racing",
+      "gresini motogp"
+    ]
+  },
+  {
+    "id": "ducati-lenovo-team",
+    "name": "Ducati Lenovo Team",
+    "shortName": "Ducati",
+    "code": "DUC",
+    "sportId": "motorsport",
+    "leagueId": "motogp",
+    "country": "Italy",
+    "crest": null,
+    "aliases": [
+      "ducati corse"
+    ]
+  },
+  {
+    "id": "honda-hrc-castrol",
+    "name": "Honda HRC Castrol",
+    "shortName": "Honda HRC",
+    "code": "HRC",
+    "sportId": "motorsport",
+    "leagueId": "motogp",
+    "country": "Japan",
+    "crest": null,
+    "aliases": [
+      "honda racing corporation",
+      "hrc"
+    ]
+  },
+  {
+    "id": "honda-lcr",
+    "name": "Honda LCR",
+    "shortName": "LCR",
+    "code": "LCR",
+    "sportId": "motorsport",
+    "leagueId": "motogp",
+    "country": "Monaco",
+    "crest": null,
+    "aliases": [
+      "lcr honda",
+      "castrol honda lcr",
+      "lucio cecchinello racing"
+    ]
+  },
+  {
+    "id": "monster-energy-yamaha-motogp",
+    "name": "Monster Energy Yamaha MotoGP",
+    "shortName": "Yamaha",
+    "code": "YAM",
+    "sportId": "motorsport",
+    "leagueId": "motogp",
+    "country": "Japan",
+    "crest": null,
+    "aliases": [
+      "yamaha factory racing",
+      "monster energy yamaha"
+    ]
+  },
+  {
+    "id": "pertamina-enduro-vr46-racing-team",
+    "name": "Pertamina Enduro VR46 Racing Team",
+    "shortName": "VR46",
+    "code": "VR4",
+    "sportId": "motorsport",
+    "leagueId": "motogp",
+    "country": "Italy",
+    "crest": null,
+    "aliases": [
+      "vr46 racing team",
+      "pertamina enduro vr46"
+    ]
+  },
+  {
+    "id": "prima-pramac-yamaha-motogp",
+    "name": "Prima Pramac Yamaha MotoGP",
+    "shortName": "Pramac",
+    "code": "PRA",
+    "sportId": "motorsport",
+    "leagueId": "motogp",
+    "country": "Italy",
+    "crest": null,
+    "aliases": [
+      "pramac racing",
+      "pramac yamaha"
+    ]
+  },
+  {
+    "id": "red-bull-ktm-factory-racing",
+    "name": "Red Bull KTM Factory Racing",
+    "shortName": "KTM Factory",
+    "code": "KTM",
+    "sportId": "motorsport",
+    "leagueId": "motogp",
+    "country": "Austria",
+    "crest": null,
+    "aliases": [
+      "ktm factory racing"
+    ]
+  },
+  {
+    "id": "red-bull-ktm-tech3",
+    "name": "Red Bull KTM Tech3",
+    "shortName": "Tech3",
+    "code": "TEC",
+    "sportId": "motorsport",
+    "leagueId": "motogp",
+    "country": "France",
+    "crest": null,
+    "aliases": [
+      "tech3",
+      "ktm tech3"
+    ]
+  },
+  {
+    "id": "superfile-trackhouse-motogp-team",
+    "name": "SuperFile Trackhouse MotoGP Team",
+    "shortName": "Trackhouse",
+    "code": "TRK",
+    "sportId": "motorsport",
+    "leagueId": "motogp",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "trackhouse racing"
+    ]
+  },
+  {
+    "id": "bonds-flying-roos",
+    "name": "BONDS Flying Roos SailGP Team",
+    "shortName": "Flying Roos",
+    "code": "AUS",
+    "sportId": "sailing",
+    "leagueId": "sailgp",
+    "country": "Australia",
+    "crest": null,
+    "aliases": [
+      "Australia SailGP Team",
+      "Bonds Flying Roos",
+      "Flying Roos"
+    ]
+  },
+  {
+    "id": "mubadala-brazil",
+    "name": "Mubadala Brazil SailGP Team",
+    "shortName": "Mubadala Brazil",
+    "code": "BRA",
+    "sportId": "sailing",
+    "leagueId": "sailgp",
+    "country": "Brazil",
+    "crest": null,
+    "aliases": [
+      "Brazil SailGP Team",
+      "Mubadala Brazil"
+    ]
+  },
+  {
+    "id": "northstar-canada",
+    "name": "NorthStar SailGP Team",
+    "shortName": "NorthStar",
+    "code": "CAN",
+    "sportId": "sailing",
+    "leagueId": "sailgp",
+    "country": "Canada",
+    "crest": null,
+    "aliases": [
+      "Canada SailGP Team",
+      "NorthStar",
+      "Canada SailGP Team | NorthStar"
+    ]
+  },
+  {
+    "id": "rockwool-denmark",
+    "name": "ROCKWOOL Racing SailGP Team",
+    "shortName": "ROCKWOOL Racing",
+    "code": "DEN",
+    "sportId": "sailing",
+    "leagueId": "sailgp",
+    "country": "Denmark",
+    "crest": null,
+    "aliases": [
+      "Denmark SailGP Team",
+      "ROCKWOOL Denmark SailGP Team",
+      "ROCKWOOL Racing"
+    ]
+  },
+  {
+    "id": "ds-automobiles-france",
+    "name": "DS Automobiles SailGP Team France",
+    "shortName": "DS Automobiles France",
+    "code": "FRA",
+    "sportId": "sailing",
+    "leagueId": "sailgp",
+    "country": "France",
+    "crest": null,
+    "aliases": [
+      "France SailGP Team",
+      "DS Automobiles SailGP Team"
+    ]
+  },
+  {
+    "id": "emirates-great-britain",
+    "name": "Emirates Great Britain SailGP Team",
+    "shortName": "Emirates GBR",
+    "code": "GBR",
+    "sportId": "sailing",
+    "leagueId": "sailgp",
+    "country": "Great Britain",
+    "crest": null,
+    "aliases": [
+      "Great Britain SailGP Team",
+      "Emirates GBR",
+      "GBR SailGP Team"
+    ]
+  },
+  {
+    "id": "germany-sailgp",
+    "name": "Germany SailGP Team presented by Deutsche Bank",
+    "shortName": "Germany SailGP",
+    "code": "GER",
+    "sportId": "sailing",
+    "leagueId": "sailgp",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [
+      "Germany SailGP Team",
+      "Deutsche Bank Germany SailGP Team"
+    ]
+  },
+  {
+    "id": "red-bull-italy",
+    "name": "Red Bull Italy SailGP Team",
+    "shortName": "Red Bull Italy",
+    "code": "ITA",
+    "sportId": "sailing",
+    "leagueId": "sailgp",
+    "country": "Italy",
+    "crest": null,
+    "aliases": [
+      "Italy SailGP Team",
+      "Red Bull Italy"
+    ]
+  },
+  {
+    "id": "black-foils-nz",
+    "name": "Black Foils SailGP Team",
+    "shortName": "Black Foils",
+    "code": "NZL",
+    "sportId": "sailing",
+    "leagueId": "sailgp",
+    "country": "New Zealand",
+    "crest": null,
+    "aliases": [
+      "New Zealand SailGP Team",
+      "Black Foils",
+      "NZ SailGP Team"
+    ]
+  },
+  {
+    "id": "los-gallos",
+    "name": "Los Gallos SailGP Team",
+    "shortName": "Los Gallos",
+    "code": "ESP",
+    "sportId": "sailing",
+    "leagueId": "sailgp",
+    "country": "Spain",
+    "crest": null,
+    "aliases": [
+      "Spain SailGP Team",
+      "Los Gallos"
+    ]
+  },
+  {
+    "id": "artemis-sweden",
+    "name": "Artemis SailGP Team",
+    "shortName": "Artemis",
+    "code": "SWE",
+    "sportId": "sailing",
+    "leagueId": "sailgp",
+    "country": "Sweden",
+    "crest": null,
+    "aliases": [
+      "Artemis SailGP",
+      "Sweden SailGP Team",
+      "Artemis Racing"
+    ]
+  },
+  {
+    "id": "swiss-sailgp",
+    "name": "Explora Journeys Swiss SailGP Team",
+    "shortName": "Swiss SailGP",
+    "code": "SUI",
+    "sportId": "sailing",
+    "leagueId": "sailgp",
+    "country": "Switzerland",
+    "crest": null,
+    "aliases": [
+      "Switzerland SailGP Team",
+      "Swiss SailGP Team",
+      "Explora Journeys Swiss SailGP Team"
+    ]
+  },
+  {
+    "id": "us-sailgp",
+    "name": "United States SailGP Team",
+    "shortName": "US SailGP",
+    "code": "USA",
+    "sportId": "sailing",
+    "leagueId": "sailgp",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "United States SailGP Team",
+      "US SailGP Team",
+      "America's SailGP Team"
     ]
   },
   {
@@ -4092,5 +6872,946 @@
       "viking stavanger"
     ],
     "hasTeamPageDesign": false
+  },
+  {
+    "id": "arsenal-w",
+    "name": "Arsenal Women",
+    "shortName": "Arsenal W",
+    "code": "ARW",
+    "sportId": "soccer",
+    "leagueId": "womens-super-league",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "arsenal women fc"
+    ]
+  },
+  {
+    "id": "aston-villa-w",
+    "name": "Aston Villa Women",
+    "shortName": "Aston Villa W",
+    "code": "AVW",
+    "sportId": "soccer",
+    "leagueId": "womens-super-league",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "aston villa women fc"
+    ]
+  },
+  {
+    "id": "birmingham-city-w",
+    "name": "Birmingham City Women",
+    "shortName": "Birmingham City W",
+    "code": "BCW",
+    "sportId": "soccer",
+    "leagueId": "womens-super-league",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "birmingham city women fc"
+    ]
+  },
+  {
+    "id": "brighton-and-hove-albion-w",
+    "name": "Brighton & Hove Albion Women",
+    "shortName": "Brighton W",
+    "code": "BHW",
+    "sportId": "soccer",
+    "leagueId": "womens-super-league",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "brighton women",
+      "brighton and hove albion women fc"
+    ]
+  },
+  {
+    "id": "charlton-athletic-w",
+    "name": "Charlton Athletic Women",
+    "shortName": "Charlton W",
+    "code": "CAW",
+    "sportId": "soccer",
+    "leagueId": "womens-super-league",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "charlton athletic women fc"
+    ]
+  },
+  {
+    "id": "chelsea-w",
+    "name": "Chelsea Women",
+    "shortName": "Chelsea W",
+    "code": "CHW",
+    "sportId": "soccer",
+    "leagueId": "womens-super-league",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "chelsea women fc"
+    ]
+  },
+  {
+    "id": "crystal-palace-w",
+    "name": "Crystal Palace Women",
+    "shortName": "Crystal Palace W",
+    "code": "CPW",
+    "sportId": "soccer",
+    "leagueId": "womens-super-league",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "crystal palace women fc"
+    ]
+  },
+  {
+    "id": "everton-w",
+    "name": "Everton Women",
+    "shortName": "Everton W",
+    "code": "EVW",
+    "sportId": "soccer",
+    "leagueId": "womens-super-league",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "everton women fc"
+    ]
+  },
+  {
+    "id": "liverpool-w",
+    "name": "Liverpool Women",
+    "shortName": "Liverpool W",
+    "code": "LIW",
+    "sportId": "soccer",
+    "leagueId": "womens-super-league",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "liverpool women fc"
+    ]
+  },
+  {
+    "id": "london-city-lionesses",
+    "name": "London City Lionesses",
+    "shortName": "London City",
+    "code": "LCL",
+    "sportId": "soccer",
+    "leagueId": "womens-super-league",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "london city lionesses fc"
+    ]
+  },
+  {
+    "id": "manchester-city-w",
+    "name": "Manchester City Women",
+    "shortName": "Man City W",
+    "code": "MCW",
+    "sportId": "soccer",
+    "leagueId": "womens-super-league",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "manchester city women fc"
+    ]
+  },
+  {
+    "id": "manchester-united-w",
+    "name": "Manchester United Women",
+    "shortName": "Man Utd W",
+    "code": "MUW",
+    "sportId": "soccer",
+    "leagueId": "womens-super-league",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "manchester united women fc"
+    ]
+  },
+  {
+    "id": "tottenham-hotspur-w",
+    "name": "Tottenham Hotspur Women",
+    "shortName": "Tottenham W",
+    "code": "THW",
+    "sportId": "soccer",
+    "leagueId": "womens-super-league",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "tottenham women fc",
+      "spurs women"
+    ]
+  },
+  {
+    "id": "west-ham-united-w",
+    "name": "West Ham United Women",
+    "shortName": "West Ham W",
+    "code": "WHW",
+    "sportId": "soccer",
+    "leagueId": "womens-super-league",
+    "country": "England",
+    "crest": null,
+    "aliases": [
+      "west ham united women fc"
+    ]
+  },
+  {
+    "id": "rugby-new-zealand",
+    "name": "New Zealand",
+    "shortName": "New Zealand",
+    "code": "NZL",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "New Zealand",
+    "crest": null,
+    "aliases": [
+      "all blacks",
+      "nzl"
+    ]
+  },
+  {
+    "id": "rugby-australia",
+    "name": "Australia",
+    "shortName": "Australia",
+    "code": "AUS",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Australia",
+    "crest": null,
+    "aliases": [
+      "wallabies",
+      "host"
+    ]
+  },
+  {
+    "id": "rugby-chile",
+    "name": "Chile",
+    "shortName": "Chile",
+    "code": "CHI",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Chile",
+    "crest": null,
+    "aliases": [
+      "condors",
+      "chi"
+    ]
+  },
+  {
+    "id": "rugby-hong-kong-china",
+    "name": "Hong Kong China",
+    "shortName": "Hong Kong China",
+    "code": "HKG",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Hong Kong",
+    "crest": null,
+    "aliases": [
+      "hong kong",
+      "debutants"
+    ]
+  },
+  {
+    "id": "rugby-south-africa",
+    "name": "South Africa",
+    "shortName": "South Africa",
+    "code": "RSA",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "South Africa",
+    "crest": null,
+    "aliases": [
+      "springboks",
+      "defending champions"
+    ]
+  },
+  {
+    "id": "rugby-italy",
+    "name": "Italy",
+    "shortName": "Italy",
+    "code": "ITA",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Italy",
+    "crest": null,
+    "aliases": [
+      "azzurri"
+    ]
+  },
+  {
+    "id": "rugby-georgia",
+    "name": "Georgia",
+    "shortName": "Georgia",
+    "code": "GEO",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Georgia",
+    "crest": null,
+    "aliases": [
+      "loros"
+    ]
+  },
+  {
+    "id": "rugby-romania",
+    "name": "Romania",
+    "shortName": "Romania",
+    "code": "ROU",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Romania",
+    "crest": null,
+    "aliases": [
+      "stejarii",
+      "oaks"
+    ]
+  },
+  {
+    "id": "rugby-argentina",
+    "name": "Argentina",
+    "shortName": "Argentina",
+    "code": "ARG",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Argentina",
+    "crest": null,
+    "aliases": [
+      "los pumas"
+    ]
+  },
+  {
+    "id": "rugby-fiji",
+    "name": "Fiji",
+    "shortName": "Fiji",
+    "code": "FIJ",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Fiji",
+    "crest": null,
+    "aliases": [
+      "flying fijians"
+    ]
+  },
+  {
+    "id": "rugby-spain",
+    "name": "Spain",
+    "shortName": "Spain",
+    "code": "ESP",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Spain",
+    "crest": null,
+    "aliases": [
+      "los leones"
+    ]
+  },
+  {
+    "id": "rugby-canada",
+    "name": "Canada",
+    "shortName": "Canada",
+    "code": "CAN",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Canada",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "rugby-ireland",
+    "name": "Ireland",
+    "shortName": "Ireland",
+    "code": "IRE",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Ireland",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "rugby-scotland",
+    "name": "Scotland",
+    "shortName": "Scotland",
+    "code": "SCO",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Scotland",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "rugby-uruguay",
+    "name": "Uruguay",
+    "shortName": "Uruguay",
+    "code": "URU",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Uruguay",
+    "crest": null,
+    "aliases": [
+      "los teros"
+    ]
+  },
+  {
+    "id": "rugby-portugal",
+    "name": "Portugal",
+    "shortName": "Portugal",
+    "code": "POR",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "os lobos"
+    ]
+  },
+  {
+    "id": "rugby-france",
+    "name": "France",
+    "shortName": "France",
+    "code": "FRA",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "France",
+    "crest": null,
+    "aliases": [
+      "les bleus"
+    ]
+  },
+  {
+    "id": "rugby-japan",
+    "name": "Japan",
+    "shortName": "Japan",
+    "code": "JPN",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Japan",
+    "crest": null,
+    "aliases": [
+      "brave blossoms"
+    ]
+  },
+  {
+    "id": "rugby-usa",
+    "name": "USA",
+    "shortName": "USA",
+    "code": "USA",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "USA",
+    "crest": null,
+    "aliases": [
+      "eagles",
+      "united states"
+    ]
+  },
+  {
+    "id": "rugby-samoa",
+    "name": "Samoa",
+    "shortName": "Samoa",
+    "code": "SAM",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Samoa",
+    "crest": null,
+    "aliases": [
+      "manu samoa"
+    ]
+  },
+  {
+    "id": "rugby-england",
+    "name": "England",
+    "shortName": "England",
+    "code": "ENG",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "England",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "rugby-wales",
+    "name": "Wales",
+    "shortName": "Wales",
+    "code": "WAL",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Wales",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "rugby-tonga",
+    "name": "Tonga",
+    "shortName": "Tonga",
+    "code": "TGA",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Tonga",
+    "crest": null,
+    "aliases": [
+      "ikale tahi"
+    ]
+  },
+  {
+    "id": "rugby-zimbabwe",
+    "name": "Zimbabwe",
+    "shortName": "Zimbabwe",
+    "code": "ZIM",
+    "sportId": "rugby",
+    "leagueId": "world-rugby",
+    "country": "Zimbabwe",
+    "crest": null,
+    "aliases": [
+      "sables",
+      "debutants"
+    ]
+  },
+  {
+    "id": "wta-finals",
+    "name": "WTA Finals",
+    "shortName": "WTA Finals",
+    "code": "WTF",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "wta finals riyadh",
+      "wta finals indian wells",
+      "year-end championships"
+    ]
+  },
+  {
+    "id": "bjk-cup-qualifying",
+    "name": "Billie Jean King Cup qualifying round",
+    "shortName": "BJK Cup qualifying",
+    "code": "BJQ",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "International",
+    "crest": null,
+    "aliases": [
+      "billie jean king cup qualifying round",
+      "fed cup qualifying",
+      "event entity: qualifying round, not a team",
+      "event entity: qualifying round, not a team",
+      "event entity, not a national team"
+    ]
+  },
+  {
+    "id": "bjk-cup-finals",
+    "name": "Billie Jean King Cup Finals",
+    "shortName": "BJK Cup Finals",
+    "code": "BJF",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "billie jean king cup finals",
+      "fed cup finals",
+      "bjk cup shenzhen"
+    ]
+  },
+  {
+    "id": "wuhan-open",
+    "name": "Wuhan Open",
+    "shortName": "Wuhan",
+    "code": "WUH",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "wuhan open china",
+      "dongfeng wuhan open"
+    ]
+  },
+  {
+    "id": "abu-dhabi-open",
+    "name": "Mubadala Abu Dhabi Open",
+    "shortName": "Abu Dhabi",
+    "code": "ADO",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "United Arab Emirates",
+    "crest": null,
+    "aliases": [
+      "abu dhabi open",
+      "mubadala abu dhabi open presented by abu dhabi sports council"
+    ]
+  },
+  {
+    "id": "merida-open",
+    "name": "Mérida Open",
+    "shortName": "Mérida",
+    "code": "MER",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "Mexico",
+    "crest": null,
+    "aliases": [
+      "merida open mexico",
+      "merida open akron"
+    ]
+  },
+  {
+    "id": "charleston-open",
+    "name": "Charleston Open",
+    "shortName": "Charleston",
+    "code": "CHA",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "charleston open south carolina",
+      "credit one charleston open",
+      "family circle cup"
+    ]
+  },
+  {
+    "id": "linz-open",
+    "name": "Linz Open",
+    "shortName": "Linz",
+    "code": "LIN",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "Austria",
+    "crest": null,
+    "aliases": [
+      "upper austria ladies linz"
+    ]
+  },
+  {
+    "id": "strasbourg-open",
+    "name": "Internationaux de Strasbourg",
+    "shortName": "Strasbourg",
+    "code": "STR",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "France",
+    "crest": null,
+    "aliases": [
+      "strasbourg open",
+      "internationaux de strasbourg tennis"
+    ]
+  },
+  {
+    "id": "berlin-open",
+    "name": "German Open",
+    "shortName": "Berlin",
+    "code": "BER",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [
+      "berlin open",
+      "ecotrans german open",
+      "bett1open"
+    ]
+  },
+  {
+    "id": "bad-homburg-open",
+    "name": "Bad Homburg Open",
+    "shortName": "Bad Homburg",
+    "code": "BHO",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [
+      "bad homburg open germany"
+    ]
+  },
+  {
+    "id": "monterrey-open",
+    "name": "Monterrey Open",
+    "shortName": "Monterrey",
+    "code": "MON",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "Mexico",
+    "crest": null,
+    "aliases": [
+      "monterrey open mexico",
+      "abierto gnp seguros"
+    ]
+  },
+  {
+    "id": "guadalajara-open",
+    "name": "Guadalajara Open",
+    "shortName": "Guadalajara",
+    "code": "GUA",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "Mexico",
+    "crest": null,
+    "aliases": [
+      "guadalajara open mexico",
+      "guadalajara open akron",
+      "zapopan open"
+    ]
+  },
+  {
+    "id": "singapore-open",
+    "name": "Singapore Open",
+    "shortName": "Singapore",
+    "code": "SIN",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "Singapore",
+    "crest": null,
+    "aliases": [
+      "singapore tennis open"
+    ]
+  },
+  {
+    "id": "ningbo-open",
+    "name": "Ningbo Open",
+    "shortName": "Ningbo",
+    "code": "NIN",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "ningbo open china"
+    ]
+  },
+  {
+    "id": "pan-pacific-open",
+    "name": "Pan Pacific Open",
+    "shortName": "Tokyo",
+    "code": "PPO",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "Japan",
+    "crest": null,
+    "aliases": [
+      "toray pan pacific open",
+      "tokyo pan pacific",
+      "japan open tokyo"
+    ]
+  },
+  {
+    "id": "hobart-international",
+    "name": "Hobart International",
+    "shortName": "Hobart",
+    "code": "HOB",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "Australia",
+    "crest": null,
+    "aliases": [
+      "hobart international tennis"
+    ]
+  },
+  {
+    "id": "ostrava-open",
+    "name": "Ostrava Open",
+    "shortName": "Ostrava",
+    "code": "OST",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "Czech Republic",
+    "crest": null,
+    "aliases": [
+      "ostrava open czech republic",
+      "agel open"
+    ]
+  },
+  {
+    "id": "transylvania-open",
+    "name": "Transylvania Open",
+    "shortName": "Cluj-Napoca",
+    "code": "TRA",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "Romania",
+    "crest": null,
+    "aliases": [
+      "transylvania open cluj"
+    ]
+  },
+  {
+    "id": "atx-open",
+    "name": "ATX Open",
+    "shortName": "Austin",
+    "code": "ATX",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "atx open austin texas"
+    ]
+  },
+  {
+    "id": "copa-colsanitas",
+    "name": "Copa Colsanitas",
+    "shortName": "Bogotá",
+    "code": "COL",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "Colombia",
+    "crest": null,
+    "aliases": [
+      "colsanitas cup bogota",
+      "open colombia"
+    ]
+  },
+  {
+    "id": "rouen-open",
+    "name": "Open de Rouen",
+    "shortName": "Rouen",
+    "code": "ROU",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "France",
+    "crest": null,
+    "aliases": [
+      "rouen open france",
+      "open capfinances rouen"
+    ]
+  },
+  {
+    "id": "morocco-open",
+    "name": "Morocco Open",
+    "shortName": "Rabat",
+    "code": "MOR",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "Morocco",
+    "crest": null,
+    "aliases": [
+      "rabat open",
+      "grand prix sona maroc"
+    ]
+  },
+  {
+    "id": "nottingham-open",
+    "name": "Nottingham Open",
+    "shortName": "Nottingham",
+    "code": "NOT",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "United Kingdom",
+    "crest": null,
+    "aliases": [
+      "nottingham open grass",
+      "rothesay open nottingham"
+    ]
+  },
+  {
+    "id": "iasi-open",
+    "name": "Iași Open",
+    "shortName": "Iași",
+    "code": "IAS",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "Romania",
+    "crest": null,
+    "aliases": [
+      "iasi open romania"
+    ]
+  },
+  {
+    "id": "athens-open",
+    "name": "Athens Open",
+    "shortName": "Athens",
+    "code": "ATH",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "Greece",
+    "crest": null,
+    "aliases": [
+      "athens open greece",
+      "athens open wta"
+    ]
+  },
+  {
+    "id": "prague-open",
+    "name": "Prague Open",
+    "shortName": "Prague",
+    "code": "PRA",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "Czech Republic",
+    "crest": null,
+    "aliases": [
+      "prague open czech",
+      "metro open prague"
+    ]
+  },
+  {
+    "id": "memphis-classic",
+    "name": "Memphis Classic",
+    "shortName": "Memphis",
+    "code": "MEM",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "memphis open tennessee"
+    ]
+  },
+  {
+    "id": "sp-open",
+    "name": "SP Open",
+    "shortName": "São Paulo",
+    "code": "SPO",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "Brazil",
+    "crest": null,
+    "aliases": [
+      "sao paulo open",
+      "sp open brazil"
+    ]
+  },
+  {
+    "id": "korea-open",
+    "name": "Korea Open",
+    "shortName": "Seoul",
+    "code": "KOR",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "South Korea",
+    "crest": null,
+    "aliases": [
+      "korea open seoul",
+      "hana bank korea open"
+    ]
+  },
+  {
+    "id": "guangzhou-open",
+    "name": "Guangzhou Open",
+    "shortName": "Guangzhou",
+    "code": "GZU",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "guangzhou international women's open"
+    ]
+  },
+  {
+    "id": "chennai-open",
+    "name": "Chennai Open",
+    "shortName": "Chennai",
+    "code": "CHE",
+    "sportId": "tennis",
+    "leagueId": "wta-tour",
+    "country": "India",
+    "crest": null,
+    "aliases": [
+      "chennai open india",
+      "chennai open wta"
+    ]
   }
 ]

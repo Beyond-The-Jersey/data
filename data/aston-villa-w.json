@@ -1,0 +1,30 @@
+{
+  "id": "aston-villa-w",
+  "team": "Aston Villa Women",
+  "sport": "soccer",
+  "league": "womens-super-league",
+  "country": "England",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "visit-rwanda",
+      "name": "Visit Rwanda",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "severe",
+      "ownerId": "government-of-rwanda",
+      "owner": "Government of Rwanda",
+      "verdict": "Paid for by a government that UN experts say has 3,000–4,000 troops fighting alongside M23 rebels in eastern Congo.",
+      "source": {
+        "name": "SportsPro",
+        "date": "2026-07-15",
+        "url": "https://www.sportspro.com/news/sponsorship-marketing/aston-villa-visit-rwanda-shirt-principal-sponsorship-july-2026/"
+      }
+    }
+  ],
+  "worstTier": "severe",
+  "owners": [
+    "government-of-rwanda"
+  ],
+  "lastUpdated": "2026-09-24"
+}

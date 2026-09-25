@@ -1,0 +1,48 @@
+{
+  "id": "manchester-united-w",
+  "team": "Manchester United Women",
+  "sport": "soccer",
+  "league": "womens-super-league",
+  "country": "England",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "microsoft-corporation",
+      "owner": "Microsoft Corporation (Nasdaq-listed)",
+      "verdict": "Owned by Microsoft Corporation. Nothing found.",
+      "source": {
+        "name": "Manchester United, Microsoft Surface announcement",
+        "date": "2026-07-17",
+        "url": "https://www.manutd.com/en/news/microsoft-surface-to-feature-on-back-of-united-shirts-v1",
+        "note": "Surface branding appears on the back of United Women's shirts across the 2026/27 campaign (men's domestic cup shirts and selected Academy kits covered separately)."
+      }
+    },
+    {
+      "id": "snapdragon",
+      "name": "Snapdragon",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "qualcomm",
+      "owner": "Qualcomm Incorporated (Nasdaq-listed)",
+      "verdict": "Owned by Qualcomm Incorporated (Nasdaq-listed) — Snapdragon is its brand. Nothing found.",
+      "source": {
+        "name": "Manchester United, Microsoft Surface announcement",
+        "date": "2026-07-17",
+        "url": "https://www.manutd.com/en/news/microsoft-surface-to-feature-on-back-of-united-shirts-v1",
+        "note": "The article is about the Surface back-of-shirt deal; Snapdragon remains the shirt front from the existing club partnership (men's 2026/27 kit in normalized uses the same front). Women's-team-specific confirmation of the front placement not restated."
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "microsoft-corporation",
+    "qualcomm"
+  ],
+  "lastUpdated": "2026-09-24"
+}

@@ -1495,6 +1495,1182 @@
       "file": "williams.json"
     },
     {
+      "id": "al-ain",
+      "name": "Al Ain FC",
+      "sport": "soccer",
+      "league": "afc",
+      "file": "al-ain.json"
+    },
+    {
+      "id": "shabab-al-ahli",
+      "name": "Shabab Al Ahli Club",
+      "sport": "soccer",
+      "league": "afc",
+      "file": "shabab-al-ahli.json"
+    },
+    {
+      "id": "al-wasl",
+      "name": "Al Wasl FC",
+      "sport": "soccer",
+      "league": "afc",
+      "file": "al-wasl.json"
+    },
+    {
+      "id": "al-sadd",
+      "name": "Al Sadd SC",
+      "sport": "soccer",
+      "league": "afc",
+      "file": "al-sadd.json"
+    },
+    {
+      "id": "al-gharafa",
+      "name": "Al-Gharafa SC",
+      "sport": "soccer",
+      "league": "afc",
+      "file": "al-gharafa.json"
+    },
+    {
+      "id": "al-shamal",
+      "name": "Al-Shamal SC",
+      "sport": "soccer",
+      "league": "afc",
+      "file": "al-shamal.json"
+    },
+    {
+      "id": "esteghlal",
+      "name": "Esteghlal FC",
+      "sport": "soccer",
+      "league": "afc",
+      "file": "esteghlal.json"
+    },
+    {
+      "id": "tractor",
+      "name": "Tractor SC",
+      "sport": "soccer",
+      "league": "afc",
+      "file": "tractor.json"
+    },
+    {
+      "id": "neftchi",
+      "name": "Neftchi Fergana",
+      "sport": "soccer",
+      "league": "afc",
+      "file": "neftchi.json"
+    },
+    {
+      "id": "pakhtakor",
+      "name": "Pakhtakor Tashkent",
+      "sport": "soccer",
+      "league": "afc",
+      "file": "pakhtakor.json"
+    },
+    {
+      "id": "al-quwa-al-jawiya",
+      "name": "Al-Quwa Al-Jawiya",
+      "sport": "soccer",
+      "league": "afc",
+      "file": "al-quwa-al-jawiya.json"
+    },
+    {
+      "id": "kashima-antlers",
+      "name": "Kashima Antlers",
+      "sport": "soccer",
+      "league": "afc",
+      "file": "kashima-antlers.json"
+    },
+    {
+      "id": "vissel-kobe",
+      "name": "Vissel Kobe",
+      "sport": "soccer",
+      "league": "afc",
+      "file": "vissel-kobe.json"
+    },
+    {
+      "id": "kashiwa-reysol",
+      "name": "Kashiwa Reysol",
+      "sport": "soccer",
+      "league": "afc",
+      "file": "kashiwa-reysol.json"
+    },
+    {
+      "id": "kyoto-sanga",
+      "name": "Kyoto Sanga FC",
+      "sport": "soccer",
+      "league": "afc",
+      "file": "kyoto-sanga.json"
+    },
+    {
+      "id": "gamba-osaka",
+      "name": "Gamba Osaka",
+      "sport": "soccer",
+      "league": "afc",
+      "file": "gamba-osaka.json"
+    },
+    {
+      "id": "jeonbuk-hyundai-motors",
+      "name": "Jeonbuk Hyundai Motors",
+      "sport": "soccer",
+      "league": "afc",
+      "file": "jeonbuk-hyundai-motors.json"
+    },
+    {
+      "id": "daejeon-hana-citizen",
+      "name": "Daejeon Hana Citizen",
+      "sport": "soccer",
+      "league": "afc",
+      "file": "daejeon-hana-citizen.json"
+    },
+    {
+      "id": "pohang-steelers",
+      "name": "Pohang Steelers",
+      "sport": "soccer",
+      "league": "afc",
+      "file": "pohang-steelers.json"
+    },
+    {
+      "id": "buriram-united",
+      "name": "Buriram United",
+      "sport": "soccer",
+      "league": "afc",
+      "file": "buriram-united.json"
+    },
+    {
+      "id": "port-fc",
+      "name": "Port FC",
+      "sport": "soccer",
+      "league": "afc",
+      "file": "port-fc.json"
+    },
+    {
+      "id": "ratchaburi",
+      "name": "Ratchaburi FC",
+      "sport": "soccer",
+      "league": "afc",
+      "file": "ratchaburi.json"
+    },
+    {
+      "id": "shanghai-port",
+      "name": "Shanghai Port FC",
+      "sport": "soccer",
+      "league": "afc",
+      "file": "shanghai-port.json"
+    },
+    {
+      "id": "beijing-guoan",
+      "name": "Beijing Guoan FC",
+      "sport": "soccer",
+      "league": "afc",
+      "file": "beijing-guoan.json"
+    },
+    {
+      "id": "newcastle-jets",
+      "name": "Newcastle Jets FC",
+      "sport": "soccer",
+      "league": "afc",
+      "file": "newcastle-jets.json"
+    },
+    {
+      "id": "johor-darul-tazim",
+      "name": "Johor Darul Ta'zim FC",
+      "sport": "soccer",
+      "league": "afc",
+      "file": "johor-darul-tazim.json"
+    },
+    {
+      "id": "cong-an-ha-noi",
+      "name": "Cong An Ha Noi FC",
+      "sport": "soccer",
+      "league": "afc",
+      "file": "cong-an-ha-noi.json"
+    },
+    {
+      "id": "australian-open",
+      "name": "Australian Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "australian-open.json"
+    },
+    {
+      "id": "french-open",
+      "name": "French Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "french-open.json"
+    },
+    {
+      "id": "wimbledon",
+      "name": "Wimbledon",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "wimbledon.json"
+    },
+    {
+      "id": "us-open",
+      "name": "US Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "us-open.json"
+    },
+    {
+      "id": "brisbane-international",
+      "name": "Brisbane International",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "brisbane-international.json"
+    },
+    {
+      "id": "adelaide-international",
+      "name": "Adelaide International",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "adelaide-international.json"
+    },
+    {
+      "id": "auckland-open",
+      "name": "Auckland Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "auckland-open.json"
+    },
+    {
+      "id": "hong-kong-open",
+      "name": "Hong Kong Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "hong-kong-open.json"
+    },
+    {
+      "id": "qatar-open",
+      "name": "Qatar Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "qatar-open.json"
+    },
+    {
+      "id": "dubai-tennis-championships",
+      "name": "Dubai Tennis Championships",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "dubai-tennis-championships.json"
+    },
+    {
+      "id": "indian-wells-open",
+      "name": "Indian Wells Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "indian-wells-open.json"
+    },
+    {
+      "id": "miami-open",
+      "name": "Miami Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "miami-open.json"
+    },
+    {
+      "id": "madrid-open",
+      "name": "Madrid Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "madrid-open.json"
+    },
+    {
+      "id": "italian-open",
+      "name": "Italian Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "italian-open.json"
+    },
+    {
+      "id": "canadian-open",
+      "name": "Canadian Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "canadian-open.json"
+    },
+    {
+      "id": "cincinnati-open",
+      "name": "Cincinnati Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "cincinnati-open.json"
+    },
+    {
+      "id": "china-open",
+      "name": "China Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "china-open.json"
+    },
+    {
+      "id": "eastbourne-open",
+      "name": "Eastbourne Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "eastbourne-open.json"
+    },
+    {
+      "id": "hamburg-open",
+      "name": "Hamburg Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "hamburg-open.json"
+    },
+    {
+      "id": "rosmalen-championships",
+      "name": "Rosmalen Championships",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "rosmalen-championships.json"
+    },
+    {
+      "id": "queens-club-championships",
+      "name": "Queen's Club Championships",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "queens-club-championships.json"
+    },
+    {
+      "id": "dc-open",
+      "name": "DC Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "dc-open.json"
+    },
+    {
+      "id": "japan-open",
+      "name": "Japan Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "japan-open.json"
+    },
+    {
+      "id": "united-cup",
+      "name": "United Cup",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "united-cup.json"
+    },
+    {
+      "id": "monte-carlo-masters",
+      "name": "Monte-Carlo Masters",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "monte-carlo-masters.json"
+    },
+    {
+      "id": "shanghai-masters",
+      "name": "Shanghai Masters",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "shanghai-masters.json"
+    },
+    {
+      "id": "paris-masters",
+      "name": "Paris Masters",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "paris-masters.json"
+    },
+    {
+      "id": "atp-finals",
+      "name": "ATP Finals",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "atp-finals.json"
+    },
+    {
+      "id": "next-gen-atp-finals",
+      "name": "Next Gen ATP Finals",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "next-gen-atp-finals.json"
+    },
+    {
+      "id": "davis-cup-qualifiers-1",
+      "name": "Davis Cup Qualifiers first round",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "davis-cup-qualifiers-1.json"
+    },
+    {
+      "id": "davis-cup-qualifiers-2",
+      "name": "Davis Cup Qualifiers second round",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "davis-cup-qualifiers-2.json"
+    },
+    {
+      "id": "davis-cup-finals",
+      "name": "Davis Cup Finals",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "davis-cup-finals.json"
+    },
+    {
+      "id": "laver-cup",
+      "name": "Laver Cup",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "laver-cup.json"
+    },
+    {
+      "id": "dallas-open",
+      "name": "Dallas Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "dallas-open.json"
+    },
+    {
+      "id": "rotterdam-open",
+      "name": "Rotterdam Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "rotterdam-open.json"
+    },
+    {
+      "id": "rio-open",
+      "name": "Rio Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "rio-open.json"
+    },
+    {
+      "id": "mexican-open",
+      "name": "Mexican Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "mexican-open.json"
+    },
+    {
+      "id": "barcelona-open",
+      "name": "Barcelona Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "barcelona-open.json"
+    },
+    {
+      "id": "munich-open",
+      "name": "Bavarian International Tennis Championships",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "munich-open.json"
+    },
+    {
+      "id": "halle-open",
+      "name": "Halle Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "halle-open.json"
+    },
+    {
+      "id": "mallorca-championships",
+      "name": "Mallorca Championships",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "mallorca-championships.json"
+    },
+    {
+      "id": "swedish-open",
+      "name": "Swedish Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "swedish-open.json"
+    },
+    {
+      "id": "austrian-open",
+      "name": "Austrian Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "austrian-open.json"
+    },
+    {
+      "id": "us-clay-court-championships",
+      "name": "U.S. Men's Clay Court Championships",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "us-clay-court-championships.json"
+    },
+    {
+      "id": "grand-prix-hassan-ii",
+      "name": "Grand Prix Hassan II",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "grand-prix-hassan-ii.json"
+    },
+    {
+      "id": "argentina-open",
+      "name": "Argentina Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "argentina-open.json"
+    },
+    {
+      "id": "chile-open",
+      "name": "Chile Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "chile-open.json"
+    },
+    {
+      "id": "romanian-open",
+      "name": "Romanian Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "romanian-open.json"
+    },
+    {
+      "id": "estoril-open",
+      "name": "Estoril Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "estoril-open.json"
+    },
+    {
+      "id": "open-occitanie",
+      "name": "Open Occitanie",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "open-occitanie.json"
+    },
+    {
+      "id": "stuttgart-open",
+      "name": "Stuttgart Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "stuttgart-open.json"
+    },
+    {
+      "id": "geneva-open",
+      "name": "Geneva Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "geneva-open.json"
+    },
+    {
+      "id": "lyon-open",
+      "name": "Grand Prix Auvergne-Rhône-Alpes",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "lyon-open.json"
+    },
+    {
+      "id": "swiss-open",
+      "name": "Swiss Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "swiss-open.json"
+    },
+    {
+      "id": "croatia-open",
+      "name": "Croatia Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "croatia-open.json"
+    },
+    {
+      "id": "european-open",
+      "name": "European Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "european-open.json"
+    },
+    {
+      "id": "almaty-open",
+      "name": "Almaty Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "almaty-open.json"
+    },
+    {
+      "id": "chengdu-open",
+      "name": "Chengdu Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "chengdu-open.json"
+    },
+    {
+      "id": "hangzhou-open",
+      "name": "Hangzhou Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "hangzhou-open.json"
+    },
+    {
+      "id": "los-cabos-open",
+      "name": "Los Cabos Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "los-cabos-open.json"
+    },
+    {
+      "id": "winston-salem-open",
+      "name": "Winston-Salem Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "winston-salem-open.json"
+    },
+    {
+      "id": "vienna-open",
+      "name": "Vienna Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "vienna-open.json"
+    },
+    {
+      "id": "stockholm-open",
+      "name": "Stockholm Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "stockholm-open.json"
+    },
+    {
+      "id": "delray-beach-open",
+      "name": "Delray Beach Open",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "delray-beach-open.json"
+    },
+    {
+      "id": "swiss-indoors-basel",
+      "name": "Swiss Indoors",
+      "sport": "tennis",
+      "league": "atp-tour",
+      "file": "swiss-indoors-basel.json"
+    },
+    {
+      "id": "asc-ville-de-dakar",
+      "name": "ASC Ville de Dakar",
+      "sport": "basketball",
+      "league": "basketball-africa-league",
+      "file": "asc-ville-de-dakar.json"
+    },
+    {
+      "id": "al-ahly",
+      "name": "Al Ahly",
+      "sport": "basketball",
+      "league": "basketball-africa-league",
+      "file": "al-ahly.json"
+    },
+    {
+      "id": "al-ahly-ly",
+      "name": "Al Ahly Ly",
+      "sport": "basketball",
+      "league": "basketball-africa-league",
+      "file": "al-ahly-ly.json"
+    },
+    {
+      "id": "club-africain",
+      "name": "Club Africain",
+      "sport": "basketball",
+      "league": "basketball-africa-league",
+      "file": "club-africain.json"
+    },
+    {
+      "id": "dar-city",
+      "name": "Dar City Basketball Club",
+      "sport": "basketball",
+      "league": "basketball-africa-league",
+      "file": "dar-city.json"
+    },
+    {
+      "id": "fus-de-rabat",
+      "name": "FUS de Rabat",
+      "sport": "basketball",
+      "league": "basketball-africa-league",
+      "file": "fus-de-rabat.json"
+    },
+    {
+      "id": "jca-kings",
+      "name": "JCA Kings",
+      "sport": "basketball",
+      "league": "basketball-africa-league",
+      "file": "jca-kings.json"
+    },
+    {
+      "id": "johannesburg-giants",
+      "name": "Johannesburg Giants",
+      "sport": "basketball",
+      "league": "basketball-africa-league",
+      "file": "johannesburg-giants.json"
+    },
+    {
+      "id": "maktown-flyers",
+      "name": "Maktown Flyers",
+      "sport": "basketball",
+      "league": "basketball-africa-league",
+      "file": "maktown-flyers.json"
+    },
+    {
+      "id": "nairobi-city-thunder",
+      "name": "Nairobi City Thunder",
+      "sport": "basketball",
+      "league": "basketball-africa-league",
+      "file": "nairobi-city-thunder.json"
+    },
+    {
+      "id": "petro-de-luanda",
+      "name": "Petro de Luanda",
+      "sport": "basketball",
+      "league": "basketball-africa-league",
+      "file": "petro-de-luanda.json"
+    },
+    {
+      "id": "rssb-tigers",
+      "name": "RSSB Tigers",
+      "sport": "basketball",
+      "league": "basketball-africa-league",
+      "file": "rssb-tigers.json"
+    },
+    {
+      "id": "bmw-australian-pga-championship",
+      "name": "BMW Australian PGA Championship",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "bmw-australian-pga-championship.json"
+    },
+    {
+      "id": "crown-australian-open",
+      "name": "Crown Australian Open",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "crown-australian-open.json"
+    },
+    {
+      "id": "nedbank-golf-challenge",
+      "name": "Nedbank Golf Challenge in honour of Gary Player",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "nedbank-golf-challenge.json"
+    },
+    {
+      "id": "alfred-dunhill-championship",
+      "name": "Alfred Dunhill Championship",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "alfred-dunhill-championship.json"
+    },
+    {
+      "id": "afrasia-bank-mauritius-open",
+      "name": "AfrAsia Bank Mauritius Open",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "afrasia-bank-mauritius-open.json"
+    },
+    {
+      "id": "dubai-invitational",
+      "name": "Dubai Invitational",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "dubai-invitational.json"
+    },
+    {
+      "id": "hero-dubai-desert-classic",
+      "name": "Hero Dubai Desert Classic",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "hero-dubai-desert-classic.json"
+    },
+    {
+      "id": "bapco-energies-bahrain-championship",
+      "name": "Bapco Energies Bahrain Championship",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "bapco-energies-bahrain-championship.json"
+    },
+    {
+      "id": "qatar-masters",
+      "name": "Qatar Masters",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "qatar-masters.json"
+    },
+    {
+      "id": "magical-kenya-open",
+      "name": "Magical Kenya Open presented by absa",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "magical-kenya-open.json"
+    },
+    {
+      "id": "investec-south-african-open",
+      "name": "Investec South African Open Championship",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "investec-south-african-open.json"
+    },
+    {
+      "id": "joburg-open",
+      "name": "Joburg Open",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "joburg-open.json"
+    },
+    {
+      "id": "hainan-classic",
+      "name": "Hainan Classic presented by MAEXTRO",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "hainan-classic.json"
+    },
+    {
+      "id": "hero-indian-open",
+      "name": "Hero Indian Open",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "hero-indian-open.json"
+    },
+    {
+      "id": "masters",
+      "name": "THE MASTERS",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "masters.json"
+    },
+    {
+      "id": "volvo-china-open",
+      "name": "Volvo China Open",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "volvo-china-open.json"
+    },
+    {
+      "id": "turkish-airlines-open",
+      "name": "Turkish Airlines Open",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "turkish-airlines-open.json"
+    },
+    {
+      "id": "estrella-damm-catalunya-championship",
+      "name": "Estrella Damm Catalunya Championship",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "estrella-damm-catalunya-championship.json"
+    },
+    {
+      "id": "us-pga-championship",
+      "name": "U.S. PGA Championship",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "us-pga-championship.json"
+    },
+    {
+      "id": "soudal-open",
+      "name": "Soudal Open",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "soudal-open.json"
+    },
+    {
+      "id": "austrian-alpine-open",
+      "name": "Austrian Alpine Open presented by Kitzbühel Tirol",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "austrian-alpine-open.json"
+    },
+    {
+      "id": "klm-open",
+      "name": "KLM Open",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "klm-open.json"
+    },
+    {
+      "id": "us-open-golf",
+      "name": "U.S. Open",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "us-open-golf.json"
+    },
+    {
+      "id": "ds-automobiles-open-ditalia",
+      "name": "DS Automobiles 83° Open d'Italia",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "ds-automobiles-open-ditalia.json"
+    },
+    {
+      "id": "bmw-international-open",
+      "name": "BMW International Open",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "bmw-international-open.json"
+    },
+    {
+      "id": "genesis-scottish-open",
+      "name": "Genesis Scottish Open",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "genesis-scottish-open.json"
+    },
+    {
+      "id": "isco-championship",
+      "name": "ISCO Championship",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "isco-championship.json"
+    },
+    {
+      "id": "the-open-championship",
+      "name": "THE 154TH OPEN",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "the-open-championship.json"
+    },
+    {
+      "id": "corales-puntacana-championship",
+      "name": "Corales Puntacana Championship",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "corales-puntacana-championship.json"
+    },
+    {
+      "id": "danish-golf-championship",
+      "name": "Danish Golf Championship",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "danish-golf-championship.json"
+    },
+    {
+      "id": "nexo-championship",
+      "name": "Nexo Championship",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "nexo-championship.json"
+    },
+    {
+      "id": "husqvarna-british-masters",
+      "name": "Husqvarna British Masters hosted by Sir Nick Faldo",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "husqvarna-british-masters.json"
+    },
+    {
+      "id": "omega-european-masters",
+      "name": "Omega European Masters",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "omega-european-masters.json"
+    },
+    {
+      "id": "amgen-irish-open",
+      "name": "Amgen Irish Open",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "amgen-irish-open.json"
+    },
+    {
+      "id": "bmw-pga-championship",
+      "name": "BMW PGA Championship",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "bmw-pga-championship.json"
+    },
+    {
+      "id": "fedex-open-de-france",
+      "name": "FedEx Open de France",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "fedex-open-de-france.json"
+    },
+    {
+      "id": "alfred-dunhill-links-championship",
+      "name": "Alfred Dunhill Links Championship",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "alfred-dunhill-links-championship.json"
+    },
+    {
+      "id": "open-de-espana",
+      "name": "Open de España presented by Madrid",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "open-de-espana.json"
+    },
+    {
+      "id": "dp-world-india-championship",
+      "name": "DP World India Championship",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "dp-world-india-championship.json"
+    },
+    {
+      "id": "genesis-championship",
+      "name": "Genesis Championship",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "genesis-championship.json"
+    },
+    {
+      "id": "abu-dhabi-championship",
+      "name": "Abu Dhabi Championship",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "abu-dhabi-championship.json"
+    },
+    {
+      "id": "dp-world-tour-championship",
+      "name": "DP World Tour Championship, Dubai",
+      "sport": "golf",
+      "league": "dp-world-tour",
+      "file": "dp-world-tour-championship.json"
+    },
+    {
+      "id": "real-madrid-baloncesto",
+      "name": "Real Madrid Baloncesto",
+      "sport": "basketball",
+      "league": "euroleague",
+      "file": "real-madrid-baloncesto.json"
+    },
+    {
+      "id": "barcelona-basquet",
+      "name": "FC Barcelona Bàsquet",
+      "sport": "basketball",
+      "league": "euroleague",
+      "file": "barcelona-basquet.json"
+    },
+    {
+      "id": "olympiacos",
+      "name": "Olympiacos B.C.",
+      "sport": "basketball",
+      "league": "euroleague",
+      "file": "olympiacos.json"
+    },
+    {
+      "id": "panathinaikos",
+      "name": "Panathinaikos B.C.",
+      "sport": "basketball",
+      "league": "euroleague",
+      "file": "panathinaikos.json"
+    },
+    {
+      "id": "maccabi-tel-aviv",
+      "name": "Maccabi Tel Aviv B.C.",
+      "sport": "basketball",
+      "league": "euroleague",
+      "file": "maccabi-tel-aviv.json"
+    },
+    {
+      "id": "hapoel-tel-aviv",
+      "name": "Hapoel Tel Aviv B.C.",
+      "sport": "basketball",
+      "league": "euroleague",
+      "file": "hapoel-tel-aviv.json"
+    },
+    {
+      "id": "fenerbahce-basketball",
+      "name": "Fenerbahçe (men's basketball)",
+      "sport": "basketball",
+      "league": "euroleague",
+      "file": "fenerbahce-basketball.json"
+    },
+    {
+      "id": "anadolu-efes",
+      "name": "Anadolu Efes S.K.",
+      "sport": "basketball",
+      "league": "euroleague",
+      "file": "anadolu-efes.json"
+    },
+    {
+      "id": "besiktas-basketball",
+      "name": "Beşiktaş J.K. (men's basketball)",
+      "sport": "basketball",
+      "league": "euroleague",
+      "file": "besiktas-basketball.json"
+    },
+    {
+      "id": "bayern-munich-basketball",
+      "name": "FC Bayern Munich Basketball",
+      "sport": "basketball",
+      "league": "euroleague",
+      "file": "bayern-munich-basketball.json"
+    },
+    {
+      "id": "olimpia-milano",
+      "name": "Olimpia Milano",
+      "sport": "basketball",
+      "league": "euroleague",
+      "file": "olimpia-milano.json"
+    },
+    {
+      "id": "virtus-bologna",
+      "name": "Virtus Pallacanestro Bologna",
+      "sport": "basketball",
+      "league": "euroleague",
+      "file": "virtus-bologna.json"
+    },
+    {
+      "id": "asvel",
+      "name": "ASVEL Basket",
+      "sport": "basketball",
+      "league": "euroleague",
+      "file": "asvel.json"
+    },
+    {
+      "id": "paris-basketball",
+      "name": "Paris Basketball",
+      "sport": "basketball",
+      "league": "euroleague",
+      "file": "paris-basketball.json"
+    },
+    {
+      "id": "zalgiris",
+      "name": "Žalgiris Kaunas",
+      "sport": "basketball",
+      "league": "euroleague",
+      "file": "zalgiris.json"
+    },
+    {
+      "id": "baskonia",
+      "name": "Saski Baskonia",
+      "sport": "basketball",
+      "league": "euroleague",
+      "file": "baskonia.json"
+    },
+    {
+      "id": "valencia-basket",
+      "name": "Valencia Basket",
+      "sport": "basketball",
+      "league": "euroleague",
+      "file": "valencia-basket.json"
+    },
+    {
+      "id": "crvena-zvezda",
+      "name": "KK Crvena zvezda",
+      "sport": "basketball",
+      "league": "euroleague",
+      "file": "crvena-zvezda.json"
+    },
+    {
+      "id": "partizan",
+      "name": "KK Partizan (basketball)",
+      "sport": "basketball",
+      "league": "euroleague",
+      "file": "partizan.json"
+    },
+    {
+      "id": "dubai-basketball",
+      "name": "Dubai Basketball",
+      "sport": "basketball",
+      "league": "euroleague",
+      "file": "dubai-basketball.json"
+    },
+    {
+      "id": "qatar-basketball",
+      "name": "Qatar men's national basketball team",
+      "sport": "basketball",
+      "league": "fiba",
+      "file": "qatar-basketball.json"
+    },
+    {
+      "id": "turkiye-basketball",
+      "name": "Turkiye men's national basketball team",
+      "sport": "basketball",
+      "league": "fiba",
+      "file": "turkiye-basketball.json"
+    },
+    {
       "id": "australia",
       "name": "Australia",
       "sport": "soccer",
@@ -1831,6 +3007,34 @@
       "file": "turkey.json"
     },
     {
+      "id": "mens-t20-world-cup-2026",
+      "name": "ICC Men's T20 World Cup 2026",
+      "sport": "cricket",
+      "league": "icc-cricket",
+      "file": "mens-t20-world-cup-2026.json"
+    },
+    {
+      "id": "womens-t20-world-cup-2026",
+      "name": "ICC Women's T20 World Cup 2026",
+      "sport": "cricket",
+      "league": "icc-cricket",
+      "file": "womens-t20-world-cup-2026.json"
+    },
+    {
+      "id": "cricket-world-cup-2027",
+      "name": "ICC Men's Cricket World Cup 2027",
+      "sport": "cricket",
+      "league": "icc-cricket",
+      "file": "cricket-world-cup-2027.json"
+    },
+    {
+      "id": "world-test-championship",
+      "name": "ICC World Test Championship 2025-27",
+      "sport": "cricket",
+      "league": "icc-cricket",
+      "file": "world-test-championship.json"
+    },
+    {
       "id": "angers-sco",
       "name": "Angers SCO",
       "sport": "soccer",
@@ -1948,6 +3152,265 @@
       "sport": "soccer",
       "league": "ligue-1",
       "file": "es-troyes-ac.json"
+    },
+    {
+      "id": "4aces-gc",
+      "name": "4Aces GC",
+      "sport": "golf",
+      "league": "liv-golf",
+      "file": "4aces-gc.json"
+    },
+    {
+      "id": "cleeks-gc",
+      "name": "Cleeks Golf Club",
+      "sport": "golf",
+      "league": "liv-golf",
+      "file": "cleeks-gc.json"
+    },
+    {
+      "id": "crushers-gc",
+      "name": "Crushers GC",
+      "sport": "golf",
+      "league": "liv-golf",
+      "file": "crushers-gc.json"
+    },
+    {
+      "id": "fireballs-gc",
+      "name": "Fireballs GC",
+      "sport": "golf",
+      "league": "liv-golf",
+      "file": "fireballs-gc.json"
+    },
+    {
+      "id": "hyflyers-gc",
+      "name": "HyFlyers GC",
+      "sport": "golf",
+      "league": "liv-golf",
+      "file": "hyflyers-gc.json"
+    },
+    {
+      "id": "korean-golf-club",
+      "name": "Korean Golf Club",
+      "sport": "golf",
+      "league": "liv-golf",
+      "file": "korean-golf-club.json"
+    },
+    {
+      "id": "legion-xiii",
+      "name": "Legion XIII",
+      "sport": "golf",
+      "league": "liv-golf",
+      "file": "legion-xiii.json"
+    },
+    {
+      "id": "majesticks-gc",
+      "name": "Majesticks Golf Club",
+      "sport": "golf",
+      "league": "liv-golf",
+      "file": "majesticks-gc.json"
+    },
+    {
+      "id": "okgc",
+      "name": "OKGC",
+      "sport": "golf",
+      "league": "liv-golf",
+      "file": "okgc.json"
+    },
+    {
+      "id": "rangegoats-gc",
+      "name": "RangeGoats Golf Club",
+      "sport": "golf",
+      "league": "liv-golf",
+      "file": "rangegoats-gc.json"
+    },
+    {
+      "id": "ripper-gc",
+      "name": "Ripper GC",
+      "sport": "golf",
+      "league": "liv-golf",
+      "file": "ripper-gc.json"
+    },
+    {
+      "id": "southern-guards-gc",
+      "name": "Southern Guards GC",
+      "sport": "golf",
+      "league": "liv-golf",
+      "file": "southern-guards-gc.json"
+    },
+    {
+      "id": "torque-gc",
+      "name": "Torque GC",
+      "sport": "golf",
+      "league": "liv-golf",
+      "file": "torque-gc.json"
+    },
+    {
+      "id": "aprilia-racing",
+      "name": "Aprilia Racing",
+      "sport": "motorsport",
+      "league": "motogp",
+      "file": "aprilia-racing.json"
+    },
+    {
+      "id": "bk8-gresini-racing-motogp",
+      "name": "BK8 Gresini Racing MotoGP",
+      "sport": "motorsport",
+      "league": "motogp",
+      "file": "bk8-gresini-racing-motogp.json"
+    },
+    {
+      "id": "ducati-lenovo-team",
+      "name": "Ducati Lenovo Team",
+      "sport": "motorsport",
+      "league": "motogp",
+      "file": "ducati-lenovo-team.json"
+    },
+    {
+      "id": "honda-hrc-castrol",
+      "name": "Honda HRC Castrol",
+      "sport": "motorsport",
+      "league": "motogp",
+      "file": "honda-hrc-castrol.json"
+    },
+    {
+      "id": "honda-lcr",
+      "name": "Honda LCR",
+      "sport": "motorsport",
+      "league": "motogp",
+      "file": "honda-lcr.json"
+    },
+    {
+      "id": "monster-energy-yamaha-motogp",
+      "name": "Monster Energy Yamaha MotoGP",
+      "sport": "motorsport",
+      "league": "motogp",
+      "file": "monster-energy-yamaha-motogp.json"
+    },
+    {
+      "id": "pertamina-enduro-vr46-racing-team",
+      "name": "Pertamina Enduro VR46 Racing Team",
+      "sport": "motorsport",
+      "league": "motogp",
+      "file": "pertamina-enduro-vr46-racing-team.json"
+    },
+    {
+      "id": "prima-pramac-yamaha-motogp",
+      "name": "Prima Pramac Yamaha MotoGP",
+      "sport": "motorsport",
+      "league": "motogp",
+      "file": "prima-pramac-yamaha-motogp.json"
+    },
+    {
+      "id": "red-bull-ktm-factory-racing",
+      "name": "Red Bull KTM Factory Racing",
+      "sport": "motorsport",
+      "league": "motogp",
+      "file": "red-bull-ktm-factory-racing.json"
+    },
+    {
+      "id": "red-bull-ktm-tech3",
+      "name": "Red Bull KTM Tech3",
+      "sport": "motorsport",
+      "league": "motogp",
+      "file": "red-bull-ktm-tech3.json"
+    },
+    {
+      "id": "superfile-trackhouse-motogp-team",
+      "name": "SuperFile Trackhouse MotoGP Team",
+      "sport": "motorsport",
+      "league": "motogp",
+      "file": "superfile-trackhouse-motogp-team.json"
+    },
+    {
+      "id": "bonds-flying-roos",
+      "name": "BONDS Flying Roos SailGP Team",
+      "sport": "sailing",
+      "league": "sailgp",
+      "file": "bonds-flying-roos.json"
+    },
+    {
+      "id": "mubadala-brazil",
+      "name": "Mubadala Brazil SailGP Team",
+      "sport": "sailing",
+      "league": "sailgp",
+      "file": "mubadala-brazil.json"
+    },
+    {
+      "id": "northstar-canada",
+      "name": "NorthStar SailGP Team",
+      "sport": "sailing",
+      "league": "sailgp",
+      "file": "northstar-canada.json"
+    },
+    {
+      "id": "rockwool-denmark",
+      "name": "ROCKWOOL Racing SailGP Team",
+      "sport": "sailing",
+      "league": "sailgp",
+      "file": "rockwool-denmark.json"
+    },
+    {
+      "id": "ds-automobiles-france",
+      "name": "DS Automobiles SailGP Team France",
+      "sport": "sailing",
+      "league": "sailgp",
+      "file": "ds-automobiles-france.json"
+    },
+    {
+      "id": "emirates-great-britain",
+      "name": "Emirates Great Britain SailGP Team",
+      "sport": "sailing",
+      "league": "sailgp",
+      "file": "emirates-great-britain.json"
+    },
+    {
+      "id": "germany-sailgp",
+      "name": "Germany SailGP Team presented by Deutsche Bank",
+      "sport": "sailing",
+      "league": "sailgp",
+      "file": "germany-sailgp.json"
+    },
+    {
+      "id": "red-bull-italy",
+      "name": "Red Bull Italy SailGP Team",
+      "sport": "sailing",
+      "league": "sailgp",
+      "file": "red-bull-italy.json"
+    },
+    {
+      "id": "black-foils-nz",
+      "name": "Black Foils SailGP Team",
+      "sport": "sailing",
+      "league": "sailgp",
+      "file": "black-foils-nz.json"
+    },
+    {
+      "id": "los-gallos",
+      "name": "Los Gallos SailGP Team",
+      "sport": "sailing",
+      "league": "sailgp",
+      "file": "los-gallos.json"
+    },
+    {
+      "id": "artemis-sweden",
+      "name": "Artemis SailGP Team",
+      "sport": "sailing",
+      "league": "sailgp",
+      "file": "artemis-sweden.json"
+    },
+    {
+      "id": "swiss-sailgp",
+      "name": "Explora Journeys Swiss SailGP Team",
+      "sport": "sailing",
+      "league": "sailgp",
+      "file": "swiss-sailgp.json"
+    },
+    {
+      "id": "us-sailgp",
+      "name": "United States SailGP Team",
+      "sport": "sailing",
+      "league": "sailgp",
+      "file": "us-sailgp.json"
     },
     {
       "id": "abha",
@@ -2319,6 +3782,496 @@
       "sport": "soccer",
       "league": "uefa",
       "file": "viking-fk.json"
+    },
+    {
+      "id": "arsenal-w",
+      "name": "Arsenal Women",
+      "sport": "soccer",
+      "league": "womens-super-league",
+      "file": "arsenal-w.json"
+    },
+    {
+      "id": "aston-villa-w",
+      "name": "Aston Villa Women",
+      "sport": "soccer",
+      "league": "womens-super-league",
+      "file": "aston-villa-w.json"
+    },
+    {
+      "id": "birmingham-city-w",
+      "name": "Birmingham City Women",
+      "sport": "soccer",
+      "league": "womens-super-league",
+      "file": "birmingham-city-w.json"
+    },
+    {
+      "id": "brighton-and-hove-albion-w",
+      "name": "Brighton & Hove Albion Women",
+      "sport": "soccer",
+      "league": "womens-super-league",
+      "file": "brighton-and-hove-albion-w.json"
+    },
+    {
+      "id": "charlton-athletic-w",
+      "name": "Charlton Athletic Women",
+      "sport": "soccer",
+      "league": "womens-super-league",
+      "file": "charlton-athletic-w.json"
+    },
+    {
+      "id": "chelsea-w",
+      "name": "Chelsea Women",
+      "sport": "soccer",
+      "league": "womens-super-league",
+      "file": "chelsea-w.json"
+    },
+    {
+      "id": "crystal-palace-w",
+      "name": "Crystal Palace Women",
+      "sport": "soccer",
+      "league": "womens-super-league",
+      "file": "crystal-palace-w.json"
+    },
+    {
+      "id": "everton-w",
+      "name": "Everton Women",
+      "sport": "soccer",
+      "league": "womens-super-league",
+      "file": "everton-w.json"
+    },
+    {
+      "id": "liverpool-w",
+      "name": "Liverpool Women",
+      "sport": "soccer",
+      "league": "womens-super-league",
+      "file": "liverpool-w.json"
+    },
+    {
+      "id": "london-city-lionesses",
+      "name": "London City Lionesses",
+      "sport": "soccer",
+      "league": "womens-super-league",
+      "file": "london-city-lionesses.json"
+    },
+    {
+      "id": "manchester-city-w",
+      "name": "Manchester City Women",
+      "sport": "soccer",
+      "league": "womens-super-league",
+      "file": "manchester-city-w.json"
+    },
+    {
+      "id": "manchester-united-w",
+      "name": "Manchester United Women",
+      "sport": "soccer",
+      "league": "womens-super-league",
+      "file": "manchester-united-w.json"
+    },
+    {
+      "id": "tottenham-hotspur-w",
+      "name": "Tottenham Hotspur Women",
+      "sport": "soccer",
+      "league": "womens-super-league",
+      "file": "tottenham-hotspur-w.json"
+    },
+    {
+      "id": "west-ham-united-w",
+      "name": "West Ham United Women",
+      "sport": "soccer",
+      "league": "womens-super-league",
+      "file": "west-ham-united-w.json"
+    },
+    {
+      "id": "rugby-new-zealand",
+      "name": "New Zealand",
+      "sport": "rugby",
+      "league": "world-rugby",
+      "file": "rugby-new-zealand.json"
+    },
+    {
+      "id": "rugby-australia",
+      "name": "Australia",
+      "sport": "rugby",
+      "league": "world-rugby",
+      "file": "rugby-australia.json"
+    },
+    {
+      "id": "rugby-chile",
+      "name": "Chile",
+      "sport": "rugby",
+      "league": "world-rugby",
+      "file": "rugby-chile.json"
+    },
+    {
+      "id": "rugby-hong-kong-china",
+      "name": "Hong Kong China",
+      "sport": "rugby",
+      "league": "world-rugby",
+      "file": "rugby-hong-kong-china.json"
+    },
+    {
+      "id": "rugby-south-africa",
+      "name": "South Africa",
+      "sport": "rugby",
+      "league": "world-rugby",
+      "file": "rugby-south-africa.json"
+    },
+    {
+      "id": "rugby-italy",
+      "name": "Italy",
+      "sport": "rugby",
+      "league": "world-rugby",
+      "file": "rugby-italy.json"
+    },
+    {
+      "id": "rugby-georgia",
+      "name": "Georgia",
+      "sport": "rugby",
+      "league": "world-rugby",
+      "file": "rugby-georgia.json"
+    },
+    {
+      "id": "rugby-romania",
+      "name": "Romania",
+      "sport": "rugby",
+      "league": "world-rugby",
+      "file": "rugby-romania.json"
+    },
+    {
+      "id": "rugby-argentina",
+      "name": "Argentina",
+      "sport": "rugby",
+      "league": "world-rugby",
+      "file": "rugby-argentina.json"
+    },
+    {
+      "id": "rugby-fiji",
+      "name": "Fiji",
+      "sport": "rugby",
+      "league": "world-rugby",
+      "file": "rugby-fiji.json"
+    },
+    {
+      "id": "rugby-spain",
+      "name": "Spain",
+      "sport": "rugby",
+      "league": "world-rugby",
+      "file": "rugby-spain.json"
+    },
+    {
+      "id": "rugby-canada",
+      "name": "Canada",
+      "sport": "rugby",
+      "league": "world-rugby",
+      "file": "rugby-canada.json"
+    },
+    {
+      "id": "rugby-ireland",
+      "name": "Ireland",
+      "sport": "rugby",
+      "league": "world-rugby",
+      "file": "rugby-ireland.json"
+    },
+    {
+      "id": "rugby-scotland",
+      "name": "Scotland",
+      "sport": "rugby",
+      "league": "world-rugby",
+      "file": "rugby-scotland.json"
+    },
+    {
+      "id": "rugby-uruguay",
+      "name": "Uruguay",
+      "sport": "rugby",
+      "league": "world-rugby",
+      "file": "rugby-uruguay.json"
+    },
+    {
+      "id": "rugby-portugal",
+      "name": "Portugal",
+      "sport": "rugby",
+      "league": "world-rugby",
+      "file": "rugby-portugal.json"
+    },
+    {
+      "id": "rugby-france",
+      "name": "France",
+      "sport": "rugby",
+      "league": "world-rugby",
+      "file": "rugby-france.json"
+    },
+    {
+      "id": "rugby-japan",
+      "name": "Japan",
+      "sport": "rugby",
+      "league": "world-rugby",
+      "file": "rugby-japan.json"
+    },
+    {
+      "id": "rugby-usa",
+      "name": "USA",
+      "sport": "rugby",
+      "league": "world-rugby",
+      "file": "rugby-usa.json"
+    },
+    {
+      "id": "rugby-samoa",
+      "name": "Samoa",
+      "sport": "rugby",
+      "league": "world-rugby",
+      "file": "rugby-samoa.json"
+    },
+    {
+      "id": "rugby-england",
+      "name": "England",
+      "sport": "rugby",
+      "league": "world-rugby",
+      "file": "rugby-england.json"
+    },
+    {
+      "id": "rugby-wales",
+      "name": "Wales",
+      "sport": "rugby",
+      "league": "world-rugby",
+      "file": "rugby-wales.json"
+    },
+    {
+      "id": "rugby-tonga",
+      "name": "Tonga",
+      "sport": "rugby",
+      "league": "world-rugby",
+      "file": "rugby-tonga.json"
+    },
+    {
+      "id": "rugby-zimbabwe",
+      "name": "Zimbabwe",
+      "sport": "rugby",
+      "league": "world-rugby",
+      "file": "rugby-zimbabwe.json"
+    },
+    {
+      "id": "wta-finals",
+      "name": "WTA Finals",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "wta-finals.json"
+    },
+    {
+      "id": "bjk-cup-qualifying",
+      "name": "Billie Jean King Cup qualifying round",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "bjk-cup-qualifying.json"
+    },
+    {
+      "id": "bjk-cup-finals",
+      "name": "Billie Jean King Cup Finals",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "bjk-cup-finals.json"
+    },
+    {
+      "id": "wuhan-open",
+      "name": "Wuhan Open",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "wuhan-open.json"
+    },
+    {
+      "id": "abu-dhabi-open",
+      "name": "Mubadala Abu Dhabi Open",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "abu-dhabi-open.json"
+    },
+    {
+      "id": "merida-open",
+      "name": "Mérida Open",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "merida-open.json"
+    },
+    {
+      "id": "charleston-open",
+      "name": "Charleston Open",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "charleston-open.json"
+    },
+    {
+      "id": "linz-open",
+      "name": "Linz Open",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "linz-open.json"
+    },
+    {
+      "id": "strasbourg-open",
+      "name": "Internationaux de Strasbourg",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "strasbourg-open.json"
+    },
+    {
+      "id": "berlin-open",
+      "name": "German Open",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "berlin-open.json"
+    },
+    {
+      "id": "bad-homburg-open",
+      "name": "Bad Homburg Open",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "bad-homburg-open.json"
+    },
+    {
+      "id": "monterrey-open",
+      "name": "Monterrey Open",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "monterrey-open.json"
+    },
+    {
+      "id": "guadalajara-open",
+      "name": "Guadalajara Open",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "guadalajara-open.json"
+    },
+    {
+      "id": "singapore-open",
+      "name": "Singapore Open",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "singapore-open.json"
+    },
+    {
+      "id": "ningbo-open",
+      "name": "Ningbo Open",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "ningbo-open.json"
+    },
+    {
+      "id": "pan-pacific-open",
+      "name": "Pan Pacific Open",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "pan-pacific-open.json"
+    },
+    {
+      "id": "hobart-international",
+      "name": "Hobart International",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "hobart-international.json"
+    },
+    {
+      "id": "ostrava-open",
+      "name": "Ostrava Open",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "ostrava-open.json"
+    },
+    {
+      "id": "transylvania-open",
+      "name": "Transylvania Open",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "transylvania-open.json"
+    },
+    {
+      "id": "atx-open",
+      "name": "ATX Open",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "atx-open.json"
+    },
+    {
+      "id": "copa-colsanitas",
+      "name": "Copa Colsanitas",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "copa-colsanitas.json"
+    },
+    {
+      "id": "rouen-open",
+      "name": "Open de Rouen",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "rouen-open.json"
+    },
+    {
+      "id": "morocco-open",
+      "name": "Morocco Open",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "morocco-open.json"
+    },
+    {
+      "id": "nottingham-open",
+      "name": "Nottingham Open",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "nottingham-open.json"
+    },
+    {
+      "id": "iasi-open",
+      "name": "Iași Open",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "iasi-open.json"
+    },
+    {
+      "id": "athens-open",
+      "name": "Athens Open",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "athens-open.json"
+    },
+    {
+      "id": "prague-open",
+      "name": "Prague Open",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "prague-open.json"
+    },
+    {
+      "id": "memphis-classic",
+      "name": "Memphis Classic",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "memphis-classic.json"
+    },
+    {
+      "id": "sp-open",
+      "name": "SP Open",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "sp-open.json"
+    },
+    {
+      "id": "korea-open",
+      "name": "Korea Open",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "korea-open.json"
+    },
+    {
+      "id": "guangzhou-open",
+      "name": "Guangzhou Open",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "guangzhou-open.json"
+    },
+    {
+      "id": "chennai-open",
+      "name": "Chennai Open",
+      "sport": "tennis",
+      "league": "wta-tour",
+      "file": "chennai-open.json"
     }
   ]
 }

@@ -1,0 +1,46 @@
+{
+  "id": "manchester-city-w",
+  "team": "Manchester City Women",
+  "sport": "soccer",
+  "league": "womens-super-league",
+  "country": "England",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "etihad-airways",
+      "name": "Etihad Airways",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "serious",
+      "ownerId": "government-of-abu-dhabi",
+      "owner": "Government of Abu Dhabi",
+      "verdict": "The airline is owned by the Government of Abu Dhabi.",
+      "source": {
+        "name": "City Football Group, Etihad partnership page",
+        "date": "2026-09-25",
+        "url": "https://www.cityfootballgroup.com/partners/etihad-airways/",
+        "note": "CFG page covers the club-wide Etihad partnership since 2009 and does not name the women's team; the Wikipedia table lists Etihad on the women's shirt."
+      }
+    },
+    {
+      "id": "joie",
+      "name": "Joie",
+      "placement": "shorts",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Manchester Evening News (via Wayback Machine)",
+        "date": "2023-09-14",
+        "url": "https://web.archive.org/web/20250724231747/https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-women-sponsors-joie-27709622"
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "government-of-abu-dhabi"
+  ],
+  "lastUpdated": "2026-09-24"
+}

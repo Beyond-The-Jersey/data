@@ -1,0 +1,58 @@
+{
+  "id": "okgc",
+  "team": "OKGC",
+  "sport": "golf",
+  "league": "liv-golf",
+  "country": "United States",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "edgeconnex",
+      "name": "EdgeConneX",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - OKGC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/okgc"
+      }
+    },
+    {
+      "id": "new-era",
+      "name": "New Era",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - OKGC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/okgc"
+      }
+    },
+    {
+      "id": "no-bull",
+      "name": "No Bull",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - OKGC team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/okgc"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

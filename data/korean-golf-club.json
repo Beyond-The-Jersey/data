@@ -1,0 +1,58 @@
+{
+  "id": "korean-golf-club",
+  "team": "Korean Golf Club",
+  "sport": "golf",
+  "league": "liv-golf",
+  "country": "South Korea",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "amazing-cre",
+      "name": "Amazing CRE",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Korean Golf Club team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/korean-golf-club"
+      }
+    },
+    {
+      "id": "new-era",
+      "name": "New Era",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Korean Golf Club team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/korean-golf-club"
+      }
+    },
+    {
+      "id": "plus",
+      "name": "PLUS",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LIV Golf - Korean Golf Club team page",
+        "date": "2026-09-25",
+        "url": "https://www.livgolf.com/korean-golf-club"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

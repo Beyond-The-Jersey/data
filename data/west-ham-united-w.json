@@ -1,0 +1,61 @@
+{
+  "id": "west-ham-united-w",
+  "team": "West Ham United Women",
+  "sport": "soccer",
+  "league": "womens-super-league",
+  "country": "England",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "boylesports",
+      "name": "BoyleSports",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "boylesports",
+      "owner": "BoyleSports (Boyle family)",
+      "verdict": "Owned by BoyleSports (Boyle family). Nothing found.",
+      "source": {
+        "name": "SportsMint Media (quoting West Ham announcement)",
+        "date": "2026-06-30",
+        "url": "https://sportsmintmedia.com/boyle-sports-takes-centre-stage-on-west-ham-united-shirts-for-2026-27/"
+      }
+    },
+    {
+      "id": "lilley-plummer-risks",
+      "name": "Lilley Plummer Risks",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "SportsMint Media (quoting West Ham announcement)",
+        "date": "2026-07-03",
+        "url": "https://sportsmintmedia.com/lilley-plummer-risks-upgrades-partnership-to-become-west-ham-uniteds-sleeve-sponsor/",
+        "note": "Announced as official sleeve partner for the club's first-team training apparel; women's-shirt sleeve placement not stated explicitly."
+      }
+    },
+    {
+      "id": "paul-robinson-solicitors",
+      "name": "Paul Robinson Solicitors",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "SportsMint Media",
+        "date": "2025-07-15",
+        "url": "https://sportsmintmedia.com/paul-robinson-solicitors-joins-west-ham-united-women-as-back-of-shirt-partner/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "boylesports"
+  ],
+  "lastUpdated": "2026-09-24"
+}

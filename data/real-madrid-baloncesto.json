@@ -1,0 +1,46 @@
+{
+  "id": "real-madrid-baloncesto",
+  "team": "Real Madrid Baloncesto",
+  "sport": "basketball",
+  "league": "euroleague",
+  "country": "Spain",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "emirates",
+      "name": "Emirates",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "serious",
+      "ownerId": "government-of-dubai",
+      "owner": "Government of Dubai",
+      "verdict": "The airline is owned by the Dubai government’s investment arm.",
+      "source": {
+        "name": "Dubai Media Office, Emirates tips-off as the Official Main Sponsor of Real Madrid Basketball",
+        "date": "2025-09-15",
+        "url": "https://www.mediaoffice.ae/en/news/2025/september/15-09/emirates-tips-off-as-the-official-main-sponsor-of-real-madrid-basketball",
+        "note": "Emirates 'Fly Better' on player jerseys (Official Main Sponsor, multi-year)"
+      }
+    },
+    {
+      "id": "emirates",
+      "name": "Emirates",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "serious",
+      "ownerId": "government-of-dubai",
+      "owner": "Government of Dubai",
+      "verdict": "The airline is owned by the Dubai government’s investment arm.",
+      "source": {
+        "name": "Dubai Media Office, Emirates tips-off as the Official Main Sponsor of Real Madrid Basketball",
+        "date": "2025-09-15",
+        "url": "https://www.mediaoffice.ae/en/news/2025/september/15-09/emirates-tips-off-as-the-official-main-sponsor-of-real-madrid-basketball"
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "government-of-dubai"
+  ],
+  "lastUpdated": "2026-09-24"
+}

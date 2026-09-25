@@ -1,0 +1,31 @@
+{
+  "id": "arsenal-w",
+  "team": "Arsenal Women",
+  "sport": "soccer",
+  "league": "womens-super-league",
+  "country": "England",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "emirates",
+      "name": "Emirates",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "serious",
+      "ownerId": "government-of-dubai",
+      "owner": "Government of Dubai",
+      "verdict": "The airline is owned by the Dubai government’s investment arm.",
+      "source": {
+        "name": "Arsenal / Emirates renewal coverage (Sporting Goods Intelligence)",
+        "date": "2026-08-06",
+        "url": "https://www.sgieurope.com/marketing/emirates-and-arsenal-extend-shirt-deal-to-2033/122576.article",
+        "note": "Renewal to 2033 covers front-of-shirt and training kit; the men's kit entry uses the same source. Women's-team-specific placement not restated in the renewal announcement."
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "government-of-dubai"
+  ],
+  "lastUpdated": "2026-09-24"
+}

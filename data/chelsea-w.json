@@ -1,0 +1,63 @@
+{
+  "id": "chelsea-w",
+  "team": "Chelsea Women",
+  "sport": "soccer",
+  "league": "womens-super-league",
+  "country": "England",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "circle-usdc",
+      "name": "USDC (Circle)",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "circle-internet-group",
+      "owner": "Circle Internet Group",
+      "verdict": "Owned by Circle Internet Group, Inc. (NYSE: CRCL) — public shareholders. Nothing found.",
+      "source": {
+        "name": "Chelsea FC, Circle partner page",
+        "date": "2026-09-25",
+        "url": "https://www.chelseafc.com/en/circle",
+        "note": "Circle Internet Group is a Principal Partner and official front-of-shirt partner beginning with the 2026/27 season; in 2026/27 the Circle and USDC brands appear on the front of Chelsea's Men's, Women's and Academy shirts."
+      }
+    },
+    {
+      "id": "here-we-flo",
+      "name": "Here We Flo",
+      "placement": "shorts",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Chelsea FC, Here We Flo partner page",
+        "date": "2026-09-25",
+        "url": "https://www.chelseafc.com/en/partner-page-flo",
+        "note": "Here We Flo is Chelsea FC Women's Official Back of Short partner."
+      }
+    },
+    {
+      "id": "skoda",
+      "name": "Škoda Auto",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Chelsea FC, Škoda partner page",
+        "date": "2026-09-25",
+        "url": "https://www.chelseafc.com/en/skoda",
+        "note": "Chelsea FC Women first teamed up with Škoda UK at the start of 2024 as Official Car Partner; the May 2025 extension established Škoda as Chelsea Women's first Official Back of Shirt Partner."
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "circle-internet-group"
+  ],
+  "lastUpdated": "2026-09-24"
+}

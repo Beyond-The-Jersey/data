@@ -1,0 +1,77 @@
+{
+  "id": "rugby-new-zealand",
+  "team": "New Zealand",
+  "sport": "rugby",
+  "league": "world-rugby",
+  "country": "New Zealand",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "altrad",
+      "name": "Altrad",
+      "placement": "partner",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Union partners page",
+        "date": "2026-09-25",
+        "url": "https://www.allblacks.com/partners/",
+        "note": "Major Global Partner of New Zealand Rugby (allblacks.com/partners)."
+      }
+    },
+    {
+      "id": "bupa",
+      "name": "Bupa",
+      "placement": "partner",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Union partners page",
+        "date": "2026-09-25",
+        "url": "https://www.allblacks.com/partners/",
+        "note": "Global Partner of New Zealand Rugby (allblacks.com/partners)."
+      }
+    },
+    {
+      "id": "gallagher-insurance",
+      "name": "Gallagher Insurance",
+      "placement": "partner",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Union partners page",
+        "date": "2026-09-25",
+        "url": "https://www.allblacks.com/partners/",
+        "note": "Official Platinum Partner of New Zealand Rugby (allblacks.com/partners)."
+      }
+    },
+    {
+      "id": "xero",
+      "name": "Xero",
+      "placement": "partner",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Union partners page",
+        "date": "2026-09-25",
+        "url": "https://www.allblacks.com/partners/",
+        "note": "Global Partner of New Zealand Rugby (allblacks.com/partners)."
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

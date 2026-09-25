@@ -1,0 +1,29 @@
+{
+  "id": "everton-w",
+  "team": "Everton Women",
+  "sport": "soccer",
+  "league": "womens-super-league",
+  "country": "England",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "ggm-gastro",
+      "name": "GGM Gastro",
+      "placement": "shorts",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Everton FC, official announcement (club news CMS)",
+        "date": "2025-10-10",
+        "url": "https://www.evertonfc.com/news/2025/october/10/everton-women-partner-with-ggm-gastro/",
+        "note": "GGM Gastro became an Official Partner of Everton Women in their first season at Goodison Park, with the brand mark on the back of the shorts worn by Everton Women; article body read via the club's news CMS (article bf9b9b90-a5c2-11f0-a06d-1b26a8313bb6)."
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

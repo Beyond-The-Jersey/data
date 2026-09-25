@@ -1,0 +1,44 @@
+{
+  "id": "charlton-athletic-w",
+  "team": "Charlton Athletic Women",
+  "sport": "soccer",
+  "league": "womens-super-league",
+  "country": "England",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "rsk-group",
+      "name": "RSK Group",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Charlton Athletic FC, official announcement",
+        "date": "2025-05-22",
+        "url": "https://www.cafc.co.uk/news/charlton-announce-new-partnership-rsk"
+      }
+    },
+    {
+      "id": "todaytix",
+      "name": "TodayTix",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Charlton Athletic FC, TodayTix announcement",
+        "date": "2026-06-30",
+        "url": "https://www.cafc.co.uk/news/todaytix-announced-official-experience-partner",
+        "note": "Two-year deal from June 2026 puts the TodayTix logo on the back of the men's and women's first-team shirts; confirmed on the 2026/27 Reebok home kit (2 Jul 2026) and away kit (19 Aug 2026), which women's first-teamers modelled."
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

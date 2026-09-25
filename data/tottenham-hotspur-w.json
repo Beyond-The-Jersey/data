@@ -1,0 +1,48 @@
+{
+  "id": "tottenham-hotspur-w",
+  "team": "Tottenham Hotspur Women",
+  "sport": "soccer",
+  "league": "womens-super-league",
+  "country": "England",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "aia",
+      "name": "AIA",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "aia-group",
+      "owner": "AIA Group Limited (HKEX: 1299)",
+      "verdict": "Owned by AIA Group Limited (HKEX: 1299). Nothing found.",
+      "source": {
+        "name": "Tottenham Hotspur, Kraken partnership announcement (AIA front carried over)",
+        "date": "2024-07-16",
+        "url": "https://www.tottenhamhotspur.com/news/2024/july/tottenham-hotspur-partners-with-crypto-platform-kraken",
+        "note": "The Kraken article names AIA only implicitly via the existing shirt deal; AIA as front sponsor across the club is carried from the men's 2026/27 kit in normalized. Women's-specific front confirmation not restated."
+      }
+    },
+    {
+      "id": "kraken",
+      "name": "Kraken",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "payward",
+      "owner": "Payward, Inc. (d/b/a Kraken)",
+      "verdict": "Owned by Payward, Inc. (d/b/a Kraken). Nothing found.",
+      "source": {
+        "name": "Tottenham Hotspur, official announcement",
+        "date": "2024-07-16",
+        "url": "https://www.tottenhamhotspur.com/news/2024/july/tottenham-hotspur-partners-with-crypto-platform-kraken",
+        "note": "Kraken became the club's first Official Crypto and Web3 Partner and the Official Sleeve Partner for the club's Men's and Women's teams from 2024/25."
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "aia-group",
+    "payward"
+  ],
+  "lastUpdated": "2026-09-24"
+}

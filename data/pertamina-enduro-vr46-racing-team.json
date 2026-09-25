@@ -1,0 +1,30 @@
+{
+  "id": "pertamina-enduro-vr46-racing-team",
+  "team": "Pertamina Enduro VR46 Racing Team",
+  "sport": "motorsport",
+  "league": "motogp",
+  "country": "Italy",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "pertamina",
+      "name": "Pertamina / Pertamina Enduro",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": "pertamina",
+      "owner": "PT Pertamina (Persero)",
+      "verdict": null,
+      "source": {
+        "name": "MotoGP.com - BLACKANDLIGHT: new year, new colours for Pertamina Enduro VR46",
+        "date": "2026-01-14",
+        "url": "https://www.motogp.com/en/news/2026/01/14/blackandlight-new-year-new-colours-for-pertamina-enduro-vr46/825185"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "pertamina"
+  ],
+  "lastUpdated": "2026-09-24"
+}

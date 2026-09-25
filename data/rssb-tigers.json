@@ -1,0 +1,48 @@
+{
+  "id": "rssb-tigers",
+  "team": "RSSB Tigers",
+  "sport": "basketball",
+  "league": "basketball-africa-league",
+  "country": "Rwanda",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "rssb",
+      "name": "Rwanda Social Security Board (RSSB)",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": "rssb",
+      "owner": "Rwanda Social Security Board (RSSB)",
+      "verdict": null,
+      "source": {
+        "name": "The New Times (Rwanda) - APR vs Tigers, a new rivalry taking over Rwandan basketball",
+        "date": "2026",
+        "url": "https://www.newtimes.co.rw/article/37747/sports/basketball/apr-vs-tigers-a-new-rivalry-taking-over-rwandan-basketball/amp",
+        "note": "In 2025 'the Rwanda Social Security Board (RSSB) took full ownership of the club', which 'was subsequently renamed RSSB Tigers' - name-sponsor/owner relationship, not a bought shirt slot."
+      }
+    },
+    {
+      "id": "visit-rwanda",
+      "name": "Visit Rwanda",
+      "placement": "league-partner",
+      "season": "2026",
+      "tier": "severe",
+      "ownerId": "government-of-rwanda",
+      "owner": "Government of Rwanda",
+      "verdict": "Paid for by a government that UN experts say has 3,000–4,000 troops fighting alongside M23 rebels in eastern Congo.",
+      "source": {
+        "name": "NBA Communications (pr.nba.com): BAL and Rwanda Development Board multi-year extension",
+        "date": "2023-06-19",
+        "url": "https://pr.nba.com/bal-rwanda-development-board-kigali/",
+        "note": "Visit Rwanda showcased on BAL team uniforms (league-wide)."
+      }
+    }
+  ],
+  "worstTier": "severe",
+  "owners": [
+    "government-of-rwanda",
+    "rssb"
+  ],
+  "lastUpdated": "2026-09-24"
+}

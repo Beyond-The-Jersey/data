@@ -1,0 +1,30 @@
+{
+  "id": "honda-hrc-castrol",
+  "team": "Honda HRC Castrol",
+  "sport": "motorsport",
+  "league": "motogp",
+  "country": "Japan",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "castrol",
+      "name": "Castrol",
+      "placement": "front",
+      "season": "2026",
+      "tier": "concern",
+      "ownerId": "bp-plc",
+      "owner": "BP p.l.c.",
+      "verdict": "Castrol is BP's lubricants brand, so it inherits BP's owner chain (London/NYSE-listed, no state shareholder) and its sustained documented adverse record on the….",
+      "source": {
+        "name": "MotoGP.com - Honda HRC Castrol reveal 2026 colours",
+        "date": "2026-02-02",
+        "url": "https://www.motogp.com/en/news/2026/02/02/honda-hrc-castrol-reveal-2026-colours/827209"
+      }
+    }
+  ],
+  "worstTier": "concern",
+  "owners": [
+    "bp-plc"
+  ],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "prima-pramac-yamaha-motogp",
+  "team": "Prima Pramac Yamaha MotoGP",
+  "sport": "motorsport",
+  "league": "motogp",
+  "country": "Italy",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "prima-assicurazioni",
+      "name": "Prima Assicurazioni",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "MotoGP.com - Prima Pramac Yamaha take the covers off 2026",
+        "date": "2026-01-13",
+        "url": "https://www.motogp.com/en/news/2026/01/13/prima-pramac-yamaha-take-the-covers-off-2026/825075"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

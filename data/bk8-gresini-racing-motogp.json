@@ -1,0 +1,28 @@
+{
+  "id": "bk8-gresini-racing-motogp",
+  "team": "BK8 Gresini Racing MotoGP",
+  "sport": "motorsport",
+  "league": "motogp",
+  "country": "Italy",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "bk8",
+      "name": "BK8",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "MotoGP.com - 'Pure essence': BK8 Gresini Racing MotoGP unveil 2026 colours",
+        "date": "2026-01-31",
+        "url": "https://www.motogp.com/en/news/2026/01/31/pure-essence-bk8-gresini-racing-motogp-unveil-2026-colours/826840"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

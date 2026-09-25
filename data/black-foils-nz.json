@@ -1,0 +1,28 @@
+{
+  "id": "black-foils-nz",
+  "team": "Black Foils SailGP Team",
+  "sport": "sailing",
+  "league": "sailgp",
+  "country": "New Zealand",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "itm",
+      "name": "ITM",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "SailGP team page - New Zealand Black Foils (Official Partners)",
+        "date": "2026-09-25",
+        "url": "https://www.sailgp.com/teams/new-zealand/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ducati-lenovo-team",
+  "team": "Ducati Lenovo Team",
+  "sport": "motorsport",
+  "league": "motogp",
+  "country": "Italy",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "lenovo",
+      "name": "Lenovo",
+      "placement": "front",
+      "season": "2026",
+      "tier": "concern",
+      "ownerId": "lenovo-group-ltd",
+      "owner": "Lenovo Group Limited",
+      "verdict": "Lenovo, Formula 1's league-level partner, is listed in Hong Kong (992) and its largest shareholder is Legend Holdings Corporation with about 31.4% - Legend's own….",
+      "source": {
+        "name": "MotoGP.com - Revealed: Ducati celebrate 100 with stunning new livery",
+        "date": "2026-01-19",
+        "url": "https://www.motogp.com/en/news/2026/01/19/revealed-ducati-celebrate-100-with-stunning-new-livery/825628"
+      }
+    }
+  ],
+  "worstTier": "concern",
+  "owners": [
+    "lenovo-group-ltd"
+  ],
+  "lastUpdated": "2026-09-24"
+}

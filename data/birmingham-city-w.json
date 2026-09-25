@@ -1,0 +1,30 @@
+{
+  "id": "birmingham-city-w",
+  "team": "Birmingham City Women",
+  "sport": "soccer",
+  "league": "womens-super-league",
+  "country": "England",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "coral",
+      "name": "Coral",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "entain-plc",
+      "owner": "Entain plc",
+      "verdict": null,
+      "source": {
+        "name": "Gambling News",
+        "date": "2026-07-28",
+        "url": "https://www.gamblingnews.com/news/birmingham-city-welcomes-entains-coral-as-front-of-shirt-sponsor-in-2026-27/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "entain-plc"
+  ],
+  "lastUpdated": "2026-09-24"
+}
