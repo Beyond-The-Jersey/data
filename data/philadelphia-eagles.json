@@ -9,8 +9,42 @@
     "x": "@Eagles",
     "instagram": "@philadelphiaeagles"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "jefferson-health",
+      "name": "Jefferson Health",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "jefferson-health-owner",
+      "owner": "Jefferson Health",
+      "verdict": null,
+      "source": {
+        "name": "Zoomph (2026 NFL practice jersey patch guide)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      }
+    },
+    {
+      "id": "lincoln-financial-group",
+      "name": "Lincoln Financial Group",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "lincoln-financial-group-owner",
+      "owner": "Lincoln Financial Group",
+      "verdict": null,
+      "source": {
+        "name": "Philadelphia Eagles",
+        "date": "2019-05-09",
+        "url": "https://www.philadelphiaeagles.com/news/lincoln-financial-group-and-philadelphia-eagles-extend-stadium-naming-rights"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "jefferson-health-owner",
+    "lincoln-financial-group-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

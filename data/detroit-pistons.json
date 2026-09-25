@@ -9,8 +9,42 @@
     "x": "@detroitpistons",
     "instagram": "@detroitpistons"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "little-caesars",
+      "name": "Little Caesars",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "little-caesars-owner",
+      "owner": "Little Caesars",
+      "verdict": null,
+      "source": {
+        "name": "PR Newswire (Little Caesars Pizza / Olympia Entertainment)",
+        "date": "2016-04-28",
+        "url": "https://www.prnewswire.com/news-releases/little-caesars-arena-announced-as-name-of-detroits-new-multi-use-arena-centerpiece-of-12-billion-district-detroit-development-300259460.html"
+      }
+    },
+    {
+      "id": "stockx",
+      "name": "StockX",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "stockx-owner",
+      "owner": "StockX",
+      "verdict": null,
+      "source": {
+        "name": "StockX Newsroom",
+        "date": "2024-09-25",
+        "url": "https://stockx.com/about/detroit-pistons-and-stockx-announce-jersey-partnership"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "little-caesars-owner",
+    "stockx-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

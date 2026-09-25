@@ -10,8 +10,42 @@
     "x": "@Mariners",
     "instagram": "@mariners"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "nintendo",
+      "name": "Nintendo (Nintendo of America)",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "nintendo-owner",
+      "owner": "Nintendo (Nintendo of America)",
+      "verdict": null,
+      "source": {
+        "name": "Seattle Mariners (MLB.com)",
+        "date": "2026-03-27",
+        "url": "https://mariners.com/Nintendo"
+      }
+    },
+    {
+      "id": "t-mobile",
+      "name": "T-Mobile",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "t-mobile-owner",
+      "owner": "T-Mobile",
+      "verdict": null,
+      "source": {
+        "name": "MLB.com press release",
+        "date": "2018-12-19",
+        "url": "https://www.mlb.com/press-release/t-mobile-and-seattle-mariners-team-up-to-present-t-mobile-park-302014586"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "nintendo-owner",
+    "t-mobile-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

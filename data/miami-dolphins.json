@@ -10,8 +10,42 @@
     "x": "@miamidolphins",
     "instagram": "@miamidolphins"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "baptist-health",
+      "name": "Baptist Health",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "baptist-health-owner",
+      "owner": "Baptist Health",
+      "verdict": null,
+      "source": {
+        "name": "Zoomph (2026 NFL practice jersey patch guide)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      }
+    },
+    {
+      "id": "hard-rock-international",
+      "name": "Hard Rock International",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "hard-rock-international-owner",
+      "owner": "Hard Rock International",
+      "verdict": null,
+      "source": {
+        "name": "Miami Dolphins Communications Portal",
+        "date": "2016-08-17",
+        "url": "https://media.miamidolphins.com/press_releases/hard-rock-international-and-miami-dolphins-announce-18-year-stadium-naming-rights-agreement"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "baptist-health-owner",
+    "hard-rock-international-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

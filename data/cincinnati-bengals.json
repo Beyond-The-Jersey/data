@@ -10,8 +10,42 @@
     "x": "@GeoffHobsonCin",
     "instagram": "@bengals"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "fifth-third-bank",
+      "name": "Fifth Third Bank",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "fifth-third-bank-owner",
+      "owner": "Fifth Third Bank",
+      "verdict": null,
+      "source": {
+        "name": "Zoomph (2026 NFL practice jersey patch guide)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      }
+    },
+    {
+      "id": "paycor",
+      "name": "Paycor",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "paycor-owner",
+      "owner": "Paycor",
+      "verdict": null,
+      "source": {
+        "name": "Cincinnati Bengals",
+        "date": "2022-08-09",
+        "url": "https://www.bengals.com/news/paycor-stadium-naming-rights-cincinnati"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "fifth-third-bank-owner",
+    "paycor-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

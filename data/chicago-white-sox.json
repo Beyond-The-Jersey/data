@@ -10,8 +10,42 @@
     "x": "@whitesox",
     "instagram": "@whitesox"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "cme-group",
+      "name": "CME Group",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "cme-group-owner",
+      "owner": "CME Group",
+      "verdict": null,
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2026-01-28",
+        "url": "https://www.sportsbusinessjournal.com/Articles/2026/01/28/white-sox-add-cme-group-as-jersey-patch-sponsor"
+      }
+    },
+    {
+      "id": "rate-formerly-guaranteed-rate",
+      "name": "Rate (formerly Guaranteed Rate)",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "rate-formerly-guaranteed-rate-owner",
+      "owner": "Rate (formerly Guaranteed Rate)",
+      "verdict": null,
+      "source": {
+        "name": "MLB.com press release",
+        "date": "2024-12-18",
+        "url": "https://www.mlb.com/press-release/press-release-rate-and-chicago-white-sox-announce-rebrand-of-ballpark-introducing-rate-field"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "cme-group-owner",
+    "rate-formerly-guaranteed-rate-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

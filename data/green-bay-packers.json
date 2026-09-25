@@ -11,8 +11,26 @@
     "x": "@packers",
     "instagram": "@packers"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "uw-health",
+      "name": "UW Health",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "uw-health-owner",
+      "owner": "UW Health",
+      "verdict": null,
+      "source": {
+        "name": "Green Bay Packers (packers.com)",
+        "date": "2026-04-16",
+        "url": "https://www.packers.com/news/packers-name-uw-health-official-health-care-partner-of-the-green-bay-packers-2026"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "uw-health-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

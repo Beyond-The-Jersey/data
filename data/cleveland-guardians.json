@@ -10,8 +10,42 @@
     "x": "@CLEGuardians",
     "instagram": "@CLEGuardians"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "marathon",
+      "name": "Marathon",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "marathon-owner",
+      "owner": "Marathon",
+      "verdict": null,
+      "source": {
+        "name": "Crain's Cleveland Business",
+        "date": "2026-09-10",
+        "url": "https://www.crainscleveland.com/sports-recreation/ccl-guardians-marathon-20260910/"
+      }
+    },
+    {
+      "id": "progressive",
+      "name": "Progressive",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "progressive-owner",
+      "owner": "Progressive",
+      "verdict": null,
+      "source": {
+        "name": "Progressive Insurance media room",
+        "date": "2024-04-03",
+        "url": "https://progressive.mediaroom.com/news-releases?item=122513"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "marathon-owner",
+    "progressive-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

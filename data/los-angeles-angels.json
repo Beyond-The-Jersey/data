@@ -10,8 +10,26 @@
     "x": "@angels",
     "instagram": "@angels"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "foundation-building-materials",
+      "name": "Foundation Building Materials (FBM)",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "foundation-building-materials-owner",
+      "owner": "Foundation Building Materials (FBM)",
+      "verdict": null,
+      "source": {
+        "name": "Blinkfire Analytics",
+        "date": "2026-04-20",
+        "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball/"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "foundation-building-materials-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

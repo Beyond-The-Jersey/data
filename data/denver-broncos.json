@@ -11,8 +11,42 @@
     "x": "@broncos",
     "instagram": "@broncos"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "childrens-hospital-colorado",
+      "name": "Children's Hospital Colorado",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "childrens-hospital-colorado-owner",
+      "owner": "Children's Hospital Colorado",
+      "verdict": null,
+      "source": {
+        "name": "Denver Broncos",
+        "date": "2024-07-24",
+        "url": "https://www.denverbroncos.com/news/broncos-renew-and-expand-partnership-with-children-s-hospital-colorado"
+      }
+    },
+    {
+      "id": "empower",
+      "name": "Empower",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "empower-owner",
+      "owner": "Empower",
+      "verdict": null,
+      "source": {
+        "name": "Metropolitan Football Stadium District (mfsd.com)",
+        "date": "2019-09-06",
+        "url": "https://mfsd.com/empower-field-at-mile-high-name-change"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "childrens-hospital-colorado-owner",
+    "empower-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

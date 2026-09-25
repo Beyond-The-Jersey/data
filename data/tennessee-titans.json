@@ -8,8 +8,42 @@
     "x": "@titans",
     "instagram": "@titans"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "kroger",
+      "name": "Kroger",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "kroger-owner",
+      "owner": "Kroger",
+      "verdict": null,
+      "source": {
+        "name": "Zoomph (2026 NFL jersey patch guide)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors"
+      }
+    },
+    {
+      "id": "nissan",
+      "name": "Nissan",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "nissan-owner",
+      "owner": "Nissan",
+      "verdict": null,
+      "source": {
+        "name": "The Tennessean",
+        "date": "2023-11-17",
+        "url": "https://www.tennessean.com/story/money/2023/11/17/titans-stadium-naming-rights-nashville-new-nissan-stadium/71617483007/"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "kroger-owner",
+    "nissan-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

@@ -9,8 +9,42 @@
     "x": "@nyjets",
     "instagram": "@nyjets"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "atlantic-health",
+      "name": "Atlantic Health",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "atlantic-health-owner",
+      "owner": "Atlantic Health",
+      "verdict": null,
+      "source": {
+        "name": "Zoomph (2026 NFL jersey patch guide)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors"
+      }
+    },
+    {
+      "id": "metlife",
+      "name": "MetLife",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "metlife-owner",
+      "owner": "MetLife",
+      "verdict": null,
+      "source": {
+        "name": "MetLife Stadium (official)",
+        "date": "2026-09-10",
+        "url": "https://www.metlifestadium.com/news/detail/metlife-stadium-welcomes-back-football-fueled-by-new-and-expanded-partnerships-across-the-jets-and-giants-platform"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "atlantic-health-owner",
+    "metlife-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

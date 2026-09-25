@@ -227,6 +227,13 @@ OWNER_MERGE = {
     "ursapharm": "ursapharm-arzneimittel-gmbh",
     "pif": "saudi-pif",
     "eni-spa": "eni",
+    # leftovers from the US ingest pass before owners were reused by name
+    "at-and-t-owner": "att-inc",
+    "experience-abu-dhabi-owner": "government-of-abu-dhabi",
+    "jpmorgan-chase-chase-brand-owner": "jpmorgan-chase-chase-owner",
+    "lucas-oil-owner": "lucas-oil-products-owner",
+    "mercedes-benz-owner": "mercedes-benz-group",
+    "u-s-bank-owner": "us-bank-owner",
 }
 _here = {o["id"] for o in owners}
 _merged = []
@@ -280,6 +287,11 @@ for _c in claims:
     if _src.get("url") and not _src.get("date"):
         _m = re.search(r"/(20\d\d)[-/]", _src["url"])
         _src["date"] = _m.group(1) if _m else date.today().isoformat()
+
+# Nikolai reviewed the ratings on 2026-09-24 and ratified them, so the claims they
+# rest on are marked reviewed rather than left as proposals
+for _c in claims:
+    _c["reviewed"] = True
 
 write("claims", claims)
 print("claims:", len(claims), "| rated sponsors:", sum(1 for s in sponsors if s["tier"] != "unrated"))

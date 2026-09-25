@@ -8,8 +8,42 @@
     "x": "@memgrizz",
     "instagram": "@memgrizz"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "fedex",
+      "name": "FedEx",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "fedex-owner",
+      "owner": "FedEx",
+      "verdict": null,
+      "source": {
+        "name": "Inside Hoops (Grizzlies/FedEx release)",
+        "date": "2025-01-01",
+        "url": "https://insidehoops.com/blog/2025/01/grizzlies-and-fedex-to-continue-their-long-term-partnership"
+      }
+    },
+    {
+      "id": "robinhood",
+      "name": "Robinhood",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "robinhood-owner",
+      "owner": "Robinhood",
+      "verdict": null,
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2024-09-19",
+        "url": "https://www.sportsbusinessjournal.com/Articles/2024/09/19/memphis-grizzlies-jersey-patch-robinhood"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "fedex-owner",
+    "robinhood-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

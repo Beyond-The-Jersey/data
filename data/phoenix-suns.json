@@ -8,8 +8,42 @@
     "email": "memberships@suns.com",
     "phone": "6023792000"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "paypal",
+      "name": "PayPal",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "paypal-owner",
+      "owner": "PayPal",
+      "verdict": null,
+      "source": {
+        "name": "Zoomph (2026/27 NBA jersey patch guide)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/nba-jersey-patch-sponsors-this-season/"
+      }
+    },
+    {
+      "id": "united-wholesale-mortgage",
+      "name": "United Wholesale Mortgage",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "united-wholesale-mortgage-owner",
+      "owner": "United Wholesale Mortgage",
+      "verdict": null,
+      "source": {
+        "name": "FOX 10 Phoenix",
+        "date": "2025-10-02",
+        "url": "https://www.fox10phoenix.com/sports/mortgage-matchup-center-phx-arena-gets-new-name"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "paypal-owner",
+    "united-wholesale-mortgage-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

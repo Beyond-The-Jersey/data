@@ -8,8 +8,42 @@
     "x": "@raptors",
     "instagram": "@raptors"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "scotiabank",
+      "name": "Scotiabank",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "scotiabank-owner",
+      "owner": "Scotiabank",
+      "verdict": null,
+      "source": {
+        "name": "PR Newswire (Scotiabank / MLSE)",
+        "date": "2017-08-29",
+        "url": "https://www.prnewswire.com/news-releases/home-of-the-maple-leafs-and-raptors-to-become-scotiabank-arena-next-summer-642158183.html"
+      }
+    },
+    {
+      "id": "sun-life",
+      "name": "Sun Life",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "sun-life-owner",
+      "owner": "Sun Life",
+      "verdict": null,
+      "source": {
+        "name": "Toronto Raptors / NBA.com",
+        "date": "2017-07-06",
+        "url": "https://www.nba.com/raptors/raptors-sunlife-announce-partnership"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "scotiabank-owner",
+    "sun-life-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

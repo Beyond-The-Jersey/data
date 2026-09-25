@@ -8,8 +8,26 @@
     "x": "@nyknicks",
     "instagram": "@nyknicks"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "experience-abu-dhabi",
+      "name": "Experience Abu Dhabi (Dept. of Culture and Tourism - Abu Dhabi)",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "government-of-abu-dhabi",
+      "owner": "Government of Abu Dhabi",
+      "verdict": null,
+      "source": {
+        "name": "PR Newswire / MSG Sports Corp.",
+        "date": "2024-10-17",
+        "url": "https://www.prnewswire.com/news-releases/experience-abu-dhabi-named-official-new-york-knicks-patch-partner-302278654.html"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "government-of-abu-dhabi"
+  ],
   "lastUpdated": "2026-09-24"
 }

@@ -10,8 +10,42 @@
     "x": "@Rockies",
     "instagram": "@rockies"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "coors-brewing-co-molson-coors",
+      "name": "Coors Brewing Co. (Molson Coors)",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "coors-brewing-co-molson-coors-owner",
+      "owner": "Coors Brewing Co. (Molson Coors)",
+      "verdict": null,
+      "source": {
+        "name": "Ballpark Digest",
+        "date": "2018-05-01",
+        "url": "https://ballparkdigest.com/2018/05/coors-field-naming-rights-run-in-perpetuity/"
+      }
+    },
+    {
+      "id": "york-space-systems",
+      "name": "York Space Systems",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "york-space-systems-owner",
+      "owner": "York Space Systems",
+      "verdict": null,
+      "source": {
+        "name": "Colorado Rockies / MLB.com press release",
+        "date": "2025-07-01",
+        "url": "https://www.mlb.com/press-release/colorado-rockies-and-york-space-systems-launch-historic-jersey-patch-partnership"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "coors-brewing-co-molson-coors-owner",
+    "york-space-systems-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

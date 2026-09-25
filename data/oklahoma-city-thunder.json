@@ -9,8 +9,42 @@
     "phone": "+14052084800",
     "contact-form": "https://www.nba.com/thunder/contact"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "loves-travel-stops",
+      "name": "Love's Travel Stops & Country Stores",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "loves-travel-stops-owner",
+      "owner": "Love's Travel Stops & Country Stores",
+      "verdict": null,
+      "source": {
+        "name": "ESPN",
+        "date": "2019-03-15",
+        "url": "https://www.espn.com/espn/print?id=26262269"
+      }
+    },
+    {
+      "id": "paycom",
+      "name": "Paycom",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "paycom-owner",
+      "owner": "Paycom",
+      "verdict": null,
+      "source": {
+        "name": "Oklahoma City Thunder (nba.com)",
+        "date": "2021-07-27",
+        "url": "https://www.nba.com/thunder/news/release-paycom-210727"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "loves-travel-stops-owner",
+    "paycom-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

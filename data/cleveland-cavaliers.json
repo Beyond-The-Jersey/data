@@ -10,8 +10,42 @@
     "x": "@cavs",
     "instagram": "@Cavs"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "cleveland-cliffs",
+      "name": "Cleveland-Cliffs",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "cleveland-cliffs-owner",
+      "owner": "Cleveland-Cliffs",
+      "verdict": null,
+      "source": {
+        "name": "Cleveland Cavaliers (NBA.com)",
+        "date": "2022-03-29",
+        "url": "https://www.nba.com/cavaliers/releases/cliffs-release-220329"
+      }
+    },
+    {
+      "id": "rocket-rocket-companies",
+      "name": "Rocket (Rocket Companies)",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "rocket-rocket-companies-owner",
+      "owner": "Rocket (Rocket Companies)",
+      "verdict": null,
+      "source": {
+        "name": "Rocket Arena (venue press release)",
+        "date": "2025-02-18",
+        "url": "https://rocketarena.com/news/detail/rocket-announcement-250218"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "cleveland-cliffs-owner",
+    "rocket-rocket-companies-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

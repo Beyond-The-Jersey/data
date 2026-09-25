@@ -10,8 +10,42 @@
     "x": "@Reds",
     "instagram": "@reds"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "great-american-insurance",
+      "name": "Great American Insurance",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "great-american-insurance-owner",
+      "owner": "Great American Insurance",
+      "verdict": null,
+      "source": {
+        "name": "Ballparks of Baseball",
+        "date": "2023-01-01",
+        "url": "https://ballparksofbaseball.com/ballparks/great-american-ball-park"
+      }
+    },
+    {
+      "id": "kroger",
+      "name": "Kroger",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "kroger-owner",
+      "owner": "Kroger",
+      "verdict": null,
+      "source": {
+        "name": "Front Office Sports",
+        "date": "2023-02-02",
+        "url": "https://frontofficesports.com/mlb-jersey-patch-market-warming-up-reds-ink-deal"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "great-american-insurance-owner",
+    "kroger-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

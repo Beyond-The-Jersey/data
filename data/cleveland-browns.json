@@ -11,8 +11,42 @@
     "x": "@Browns",
     "instagram": "@clevelandbrowns"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "eaton",
+      "name": "Eaton Corporation",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "eaton-owner",
+      "owner": "Eaton Corporation",
+      "verdict": null,
+      "source": {
+        "name": "Zoomph (NFL practice-jersey sponsor tracker)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      }
+    },
+    {
+      "id": "huntington-national-bank-huntington-bancshares",
+      "name": "Huntington National Bank (Huntington Bancshares)",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "huntington-national-bank-huntington-bancshares-owner",
+      "owner": "Huntington National Bank (Huntington Bancshares)",
+      "verdict": null,
+      "source": {
+        "name": "Cleveland Browns",
+        "date": "2024-09-03",
+        "url": "https://www.clevelandbrowns.com/news/browns-and-huntington-bank-announce-20-year-partnership-that-includes-stadium-naming-rights"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "eaton-owner",
+    "huntington-national-bank-huntington-bancshares-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

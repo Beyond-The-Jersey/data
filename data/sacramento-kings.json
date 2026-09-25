@@ -8,8 +8,42 @@
     "x": "@SacramentoKings",
     "instagram": "@sacramentokings"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "golden-1-credit-union",
+      "name": "Golden 1 Credit Union",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "golden-1-credit-union-owner",
+      "owner": "Golden 1 Credit Union",
+      "verdict": null,
+      "source": {
+        "name": "Sacramento Kings (NBA.com)",
+        "date": "2015-06-16",
+        "url": "https://www.nba.com/kings/news/06162015-press-release"
+      }
+    },
+    {
+      "id": "sutter-health",
+      "name": "Sutter Health",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "sutter-health-owner",
+      "owner": "Sutter Health",
+      "verdict": null,
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2026-05-12",
+        "url": "https://sportsbusinessjournal.com/Articles/2026/05/12/sacramento-kings-name-sutter-health-jersey-patch-sponsor"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "golden-1-credit-union-owner",
+    "sutter-health-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

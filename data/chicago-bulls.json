@@ -9,8 +9,42 @@
     "x": "@chicagobulls",
     "instagram": "@chicagobulls"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "motorola-mobility",
+      "name": "Motorola Mobility",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "motorola-mobility-owner",
+      "owner": "Motorola Mobility",
+      "verdict": null,
+      "source": {
+        "name": "Chicago Bulls (nba.com)",
+        "date": "2022-09-20",
+        "url": "https://www.nba.com/bulls/news/chicago-bulls-name-motorola-mobility-as-official-jersey-patch-partner"
+      }
+    },
+    {
+      "id": "united-airlines",
+      "name": "United Airlines",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "united-airlines-owner",
+      "owner": "United Airlines",
+      "verdict": null,
+      "source": {
+        "name": "United Center (official)",
+        "date": "2013-12-11",
+        "url": "https://www.unitedcenter.com/united-center-naming-rights-agreement/"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "motorola-mobility-owner",
+    "united-airlines-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

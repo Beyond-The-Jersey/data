@@ -10,8 +10,42 @@
     "x": "@Braves",
     "instagram": "@braves"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "quikrete",
+      "name": "QUIKRETE",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "quikrete-owner",
+      "owner": "QUIKRETE",
+      "verdict": null,
+      "source": {
+        "name": "MLB.com press release (Atlanta Braves)",
+        "date": "2023-05-18",
+        "url": "https://www.mlb.com/press-release/press-release-atlanta-braves-name-quikrete-as-the-team-s-first-official-jersey-p"
+      }
+    },
+    {
+      "id": "truist",
+      "name": "Truist",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "truist-owner",
+      "owner": "Truist",
+      "verdict": null,
+      "source": {
+        "name": "Truist media release",
+        "date": "2020-01-14",
+        "url": "https://media.truist.com/2020-01-14-Truist-and-the-Atlanta-Braves-Announce-Truist-Park-as-New-Name-of-SunTrust-Park"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "quikrete-owner",
+    "truist-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

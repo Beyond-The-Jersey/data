@@ -10,8 +10,26 @@
     "x": "@ChicagoBears",
     "instagram": "@chicagobears"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "advocate-health-care",
+      "name": "Advocate Health Care",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "advocate-health-care-owner",
+      "owner": "Advocate Health Care",
+      "verdict": null,
+      "source": {
+        "name": "Zoomph (2026 NFL jersey patch guide)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "advocate-health-care-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

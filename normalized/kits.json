@@ -3985,6 +3985,2126 @@
     "summary": "2026 car. N"
   },
   {
+    "id": "atlanta-hawks-2026-27-home",
+    "clubId": "atlanta-hawks",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "paze",
+        "placement": "patch",
+        "source": {
+          "name": "Sports Business Journal",
+          "date": "2025-09-29",
+          "url": "https://www.sportsbusinessjournal.com/Articles/2025/09/29/hawks-select-digital-wallet-paze-as-jersey-patch-sponsor"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Paze (Early Warning Services).",
+    "change": null
+  },
+  {
+    "id": "dallas-mavericks-2026-27-home",
+    "clubId": "dallas-mavericks",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "jpmorganchase",
+        "placement": "patch",
+        "source": {
+          "name": "JPMorgan Chase Newsroom",
+          "date": "2026-07-08",
+          "url": "https://www.jpmorganchase.com/newsroom/press-releases/2026/chasedallasmavs"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: JPMorganChase (Chase).",
+    "change": null
+  },
+  {
+    "id": "los-angeles-lakers-2026-27-home",
+    "clubId": "los-angeles-lakers",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "albert",
+        "placement": "patch",
+        "source": {
+          "name": "Yahoo Sports",
+          "date": "2026-07-17",
+          "url": "https://sports.yahoo.com/articles/lakers-announce-albert-jersey-patch-182626664.html"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Albert.",
+    "change": null
+  },
+  {
+    "id": "new-york-knicks-2026-27-home",
+    "clubId": "new-york-knicks",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "experience-abu-dhabi",
+        "placement": "patch",
+        "source": {
+          "name": "PR Newswire / MSG Sports Corp.",
+          "date": "2024-10-17",
+          "url": "https://www.prnewswire.com/news-releases/experience-abu-dhabi-named-official-new-york-knicks-patch-partner-302278654.html"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Experience Abu Dhabi (Dept. of Culture and Tourism - Abu Dhabi).",
+    "change": null
+  },
+  {
+    "id": "sacramento-kings-2026-27-home",
+    "clubId": "sacramento-kings",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "sutter-health",
+        "placement": "patch",
+        "source": {
+          "name": "Sports Business Journal",
+          "date": "2026-05-12",
+          "url": "https://sportsbusinessjournal.com/Articles/2026/05/12/sacramento-kings-name-sutter-health-jersey-patch-sponsor"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Sutter Health.",
+    "change": null
+  },
+  {
+    "id": "atlanta-falcons-2026-27-home",
+    "clubId": "atlanta-falcons",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "att",
+        "placement": "training-kit",
+        "source": {
+          "name": "Zoomph (NFL practice-jersey sponsor tracker)",
+          "date": "2026-09-01",
+          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Practice-jersey patch: AT&T.",
+    "change": null
+  },
+  {
+    "id": "cleveland-browns-2026-27-home",
+    "clubId": "cleveland-browns",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "eaton",
+        "placement": "training-kit",
+        "source": {
+          "name": "Zoomph (NFL practice-jersey sponsor tracker)",
+          "date": "2026-09-01",
+          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Practice-jersey patch: Eaton Corporation.",
+    "change": null
+  },
+  {
+    "id": "indianapolis-colts-2026-27-home",
+    "clubId": "indianapolis-colts",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "ascension-st-vincent",
+        "placement": "training-kit",
+        "source": {
+          "name": "Zoomph (NFL practice-jersey sponsor tracker)",
+          "date": "2026-09-01",
+          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Practice-jersey patch: Ascension St. Vincent's.",
+    "change": null
+  },
+  {
+    "id": "minnesota-vikings-2026-27-home",
+    "clubId": "minnesota-vikings",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": "No patch partner for 2026-27.",
+    "change": null
+  },
+  {
+    "id": "pittsburgh-steelers-2026-27-home",
+    "clubId": "pittsburgh-steelers",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": "No patch partner for 2026-27.",
+    "change": null
+  },
+  {
+    "id": "arizona-diamondbacks-2026-27-home",
+    "clubId": "arizona-diamondbacks",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "avnet",
+        "placement": "patch",
+        "source": {
+          "name": "MLB.com / Arizona Diamondbacks",
+          "date": "2023-02-02",
+          "url": "https://www.mlb.com/press-release/press-release-arizona-diamondbacks-and-avnet-announce-new-partnership-to-include"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Avnet.",
+    "change": null
+  },
+  {
+    "id": "chicago-white-sox-2026-27-home",
+    "clubId": "chicago-white-sox",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "cme-group",
+        "placement": "patch",
+        "source": {
+          "name": "Sports Business Journal",
+          "date": "2026-01-28",
+          "url": "https://www.sportsbusinessjournal.com/Articles/2026/01/28/white-sox-add-cme-group-as-jersey-patch-sponsor"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: CME Group.",
+    "change": null
+  },
+  {
+    "id": "kansas-city-royals-2026-27-home",
+    "clubId": "kansas-city-royals",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "quiktrip",
+        "placement": "patch",
+        "source": {
+          "name": "MLB.com / Kansas City Royals",
+          "date": "2024-02-21",
+          "url": "https://www.mlb.com/news/royals-announce-jersey-patch-sponsor-with-quiktrip"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: QuikTrip.",
+    "change": null
+  },
+  {
+    "id": "new-york-mets-2026-27-home",
+    "clubId": "new-york-mets",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "newyork-presbyterian",
+        "placement": "patch",
+        "source": {
+          "name": "MLB.com press release",
+          "date": "2023-04-06",
+          "url": "https://www.mlb.com/press-release/press-release-new-york-mets-announce-multiyear-partnership-with-newyork-presbyte"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: NewYork-Presbyterian.",
+    "change": null
+  },
+  {
+    "id": "seattle-mariners-2026-27-home",
+    "clubId": "seattle-mariners",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "nintendo",
+        "placement": "patch",
+        "source": {
+          "name": "Seattle Mariners (MLB.com)",
+          "date": "2026-03-27",
+          "url": "https://mariners.com/Nintendo"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Nintendo (Nintendo of America).",
+    "change": null
+  },
+  {
+    "id": "boston-celtics-2026-27-home",
+    "clubId": "boston-celtics",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "amica-mutual-insurance",
+        "placement": "patch",
+        "source": {
+          "name": "NBC Sports Boston",
+          "date": "2024-07-09",
+          "url": "https://www.nbcsportsboston.com/nba/boston-celtics/wyc-grousbeck-celtics-jersey-patch-sponsor-amica/627910"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Amica Mutual Insurance.",
+    "change": null
+  },
+  {
+    "id": "denver-nuggets-2026-27-home",
+    "clubId": "denver-nuggets",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "ibotta",
+        "placement": "patch",
+        "source": {
+          "name": "Sportcal",
+          "date": "2026-04-17",
+          "url": "https://sportcal.com/news/ibotta-extends-as-nuggets-jersey-patch-partner"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Ibotta.",
+    "change": null
+  },
+  {
+    "id": "memphis-grizzlies-2026-27-home",
+    "clubId": "memphis-grizzlies",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "robinhood",
+        "placement": "patch",
+        "source": {
+          "name": "Sports Business Journal",
+          "date": "2024-09-19",
+          "url": "https://www.sportsbusinessjournal.com/Articles/2024/09/19/memphis-grizzlies-jersey-patch-robinhood"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Robinhood.",
+    "change": null
+  },
+  {
+    "id": "oklahoma-city-thunder-2026-27-home",
+    "clubId": "oklahoma-city-thunder",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "loves-travel-stops",
+        "placement": "patch",
+        "source": {
+          "name": "ESPN",
+          "date": "2019-03-15",
+          "url": "https://www.espn.com/espn/print?id=26262269"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Love's Travel Stops & Country Stores.",
+    "change": null
+  },
+  {
+    "id": "san-antonio-spurs-2026-27-home",
+    "clubId": "san-antonio-spurs",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "ledger",
+        "placement": "patch",
+        "source": {
+          "name": "San Antonio Spurs (spurs.com)",
+          "date": "2025-06-24",
+          "url": "https://spurs.com/news/san-antonio-spurs-partner-with-digital-asset-security-leader-ledger-in-new-global-jersey-patch-deal"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Ledger.",
+    "change": null
+  },
+  {
+    "id": "baltimore-ravens-2026-27-home",
+    "clubId": "baltimore-ravens",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "perdue-farms",
+        "placement": "training-kit",
+        "source": {
+          "name": "Sports Business Journal",
+          "date": "2026-07-20",
+          "url": "https://sportsbusinessjournal.com/Articles/2026/07/20/ravens-sign-perdue-farms-as-official-chicken-in-multiyear-sponsorship-deal"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Practice-jersey patch: Perdue Farms.",
+    "change": null
+  },
+  {
+    "id": "dallas-cowboys-2026-27-home",
+    "clubId": "dallas-cowboys",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "att",
+        "placement": "training-kit",
+        "source": {
+          "name": "Zoomph",
+          "date": "2026-09-01",
+          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Practice-jersey patch: AT&T.",
+    "change": null
+  },
+  {
+    "id": "jacksonville-jaguars-2026-27-home",
+    "clubId": "jacksonville-jaguars",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "dream-finders-homes",
+        "placement": "training-kit",
+        "source": {
+          "name": "Zoomph",
+          "date": "2026-09-01",
+          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Practice-jersey patch: Dream Finders Homes.",
+    "change": null
+  },
+  {
+    "id": "new-england-patriots-2026-27-home",
+    "clubId": "new-england-patriots",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "gillette",
+        "placement": "training-kit",
+        "source": {
+          "name": "Zoomph",
+          "date": "2026-09-01",
+          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Practice-jersey patch: Gillette.",
+    "change": null
+  },
+  {
+    "id": "san-francisco-49ers-2026-27-home",
+    "clubId": "san-francisco-49ers",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "us-bank",
+        "placement": "training-kit",
+        "source": {
+          "name": "Sports Business Journal",
+          "date": "2026-09-10",
+          "url": "https://www.sportsbusinessjournal.com/Articles/2026/09/10/health-care-providers-financial-companies-dominate-nfl-jersey-patches/"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Practice-jersey patch: U.S. Bank.",
+    "change": null
+  },
+  {
+    "id": "athletics-2026-27-home",
+    "clubId": "athletics",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "lvcva",
+        "placement": "patch",
+        "source": {
+          "name": "MLB Trade Rumors",
+          "date": "2025-03-07",
+          "url": "https://mlbtraderumors.com/2025/03/as-announce-las-vegas-jersey-patch-sponsorship.html"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Las Vegas Convention and Visitors Authority (LVCVA) - 'Las Vegas' patch.",
+    "change": null
+  },
+  {
+    "id": "cincinnati-reds-2026-27-home",
+    "clubId": "cincinnati-reds",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "kroger",
+        "placement": "patch",
+        "source": {
+          "name": "Front Office Sports",
+          "date": "2023-02-02",
+          "url": "https://frontofficesports.com/mlb-jersey-patch-market-warming-up-reds-ink-deal"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Kroger.",
+    "change": null
+  },
+  {
+    "id": "los-angeles-angels-2026-27-home",
+    "clubId": "los-angeles-angels",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "foundation-building-materials",
+        "placement": "patch",
+        "source": {
+          "name": "Blinkfire Analytics",
+          "date": "2026-04-20",
+          "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball/"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Foundation Building Materials (FBM).",
+    "change": null
+  },
+  {
+    "id": "new-york-yankees-2026-27-home",
+    "clubId": "new-york-yankees",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "starr-insurance",
+        "placement": "patch",
+        "source": {
+          "name": "NJ.com",
+          "date": "2026-04-02",
+          "url": "https://nj.com/yankees/2026/04/yankees-say-alterative-uniforms-wont-kill-tradition-weve-got-a-patch-on-our-sleeves.html"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Starr Insurance Companies.",
+    "change": null
+  },
+  {
+    "id": "st-louis-cardinals-2026-27-home",
+    "clubId": "st-louis-cardinals",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "stifel",
+        "placement": "patch",
+        "source": {
+          "name": "MLB.com press release",
+          "date": "2023-05-02",
+          "url": "https://mlb.com/press-release/press-release-cardinals-announce-stifel-as-club-s-first-jersey-patch-sponsor"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Stifel Financial.",
+    "change": null
+  },
+  {
+    "id": "brooklyn-nets-2026-27-home",
+    "clubId": "brooklyn-nets",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "all-in-won",
+        "placement": "patch",
+        "source": {
+          "name": "Brooklyn Sports & Entertainment (bkse.com)",
+          "date": "2025-07-01",
+          "url": "https://bkse.com/news/brooklyn-nets-name-all-in-won-as-official-jersey-patch-partner"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: All In Won.",
+    "change": null
+  },
+  {
+    "id": "detroit-pistons-2026-27-home",
+    "clubId": "detroit-pistons",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "stockx",
+        "placement": "patch",
+        "source": {
+          "name": "StockX Newsroom",
+          "date": "2024-09-25",
+          "url": "https://stockx.com/about/detroit-pistons-and-stockx-announce-jersey-partnership"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: StockX.",
+    "change": null
+  },
+  {
+    "id": "miami-heat-2026-27-home",
+    "clubId": "miami-heat",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "robinhood",
+        "placement": "patch",
+        "source": {
+          "name": "Miami HEAT (nba.com/heat)",
+          "date": "2024-09-24",
+          "url": "https://www.nba.com/heat/news/heat-and-robinhood-announce-jersey-patch-partnership"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Robinhood.",
+    "change": null
+  },
+  {
+    "id": "orlando-magic-2026-27-home",
+    "clubId": "orlando-magic",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "walt-disney-world",
+        "placement": "patch",
+        "source": {
+          "name": "Orlando Magic (nba.com/magic)",
+          "date": "2022-10-26",
+          "url": "https://www.nba.com/magic/news/orlando-magic-walt-disney-world-resort-community-sponsorship-agreement-logo-jersey-patch-release-20221026"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Walt Disney World Resort.",
+    "change": null
+  },
+  {
+    "id": "toronto-raptors-2026-27-home",
+    "clubId": "toronto-raptors",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "sun-life",
+        "placement": "patch",
+        "source": {
+          "name": "Toronto Raptors / NBA.com",
+          "date": "2017-07-06",
+          "url": "https://www.nba.com/raptors/raptors-sunlife-announce-partnership"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Sun Life.",
+    "change": null
+  },
+  {
+    "id": "buffalo-bills-2026-27-home",
+    "clubId": "buffalo-bills",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "kaleida-health",
+        "placement": "training-kit",
+        "source": {
+          "name": "Zoomph (NFL Practice Jersey Patch Sponsors guide; updated 2026-09-01)",
+          "date": "2026-09-01",
+          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Practice-jersey patch: Kaleida Health.",
+    "change": null
+  },
+  {
+    "id": "denver-broncos-2026-27-home",
+    "clubId": "denver-broncos",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "childrens-hospital-colorado",
+        "placement": "training-kit",
+        "source": {
+          "name": "Denver Broncos",
+          "date": "2024-07-24",
+          "url": "https://www.denverbroncos.com/news/broncos-renew-and-expand-partnership-with-children-s-hospital-colorado"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Practice-jersey patch: Children's Hospital Colorado.",
+    "change": null
+  },
+  {
+    "id": "kansas-city-chiefs-2026-27-home",
+    "clubId": "kansas-city-chiefs",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "burns-and-mcdonnell",
+        "placement": "training-kit",
+        "source": {
+          "name": "Kansas City Chiefs",
+          "date": "2025-08-25",
+          "url": "https://www.chiefs.com/news/chiefs-and-burns-mcdonnell-announce-significant-partnership-agreement-for-practice-jersey-patch"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Practice-jersey patch: Burns & McDonnell.",
+    "change": null
+  },
+  {
+    "id": "new-orleans-saints-2026-27-home",
+    "clubId": "new-orleans-saints",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "rouses-markets",
+        "placement": "training-kit",
+        "source": {
+          "name": "Zoomph (NFL Practice Jersey Patch Sponsors guide; updated 2026-09-01)",
+          "date": "2026-09-01",
+          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Practice-jersey patch: Rouses Markets.",
+    "change": null
+  },
+  {
+    "id": "seattle-seahawks-2026-27-home",
+    "clubId": "seattle-seahawks",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "aws",
+        "placement": "training-kit",
+        "source": {
+          "name": "Zoomph (NFL Practice Jersey Patch Sponsors guide; updated 2026-09-01)",
+          "date": "2026-09-01",
+          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Practice-jersey patch: Amazon Web Services (AWS).",
+    "change": null
+  },
+  {
+    "id": "atlanta-braves-2026-27-home",
+    "clubId": "atlanta-braves",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "quikrete",
+        "placement": "patch",
+        "source": {
+          "name": "MLB.com press release (Atlanta Braves)",
+          "date": "2023-05-18",
+          "url": "https://www.mlb.com/press-release/press-release-atlanta-braves-name-quikrete-as-the-team-s-first-official-jersey-p"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: QUIKRETE.",
+    "change": null
+  },
+  {
+    "id": "cleveland-guardians-2026-27-home",
+    "clubId": "cleveland-guardians",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "marathon",
+        "placement": "patch",
+        "source": {
+          "name": "Crain's Cleveland Business",
+          "date": "2026-09-10",
+          "url": "https://www.crainscleveland.com/sports-recreation/ccl-guardians-marathon-20260910/"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Marathon.",
+    "change": null
+  },
+  {
+    "id": "los-angeles-dodgers-2026-27-home",
+    "clubId": "los-angeles-dodgers",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "guggenheim",
+        "placement": "patch",
+        "source": {
+          "name": "DodgerBlue",
+          "date": "2026-03-25",
+          "url": "https://dodgerblue.com/dodgers-partnership-with-uniqlo-field-name-dodger-stadium/2026/03/25/"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Guggenheim Baseball Management.",
+    "change": null
+  },
+  {
+    "id": "philadelphia-phillies-2026-27-home",
+    "clubId": "philadelphia-phillies",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "independence-blue-cross",
+        "placement": "patch",
+        "source": {
+          "name": "MLB.com (Philadelphia Phillies)",
+          "date": "2024-07-31",
+          "url": "https://www.mlb.com/news/phillies-name-independence-blue-cross-as-first-official-jersey-patch-partner"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Independence Blue Cross (IBX).",
+    "change": null
+  },
+  {
+    "id": "tampa-bay-rays-2026-27-home",
+    "clubId": "tampa-bay-rays",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "webull",
+        "placement": "patch",
+        "source": {
+          "name": "MLB.com (Tampa Bay Rays)",
+          "date": "2026-03-19",
+          "url": "https://www.mlb.com/news/rays-announce-webull-will-be-corporate-jersey-patch-sponsor-2026"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Webull.",
+    "change": null
+  },
+  {
+    "id": "charlotte-hornets-2026-27-home",
+    "clubId": "charlotte-hornets",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "judi-health",
+        "placement": "patch",
+        "source": {
+          "name": "Charlotte Hornets / NBA.com",
+          "date": "2025-09-24",
+          "url": "https://www.nba.com/hornets/news/charlotte-hornets-and-judi-health-launch-multi-year-partnership-highlighted-by-jersey-patch-designation"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Judi Health.",
+    "change": null
+  },
+  {
+    "id": "golden-state-warriors-2026-27-home",
+    "clubId": "golden-state-warriors",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "iren",
+        "placement": "patch",
+        "source": {
+          "name": "Silicon Valley / Bay Area News Group",
+          "date": "2026-06-27",
+          "url": "https://siliconvalley.com/2026/06/27/warriors-announce-ai-data-center-company-as-jersey-sponsor"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: IREN (IREN Ltd, AI cloud infrastructure).",
+    "change": null
+  },
+  {
+    "id": "milwaukee-bucks-2026-27-home",
+    "clubId": "milwaukee-bucks",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "uline",
+        "placement": "patch",
+        "source": {
+          "name": "Milwaukee Bucks / NBA.com",
+          "date": "2026-09-21",
+          "url": "https://www.nba.com/bucks/news/milwaukee-bucks-name-wisconsin-based-uline-as-official-jersey-patch-partner"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Uline.",
+    "change": null
+  },
+  {
+    "id": "philadelphia-76ers-2026-27-home",
+    "clubId": "philadelphia-76ers",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "crypto-com",
+        "placement": "patch",
+        "source": {
+          "name": "Front Office Sports",
+          "date": "2026-07-30",
+          "url": "https://frontofficesports.com/lebron-james-sixers-expiring-jersey-patch"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Crypto.com.",
+    "change": null
+  },
+  {
+    "id": "utah-jazz-2026-27-home",
+    "clubId": "utah-jazz",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "healthequity",
+        "placement": "patch",
+        "source": {
+          "name": "Utah Jazz",
+          "date": "2026-06-17",
+          "url": "https://utahjazz.com/news/healthequity-becomes-official-jersey-patch-partner-of-the-utah-jazz-1"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: HealthEquity.",
+    "change": null
+  },
+  {
+    "id": "carolina-panthers-2026-27-home",
+    "clubId": "carolina-panthers",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "atrium-health",
+        "placement": "training-kit",
+        "source": {
+          "name": "Zoomph - NFL Practice Jersey Sponsor Guide (updated 2026-09-01)",
+          "date": "2026-09-01",
+          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Practice-jersey patch: Atrium Health.",
+    "change": null
+  },
+  {
+    "id": "detroit-lions-2026-27-home",
+    "clubId": "detroit-lions",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "meijer",
+        "placement": "training-kit",
+        "source": {
+          "name": "Detroit Lions",
+          "date": "2024-07-23",
+          "url": "https://www.detroitlions.com/news/detroit-lions-expand-and-extend-partnership-with-meijer"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Practice-jersey patch: Meijer.",
+    "change": null
+  },
+  {
+    "id": "las-vegas-raiders-2026-27-home",
+    "clubId": "las-vegas-raiders",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": "No patch partner for 2026-27.",
+    "change": null
+  },
+  {
+    "id": "new-york-giants-2026-27-home",
+    "clubId": "new-york-giants",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "quest-diagnostics",
+        "placement": "training-kit",
+        "source": {
+          "name": "Zoomph - NFL Practice Jersey Sponsor Guide (updated 2026-09-01)",
+          "date": "2026-09-01",
+          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Practice-jersey patch: Quest Diagnostics.",
+    "change": null
+  },
+  {
+    "id": "tampa-bay-buccaneers-2026-27-home",
+    "clubId": "tampa-bay-buccaneers",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "fifth-third-bank",
+        "placement": "training-kit",
+        "source": {
+          "name": "Tampa Bay Buccaneers / GlobeNewswire",
+          "date": "2026-08-03",
+          "url": "https://globenewswire.com/news-release/2026/08/03/3337463/0/en/Buccaneers-and-Fifth-Third-Bank-Elevate-Pewter-Partnership-with-Introduction-of-First-Ever-Practice-Jersey-Patch.html"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Practice-jersey patch: Fifth Third Bank.",
+    "change": null
+  },
+  {
+    "id": "baltimore-orioles-2026-27-home",
+    "clubId": "baltimore-orioles",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "t-rowe-price",
+        "placement": "patch",
+        "source": {
+          "name": "Baltimore Orioles / MLB.com press release",
+          "date": "2024-06-10",
+          "url": "https://www.mlb.com/press-release/press-release-baltimore-orioles-and-t-rowe-price-announce-marquee-sponsorship-agreement-with-jersey-patch"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: T. Rowe Price.",
+    "change": null
+  },
+  {
+    "id": "colorado-rockies-2026-27-home",
+    "clubId": "colorado-rockies",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "york-space-systems",
+        "placement": "patch",
+        "source": {
+          "name": "Colorado Rockies / MLB.com press release",
+          "date": "2025-07-01",
+          "url": "https://www.mlb.com/press-release/colorado-rockies-and-york-space-systems-launch-historic-jersey-patch-partnership"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: York Space Systems.",
+    "change": null
+  },
+  {
+    "id": "miami-marlins-2026-27-home",
+    "clubId": "miami-marlins",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "adt",
+        "placement": "patch",
+        "source": {
+          "name": "Sports Business Journal",
+          "date": "2025-05-13",
+          "url": "https://sportsbusinessjournal.com/Articles/2025/05/13/marlins-jersey-patch-sponsor-adt-renew-deal"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: ADT.",
+    "change": null
+  },
+  {
+    "id": "pittsburgh-pirates-2026-27-home",
+    "clubId": "pittsburgh-pirates",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "sheetz",
+        "placement": "patch",
+        "source": {
+          "name": "Pittsburgh Pirates / MLB.com press release",
+          "date": "2024-06-21",
+          "url": "https://www.mlb.com/press-release/press-release-pittsburgh-pirates-and-sheetz-announce-jersey-patch-partnership"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Sheetz.",
+    "change": null
+  },
+  {
+    "id": "texas-rangers-2026-27-home",
+    "clubId": "texas-rangers",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "energy-transfer",
+        "placement": "patch",
+        "source": {
+          "name": "Texas Rangers / MLB.com press release",
+          "date": "2024-03-27",
+          "url": "https://www.mlb.com/press-release/press-release-texas-rangers-announcement-multi-year-agreement-with-energy-transfer-to-become-team-s-official-jersey-patch-partner"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Energy Transfer.",
+    "change": null
+  },
+  {
+    "id": "chicago-bulls-2026-27-home",
+    "clubId": "chicago-bulls",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "motorola-mobility",
+        "placement": "patch",
+        "source": {
+          "name": "Chicago Bulls (nba.com)",
+          "date": "2022-09-20",
+          "url": "https://www.nba.com/bulls/news/chicago-bulls-name-motorola-mobility-as-official-jersey-patch-partner"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Motorola Mobility.",
+    "change": null
+  },
+  {
+    "id": "houston-rockets-2026-27-home",
+    "clubId": "houston-rockets",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "memorial-hermann",
+        "placement": "patch",
+        "source": {
+          "name": "Sports Business Journal",
+          "date": "2024-10-10",
+          "url": "https://www.sportsbusinessjournal.com/Articles/2024/10/10/houston-rockets-jersey-patch/"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Memorial Hermann Health System.",
+    "change": null
+  },
+  {
+    "id": "minnesota-timberwolves-2026-27-home",
+    "clubId": "minnesota-timberwolves",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "sezzle",
+        "placement": "patch",
+        "source": {
+          "name": "Minnesota Timberwolves (nba.com)",
+          "date": "2024-08-12",
+          "url": "https://www.nba.com/timberwolves/news/timberwolves-name-sezzle-official-jersey-patch-partner"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Sezzle.",
+    "change": null
+  },
+  {
+    "id": "phoenix-suns-2026-27-home",
+    "clubId": "phoenix-suns",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "paypal",
+        "placement": "patch",
+        "source": {
+          "name": "Zoomph (2026/27 NBA jersey patch guide)",
+          "date": "2026-09-01",
+          "url": "https://zoomph.com/blog/nba-jersey-patch-sponsors-this-season/"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: PayPal.",
+    "change": null
+  },
+  {
+    "id": "washington-wizards-2026-27-home",
+    "clubId": "washington-wizards",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "robinhood",
+        "placement": "patch",
+        "source": {
+          "name": "Washington Wizards (nba.com)",
+          "date": "2023-10-23",
+          "url": "https://www.nba.com/wizards/news/washington-wizards-announce-robinhood-as-official-brokerage-and-jersey-patch-partner"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Robinhood.",
+    "change": null
+  },
+  {
+    "id": "chicago-bears-2026-27-home",
+    "clubId": "chicago-bears",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "advocate-health-care",
+        "placement": "training-kit",
+        "source": {
+          "name": "Zoomph (2026 NFL jersey patch guide)",
+          "date": "2026-09-01",
+          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Practice-jersey patch: Advocate Health Care.",
+    "change": null
+  },
+  {
+    "id": "green-bay-packers-2026-27-home",
+    "clubId": "green-bay-packers",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "uw-health",
+        "placement": "training-kit",
+        "source": {
+          "name": "Green Bay Packers (packers.com)",
+          "date": "2026-04-16",
+          "url": "https://www.packers.com/news/packers-name-uw-health-official-health-care-partner-of-the-green-bay-packers-2026"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Practice-jersey patch: UW Health.",
+    "change": null
+  },
+  {
+    "id": "los-angeles-chargers-2026-27-home",
+    "clubId": "los-angeles-chargers",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "ucla-health",
+        "placement": "training-kit",
+        "source": {
+          "name": "Zoomph (2026 NFL jersey patch guide)",
+          "date": "2026-09-01",
+          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Practice-jersey patch: UCLA Health.",
+    "change": null
+  },
+  {
+    "id": "new-york-jets-2026-27-home",
+    "clubId": "new-york-jets",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "atlantic-health",
+        "placement": "training-kit",
+        "source": {
+          "name": "Zoomph (2026 NFL jersey patch guide)",
+          "date": "2026-09-01",
+          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Practice-jersey patch: Atlantic Health.",
+    "change": null
+  },
+  {
+    "id": "tennessee-titans-2026-27-home",
+    "clubId": "tennessee-titans",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "kroger",
+        "placement": "training-kit",
+        "source": {
+          "name": "Zoomph (2026 NFL jersey patch guide)",
+          "date": "2026-09-01",
+          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Practice-jersey patch: Kroger.",
+    "change": null
+  },
+  {
+    "id": "boston-red-sox-2026-27-home",
+    "clubId": "boston-red-sox",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "massmutual",
+        "placement": "patch",
+        "source": {
+          "name": "MLB.com",
+          "date": "2022-11-30",
+          "url": "https://www.mlb.com/news/red-sox-jersey-patch-massmutual"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: MassMutual.",
+    "change": null
+  },
+  {
+    "id": "detroit-tigers-2026-27-home",
+    "clubId": "detroit-tigers",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "meijer",
+        "placement": "patch",
+        "source": {
+          "name": "Blinkfire Analytics (2026 MLB jersey patch list)",
+          "date": "2026-04-20",
+          "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Meijer.",
+    "change": null
+  },
+  {
+    "id": "milwaukee-brewers-2026-27-home",
+    "clubId": "milwaukee-brewers",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "northwestern-mutual",
+        "placement": "patch",
+        "source": {
+          "name": "Blinkfire Analytics (2026 MLB jersey patch list)",
+          "date": "2026-04-20",
+          "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Northwestern Mutual.",
+    "change": null
+  },
+  {
+    "id": "san-diego-padres-2026-27-home",
+    "clubId": "san-diego-padres",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "motorola",
+        "placement": "patch",
+        "source": {
+          "name": "Blinkfire Analytics (2026 MLB jersey patch list)",
+          "date": "2026-04-20",
+          "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Motorola.",
+    "change": null
+  },
+  {
+    "id": "toronto-blue-jays-2026-27-home",
+    "clubId": "toronto-blue-jays",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "td-bank",
+        "placement": "patch",
+        "source": {
+          "name": "Blinkfire Analytics (2026 MLB jersey patch list)",
+          "date": "2026-04-20",
+          "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: TD Bank.",
+    "change": null
+  },
+  {
+    "id": "cleveland-cavaliers-2026-27-home",
+    "clubId": "cleveland-cavaliers",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "cleveland-cliffs",
+        "placement": "patch",
+        "source": {
+          "name": "Cleveland Cavaliers (NBA.com)",
+          "date": "2022-03-29",
+          "url": "https://www.nba.com/cavaliers/releases/cliffs-release-220329"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Cleveland-Cliffs.",
+    "change": null
+  },
+  {
+    "id": "indiana-pacers-2026-27-home",
+    "clubId": "indiana-pacers",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "lucas-oil",
+        "placement": "patch",
+        "source": {
+          "name": "Indiana Pacers (NBA.com)",
+          "date": "2025-07-09",
+          "url": "https://nba.com/pacers/news/indiana-pacers-and-lucas-oil-announce-multi-year-jersey-patch-partnership"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Lucas Oil.",
+    "change": null
+  },
+  {
+    "id": "new-orleans-pelicans-2026-27-home",
+    "clubId": "new-orleans-pelicans",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "newage-products",
+        "placement": "patch",
+        "source": {
+          "name": "Sports Business Journal",
+          "date": "2024-09-30",
+          "url": "https://sportsbusinessjournal.com/Articles/2024/09/30/new-orleans-pelicans-patch-newage-products"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: NewAge Products.",
+    "change": null
+  },
+  {
+    "id": "portland-trail-blazers-2026-27-home",
+    "clubId": "portland-trail-blazers",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [],
+    "sponsorsComplete": false,
+    "summary": "No patch partner for 2026-27.",
+    "change": null
+  },
+  {
+    "id": "arizona-cardinals-2026-27-home",
+    "clubId": "arizona-cardinals",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "desert-financial-credit-union",
+        "placement": "training-kit",
+        "source": {
+          "name": "Zoomph (2026 NFL practice jersey patch guide)",
+          "date": "2026-09-01",
+          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Practice-jersey patch: Desert Financial Credit Union.",
+    "change": null
+  },
+  {
+    "id": "cincinnati-bengals-2026-27-home",
+    "clubId": "cincinnati-bengals",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "fifth-third-bank",
+        "placement": "training-kit",
+        "source": {
+          "name": "Zoomph (2026 NFL practice jersey patch guide)",
+          "date": "2026-09-01",
+          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Practice-jersey patch: Fifth Third Bank.",
+    "change": null
+  },
+  {
+    "id": "houston-texans-2026-27-home",
+    "clubId": "houston-texans",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "xfinity",
+        "placement": "training-kit",
+        "source": {
+          "name": "Zoomph (2026 NFL practice jersey patch guide)",
+          "date": "2026-09-01",
+          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Practice-jersey patch: Xfinity (also Houston Methodist on some jerseys).",
+    "change": null
+  },
+  {
+    "id": "miami-dolphins-2026-27-home",
+    "clubId": "miami-dolphins",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "baptist-health",
+        "placement": "training-kit",
+        "source": {
+          "name": "Zoomph (2026 NFL practice jersey patch guide)",
+          "date": "2026-09-01",
+          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Practice-jersey patch: Baptist Health.",
+    "change": null
+  },
+  {
+    "id": "philadelphia-eagles-2026-27-home",
+    "clubId": "philadelphia-eagles",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "jefferson-health",
+        "placement": "training-kit",
+        "source": {
+          "name": "Zoomph (2026 NFL practice jersey patch guide)",
+          "date": "2026-09-01",
+          "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Practice-jersey patch: Jefferson Health.",
+    "change": null
+  },
+  {
+    "id": "washington-commanders-2026-27-home",
+    "clubId": "washington-commanders",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "northwest-federal-credit-union",
+        "placement": "training-kit",
+        "source": {
+          "name": "Northwest Federal Credit Union",
+          "date": "2024-08-27",
+          "url": "https://nwfcu.org/news/washington-commanders-and-northwest-federal-credit-union-announce-stadium-naming-rights-deal-2024"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Practice-jersey patch: Northwest Federal Credit Union.",
+    "change": null
+  },
+  {
+    "id": "chicago-cubs-2026-27-home",
+    "clubId": "chicago-cubs",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "motorola",
+        "placement": "patch",
+        "source": {
+          "name": "MLB.com press release (Chicago Cubs)",
+          "date": "2024-08-01",
+          "url": "https://www.mlb.com/press-release/press-release-chicago-cubs-announce-motorola-as-official-jersey-patch-partner"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Motorola (Motorola Mobility).",
+    "change": null
+  },
+  {
+    "id": "houston-astros-2026-27-home",
+    "clubId": "houston-astros",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "occidental-petroleum",
+        "placement": "patch",
+        "source": {
+          "name": "Sports Business Journal",
+          "date": "2023-02-10",
+          "url": "https://www.sportsbusinessjournal.com/Daily/Morning-Buzz/2023/02/10/houston-astros-sign-jersey-patch-deal"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Occidental Petroleum (Oxy).",
+    "change": null
+  },
+  {
+    "id": "minnesota-twins-2026-27-home",
+    "clubId": "minnesota-twins",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "securian-financial",
+        "placement": "patch",
+        "source": {
+          "name": "Sports Business Journal",
+          "date": "2025-07-17",
+          "url": "https://www.sportsbusinessjournal.com/Articles/2025/07/17/securian-financial-becomes-twins-first-ever-jersey-patch-sponsor"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Securian Financial.",
+    "change": null
+  },
+  {
+    "id": "san-francisco-giants-2026-27-home",
+    "clubId": "san-francisco-giants",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "airwallex",
+        "placement": "patch",
+        "source": {
+          "name": "MLB.com press release (San Francisco Giants)",
+          "date": "2026-02-18",
+          "url": "https://www.mlb.com/press-release/press-release-airwallex-becomes-the-giants-official-jersey-patch-partner"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: Airwallex.",
+    "change": null
+  },
+  {
+    "id": "washington-nationals-2026-27-home",
+    "clubId": "washington-nationals",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "aarp",
+        "placement": "patch",
+        "source": {
+          "name": "AARP press release",
+          "date": "2025-06-30",
+          "url": "https://www.aarp.org/press/releases/2025-06-30-aarp-becomes-washington-nationals-inaugural-jersey-patch-sponsor-and-an-official-community-impact-partner.html"
+        }
+      }
+    ],
+    "sponsorsComplete": true,
+    "summary": "Jersey patch: AARP.",
+    "change": null
+  },
+  {
     "id": "paris-saint-germain-2026-27-home",
     "clubId": "paris-saint-germain",
     "season": "2026-27",

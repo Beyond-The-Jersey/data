@@ -7,8 +7,42 @@
   "contact": {
     "contact-form": "https://www.nba.com/warriors/?tmd=1/contact"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "iren",
+      "name": "IREN (IREN Ltd, AI cloud infrastructure)",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "iren-owner",
+      "owner": "IREN (IREN Ltd, AI cloud infrastructure)",
+      "verdict": null,
+      "source": {
+        "name": "Silicon Valley / Bay Area News Group",
+        "date": "2026-06-27",
+        "url": "https://siliconvalley.com/2026/06/27/warriors-announce-ai-data-center-company-as-jersey-sponsor"
+      }
+    },
+    {
+      "id": "jpmorgan-chase-chase-brand",
+      "name": "JPMorgan Chase (Chase brand)",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "jpmorgan-chase-chase-owner",
+      "owner": "JPMorgan Chase (Chase)",
+      "verdict": null,
+      "source": {
+        "name": "SFBayCA",
+        "date": "2016-01-28",
+        "url": "https://sfbayca.com/2016/01/28/warriors-announce-chase-arena-as-future-home"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "iren-owner",
+    "jpmorgan-chase-chase-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

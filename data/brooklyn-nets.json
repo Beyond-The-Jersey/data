@@ -12,8 +12,42 @@
     "x": "@BrooklynNets",
     "instagram": "@brooklynnets"
   },
-  "sponsors": [],
-  "worstTier": "unrated",
-  "owners": [],
+  "sponsors": [
+    {
+      "id": "all-in-won",
+      "name": "All In Won",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "all-in-won-owner",
+      "owner": "All In Won",
+      "verdict": null,
+      "source": {
+        "name": "Brooklyn Sports & Entertainment (bkse.com)",
+        "date": "2025-07-01",
+        "url": "https://bkse.com/news/brooklyn-nets-name-all-in-won-as-official-jersey-patch-partner"
+      }
+    },
+    {
+      "id": "barclays",
+      "name": "Barclays",
+      "placement": "stadium",
+      "season": null,
+      "tier": "concern",
+      "ownerId": "barclays",
+      "owner": "Barclays PLC",
+      "verdict": "Barclays PLC is a UK-listed bank whose only notifiable holder above the 3% disclosure threshold as at 31 December 2025 is BlackRock (about 5.8% in 2024), with no….",
+      "source": {
+        "name": "The New York Times",
+        "date": "2007-01-18",
+        "url": "https://www.nytimes.com/2007/01/18/sports/basketball/18arena.html"
+      }
+    }
+  ],
+  "worstTier": "concern",
+  "owners": [
+    "all-in-won-owner",
+    "barclays"
+  ],
   "lastUpdated": "2026-09-24"
 }

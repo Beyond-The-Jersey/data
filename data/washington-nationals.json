@@ -11,8 +11,26 @@
     "x": "@Nationals",
     "instagram": "@nationals"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "aarp",
+      "name": "AARP",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "aarp-owner",
+      "owner": "AARP",
+      "verdict": null,
+      "source": {
+        "name": "AARP press release",
+        "date": "2025-06-30",
+        "url": "https://www.aarp.org/press/releases/2025-06-30-aarp-becomes-washington-nationals-inaugural-jersey-patch-sponsor-and-an-official-community-impact-partner.html"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "aarp-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

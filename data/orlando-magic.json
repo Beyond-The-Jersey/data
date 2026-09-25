@@ -8,8 +8,42 @@
     "x": "@OrlandoMagic",
     "instagram": "@orlandomagic"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "kia-america",
+      "name": "Kia America",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "kia-america-owner",
+      "owner": "Kia America",
+      "verdict": null,
+      "source": {
+        "name": "Kia Media (Kia America press release)",
+        "date": "2023-12-20",
+        "url": "https://kiamedia.com/us/en/media/pressreleases/21588/orlandos-premier-downtown-sports-and-entertainment-destination-to-be-renamed-kia-center"
+      }
+    },
+    {
+      "id": "walt-disney-world",
+      "name": "Walt Disney World Resort",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "walt-disney-world-owner",
+      "owner": "Walt Disney World Resort",
+      "verdict": null,
+      "source": {
+        "name": "Orlando Magic (nba.com/magic)",
+        "date": "2022-10-26",
+        "url": "https://www.nba.com/magic/news/orlando-magic-walt-disney-world-resort-community-sponsorship-agreement-logo-jersey-patch-release-20221026"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "kia-america-owner",
+    "walt-disney-world-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

@@ -10,8 +10,42 @@
     "x": "@Jaguars",
     "instagram": "@jaguars"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "dream-finders-homes",
+      "name": "Dream Finders Homes",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "dream-finders-homes-owner",
+      "owner": "Dream Finders Homes",
+      "verdict": null,
+      "source": {
+        "name": "Zoomph",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      }
+    },
+    {
+      "id": "everbank",
+      "name": "EverBank",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "everbank-owner",
+      "owner": "EverBank",
+      "verdict": null,
+      "source": {
+        "name": "EverBank (news release)",
+        "date": "2024-05-17",
+        "url": "https://www.everbank.com/about/news/05-17-2024/everbank-stadium-naming-rights"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "dream-finders-homes-owner",
+    "everbank-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

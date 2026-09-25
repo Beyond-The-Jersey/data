@@ -10,8 +10,42 @@
     "x": "@Twins",
     "instagram": "@twins"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "securian-financial",
+      "name": "Securian Financial",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "securian-financial-owner",
+      "owner": "Securian Financial",
+      "verdict": null,
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2025-07-17",
+        "url": "https://www.sportsbusinessjournal.com/Articles/2025/07/17/securian-financial-becomes-twins-first-ever-jersey-patch-sponsor"
+      }
+    },
+    {
+      "id": "target-target-corporation",
+      "name": "Target (Target Corporation)",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "target-target-corporation-owner",
+      "owner": "Target (Target Corporation)",
+      "verdict": null,
+      "source": {
+        "name": "Chief Marketer",
+        "date": "2008-09-15",
+        "url": "https://chiefmarketer.com/target-scores-naming-rights-for-minnesota-twins-ballpark"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "securian-financial-owner",
+    "target-target-corporation-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

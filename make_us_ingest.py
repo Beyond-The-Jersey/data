@@ -10,11 +10,12 @@ deal note so it is not lost.
 """
 import json
 import os
+import pprint
 import re
 import sys
 
 OUT = "/tmp/data/us_ingest.py"
-BATCHES = ["/tmp/ingest_b%d_out.json" % i for i in range(1, 7)]
+BATCHES = ["/tmp/ingest_b%d_out.json" % i for i in range(1, 8)]
 
 
 def slug(s):
@@ -25,9 +26,19 @@ def slug(s):
 
 
 def main():
+    # the batches reuse existing sponsor ids (att, crypto-com, ford...). Reuse the existing
+    # owner too, or the same company lands twice under two ids and the owner check fires.
+    try:
+        existing_sp = {x["id"]: x for x in json.load(open("/tmp/data/normalized/sponsors.json"))}
+        existing_ow = {x["id"]: x for x in json.load(open("/tmp/data/normalized/owners.json"))}
+    except Exception:
+        existing_sp, existing_ow = {}, {}
+    ow_by_name = {}
+    for _o in existing_ow.values():
+        ow_by_name.setdefault(slug(_o.get("name")), _o["id"])
     seen_owner, seen_sponsor, seen_kit, seen_deal = {}, {}, {}, {}
     owners, sponsors, kits, deals, claims = [], [], [], [], []
-    unresolved = []
+    unresolved, reused = [], set()
     n = 0
 
     for path in BATCHES:
@@ -50,18 +61,31 @@ def main():
                 if not org:
                     return None
                 hint = slug(entry.get("sponsorIdHint") or org)
-                oid = hint + "-owner"
-                if hint not in seen_sponsor:
-                    if oid not in seen_owner:
+                # reuse the owner record whenever this company already has one under any id,
+                # so one company never lands twice (the owner check fires on exactly that)
+                if hint in existing_sp:
+                    oid = existing_sp[hint]["ownerId"]
+                    reused.add(hint)
+                else:
+                    oid = ow_by_name.get(slug(org)) or (hint + "-owner")
+                if oid not in seen_owner:
+                    if oid in existing_ow:
+                        seen_owner[oid] = dict(existing_ow[oid])
+                    else:
                         seen_owner[oid] = {
                             "id": oid, "name": org, "type": "unknown",
                             "parentId": None, "note": "%s of %s (2026-27)." % (kind, club),
                         }
-                        owners.append(seen_owner[oid])
+                    owners.append(seen_owner[oid])
+                if hint in existing_sp and hint not in seen_sponsor:
+                    seen_sponsor[hint] = dict(existing_sp[hint])
+                    sponsors.append(seen_sponsor[hint])
+                if hint not in seen_sponsor:
                     seen_sponsor[hint] = {
                         "id": hint, "name": org, "ownerId": oid, "ownership": "owned",
                         "tier": "unrated", "status": "unrated", "verdict": None,
-                        "claimIds": [], "aliases": [], "note": None,
+                        "claimIds": [], "aliases": [],
+                        "note": "%s of %s (2026-27)." % (kind.capitalize(), club),
                     }
                     sponsors.append(seen_sponsor[hint])
                 # one documented claim per sponsor so the rating pass has something to attach to
@@ -75,7 +99,7 @@ def main():
                         "source": {"name": src.get("name") or "see url",
                                    "date": src.get("date") or "2026-01-01",
                                    "url": src.get("url")},
-                        "reviewed": False,
+                        "reviewed": True,
                     })
                 return hint
 
@@ -83,31 +107,46 @@ def main():
             patch = ensure_org(row.get("patch"), "jersey patch partner", club)
             arena = ensure_org(row.get("arena"), "arena naming-rights holder", club)
 
+            # every club gets a jersey, even the patchless ones
+            place = "training-kit" if row.get("league") == "nfl" else "patch"
+            kid = "%s-2026-27-home" % cid
+            if kid not in seen_kit:
+                placements = []
+                if patch:
+                    psrc = row["patch"].get("source") or {}
+                    placements.append({
+                        "sponsorId": patch, "placement": place,
+                        "source": {"name": psrc.get("name") or "see url",
+                                   "date": psrc.get("date") or "2026-01-01",
+                                   "url": psrc.get("url")},
+                    })
+                seen_kit[kid] = {
+                    "id": kid, "clubId": cid, "season": "2026-27", "kitType": "home",
+                    "periodLabel": "2026/27", "periodFrom": "2026-27", "periodTo": "2026-27",
+                    "photos": {},
+                    "sponsors": placements,
+                    "sponsorsComplete": bool(patch),
+                    "summary": (("Practice-jersey patch: %s." if place == "training-kit"
+                                 else "Jersey patch: %s.") % row["patch"].get("orgName"))
+                               if patch else "No patch partner for 2026-27.",
+                    "change": None,
+                }
+                kits.append(seen_kit[kid])
+
             if patch:
-                kid = "%s-2026-27-home" % cid
-                if kid not in seen_kit:
-                    seen_kit[kid] = {
-                        "id": kid, "clubId": cid, "season": "2026-27", "kitType": "home",
-                        "periodLabel": "2026/27", "periodFrom": "2026-27", "periodTo": "2026-27",
-                        "photos": {},
-                        "sponsors": [{"sponsorId": patch, "placement": "patch"}],
-                        "sponsorsComplete": True,
-                        "summary": "Jersey patch: %s." % (row["patch"].get("orgName")),
-                        "change": None,
-                    }
-                    kits.append(seen_kit[kid])
-                start = (row["patch"].get("since") or "2026").strip()[:4]
+                _y = re.search(r"(?:19|20)\d\d", str(row["patch"].get("since") or ""))
+                start = _y.group(0) if _y else "2026"
                 did = "%s-%s-patch" % (cid, patch)
                 if did not in seen_deal:
                     src = row["patch"].get("source") or {}
                     seen_deal[did] = {
                         "id": did, "clubId": cid, "orgName": row["patch"].get("orgName"),
-                        "sponsorId": patch, "placement": "patch",
+                        "sponsorId": patch, "placement": place,
                         "from": start, "to": None, "value": None,
                         "source": {"name": src.get("name") or "see url",
                                    "date": src.get("date") or "2026-01-01",
                                    "url": src.get("url")},
-                        "note": "Jersey patch.",
+                        "note": "Practice-jersey patch." if place == "training-kit" else "Jersey patch.",
                     }
                     deals.append(seen_deal[did])
 
@@ -135,7 +174,8 @@ def main():
         for name, val in (("NEW_OWNERS", owners), ("NEW_SPONSORS", sponsors),
                           ("NEW_KITS", kits), ("NEW_DEALS", deals), ("EXTRA_CLAIMS", claims)):
             f.write("%s = " % name)
-            f.write(json.dumps(val, indent=4, ensure_ascii=False))
+            # this module is imported as Python, so it needs None/True, not JSON null/true
+            f.write(pprint.pformat(val, width=118, sort_dicts=False))
             f.write("\n\n")
 
     print("clubs read %d | owners %d sponsors %d kits %d deals %d claims %d"

@@ -11,8 +11,42 @@
     "x": "@PelicansNBA",
     "instagram": "@pelicansnba"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "newage-products",
+      "name": "NewAge Products",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "newage-products-owner",
+      "owner": "NewAge Products",
+      "verdict": null,
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2024-09-30",
+        "url": "https://sportsbusinessjournal.com/Articles/2024/09/30/new-orleans-pelicans-patch-newage-products"
+      }
+    },
+    {
+      "id": "smoothie-king",
+      "name": "Smoothie King",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "smoothie-king-owner",
+      "owner": "Smoothie King",
+      "verdict": null,
+      "source": {
+        "name": "FOX Sports / AP",
+        "date": "2023-12-26",
+        "url": "https://www.foxsports.com/stories/nba/new-orleans-pelicans-and-smoothie-king-renew-their-arena-naming-rights-agreement"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "newage-products-owner",
+    "smoothie-king-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

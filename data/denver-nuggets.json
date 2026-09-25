@@ -10,8 +10,42 @@
     "x": "@nuggets",
     "instagram": "@nuggets"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "ball-corporation",
+      "name": "Ball Corporation",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "ball-corporation-owner",
+      "owner": "Ball Corporation",
+      "verdict": null,
+      "source": {
+        "name": "Denver Nuggets (nba.com, KSE/Ball release)",
+        "date": "2020-10-22",
+        "url": "https://www.nba.com/nuggets/news/kse-ballcorp-globalpartnership-20201022"
+      }
+    },
+    {
+      "id": "ibotta",
+      "name": "Ibotta",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "ibotta-owner",
+      "owner": "Ibotta",
+      "verdict": null,
+      "source": {
+        "name": "Sportcal",
+        "date": "2026-04-17",
+        "url": "https://sportcal.com/news/ibotta-extends-as-nuggets-jersey-patch-partner"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "ball-corporation-owner",
+    "ibotta-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

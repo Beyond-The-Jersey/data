@@ -9,8 +9,42 @@
     "x": "@mets",
     "instagram": "@mets"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "citigroup-citi",
+      "name": "Citigroup (Citi)",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "citigroup-citi-owner",
+      "owner": "Citigroup (Citi)",
+      "verdict": null,
+      "source": {
+        "name": "Chief Marketer",
+        "date": "2006-11-14",
+        "url": "https://www.chiefmarketer.com/citigroup-gets-shea-naming-rights-for-400-million/"
+      }
+    },
+    {
+      "id": "newyork-presbyterian",
+      "name": "NewYork-Presbyterian",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "newyork-presbyterian-owner",
+      "owner": "NewYork-Presbyterian",
+      "verdict": null,
+      "source": {
+        "name": "MLB.com press release",
+        "date": "2023-04-06",
+        "url": "https://www.mlb.com/press-release/press-release-new-york-mets-announce-multiyear-partnership-with-newyork-presbyte"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "citigroup-citi-owner",
+    "newyork-presbyterian-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

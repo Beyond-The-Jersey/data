@@ -9,8 +9,42 @@
     "x": "@Buccaneers",
     "instagram": "@buccaneers"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "fifth-third-bank",
+      "name": "Fifth Third Bank",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "fifth-third-bank-owner",
+      "owner": "Fifth Third Bank",
+      "verdict": null,
+      "source": {
+        "name": "Tampa Bay Buccaneers / GlobeNewswire",
+        "date": "2026-08-03",
+        "url": "https://globenewswire.com/news-release/2026/08/03/3337463/0/en/Buccaneers-and-Fifth-Third-Bank-Elevate-Pewter-Partnership-with-Introduction-of-First-Ever-Practice-Jersey-Patch.html"
+      }
+    },
+    {
+      "id": "raymond-james-financial",
+      "name": "Raymond James Financial",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "raymond-james-financial-owner",
+      "owner": "Raymond James Financial",
+      "verdict": null,
+      "source": {
+        "name": "Tampa Bay Buccaneers",
+        "date": "2016-05-31",
+        "url": "https://buccaneers.com/news/buccaneers-announce-stadium-naming-rights-extension-17202192"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "fifth-third-bank-owner",
+    "raymond-james-financial-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

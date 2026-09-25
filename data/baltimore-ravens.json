@@ -10,8 +10,42 @@
     "x": "@ravens",
     "instagram": "@ravens"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "m-and-t-bank",
+      "name": "M&T Bank",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "m-and-t-bank-owner",
+      "owner": "M&T Bank",
+      "verdict": null,
+      "source": {
+        "name": "M&T Bank (investor news release)",
+        "date": "2023-04-20",
+        "url": "https://ir.mtb.com/news-releases/news-release-details/mt-bank-baltimore-ravens-extend-partnership-through-2037-nfl"
+      }
+    },
+    {
+      "id": "perdue-farms",
+      "name": "Perdue Farms",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "perdue-farms-owner",
+      "owner": "Perdue Farms",
+      "verdict": null,
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2026-07-20",
+        "url": "https://sportsbusinessjournal.com/Articles/2026/07/20/ravens-sign-perdue-farms-as-official-chicken-in-multiyear-sponsorship-deal"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "m-and-t-bank-owner",
+    "perdue-farms-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

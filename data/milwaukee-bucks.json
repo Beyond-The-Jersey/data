@@ -8,8 +8,42 @@
     "email": "tickets@bucks.com",
     "contact-form": "https://www.nba.com/bucks/contact"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "fiserv",
+      "name": "Fiserv",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "fiserv-owner",
+      "owner": "Fiserv",
+      "verdict": null,
+      "source": {
+        "name": "Fiserv, Inc. investor newsroom",
+        "date": "2018-07-26",
+        "url": "https://investors.fiserv.com/news-releases/news-release-details/fiserv-forum-new-home-milwaukee-bucks"
+      }
+    },
+    {
+      "id": "uline",
+      "name": "Uline",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "uline-owner",
+      "owner": "Uline",
+      "verdict": null,
+      "source": {
+        "name": "Milwaukee Bucks / NBA.com",
+        "date": "2026-09-21",
+        "url": "https://www.nba.com/bucks/news/milwaukee-bucks-name-wisconsin-based-uline-as-official-jersey-patch-partner"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "fiserv-owner",
+    "uline-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

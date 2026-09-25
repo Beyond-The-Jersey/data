@@ -8,8 +8,42 @@
     "x": "@giants",
     "instagram": "@nygiants"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "metlife-metropolitan-life-insurance",
+      "name": "MetLife (Metropolitan Life Insurance)",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "metlife-metropolitan-life-insurance-owner",
+      "owner": "MetLife (Metropolitan Life Insurance)",
+      "verdict": null,
+      "source": {
+        "name": "NJ.com",
+        "date": "2026-04-15",
+        "url": "https://www.nj.com/bergen/2026/04/metlife-stadiums-name-change-leaves-nj-as-second-fiddle-what-else-is-new.html"
+      }
+    },
+    {
+      "id": "quest-diagnostics",
+      "name": "Quest Diagnostics",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "quest-diagnostics-owner",
+      "owner": "Quest Diagnostics",
+      "verdict": null,
+      "source": {
+        "name": "Zoomph - NFL Practice Jersey Sponsor Guide (updated 2026-09-01)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "metlife-metropolitan-life-insurance-owner",
+    "quest-diagnostics-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

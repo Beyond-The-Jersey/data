@@ -10,8 +10,42 @@
     "x": "@colts",
     "instagram": "@colts"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "ascension-st-vincent",
+      "name": "Ascension St. Vincent's",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "ascension-st-vincent-owner",
+      "owner": "Ascension St. Vincent's",
+      "verdict": null,
+      "source": {
+        "name": "Zoomph (NFL practice-jersey sponsor tracker)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      }
+    },
+    {
+      "id": "lucas-oil-products",
+      "name": "Lucas Oil Products",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "lucas-oil-products-owner",
+      "owner": "Lucas Oil Products",
+      "verdict": null,
+      "source": {
+        "name": "Encyclopedia of Indianapolis",
+        "date": "2006-02-28",
+        "url": "https://indyencyclopedia.org/lucas-oil-stadium/"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "ascension-st-vincent-owner",
+    "lucas-oil-products-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

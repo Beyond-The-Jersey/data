@@ -9,8 +9,26 @@
     "x": "@commanders",
     "instagram": "@commanders"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "northwest-federal-credit-union",
+      "name": "Northwest Federal Credit Union",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "northwest-federal-credit-union-owner",
+      "owner": "Northwest Federal Credit Union",
+      "verdict": null,
+      "source": {
+        "name": "Northwest Federal Credit Union",
+        "date": "2024-08-27",
+        "url": "https://nwfcu.org/news/washington-commanders-and-northwest-federal-credit-union-announce-stadium-naming-rights-deal-2024"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "northwest-federal-credit-union-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

@@ -9,8 +9,42 @@
     "x": "@49ers",
     "instagram": "@49ers"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "levi-strauss-and-co-levi-s",
+      "name": "Levi Strauss & Co. (Levi's)",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "levi-strauss-and-co-levi-s-owner",
+      "owner": "Levi Strauss & Co. (Levi's)",
+      "verdict": null,
+      "source": {
+        "name": "Levi Strauss & Co.",
+        "date": "2024-01-25",
+        "url": "https://levistrauss.com/2024/01/25/lsco-extends-levis-stadium-naming-rights-and-49ers-partnership"
+      }
+    },
+    {
+      "id": "us-bank",
+      "name": "U.S. Bank",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "us-bank-owner",
+      "owner": "U.S. Bank",
+      "verdict": null,
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2026-09-10",
+        "url": "https://www.sportsbusinessjournal.com/Articles/2026/09/10/health-care-providers-financial-companies-dominate-nfl-jersey-patches/"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "levi-strauss-and-co-levi-s-owner",
+    "us-bank-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

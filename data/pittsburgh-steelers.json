@@ -10,8 +10,26 @@
     "x": "@steelers",
     "instagram": "@steelers"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "acrisure",
+      "name": "Acrisure",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "acrisure-owner",
+      "owner": "Acrisure",
+      "verdict": null,
+      "source": {
+        "name": "Pittsburgh Steelers",
+        "date": "2022-07-12",
+        "url": "https://www.steelers.com/news/steelers-acrisure-announce-partnership-for-stadium-naming-rights"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "acrisure-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

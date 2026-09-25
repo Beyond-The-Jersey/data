@@ -10,8 +10,42 @@
     "x": "@Cardinals",
     "instagram": "@cardinals"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "anheuser-busch",
+      "name": "Anheuser-Busch",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "anheuser-busch-owner",
+      "owner": "Anheuser-Busch",
+      "verdict": null,
+      "source": {
+        "name": "KSDK / Fortune (Anheuser-Busch-Cardinals release)",
+        "date": "2023-12-13",
+        "url": "https://www.ksdk.com/article/sports/mlb/stl-cardinals/cardinals-anheuser-busch-marketing-extension-stadium-naming-rights/63-238738c1-e192-4c1d-b84e-c384429e04e8"
+      }
+    },
+    {
+      "id": "stifel",
+      "name": "Stifel Financial",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "stifel-owner",
+      "owner": "Stifel Financial",
+      "verdict": null,
+      "source": {
+        "name": "MLB.com press release",
+        "date": "2023-05-02",
+        "url": "https://mlb.com/press-release/press-release-cardinals-announce-stifel-as-club-s-first-jersey-patch-sponsor"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "anheuser-busch-owner",
+    "stifel-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

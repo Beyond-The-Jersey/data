@@ -12,7 +12,7 @@
       "url": "https://docs.un.org/en/S/2024/432",
       "note": "Final report of the UN Group of Experts on the DR Congo, S/2024/432."
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "m23-coltan-levies",
@@ -27,7 +27,7 @@
       "url": "https://docs.un.org/en/S/2024/432",
       "note": "Final report of the UN Group of Experts on the DR Congo, S/2024/432."
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "rubaya-smuggling",
@@ -42,7 +42,7 @@
       "url": "https://globalwitness.org/en/campaigns/transition-minerals/who-buys-rwandas-smuggled-coltan-the-global-journey-of-conflict-coltan-from-drc-to-the-worlds-electronics/",
       "note": "Who buys Rwanda's smuggled coltan?"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "rubaya-tantalum-share",
@@ -56,7 +56,7 @@
       "url": "https://globalwitness.org/en/campaigns/transition-minerals/who-buys-rwandas-smuggled-coltan-the-global-journey-of-conflict-coltan-from-drc-to-the-worlds-electronics/",
       "note": "Who buys Rwanda's smuggled coltan?"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "coltan-supply-chain",
@@ -70,7 +70,7 @@
       "url": "https://globalwitness.org/en/campaigns/transition-minerals/who-buys-rwandas-smuggled-coltan-the-global-journey-of-conflict-coltan-from-drc-to-the-worlds-electronics/",
       "note": "Who buys Rwanda's smuggled coltan?"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "saudi-executions-2024",
@@ -85,7 +85,7 @@
       "url": "https://www.amnesty.org/en/documents/act50/8800/2025/en/",
       "note": "Death Sentences and Executions 2024."
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "khashoggi-assessment",
@@ -100,7 +100,7 @@
       "url": "https://www.dni.gov/files/ODNI/documents/assessments/Assessment-Saudi-Gov-Role-in-JK-Death-20210226v2.pdf",
       "note": "Declassified assessment, 26 Feb 2021."
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "uae-mass-trial-2024",
@@ -116,7 +116,7 @@
       "url": "https://www.hrw.org/news/2024/07/10/uae-unfair-trial-unjust-sentences",
       "note": "Abu Dhabi Federal Appeals Court, 10 July 2024."
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "uae-mass-trial-upheld-2025",
@@ -132,7 +132,2135 @@
       "date": "2025-03-04",
       "url": "https://www.hrw.org/news/2025/03/04/uae-unfair-mass-trial-convictions-upheld"
     },
-    "reviewed": false
+    "reviewed": true
+  },
+  {
+    "id": "paze-2026",
+    "ownerIds": [
+      "paze-owner"
+    ],
+    "text": "Paze (Early Warning Services) is the jersey patch partner of atlanta-hawks for 2026-27.",
+    "short": "Jersey patch partner Paze (Early Warning Services) 2026-27",
+    "source": {
+      "name": "Sports Business Journal",
+      "date": "2025-09-29",
+      "url": "https://www.sportsbusinessjournal.com/Articles/2025/09/29/hawks-select-digital-wallet-paze-as-jersey-patch-sponsor"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "state-farm-2026",
+    "ownerIds": [
+      "state-farm-owner"
+    ],
+    "text": "State Farm is the arena naming-rights holder of atlanta-hawks for 2026-27.",
+    "short": "Arena naming-rights holder State Farm 2026-27",
+    "source": {
+      "name": "Peachtree Hoops (SB Nation)",
+      "date": "2018-08-29",
+      "url": "https://www.peachtreehoops.com/2018/8/29/17795914/atlanta-hawks-state-farm-arena-philips-naming-rights-announcement"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "jpmorganchase-2026",
+    "ownerIds": [
+      "jpmorganchase-owner"
+    ],
+    "text": "JPMorganChase (Chase) is the jersey patch partner of dallas-mavericks for 2026-27.",
+    "short": "Jersey patch partner JPMorganChase (Chase) 2026-27",
+    "source": {
+      "name": "JPMorgan Chase Newsroom",
+      "date": "2026-07-08",
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases/2026/chasedallasmavs"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "american-airlines-2026",
+    "ownerIds": [
+      "american-airlines-owner"
+    ],
+    "text": "American Airlines is the arena naming-rights holder of dallas-mavericks for 2026-27.",
+    "short": "Arena naming-rights holder American Airlines 2026-27",
+    "source": {
+      "name": "RetroSeasons",
+      "date": "1999-03-18",
+      "url": "https://www.retroseasons.com/stadiums/american-airlines-center/history/bio"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "albert-2026",
+    "ownerIds": [
+      "albert-owner"
+    ],
+    "text": "Albert is the jersey patch partner of los-angeles-lakers for 2026-27.",
+    "short": "Jersey patch partner Albert 2026-27",
+    "source": {
+      "name": "Yahoo Sports",
+      "date": "2026-07-17",
+      "url": "https://sports.yahoo.com/articles/lakers-announce-albert-jersey-patch-182626664.html"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "crypto-com-2026",
+    "ownerIds": [
+      "foris-dax"
+    ],
+    "text": "Crypto.com is the arena naming-rights holder of los-angeles-lakers for 2026-27.",
+    "short": "Arena naming-rights holder Crypto.com 2026-27",
+    "source": {
+      "name": "CNBC",
+      "date": "2021-11-17",
+      "url": "https://www.cnbc.com/2021/11/17/cryptocom-buys-naming-rights-to-lakers-staples-center-in-a-700-million-deal-.html"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "experience-abu-dhabi-2026",
+    "ownerIds": [
+      "government-of-abu-dhabi"
+    ],
+    "text": "Experience Abu Dhabi (Dept. of Culture and Tourism - Abu Dhabi) is the jersey patch partner of new-york-knicks for 2026-27.",
+    "short": "Jersey patch partner Experience Abu Dhabi (Dept. of Culture and Tourism - Abu Dhabi) 2026-27",
+    "source": {
+      "name": "PR Newswire / MSG Sports Corp.",
+      "date": "2024-10-17",
+      "url": "https://www.prnewswire.com/news-releases/experience-abu-dhabi-named-official-new-york-knicks-patch-partner-302278654.html"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "sutter-health-2026",
+    "ownerIds": [
+      "sutter-health-owner"
+    ],
+    "text": "Sutter Health is the jersey patch partner of sacramento-kings for 2026-27.",
+    "short": "Jersey patch partner Sutter Health 2026-27",
+    "source": {
+      "name": "Sports Business Journal",
+      "date": "2026-05-12",
+      "url": "https://sportsbusinessjournal.com/Articles/2026/05/12/sacramento-kings-name-sutter-health-jersey-patch-sponsor"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "golden-1-credit-union-2026",
+    "ownerIds": [
+      "golden-1-credit-union-owner"
+    ],
+    "text": "Golden 1 Credit Union is the arena naming-rights holder of sacramento-kings for 2026-27.",
+    "short": "Arena naming-rights holder Golden 1 Credit Union 2026-27",
+    "source": {
+      "name": "Sacramento Kings (NBA.com)",
+      "date": "2015-06-16",
+      "url": "https://www.nba.com/kings/news/06162015-press-release"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "att-2026",
+    "ownerIds": [
+      "att-inc"
+    ],
+    "text": "AT&T is the jersey patch partner of atlanta-falcons for 2026-27.",
+    "short": "Jersey patch partner AT&T 2026-27",
+    "source": {
+      "name": "Zoomph (NFL practice-jersey sponsor tracker)",
+      "date": "2026-09-01",
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "mercedes-benz-2026",
+    "ownerIds": [
+      "mercedes-benz-group"
+    ],
+    "text": "Mercedes-Benz is the arena naming-rights holder of atlanta-falcons for 2026-27.",
+    "short": "Arena naming-rights holder Mercedes-Benz 2026-27",
+    "source": {
+      "name": "PR Newswire / Mercedes-Benz USA",
+      "date": "2015-08-24",
+      "url": "https://prnewswire.com/news-releases/its-official-mercedes-benz-signs-naming-rights-agreement-for-iconic-new-venue-in-atlanta-300132208.html"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "eaton-2026",
+    "ownerIds": [
+      "eaton-owner"
+    ],
+    "text": "Eaton Corporation is the jersey patch partner of cleveland-browns for 2026-27.",
+    "short": "Jersey patch partner Eaton Corporation 2026-27",
+    "source": {
+      "name": "Zoomph (NFL practice-jersey sponsor tracker)",
+      "date": "2026-09-01",
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "huntington-national-bank-huntington-bancshares-2026",
+    "ownerIds": [
+      "huntington-national-bank-huntington-bancshares-owner"
+    ],
+    "text": "Huntington National Bank (Huntington Bancshares) is the arena naming-rights holder of cleveland-browns for 2026-27.",
+    "short": "Arena naming-rights holder Huntington National Bank (Huntington Bancshares) 2026-27",
+    "source": {
+      "name": "Cleveland Browns",
+      "date": "2024-09-03",
+      "url": "https://www.clevelandbrowns.com/news/browns-and-huntington-bank-announce-20-year-partnership-that-includes-stadium-naming-rights"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "ascension-st-vincent-2026",
+    "ownerIds": [
+      "ascension-st-vincent-owner"
+    ],
+    "text": "Ascension St. Vincent's is the jersey patch partner of indianapolis-colts for 2026-27.",
+    "short": "Jersey patch partner Ascension St. Vincent's 2026-27",
+    "source": {
+      "name": "Zoomph (NFL practice-jersey sponsor tracker)",
+      "date": "2026-09-01",
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "lucas-oil-products-2026",
+    "ownerIds": [
+      "lucas-oil-products-owner"
+    ],
+    "text": "Lucas Oil Products is the arena naming-rights holder of indianapolis-colts for 2026-27.",
+    "short": "Arena naming-rights holder Lucas Oil Products 2026-27",
+    "source": {
+      "name": "Encyclopedia of Indianapolis",
+      "date": "2006-02-28",
+      "url": "https://indyencyclopedia.org/lucas-oil-stadium/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "u-s-bank-2026",
+    "ownerIds": [
+      "us-bank-owner"
+    ],
+    "text": "U.S. Bank is the arena naming-rights holder of minnesota-vikings for 2026-27.",
+    "short": "Arena naming-rights holder U.S. Bank 2026-27",
+    "source": {
+      "name": "Minnesota Vikings",
+      "date": "2015-06-15",
+      "url": "https://www.vikings.com/news/u-s-bank-vikings-introduce-u-s-bank-stadium-places-to-play-program-15408806"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "acrisure-2026",
+    "ownerIds": [
+      "acrisure-owner"
+    ],
+    "text": "Acrisure is the arena naming-rights holder of pittsburgh-steelers for 2026-27.",
+    "short": "Arena naming-rights holder Acrisure 2026-27",
+    "source": {
+      "name": "Pittsburgh Steelers",
+      "date": "2022-07-12",
+      "url": "https://www.steelers.com/news/steelers-acrisure-announce-partnership-for-stadium-naming-rights"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "avnet-2026",
+    "ownerIds": [
+      "avnet-owner"
+    ],
+    "text": "Avnet is the jersey patch partner of arizona-diamondbacks for 2026-27.",
+    "short": "Jersey patch partner Avnet 2026-27",
+    "source": {
+      "name": "MLB.com / Arizona Diamondbacks",
+      "date": "2023-02-02",
+      "url": "https://www.mlb.com/press-release/press-release-arizona-diamondbacks-and-avnet-announce-new-partnership-to-include"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "jpmorgan-chase-chase-2026",
+    "ownerIds": [
+      "jpmorgan-chase-chase-owner"
+    ],
+    "text": "JPMorgan Chase (Chase) is the arena naming-rights holder of arizona-diamondbacks for 2026-27.",
+    "short": "Arena naming-rights holder JPMorgan Chase (Chase) 2026-27",
+    "source": {
+      "name": "Ballparks of Baseball",
+      "date": "2025-01-01",
+      "url": "https://www.ballparksofbaseball.com/ballparks/chase-field/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "cme-group-2026",
+    "ownerIds": [
+      "cme-group-owner"
+    ],
+    "text": "CME Group is the jersey patch partner of chicago-white-sox for 2026-27.",
+    "short": "Jersey patch partner CME Group 2026-27",
+    "source": {
+      "name": "Sports Business Journal",
+      "date": "2026-01-28",
+      "url": "https://www.sportsbusinessjournal.com/Articles/2026/01/28/white-sox-add-cme-group-as-jersey-patch-sponsor"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "rate-formerly-guaranteed-rate-2026",
+    "ownerIds": [
+      "rate-formerly-guaranteed-rate-owner"
+    ],
+    "text": "Rate (formerly Guaranteed Rate) is the arena naming-rights holder of chicago-white-sox for 2026-27.",
+    "short": "Arena naming-rights holder Rate (formerly Guaranteed Rate) 2026-27",
+    "source": {
+      "name": "MLB.com press release",
+      "date": "2024-12-18",
+      "url": "https://www.mlb.com/press-release/press-release-rate-and-chicago-white-sox-announce-rebrand-of-ballpark-introducing-rate-field"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "quiktrip-2026",
+    "ownerIds": [
+      "quiktrip-owner"
+    ],
+    "text": "QuikTrip is the jersey patch partner of kansas-city-royals for 2026-27.",
+    "short": "Jersey patch partner QuikTrip 2026-27",
+    "source": {
+      "name": "MLB.com / Kansas City Royals",
+      "date": "2024-02-21",
+      "url": "https://www.mlb.com/news/royals-announce-jersey-patch-sponsor-with-quiktrip"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "newyork-presbyterian-2026",
+    "ownerIds": [
+      "newyork-presbyterian-owner"
+    ],
+    "text": "NewYork-Presbyterian is the jersey patch partner of new-york-mets for 2026-27.",
+    "short": "Jersey patch partner NewYork-Presbyterian 2026-27",
+    "source": {
+      "name": "MLB.com press release",
+      "date": "2023-04-06",
+      "url": "https://www.mlb.com/press-release/press-release-new-york-mets-announce-multiyear-partnership-with-newyork-presbyte"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "citigroup-citi-2026",
+    "ownerIds": [
+      "citigroup-citi-owner"
+    ],
+    "text": "Citigroup (Citi) is the arena naming-rights holder of new-york-mets for 2026-27.",
+    "short": "Arena naming-rights holder Citigroup (Citi) 2026-27",
+    "source": {
+      "name": "Chief Marketer",
+      "date": "2006-11-14",
+      "url": "https://www.chiefmarketer.com/citigroup-gets-shea-naming-rights-for-400-million/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "nintendo-2026",
+    "ownerIds": [
+      "nintendo-owner"
+    ],
+    "text": "Nintendo (Nintendo of America) is the jersey patch partner of seattle-mariners for 2026-27.",
+    "short": "Jersey patch partner Nintendo (Nintendo of America) 2026-27",
+    "source": {
+      "name": "Seattle Mariners (MLB.com)",
+      "date": "2026-03-27",
+      "url": "https://mariners.com/Nintendo"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "t-mobile-2026",
+    "ownerIds": [
+      "t-mobile-owner"
+    ],
+    "text": "T-Mobile is the arena naming-rights holder of seattle-mariners for 2026-27.",
+    "short": "Arena naming-rights holder T-Mobile 2026-27",
+    "source": {
+      "name": "MLB.com press release",
+      "date": "2018-12-19",
+      "url": "https://www.mlb.com/press-release/t-mobile-and-seattle-mariners-team-up-to-present-t-mobile-park-302014586"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "amica-mutual-insurance-2026",
+    "ownerIds": [
+      "amica-mutual-insurance-owner"
+    ],
+    "text": "Amica Mutual Insurance is the jersey patch partner of boston-celtics for 2026-27.",
+    "short": "Jersey patch partner Amica Mutual Insurance 2026-27",
+    "source": {
+      "name": "NBC Sports Boston",
+      "date": "2024-07-09",
+      "url": "https://www.nbcsportsboston.com/nba/boston-celtics/wyc-grousbeck-celtics-jersey-patch-sponsor-amica/627910"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "td-bank-2026",
+    "ownerIds": [
+      "td-bank-owner"
+    ],
+    "text": "TD Bank is the arena naming-rights holder of boston-celtics for 2026-27.",
+    "short": "Arena naming-rights holder TD Bank 2026-27",
+    "source": {
+      "name": "TD Bank / Delaware North (stories.td.com)",
+      "date": "2023-01-12",
+      "url": "https://stories.td.com/us/en/article/td-bank-and-delaware-north-extend-td-garden-naming-rights-through-2045"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "ibotta-2026",
+    "ownerIds": [
+      "ibotta-owner"
+    ],
+    "text": "Ibotta is the jersey patch partner of denver-nuggets for 2026-27.",
+    "short": "Jersey patch partner Ibotta 2026-27",
+    "source": {
+      "name": "Sportcal",
+      "date": "2026-04-17",
+      "url": "https://sportcal.com/news/ibotta-extends-as-nuggets-jersey-patch-partner"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "ball-corporation-2026",
+    "ownerIds": [
+      "ball-corporation-owner"
+    ],
+    "text": "Ball Corporation is the arena naming-rights holder of denver-nuggets for 2026-27.",
+    "short": "Arena naming-rights holder Ball Corporation 2026-27",
+    "source": {
+      "name": "Denver Nuggets (nba.com, KSE/Ball release)",
+      "date": "2020-10-22",
+      "url": "https://www.nba.com/nuggets/news/kse-ballcorp-globalpartnership-20201022"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "robinhood-2026",
+    "ownerIds": [
+      "robinhood-owner"
+    ],
+    "text": "Robinhood is the jersey patch partner of memphis-grizzlies for 2026-27.",
+    "short": "Jersey patch partner Robinhood 2026-27",
+    "source": {
+      "name": "Sports Business Journal",
+      "date": "2024-09-19",
+      "url": "https://www.sportsbusinessjournal.com/Articles/2024/09/19/memphis-grizzlies-jersey-patch-robinhood"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "fedex-2026",
+    "ownerIds": [
+      "fedex-owner"
+    ],
+    "text": "FedEx is the arena naming-rights holder of memphis-grizzlies for 2026-27.",
+    "short": "Arena naming-rights holder FedEx 2026-27",
+    "source": {
+      "name": "Inside Hoops (Grizzlies/FedEx release)",
+      "date": "2025-01-01",
+      "url": "https://insidehoops.com/blog/2025/01/grizzlies-and-fedex-to-continue-their-long-term-partnership"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "loves-travel-stops-2026",
+    "ownerIds": [
+      "loves-travel-stops-owner"
+    ],
+    "text": "Love's Travel Stops & Country Stores is the jersey patch partner of oklahoma-city-thunder for 2026-27.",
+    "short": "Jersey patch partner Love's Travel Stops & Country Stores 2026-27",
+    "source": {
+      "name": "ESPN",
+      "date": "2019-03-15",
+      "url": "https://www.espn.com/espn/print?id=26262269"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "paycom-2026",
+    "ownerIds": [
+      "paycom-owner"
+    ],
+    "text": "Paycom is the arena naming-rights holder of oklahoma-city-thunder for 2026-27.",
+    "short": "Arena naming-rights holder Paycom 2026-27",
+    "source": {
+      "name": "Oklahoma City Thunder (nba.com)",
+      "date": "2021-07-27",
+      "url": "https://www.nba.com/thunder/news/release-paycom-210727"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "ledger-2026",
+    "ownerIds": [
+      "ledger-owner"
+    ],
+    "text": "Ledger is the jersey patch partner of san-antonio-spurs for 2026-27.",
+    "short": "Jersey patch partner Ledger 2026-27",
+    "source": {
+      "name": "San Antonio Spurs (spurs.com)",
+      "date": "2025-06-24",
+      "url": "https://spurs.com/news/san-antonio-spurs-partner-with-digital-asset-security-leader-ledger-in-new-global-jersey-patch-deal"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "frost-bank-2026",
+    "ownerIds": [
+      "frost-bank-owner"
+    ],
+    "text": "Frost Bank is the arena naming-rights holder of san-antonio-spurs for 2026-27.",
+    "short": "Arena naming-rights holder Frost Bank 2026-27",
+    "source": {
+      "name": "San Antonio Spurs (nba.com)",
+      "date": "2023-09-22",
+      "url": "https://www.nba.com/spurs/news/san-antonio-spurs-arena-is-now-officially-the-frost-bank-center"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "perdue-farms-2026",
+    "ownerIds": [
+      "perdue-farms-owner"
+    ],
+    "text": "Perdue Farms is the jersey patch partner of baltimore-ravens for 2026-27.",
+    "short": "Jersey patch partner Perdue Farms 2026-27",
+    "source": {
+      "name": "Sports Business Journal",
+      "date": "2026-07-20",
+      "url": "https://sportsbusinessjournal.com/Articles/2026/07/20/ravens-sign-perdue-farms-as-official-chicken-in-multiyear-sponsorship-deal"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "m-and-t-bank-2026",
+    "ownerIds": [
+      "m-and-t-bank-owner"
+    ],
+    "text": "M&T Bank is the arena naming-rights holder of baltimore-ravens for 2026-27.",
+    "short": "Arena naming-rights holder M&T Bank 2026-27",
+    "source": {
+      "name": "M&T Bank (investor news release)",
+      "date": "2023-04-20",
+      "url": "https://ir.mtb.com/news-releases/news-release-details/mt-bank-baltimore-ravens-extend-partnership-through-2037-nfl"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "at-and-t-2026",
+    "ownerIds": [
+      "att-inc"
+    ],
+    "text": "AT&T is the arena naming-rights holder of dallas-cowboys for 2026-27.",
+    "short": "Arena naming-rights holder AT&T 2026-27",
+    "source": {
+      "name": "ESPN",
+      "date": "2013-07-25",
+      "url": "https://www.espn.com/nfl/story/_/id/9508990/dallas-cowboys-say-complex-renamed-att-stadium"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "dream-finders-homes-2026",
+    "ownerIds": [
+      "dream-finders-homes-owner"
+    ],
+    "text": "Dream Finders Homes is the jersey patch partner of jacksonville-jaguars for 2026-27.",
+    "short": "Jersey patch partner Dream Finders Homes 2026-27",
+    "source": {
+      "name": "Zoomph",
+      "date": "2026-09-01",
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "everbank-2026",
+    "ownerIds": [
+      "everbank-owner"
+    ],
+    "text": "EverBank is the arena naming-rights holder of jacksonville-jaguars for 2026-27.",
+    "short": "Arena naming-rights holder EverBank 2026-27",
+    "source": {
+      "name": "EverBank (news release)",
+      "date": "2024-05-17",
+      "url": "https://www.everbank.com/about/news/05-17-2024/everbank-stadium-naming-rights"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "gillette-2026",
+    "ownerIds": [
+      "procter-and-gamble"
+    ],
+    "text": "Gillette is the jersey patch partner of new-england-patriots for 2026-27.",
+    "short": "Jersey patch partner Gillette 2026-27",
+    "source": {
+      "name": "Zoomph",
+      "date": "2026-09-01",
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "gillette-procter-and-gamble-2026",
+    "ownerIds": [
+      "gillette-procter-and-gamble-owner"
+    ],
+    "text": "Gillette (Procter & Gamble) is the arena naming-rights holder of new-england-patriots for 2026-27.",
+    "short": "Arena naming-rights holder Gillette (Procter & Gamble) 2026-27",
+    "source": {
+      "name": "New England Patriots (patriots.com)",
+      "date": "2010-09-22",
+      "url": "https://www.patriots.com/news/p-g-extends-naming-rights-for-gillette-stadium-through-the-2031-season-114846"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "us-bank-2026",
+    "ownerIds": [
+      "us-bank-owner"
+    ],
+    "text": "U.S. Bank is the jersey patch partner of san-francisco-49ers for 2026-27.",
+    "short": "Jersey patch partner U.S. Bank 2026-27",
+    "source": {
+      "name": "Sports Business Journal",
+      "date": "2026-09-10",
+      "url": "https://www.sportsbusinessjournal.com/Articles/2026/09/10/health-care-providers-financial-companies-dominate-nfl-jersey-patches/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "levi-strauss-and-co-levi-s-2026",
+    "ownerIds": [
+      "levi-strauss-and-co-levi-s-owner"
+    ],
+    "text": "Levi Strauss & Co. (Levi's) is the arena naming-rights holder of san-francisco-49ers for 2026-27.",
+    "short": "Arena naming-rights holder Levi Strauss & Co. (Levi's) 2026-27",
+    "source": {
+      "name": "Levi Strauss & Co.",
+      "date": "2024-01-25",
+      "url": "https://levistrauss.com/2024/01/25/lsco-extends-levis-stadium-naming-rights-and-49ers-partnership"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "lvcva-2026",
+    "ownerIds": [
+      "lvcva-owner"
+    ],
+    "text": "Las Vegas Convention and Visitors Authority (LVCVA) - 'Las Vegas' patch is the jersey patch partner of athletics for 2026-27.",
+    "short": "Jersey patch partner Las Vegas Convention and Visitors Authority (LVCVA) - 'Las Vegas' patch 2026-27",
+    "source": {
+      "name": "MLB Trade Rumors",
+      "date": "2025-03-07",
+      "url": "https://mlbtraderumors.com/2025/03/as-announce-las-vegas-jersey-patch-sponsorship.html"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "kroger-2026",
+    "ownerIds": [
+      "kroger-owner"
+    ],
+    "text": "Kroger is the jersey patch partner of cincinnati-reds for 2026-27.",
+    "short": "Jersey patch partner Kroger 2026-27",
+    "source": {
+      "name": "Front Office Sports",
+      "date": "2023-02-02",
+      "url": "https://frontofficesports.com/mlb-jersey-patch-market-warming-up-reds-ink-deal"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "great-american-insurance-2026",
+    "ownerIds": [
+      "great-american-insurance-owner"
+    ],
+    "text": "Great American Insurance is the arena naming-rights holder of cincinnati-reds for 2026-27.",
+    "short": "Arena naming-rights holder Great American Insurance 2026-27",
+    "source": {
+      "name": "Ballparks of Baseball",
+      "date": "2023-01-01",
+      "url": "https://ballparksofbaseball.com/ballparks/great-american-ball-park"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "foundation-building-materials-2026",
+    "ownerIds": [
+      "foundation-building-materials-owner"
+    ],
+    "text": "Foundation Building Materials (FBM) is the jersey patch partner of los-angeles-angels for 2026-27.",
+    "short": "Jersey patch partner Foundation Building Materials (FBM) 2026-27",
+    "source": {
+      "name": "Blinkfire Analytics",
+      "date": "2026-04-20",
+      "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "starr-insurance-2026",
+    "ownerIds": [
+      "starr-insurance-owner"
+    ],
+    "text": "Starr Insurance Companies is the jersey patch partner of new-york-yankees for 2026-27.",
+    "short": "Jersey patch partner Starr Insurance Companies 2026-27",
+    "source": {
+      "name": "NJ.com",
+      "date": "2026-04-02",
+      "url": "https://nj.com/yankees/2026/04/yankees-say-alterative-uniforms-wont-kill-tradition-weve-got-a-patch-on-our-sleeves.html"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "stifel-2026",
+    "ownerIds": [
+      "stifel-owner"
+    ],
+    "text": "Stifel Financial is the jersey patch partner of st-louis-cardinals for 2026-27.",
+    "short": "Jersey patch partner Stifel Financial 2026-27",
+    "source": {
+      "name": "MLB.com press release",
+      "date": "2023-05-02",
+      "url": "https://mlb.com/press-release/press-release-cardinals-announce-stifel-as-club-s-first-jersey-patch-sponsor"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "anheuser-busch-2026",
+    "ownerIds": [
+      "anheuser-busch-owner"
+    ],
+    "text": "Anheuser-Busch is the arena naming-rights holder of st-louis-cardinals for 2026-27.",
+    "short": "Arena naming-rights holder Anheuser-Busch 2026-27",
+    "source": {
+      "name": "KSDK / Fortune (Anheuser-Busch-Cardinals release)",
+      "date": "2023-12-13",
+      "url": "https://www.ksdk.com/article/sports/mlb/stl-cardinals/cardinals-anheuser-busch-marketing-extension-stadium-naming-rights/63-238738c1-e192-4c1d-b84e-c384429e04e8"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "all-in-won-2026",
+    "ownerIds": [
+      "all-in-won-owner"
+    ],
+    "text": "All In Won is the jersey patch partner of brooklyn-nets for 2026-27.",
+    "short": "Jersey patch partner All In Won 2026-27",
+    "source": {
+      "name": "Brooklyn Sports & Entertainment (bkse.com)",
+      "date": "2025-07-01",
+      "url": "https://bkse.com/news/brooklyn-nets-name-all-in-won-as-official-jersey-patch-partner"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "barclays-2026",
+    "ownerIds": [
+      "barclays"
+    ],
+    "text": "Barclays is the arena naming-rights holder of brooklyn-nets for 2026-27.",
+    "short": "Arena naming-rights holder Barclays 2026-27",
+    "source": {
+      "name": "The New York Times",
+      "date": "2007-01-18",
+      "url": "https://www.nytimes.com/2007/01/18/sports/basketball/18arena.html"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "stockx-2026",
+    "ownerIds": [
+      "stockx-owner"
+    ],
+    "text": "StockX is the jersey patch partner of detroit-pistons for 2026-27.",
+    "short": "Jersey patch partner StockX 2026-27",
+    "source": {
+      "name": "StockX Newsroom",
+      "date": "2024-09-25",
+      "url": "https://stockx.com/about/detroit-pistons-and-stockx-announce-jersey-partnership"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "little-caesars-2026",
+    "ownerIds": [
+      "little-caesars-owner"
+    ],
+    "text": "Little Caesars is the arena naming-rights holder of detroit-pistons for 2026-27.",
+    "short": "Arena naming-rights holder Little Caesars 2026-27",
+    "source": {
+      "name": "PR Newswire (Little Caesars Pizza / Olympia Entertainment)",
+      "date": "2016-04-28",
+      "url": "https://www.prnewswire.com/news-releases/little-caesars-arena-announced-as-name-of-detroits-new-multi-use-arena-centerpiece-of-12-billion-district-detroit-development-300259460.html"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "kaseya-2026",
+    "ownerIds": [
+      "kaseya-owner"
+    ],
+    "text": "Kaseya is the arena naming-rights holder of miami-heat for 2026-27.",
+    "short": "Arena naming-rights holder Kaseya 2026-27",
+    "source": {
+      "name": "Miami-Dade County",
+      "date": "2023-04-04",
+      "url": "https://www.miamidade.gov/global/release.page?Mduid_release=rel1680639570445939"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "walt-disney-world-2026",
+    "ownerIds": [
+      "walt-disney-world-owner"
+    ],
+    "text": "Walt Disney World Resort is the jersey patch partner of orlando-magic for 2026-27.",
+    "short": "Jersey patch partner Walt Disney World Resort 2026-27",
+    "source": {
+      "name": "Orlando Magic (nba.com/magic)",
+      "date": "2022-10-26",
+      "url": "https://www.nba.com/magic/news/orlando-magic-walt-disney-world-resort-community-sponsorship-agreement-logo-jersey-patch-release-20221026"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "kia-america-2026",
+    "ownerIds": [
+      "kia-america-owner"
+    ],
+    "text": "Kia America is the arena naming-rights holder of orlando-magic for 2026-27.",
+    "short": "Arena naming-rights holder Kia America 2026-27",
+    "source": {
+      "name": "Kia Media (Kia America press release)",
+      "date": "2023-12-20",
+      "url": "https://kiamedia.com/us/en/media/pressreleases/21588/orlandos-premier-downtown-sports-and-entertainment-destination-to-be-renamed-kia-center"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "sun-life-2026",
+    "ownerIds": [
+      "sun-life-owner"
+    ],
+    "text": "Sun Life is the jersey patch partner of toronto-raptors for 2026-27.",
+    "short": "Jersey patch partner Sun Life 2026-27",
+    "source": {
+      "name": "Toronto Raptors / NBA.com",
+      "date": "2017-07-06",
+      "url": "https://www.nba.com/raptors/raptors-sunlife-announce-partnership"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "scotiabank-2026",
+    "ownerIds": [
+      "scotiabank-owner"
+    ],
+    "text": "Scotiabank is the arena naming-rights holder of toronto-raptors for 2026-27.",
+    "short": "Arena naming-rights holder Scotiabank 2026-27",
+    "source": {
+      "name": "PR Newswire (Scotiabank / MLSE)",
+      "date": "2017-08-29",
+      "url": "https://www.prnewswire.com/news-releases/home-of-the-maple-leafs-and-raptors-to-become-scotiabank-arena-next-summer-642158183.html"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "kaleida-health-2026",
+    "ownerIds": [
+      "kaleida-health-owner"
+    ],
+    "text": "Kaleida Health is the jersey patch partner of buffalo-bills for 2026-27.",
+    "short": "Jersey patch partner Kaleida Health 2026-27",
+    "source": {
+      "name": "Zoomph (NFL Practice Jersey Patch Sponsors guide; updated 2026-09-01)",
+      "date": "2026-09-01",
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "highmark-2026",
+    "ownerIds": [
+      "highmark-owner"
+    ],
+    "text": "Highmark is the arena naming-rights holder of buffalo-bills for 2026-27.",
+    "short": "Arena naming-rights holder Highmark 2026-27",
+    "source": {
+      "name": "Buffalo Bills",
+      "date": "2023-06-05",
+      "url": "https://www.buffalobills.com/news/the-future-is-bright-bills-and-highmark-announce-naming-rights-deal-for-new-bill"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "childrens-hospital-colorado-2026",
+    "ownerIds": [
+      "childrens-hospital-colorado-owner"
+    ],
+    "text": "Children's Hospital Colorado is the jersey patch partner of denver-broncos for 2026-27.",
+    "short": "Jersey patch partner Children's Hospital Colorado 2026-27",
+    "source": {
+      "name": "Denver Broncos",
+      "date": "2024-07-24",
+      "url": "https://www.denverbroncos.com/news/broncos-renew-and-expand-partnership-with-children-s-hospital-colorado"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "empower-2026",
+    "ownerIds": [
+      "empower-owner"
+    ],
+    "text": "Empower is the arena naming-rights holder of denver-broncos for 2026-27.",
+    "short": "Arena naming-rights holder Empower 2026-27",
+    "source": {
+      "name": "Metropolitan Football Stadium District (mfsd.com)",
+      "date": "2019-09-06",
+      "url": "https://mfsd.com/empower-field-at-mile-high-name-change"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "burns-and-mcdonnell-2026",
+    "ownerIds": [
+      "burns-and-mcdonnell-owner"
+    ],
+    "text": "Burns & McDonnell is the jersey patch partner of kansas-city-chiefs for 2026-27.",
+    "short": "Jersey patch partner Burns & McDonnell 2026-27",
+    "source": {
+      "name": "Kansas City Chiefs",
+      "date": "2025-08-25",
+      "url": "https://www.chiefs.com/news/chiefs-and-burns-mcdonnell-announce-significant-partnership-agreement-for-practice-jersey-patch"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "rouses-markets-2026",
+    "ownerIds": [
+      "rouses-markets-owner"
+    ],
+    "text": "Rouses Markets is the jersey patch partner of new-orleans-saints for 2026-27.",
+    "short": "Jersey patch partner Rouses Markets 2026-27",
+    "source": {
+      "name": "Zoomph (NFL Practice Jersey Patch Sponsors guide; updated 2026-09-01)",
+      "date": "2026-09-01",
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "caesars-entertainment-2026",
+    "ownerIds": [
+      "caesars-entertainment-owner"
+    ],
+    "text": "Caesars Entertainment is the arena naming-rights holder of new-orleans-saints for 2026-27.",
+    "short": "Arena naming-rights holder Caesars Entertainment 2026-27",
+    "source": {
+      "name": "Caesars Entertainment investor news release",
+      "date": "2021-07-26",
+      "url": "https://investor.caesars.com/news-releases/news-release-details/new-orleans-saints-and-caesars-entertainment-announce"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "aws-2026",
+    "ownerIds": [
+      "aws-owner"
+    ],
+    "text": "Amazon Web Services (AWS) is the jersey patch partner of seattle-seahawks for 2026-27.",
+    "short": "Jersey patch partner Amazon Web Services (AWS) 2026-27",
+    "source": {
+      "name": "Zoomph (NFL Practice Jersey Patch Sponsors guide; updated 2026-09-01)",
+      "date": "2026-09-01",
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "lumen-technologies-2026",
+    "ownerIds": [
+      "lumen-technologies-owner"
+    ],
+    "text": "Lumen Technologies is the arena naming-rights holder of seattle-seahawks for 2026-27.",
+    "short": "Arena naming-rights holder Lumen Technologies 2026-27",
+    "source": {
+      "name": "Seattle Seahawks",
+      "date": "2020-11-19",
+      "url": "https://www.seahawks.com/news/centurylink-field-to-become-lumen-field"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "quikrete-2026",
+    "ownerIds": [
+      "quikrete-owner"
+    ],
+    "text": "QUIKRETE is the jersey patch partner of atlanta-braves for 2026-27.",
+    "short": "Jersey patch partner QUIKRETE 2026-27",
+    "source": {
+      "name": "MLB.com press release (Atlanta Braves)",
+      "date": "2023-05-18",
+      "url": "https://www.mlb.com/press-release/press-release-atlanta-braves-name-quikrete-as-the-team-s-first-official-jersey-p"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "truist-2026",
+    "ownerIds": [
+      "truist-owner"
+    ],
+    "text": "Truist is the arena naming-rights holder of atlanta-braves for 2026-27.",
+    "short": "Arena naming-rights holder Truist 2026-27",
+    "source": {
+      "name": "Truist media release",
+      "date": "2020-01-14",
+      "url": "https://media.truist.com/2020-01-14-Truist-and-the-Atlanta-Braves-Announce-Truist-Park-as-New-Name-of-SunTrust-Park"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "marathon-2026",
+    "ownerIds": [
+      "marathon-owner"
+    ],
+    "text": "Marathon is the jersey patch partner of cleveland-guardians for 2026-27.",
+    "short": "Jersey patch partner Marathon 2026-27",
+    "source": {
+      "name": "Crain's Cleveland Business",
+      "date": "2026-09-10",
+      "url": "https://www.crainscleveland.com/sports-recreation/ccl-guardians-marathon-20260910/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "progressive-2026",
+    "ownerIds": [
+      "progressive-owner"
+    ],
+    "text": "Progressive is the arena naming-rights holder of cleveland-guardians for 2026-27.",
+    "short": "Arena naming-rights holder Progressive 2026-27",
+    "source": {
+      "name": "Progressive Insurance media room",
+      "date": "2024-04-03",
+      "url": "https://progressive.mediaroom.com/news-releases?item=122513"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "guggenheim-2026",
+    "ownerIds": [
+      "guggenheim-owner"
+    ],
+    "text": "Guggenheim Baseball Management is the jersey patch partner of los-angeles-dodgers for 2026-27.",
+    "short": "Jersey patch partner Guggenheim Baseball Management 2026-27",
+    "source": {
+      "name": "DodgerBlue",
+      "date": "2026-03-25",
+      "url": "https://dodgerblue.com/dodgers-partnership-with-uniqlo-field-name-dodger-stadium/2026/03/25/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "uniqlo-2026",
+    "ownerIds": [
+      "uniqlo-owner"
+    ],
+    "text": "UNIQLO is the arena naming-rights holder of los-angeles-dodgers for 2026-27.",
+    "short": "Arena naming-rights holder UNIQLO 2026-27",
+    "source": {
+      "name": "DodgerBlue",
+      "date": "2026-03-25",
+      "url": "https://dodgerblue.com/dodgers-partnership-with-uniqlo-field-name-dodger-stadium/2026/03/25/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "independence-blue-cross-2026",
+    "ownerIds": [
+      "independence-blue-cross-owner"
+    ],
+    "text": "Independence Blue Cross (IBX) is the jersey patch partner of philadelphia-phillies for 2026-27.",
+    "short": "Jersey patch partner Independence Blue Cross (IBX) 2026-27",
+    "source": {
+      "name": "MLB.com (Philadelphia Phillies)",
+      "date": "2024-07-31",
+      "url": "https://www.mlb.com/news/phillies-name-independence-blue-cross-as-first-official-jersey-patch-partner"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "citizens-bank-citizens-financial-group-2026",
+    "ownerIds": [
+      "citizens-bank-citizens-financial-group-owner"
+    ],
+    "text": "Citizens Bank (Citizens Financial Group) is the arena naming-rights holder of philadelphia-phillies for 2026-27.",
+    "short": "Arena naming-rights holder Citizens Bank (Citizens Financial Group) 2026-27",
+    "source": {
+      "name": "Sports Business Journal",
+      "date": "2003-06-17",
+      "url": "https://sportsbusinessjournal.com/Daily/Issues/2003/06/17/Facilities-Venues/Citizens-Bank-Inks-25-Year-$95M-Phillies-Naming-Rights-Deal.aspx"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "webull-2026",
+    "ownerIds": [
+      "webull-owner"
+    ],
+    "text": "Webull is the jersey patch partner of tampa-bay-rays for 2026-27.",
+    "short": "Jersey patch partner Webull 2026-27",
+    "source": {
+      "name": "MLB.com (Tampa Bay Rays)",
+      "date": "2026-03-19",
+      "url": "https://www.mlb.com/news/rays-announce-webull-will-be-corporate-jersey-patch-sponsor-2026"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "tropicana-tropicana-brands-group-2026",
+    "ownerIds": [
+      "tropicana-tropicana-brands-group-owner"
+    ],
+    "text": "Tropicana (Tropicana Brands Group) is the arena naming-rights holder of tampa-bay-rays for 2026-27.",
+    "short": "Arena naming-rights holder Tropicana (Tropicana Brands Group) 2026-27",
+    "source": {
+      "name": "MLB.com ballpark guide",
+      "date": "2026-04-09",
+      "url": "https://www.mlb.com/news/featured/tropicana-field-guide-capacity-seating-chart-parking-and-more"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "judi-health-2026",
+    "ownerIds": [
+      "judi-health-owner"
+    ],
+    "text": "Judi Health is the jersey patch partner of charlotte-hornets for 2026-27.",
+    "short": "Jersey patch partner Judi Health 2026-27",
+    "source": {
+      "name": "Charlotte Hornets / NBA.com",
+      "date": "2025-09-24",
+      "url": "https://www.nba.com/hornets/news/charlotte-hornets-and-judi-health-launch-multi-year-partnership-highlighted-by-jersey-patch-designation"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "spectrum-charter-communications-2026",
+    "ownerIds": [
+      "spectrum-charter-communications-owner"
+    ],
+    "text": "Spectrum (Charter Communications) is the arena naming-rights holder of charlotte-hornets for 2026-27.",
+    "short": "Arena naming-rights holder Spectrum (Charter Communications) 2026-27",
+    "source": {
+      "name": "Charter Communications newsroom",
+      "date": "2016-08-17",
+      "url": "https://corporate.charter.com/newsroom/charlotte-hornets-announce-arena-to-be-renamed-spectrum-center"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "iren-2026",
+    "ownerIds": [
+      "iren-owner"
+    ],
+    "text": "IREN (IREN Ltd, AI cloud infrastructure) is the jersey patch partner of golden-state-warriors for 2026-27.",
+    "short": "Jersey patch partner IREN (IREN Ltd, AI cloud infrastructure) 2026-27",
+    "source": {
+      "name": "Silicon Valley / Bay Area News Group",
+      "date": "2026-06-27",
+      "url": "https://siliconvalley.com/2026/06/27/warriors-announce-ai-data-center-company-as-jersey-sponsor"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "jpmorgan-chase-chase-brand-2026",
+    "ownerIds": [
+      "jpmorgan-chase-chase-owner"
+    ],
+    "text": "JPMorgan Chase (Chase brand) is the arena naming-rights holder of golden-state-warriors for 2026-27.",
+    "short": "Arena naming-rights holder JPMorgan Chase (Chase brand) 2026-27",
+    "source": {
+      "name": "SFBayCA",
+      "date": "2016-01-28",
+      "url": "https://sfbayca.com/2016/01/28/warriors-announce-chase-arena-as-future-home"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "uline-2026",
+    "ownerIds": [
+      "uline-owner"
+    ],
+    "text": "Uline is the jersey patch partner of milwaukee-bucks for 2026-27.",
+    "short": "Jersey patch partner Uline 2026-27",
+    "source": {
+      "name": "Milwaukee Bucks / NBA.com",
+      "date": "2026-09-21",
+      "url": "https://www.nba.com/bucks/news/milwaukee-bucks-name-wisconsin-based-uline-as-official-jersey-patch-partner"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "fiserv-2026",
+    "ownerIds": [
+      "fiserv-owner"
+    ],
+    "text": "Fiserv is the arena naming-rights holder of milwaukee-bucks for 2026-27.",
+    "short": "Arena naming-rights holder Fiserv 2026-27",
+    "source": {
+      "name": "Fiserv, Inc. investor newsroom",
+      "date": "2018-07-26",
+      "url": "https://investors.fiserv.com/news-releases/news-release-details/fiserv-forum-new-home-milwaukee-bucks"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "xfinity-mobile-comcast-2026",
+    "ownerIds": [
+      "xfinity-mobile-comcast-owner"
+    ],
+    "text": "Xfinity Mobile (Comcast) is the arena naming-rights holder of philadelphia-76ers for 2026-27.",
+    "short": "Arena naming-rights holder Xfinity Mobile (Comcast) 2026-27",
+    "source": {
+      "name": "ESPN / Associated Press",
+      "date": "2025-05-06",
+      "url": "https://www.espn.com/nhl/story/_/id/45025071/76ers-flyers-arena-lands-naming-rights-deal-xfinity-mobile"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "healthequity-2026",
+    "ownerIds": [
+      "healthequity-owner"
+    ],
+    "text": "HealthEquity is the jersey patch partner of utah-jazz for 2026-27.",
+    "short": "Jersey patch partner HealthEquity 2026-27",
+    "source": {
+      "name": "Utah Jazz",
+      "date": "2026-06-17",
+      "url": "https://utahjazz.com/news/healthequity-becomes-official-jersey-patch-partner-of-the-utah-jazz-1"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "delta-air-lines-2026",
+    "ownerIds": [
+      "delta-air-lines-owner"
+    ],
+    "text": "Delta Air Lines is the arena naming-rights holder of utah-jazz for 2026-27.",
+    "short": "Arena naming-rights holder Delta Air Lines 2026-27",
+    "source": {
+      "name": "Utah Jazz / NBA.com",
+      "date": "2023-01-14",
+      "url": "https://www.nba.com/jazz/news/the-delta-center-returns-to-utah-under-new-agreement-with-utah-jazz"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "atrium-health-2026",
+    "ownerIds": [
+      "atrium-health-owner"
+    ],
+    "text": "Atrium Health is the jersey patch partner of carolina-panthers for 2026-27.",
+    "short": "Jersey patch partner Atrium Health 2026-27",
+    "source": {
+      "name": "Zoomph - NFL Practice Jersey Sponsor Guide (updated 2026-09-01)",
+      "date": "2026-09-01",
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "bank-of-america-2026",
+    "ownerIds": [
+      "bank-of-america"
+    ],
+    "text": "Bank of America is the arena naming-rights holder of carolina-panthers for 2026-27.",
+    "short": "Arena naming-rights holder Bank of America 2026-27",
+    "source": {
+      "name": "Bank of America newsroom",
+      "date": "2026-07-23",
+      "url": "https://newsroom.bankofamerica.com/content/newsroom/press-releases/2026/07/bank-of-america-and-carolina-panthers-extend-naming-rights-for-b.html"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "meijer-2026",
+    "ownerIds": [
+      "meijer-owner"
+    ],
+    "text": "Meijer is the jersey patch partner of detroit-lions for 2026-27.",
+    "short": "Jersey patch partner Meijer 2026-27",
+    "source": {
+      "name": "Detroit Lions",
+      "date": "2024-07-23",
+      "url": "https://www.detroitlions.com/news/detroit-lions-expand-and-extend-partnership-with-meijer"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "ford-motor-company-2026",
+    "ownerIds": [
+      "ford-motor-company"
+    ],
+    "text": "Ford Motor Company is the arena naming-rights holder of detroit-lions for 2026-27.",
+    "short": "Arena naming-rights holder Ford Motor Company 2026-27",
+    "source": {
+      "name": "Detroit Lions",
+      "date": "2025-03-28",
+      "url": "https://www.detroitlions.com/news/detroit-tradition-continues-lions-and-ford-announce-extension-of-ford-field-partnership-through-2036-season"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "allegiant-travel-company-2026",
+    "ownerIds": [
+      "allegiant-travel-company-owner"
+    ],
+    "text": "Allegiant Travel Company is the arena naming-rights holder of las-vegas-raiders for 2026-27.",
+    "short": "Arena naming-rights holder Allegiant Travel Company 2026-27",
+    "source": {
+      "name": "Las Vegas Raiders",
+      "date": "2019-08-05",
+      "url": "https://www.raiders.com/news/raiders-allegiant-agree-on-naming-rights-deal-for-las-vegas-stadium"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "quest-diagnostics-2026",
+    "ownerIds": [
+      "quest-diagnostics-owner"
+    ],
+    "text": "Quest Diagnostics is the jersey patch partner of new-york-giants for 2026-27.",
+    "short": "Jersey patch partner Quest Diagnostics 2026-27",
+    "source": {
+      "name": "Zoomph - NFL Practice Jersey Sponsor Guide (updated 2026-09-01)",
+      "date": "2026-09-01",
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "metlife-metropolitan-life-insurance-2026",
+    "ownerIds": [
+      "metlife-metropolitan-life-insurance-owner"
+    ],
+    "text": "MetLife (Metropolitan Life Insurance) is the arena naming-rights holder of new-york-giants for 2026-27.",
+    "short": "Arena naming-rights holder MetLife (Metropolitan Life Insurance) 2026-27",
+    "source": {
+      "name": "NJ.com",
+      "date": "2026-04-15",
+      "url": "https://www.nj.com/bergen/2026/04/metlife-stadiums-name-change-leaves-nj-as-second-fiddle-what-else-is-new.html"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "fifth-third-bank-2026",
+    "ownerIds": [
+      "fifth-third-bank-owner"
+    ],
+    "text": "Fifth Third Bank is the jersey patch partner of tampa-bay-buccaneers for 2026-27.",
+    "short": "Jersey patch partner Fifth Third Bank 2026-27",
+    "source": {
+      "name": "Tampa Bay Buccaneers / GlobeNewswire",
+      "date": "2026-08-03",
+      "url": "https://globenewswire.com/news-release/2026/08/03/3337463/0/en/Buccaneers-and-Fifth-Third-Bank-Elevate-Pewter-Partnership-with-Introduction-of-First-Ever-Practice-Jersey-Patch.html"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "raymond-james-financial-2026",
+    "ownerIds": [
+      "raymond-james-financial-owner"
+    ],
+    "text": "Raymond James Financial is the arena naming-rights holder of tampa-bay-buccaneers for 2026-27.",
+    "short": "Arena naming-rights holder Raymond James Financial 2026-27",
+    "source": {
+      "name": "Tampa Bay Buccaneers",
+      "date": "2016-05-31",
+      "url": "https://buccaneers.com/news/buccaneers-announce-stadium-naming-rights-extension-17202192"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "t-rowe-price-2026",
+    "ownerIds": [
+      "t-rowe-price-owner"
+    ],
+    "text": "T. Rowe Price is the jersey patch partner of baltimore-orioles for 2026-27.",
+    "short": "Jersey patch partner T. Rowe Price 2026-27",
+    "source": {
+      "name": "Baltimore Orioles / MLB.com press release",
+      "date": "2024-06-10",
+      "url": "https://www.mlb.com/press-release/press-release-baltimore-orioles-and-t-rowe-price-announce-marquee-sponsorship-agreement-with-jersey-patch"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "york-space-systems-2026",
+    "ownerIds": [
+      "york-space-systems-owner"
+    ],
+    "text": "York Space Systems is the jersey patch partner of colorado-rockies for 2026-27.",
+    "short": "Jersey patch partner York Space Systems 2026-27",
+    "source": {
+      "name": "Colorado Rockies / MLB.com press release",
+      "date": "2025-07-01",
+      "url": "https://www.mlb.com/press-release/colorado-rockies-and-york-space-systems-launch-historic-jersey-patch-partnership"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "coors-brewing-co-molson-coors-2026",
+    "ownerIds": [
+      "coors-brewing-co-molson-coors-owner"
+    ],
+    "text": "Coors Brewing Co. (Molson Coors) is the arena naming-rights holder of colorado-rockies for 2026-27.",
+    "short": "Arena naming-rights holder Coors Brewing Co. (Molson Coors) 2026-27",
+    "source": {
+      "name": "Ballpark Digest",
+      "date": "2018-05-01",
+      "url": "https://ballparkdigest.com/2018/05/coors-field-naming-rights-run-in-perpetuity/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "adt-2026",
+    "ownerIds": [
+      "adt-owner"
+    ],
+    "text": "ADT is the jersey patch partner of miami-marlins for 2026-27.",
+    "short": "Jersey patch partner ADT 2026-27",
+    "source": {
+      "name": "Sports Business Journal",
+      "date": "2025-05-13",
+      "url": "https://sportsbusinessjournal.com/Articles/2025/05/13/marlins-jersey-patch-sponsor-adt-renew-deal"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "loandepot-2026",
+    "ownerIds": [
+      "loandepot-owner"
+    ],
+    "text": "loanDepot is the arena naming-rights holder of miami-marlins for 2026-27.",
+    "short": "Arena naming-rights holder loanDepot 2026-27",
+    "source": {
+      "name": "Miami Marlins / MLB.com press release",
+      "date": "2021-03-31",
+      "url": "https://www.mlb.com/press-release/welcome-to-loandepot-park-miami-s-new-home-for-world-class-entertainment"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "sheetz-2026",
+    "ownerIds": [
+      "sheetz-owner"
+    ],
+    "text": "Sheetz is the jersey patch partner of pittsburgh-pirates for 2026-27.",
+    "short": "Jersey patch partner Sheetz 2026-27",
+    "source": {
+      "name": "Pittsburgh Pirates / MLB.com press release",
+      "date": "2024-06-21",
+      "url": "https://www.mlb.com/press-release/press-release-pittsburgh-pirates-and-sheetz-announce-jersey-patch-partnership"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "pnc-bank-pnc-financial-services-2026",
+    "ownerIds": [
+      "pnc-bank-pnc-financial-services-owner"
+    ],
+    "text": "PNC Bank (PNC Financial Services) is the arena naming-rights holder of pittsburgh-pirates for 2026-27.",
+    "short": "Arena naming-rights holder PNC Bank (PNC Financial Services) 2026-27",
+    "source": {
+      "name": "Pittsburgh Pirates / MLB.com press release",
+      "date": "2021-03-04",
+      "url": "https://www.mlb.com/press-release/press-release-pirates-pnc-bank-ballpark-rights-extension"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "energy-transfer-2026",
+    "ownerIds": [
+      "energy-transfer-owner"
+    ],
+    "text": "Energy Transfer is the jersey patch partner of texas-rangers for 2026-27.",
+    "short": "Jersey patch partner Energy Transfer 2026-27",
+    "source": {
+      "name": "Texas Rangers / MLB.com press release",
+      "date": "2024-03-27",
+      "url": "https://www.mlb.com/press-release/press-release-texas-rangers-announcement-multi-year-agreement-with-energy-transfer-to-become-team-s-official-jersey-patch-partner"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "globe-life-globe-life-inc-2026",
+    "ownerIds": [
+      "globe-life-globe-life-inc-owner"
+    ],
+    "text": "Globe Life (Globe Life Inc.) is the arena naming-rights holder of texas-rangers for 2026-27.",
+    "short": "Arena naming-rights holder Globe Life (Globe Life Inc.) 2026-27",
+    "source": {
+      "name": "Globe Life Inc. investor newsroom",
+      "date": "2017-08-24",
+      "url": "https://investors.globelifeinsurance.com/news-releases/2017/august/globe-life-extends-naming-rights-partnership-to-texas-rangers-new-ballpark"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "motorola-mobility-2026",
+    "ownerIds": [
+      "motorola-mobility-owner"
+    ],
+    "text": "Motorola Mobility is the jersey patch partner of chicago-bulls for 2026-27.",
+    "short": "Jersey patch partner Motorola Mobility 2026-27",
+    "source": {
+      "name": "Chicago Bulls (nba.com)",
+      "date": "2022-09-20",
+      "url": "https://www.nba.com/bulls/news/chicago-bulls-name-motorola-mobility-as-official-jersey-patch-partner"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "united-airlines-2026",
+    "ownerIds": [
+      "united-airlines-owner"
+    ],
+    "text": "United Airlines is the arena naming-rights holder of chicago-bulls for 2026-27.",
+    "short": "Arena naming-rights holder United Airlines 2026-27",
+    "source": {
+      "name": "United Center (official)",
+      "date": "2013-12-11",
+      "url": "https://www.unitedcenter.com/united-center-naming-rights-agreement/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "memorial-hermann-2026",
+    "ownerIds": [
+      "memorial-hermann-owner"
+    ],
+    "text": "Memorial Hermann Health System is the jersey patch partner of houston-rockets for 2026-27.",
+    "short": "Jersey patch partner Memorial Hermann Health System 2026-27",
+    "source": {
+      "name": "Sports Business Journal",
+      "date": "2024-10-10",
+      "url": "https://www.sportsbusinessjournal.com/Articles/2024/10/10/houston-rockets-jersey-patch/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "toyota-2026",
+    "ownerIds": [
+      "toyota-owner"
+    ],
+    "text": "Toyota is the arena naming-rights holder of houston-rockets for 2026-27.",
+    "short": "Arena naming-rights holder Toyota 2026-27",
+    "source": {
+      "name": "Sports Business Journal",
+      "date": "2025-05-12",
+      "url": "https://www.sportsbusinessjournal.com/Articles/2025/05/12/report-rockets-toyota-sign-five-year-arena-naming-rights-extension/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "sezzle-2026",
+    "ownerIds": [
+      "sezzle-owner"
+    ],
+    "text": "Sezzle is the jersey patch partner of minnesota-timberwolves for 2026-27.",
+    "short": "Jersey patch partner Sezzle 2026-27",
+    "source": {
+      "name": "Minnesota Timberwolves (nba.com)",
+      "date": "2024-08-12",
+      "url": "https://www.nba.com/timberwolves/news/timberwolves-name-sezzle-official-jersey-patch-partner"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "target-2026",
+    "ownerIds": [
+      "target-corporation"
+    ],
+    "text": "Target is the arena naming-rights holder of minnesota-timberwolves for 2026-27.",
+    "short": "Arena naming-rights holder Target 2026-27",
+    "source": {
+      "name": "Target Center (official)",
+      "date": "2026-01-01",
+      "url": "https://www.targetcenter.com/about-target-center"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "paypal-2026",
+    "ownerIds": [
+      "paypal-owner"
+    ],
+    "text": "PayPal is the jersey patch partner of phoenix-suns for 2026-27.",
+    "short": "Jersey patch partner PayPal 2026-27",
+    "source": {
+      "name": "Zoomph (2026/27 NBA jersey patch guide)",
+      "date": "2026-09-01",
+      "url": "https://zoomph.com/blog/nba-jersey-patch-sponsors-this-season/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "united-wholesale-mortgage-2026",
+    "ownerIds": [
+      "united-wholesale-mortgage-owner"
+    ],
+    "text": "United Wholesale Mortgage is the arena naming-rights holder of phoenix-suns for 2026-27.",
+    "short": "Arena naming-rights holder United Wholesale Mortgage 2026-27",
+    "source": {
+      "name": "FOX 10 Phoenix",
+      "date": "2025-10-02",
+      "url": "https://www.fox10phoenix.com/sports/mortgage-matchup-center-phx-arena-gets-new-name"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "capital-one-2026",
+    "ownerIds": [
+      "capital-one-owner"
+    ],
+    "text": "Capital One is the arena naming-rights holder of washington-wizards for 2026-27.",
+    "short": "Arena naming-rights holder Capital One 2026-27",
+    "source": {
+      "name": "Capital One Newsroom",
+      "date": "2026-08-11",
+      "url": "https://www.capitalone.com/about/newsroom/a-bold-new-era-for-capital-one-arena-in-our-hometown/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "advocate-health-care-2026",
+    "ownerIds": [
+      "advocate-health-care-owner"
+    ],
+    "text": "Advocate Health Care is the jersey patch partner of chicago-bears for 2026-27.",
+    "short": "Jersey patch partner Advocate Health Care 2026-27",
+    "source": {
+      "name": "Zoomph (2026 NFL jersey patch guide)",
+      "date": "2026-09-01",
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "uw-health-2026",
+    "ownerIds": [
+      "uw-health-owner"
+    ],
+    "text": "UW Health is the jersey patch partner of green-bay-packers for 2026-27.",
+    "short": "Jersey patch partner UW Health 2026-27",
+    "source": {
+      "name": "Green Bay Packers (packers.com)",
+      "date": "2026-04-16",
+      "url": "https://www.packers.com/news/packers-name-uw-health-official-health-care-partner-of-the-green-bay-packers-2026"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "ucla-health-2026",
+    "ownerIds": [
+      "ucla-health-owner"
+    ],
+    "text": "UCLA Health is the jersey patch partner of los-angeles-chargers for 2026-27.",
+    "short": "Jersey patch partner UCLA Health 2026-27",
+    "source": {
+      "name": "Zoomph (2026 NFL jersey patch guide)",
+      "date": "2026-09-01",
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "sofi-2026",
+    "ownerIds": [
+      "sofi-owner"
+    ],
+    "text": "SoFi is the arena naming-rights holder of los-angeles-chargers for 2026-27.",
+    "short": "Arena naming-rights holder SoFi 2026-27",
+    "source": {
+      "name": "KSL.com (AP)",
+      "date": "2019-09-15",
+      "url": "https://ksl.com/article/46638813/sofi-stadium-naming-rights-sold-for-los-angeles-new-arena"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "atlantic-health-2026",
+    "ownerIds": [
+      "atlantic-health-owner"
+    ],
+    "text": "Atlantic Health is the jersey patch partner of new-york-jets for 2026-27.",
+    "short": "Jersey patch partner Atlantic Health 2026-27",
+    "source": {
+      "name": "Zoomph (2026 NFL jersey patch guide)",
+      "date": "2026-09-01",
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "metlife-2026",
+    "ownerIds": [
+      "metlife-owner"
+    ],
+    "text": "MetLife is the arena naming-rights holder of new-york-jets for 2026-27.",
+    "short": "Arena naming-rights holder MetLife 2026-27",
+    "source": {
+      "name": "MetLife Stadium (official)",
+      "date": "2026-09-10",
+      "url": "https://www.metlifestadium.com/news/detail/metlife-stadium-welcomes-back-football-fueled-by-new-and-expanded-partnerships-across-the-jets-and-giants-platform"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "nissan-2026",
+    "ownerIds": [
+      "nissan-owner"
+    ],
+    "text": "Nissan is the arena naming-rights holder of tennessee-titans for 2026-27.",
+    "short": "Arena naming-rights holder Nissan 2026-27",
+    "source": {
+      "name": "The Tennessean",
+      "date": "2023-11-17",
+      "url": "https://www.tennessean.com/story/money/2023/11/17/titans-stadium-naming-rights-nashville-new-nissan-stadium/71617483007/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "massmutual-2026",
+    "ownerIds": [
+      "massmutual-owner"
+    ],
+    "text": "MassMutual is the jersey patch partner of boston-red-sox for 2026-27.",
+    "short": "Jersey patch partner MassMutual 2026-27",
+    "source": {
+      "name": "MLB.com",
+      "date": "2022-11-30",
+      "url": "https://www.mlb.com/news/red-sox-jersey-patch-massmutual"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "northwestern-mutual-2026",
+    "ownerIds": [
+      "northwestern-mutual-owner"
+    ],
+    "text": "Northwestern Mutual is the jersey patch partner of milwaukee-brewers for 2026-27.",
+    "short": "Jersey patch partner Northwestern Mutual 2026-27",
+    "source": {
+      "name": "Blinkfire Analytics (2026 MLB jersey patch list)",
+      "date": "2026-04-20",
+      "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "american-family-insurance-2026",
+    "ownerIds": [
+      "american-family-mutual-insurance-company"
+    ],
+    "text": "American Family Insurance is the arena naming-rights holder of milwaukee-brewers for 2026-27.",
+    "short": "Arena naming-rights holder American Family Insurance 2026-27",
+    "source": {
+      "name": "Wisconsin Public Radio (AP)",
+      "date": "2020-01-22",
+      "url": "https://www.wpr.org/economy/brewers-home-ballpark-be-renamed-american-family-field"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "motorola-2026",
+    "ownerIds": [
+      "motorola-owner"
+    ],
+    "text": "Motorola is the jersey patch partner of san-diego-padres for 2026-27.",
+    "short": "Jersey patch partner Motorola 2026-27",
+    "source": {
+      "name": "Blinkfire Analytics (2026 MLB jersey patch list)",
+      "date": "2026-04-20",
+      "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "petco-2026",
+    "ownerIds": [
+      "petco-owner"
+    ],
+    "text": "Petco is the arena naming-rights holder of san-diego-padres for 2026-27.",
+    "short": "Arena naming-rights holder Petco 2026-27",
+    "source": {
+      "name": "Ballpark Digest",
+      "date": "2021-03-08",
+      "url": "https://ballparkdigest.com/2021/03/08/petco-padres-extend-petco-park-naming-rights-deal-through-2027"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "rogers-communications-2026",
+    "ownerIds": [
+      "rogers-communications-owner"
+    ],
+    "text": "Rogers Communications is the arena naming-rights holder of toronto-blue-jays for 2026-27.",
+    "short": "Arena naming-rights holder Rogers Communications 2026-27",
+    "source": {
+      "name": "Sports Business Journal",
+      "date": "2005-02-03",
+      "url": "https://sportsbusinessjournal.com/Daily/Issues/2005/02/03/Facilities-Venues/Bye-Bye-Sky-Skydome-Now-Rogers-Centre-Jays-Bump-Up-Payroll/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "cleveland-cliffs-2026",
+    "ownerIds": [
+      "cleveland-cliffs-owner"
+    ],
+    "text": "Cleveland-Cliffs is the jersey patch partner of cleveland-cavaliers for 2026-27.",
+    "short": "Jersey patch partner Cleveland-Cliffs 2026-27",
+    "source": {
+      "name": "Cleveland Cavaliers (NBA.com)",
+      "date": "2022-03-29",
+      "url": "https://www.nba.com/cavaliers/releases/cliffs-release-220329"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "rocket-rocket-companies-2026",
+    "ownerIds": [
+      "rocket-rocket-companies-owner"
+    ],
+    "text": "Rocket (Rocket Companies) is the arena naming-rights holder of cleveland-cavaliers for 2026-27.",
+    "short": "Arena naming-rights holder Rocket (Rocket Companies) 2026-27",
+    "source": {
+      "name": "Rocket Arena (venue press release)",
+      "date": "2025-02-18",
+      "url": "https://rocketarena.com/news/detail/rocket-announcement-250218"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "lucas-oil-2026",
+    "ownerIds": [
+      "lucas-oil-products-owner"
+    ],
+    "text": "Lucas Oil is the jersey patch partner of indiana-pacers for 2026-27.",
+    "short": "Jersey patch partner Lucas Oil 2026-27",
+    "source": {
+      "name": "Indiana Pacers (NBA.com)",
+      "date": "2025-07-09",
+      "url": "https://nba.com/pacers/news/indiana-pacers-and-lucas-oil-announce-multi-year-jersey-patch-partnership"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "gainbridge-group-1001-2026",
+    "ownerIds": [
+      "gainbridge-group-1001-owner"
+    ],
+    "text": "Gainbridge (Group 1001) is the arena naming-rights holder of indiana-pacers for 2026-27.",
+    "short": "Arena naming-rights holder Gainbridge (Group 1001) 2026-27",
+    "source": {
+      "name": "Gainbridge Fieldhouse (venue press release)",
+      "date": "2021-09-27",
+      "url": "https://www.gainbridgefieldhouse.com/news/detail/home-of-the-indiana-pacers-and-indiana-fever-renamed-gainbridge-fieldhouse"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "newage-products-2026",
+    "ownerIds": [
+      "newage-products-owner"
+    ],
+    "text": "NewAge Products is the jersey patch partner of new-orleans-pelicans for 2026-27.",
+    "short": "Jersey patch partner NewAge Products 2026-27",
+    "source": {
+      "name": "Sports Business Journal",
+      "date": "2024-09-30",
+      "url": "https://sportsbusinessjournal.com/Articles/2024/09/30/new-orleans-pelicans-patch-newage-products"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "smoothie-king-2026",
+    "ownerIds": [
+      "smoothie-king-owner"
+    ],
+    "text": "Smoothie King is the arena naming-rights holder of new-orleans-pelicans for 2026-27.",
+    "short": "Arena naming-rights holder Smoothie King 2026-27",
+    "source": {
+      "name": "FOX Sports / AP",
+      "date": "2023-12-26",
+      "url": "https://www.foxsports.com/stories/nba/new-orleans-pelicans-and-smoothie-king-renew-their-arena-naming-rights-agreement"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "moda-health-2026",
+    "ownerIds": [
+      "moda-health-owner"
+    ],
+    "text": "Moda Health is the arena naming-rights holder of portland-trail-blazers for 2026-27.",
+    "short": "Arena naming-rights holder Moda Health 2026-27",
+    "source": {
+      "name": "Portland Trail Blazers (NBA.com)",
+      "date": "2013-08-13",
+      "url": "https://www.nba.com/blazers/rose-garden-renamed-moda-center"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "desert-financial-credit-union-2026",
+    "ownerIds": [
+      "desert-financial-credit-union-owner"
+    ],
+    "text": "Desert Financial Credit Union is the jersey patch partner of arizona-cardinals for 2026-27.",
+    "short": "Jersey patch partner Desert Financial Credit Union 2026-27",
+    "source": {
+      "name": "Zoomph (2026 NFL practice jersey patch guide)",
+      "date": "2026-09-01",
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "paycor-2026",
+    "ownerIds": [
+      "paycor-owner"
+    ],
+    "text": "Paycor is the arena naming-rights holder of cincinnati-bengals for 2026-27.",
+    "short": "Arena naming-rights holder Paycor 2026-27",
+    "source": {
+      "name": "Cincinnati Bengals",
+      "date": "2022-08-09",
+      "url": "https://www.bengals.com/news/paycor-stadium-naming-rights-cincinnati"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "xfinity-2026",
+    "ownerIds": [
+      "xfinity-owner"
+    ],
+    "text": "Xfinity (also Houston Methodist on some jerseys) is the jersey patch partner of houston-texans for 2026-27.",
+    "short": "Jersey patch partner Xfinity (also Houston Methodist on some jerseys) 2026-27",
+    "source": {
+      "name": "Zoomph (2026 NFL practice jersey patch guide)",
+      "date": "2026-09-01",
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "nrg-energy-reliant-brand-2026",
+    "ownerIds": [
+      "nrg-energy-reliant-brand-owner"
+    ],
+    "text": "NRG Energy (Reliant brand) is the arena naming-rights holder of houston-texans for 2026-27.",
+    "short": "Arena naming-rights holder NRG Energy (Reliant brand) 2026-27",
+    "source": {
+      "name": "Reliant / NRG Energy press release",
+      "date": "2026-04-15",
+      "url": "https://news.reliant.com/press-releases/press-release-details/2026/Reliant-Stadium-Returns-in-August-2026"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "baptist-health-2026",
+    "ownerIds": [
+      "baptist-health-owner"
+    ],
+    "text": "Baptist Health is the jersey patch partner of miami-dolphins for 2026-27.",
+    "short": "Jersey patch partner Baptist Health 2026-27",
+    "source": {
+      "name": "Zoomph (2026 NFL practice jersey patch guide)",
+      "date": "2026-09-01",
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "hard-rock-international-2026",
+    "ownerIds": [
+      "hard-rock-international-owner"
+    ],
+    "text": "Hard Rock International is the arena naming-rights holder of miami-dolphins for 2026-27.",
+    "short": "Arena naming-rights holder Hard Rock International 2026-27",
+    "source": {
+      "name": "Miami Dolphins Communications Portal",
+      "date": "2016-08-17",
+      "url": "https://media.miamidolphins.com/press_releases/hard-rock-international-and-miami-dolphins-announce-18-year-stadium-naming-rights-agreement"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "jefferson-health-2026",
+    "ownerIds": [
+      "jefferson-health-owner"
+    ],
+    "text": "Jefferson Health is the jersey patch partner of philadelphia-eagles for 2026-27.",
+    "short": "Jersey patch partner Jefferson Health 2026-27",
+    "source": {
+      "name": "Zoomph (2026 NFL practice jersey patch guide)",
+      "date": "2026-09-01",
+      "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "lincoln-financial-group-2026",
+    "ownerIds": [
+      "lincoln-financial-group-owner"
+    ],
+    "text": "Lincoln Financial Group is the arena naming-rights holder of philadelphia-eagles for 2026-27.",
+    "short": "Arena naming-rights holder Lincoln Financial Group 2026-27",
+    "source": {
+      "name": "Philadelphia Eagles",
+      "date": "2019-05-09",
+      "url": "https://www.philadelphiaeagles.com/news/lincoln-financial-group-and-philadelphia-eagles-extend-stadium-naming-rights"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "northwest-federal-credit-union-2026",
+    "ownerIds": [
+      "northwest-federal-credit-union-owner"
+    ],
+    "text": "Northwest Federal Credit Union is the jersey patch partner of washington-commanders for 2026-27.",
+    "short": "Jersey patch partner Northwest Federal Credit Union 2026-27",
+    "source": {
+      "name": "Northwest Federal Credit Union",
+      "date": "2024-08-27",
+      "url": "https://nwfcu.org/news/washington-commanders-and-northwest-federal-credit-union-announce-stadium-naming-rights-deal-2024"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "occidental-petroleum-2026",
+    "ownerIds": [
+      "occidental-petroleum-owner"
+    ],
+    "text": "Occidental Petroleum (Oxy) is the jersey patch partner of houston-astros for 2026-27.",
+    "short": "Jersey patch partner Occidental Petroleum (Oxy) 2026-27",
+    "source": {
+      "name": "Sports Business Journal",
+      "date": "2023-02-10",
+      "url": "https://www.sportsbusinessjournal.com/Daily/Morning-Buzz/2023/02/10/houston-astros-sign-jersey-patch-deal"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "daikin-comfort-technologies-2026",
+    "ownerIds": [
+      "daikin-comfort-technologies-owner"
+    ],
+    "text": "Daikin Comfort Technologies is the arena naming-rights holder of houston-astros for 2026-27.",
+    "short": "Arena naming-rights holder Daikin Comfort Technologies 2026-27",
+    "source": {
+      "name": "MLB.com press release (Houston Astros)",
+      "date": "2024-11-18",
+      "url": "https://www.mlb.com/press-release/release-astros-announce-ballpark-naming-rights-partnership-with-daikin-comfort-technologies"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "securian-financial-2026",
+    "ownerIds": [
+      "securian-financial-owner"
+    ],
+    "text": "Securian Financial is the jersey patch partner of minnesota-twins for 2026-27.",
+    "short": "Jersey patch partner Securian Financial 2026-27",
+    "source": {
+      "name": "Sports Business Journal",
+      "date": "2025-07-17",
+      "url": "https://www.sportsbusinessjournal.com/Articles/2025/07/17/securian-financial-becomes-twins-first-ever-jersey-patch-sponsor"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "target-target-corporation-2026",
+    "ownerIds": [
+      "target-target-corporation-owner"
+    ],
+    "text": "Target (Target Corporation) is the arena naming-rights holder of minnesota-twins for 2026-27.",
+    "short": "Arena naming-rights holder Target (Target Corporation) 2026-27",
+    "source": {
+      "name": "Chief Marketer",
+      "date": "2008-09-15",
+      "url": "https://chiefmarketer.com/target-scores-naming-rights-for-minnesota-twins-ballpark"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "airwallex-2026",
+    "ownerIds": [
+      "airwallex-owner"
+    ],
+    "text": "Airwallex is the jersey patch partner of san-francisco-giants for 2026-27.",
+    "short": "Jersey patch partner Airwallex 2026-27",
+    "source": {
+      "name": "MLB.com press release (San Francisco Giants)",
+      "date": "2026-02-18",
+      "url": "https://www.mlb.com/press-release/press-release-airwallex-becomes-the-giants-official-jersey-patch-partner"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "oracle-2026",
+    "ownerIds": [
+      "oracle-corporation"
+    ],
+    "text": "Oracle is the arena naming-rights holder of san-francisco-giants for 2026-27.",
+    "short": "Arena naming-rights holder Oracle 2026-27",
+    "source": {
+      "name": "Oracle Blogs",
+      "date": "2019-01-10",
+      "url": "https://blogs.oracle.com/san-francisco-giants-and-oracle-announce-oracle-park"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "aarp-2026",
+    "ownerIds": [
+      "aarp-owner"
+    ],
+    "text": "AARP is the jersey patch partner of washington-nationals for 2026-27.",
+    "short": "Jersey patch partner AARP 2026-27",
+    "source": {
+      "name": "AARP press release",
+      "date": "2025-06-30",
+      "url": "https://www.aarp.org/press/releases/2025-06-30-aarp-becomes-washington-nationals-inaugural-jersey-patch-sponsor-and-an-official-community-impact-partner.html"
+    },
+    "reviewed": true
   },
   {
     "id": "amex-listed-no-state",
@@ -146,7 +2274,7 @@
       "date": "2026",
       "url": "https://ir.americanexpress.com/stock-information"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "adidas-ag-record",
@@ -160,7 +2288,7 @@
       "date": "2025-12-31",
       "url": "https://report.adidas-group.com/2025/en/to-our-shareholders/our-share.html"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "russian-federation-record",
@@ -174,7 +2302,7 @@
       "date": "2025 / 2026",
       "url": "https://ir.aeroflot.com/ensecurities/shareholder-capital"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "aia-group-record",
@@ -188,7 +2316,7 @@
       "date": "2023-07",
       "url": "https://www.aia.com/content/dam/group-wise/en/docs/press-release/2023/AIA%20Group%20Press%20Release_ENG_13%20July%202023.pdf.coredownload.pdf"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "ally-financial-record",
@@ -202,7 +2330,7 @@
       "date": "2026-03-18",
       "url": "https://www.sec.gov/Archives/edgar/data/40729/000119312526113819/ally-20260318.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "alpinestars-record",
@@ -216,7 +2344,7 @@
       "date": "2026-09-24",
       "url": "https://alpinestars.com/pages/about-us"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "american-family-mutual-insurance-company-record",
@@ -230,7 +2358,7 @@
       "date": "2026-03",
       "url": "http://newsroom.amfam.com/fast-facts"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "arctempus-record",
@@ -244,7 +2372,7 @@
       "date": "2026-08-20",
       "url": "https://lagrada.org/arctempus-capital-patrocinador-espanyol-alan-pace-iese/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "atlassian-record",
@@ -258,7 +2386,7 @@
       "date": "2025-10-14",
       "url": "https://www.sec.gov/Archives/edgar/data/1650372/000165037225000058/team-20251014.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "baghdadi-capital-sa-record",
@@ -272,7 +2400,7 @@
       "date": "2026-01",
       "url": "https://baghdadicapital.com/en/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "standard-general-record",
@@ -286,7 +2414,7 @@
       "date": "2025-10-10",
       "url": "https://next.io/news/investment/ballys-intralot-deal-athens-stock-exchange-giant"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "banca-popolare-del-frusinate-record",
@@ -300,7 +2428,7 @@
       "date": "2025-12-31",
       "url": "https://www.bpf.it/dati-societari/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "bank-of-america-record",
@@ -314,7 +2442,7 @@
       "date": "2026-03-23",
       "url": "https://www.sec.gov/Archives/edgar/data/70858/000119312526118929/d43888ddef14a.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "barclays-record",
@@ -328,7 +2456,7 @@
       "date": "2025-12-31",
       "url": "https://www.sec.gov/Archives/edgar/data/312069/000031206926000004/bcs-20251231.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "barmenia-versicherungen-ag-record",
@@ -342,7 +2470,7 @@
       "date": "2025",
       "url": "https://www.barmeniagothaer.de/infos-zur-gruppe/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "kaizen-gaming-record",
@@ -356,7 +2484,7 @@
       "date": "2026",
       "url": "https://www.egr.global/intel/news/betanos-parent-company-achieves-decacorn-status/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "betsson-record",
@@ -370,7 +2498,7 @@
       "date": "2026-06-30",
       "url": "https://www.betssonab.com/investors/share/largest-shareholders"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "beumer-group-record",
@@ -384,7 +2512,7 @@
       "date": "2026-04-22",
       "url": "https://schalke04.de/en/partner-en/beumer-group-new-main-partner"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "grupo-bimbo-record",
@@ -398,7 +2526,7 @@
       "date": "2026-09-24",
       "url": "http://www.grupobimbo.com/en/investors/governance/structure"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "bank-of-montreal-record",
@@ -412,7 +2540,7 @@
       "date": "2025-12-04",
       "url": "https://www.sec.gov/Archives/edgar/data/927971/000119312525307982/d938207dex991.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "boeing-record",
@@ -426,7 +2554,7 @@
       "date": "2026-03-06",
       "url": "https://www.sec.gov/Archives/edgar/data/12927/000119312526096787/d39411ddef14a.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "boylesports-record",
@@ -440,7 +2568,7 @@
       "date": "2026-09",
       "url": "https://listedcasinocompanies.com/boylesports"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "cvc-capital-partners-record",
@@ -454,7 +2582,7 @@
       "date": "2017-04-28",
       "url": "http://cvc.com/media/news/2017/2017-04-28-cvc-fund-vi-agrees-to-acquire-majority-stake-in-breitling-sa"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "bwt-group-record",
@@ -468,7 +2596,7 @@
       "date": "2014-12-31",
       "url": "https://www.bwt.com/en/-/media/bwt/www,-d-,bwt,-d-,com/documents/financial-publications/annual-reports/bwt-annual-report-2014.pdf"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "c-hedenkamp-gmbh-record",
@@ -482,7 +2610,7 @@
       "date": "2026",
       "url": "https://www.hedenkamp.de/en/impressum/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "carvana-record",
@@ -496,7 +2624,7 @@
       "date": "2026-03-25",
       "url": "https://www.sec.gov/Archives/edgar/data/1690820/000169082026000024/cvna-20260325.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "motors-record",
@@ -510,7 +2638,7 @@
       "date": "2024-06-28",
       "url": "https://businesscloud.co.uk/news/private-equity-backed-motors-snaps-up-cazoo-brand"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "continent-gaming-record",
@@ -524,7 +2652,7 @@
       "date": "2025-06-14",
       "url": "https://help.chexx.bet/en/articles/9114022-about-us"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "ut-southwestern-medical-center-record",
@@ -538,7 +2666,7 @@
       "date": "2026-09-24",
       "url": "https://utsw.edu/about-us/mission-history"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "circle-internet-group-record",
@@ -552,7 +2680,7 @@
       "date": "2025-06",
       "url": "https://www.sec.gov/Archives/edgar/data/1876042/000119312525178989/d839239ds1.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "cisco-record",
@@ -566,7 +2694,7 @@
       "date": "2025-09-03",
       "url": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000132/csco-20260725.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "anthropic-record",
@@ -580,7 +2708,7 @@
       "date": "2025-03-11",
       "url": "https://www.nytimes.com/2025/03/11/technology/google-investment-anthropic.html"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "clickhouse-inc-record",
@@ -594,7 +2722,7 @@
       "date": "2025-05 / 2026-01",
       "url": "https://clickhouse.com/blog/clickhouse-raises-350-million-series-c-to-power-analytics-for-ai-era"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "cmc-markets-plc-record",
@@ -608,7 +2736,7 @@
       "date": "2020 / 2025",
       "url": "https://www.cmcmarkets.com/group/press-releases/peter-cruddas-appointed-to-the-house-of-lords-as-baron-cruddas-of-shoreditch"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "cognizant-record",
@@ -622,7 +2750,7 @@
       "date": "2026-04-17",
       "url": "https://www.sec.gov/Archives/edgar/data/1058290/000130817926000290/ctsh014861-def14a.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "belden-record",
@@ -636,7 +2764,7 @@
       "date": "2026-07-01",
       "url": "https://investor.belden.com/news/news-details/2026/Belden-Completes-Acquisition-of-RUCKUS-Networks/default.aspx"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "compass-minerals-record",
@@ -650,7 +2778,7 @@
       "date": "2026-01-23",
       "url": "https://www.sec.gov/Archives/edgar/data/1227654/000130817926000019/cmp014557_def14a.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "corendon-tourism-group-record",
@@ -664,7 +2792,7 @@
       "date": "2024-01",
       "url": "https://www.travmagazine.nl/en/corendon-introduces-its-new-management-team"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "crowdstrike-record",
@@ -678,7 +2806,7 @@
       "date": "2026-05-05",
       "url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465926055599/tm2532333-4_def14a.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "foris-dax-record",
@@ -692,7 +2820,7 @@
       "date": "2026-02-20",
       "url": "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1367.pdf"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "davide-campari-milano-record",
@@ -706,7 +2834,7 @@
       "date": "2024-12-31",
       "url": "https://camparigroup.com/sites/default/files/downloads/01.1%20Campari%20Group_Annual%20Report%20for%20the%20year%20ended%2031%20December%202024.pdf"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "access-industries-record",
@@ -720,7 +2848,7 @@
       "date": "2026-09-24",
       "url": "https://www.accessindustries.com/investments/dazn"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "deel-inc-record",
@@ -734,7 +2862,7 @@
       "date": "2025-10-17",
       "url": "https://www.deel.com/blog/new-investment-valuation/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "deghi-record",
@@ -748,7 +2876,7 @@
       "date": "2026-09-24",
       "url": "https://www.deghi.it/noi-siamo-deghi"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "dell-technologies-record",
@@ -762,7 +2890,7 @@
       "date": "2026-05-15",
       "url": "https://www.sec.gov/Archives/edgar/data/1571996/000119312526226734/d132444ddef14a.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "federal-republic-of-germany-record",
@@ -776,7 +2904,7 @@
       "date": "2026-06-30",
       "url": "https://www.telekom.com/en/investor-relations/share/shareholder-structure"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "deutsche-post-dhl-record",
@@ -790,7 +2918,7 @@
       "date": "2026-06-30",
       "url": "https://www.dpdhl.com/en/investors/shares/shareholder-structure.html"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "digi-communications-nv-record",
@@ -804,7 +2932,7 @@
       "date": "2026",
       "url": "https://www.digi-communications.ro/en/about-us"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "tpg-record",
@@ -818,7 +2946,7 @@
       "date": "2025-07-02",
       "url": "https://shareholders.tpg.com/news-releases/news-release-details/tpg-completes-acquisition-atts-70-stake-directv/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "berkshire-hathaway-record",
@@ -832,7 +2960,7 @@
       "date": "2016-02-29",
       "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042416000171/duracelltransferpressrelease.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "el-camino-health-record",
@@ -846,7 +2974,7 @@
       "date": "2026-09-24",
       "url": "https://elcaminohealth.org/about-us"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "eni-record",
@@ -860,7 +2988,7 @@
       "date": "2026-04-10",
       "url": "https://www.eni.com/content/dam/enicom/documents/eng/governance/shareholders-meetings/2026/Proposals-of-Shareholder-Ministry-of-the-Economy-and-Finance-in-relation-to-item-6-7-and-10-of-the-agenda.pdf"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "corporacion-hijos-de-rivera-record",
@@ -874,7 +3002,7 @@
       "date": "2026",
       "url": "http://corporacionhijosderivera.com/en/company"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "etoro-record",
@@ -888,7 +3016,7 @@
       "date": "2025-05-15",
       "url": "https://www.sec.gov/Archives/edgar/data/1493318/000121390025044406/ea0242225-6k_etoro.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "entain-plc-record",
@@ -902,7 +3030,7 @@
       "date": "2026-09-24",
       "url": "https://igaming-times.com/directory/eurobet"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "expedia-group-inc-record",
@@ -916,7 +3044,7 @@
       "date": "2026-02-13",
       "url": "https://www.sec.gov/Archives/edgar/data/1324424/000132442426000008/expe-20251231.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "osceola-county-tourism-authority-record",
@@ -930,7 +3058,7 @@
       "date": "2026-09-24",
       "url": "https://experiencekissimmee.com/about-us"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "extreme-networks-inc-record",
@@ -944,7 +3072,7 @@
       "date": "2026-09-24",
       "url": "https://investor.extremenetworks.com/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "mondofix-inc-record",
@@ -958,7 +3086,7 @@
       "date": "2022-12-31",
       "url": "https://fixnetwork.com/en/leadership-team/steve-leal"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "flexicar-internacional-record",
@@ -972,7 +3100,7 @@
       "date": "2025-01-17",
       "url": "https://www.elconfidencial.com/empresas/2025-01-17/flexicar-fusiona-sociedades-batir-facturacion_4044206/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "ford-motor-company-record",
@@ -986,7 +3114,7 @@
       "date": "2026-03",
       "url": "https://www.sec.gov/Archives/edgar/data/37996/000155278126000164/e26003_f-def14a.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "fundacion-1890-record",
@@ -1000,7 +3128,7 @@
       "date": "2025-06-09",
       "url": "https://www.diariodesevilla.es/sevillafc/fundacion-1890-nueva-cara-solidaria-sevilla-fc-poligono-sur_0_2004112018.html"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "zhejiang-geely-holding-group-record",
@@ -1014,7 +3142,7 @@
       "date": "2026-03",
       "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0318/2026031800309.pdf"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "procter-and-gamble-record",
@@ -1028,7 +3156,7 @@
       "date": "2026",
       "url": "https://us.pg.com/brands/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "alphabet-inc-record",
@@ -1042,7 +3170,7 @@
       "date": "2026",
       "url": "https://about.google/company-info/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "gree-group-zhuhai-sasac-record",
@@ -1056,7 +3184,7 @@
       "date": "2024-06-08",
       "url": "http://static.cninfo.com.cn/finalpage/2024-06-08/1220300050.PDF"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "bain-capital-record",
@@ -1070,7 +3198,7 @@
       "date": "2023-12-14",
       "url": "https://guidehouse.com/news/corporate-news/2023/guidehouse-completes-transaction-with-bain-capital"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "hinduja-group-record",
@@ -1084,7 +3212,7 @@
       "date": "2026",
       "url": "https://www.gulfoilltd.com/about-us"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "halo-lifestyle-llc-record",
@@ -1098,7 +3226,7 @@
       "date": "2025",
       "url": "https://www.preqin.com/data/profile/asset/halo-hydration/624618"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "hansemerkur-krankenversicherung-ag-record",
@@ -1112,7 +3240,7 @@
       "date": "2025",
       "url": "https://vertriebskarriere.hansemerkur.de/das-unternehmen/zahlen-fakten"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "herbalife-ltd-record",
@@ -1126,7 +3254,7 @@
       "date": "2016-07-15",
       "url": "https://www.ftc.gov/news-events/news/press-releases/2016/07/herbalife-will-restructure-its-multi-level-marketing-operations-pay-200-million-consumer-redress"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "hibob-record",
@@ -1140,7 +3268,7 @@
       "date": "2026",
       "url": "https://www.hibob.com/about/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "honda-motor-co-ltd-record",
@@ -1154,7 +3282,7 @@
       "date": "2026-06-18",
       "url": "https://www.sec.gov/Archives/edgar/data/715153/000119312526274991/d116494d20f.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "hp-inc-record",
@@ -1168,7 +3296,7 @@
       "date": "2025-12-10",
       "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721725000071/hpq-20251031.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "ursapharm-arzneimittel-gmbh-record",
@@ -1182,7 +3310,7 @@
       "date": "2024-04-08",
       "url": "https://ursapharm.de/en/press/company-profile/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "ifs-ab-record",
@@ -1196,7 +3324,7 @@
       "date": "2025-04-09",
       "url": "https://mb.cision.com/Main/87/4133272/3378631.pdf"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "recruit-holdings-record",
@@ -1210,7 +3338,7 @@
       "date": "2026",
       "url": "https://recruit-holdings.com/en/about/group"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "ineos-group-limited-record",
@@ -1224,7 +3352,7 @@
       "date": "2026",
       "url": "https://www.ineos.com/about/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "friuli-venezia-giulia-region-record",
@@ -1238,7 +3366,7 @@
       "date": "2026-03-13",
       "url": "https://www.udinese.it/news/club/io-sono-friuli-venezia-giulia-renews-udinese-shirt-sponsorship-deal-until-202829"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "stellantis-nv-record",
@@ -1252,7 +3380,7 @@
       "date": "2026-02-26",
       "url": "https://www.sec.gov/Archives/edgar/data/1605484/000160548426000021/stellantis-20251231.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "suntory-holdings-record",
@@ -1266,7 +3394,7 @@
       "date": "2024-04-30",
       "url": "https://www.suntoryglobalspirits.com/news/beam-suntory-rebrands-suntory-global-spirits"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "uney-gmbh-record",
@@ -1280,7 +3408,7 @@
       "date": "2026-04-03",
       "url": "https://kchat.com/en/privacy-policy"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "knox-hydrate-pty-ltd-record",
@@ -1294,7 +3422,7 @@
       "date": "2026-04-20",
       "url": "https://capeargus.co.za/sport/mma/2026-04-20-ufc-africa-and-newcastle-united-knox-hydration-working-to-bring-global-giants-to-sa"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "profine-gmbh-record",
@@ -1308,7 +3436,7 @@
       "date": "2024-10-07",
       "url": "https://www.koemmerling.com/en/news-and-media/press/news/profine-gmbh-has-a-new-owner/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "grupo-saltoki-record",
@@ -1322,7 +3450,7 @@
       "date": "2023-02-10",
       "url": "https://www.saltoki.com/blog/kosner-climatizacion-patrocinador-osasuna"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "payward-record",
@@ -1336,7 +3464,7 @@
       "date": "2022-11-28",
       "url": "https://ofac.treasury.gov/system/files/126/20221128_kraken.pdf"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "kutxabank-sa-record",
@@ -1350,7 +3478,7 @@
       "date": "2024-06-30",
       "url": "https://www.kutxabank.eus/cs/Satellite?blobcol=urldata&blobheadername1=Expires&blobheadervalue4=inline%3B++filename%3D%22Inf+Semestral+KB+consol+30-06-2024_EN.PDF%22"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "state-of-baden-wuerttemberg-record",
@@ -1364,7 +3492,7 @@
       "date": "1998 (as amended)",
       "url": "https://www.lbbw.de/rechts-und-kundeninformationen/ordinance_of_landesbank_baden_wuerttemberg_en_89p7ho77b_m.pdf"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "lenovo-group-ltd-record",
@@ -1378,7 +3506,7 @@
       "date": "2024-04-25",
       "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2024/0425/2024042500436.pdf"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "sgam-spa-record",
@@ -1392,7 +3520,7 @@
       "date": "2026",
       "url": "https://www.rdeditore.it/it/100ecc8aziende/acqua-lete/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "haufe-group-se-record",
@@ -1406,7 +3534,7 @@
       "date": "2024",
       "url": "https://www.lexware.de/fileadmin/pressematerial/factsheet_lexware_2024.pdf"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "libertex-group-record",
@@ -1420,7 +3548,7 @@
       "date": "2022-11-28",
       "url": "https://fxnewsgroup.com/forex-news/retail-forex/libertex-official-statement-on-passing-of-chairman-viacheslav-taran/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "mapei-spa-record",
@@ -1434,7 +3562,7 @@
       "date": "2026",
       "url": "https://www.mapei.com/it/en/about-us/mapei-in-italy"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "marex-group-plc-record",
@@ -1448,7 +3576,7 @@
       "date": "2024-06",
       "url": "https://www.marex.com/investors"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "mastercard-inc-record",
@@ -1462,7 +3590,7 @@
       "date": "2026-02-11",
       "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/ma-20251231.pdf"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "matthaei-gruppe-record",
@@ -1476,7 +3604,7 @@
       "date": "2023-02-10",
       "url": "https://www.matthaei.de/news/2023/matth%C3%A4i-wird-neuer-haupt-und-trikotsponsor-des-sv-werder-41657"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "yildiz-holding-record",
@@ -1490,7 +3618,7 @@
       "date": "2026",
       "url": "https://www.pladisglobal.com/about-us/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "university-of-texas-system-record",
@@ -1504,7 +3632,7 @@
       "date": "2026",
       "url": "https://www.mdanderson.org/about-md-anderson.html"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "mediacom-communications-corp-record",
@@ -1518,7 +3646,7 @@
       "date": "2026-08-11",
       "url": "https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M614/K481/614481300.PDF"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "bon-secours-mercy-health-record",
@@ -1532,7 +3660,7 @@
       "date": "2026",
       "url": "https://www.mercy.com/about-us/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "microsoft-corporation-record",
@@ -1546,7 +3674,7 @@
       "date": "2026-07-29",
       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "mk-sports-news-record",
@@ -1560,7 +3688,7 @@
       "date": "2026-07",
       "url": "https://deportivoalaves.com/noticias/el-patrocinador-principal-del-deportivo-alaves-renueva-su-marca-para-la-proxima-temporada"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "exxon-mobil-corporation-record",
@@ -1574,7 +3702,7 @@
       "date": "2026-02-18",
       "url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "monzo-bank-limited-record",
@@ -1588,7 +3716,7 @@
       "date": "2026",
       "url": "https://monzo.com/investor-information"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "tek-fox-ltd-record",
@@ -1602,7 +3730,7 @@
       "date": "2026",
       "url": "https://mrq.com/privacy-policy"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "msc-group-aponte-family-record",
@@ -1616,7 +3744,7 @@
       "date": "2026",
       "url": "https://www.msc.com/en/about-us"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "nationwide-mutual-insurance-company-record",
@@ -1630,7 +3758,7 @@
       "date": "2026-06-25",
       "url": "https://www.prnewswire.com/news-releases/nationwide-joins-columbus-crew-ownership-group-302810835.html"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "netapp-inc-record",
@@ -1644,7 +3772,7 @@
       "date": "2026-06-05",
       "url": "https://www.sec.gov/Archives/edgar/data/1002047/000119312526259683/ntap-20260424.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "carlyle-group-and-gic-record",
@@ -1658,7 +3786,7 @@
       "date": "2026-09",
       "url": "https://www.nouryon.com/company/investor-relations"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "oracle-corporation-record",
@@ -1672,7 +3800,7 @@
       "date": "2026-06-22",
       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/orcl-20260531.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "orlando-health-inc-record",
@@ -1686,7 +3814,7 @@
       "date": "2026-09",
       "url": "https://www.orlandohealth.com/about-us"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "pamesa-grupo-empresarial-record",
@@ -1700,7 +3828,7 @@
       "date": "2021-2024",
       "url": "https://www.pamesa.com/en/CORPORATIVO.html"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "sinochem-holdings-record",
@@ -1714,7 +3842,7 @@
       "date": "2026-08-03",
       "url": "https://www.european-rubber-journal.com/article/2099513/sinochem-completes-1bn-sale-of-pirelli-stake-to-czech-investor"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "ed-sheeran-record",
@@ -1728,7 +3856,7 @@
       "date": "2026-06",
       "url": "https://thekitman.co.uk/ipswich-town-reveal-2026-27-home-and-away-kits"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "eni-spa-record",
@@ -1742,7 +3870,7 @@
       "date": "2026-03-19",
       "url": "https://www.eni.com/en-IT/governance/shareholding-structure.html"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "blockratize-inc-record",
@@ -1756,7 +3884,7 @@
       "date": "2025-10-07",
       "url": "https://ir.theice.com/press/news-details/2025/ICE-Announces-Strategic-Investment-in-Polymarket/default.aspx"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "providence-health-system-record",
@@ -1770,7 +3898,7 @@
       "date": "2023-01-20",
       "url": "https://www.soundersfc.com/news/sounders-fc-and-providence-agree-to-unprecedented-community-focused-partnership"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "axpo-holding-ag-record",
@@ -1784,7 +3912,7 @@
       "date": "2026-09",
       "url": "https://axpo.com/group/en/about-us/axpo-group/owners.html"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "anta-sports-products-record",
@@ -1798,7 +3926,7 @@
       "date": "2026-01-27",
       "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0127/2026012700061.pdf"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "nestle-sa-record",
@@ -1812,7 +3940,7 @@
       "date": "2026-02",
       "url": "https://www.nestle.com/sites/default/files/2026-02/annual-review-2025-en.pdf"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "government-of-qatar-record",
@@ -1826,7 +3954,7 @@
       "date": "2022-03 / 2022-11",
       "url": "https://www.qatarairways.com/content/dam/documents/annual-reports/2022/financial-statement-en.pdf"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "state-of-qatar-qia-record",
@@ -1840,7 +3968,7 @@
       "date": "2026-09",
       "url": "https://www.qia.qa/en/Portfolio/Pages/default.aspx"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "qualcomm-incorporated-record",
@@ -1854,7 +3982,7 @@
       "date": "2025-11-05",
       "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/qcom-20250928.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "raisin-gmbh-record",
@@ -1868,7 +3996,7 @@
       "date": "2026",
       "url": "https://fintech-consult.com/europe/germany/fintech/raisin/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "mateschitz-yoovidhya-families-record",
@@ -1882,7 +4010,7 @@
       "date": "2022-11-04",
       "url": "https://www.reuters.com/business/retail-consumer/trio-lead-energy-drinks-giant-red-bull-after-co-founders-death-2022-11-04/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "renasant-corporation-record",
@@ -1896,7 +4024,7 @@
       "date": "2026-03-02",
       "url": "https://www.sec.gov/Archives/edgar/data/715072/000071507226000017/rnst-20251231.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "reuter-gruppe-record",
@@ -1910,7 +4038,7 @@
       "date": "2024",
       "url": "https://www.reuter.com/company/about-us/our-history.html"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "rewe-group-record",
@@ -1924,7 +4052,7 @@
       "date": "2024-07",
       "url": "https://www.rewe-group.com/en/cooperative/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "royal-caribbean-cruises-ltd-record",
@@ -1938,7 +4066,7 @@
       "date": "2026-02-11",
       "url": "https://www.sec.gov/Archives/edgar/data/884887/000088488726000007/rcl-20251231.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "3m-company-record",
@@ -1952,7 +4080,7 @@
       "date": "2026-02-03",
       "url": "https://www.sec.gov/Archives/edgar/data/66740/000006674026000014/mmm-20251231.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "diputacion-de-malaga-record",
@@ -1966,7 +4094,7 @@
       "date": "2026",
       "url": "https://www.saboramalaga.es/en/news/blog/sabor-a-malaga-proud-official-sponsor-of-malaga-cf-since-2021-p54384"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "sap-se-record",
@@ -1980,7 +4108,7 @@
       "date": "2026",
       "url": "https://www.sap.com/investors/en/stock/basic-data.html"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "saputo-inc-record",
@@ -1994,7 +4122,7 @@
       "date": "2024-09-30",
       "url": "https://www.lacaisse.com/en/news/pressreleases/cdpq-increases-its-stake-saputo-inc"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "regione-autonoma-della-sardegna-record",
@@ -2008,7 +4136,7 @@
       "date": "2026-09",
       "url": "https://www.regione.sardegna.it/ricerca/assessorato-del-turismo-artigianato-e-commercio-527"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "intermountain-health-record",
@@ -2022,7 +4150,7 @@
       "date": "2026-09",
       "url": "https://selecthealth.org/about-us"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "sesame-hr-sl-record",
@@ -2036,7 +4164,7 @@
       "date": "2024-05-08",
       "url": "https://psgequity.com/news/sesame-closes-new-investment-round-of-23m-to-continue-its-investment-in-ai-and-accelerate-international-expansion"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "natural-nine-bv-record",
@@ -2050,7 +4178,7 @@
       "date": "2026-09",
       "url": "https://shuffle.com/info/terms"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "siemens-ag-record",
@@ -2064,7 +4192,7 @@
       "date": "2025-12",
       "url": "https://www.siemens.com/siemensreport"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "qualcomm-record",
@@ -2078,7 +4206,7 @@
       "date": "2026",
       "url": "https://www.qualcomm.com/company"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "spotify-technology-sa-record",
@@ -2092,7 +4220,7 @@
       "date": "2026",
       "url": "https://www.sec.gov/cgi-bin/own-disp?CIK=0001639920&action=getissuer&sortid=type-of-owner-DESC"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "easygo-record",
@@ -2106,7 +4234,7 @@
       "date": "2026-09",
       "url": "https://stake.com/policies/terms"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "standard-chartered-plc-record",
@@ -2120,7 +4248,7 @@
       "date": "2012-12-10 / 2019-04",
       "url": "https://www.justice.gov/archives/opa/pr/standard-chartered-bank-agrees-forfeit-227-million-illegal-transactions-iran-sudan-libya-and"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "sumup-ltd-record",
@@ -2134,7 +4262,7 @@
       "date": "2022-06-23",
       "url": "https://www.sumup.com/en-ie/press/global-fintech-sumup-raises-590-million-euros"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "suzuki-motor-corporation-record",
@@ -2148,7 +4276,7 @@
       "date": "2025-06",
       "url": "https://www.globalsuzuki.com/ir/library/asr/pdf/asr_fy2025.pdf"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "lvmh-record",
@@ -2162,7 +4290,7 @@
       "date": "2026-09",
       "url": "https://www.lvmh.com/en/our-maisons/watches-jewelry"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "target-corporation-record",
@@ -2176,7 +4304,7 @@
       "date": "2026-03-11",
       "url": "https://www.sec.gov/Archives/edgar/data/27419/000002741926000016/tgt-20260131.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "teamviewer-se-record",
@@ -2190,7 +4318,7 @@
       "date": "2026-03",
       "url": "https://ir.teamviewer.com/media/document/d9e92a6b-c9ee-44c2-ac79-55c87db52ca1/assets/TeamViewer_Geschaeftsbericht_2025.pdf"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "tecnocasa-holding-spa-record",
@@ -2204,7 +4332,7 @@
       "date": "2026",
       "url": "https://www.tecnocasagroup.com/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "telus-corporation-record",
@@ -2218,7 +4346,7 @@
       "date": "2026-02-12",
       "url": "https://www.sec.gov/Archives/edgar/data/868675/000110465926013854/tu-20251231x40f.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "temporal-technologies-record",
@@ -2232,7 +4360,7 @@
       "date": "2026",
       "url": "https://425business.com/news/temporal-raises-550m-in-series-e-company-valued-at-12-55b/article_3f5859c3-e9d8-4cc7-816f-6616745a60dc.html"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "apollo-global-management-record",
@@ -2246,7 +4374,7 @@
       "date": "2022-11-17",
       "url": "https://apollo.com/insights-news/pressreleases/2022/11/apollo-funds-complete-acquisition-of-tenneco-134627289"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "toyota-motor-corporation-record",
@@ -2260,7 +4388,7 @@
       "date": "2026-06-10",
       "url": "https://www.sec.gov/Archives/edgar/data/1094517/000119312526264811/d101983d20f.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "tm-grupo-inmobiliario-record",
@@ -2274,7 +4402,7 @@
       "date": "2026",
       "url": "https://www.tmgrupoinmobiliario.com/en/about-us"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "jasper-white-record",
@@ -2288,7 +4416,7 @@
       "date": "2025",
       "url": "https://fxnewsgroup.com/forex-news/retail-forex/exclusive-trade-nation-revenues-rise-17-in-2025-to-25m-following-ceo-change"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "turkiye-wealth-fund-record",
@@ -2302,7 +4430,7 @@
       "date": "2025 / 2026",
       "url": "https://tvf.com.tr/en/investor-relations/reports"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "ubs-group-ag-record",
@@ -2316,7 +4444,7 @@
       "date": "2026-03-09",
       "url": "https://www.sec.gov/Archives/edgar/data/1610520/000161052026000023/ubs-20251231.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "uchealth-record",
@@ -2330,7 +4458,7 @@
       "date": "2026-09",
       "url": "https://www.uchealth.org/newsroom/about-uchealth/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "unicredit-spa-record",
@@ -2344,7 +4472,7 @@
       "date": "2026-09",
       "url": "https://unicreditgroup.eu/en/investors/equity-investors/shareholders-structure.html"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "uralchem-record",
@@ -2358,7 +4486,7 @@
       "date": "2021-10-05 / 2022",
       "url": "https://www.fitchratings.com/research/corporate-finance/fitch-revises-uralkali-outlook-to-negative-affirms-at-bb-05-10-2021"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "saudi-aramco-record",
@@ -2372,7 +4500,7 @@
       "date": "2023-03-02",
       "url": "https://www.aramco.com/en/news-media/news/2023/aramco-completes-acquisition-of-valvoline"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "visa-inc-record",
@@ -2386,7 +4514,7 @@
       "date": "2025-11-06",
       "url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316125000089/v-20250930.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "government-of-saudi-arabia-record",
@@ -2400,7 +4528,7 @@
       "date": "2020-03 / 2026",
       "url": "https://www.visitsaudi.com/en/about-us"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "discovery-limited-record",
@@ -2414,7 +4542,7 @@
       "date": "2025",
       "url": "https://www.discovery.co.za/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "vodafone-group-plc-record",
@@ -2428,7 +4556,7 @@
       "date": "2026-07-10 / 2026-H1",
       "url": "https://www.vodafone.com/news/newsroom/corporate-and-financial/response-to-announcement"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "wwk-lebensversicherung-ag-record",
@@ -2442,7 +4570,7 @@
       "date": "2026",
       "url": "https://boleron.eu/en/germany/insurer/wwk"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "yeti-holdings-inc-record",
@@ -2456,7 +4584,7 @@
       "date": "2026-02-27",
       "url": "https://www.sec.gov/Archives/edgar/data/1670592/000167059226000013/yeti-20260103.htm"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "gov-saudi-arabia-record",
@@ -2470,7 +4598,7 @@
       "date": "2025-07-16",
       "url": "https://www.amnesty.org/en/latest/news/2025/07/saudi-arabia-escalation-executions-foreign-nationals-drug-related-offences/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "pif-record",
@@ -2484,7 +4612,7 @@
       "date": "2026-09-24",
       "url": "https://www.agbi.com/companies/maaden-company/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "gov-qatar-record",
@@ -2498,7 +4626,7 @@
       "date": "2026-01-15",
       "url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/qatar/report-qatar"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "gov-malaysia-record",
@@ -2512,7 +4640,7 @@
       "date": "2026-01-15",
       "url": "https://hrw.org/world-report/2026/country-chapters/malaysia"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "mubadala-record",
@@ -2526,7 +4654,7 @@
       "date": "2025-03-04",
       "url": "https://www.hrw.org/news/2025/03/04/uae-unfair-mass-trial-convictions-upheld"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "okx-group-record",
@@ -2540,7 +4668,7 @@
       "date": "2025-02-24",
       "url": "https://www.justice.gov/usao-sdny/pr/okx-pleads-guilty-violating-us-anti-money-laundering-laws-and-agrees-pay-penalties"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "gate-group-record",
@@ -2554,7 +4682,7 @@
       "date": "2026-09-24",
       "url": "https://www.gate.com/gategroup/legal/licenses"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "zoomex-record",
@@ -2568,7 +4696,7 @@
       "date": "2026-09-24",
       "url": "https://www.zoomex.com/en/aboutus"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "coinbase-global-record",
@@ -2582,7 +4710,7 @@
       "date": "2025-02-27",
       "url": "https://www.sec.gov/newsroom/press-releases/2025-47"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "core-scientific-record",
@@ -2596,7 +4724,7 @@
       "date": "2026-09-24",
       "url": "https://www.nasdaq.com/market-activity/stocks/corz"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "super-group-record",
@@ -2610,7 +4738,7 @@
       "date": "2026-09-24",
       "url": "https://supergroup.com/about/our-strategy/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "block-inc-record",
@@ -2624,7 +4752,7 @@
       "date": "2026-09-24",
       "url": "https://investopedia.com/square-top-shareholders-5094562"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "revolut-group-holdings-record",
@@ -2638,7 +4766,7 @@
       "date": "2026-09-24",
       "url": "https://find-and-update.company-information.service.gov.uk/company/08804411/persons-with-significant-control"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "international-capital-markets-record",
@@ -2652,7 +4780,7 @@
       "date": "2026-09-24",
       "url": "https://www.icmarkets.com.au/en/company/about-us"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "boon-rawd-brewery-record",
@@ -2666,7 +4794,7 @@
       "date": "2026-09-24",
       "url": "https://www.boonrawd.co.th/index.php/en/about/profile"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "america-movil-record",
@@ -2680,7 +4808,7 @@
       "date": "2026-04-28",
       "url": "https://www.americamovil.com/English/investors/reports-and-filings/annual-reports/default.aspx"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "twg-global-record",
@@ -2694,7 +4822,7 @@
       "date": "2026-09-24",
       "url": "https://motorsport.com/f1/news/cadillac-f1-under-scrutiny-after-lawsuit-against-mark-walter-and-twg-global/10856796"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "maple-invest-record",
@@ -2708,7 +4836,7 @@
       "date": "2026-09-24",
       "url": "https://bloomberg.com/billionaires/profiles/hussain-a-sajwani"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "asahi-group-holdings-record",
@@ -2722,7 +4850,7 @@
       "date": "2017-03-01",
       "url": "https://www.asahigroup-holdings.com/ir_library_file/file/2016_yend_factbook.pdf"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "seminole-tribe-of-florida-record",
@@ -2736,7 +4864,7 @@
       "date": "2026-09-24",
       "url": "https://www.hardrock.com/corporate/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "mgm-resorts-record",
@@ -2750,7 +4878,7 @@
       "date": "2026-09-24",
       "url": "https://investors.mgmresorts.com/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "hugo-boss-ag-record",
@@ -2764,7 +4892,7 @@
       "date": "2026-09-24",
       "url": "https://group.hugoboss.com/en/investors/share/shareholder-structure"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "essilorluxottica-record",
@@ -2778,7 +4906,7 @@
       "date": "2026-09-24",
       "url": "https://en.wikipedia.org/wiki/EssilorLuxottica"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "pvh-corp-record",
@@ -2792,7 +4920,7 @@
       "date": "2026-09-24",
       "url": "https://tradingkey.com/markets/stocks/nasdaq-pvh/company"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "rolex-sa-record",
@@ -2806,7 +4934,7 @@
       "date": "2024-04-01",
       "url": "https://www.nzz.ch/english/rolex-earns-billions-every-year-where-does-the-money-go-ld.1754264"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "salesforce-inc-record",
@@ -2820,7 +4948,7 @@
       "date": "2026-09-24",
       "url": "https://investor.salesforce.com/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "ibm-corp-record",
@@ -2834,7 +4962,7 @@
       "date": "2026-09-24",
       "url": "https://www.ibm.com/investor"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "shell-plc-record",
@@ -2848,7 +4976,7 @@
       "date": "2026-07-01",
       "url": "https://www.amnesty.org/en/latest/campaigns/2026/07/shell-oil-spills-and-human-rights-in-nigeria/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "bp-plc-record",
@@ -2862,7 +4990,7 @@
       "date": "2015-10-05",
       "url": "https://www.justice.gov/archives/opa/pr/us-and-five-gulf-states-reach-historic-settlement-bp-resolve-civil-lawsuit-over-deepwater"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "komatsu-ltd-record",
@@ -2876,7 +5004,7 @@
       "date": "2026-09-24",
       "url": "https://www.komatsu.jp/en/-/media/home/ir/shareholder/stockinfo/share_holder_en.pdf"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "att-inc-record",
@@ -2890,6 +5018,6 @@
       "date": "2026-09-24",
       "url": "https://investors.att.com/resources/faqs"
     },
-    "reviewed": false
+    "reviewed": true
   }
 ]

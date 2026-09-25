@@ -8,8 +8,42 @@
     "x": "@miamiheat",
     "instagram": "@MiamiHeat"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "kaseya",
+      "name": "Kaseya",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "kaseya-owner",
+      "owner": "Kaseya",
+      "verdict": null,
+      "source": {
+        "name": "Miami-Dade County",
+        "date": "2023-04-04",
+        "url": "https://www.miamidade.gov/global/release.page?Mduid_release=rel1680639570445939"
+      }
+    },
+    {
+      "id": "robinhood",
+      "name": "Robinhood",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "robinhood-owner",
+      "owner": "Robinhood",
+      "verdict": null,
+      "source": {
+        "name": "Miami HEAT (nba.com/heat)",
+        "date": "2024-09-24",
+        "url": "https://www.nba.com/heat/news/heat-and-robinhood-announce-jersey-patch-partnership"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "kaseya-owner",
+    "robinhood-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

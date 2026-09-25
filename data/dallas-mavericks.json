@@ -8,8 +8,42 @@
     "x": "@dallasmavs",
     "instagram": "@dallasmavs"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "american-airlines",
+      "name": "American Airlines",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "american-airlines-owner",
+      "owner": "American Airlines",
+      "verdict": null,
+      "source": {
+        "name": "RetroSeasons",
+        "date": "1999-03-18",
+        "url": "https://www.retroseasons.com/stadiums/american-airlines-center/history/bio"
+      }
+    },
+    {
+      "id": "jpmorganchase",
+      "name": "JPMorganChase (Chase)",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "jpmorganchase-owner",
+      "owner": "JPMorganChase (Chase)",
+      "verdict": null,
+      "source": {
+        "name": "JPMorgan Chase Newsroom",
+        "date": "2026-07-08",
+        "url": "https://www.jpmorganchase.com/newsroom/press-releases/2026/chasedallasmavs"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "american-airlines-owner",
+    "jpmorganchase-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

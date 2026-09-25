@@ -10,8 +10,26 @@
     "x": "@raiders",
     "instagram": "@raiders"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "allegiant-travel-company",
+      "name": "Allegiant Travel Company",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "allegiant-travel-company-owner",
+      "owner": "Allegiant Travel Company",
+      "verdict": null,
+      "source": {
+        "name": "Las Vegas Raiders",
+        "date": "2019-08-05",
+        "url": "https://www.raiders.com/news/raiders-allegiant-agree-on-naming-rights-deal-for-las-vegas-stadium"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "allegiant-travel-company-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

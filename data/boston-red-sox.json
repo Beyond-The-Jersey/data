@@ -10,8 +10,26 @@
     "x": "@RedSox",
     "instagram": "@redsox"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "massmutual",
+      "name": "MassMutual",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "massmutual-owner",
+      "owner": "MassMutual",
+      "verdict": null,
+      "source": {
+        "name": "MLB.com",
+        "date": "2022-11-30",
+        "url": "https://www.mlb.com/news/red-sox-jersey-patch-massmutual"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "massmutual-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

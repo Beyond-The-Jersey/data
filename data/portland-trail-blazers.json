@@ -8,8 +8,26 @@
     "x": "@trailblazers",
     "instagram": "@trailblazers"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "moda-health",
+      "name": "Moda Health",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "moda-health-owner",
+      "owner": "Moda Health",
+      "verdict": null,
+      "source": {
+        "name": "Portland Trail Blazers (NBA.com)",
+        "date": "2013-08-13",
+        "url": "https://www.nba.com/blazers/rose-garden-renamed-moda-center"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "moda-health-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }

@@ -9,8 +9,42 @@
     "x": "@Chargers",
     "instagram": "@chargers"
   },
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "sofi",
+      "name": "SoFi",
+      "placement": "stadium",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "sofi-owner",
+      "owner": "SoFi",
+      "verdict": null,
+      "source": {
+        "name": "KSL.com (AP)",
+        "date": "2019-09-15",
+        "url": "https://ksl.com/article/46638813/sofi-stadium-naming-rights-sold-for-los-angeles-new-arena"
+      }
+    },
+    {
+      "id": "ucla-health",
+      "name": "UCLA Health",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "ucla-health-owner",
+      "owner": "UCLA Health",
+      "verdict": null,
+      "source": {
+        "name": "Zoomph (2026 NFL jersey patch guide)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors"
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "sofi-owner",
+    "ucla-health-owner"
+  ],
   "lastUpdated": "2026-09-24"
 }
