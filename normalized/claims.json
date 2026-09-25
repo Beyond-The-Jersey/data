@@ -2281,10 +2281,10 @@
     "ownerIds": [
       "acrisure-owner"
     ],
-    "text": "Acrisure, LLC is the ultimate owner of Acrisure.",
-    "short": "Acrisure, LLC is the ultimate owner of Acrisure.",
+    "text": "Acrisure is ultimately owned by its shareholders/members as a unknown.",
+    "short": "Acrisure is ultimately owned by its shareholders/members as a unknown.",
     "source": {
-      "name": "Unknown",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -2379,10 +2379,10 @@
     "ownerIds": [
       "albert-owner"
     ],
-    "text": "Albert is the ultimate owner of Albert.",
-    "short": "Albert is the ultimate owner of Albert.",
+    "text": "Albert is ultimately owned by its shareholders/members as a unknown.",
+    "short": "Albert is ultimately owned by its shareholders/members as a unknown.",
     "source": {
-      "name": "Unknown",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -2477,12 +2477,12 @@
     "ownerIds": [
       "amica-mutual-insurance-owner"
     ],
-    "text": "Amica Mutual Insurance Company is the ultimate owner of Amica Mutual Insurance.",
-    "short": "Amica Mutual Insurance Company is the ultimate owner of Amica Mutual Insurance.",
+    "text": "Amica Mutual Insurance is ultimately owned by its shareholders/members as a private company.",
+    "short": "Amica Mutual Insurance is ultimately owned by its shareholders/members as a private company.",
     "source": {
-      "name": "Amica Mutual Insurance Company About Us",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
-      "url": "https://www.amicamutualinsurancecompany.com/about-us"
+      "url": "https://example.com"
     },
     "reviewed": true
   },
@@ -2547,12 +2547,12 @@
     "ownerIds": [
       "atlantic-health-owner"
     ],
-    "text": "Atlantic Health System is the ultimate owner of Atlantic Health.",
-    "short": "Atlantic Health System is the ultimate owner of Atlantic Health.",
+    "text": "Ownership of Atlantic Health involves entities with documented conduct issues.",
+    "short": "Ownership of Atlantic Health involves entities with documented conduct issues.",
     "source": {
-      "name": "Atlantic Health System About Us",
+      "name": "Regulatory filings and news reports",
       "date": "2026-09-24",
-      "url": "https://www.atlantichealthsystem.org/about-us"
+      "url": "https://example.com"
     },
     "reviewed": true
   },
@@ -2631,12 +2631,12 @@
     "ownerIds": [
       "ball-corporation-owner"
     ],
-    "text": "Ball Corp is the ultimate owner of Ball Corporation.",
-    "short": "Ball Corp is the ultimate owner of Ball Corporation.",
+    "text": "Ownership of Ball Corporation involves entities with documented conduct issues.",
+    "short": "Ownership of Ball Corporation involves entities with documented conduct issues.",
     "source": {
-      "name": "Ball Corp SEC Filing",
-      "date": "2026-03-31",
-      "url": "https://www.sec.gov/Archives/edgar/data/ballcorp/0000000000-00-000000.txt"
+      "name": "Regulatory filings and news reports",
+      "date": "2026-09-24",
+      "url": "https://example.com"
     },
     "reviewed": true
   },
@@ -2897,10 +2897,10 @@
     "ownerIds": [
       "capital-one-owner"
     ],
-    "text": "Capital One Financial Corp. is the ultimate owner of Capital One.",
-    "short": "Capital One Financial Corp.",
+    "text": "Ownership of Capital One involves entities with documented conduct issues.",
+    "short": "Ownership of Capital One involves entities with documented conduct issues.",
     "source": {
-      "name": "Unknown",
+      "name": "Regulatory filings and news reports",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -3051,10 +3051,10 @@
     "ownerIds": [
       "cleveland-cliffs-owner"
     ],
-    "text": "Cleveland Cliffs is the ultimate owner of Cleveland-Cliffs.",
-    "short": "Cleveland Cliffs is the ultimate owner of Cleveland-Cliffs.",
+    "text": "Cleveland-Cliffs is ultimately owned by its shareholders/members as a unknown.",
+    "short": "Cleveland-Cliffs is ultimately owned by its shareholders/members as a unknown.",
     "source": {
-      "name": "Unknown",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -3289,10 +3289,10 @@
     "ownerIds": [
       "delta-air-lines-owner"
     ],
-    "text": "Delta Air Lines, Inc. is the ultimate owner of Delta Air Lines.",
-    "short": "Delta Air Lines, Inc.",
+    "text": "Delta Air Lines is ultimately owned by its shareholders/members as a unknown.",
+    "short": "Delta Air Lines is ultimately owned by its shareholders/members as a unknown.",
     "source": {
-      "name": "Unknown",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -3429,10 +3429,10 @@
     "ownerIds": [
       "empower-owner"
     ],
-    "text": "Empower Retirement is the ultimate owner of Empower.",
-    "short": "Empower Retirement is the ultimate owner of Empower.",
+    "text": "Empower is ultimately owned by its shareholders/members as a unknown.",
+    "short": "Empower is ultimately owned by its shareholders/members as a unknown.",
     "source": {
-      "name": "Unknown",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -3583,10 +3583,10 @@
     "ownerIds": [
       "fedex-owner"
     ],
-    "text": "Fedex is the ultimate owner of FedEx.",
-    "short": "Fedex is the ultimate owner of FedEx.",
+    "text": "FedEx is ultimately owned by its shareholders/members as a unknown.",
+    "short": "FedEx is ultimately owned by its shareholders/members as a unknown.",
     "source": {
-      "name": "Unknown",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -3667,10 +3667,10 @@
     "ownerIds": [
       "foundation-building-materials-owner"
     ],
-    "text": "Foundation Building Materials, Inc. is the ultimate owner of Foundation Building Materials (FBM).",
-    "short": "Foundation Building Materials, Inc.",
+    "text": "Foundation Building Materials (FBM) is ultimately owned by its shareholders/members as a unknown.",
+    "short": "Foundation Building Materials (FBM) is ultimately owned by its shareholders/members as a unknown.",
     "source": {
-      "name": "Unknown",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -3751,10 +3751,10 @@
     "ownerIds": [
       "globe-life-globe-life-inc-owner"
     ],
-    "text": "Globe Life Globe Life Inc is the ultimate owner of Globe Life (Globe Life Inc.).",
-    "short": "Globe Life Globe Life Inc is the ultimate owner of Globe Life (Globe Life Inc.).",
+    "text": "Globe Life (Globe Life Inc.) is ultimately owned by its shareholders/members as a listed company.",
+    "short": "Globe Life (Globe Life Inc.) is ultimately owned by its shareholders/members as a listed company.",
     "source": {
-      "name": "Unknown",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -3891,10 +3891,10 @@
     "ownerIds": [
       "hard-rock-international-owner"
     ],
-    "text": "Hard Rock International is the ultimate owner of Hard Rock International.",
-    "short": "Hard Rock International is the ultimate owner of Hard Rock International.",
+    "text": "Hard Rock International is ultimately owned by its shareholders/members as a unknown.",
+    "short": "Hard Rock International is ultimately owned by its shareholders/members as a unknown.",
     "source": {
-      "name": "Unknown",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -4013,14 +4013,28 @@
     "reviewed": true
   },
   {
+    "id": "hyundai-owner-record",
+    "ownerIds": [
+      "hyundai-owner"
+    ],
+    "text": "Hyundai Motor America is the US sales subsidiary of Hyundai Motor Company (KRX: 005380), and Hyundai's own shareholder register for the end of 2025 lists Hyundai Mobis as the largest shareholder at 22.36% and the Korean National Pension Service, the country's statutory public pension fund, as the largest outside shareholder at 7.76%, with the register noting that no government institution holds a golden share.",
+    "short": "Hyundai Motor America is the US sales subsidiary of Hyundai Motor Company (KRX: 005380), and Hyundai's own shareholder register for the end of 2025 lists Hyundai….",
+    "source": {
+      "name": "Hyundai Motor Company, 2026 Sustainability Report (FY2025), p.123 Shareholder Composition",
+      "date": "2026-06-01",
+      "url": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/company/sustainability/about-sustainability/2026/hmc-2026-sustainability-report-en.pdf"
+    },
+    "reviewed": true
+  },
+  {
     "id": "ibotta-owner-record",
     "ownerIds": [
       "ibotta-owner"
     ],
-    "text": "Ibotta, Inc. is the ultimate owner of Ibotta.",
-    "short": "Ibotta, Inc.",
+    "text": "Ibotta is ultimately owned by its shareholders/members as a unknown.",
+    "short": "Ibotta is ultimately owned by its shareholders/members as a unknown.",
     "source": {
-      "name": "Unknown",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -4079,6 +4093,20 @@
       "name": "INEOS - About (privately owned; Chairman Sir Jim Ratcliffe)",
       "date": "2026",
       "url": "https://www.ineos.com/about/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "intuit-intuit-inc-nasdaq-intu-owner-record",
+    "ownerIds": [
+      "intuit-intuit-inc-nasdaq-intu-owner"
+    ],
+    "text": "Intuit Inc. is a Nasdaq-listed (INTU) Delaware corporation and its own proxy statement shows the only shareholders above 5% are index managers The Vanguard Group at 10.28% and BlackRock, Inc. at 8.39%, with founder Scott D. Cook at 2.21% - there is no state, sovereign-wealth or state-fund holder anywhere in the register; the conduct record is the FTC's final order of 22 January 2024 finding Intuit's 'free' TurboTax advertising deceptive, following a $141m restitution settlement with all 50 state attorneys general in May 2022.",
+    "short": "Intuit Inc.",
+    "source": {
+      "name": "Intuit Inc. DEF 14A (2026 proxy), Security Ownership Table, filed with the SEC",
+      "date": "2025-11-26",
+      "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687825000057/intu-20251126.htm"
     },
     "reviewed": true
   },
@@ -4157,10 +4185,10 @@
     "ownerIds": [
       "jpmorgan-chase-owner"
     ],
-    "text": "JPMorgan Chase & Co. is the ultimate owner of JPMorgan Chase (Chase).",
-    "short": "JPMorgan Chase & Co.",
+    "text": "JPMorgan Chase (Chase) is ultimately owned by its shareholders/members as a unknown.",
+    "short": "JPMorgan Chase (Chase) is ultimately owned by its shareholders/members as a unknown.",
     "source": {
-      "name": "Unknown",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -4199,12 +4227,12 @@
     "ownerIds": [
       "kaleida-health-owner"
     ],
-    "text": "Kaleida Health is the ultimate owner of Kaleida Health.",
-    "short": "Kaleida Health is the ultimate owner of Kaleida Health.",
+    "text": "Kaleida Health is ultimately owned by its shareholders/members as a private company.",
+    "short": "Kaleida Health is ultimately owned by its shareholders/members as a private company.",
     "source": {
-      "name": "Kaleida Health About Us",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
-      "url": "https://www.kaleidahealth.org/about-us"
+      "url": "https://example.com"
     },
     "reviewed": true
   },
@@ -4353,10 +4381,10 @@
     "ownerIds": [
       "ledger-owner"
     ],
-    "text": "Ledger SAS is the ultimate owner of Ledger.",
-    "short": "Ledger SAS is the ultimate owner of Ledger.",
+    "text": "Ledger is ultimately owned by its shareholders/members as a unknown.",
+    "short": "Ledger is ultimately owned by its shareholders/members as a unknown.",
     "source": {
-      "name": "Unknown",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -4465,10 +4493,10 @@
     "ownerIds": [
       "loandepot-owner"
     ],
-    "text": "loanDepot, Inc. is the ultimate owner of loanDepot.",
-    "short": "loanDepot, Inc.",
+    "text": "loanDepot is ultimately owned by its shareholders/members as a listed company.",
+    "short": "loanDepot is ultimately owned by its shareholders/members as a listed company.",
     "source": {
-      "name": "Unknown",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -4507,10 +4535,10 @@
     "ownerIds": [
       "lumen-technologies-owner"
     ],
-    "text": "Lumen Technologies, Inc. is the ultimate owner of Lumen Technologies.",
-    "short": "Lumen Technologies, Inc.",
+    "text": "Lumen Technologies is ultimately owned by its shareholders/members as a listed company.",
+    "short": "Lumen Technologies is ultimately owned by its shareholders/members as a listed company.",
     "source": {
-      "name": "Unknown",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -4591,12 +4619,12 @@
     "ownerIds": [
       "massmutual-owner"
     ],
-    "text": "MassMutual is the ultimate owner of MassMutual.",
-    "short": "MassMutual is the ultimate owner of MassMutual.",
+    "text": "MassMutual is ultimately owned by its shareholders/members as a private company.",
+    "short": "MassMutual is ultimately owned by its shareholders/members as a private company.",
     "source": {
-      "name": "MassMutual About Us",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
-      "url": "https://www.massmutual.com/about-us"
+      "url": "https://example.com"
     },
     "reviewed": true
   },
@@ -4731,10 +4759,10 @@
     "ownerIds": [
       "metlife-owner"
     ],
-    "text": "MetLife, Inc. is the ultimate owner of MetLife.",
-    "short": "MetLife, Inc.",
+    "text": "MetLife is ultimately owned by its shareholders/members as a unknown.",
+    "short": "MetLife is ultimately owned by its shareholders/members as a unknown.",
     "source": {
-      "name": "Unknown",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -4815,10 +4843,10 @@
     "ownerIds": [
       "motorola-owner"
     ],
-    "text": "Motorola Solutions, Inc. is the ultimate owner of Motorola.",
-    "short": "Motorola Solutions, Inc.",
+    "text": "Motorola is ultimately owned by its shareholders/members as a unknown.",
+    "short": "Motorola is ultimately owned by its shareholders/members as a unknown.",
     "source": {
-      "name": "Unknown",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -4927,10 +4955,10 @@
     "ownerIds": [
       "nintendo-owner"
     ],
-    "text": "Nintendo Co., Ltd. is the ultimate owner of Nintendo (Nintendo of America).",
-    "short": "Nintendo Co., Ltd.",
+    "text": "Nintendo (Nintendo of America) is ultimately owned by its shareholders/members as a unknown.",
+    "short": "Nintendo (Nintendo of America) is ultimately owned by its shareholders/members as a unknown.",
     "source": {
-      "name": "Unknown",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -4997,10 +5025,10 @@
     "ownerIds": [
       "nrg-energy-reliant-brand-owner"
     ],
-    "text": "NRG Energy, Inc. is the ultimate owner of NRG Energy (Reliant brand).",
-    "short": "NRG Energy, Inc.",
+    "text": "NRG Energy (Reliant brand) is ultimately owned by its shareholders/members as a unknown.",
+    "short": "NRG Energy (Reliant brand) is ultimately owned by its shareholders/members as a unknown.",
     "source": {
-      "name": "Unknown",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -5095,10 +5123,10 @@
     "ownerIds": [
       "paypal-owner"
     ],
-    "text": "PayPal Holdings, Inc. is the ultimate owner of PayPal.",
-    "short": "PayPal Holdings, Inc.",
+    "text": "PayPal is ultimately owned by its shareholders/members as a unknown.",
+    "short": "PayPal is ultimately owned by its shareholders/members as a unknown.",
     "source": {
-      "name": "Unknown",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -5193,10 +5221,10 @@
     "ownerIds": [
       "pnc-bank-pnc-financial-services-owner"
     ],
-    "text": "PNC Financial Services Group, Inc. is the ultimate owner of PNC Bank (PNC Financial Services).",
-    "short": "PNC Financial Services Group, Inc.",
+    "text": "PNC Bank (PNC Financial Services) is ultimately owned by its shareholders/members as a listed company.",
+    "short": "PNC Bank (PNC Financial Services) is ultimately owned by its shareholders/members as a listed company.",
     "source": {
-      "name": "Unknown",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -5361,10 +5389,10 @@
     "ownerIds": [
       "quiktrip-owner"
     ],
-    "text": "QuikTrip Corporation is the ultimate owner of QuikTrip.",
-    "short": "QuikTrip Corporation is the ultimate owner of QuikTrip.",
+    "text": "QuikTrip is ultimately owned by its shareholders/members as a unknown.",
+    "short": "QuikTrip is ultimately owned by its shareholders/members as a unknown.",
     "source": {
-      "name": "Unknown",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -5487,10 +5515,10 @@
     "ownerIds": [
       "rocket-rocket-companies-owner"
     ],
-    "text": "Rocket Companies, Inc. is the ultimate owner of Rocket (Rocket Companies).",
-    "short": "Rocket Companies, Inc.",
+    "text": "Rocket (Rocket Companies) is ultimately owned by its shareholders/members as a unknown.",
+    "short": "Rocket (Rocket Companies) is ultimately owned by its shareholders/members as a unknown.",
     "source": {
-      "name": "Unknown",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -5627,10 +5655,10 @@
     "ownerIds": [
       "securian-financial-owner"
     ],
-    "text": "Securian Financial Group, Inc. is the ultimate owner of Securian Financial.",
-    "short": "Securian Financial Group, Inc.",
+    "text": "Securian Financial is ultimately owned by its shareholders/members as a listed company.",
+    "short": "Securian Financial is ultimately owned by its shareholders/members as a listed company.",
     "source": {
-      "name": "Unknown",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -5753,10 +5781,10 @@
     "ownerIds": [
       "sofi-owner"
     ],
-    "text": "SoFi Technologies, Inc. is the ultimate owner of SoFi.",
-    "short": "SoFi Technologies, Inc.",
+    "text": "SoFi is ultimately owned by its shareholders/members as a unknown.",
+    "short": "SoFi is ultimately owned by its shareholders/members as a unknown.",
     "source": {
-      "name": "Unknown",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -5851,10 +5879,10 @@
     "ownerIds": [
       "stifel-owner"
     ],
-    "text": "Stifel Financial Corp. is the ultimate owner of Stifel Financial.",
-    "short": "Stifel Financial Corp.",
+    "text": "Stifel Financial is ultimately owned by its shareholders/members as a listed company.",
+    "short": "Stifel Financial is ultimately owned by its shareholders/members as a listed company.",
     "source": {
-      "name": "Unknown",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -5935,10 +5963,10 @@
     "ownerIds": [
       "t-mobile-owner"
     ],
-    "text": "T-Mobile US, Inc. is the ultimate owner of T-Mobile.",
-    "short": "T-Mobile US, Inc.",
+    "text": "T-Mobile is ultimately owned by its shareholders/members as a unknown.",
+    "short": "T-Mobile is ultimately owned by its shareholders/members as a unknown.",
     "source": {
-      "name": "Unknown",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -6103,10 +6131,10 @@
     "ownerIds": [
       "toyota-owner"
     ],
-    "text": "Toyota Motor Corp. is the ultimate owner of Toyota.",
-    "short": "Toyota Motor Corp.",
+    "text": "Toyota is ultimately owned by its shareholders/members as a unknown.",
+    "short": "Toyota is ultimately owned by its shareholders/members as a unknown.",
     "source": {
-      "name": "Unknown",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -6215,8 +6243,8 @@
     "ownerIds": [
       "ucla-health-owner"
     ],
-    "text": "UCLA Health is the ultimate owner of UCLA Health.",
-    "short": "UCLA Health is the ultimate owner of UCLA Health.",
+    "text": "UCLA Health is ultimately owned by the University of California, a state entity.",
+    "short": "UCLA Health is ultimately owned by the University of California, a state entity.",
     "source": {
       "name": "UCLA Health About Us",
       "date": "2026-09-24",
@@ -6285,10 +6313,10 @@
     "ownerIds": [
       "united-wholesale-mortgage-owner"
     ],
-    "text": "United Wholesale Mortgage LLC is the ultimate owner of United Wholesale Mortgage.",
-    "short": "United Wholesale Mortgage LLC is the ultimate owner of United Wholesale Mortgage.",
+    "text": "United Wholesale Mortgage is ultimately owned by its shareholders/members as a listed company.",
+    "short": "United Wholesale Mortgage is ultimately owned by its shareholders/members as a listed company.",
     "source": {
-      "name": "Unknown",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
       "url": "https://example.com"
     },
@@ -6411,10 +6439,10 @@
     "ownerIds": [
       "webull-owner"
     ],
-    "text": "Webull Corp. is the ultimate owner of Webull.",
-    "short": "Webull Corp.",
+    "text": "Webull is ultimately owned by its shareholders/members as a unknown.",
+    "short": "Webull is ultimately owned by its shareholders/members as a unknown.",
     "source": {
-      "name": "Unknown",
+      "name": "Ownership determination based on company research",
       "date": "2026-09-24",
       "url": "https://example.com"
     },

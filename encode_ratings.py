@@ -13,7 +13,8 @@ SRC = ["/tmp/ratings.json", "/tmp/ratings2.json",
        "/tmp/rate_batch_1_out.json", "/tmp/rate_batch_2_out.json",
        "/tmp/rate_batch_3_out.json",
        "/tmp/rate_us_1_out.json", "/tmp/rate_us_2_out.json",
-       "/tmp/rate_us_3_out.json", "/tmp/rate_us_4_out.json"]
+       "/tmp/rate_us_3_out.json", "/tmp/rate_us_4_out.json",
+       "/tmp/rate_us_5_out.json", "/tmp/rate_us_6_out.json"]
 OUT = "/tmp/data/ratings_data.py"
 
 # sponsorId -> ownership on the shirt's owner chain

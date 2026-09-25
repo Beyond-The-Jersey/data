@@ -15,10 +15,10 @@
       "name": "Intuit (Intuit Inc., Nasdaq: INTU)",
       "placement": "stadium",
       "season": null,
-      "tier": "unrated",
+      "tier": "concern",
       "ownerId": "intuit-intuit-inc-nasdaq-intu-owner",
       "owner": "Intuit (Intuit Inc., Nasdaq: INTU)",
-      "verdict": null,
+      "verdict": "Intuit Inc.",
       "source": {
         "name": "Intuit Inc. investor press release (Business Wire)",
         "date": "2021-09-17",

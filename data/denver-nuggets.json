@@ -16,10 +16,10 @@
       "name": "Ball Corporation",
       "placement": "stadium",
       "season": null,
-      "tier": "none",
+      "tier": "concern",
       "ownerId": "ball-corporation-owner",
       "owner": "Ball Corporation",
-      "verdict": "Owned by Ball Corp. Nothing found.",
+      "verdict": "Ownership of Ball Corporation involves entities with documented conduct issues.",
       "source": {
         "name": "Denver Nuggets (nba.com, KSE/Ball release)",
         "date": "2020-10-22",
@@ -34,7 +34,7 @@
       "tier": "none",
       "ownerId": "ibotta-owner",
       "owner": "Ibotta",
-      "verdict": "Owned by Ibotta, Inc.. Nothing found.",
+      "verdict": "Owned by Unknown. Nothing found.",
       "source": {
         "name": "Sportcal",
         "date": "2026-04-17",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "none",
+  "worstTier": "concern",
   "owners": [
     "ball-corporation-owner",
     "ibotta-owner"

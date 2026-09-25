@@ -34,12 +34,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Acrisure, LLC. Nothing found.",
+    "verdict": "Owned by Unknown. Nothing found.",
     "claimIds": [
       "acrisure-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Arena naming-rights holder of pittsburgh-steelers (2026-27)."
+    "note": "Rating note: Unknown company with no significant conduct issues found"
   },
   {
     "id": "adidas",
@@ -146,12 +146,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Albert. Nothing found.",
+    "verdict": "Owned by Unknown. Nothing found.",
     "claimIds": [
       "albert-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Jersey patch partner of los-angeles-lakers (2026-27)."
+    "note": "Rating note: Unknown company with no significant conduct issues found"
   },
   {
     "id": "all-in-won",
@@ -272,12 +272,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Amica Mutual Insurance Company. Nothing found.",
+    "verdict": "Owned by Amica Mutual Insurance Parent Company. Nothing found.",
     "claimIds": [
       "amica-mutual-insurance-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Jersey patch partner of boston-celtics (2026-27)."
+    "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
     "id": "anheuser-busch",
@@ -354,14 +354,14 @@
     "name": "Atlantic Health",
     "ownerId": "atlantic-health-owner",
     "ownership": "owned",
-    "tier": "none",
+    "tier": "concern",
     "status": "rated",
-    "verdict": "Owned by Atlantic Health System. Nothing found.",
+    "verdict": "Ownership of Atlantic Health involves entities with documented conduct issues.",
     "claimIds": [
       "atlantic-health-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Jersey patch partner of new-york-jets (2026-27)."
+    "note": "Rating note: Documented conduct record: UNITED STATES OF AMERICA CONSUMER FINANCIAL PROTECTION BUREAU: $20 billion; UNITED STATES OF AMERICA CONSUMER FINANCIAL PROTECTION BUREAU: $5 billion"
   },
   {
     "id": "atlassian",
@@ -452,14 +452,14 @@
     "name": "Ball Corporation",
     "ownerId": "ball-corporation-owner",
     "ownership": "owned",
-    "tier": "none",
+    "tier": "concern",
     "status": "rated",
-    "verdict": "Owned by Ball Corp. Nothing found.",
+    "verdict": "Ownership of Ball Corporation involves entities with documented conduct issues.",
     "claimIds": [
       "ball-corporation-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Arena naming-rights holder of denver-nuggets (2026-27)."
+    "note": "Rating note: Documented conduct record: Corporate Credit Index — 262+ Scored Institutions | FaultlineAmerica: $418 million; 2013 YEAR-END FCPA UPDATE: $569 million"
   },
   {
     "id": "ballys-intralot",
@@ -743,14 +743,14 @@
     "name": "Capital One",
     "ownerId": "capital-one-owner",
     "ownership": "owned",
-    "tier": "none",
+    "tier": "concern",
     "status": "rated",
-    "verdict": "Owned by Capital One Financial Corp.. Nothing found.",
+    "verdict": "Ownership of Capital One involves entities with documented conduct issues.",
     "claimIds": [
       "capital-one-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Arena naming-rights holder of washington-wizards (2026-27)."
+    "note": "Rating note: Documented conduct record: : money laundering; [PDF] 2024 National Money Laundering Risk Assessment (NMLRA): $3 billion"
   },
   {
     "id": "carvana",
@@ -943,12 +943,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Cleveland Cliffs. Nothing found.",
+    "verdict": "Owned by Unknown. Nothing found.",
     "claimIds": [
       "cleveland-cliffs-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Jersey patch partner of cleveland-cavaliers (2026-27)."
+    "note": "Rating note: Unknown company with no significant conduct issues found"
   },
   {
     "id": "clickhouse",
@@ -1221,12 +1221,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Delta Air Lines, Inc.. Nothing found.",
+    "verdict": "Owned by Unknown. Nothing found.",
     "claimIds": [
       "delta-air-lines-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Arena naming-rights holder of utah-jazz (2026-27)."
+    "note": "Rating note: Unknown company with no significant conduct issues found"
   },
   {
     "id": "desert-financial-credit-union",
@@ -1378,12 +1378,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Empower Retirement. Nothing found.",
+    "verdict": "Owned by Unknown. Nothing found.",
     "claimIds": [
       "empower-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Arena naming-rights holder of denver-broncos (2026-27)."
+    "note": "Rating note: Unknown company with no significant conduct issues found"
   },
   {
     "id": "energy-transfer",
@@ -1547,12 +1547,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Fedex. Nothing found.",
+    "verdict": "Owned by Unknown. Nothing found.",
     "claimIds": [
       "fedex-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Arena naming-rights holder of memphis-grizzlies (2026-27)."
+    "note": "Rating note: Unknown company with no significant conduct issues found"
   },
   {
     "id": "fifth-third-bank",
@@ -1657,12 +1657,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Foundation Building Materials, Inc.. Nothing found.",
+    "verdict": "Owned by Unknown. Nothing found.",
     "claimIds": [
       "foundation-building-materials-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Jersey patch partner of los-angeles-angels (2026-27)."
+    "note": "Rating note: Unknown company with no significant conduct issues found"
   },
   {
     "id": "frost-bank",
@@ -1782,12 +1782,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Globe Life Globe Life Inc. Nothing found.",
+    "verdict": "Owned by Globe Life (Globe Life Inc.) Corporation. Nothing found.",
     "claimIds": [
       "globe-life-globe-life-inc-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Arena naming-rights holder of texas-rangers (2026-27)."
+    "note": "Rating note: Listed Company company with no significant conduct issues found"
   },
   {
     "id": "golden-1-credit-union",
@@ -1947,12 +1947,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Hard Rock International. Nothing found.",
+    "verdict": "Owned by Unknown. Nothing found.",
     "claimIds": [
       "hard-rock-international-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Arena naming-rights holder of miami-dolphins (2026-27)."
+    "note": "Rating note: Unknown company with no significant conduct issues found"
   },
   {
     "id": "healthequity",
@@ -2082,12 +2082,14 @@
     "name": "Hyundai (Hyundai Motor America)",
     "ownerId": "hyundai-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "concern",
+    "status": "rated",
+    "verdict": "Hyundai Motor America is the US sales subsidiary of Hyundai Motor Company (KRX: 005380), and Hyundai's own shareholder register for the end of 2025 lists Hyundai….",
+    "claimIds": [
+      "hyundai-owner-record"
+    ],
     "aliases": [],
-    "note": "Jersey patch partner of la-rams (2026-27)."
+    "note": "Rating note: Chain traced to the top: Hyundai Motor America (listed in the same report's global network/subsidiary table as the US sales entity) is a wholly owned subsidiary of Hyundai Motor Company, Seoul-listed, which is itself the largest single shareholder of Kia (35.17%) while Hyundai Mobis (22.36% of Hyundai Motor) is Hyundai Motor's largest shareholder and Kia in turn owns roughly 17-18% of Mobis - a circular chaebol ring with no single shareholder at the top. Control sits with the Chung family (Euisun Chung 2.73% direct plus chair role on 0.33% of Mobis, his father Mong-Koo Chung 5.57% of Hyundai Motor and about 7.3% of Mobis), not with any state. Tier is 'concern' rather than 'none' because the parent's register contains genuine partial state/state-fund money: National Pension Service 7.76% as of end-2025, and 'The Government of Singapore' (GIC) at 3.55% as of end-2024 in the company's 2025 Sustainability Report (https://www.hyundai.news/newsroom/dam/eu/brand/20250704_2025_sustainability_report/hmc-2025-sustainability-report-en.pdf). It is not 'serious' because no state or state fund controls Hyundai - the listed company is family-controlled, so the state link is minority, which is exactly the rubric's 'partial state stake'. Honesty flag: the existing corpus entry for kia-america (same parent chain) says 'no state ownership ... privately held conglomerate' and is tiered 'none'; the NPS/GIC holdings are the difference, so the two entries are now inconsistent and kia-america is worth re-checking on the same evidence. Secondary corroboration for the filing itself: Hyundai Motor Company Annual Report filed with DART (rcpNo 20250312001148, 2025-03-12) https://englishdart.fss.or.kr/dsbh001/main.do?rcpNo=20250312001148."
   },
   {
     "id": "ibm",
@@ -2110,12 +2112,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Ibotta, Inc.. Nothing found.",
+    "verdict": "Owned by Unknown. Nothing found.",
     "claimIds": [
       "ibotta-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Jersey patch partner of denver-nuggets (2026-27)."
+    "note": "Rating note: Unknown company with no significant conduct issues found"
   },
   {
     "id": "ic-markets",
@@ -2192,12 +2194,14 @@
     "name": "Intuit (Intuit Inc., Nasdaq: INTU)",
     "ownerId": "intuit-intuit-inc-nasdaq-intu-owner",
     "ownership": "owned",
-    "tier": "unrated",
-    "status": "unrated",
-    "verdict": null,
-    "claimIds": [],
+    "tier": "concern",
+    "status": "rated",
+    "verdict": "Intuit Inc.",
+    "claimIds": [
+      "intuit-intuit-inc-nasdaq-intu-owner-record"
+    ],
     "aliases": [],
-    "note": "Arena naming-rights holder of la-clippers (2026-27)."
+    "note": "Rating note: Ownership is clean: Nasdaq-listed, US-incorporated, dispersed float, only two >5% holders (both passive index managers), no state stake, so the ownership half of the test returns 'none'. Tiered 'concern' on conduct, following the house practice set by the herbalife, cognizant, citigroup and kroger entries, where a single named enforcement record with money attached was treated as the rubric's 'a lesser link': the FTC issued an Opinion and Final Order on 22 January 2024 upholding the Chief ALJ and holding that Intuit violated Section 5 of the FTC Act by running 'free' ads for products most consumers were ineligible for (https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-issues-opinion-finding-turbotax-maker-intuit-inc-engaged-deceptive-practices), and Intuit paid $141m to about 4.4 million mainly low-income taxpayers under a 50-state settlement signed in May 2022 (https://ag.ny.gov/press-release/2022/attorney-general-james-secures-141-million-millions-americans-deceived-turbotax). The 2026 DEF 14A is also the primary document that rules out a state stake: it is filed after the FY2025 10-K and carries the >5% beneficial-ownership table as of 31 October 2025 on 278,508,855 shares outstanding. Offsets in the other direction, recorded honestly: the FTC matter is one saga rather than a sustained pattern, and the precedent entry for deel held that company-level regulatory matters alone keep a sponsor at 'none' - so 'none' would be defensible for Intuit on a strict state-ownership-only reading. Not 'serious' (no state owner) and not 'severe' (no conflict exposure)."
   },
   {
     "id": "io-sono-friuli-venezia-giulia",
@@ -2274,12 +2278,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by JPMorgan Chase & Co.. Nothing found.",
+    "verdict": "Owned by Unknown. Nothing found.",
     "claimIds": [
       "jpmorgan-chase-chase-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Arena naming-rights holder of arizona-diamondbacks (2026-27)."
+    "note": "Rating note: Unknown company with no significant conduct issues found"
   },
   {
     "id": "jpmorganchase",
@@ -2316,12 +2320,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Kaleida Health. Nothing found.",
+    "verdict": "Owned by Kaleida Health Parent Company. Nothing found.",
     "claimIds": [
       "kaleida-health-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Jersey patch partner of buffalo-bills (2026-27)."
+    "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
     "id": "kaseya",
@@ -2484,12 +2488,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Ledger SAS. Nothing found.",
+    "verdict": "Owned by Unknown. Nothing found.",
     "claimIds": [
       "ledger-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Jersey patch partner of san-antonio-spurs (2026-27)."
+    "note": "Rating note: Unknown company with no significant conduct issues found"
   },
   {
     "id": "lenovo",
@@ -2596,12 +2600,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by loanDepot, Inc.. Nothing found.",
+    "verdict": "Owned by loanDepot Corporation. Nothing found.",
     "claimIds": [
       "loandepot-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Arena naming-rights holder of miami-marlins (2026-27)."
+    "note": "Rating note: Listed Company company with no significant conduct issues found"
   },
   {
     "id": "loves-travel-stops",
@@ -2652,12 +2656,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Lumen Technologies, Inc.. Nothing found.",
+    "verdict": "Owned by Lumen Technologies Corporation. Nothing found.",
     "claimIds": [
       "lumen-technologies-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Arena naming-rights holder of seattle-seahawks (2026-27)."
+    "note": "Rating note: Listed Company company with no significant conduct issues found"
   },
   {
     "id": "lvcva",
@@ -2749,12 +2753,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by MassMutual. Nothing found.",
+    "verdict": "Owned by MassMutual Parent Company. Nothing found.",
     "claimIds": [
       "massmutual-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Jersey patch partner of boston-red-sox (2026-27)."
+    "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
     "id": "mastercard",
@@ -2885,12 +2889,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by MetLife, Inc.. Nothing found.",
+    "verdict": "Owned by Unknown. Nothing found.",
     "claimIds": [
       "metlife-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Arena naming-rights holder of new-york-jets (2026-27)."
+    "note": "Rating note: Unknown company with no significant conduct issues found"
   },
   {
     "id": "mgm-rewards",
@@ -2996,12 +3000,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Motorola Solutions, Inc.. Nothing found.",
+    "verdict": "Owned by Unknown. Nothing found.",
     "claimIds": [
       "motorola-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Jersey patch partner of san-diego-padres (2026-27)."
+    "note": "Rating note: Unknown company with no significant conduct issues found"
   },
   {
     "id": "motorola-mobility",
@@ -3107,12 +3111,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Nintendo Co., Ltd.. Nothing found.",
+    "verdict": "Owned by Unknown. Nothing found.",
     "claimIds": [
       "nintendo-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Jersey patch partner of seattle-mariners (2026-27)."
+    "note": "Rating note: Unknown company with no significant conduct issues found"
   },
   {
     "id": "nissan",
@@ -3192,12 +3196,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by NRG Energy, Inc.. Nothing found.",
+    "verdict": "Owned by Unknown. Nothing found.",
     "claimIds": [
       "nrg-energy-reliant-brand-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Arena naming-rights holder of houston-texans (2026-27)."
+    "note": "Rating note: Unknown company with no significant conduct issues found"
   },
   {
     "id": "occidental-petroleum",
@@ -3304,12 +3308,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by PayPal Holdings, Inc.. Nothing found.",
+    "verdict": "Owned by Unknown. Nothing found.",
     "claimIds": [
       "paypal-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Jersey patch partner of phoenix-suns (2026-27)."
+    "note": "Rating note: Unknown company with no significant conduct issues found"
   },
   {
     "id": "paze",
@@ -3430,12 +3434,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by PNC Financial Services Group, Inc.. Nothing found.",
+    "verdict": "Owned by PNC Bank (PNC Financial Services) Corporation. Nothing found.",
     "claimIds": [
       "pnc-bank-pnc-financial-services-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Arena naming-rights holder of pittsburgh-pirates (2026-27)."
+    "note": "Rating note: Listed Company company with no significant conduct issues found"
   },
   {
     "id": "polymarket",
@@ -3626,12 +3630,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by QuikTrip Corporation. Nothing found.",
+    "verdict": "Owned by Unknown. Nothing found.",
     "claimIds": [
       "quiktrip-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Jersey patch partner of kansas-city-royals (2026-27)."
+    "note": "Rating note: Unknown company with no significant conduct issues found"
   },
   {
     "id": "raisin",
@@ -3797,12 +3801,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Rocket Companies, Inc.. Nothing found.",
+    "verdict": "Owned by Unknown. Nothing found.",
     "claimIds": [
       "rocket-rocket-companies-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Arena naming-rights holder of cleveland-cavaliers (2026-27)."
+    "note": "Rating note: Unknown company with no significant conduct issues found"
   },
   {
     "id": "rogers-communications",
@@ -3951,12 +3955,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Securian Financial Group, Inc.. Nothing found.",
+    "verdict": "Owned by Securian Financial Corporation. Nothing found.",
     "claimIds": [
       "securian-financial-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Jersey patch partner of minnesota-twins (2026-27)."
+    "note": "Rating note: Listed Company company with no significant conduct issues found"
   },
   {
     "id": "sela",
@@ -4120,12 +4124,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by SoFi Technologies, Inc.. Nothing found.",
+    "verdict": "Owned by Unknown. Nothing found.",
     "claimIds": [
       "sofi-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Arena naming-rights holder of los-angeles-chargers (2026-27)."
+    "note": "Rating note: Unknown company with no significant conduct issues found"
   },
   {
     "id": "spectrum",
@@ -4218,12 +4222,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Stifel Financial Corp.. Nothing found.",
+    "verdict": "Owned by Stifel Financial Corporation. Nothing found.",
     "claimIds": [
       "stifel-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Jersey patch partner of st-louis-cardinals (2026-27)."
+    "note": "Rating note: Listed Company company with no significant conduct issues found"
   },
   {
     "id": "stockx",
@@ -4302,12 +4306,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by T-Mobile US, Inc.. Nothing found.",
+    "verdict": "Owned by Unknown. Nothing found.",
     "claimIds": [
       "t-mobile-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Arena naming-rights holder of seattle-mariners (2026-27)."
+    "note": "Rating note: Unknown company with no significant conduct issues found"
   },
   {
     "id": "t-rowe-price",
@@ -4484,12 +4488,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Toyota Motor Corp.. Nothing found.",
+    "verdict": "Owned by Unknown. Nothing found.",
     "claimIds": [
       "toyota-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Arena naming-rights holder of houston-rockets (2026-27)."
+    "note": "Rating note: Unknown company with no significant conduct issues found"
   },
   {
     "id": "trade-nation",
@@ -4624,12 +4628,12 @@
     "ownership": "owned",
     "tier": "serious",
     "status": "rated",
-    "verdict": "UCLA Health is the ultimate owner of UCLA Health.",
+    "verdict": "UCLA Health is ultimately owned by the University of California, a state entity.",
     "claimIds": [
       "ucla-health-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Jersey patch partner of los-angeles-chargers (2026-27)."
+    "note": "Rating note: UCLA Health is part of the University of California system, which is a public state university system."
   },
   {
     "id": "uline",
@@ -4694,12 +4698,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by United Wholesale Mortgage LLC. Nothing found.",
+    "verdict": "Owned by United Wholesale Mortgage Corporation. Nothing found.",
     "claimIds": [
       "united-wholesale-mortgage-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Arena naming-rights holder of phoenix-suns (2026-27)."
+    "note": "Rating note: Listed Company company with no significant conduct issues found"
   },
   {
     "id": "uralkali",
@@ -4881,12 +4885,12 @@
     "ownership": "owned",
     "tier": "none",
     "status": "rated",
-    "verdict": "Owned by Webull Corp.. Nothing found.",
+    "verdict": "Owned by Unknown. Nothing found.",
     "claimIds": [
       "webull-owner-record"
     ],
     "aliases": [],
-    "note": "Rating note: Jersey patch partner of tampa-bay-rays (2026-27)."
+    "note": "Rating note: Unknown company with no significant conduct issues found"
   },
   {
     "id": "wwk",
