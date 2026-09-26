@@ -4198,6 +4198,196 @@
     ]
   },
   {
+    "id": "chengdu-rongcheng",
+    "name": "Chengdu Rongcheng",
+    "shortName": "Rongcheng",
+    "code": "CRG",
+    "sportId": "soccer",
+    "leagueId": "chinese-super-league",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "成都蓉城"
+    ]
+  },
+  {
+    "id": "chongqing-tonglianglong",
+    "name": "Chongqing Tonglianglong",
+    "shortName": "Tonglianglong",
+    "code": "CTL",
+    "sportId": "soccer",
+    "leagueId": "chinese-super-league",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "重庆铜梁龙"
+    ]
+  },
+  {
+    "id": "dalian-yingbo",
+    "name": "Dalian Yingbo",
+    "shortName": "Yingbo",
+    "code": "DLY",
+    "sportId": "soccer",
+    "leagueId": "chinese-super-league",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "大连英博"
+    ]
+  },
+  {
+    "id": "henan",
+    "name": "Henan",
+    "shortName": "Henan",
+    "code": "HEN",
+    "sportId": "soccer",
+    "leagueId": "chinese-super-league",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "河南",
+      "Henan FC",
+      "Henan Songshan Longmen"
+    ]
+  },
+  {
+    "id": "liaoning-tieren",
+    "name": "Liaoning Tieren",
+    "shortName": "Tieren",
+    "code": "LNT",
+    "sportId": "soccer",
+    "leagueId": "chinese-super-league",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "辽宁铁人"
+    ]
+  },
+  {
+    "id": "qingdao-hainiu",
+    "name": "Qingdao Hainiu",
+    "shortName": "Hainiu",
+    "code": "QDH",
+    "sportId": "soccer",
+    "leagueId": "chinese-super-league",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "青岛海牛",
+      "Qingdao Mane"
+    ]
+  },
+  {
+    "id": "qingdao-west-coast",
+    "name": "Qingdao West Coast",
+    "shortName": "West Coast",
+    "code": "QDW",
+    "sportId": "soccer",
+    "leagueId": "chinese-super-league",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "青岛西海岸"
+    ]
+  },
+  {
+    "id": "shandong-taishan",
+    "name": "Shandong Taishan",
+    "shortName": "Taishan",
+    "code": "SDT",
+    "sportId": "soccer",
+    "leagueId": "chinese-super-league",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "山东泰山",
+      "Shandong Luneng"
+    ]
+  },
+  {
+    "id": "shanghai-shenhua",
+    "name": "Shanghai Shenhua",
+    "shortName": "Shenhua",
+    "code": "SHS",
+    "sportId": "soccer",
+    "leagueId": "chinese-super-league",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "上海申花"
+    ]
+  },
+  {
+    "id": "shenzhen-peng-city",
+    "name": "Shenzhen Peng City",
+    "shortName": "Peng City",
+    "code": "SZP",
+    "sportId": "soccer",
+    "leagueId": "chinese-super-league",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "深圳新鹏城",
+      "Shenzhen Peng City FC"
+    ]
+  },
+  {
+    "id": "tianjin-jinmen-tiger",
+    "name": "Tianjin Jinmen Tiger",
+    "shortName": "Jinmen Tiger",
+    "code": "TJT",
+    "sportId": "soccer",
+    "leagueId": "chinese-super-league",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "天津津门虎",
+      "Tianjin Jinmen Tiger FC"
+    ]
+  },
+  {
+    "id": "wuhan-three-towns",
+    "name": "Wuhan Three Towns",
+    "shortName": "Three Towns",
+    "code": "WHT",
+    "sportId": "soccer",
+    "leagueId": "chinese-super-league",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "武汉三镇"
+    ]
+  },
+  {
+    "id": "yunnan-yukun",
+    "name": "Yunnan Yukun",
+    "shortName": "Yukun",
+    "code": "YNY",
+    "sportId": "soccer",
+    "leagueId": "chinese-super-league",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "云南玉昆"
+    ]
+  },
+  {
+    "id": "zhejiang",
+    "name": "Zhejiang",
+    "shortName": "Zhejiang",
+    "code": "ZJG",
+    "sportId": "soccer",
+    "leagueId": "chinese-super-league",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "浙江",
+      "Zhejiang FC",
+      "Zhejiang Professional"
+    ]
+  },
+  {
     "id": "bmw-australian-pga-championship",
     "name": "BMW Australian PGA Championship",
     "shortName": "Australian PGA",

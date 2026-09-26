@@ -2565,6 +2565,22 @@
     "note": "Rating note: Trace corrected: the given owner chain was empty; Cazoo's brand now sits with Motors (O3/Novum), NOT with the original Cazoo Group. Motors itself was bought from eBay Classifieds in Dec 2021 by O3 Industries and Novum Capital."
   },
   {
+    "id": "cctv-sports",
+    "name": "CCTV Sports",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "央视体育",
+      "CCTV-5",
+      "China Media Group Sports"
+    ],
+    "note": "State broadcaster's sports channel, CSL media partner per the league's official site. Ownership not verified from a primary document."
+  },
+  {
     "id": "celer-lighting",
     "name": "Celer Lighting",
     "ownerId": "grupo-saltoki",
@@ -2609,6 +2625,23 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "cestbon",
+    "name": "C'estbon",
+    "ownerId": "cr-beverage",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "怡宝",
+      "Yibao",
+      "CR Beverage",
+      "China Resources Beverage"
+    ],
+    "note": "Bottled-water brand of CR Beverage (HKEX 02460); title sponsor of the Chinese Football Super League."
   },
   {
     "id": "chexx",
@@ -7928,6 +7961,22 @@
     "aliases": []
   },
   {
+    "id": "migu",
+    "name": "Migu",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "咪咕",
+      "Migu Video",
+      "咪咕视频"
+    ],
+    "note": "Chinese streaming platform; strategic partner and media partner of the CSL. Ownership (widely reported as a China Mobile subsidiary) not verified from a primary document."
+  },
+  {
     "id": "ministry-of-sport",
     "name": "Saudi Ministry of Sport",
     "ownerId": "ministry-of-sport",
@@ -12132,6 +12181,22 @@
     "note": "Rating note: Private VC-backed US company → none. Source is business press; company has no published shareholder register."
   },
   {
+    "id": "tencent-fc-online",
+    "name": "Tencent FC Online",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "FC Online足球在线",
+      "FC Online",
+      "Tencent Games FC Online"
+    ],
+    "note": "Tencent Games football game, official CSL game partner per the league's official site."
+  },
+  {
     "id": "tenneco",
     "name": "Tenneco",
     "ownerId": "apollo-global-management",
@@ -12428,6 +12493,21 @@
     ],
     "aliases": [],
     "note": "Rating note: Truist is publicly traded with no state ownership; largest holder is Vanguard (~9.8%). No documented human-rights concerns in ownership chain identified."
+  },
+  {
+    "id": "tsingtao",
+    "name": "Tsingtao Brewery",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "青岛啤酒",
+      "Tsingtao"
+    ],
+    "note": "Chinese brewer; CSL partner per the league's official site. Ownership (listed in Hong Kong and Shanghai, with a state-linked shareholder base) not verified from a primary document."
   },
   {
     "id": "tudor",

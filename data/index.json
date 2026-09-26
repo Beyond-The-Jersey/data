@@ -2342,6 +2342,104 @@
       "file": "rssb-tigers.json"
     },
     {
+      "id": "chengdu-rongcheng",
+      "name": "Chengdu Rongcheng",
+      "sport": "soccer",
+      "league": "chinese-super-league",
+      "file": "chengdu-rongcheng.json"
+    },
+    {
+      "id": "chongqing-tonglianglong",
+      "name": "Chongqing Tonglianglong",
+      "sport": "soccer",
+      "league": "chinese-super-league",
+      "file": "chongqing-tonglianglong.json"
+    },
+    {
+      "id": "dalian-yingbo",
+      "name": "Dalian Yingbo",
+      "sport": "soccer",
+      "league": "chinese-super-league",
+      "file": "dalian-yingbo.json"
+    },
+    {
+      "id": "henan",
+      "name": "Henan",
+      "sport": "soccer",
+      "league": "chinese-super-league",
+      "file": "henan.json"
+    },
+    {
+      "id": "liaoning-tieren",
+      "name": "Liaoning Tieren",
+      "sport": "soccer",
+      "league": "chinese-super-league",
+      "file": "liaoning-tieren.json"
+    },
+    {
+      "id": "qingdao-hainiu",
+      "name": "Qingdao Hainiu",
+      "sport": "soccer",
+      "league": "chinese-super-league",
+      "file": "qingdao-hainiu.json"
+    },
+    {
+      "id": "qingdao-west-coast",
+      "name": "Qingdao West Coast",
+      "sport": "soccer",
+      "league": "chinese-super-league",
+      "file": "qingdao-west-coast.json"
+    },
+    {
+      "id": "shandong-taishan",
+      "name": "Shandong Taishan",
+      "sport": "soccer",
+      "league": "chinese-super-league",
+      "file": "shandong-taishan.json"
+    },
+    {
+      "id": "shanghai-shenhua",
+      "name": "Shanghai Shenhua",
+      "sport": "soccer",
+      "league": "chinese-super-league",
+      "file": "shanghai-shenhua.json"
+    },
+    {
+      "id": "shenzhen-peng-city",
+      "name": "Shenzhen Peng City",
+      "sport": "soccer",
+      "league": "chinese-super-league",
+      "file": "shenzhen-peng-city.json"
+    },
+    {
+      "id": "tianjin-jinmen-tiger",
+      "name": "Tianjin Jinmen Tiger",
+      "sport": "soccer",
+      "league": "chinese-super-league",
+      "file": "tianjin-jinmen-tiger.json"
+    },
+    {
+      "id": "wuhan-three-towns",
+      "name": "Wuhan Three Towns",
+      "sport": "soccer",
+      "league": "chinese-super-league",
+      "file": "wuhan-three-towns.json"
+    },
+    {
+      "id": "yunnan-yukun",
+      "name": "Yunnan Yukun",
+      "sport": "soccer",
+      "league": "chinese-super-league",
+      "file": "yunnan-yukun.json"
+    },
+    {
+      "id": "zhejiang",
+      "name": "Zhejiang",
+      "sport": "soccer",
+      "league": "chinese-super-league",
+      "file": "zhejiang.json"
+    },
+    {
       "id": "bmw-australian-pga-championship",
       "name": "BMW Australian PGA Championship",
       "sport": "golf",

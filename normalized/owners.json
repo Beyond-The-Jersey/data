@@ -802,6 +802,15 @@
     "country": "US"
   },
   {
+    "id": "china-resources-group",
+    "name": "China Resources (Group) Co., Ltd.",
+    "type": "state",
+    "country": "China",
+    "parentId": null,
+    "note": "State-owned conglomerate headquartered in Hong Kong, founded 1938; under the direct supervision of China's SASAC since 2003 and described on its own site as a centrally managed state-owned key backbone enterprise.",
+    "via": "China's State-owned Assets Supervision and Administration Commission (SASAC)"
+  },
+  {
     "id": "circle-internet-group",
     "name": "Circle Internet Group",
     "type": "listed-company",
@@ -963,6 +972,14 @@
     "country": "Italy",
     "via": "Carnival Corporation & plc brand",
     "parentId": null
+  },
+  {
+    "id": "cr-beverage",
+    "name": "CR Beverage",
+    "type": "listed-company",
+    "country": "China",
+    "parentId": "china-resources-group",
+    "note": "China Resources Beverage (Holdings) Co., Ltd., listed on HKEX under ticker 02460, headquartered in Nanshan, Shenzhen; describes itself on its own site as a core business unit under China Resources (Group) Co., Ltd. Maker of the C'estbon (怡宝) brand."
   },
   {
     "id": "credit-saison",
