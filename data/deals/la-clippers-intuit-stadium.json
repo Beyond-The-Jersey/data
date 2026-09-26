@@ -1,0 +1,16 @@
+{
+  "id": "la-clippers-intuit-stadium",
+  "clubId": "la-clippers",
+  "orgName": "Intuit (Intuit Inc., Nasdaq: INTU)",
+  "sponsorId": "intuit",
+  "placement": "stadium",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Intuit Inc. investor press release (Business Wire)",
+    "date": "2021-09-17",
+    "url": "https://investors.intuit.com/news-events/press-releases/detail/161/la-clippers-to-announce-partnership-during-groundbreaking-for-intuit-dome"
+  },
+  "note": "Arena naming rights: Intuit Dome. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2021-09-17."
+}

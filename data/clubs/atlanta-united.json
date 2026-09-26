@@ -1,0 +1,11 @@
+{
+  "id": "atlanta-united",
+  "name": "Atlanta United FC",
+  "shortName": "Atlanta United",
+  "code": "ATL",
+  "sportId": "soccer",
+  "leagueId": "mls",
+  "country": "USA",
+  "crest": "assets/crests/atlanta-united.png",
+  "aliases": []
+}

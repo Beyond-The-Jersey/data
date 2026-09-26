@@ -1,0 +1,14 @@
+{
+  "id": "spectrum",
+  "name": "Spectrum (Charter Communications)",
+  "ownerId": "spectrum-charter-communications-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Charter Communications, Inc.. Nothing found.",
+  "claimIds": [
+    "spectrum-charter-communications-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Charter Communications is a publicly traded telecommunications company; no state stake or serious conduct record identified."
+}

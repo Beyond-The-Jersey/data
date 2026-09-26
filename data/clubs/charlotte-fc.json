@@ -1,0 +1,11 @@
+{
+  "id": "charlotte-fc",
+  "name": "Charlotte FC",
+  "shortName": "Charlotte FC",
+  "code": "CLT",
+  "sportId": "soccer",
+  "leagueId": "mls",
+  "country": "USA",
+  "crest": "assets/crests/charlotte-fc.png",
+  "aliases": []
+}

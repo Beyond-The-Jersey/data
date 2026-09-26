@@ -1,0 +1,14 @@
+{
+  "id": "salesforce-inc-record",
+  "ownerIds": [
+    "salesforce-inc"
+  ],
+  "text": "Salesforce is an NYSE-listed software company (CRM) owned by institutions and the public float; no state shareholder.",
+  "short": "Salesforce is an NYSE-listed software company (CRM) owned by institutions and the public float; no state shareholder.",
+  "source": {
+    "name": "Salesforce - investor relations / NYSE listing",
+    "date": "2026-09-24",
+    "url": "https://investor.salesforce.com/"
+  },
+  "reviewed": true
+}

@@ -1,0 +1,11 @@
+{
+  "id": "toronto-fc",
+  "name": "Toronto FC",
+  "shortName": "Toronto FC",
+  "code": "TOR",
+  "sportId": "soccer",
+  "leagueId": "mls",
+  "country": "Canada",
+  "crest": "assets/crests/toronto-fc.png",
+  "aliases": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "sunderland",
+  "name": "Sunderland",
+  "shortName": "Sunderland",
+  "code": "SUN",
+  "sportId": "soccer",
+  "leagueId": "premier-league",
+  "country": "England",
+  "crest": "assets/crests/sunderland.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

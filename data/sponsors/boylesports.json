@@ -1,0 +1,14 @@
+{
+  "id": "boylesports",
+  "name": "BoyleSports",
+  "ownerId": "boylesports",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by BoyleSports (Boyle family). Nothing found.",
+  "claimIds": [
+    "boylesports-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: boylesports.com itself geo-blocks some US IPs, so a secondary aggregator was used for the ownership statement."
+}

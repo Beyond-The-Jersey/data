@@ -1,0 +1,52 @@
+{
+  "clubId": "arizona-diamondbacks",
+  "channels": [
+    {
+      "type": "email",
+      "value": "fanfeedback@dbacks.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/dbacks/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "tickets@dbacks.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/dbacks/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.mlb.com/dbacks/official-information/contact",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/dbacks/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@dbacks",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/dbacks",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@dbacks",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/dbacks",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

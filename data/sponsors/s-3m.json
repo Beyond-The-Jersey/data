@@ -1,0 +1,14 @@
+{
+  "id": "s-3m",
+  "name": "3M",
+  "ownerId": "3m-company",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by 3M Company. Nothing found.",
+  "claimIds": [
+    "3m-company-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Serious conduct record but private owner, so 'none' under the ownership-led method rather than 'concern'."
+}

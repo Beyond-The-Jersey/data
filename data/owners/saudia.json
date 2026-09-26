@@ -1,0 +1,9 @@
+{
+  "id": "saudia",
+  "name": "Saudia (Saudi Arabian Airlines)",
+  "type": "private-company",
+  "country": "Saudi Arabia",
+  "via": "PIF",
+  "note": "PIF holds the controlling stake in parent Saudi Arabian Airlines Corporation.",
+  "parentId": "saudi-pif"
+}

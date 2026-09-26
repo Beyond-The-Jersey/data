@@ -1,0 +1,15 @@
+{
+  "id": "m23-coltan-levies",
+  "ownerIds": [
+    "government-of-rwanda"
+  ],
+  "text": "M23 rebels take about $800,000 a month in levies on coltan mining.",
+  "short": "$800k a month in coltan levies taken by M23",
+  "source": {
+    "name": "UN Group of Experts on the DR Congo, final report",
+    "date": "2024",
+    "url": "https://docs.un.org/en/S/2024/432",
+    "note": "Final report of the UN Group of Experts on the DR Congo, S/2024/432."
+  },
+  "reviewed": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": "eintracht-frankfurt",
+  "name": "Eintracht Frankfurt",
+  "shortName": "Frankfurt",
+  "code": "SGE",
+  "sportId": "soccer",
+  "leagueId": "bundesliga",
+  "country": "Germany",
+  "crest": "assets/crests/eintracht-frankfurt.png",
+  "aliases": [
+    "sge"
+  ],
+  "hasTeamPageDesign": false
+}

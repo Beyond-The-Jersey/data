@@ -1,0 +1,14 @@
+{
+  "id": "as-monaco",
+  "name": "AS Monaco",
+  "shortName": "Monaco",
+  "code": "ASM",
+  "sportId": "soccer",
+  "leagueId": "ligue-1",
+  "country": "France",
+  "crest": "assets/crests/as-monaco.png",
+  "aliases": [
+    "monaco",
+    "asm"
+  ]
+}

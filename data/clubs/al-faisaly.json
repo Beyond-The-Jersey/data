@@ -1,0 +1,14 @@
+{
+  "id": "al-faisaly",
+  "name": "Al-Faisaly",
+  "shortName": "Al-Faisaly",
+  "code": "FAI",
+  "sportId": "soccer",
+  "leagueId": "saudi-pro-league",
+  "country": "Saudi Arabia",
+  "crest": "assets/crests/al-faisaly.png",
+  "aliases": [
+    "al faisaly",
+    "faisaly"
+  ]
+}

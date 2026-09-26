@@ -1,0 +1,24 @@
+{
+  "id": "atalanta-2026-27-home",
+  "clubId": "atalanta",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026-27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "lete",
+      "placement": "front",
+      "source": {
+        "name": "Atalanta BC",
+        "date": "2026-07-16",
+        "url": "https://en.atalanta.it/news/atalanta-s-shirt-sponsors-for-the-2026-27-campaign"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": "Official club page names Lete as Main Sponsor and Snaifun as Second Shirt Sponsor, both front of shirt."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "stellantis-nv-record",
+  "ownerIds": [
+    "stellantis-nv"
+  ],
+  "text": "Jeep (with Visit Detroit) on the Juventus front is a brand of Stellantis N.V., the Amsterdam-domiciled, NYSE/Euronext-listed automaker. Stellantis' 20-F lists its largest shareholders as Exor N.V. (15.48%), Etablissements Peugeot Freres (7.72%) and Bpifrance Participations (6.64%) - Bpifrance being the French state investment bank, giving a genuine but minority state stake, hence 'concern'. Human-rights relevance: French state money at ~6.6% plus normal automaker supply-chain exposure.",
+  "short": "Jeep (with Visit Detroit) on the Juventus front is a brand of Stellantis N.V., the Amsterdam-domiciled, NYSE/Euronext-listed automaker.",
+  "source": {
+    "name": "Stellantis N.V. Form 20-F for FY2025, shareholder section (SEC)",
+    "date": "2026-02-26",
+    "url": "https://www.sec.gov/Archives/edgar/data/1605484/000160548426000021/stellantis-20251231.htm"
+  },
+  "reviewed": true
+}

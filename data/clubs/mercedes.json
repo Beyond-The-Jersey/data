@@ -1,0 +1,11 @@
+{
+  "id": "mercedes",
+  "name": "Mercedes-AMG PETRONAS F1 Team",
+  "shortName": "Mercedes",
+  "code": "MER",
+  "sportId": "motorsport",
+  "leagueId": "formula-1",
+  "country": "United Kingdom",
+  "crest": "assets/crests/mercedes.png",
+  "aliases": []
+}

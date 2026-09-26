@@ -1,0 +1,14 @@
+{
+  "id": "caesars-entertainment-owner-record",
+  "ownerIds": [
+    "caesars-entertainment-owner"
+  ],
+  "text": "Caesars Entertainment, Inc. is owned by Caesars Entertainment. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+  "short": "Caesars Entertainment, Inc.",
+  "source": {
+    "name": "Caesars Entertainment, Inc. DEF 14A 2026 (SEC)",
+    "date": "2026-04-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/1590895/000119312526174058/d140199ddef14a.htm"
+  },
+  "reviewed": true
+}

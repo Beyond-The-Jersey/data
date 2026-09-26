@@ -1,0 +1,13 @@
+{
+  "id": "gillette",
+  "name": "Gillette",
+  "ownerId": "procter-and-gamble",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by The Procter & Gamble Company. Nothing found.",
+  "claimIds": [
+    "procter-and-gamble-record"
+  ],
+  "aliases": []
+}

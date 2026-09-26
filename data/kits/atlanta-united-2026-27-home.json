@@ -1,0 +1,24 @@
+{
+  "id": "atlanta-united-2026-27-home",
+  "clubId": "atlanta-united",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026-27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "american-family-insurance",
+      "placement": "front",
+      "source": {
+        "name": "atlutd.com",
+        "date": "2026-02-17",
+        "url": "https://www.atlutd.com/"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+}

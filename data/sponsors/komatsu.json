@@ -1,0 +1,14 @@
+{
+  "id": "komatsu",
+  "name": "Komatsu",
+  "ownerId": "komatsu-ltd",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Komatsu Ltd.. Nothing found.",
+  "claimIds": [
+    "komatsu-ltd-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Corporate profile confirms TSE Prime listing; no government stake on the shareholder register."
+}

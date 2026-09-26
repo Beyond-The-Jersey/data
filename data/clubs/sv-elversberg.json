@@ -1,0 +1,12 @@
+{
+  "id": "sv-elversberg",
+  "name": "SV Elversberg",
+  "shortName": "Elversberg",
+  "code": "ELV",
+  "sportId": "soccer",
+  "leagueId": "bundesliga",
+  "country": "Germany",
+  "crest": "assets/crests/sv-elversberg.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

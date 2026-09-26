@@ -1,0 +1,11 @@
+{
+  "id": "tunisia",
+  "name": "Tunisia",
+  "shortName": "Tunisia",
+  "code": "TUN",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Tunisia",
+  "crest": "assets/crests/tunisia.png",
+  "aliases": []
+}

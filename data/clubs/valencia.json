@@ -1,0 +1,12 @@
+{
+  "id": "valencia",
+  "name": "Valencia CF",
+  "shortName": "Valencia",
+  "code": "VAL",
+  "sportId": "soccer",
+  "leagueId": "la-liga",
+  "country": "Spain",
+  "crest": "assets/crests/valencia.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

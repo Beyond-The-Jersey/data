@@ -1,0 +1,23 @@
+{
+  "id": "rb-leipzig-red-bull",
+  "clubId": "rb-leipzig",
+  "orgName": null,
+  "sponsorId": "red-bull",
+  "placement": "front",
+  "from": null,
+  "to": null,
+  "value": {
+    "amount": 35,
+    "currency": "EUR",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": 40
+  },
+  "source": {
+    "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+    "date": "2026-08-04",
+    "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+  },
+  "note": "Red Bull owns 99% of the club's football company."
+}

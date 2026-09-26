@@ -1,0 +1,14 @@
+{
+  "id": "golden-1-credit-union-owner-record",
+  "ownerIds": [
+    "golden-1-credit-union-owner"
+  ],
+  "text": "Credit unions like Golden 1 are member-owned and not-for-profit financial cooperatives.",
+  "short": "Credit unions like Golden 1 are member-owned and not-for-profit financial cooperatives.",
+  "source": {
+    "name": "Golden 1 Credit Union blog post",
+    "date": "2026-09-24",
+    "url": "https://www.golden1.com/blog/why-choose-a-credit-union"
+  },
+  "reviewed": true
+}

@@ -1,0 +1,35 @@
+{
+  "id": "coventry-city-2026-27-home",
+  "clubId": "coventry-city",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {
+    "square": "assets/shirts/grid/coventry-city-2026-27-home-front-square.jpg"
+  },
+  "sponsors": [
+    {
+      "sponsorId": "monzo",
+      "placement": "front",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
+    },
+    {
+      "sponsorId": "geely-auto-uk",
+      "placement": "sleeve",
+      "source": {
+        "name": "Coventry City FC – 'Coventry City FC announces Geely Auto UK as Official Sleeve Partner and Official Vehicle Partner'",
+        "date": "2026-08-21",
+        "url": "https://www.ccfc.co.uk/news/2026/august/21/coventry-city-fc-announces-geely-auto-uk-as-official-sleeve-partner-and-official-vehicle-partner/"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": null,
+  "change": null
+}

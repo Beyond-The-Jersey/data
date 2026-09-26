@@ -1,0 +1,14 @@
+{
+  "id": "motorola-mobility",
+  "name": "Motorola Mobility",
+  "ownerId": "motorola-mobility-owner",
+  "ownership": "owned",
+  "tier": "concern",
+  "status": "rated",
+  "verdict": "Lenovo acquired Motorola Mobility from Google in January 2014, making Motorola Mobility a subsidiary of Lenovo Group Limited.",
+  "claimIds": [
+    "motorola-mobility-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Although Motorola Mobility is a subsidiary of Lenovo (which has partial state stake via Legend Holdings), the direct owner is Lenovo; Lenovo has concern tier due to partial state stake (Legend Holdings ~31.4%, CAS Holdings ~29.04% leading to indirect state interest ~9%). Therefore, Motorola Mobility inherits concern tier."
+}

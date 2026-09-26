@@ -1,0 +1,12 @@
+{
+  "id": "pittsburgh-steelers",
+  "name": "Pittsburgh Steelers",
+  "shortName": "Steelers",
+  "code": "PIT",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/pittsburgh-steelers.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

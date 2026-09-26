@@ -1,0 +1,13 @@
+{
+  "id": "mediacom",
+  "name": "Mediacom",
+  "ownerId": "mediacom-communications-corp",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Mediacom Communications Corporation. Nothing found.",
+  "claimIds": [
+    "mediacom-communications-corp-record"
+  ],
+  "aliases": []
+}

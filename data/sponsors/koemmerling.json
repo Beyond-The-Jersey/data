@@ -1,0 +1,14 @@
+{
+  "id": "koemmerling",
+  "name": "Koemmerling",
+  "ownerId": "profine-gmbh",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by profine GmbH (owner Dr Peter A. Mrosik / Hidden Peak Capital). Nothing found.",
+  "claimIds": [
+    "profine-gmbh-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: The Bahraini link is the former owner Arcapita, a Bahraini private bank - not the Bahraini state itself, so no state link at owner level."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "lexware",
+  "name": "Lexware",
+  "ownerId": "haufe-group-se",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Haufe Group SE (Haufe-Lexware). Nothing found.",
+  "claimIds": [
+    "haufe-group-se-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Privately held, family-controlled group; ~500 staff at Lexware, part of Haufe Group SE."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "qualcomm",
+  "name": "Qualcomm Snapdragon",
+  "ownerId": "qualcomm",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by QUALCOMM Incorporated. Nothing found.",
+  "claimIds": [
+    "qualcomm-incorporated-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: No state stake identified."
+}

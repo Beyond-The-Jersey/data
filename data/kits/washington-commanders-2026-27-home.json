@@ -1,0 +1,24 @@
+{
+  "id": "washington-commanders-2026-27-home",
+  "clubId": "washington-commanders",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "northwest-federal-credit-union",
+      "placement": "training-kit",
+      "source": {
+        "name": "Northwest Federal Credit Union",
+        "date": "2024-08-27",
+        "url": "https://nwfcu.org/news/washington-commanders-and-northwest-federal-credit-union-announce-stadium-naming-rights-deal-2024"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Practice-jersey patch: Northwest Federal Credit Union.",
+  "change": null
+}

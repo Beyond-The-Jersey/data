@@ -1,0 +1,41 @@
+{
+  "id": "arsenal-2017-18-home",
+  "clubId": "arsenal",
+  "season": "2017-18",
+  "kitType": "home",
+  "periodLabel": "2006/07 – 2017/18",
+  "periodFrom": "2006-07",
+  "periodTo": "2017-18",
+  "photos": {
+    "front": "assets/shirts/arsenal/2017-18-home-front.jpg",
+    "back": "assets/shirts/arsenal/2017-18-home-back.jpg"
+  },
+  "sponsors": [
+    {
+      "sponsorId": "emirates",
+      "placement": "front",
+      "side": "front",
+      "hotspot": {
+        "x": 0.503,
+        "y": 0.4,
+        "w": 0.38,
+        "h": 0.15
+      },
+      "cardSlot": "L"
+    },
+    {
+      "sponsorId": "deel",
+      "placement": "sleeve",
+      "source": {
+        "name": "Arsenal FC – 'Deel and Arsenal announce multi-year sleeve partnership'",
+        "date": "2026-05-14",
+        "url": "https://www.arsenal.com/news/deel-and-arsenal-announce-multi-year-sleeve-partnership-ai5MJ4o82lIM"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Dubai’s government pays for the front of this shirt.",
+  "change": null,
+  "headline": "The shirt was {level}: the front sponsor, Emirates, is owned by the Government of Dubai.",
+  "shortLine": "Emirates on the front"
+}

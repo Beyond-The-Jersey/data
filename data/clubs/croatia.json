@@ -1,0 +1,11 @@
+{
+  "id": "croatia",
+  "name": "Croatia",
+  "shortName": "Croatia",
+  "code": "CRO",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Croatia",
+  "crest": "assets/crests/croatia.png",
+  "aliases": []
+}

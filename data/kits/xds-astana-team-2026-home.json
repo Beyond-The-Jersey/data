@@ -1,0 +1,42 @@
+{
+  "id": "xds-astana-team-2026-home",
+  "clubId": "xds-astana-team",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026 season",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "xds",
+      "placement": "front",
+      "source": {
+        "name": "Kazinform — XDS Astana Team ready for the 2026 season",
+        "date": "2025-12-28",
+        "url": "https://qazinform.com/news/xds-astana-team-ready-for-the-2026-season-a1abf2"
+      }
+    },
+    {
+      "sponsorId": "samruk-kazyna",
+      "placement": "front",
+      "source": {
+        "name": "Kazinform — XDS Astana Team ready for the 2026 season",
+        "date": "2025-12-28",
+        "url": "https://qazinform.com/news/xds-astana-team-ready-for-the-2026-season-a1abf2"
+      }
+    },
+    {
+      "sponsorId": "sportqory",
+      "placement": "front",
+      "source": {
+        "name": "Kazinform — XDS Astana Team ready for the 2026 season",
+        "date": "2025-12-28",
+        "url": "https://qazinform.com/news/xds-astana-team-ready-for-the-2026-season-a1abf2"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "2026 UCI WorldTeam. XDS Astana Team's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+  "change": null
+}

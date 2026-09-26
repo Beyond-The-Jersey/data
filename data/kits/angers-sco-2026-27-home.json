@@ -1,0 +1,51 @@
+{
+  "id": "angers-sco-2026-27-home",
+  "clubId": "angers-sco",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "ecole-noir-et-blanc",
+      "placement": "front",
+      "source": {
+        "name": "Angers SCO — Partenaires",
+        "date": "2026",
+        "url": "https://angers-sco.fr/club/partenaires/"
+      }
+    },
+    {
+      "sponsorId": "maison-de-l-atoll",
+      "placement": "front",
+      "source": {
+        "name": "Angers SCO — Partenaires",
+        "date": "2026",
+        "url": "https://angers-sco.fr/club/partenaires/"
+      }
+    },
+    {
+      "sponsorId": "ville-d-angers",
+      "placement": "front",
+      "source": {
+        "name": "Angers SCO — Partenaires",
+        "date": "2026",
+        "url": "https://angers-sco.fr/club/partenaires/"
+      }
+    },
+    {
+      "sponsorId": "systeme-u",
+      "placement": "shorts",
+      "source": {
+        "name": "Angers SCO — Partenaires",
+        "date": "2026",
+        "url": "https://angers-sco.fr/club/partenaires/"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Nike kit. École Noir&Blanc front, with Maison de l'Atoll and the city of Angers; Système U on the shorts.",
+  "change": null
+}

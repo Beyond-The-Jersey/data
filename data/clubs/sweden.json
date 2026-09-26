@@ -1,0 +1,11 @@
+{
+  "id": "sweden",
+  "name": "Sweden",
+  "shortName": "Sweden",
+  "code": "SWE",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Sweden",
+  "crest": "assets/crests/sweden.png",
+  "aliases": []
+}

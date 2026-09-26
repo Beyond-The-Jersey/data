@@ -1,0 +1,13 @@
+{
+  "id": "carvana",
+  "name": "Carvana",
+  "ownerId": "carvana",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Carvana Co.. Nothing found.",
+  "claimIds": [
+    "carvana-record"
+  ],
+  "aliases": []
+}

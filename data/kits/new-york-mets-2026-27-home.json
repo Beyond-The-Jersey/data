@@ -1,0 +1,24 @@
+{
+  "id": "new-york-mets-2026-27-home",
+  "clubId": "new-york-mets",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "newyork-presbyterian",
+      "placement": "patch",
+      "source": {
+        "name": "MLB.com press release",
+        "date": "2023-04-06",
+        "url": "https://www.mlb.com/press-release/press-release-new-york-mets-announce-multiyear-partnership-with-newyork-presbyte"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: NewYork-Presbyterian.",
+  "change": null
+}

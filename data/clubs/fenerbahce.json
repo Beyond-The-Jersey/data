@@ -1,0 +1,15 @@
+{
+  "id": "fenerbahce",
+  "name": "Fenerbahçe",
+  "shortName": "Fenerbahçe",
+  "code": "FEN",
+  "sportId": "soccer",
+  "leagueId": "uefa",
+  "country": "Türkiye",
+  "crest": "assets/crests/fenerbahce.png",
+  "aliases": [
+    "fenerbahce",
+    "fener"
+  ],
+  "hasTeamPageDesign": false
+}

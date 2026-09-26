@@ -1,0 +1,24 @@
+{
+  "id": "como-2026-27-home",
+  "clubId": "como",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026-27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "revolut",
+      "placement": "front",
+      "source": {
+        "name": "Como 1907",
+        "date": "2026-07-01",
+        "url": "https://comofootball.com/en/revolut-becomes-como-1907-s-official-front-of-shirt-partner/"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": "Back: Uber; Sleeves: PokerStars News (gambling)."
+}

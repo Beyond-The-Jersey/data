@@ -1,0 +1,24 @@
+{
+  "id": "chicago-bulls-2026-27-home",
+  "clubId": "chicago-bulls",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "motorola-mobility",
+      "placement": "patch",
+      "source": {
+        "name": "Chicago Bulls (nba.com)",
+        "date": "2022-09-20",
+        "url": "https://www.nba.com/bulls/news/chicago-bulls-name-motorola-mobility-as-official-jersey-patch-partner"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Motorola Mobility.",
+  "change": null
+}

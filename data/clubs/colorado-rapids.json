@@ -1,0 +1,11 @@
+{
+  "id": "colorado-rapids",
+  "name": "Colorado Rapids",
+  "shortName": "Colorado Rapids",
+  "code": "COL",
+  "sportId": "soccer",
+  "leagueId": "mls",
+  "country": "USA",
+  "crest": "assets/crests/colorado-rapids.png",
+  "aliases": []
+}

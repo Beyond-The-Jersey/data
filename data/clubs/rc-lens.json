@@ -1,0 +1,14 @@
+{
+  "id": "rc-lens",
+  "name": "RC Lens",
+  "shortName": "Lens",
+  "code": "RCL",
+  "sportId": "soccer",
+  "leagueId": "ligue-1",
+  "country": "France",
+  "crest": "assets/crests/rc-lens.png",
+  "aliases": [
+    "lens",
+    "racing club de lens"
+  ]
+}

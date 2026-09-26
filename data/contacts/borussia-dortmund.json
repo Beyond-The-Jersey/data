@@ -1,0 +1,52 @@
+{
+  "clubId": "borussia-dortmund",
+  "channels": [
+    {
+      "type": "email",
+      "value": "inklusion@bvb.de",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.bvb.de/de/de/mannschaften/fussball/frauen/kontakt-tickets.html",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "dortmundermaedchen@bvb.de",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.bvb.de/de/de/mannschaften/fussball/frauen/kontakt-tickets.html",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.bvb.de/de/de/mannschaften/fussball/frauen/kontakt-tickets.html",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.bvb.de/de/de/mannschaften/fussball/frauen/kontakt-tickets.html",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@bvb",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.bvb.de/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@bvb09",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.bvb.de/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

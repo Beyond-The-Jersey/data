@@ -1,0 +1,11 @@
+{
+  "id": "england",
+  "name": "England",
+  "shortName": "England",
+  "code": "ENG",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "England",
+  "crest": "assets/crests/england.png",
+  "aliases": []
+}

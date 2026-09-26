@@ -1,0 +1,24 @@
+{
+  "id": "kansas-city-chiefs-2026-27-home",
+  "clubId": "kansas-city-chiefs",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "burns-and-mcdonnell",
+      "placement": "training-kit",
+      "source": {
+        "name": "Kansas City Chiefs",
+        "date": "2025-08-25",
+        "url": "https://www.chiefs.com/news/chiefs-and-burns-mcdonnell-announce-significant-partnership-agreement-for-practice-jersey-patch"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Practice-jersey patch: Burns & McDonnell.",
+  "change": null
+}

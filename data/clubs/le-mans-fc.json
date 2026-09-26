@@ -1,0 +1,14 @@
+{
+  "id": "le-mans-fc",
+  "name": "Le Mans FC",
+  "shortName": "Le Mans",
+  "code": "LMFC",
+  "sportId": "soccer",
+  "leagueId": "ligue-1",
+  "country": "France",
+  "crest": "assets/crests/le-mans-fc.png",
+  "aliases": [
+    "le mans",
+    "lmfc"
+  ]
+}

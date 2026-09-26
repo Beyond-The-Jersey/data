@@ -1,0 +1,28 @@
+{
+  "id": "premier-league",
+  "aliases": [
+    "epl",
+    "england"
+  ],
+  "sportId": "soccer",
+  "name": "Premier League",
+  "country": "England",
+  "clubCount": 20,
+  "season": "2026-27",
+  "status": "partial",
+  "frontOfShirtTotal": {
+    "amount": 444,
+    "currency": "GBP",
+    "unit": "m",
+    "per": "year",
+    "usdApprox": 593,
+    "source": {
+      "name": "Inside World Football (Ampere study)",
+      "date": "2026-09-22",
+      "url": "https://www.insideworldfootball.com/2026/09/22/ampere-study-showcases-front-of-shirt-sponsor-worth-in-english-premier-league"
+    }
+  },
+  "notes": [
+    "The 2026/27 season is the first with the front-of-shirt betting ban; 11 clubs needed new sponsors (SportsPro)."
+  ]
+}

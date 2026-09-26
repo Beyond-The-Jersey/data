@@ -1,0 +1,14 @@
+{
+  "id": "monzo-bank-limited-record",
+  "ownerIds": [
+    "monzo-bank-limited"
+  ],
+  "text": "Monzo Bank Limited is a UK-incorporated bank (registered in England and Wales, No.09446231) with a full banking licence and dispersed venture-investor ownership; it publishes annual reports. No state or state-fund owner.",
+  "short": "Monzo Bank Limited is a private, VC-backed UK bank.",
+  "source": {
+    "name": "Monzo, investor information",
+    "date": "2026",
+    "url": "https://monzo.com/investor-information"
+  },
+  "reviewed": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": "raisin",
+  "name": "Raisin",
+  "ownerId": "raisin-gmbh",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Raisin GmbH (Raisin DS). Nothing found.",
+  "claimIds": [
+    "raisin-gmbh-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Bank investors are minority VC/strategic stakes, so the owner stays private-company with no state link (Orange Ventures is Orange SA, itself only partly French state-owned - not counted)."
+}

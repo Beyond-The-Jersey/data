@@ -1,0 +1,43 @@
+{
+  "clubId": "monza",
+  "channels": [
+    {
+      "type": "phone",
+      "value": "+39039836664",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.acmonza.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.acmonza.com/it/contatti/",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.acmonza.com/it/contatti/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@ACMonza",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.acmonza.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@acmonza",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.acmonza.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

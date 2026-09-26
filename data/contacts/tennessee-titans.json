@@ -1,0 +1,24 @@
+{
+  "clubId": "tennessee-titans",
+  "channels": [
+    {
+      "type": "x",
+      "value": "@titans",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.tennesseetitans.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@titans",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.tennesseetitans.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

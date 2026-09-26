@@ -1,0 +1,59 @@
+{
+  "id": "arsenal-2026-27-home",
+  "clubId": "arsenal",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {
+    "front": "assets/shirts/arsenal/2026-27-home-front.jpg",
+    "back": "assets/shirts/arsenal/2026-27-home-back.jpg",
+    "square": "assets/shirts/grid/arsenal-2026-27-home-front-square.jpg"
+  },
+  "sponsors": [
+    {
+      "sponsorId": "emirates",
+      "placement": "front",
+      "side": "front",
+      "hotspot": {
+        "x": 0.5,
+        "y": 0.41,
+        "w": 0.4,
+        "h": 0.16
+      },
+      "cardSlot": "L",
+      "source": {
+        "name": "Sporting Goods Intelligence",
+        "date": "2026-08-06",
+        "url": "https://www.sgieurope.com/marketing/emirates-and-arsenal-extend-shirt-deal-to-2033/122576.article"
+      }
+    },
+    {
+      "sponsorId": "deel",
+      "placement": "sleeve",
+      "side": "front",
+      "hotspot": {
+        "x": 0.865,
+        "y": 0.295,
+        "w": 0.07,
+        "h": 0.06
+      },
+      "cardSlot": "T",
+      "source": {
+        "name": "Sporting Goods Intelligence",
+        "date": "2026-08-06",
+        "url": "https://www.sgieurope.com/marketing/emirates-and-arsenal-extend-shirt-deal-to-2033/122576.article"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Rwanda is off the sleeve, but Dubai’s government still pays for the front, so the shirt stays stained.",
+  "change": {
+    "kind": "better",
+    "text": "Better than last season: Visit Rwanda left in June 2026",
+    "badge": "Rwanda gone"
+  },
+  "headline": "The shirt is {level}: the front sponsor, Emirates, is owned by the Government of Dubai.",
+  "shortLine": "Visit Rwanda gone, Deel on the sleeve"
+}

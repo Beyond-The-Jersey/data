@@ -1,0 +1,14 @@
+{
+  "id": "renasant-bank",
+  "name": "Renasant Bank",
+  "ownerId": "renasant-corporation",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Renasant Corporation. Nothing found.",
+  "claimIds": [
+    "renasant-corporation-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Bank regulation gives government-adjacent exposure but no equity stake."
+}

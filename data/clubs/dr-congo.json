@@ -1,0 +1,11 @@
+{
+  "id": "dr-congo",
+  "name": "DR Congo",
+  "shortName": "DR Congo",
+  "code": "COD",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "DR Congo",
+  "crest": "assets/crests/dr-congo.png",
+  "aliases": []
+}

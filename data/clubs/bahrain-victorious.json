@@ -1,0 +1,15 @@
+{
+  "id": "bahrain-victorious",
+  "name": "Bahrain Victorious",
+  "shortName": "Bahrain Victorious",
+  "code": "TBV",
+  "sportId": "cycling",
+  "leagueId": "uci-worldtour",
+  "country": "Bahrain",
+  "crest": "assets/crests/bahrain-victorious.png",
+  "aliases": [
+    "bahrain-mclaren",
+    "bahrain-merida",
+    "team-bahrain-victorious"
+  ]
+}

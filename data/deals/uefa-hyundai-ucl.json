@@ -1,0 +1,17 @@
+{
+  "id": "uefa-hyundai-ucl",
+  "clubId": null,
+  "orgName": "UEFA Champions League",
+  "sponsorId": "hyundai-kia",
+  "placement": "league-partner",
+  "from": "2026",
+  "to": "2031",
+  "value": null,
+  "source": {
+    "name": "SportsPro",
+    "date": "2026-09-08",
+    "url": "https://www.sportspro.com/sponsorship-marketing/uefa-champions-league-sponsorship-just-eat-hyundai-haier-september-2026/"
+  },
+  "leagueId": "uefa",
+  "note": "Official automotive partner. Replaces Just Eat one year early. SportsPro headline says four years while the article body says five years running to 2031 - the length disagrees between sources."
+}

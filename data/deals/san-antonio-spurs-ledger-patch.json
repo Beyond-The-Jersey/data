@@ -1,0 +1,16 @@
+{
+  "id": "san-antonio-spurs-ledger-patch",
+  "clubId": "san-antonio-spurs",
+  "orgName": "Ledger",
+  "sponsorId": "ledger",
+  "placement": "patch",
+  "from": "2025",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "San Antonio Spurs (spurs.com)",
+    "date": "2025-06-24",
+    "url": "https://spurs.com/news/san-antonio-spurs-partner-with-digital-asset-security-leader-ledger-in-new-global-jersey-patch-deal"
+  },
+  "note": "Jersey patch."
+}

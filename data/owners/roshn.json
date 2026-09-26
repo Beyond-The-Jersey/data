@@ -1,0 +1,9 @@
+{
+  "id": "roshn",
+  "name": "ROSHN Group",
+  "type": "private-company",
+  "country": "Saudi Arabia",
+  "via": "PIF",
+  "note": "Describes itself as 'a Public Investment Fund (PIF) company'.",
+  "parentId": "saudi-pif"
+}

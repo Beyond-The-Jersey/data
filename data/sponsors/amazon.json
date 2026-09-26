@@ -1,0 +1,11 @@
+{
+  "id": "amazon",
+  "name": "Amazon",
+  "ownerId": "amazon-com-inc",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": []
+}

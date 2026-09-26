@@ -1,0 +1,12 @@
+{
+  "id": "san-francisco-giants",
+  "name": "San Francisco Giants",
+  "shortName": "Giants",
+  "code": "SF",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "USA",
+  "crest": "assets/crests/san-francisco-giants.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

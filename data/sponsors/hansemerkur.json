@@ -1,0 +1,14 @@
+{
+  "id": "hansemerkur",
+  "name": "HanseMerkur",
+  "ownerId": "hansemerkur-krankenversicherung-ag",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by HanseMerkur Krankenversicherung a.G. (HanseMerkur Group). Nothing found.",
+  "claimIds": [
+    "hansemerkur-krankenversicherung-ag-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: German mutual insurer. No state or listed-shareholder ownership."
+}

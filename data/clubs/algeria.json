@@ -1,0 +1,11 @@
+{
+  "id": "algeria",
+  "name": "Algeria",
+  "shortName": "Algeria",
+  "code": "ALG",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Algeria",
+  "crest": "assets/crests/algeria.png",
+  "aliases": []
+}

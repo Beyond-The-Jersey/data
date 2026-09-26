@@ -1,0 +1,24 @@
+{
+  "id": "memphis-grizzlies-2026-27-home",
+  "clubId": "memphis-grizzlies",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "robinhood",
+      "placement": "patch",
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2024-09-19",
+        "url": "https://www.sportsbusinessjournal.com/Articles/2024/09/19/memphis-grizzlies-jersey-patch-robinhood"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Robinhood.",
+  "change": null
+}

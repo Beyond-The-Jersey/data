@@ -1,0 +1,13 @@
+{
+  "id": "idm-energiesysteme",
+  "name": "IDM Energiesysteme",
+  "ownerId": "idm-energiesysteme",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": [
+    "idm waermepumpen"
+  ]
+}

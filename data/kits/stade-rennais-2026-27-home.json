@@ -1,0 +1,69 @@
+{
+  "id": "stade-rennais-2026-27-home",
+  "clubId": "stade-rennais",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "samsic",
+      "placement": "front",
+      "source": {
+        "name": "Stade Rennais FC — Partenaires (site officiel)",
+        "date": "2026",
+        "url": "https://www.staderennais.com/"
+      }
+    },
+    {
+      "sponsorId": "hellowork",
+      "placement": "front",
+      "source": {
+        "name": "Stade Rennais FC — Partenaires (site officiel)",
+        "date": "2026",
+        "url": "https://www.staderennais.com/"
+      }
+    },
+    {
+      "sponsorId": "association-ela",
+      "placement": "front",
+      "source": {
+        "name": "Stade Rennais FC — Partenaires (site officiel)",
+        "date": "2026",
+        "url": "https://www.staderennais.com/"
+      }
+    },
+    {
+      "sponsorId": "winamax",
+      "placement": "back",
+      "source": {
+        "name": "Stade Rennais FC — Partenaires (site officiel)",
+        "date": "2026",
+        "url": "https://www.staderennais.com/"
+      }
+    },
+    {
+      "sponsorId": "blot-immobilier",
+      "placement": "back",
+      "source": {
+        "name": "Stade Rennais FC — Partenaires (site officiel)",
+        "date": "2026",
+        "url": "https://www.staderennais.com/"
+      }
+    },
+    {
+      "sponsorId": "bwt",
+      "placement": "shorts",
+      "source": {
+        "name": "Stade Rennais FC — Partenaires (site officiel)",
+        "date": "2026",
+        "url": "https://www.staderennais.com/"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Puma kit. Samsic front; BWT on the shorts.",
+  "change": null
+}

@@ -1,0 +1,52 @@
+{
+  "clubId": "atletico-de-madrid",
+  "channels": [
+    {
+      "type": "email",
+      "value": "socios@atleticodemadrid.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.atleticodemadrid.com/atm/contacto-15",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "ticketing@atleticodemadrid.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.atleticodemadrid.com/atm/contacto-15",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "+34917260403",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.atleticodemadrid.com/atm/contacto-15",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.atleticodemadrid.com/atm/contacto-15",
+      "label": "Contacto y horarios",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.atleticodemadrid.com/atm/contacto-15",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@Atleti",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.atleticodemadrid.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

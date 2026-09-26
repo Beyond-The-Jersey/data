@@ -1,0 +1,14 @@
+{
+  "id": "al-kholood",
+  "name": "Al-Kholood",
+  "shortName": "Al-Kholood",
+  "code": "KHO",
+  "sportId": "soccer",
+  "leagueId": "saudi-pro-league",
+  "country": "Saudi Arabia",
+  "crest": "assets/crests/al-kholood.png",
+  "aliases": [
+    "al kholood",
+    "kholood"
+  ]
+}

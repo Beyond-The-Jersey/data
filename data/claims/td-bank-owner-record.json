@@ -1,0 +1,14 @@
+{
+  "id": "td-bank-owner-record",
+  "ownerIds": [
+    "td-bank-owner"
+  ],
+  "text": "TD Bank Group is owned by TD Bank. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+  "short": "TD Bank Group is owned by TD Bank.",
+  "source": {
+    "name": "TD Bank Group Proxy Circular 2026",
+    "date": "2026-03-??",
+    "url": "https://www.td.com/content/dam/tdcom/canada/about-td/pdf/2026-proxy-circular-en.pdf"
+  },
+  "reviewed": true
+}

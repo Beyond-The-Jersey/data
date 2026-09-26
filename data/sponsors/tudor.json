@@ -1,0 +1,14 @@
+{
+  "id": "tudor",
+  "name": "TUDOR",
+  "ownerId": "rolex-sa",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Rolex SA (Hans Wilsdorf Foundation). Nothing found.",
+  "claimIds": [
+    "rolex-sa-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Foundation-owned private group; no state equity."
+}

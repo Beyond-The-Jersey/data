@@ -1,0 +1,14 @@
+{
+  "id": "netapp-inc-record",
+  "ownerIds": [
+    "netapp-inc"
+  ],
+  "text": "NetApp, Inc. is a Delaware corporation listed on Nasdaq (ticker NTAP); it has no controlling shareholder and no material state stake. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+  "short": "NetApp, Inc.",
+  "source": {
+    "name": "NetApp, Inc. Form 10-K FY2026 (SEC EDGAR)",
+    "date": "2026-06-05",
+    "url": "https://www.sec.gov/Archives/edgar/data/1002047/000119312526259683/ntap-20260424.htm"
+  },
+  "reviewed": true
+}

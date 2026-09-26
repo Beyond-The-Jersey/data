@@ -1,0 +1,11 @@
+{
+  "id": "atalanta",
+  "name": "Atalanta BC",
+  "shortName": "Atalanta",
+  "code": "ATA",
+  "sportId": "soccer",
+  "leagueId": "serie-a",
+  "country": "Italy",
+  "crest": "assets/crests/atalanta.png",
+  "aliases": []
+}

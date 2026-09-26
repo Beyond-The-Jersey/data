@@ -1,0 +1,14 @@
+{
+  "id": "electronic-arts-record",
+  "ownerIds": [
+    "electronic-arts"
+  ],
+  "text": "Electronic Arts Inc. is a US Nasdaq-listed video-game company with dispersed public shareholders and no state owner.",
+  "short": "Electronic Arts is a Nasdaq-listed games company.",
+  "source": {
+    "name": "Electronic Arts, investor relations",
+    "date": "2026",
+    "url": "https://ir.ea.com/"
+  },
+  "reviewed": true
+}

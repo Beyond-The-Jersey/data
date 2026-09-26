@@ -1,0 +1,43 @@
+{
+  "clubId": "celta-vigo",
+  "channels": [
+    {
+      "type": "email",
+      "value": "fdpcelta@gmail.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://rccelta.es/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://rccelta.es/aviso-legal/",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://rccelta.es/aviso-legal/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@rccelta",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://rccelta.es/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@rccelta",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://rccelta.es/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

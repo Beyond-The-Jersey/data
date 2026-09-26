@@ -1,0 +1,14 @@
+{
+  "id": "halo",
+  "name": "Halo",
+  "ownerId": "halo-lifestyle-llc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Halo Lifestyle LLC (HALO Hydration). Nothing found.",
+  "claimIds": [
+    "halo-lifestyle-llc-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Not to be confused with HALO Water Systems or Halo Sports. Small US private brand, no parent group."
+}

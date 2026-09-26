@@ -1,0 +1,11 @@
+{
+  "id": "trainline",
+  "name": "Trainline",
+  "ownerId": "trainline-plc",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": []
+}

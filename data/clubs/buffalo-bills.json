@@ -1,0 +1,12 @@
+{
+  "id": "buffalo-bills",
+  "name": "Buffalo Bills",
+  "shortName": "Bills",
+  "code": "BUF",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/buffalo-bills.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

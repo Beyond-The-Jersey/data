@@ -1,0 +1,14 @@
+{
+  "id": "rewe",
+  "name": "REWE",
+  "ownerId": "rewe-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by REWE Group (REWE cooperatives eG). Nothing found.",
+  "claimIds": [
+    "rewe-group-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Type stays private-company because the owner list only allows state/state-fund/listed/private/unknown and an eG is private. (Note: country set DE - see note.)"
+}

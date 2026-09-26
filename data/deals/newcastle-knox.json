@@ -1,0 +1,23 @@
+{
+  "id": "newcastle-knox",
+  "clubId": "newcastle-united",
+  "orgName": null,
+  "sponsorId": "knox-hydration",
+  "placement": "front",
+  "from": "2026-27",
+  "to": "2028-29",
+  "value": {
+    "amount": 60,
+    "currency": "GBP",
+    "unit": "m",
+    "per": "3 years",
+    "upTo": false,
+    "usdApprox": 80
+  },
+  "source": {
+    "name": "The Mag",
+    "date": "2026-06",
+    "url": "https://www.themag.co.uk/2026/06/newcastle-united-have-agreed-new-main-sponsor-front-of-shirt-three-year-deal-to-replace-sela/"
+  },
+  "note": "£10m in 2026/27, then £25m a year."
+}

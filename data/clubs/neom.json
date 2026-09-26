@@ -1,0 +1,14 @@
+{
+  "id": "neom",
+  "name": "NEOM SC",
+  "shortName": "NEOM",
+  "code": "NEO",
+  "sportId": "soccer",
+  "leagueId": "saudi-pro-league",
+  "country": "Saudi Arabia",
+  "crest": "assets/crests/neom.png",
+  "aliases": [
+    "neom",
+    "neom sc"
+  ]
+}

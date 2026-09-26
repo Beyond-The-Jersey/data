@@ -1,0 +1,12 @@
+{
+  "id": "arizona-cardinals",
+  "name": "Arizona Cardinals",
+  "shortName": "Cardinals",
+  "code": "ARI",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/arizona-cardinals.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

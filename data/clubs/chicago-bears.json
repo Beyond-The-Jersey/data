@@ -1,0 +1,12 @@
+{
+  "id": "chicago-bears",
+  "name": "Chicago Bears",
+  "shortName": "Bears",
+  "code": "CHI",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/chicago-bears.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "coors-brewing-co-molson-coors-owner-record",
+  "ownerIds": [
+    "coors-brewing-co-molson-coors-owner"
+  ],
+  "text": "Molson Coors Beverage Company is a NYSE-listed brewer with no state ownership; largest shareholders are institutional investors (Vanguard, BlackRock) each under 10%.",
+  "short": "Molson Coors Beverage Company is a NYSE-listed brewer with no state ownership; largest shareholders are institutional investors (Vanguard, BlackRock) each under 10%.",
+  "source": {
+    "name": "Molson Coors DEF 14A 2026",
+    "date": "2026-03-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/24545/000110465926034154/tap-20260506xdef14a.htm"
+  },
+  "reviewed": true
+}

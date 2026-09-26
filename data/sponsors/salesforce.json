@@ -1,0 +1,14 @@
+{
+  "id": "salesforce",
+  "name": "Salesforce",
+  "ownerId": "salesforce-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Salesforce, Inc.. Nothing found.",
+  "claimIds": [
+    "salesforce-inc-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: No sovereign wealth stake."
+}

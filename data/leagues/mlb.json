@@ -1,0 +1,14 @@
+{
+  "id": "mlb",
+  "aliases": [
+    "major league baseball",
+    "usa"
+  ],
+  "sportId": "baseball",
+  "name": "MLB",
+  "country": "USA and Canada",
+  "clubCount": 30,
+  "season": "2026",
+  "status": "partial",
+  "notes": []
+}

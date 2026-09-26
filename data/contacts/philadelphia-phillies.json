@@ -1,0 +1,52 @@
+{
+  "clubId": "philadelphia-phillies",
+  "channels": [
+    {
+      "type": "email",
+      "value": "tickets@phillies.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/phillies/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "seasonmvp@phillies.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/phillies/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.mlb.com/phillies/official-information/contact",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/phillies/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@Phillies",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/phillies",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@phillies",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/phillies",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

@@ -1,0 +1,43 @@
+{
+  "clubId": "osasuna",
+  "channels": [
+    {
+      "type": "email",
+      "value": "lopd@osasuna.es",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.osasuna.es/aviso-legal",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.osasuna.es/aviso-legal",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.osasuna.es/aviso-legal",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@Osasuna",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.osasuna.es/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@caosasuna",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.osasuna.es/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

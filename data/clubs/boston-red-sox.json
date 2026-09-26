@@ -1,0 +1,12 @@
+{
+  "id": "boston-red-sox",
+  "name": "Boston Red Sox",
+  "shortName": "Red Sox",
+  "code": "BOS",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "USA",
+  "crest": "assets/crests/boston-red-sox.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

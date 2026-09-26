@@ -1,0 +1,24 @@
+{
+  "id": "brooklyn-nets-2026-27-home",
+  "clubId": "brooklyn-nets",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "all-in-won",
+      "placement": "patch",
+      "source": {
+        "name": "Brooklyn Sports & Entertainment (bkse.com)",
+        "date": "2025-07-01",
+        "url": "https://bkse.com/news/brooklyn-nets-name-all-in-won-as-official-jersey-patch-partner"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: All In Won.",
+  "change": null
+}

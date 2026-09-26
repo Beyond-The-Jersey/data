@@ -1,0 +1,33 @@
+{
+  "id": "team-visma-lease-a-bike-2026-home",
+  "clubId": "team-visma-lease-a-bike",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026 season",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "visma",
+      "placement": "front",
+      "source": {
+        "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+        "date": "2026-07-14",
+        "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+      }
+    },
+    {
+      "sponsorId": "lease-a-bike",
+      "placement": "front",
+      "source": {
+        "name": "The Inner Ring — Pro Team Sponsors Explained",
+        "date": "2026-07-10",
+        "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "2026 UCI WorldTeam. Team Visma | Lease a Bike's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+  "change": null
+}

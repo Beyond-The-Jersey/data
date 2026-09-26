@@ -1,0 +1,33 @@
+{
+  "id": "groupama-fdj-united-2026-home",
+  "clubId": "groupama-fdj-united",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026 season",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "groupama",
+      "placement": "front",
+      "source": {
+        "name": "The Inner Ring — Pro Team Sponsors Explained",
+        "date": "2026-07-10",
+        "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+      }
+    },
+    {
+      "sponsorId": "fdj",
+      "placement": "front",
+      "source": {
+        "name": "The Inner Ring — Pro Team Sponsors Explained",
+        "date": "2026-07-10",
+        "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "2026 UCI WorldTeam. Groupama-FDJ United's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+  "change": null
+}

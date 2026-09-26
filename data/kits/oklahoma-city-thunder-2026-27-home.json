@@ -1,0 +1,24 @@
+{
+  "id": "oklahoma-city-thunder-2026-27-home",
+  "clubId": "oklahoma-city-thunder",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "loves-travel-stops",
+      "placement": "patch",
+      "source": {
+        "name": "ESPN",
+        "date": "2019-03-15",
+        "url": "https://www.espn.com/espn/print?id=26262269"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Love's Travel Stops & Country Stores.",
+  "change": null
+}

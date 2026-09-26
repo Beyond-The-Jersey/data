@@ -1,0 +1,14 @@
+{
+  "id": "racing-santander",
+  "name": "Racing Santander",
+  "shortName": "Racing",
+  "code": "RAC",
+  "sportId": "soccer",
+  "leagueId": "la-liga",
+  "country": "Spain",
+  "crest": "assets/crests/racing-santander.png",
+  "aliases": [
+    "racing"
+  ],
+  "hasTeamPageDesign": false
+}

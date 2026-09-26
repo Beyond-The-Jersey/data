@@ -1,0 +1,12 @@
+{
+  "id": "san-francisco-49ers",
+  "name": "San Francisco 49ers",
+  "shortName": "49ers",
+  "code": "SF",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/san-francisco-49ers.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fc-augsburg",
+  "name": "FC Augsburg",
+  "shortName": "Augsburg",
+  "code": "FCA",
+  "sportId": "soccer",
+  "leagueId": "bundesliga",
+  "country": "Germany",
+  "crest": "assets/crests/fc-augsburg.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

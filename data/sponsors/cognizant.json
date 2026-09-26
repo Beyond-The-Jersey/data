@@ -1,0 +1,14 @@
+{
+  "id": "cognizant",
+  "name": "Cognizant",
+  "ownerId": "cognizant",
+  "ownership": "owned",
+  "tier": "concern",
+  "status": "rated",
+  "verdict": "Cognizant Technology Solutions Corporation (NASDAQ: CTSH) is a US-listed IT services firm with dispersed institutional ownership and no state shareholder in any of….",
+  "claimIds": [
+    "cognizant-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Tier call is the softest in the batch - the FCPA case is real but small relative to peer sets. 'none' would be defensible."
+}

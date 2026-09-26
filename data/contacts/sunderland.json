@@ -1,0 +1,34 @@
+{
+  "clubId": "sunderland",
+  "channels": [
+    {
+      "type": "contact-form",
+      "value": "https://www.safc.com/contact",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.safc.com/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@sunderlandafc",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.safc.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@sunderlandafc",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.safc.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

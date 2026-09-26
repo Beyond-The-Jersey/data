@@ -1,0 +1,69 @@
+{
+  "id": "rc-strasbourg-2026-27-home",
+  "clubId": "rc-strasbourg",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "winamax",
+      "placement": "front",
+      "source": {
+        "name": "RC Strasbourg Alsace — Les sponsors du Racing",
+        "date": "2026",
+        "url": "https://www.rcstrasbourgalsace.fr/le-club/les-partenaires-du-racing/"
+      }
+    },
+    {
+      "sponsorId": "hager-group",
+      "placement": "front",
+      "source": {
+        "name": "RC Strasbourg Alsace — Les sponsors du Racing",
+        "date": "2026",
+        "url": "https://www.rcstrasbourgalsace.fr/le-club/les-partenaires-du-racing/"
+      }
+    },
+    {
+      "sponsorId": "electricite-de-strasbourg",
+      "placement": "front",
+      "source": {
+        "name": "RC Strasbourg Alsace — Les sponsors du Racing",
+        "date": "2026",
+        "url": "https://www.rcstrasbourgalsace.fr/le-club/les-partenaires-du-racing/"
+      }
+    },
+    {
+      "sponsorId": "soprema",
+      "placement": "back",
+      "source": {
+        "name": "RC Strasbourg Alsace — Les sponsors du Racing",
+        "date": "2026",
+        "url": "https://www.rcstrasbourgalsace.fr/le-club/les-partenaires-du-racing/"
+      }
+    },
+    {
+      "sponsorId": "wurth",
+      "placement": "sleeve",
+      "source": {
+        "name": "RC Strasbourg Alsace — Les sponsors du Racing",
+        "date": "2026",
+        "url": "https://www.rcstrasbourgalsace.fr/le-club/les-partenaires-du-racing/"
+      }
+    },
+    {
+      "sponsorId": "atheo-ingenierie",
+      "placement": "shorts",
+      "source": {
+        "name": "RC Strasbourg Alsace — Les sponsors du Racing",
+        "date": "2026",
+        "url": "https://www.rcstrasbourgalsace.fr/le-club/les-partenaires-du-racing/"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Adidas kit. Winamax front; Würth on the sleeve.",
+  "change": null
+}

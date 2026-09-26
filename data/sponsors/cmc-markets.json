@@ -1,0 +1,14 @@
+{
+  "id": "cmc-markets",
+  "name": "CMC Markets",
+  "ownerId": "cmc-markets-plc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by CMC Markets Plc (London-listed; Cruddas family significant holder). Nothing found.",
+  "claimIds": [
+    "cmc-markets-plc-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Listed UK company with a founder/family anchor, no state link → none."
+}

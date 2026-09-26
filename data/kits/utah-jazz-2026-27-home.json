@@ -1,0 +1,24 @@
+{
+  "id": "utah-jazz-2026-27-home",
+  "clubId": "utah-jazz",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "healthequity",
+      "placement": "patch",
+      "source": {
+        "name": "Utah Jazz",
+        "date": "2026-06-17",
+        "url": "https://utahjazz.com/news/healthequity-becomes-official-jersey-patch-partner-of-the-utah-jazz-1"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: HealthEquity.",
+  "change": null
+}

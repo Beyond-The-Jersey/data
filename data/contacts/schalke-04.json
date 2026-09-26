@@ -1,0 +1,52 @@
+{
+  "clubId": "schalke-04",
+  "channels": [
+    {
+      "type": "email",
+      "value": "post@schalke04.de",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://schalke04.de/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "+4920997751877",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://schalke04.de/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://schalke04.de/kontakt/",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://schalke04.de/kontakt/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@s04",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://schalke04.de/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@s04",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://schalke04.de/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

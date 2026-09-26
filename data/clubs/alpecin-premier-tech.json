@@ -1,0 +1,14 @@
+{
+  "id": "alpecin-premier-tech",
+  "name": "Alpecin-Premier Tech",
+  "shortName": "Alpecin",
+  "code": "APC",
+  "sportId": "cycling",
+  "leagueId": "uci-worldtour",
+  "country": "Belgium",
+  "crest": "assets/crests/alpecin-premier-tech.png",
+  "aliases": [
+    "alpecin-deceuninck",
+    "alpecin"
+  ]
+}

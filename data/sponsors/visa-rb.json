@@ -1,0 +1,14 @@
+{
+  "id": "visa-rb",
+  "name": "Visa",
+  "ownerId": "visa-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Visa Inc.. Nothing found.",
+  "claimIds": [
+    "visa-inc-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Duplicate sponsor record for a second car; same owner resolved."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "petco",
+  "name": "Petco",
+  "ownerId": "petco-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Petco. Nothing found.",
+  "claimIds": [
+    "petco-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
+}

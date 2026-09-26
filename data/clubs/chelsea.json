@@ -1,0 +1,15 @@
+{
+  "id": "chelsea",
+  "name": "Chelsea",
+  "shortName": "Chelsea",
+  "code": "CHE",
+  "sportId": "soccer",
+  "leagueId": "premier-league",
+  "country": "England",
+  "crest": "assets/crests/chelsea.png",
+  "aliases": [
+    "cfc",
+    "blues"
+  ],
+  "hasTeamPageDesign": false
+}

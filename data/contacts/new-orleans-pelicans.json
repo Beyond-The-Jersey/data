@@ -1,0 +1,61 @@
+{
+  "clubId": "new-orleans-pelicans",
+  "channels": [
+    {
+      "type": "email",
+      "value": "fanexperience@pelicans.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/pelicans/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "%20entertainment@pelicans.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/pelicans/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "15045254667",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/pelicans/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.nba.com/pelicans/contact-us",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/pelicans/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@PelicansNBA",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/pelicans/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@pelicansnba",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/pelicans/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

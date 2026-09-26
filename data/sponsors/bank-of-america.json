@@ -1,0 +1,14 @@
+{
+  "id": "bank-of-america",
+  "name": "Bank of America",
+  "ownerId": "bank-of-america",
+  "ownership": "owned",
+  "tier": "concern",
+  "status": "rated",
+  "verdict": "Bank of America Corporation is a US-listed bank with dispersed institutional ownership (BlackRock and Vanguard the largest holdings, both well under 10%) and no….",
+  "claimIds": [
+    "bank-of-america-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Fossil-fuel and settlement record is well documented but not 'sustained abuse', so concern not serious."
+}

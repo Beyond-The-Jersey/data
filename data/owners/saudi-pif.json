@@ -1,0 +1,8 @@
+{
+  "id": "saudi-pif",
+  "name": "Public Investment Fund (Saudi Arabia)",
+  "type": "state-fund",
+  "country": "Saudi Arabia",
+  "note": "Chaired by Crown Prince Mohammed bin Salman",
+  "parentId": "government-of-saudi-arabia"
+}

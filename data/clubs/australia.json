@@ -1,0 +1,11 @@
+{
+  "id": "australia",
+  "name": "Australia",
+  "shortName": "Australia",
+  "code": "AUS",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Australia",
+  "crest": "assets/crests/australia.png",
+  "aliases": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "lease-a-bike",
+  "name": "Lease a Bike",
+  "ownerId": null,
+  "ownership": null,
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": [],
+  "note": "Dutch bike-leasing venture owned by the Pon conglomerate."
+}

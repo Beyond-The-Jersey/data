@@ -1,0 +1,14 @@
+{
+  "id": "payward-record",
+  "ownerIds": [
+    "payward"
+  ],
+  "text": "Kraken is a brand of Payward, Inc., a Delaware-incorporated private company (Kraken Securities LLC is a wholly owned subsidiary of Payward, Inc.). The company is privately held with VC backers including Tribe Capital; no state or state-fund owner. Note: OFAC settled with Payward/Kraken for $362,158.70 over apparent violations of the Iranian Transactions and Sanctions Regulations — a conduct issue, not ownership.",
+  "short": "Kraken is a brand of Payward, Inc., a Delaware-incorporated private company (Kraken Securities LLC is a wholly owned subsidiary of Payward, Inc.).",
+  "source": {
+    "name": "OFAC enforcement release (Nov 28, 2022); Kraken/Payward disclosures",
+    "date": "2022-11-28",
+    "url": "https://ofac.treasury.gov/system/files/126/20221128_kraken.pdf"
+  },
+  "reviewed": true
+}

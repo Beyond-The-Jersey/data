@@ -1,0 +1,29 @@
+{
+  "sports": [
+    "soccer",
+    "basketball",
+    "american-football",
+    "motorsport",
+    "events",
+    "baseball",
+    "cycling"
+  ],
+  "leagues": [
+    "premier-league",
+    "la-liga",
+    "bundesliga",
+    "ligue-1",
+    "serie-a",
+    "mls",
+    "nba",
+    "basketball-africa-league",
+    "nfl",
+    "formula-1",
+    "uefa",
+    "fifa",
+    "mlb",
+    "2-bundesliga",
+    "saudi-pro-league",
+    "uci-worldtour"
+  ]
+}

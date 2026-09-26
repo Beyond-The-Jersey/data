@@ -1,0 +1,52 @@
+{
+  "clubId": "cincinnati-reds",
+  "channels": [
+    {
+      "type": "email",
+      "value": "ticketservices@reds.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/reds/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "HallofFame@reds.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/reds/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.mlb.com/reds/official-information/contact",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/reds/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@Reds",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/reds",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@reds",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/reds",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

@@ -1,0 +1,34 @@
+{
+  "clubId": "everton",
+  "channels": [
+    {
+      "type": "contact-form",
+      "value": "https://www.evertonfc.com/contact",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.evertonfc.com/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@everton",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.evertonfc.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@evertonfcofficial",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.evertonfc.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

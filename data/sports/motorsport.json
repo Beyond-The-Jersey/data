@@ -1,0 +1,10 @@
+{
+  "id": "motorsport",
+  "label": "Motorsport",
+  "status": "not-mapped",
+  "aliases": [
+    "f1",
+    "formula",
+    "racing"
+  ]
+}

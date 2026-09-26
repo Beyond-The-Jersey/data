@@ -1,0 +1,12 @@
+{
+  "id": "milwaukee-bucks",
+  "name": "Milwaukee Bucks",
+  "shortName": "Bucks",
+  "code": "MIL",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "USA",
+  "crest": "assets/crests/milwaukee-bucks.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

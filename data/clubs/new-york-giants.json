@@ -1,0 +1,12 @@
+{
+  "id": "new-york-giants",
+  "name": "New York Giants",
+  "shortName": "Giants",
+  "code": "NYG",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/new-york-giants.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

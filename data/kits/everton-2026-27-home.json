@@ -1,0 +1,35 @@
+{
+  "id": "everton-2026-27-home",
+  "clubId": "everton",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {
+    "square": "assets/shirts/grid/everton-2026-27-home-front-square.jpg"
+  },
+  "sponsors": [
+    {
+      "sponsorId": "cmc-markets",
+      "placement": "front",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
+    },
+    {
+      "sponsorId": "stake",
+      "placement": "sleeve",
+      "source": {
+        "name": "Everton FC – 'Everton & Stake Extend Partnership With Official Sleeve Agreement'",
+        "date": "2026-06-30",
+        "url": "https://www.evertonfc.com/news/2026/june/30/everton---stake-extend-partnership-with-official-sleeve-agreement/"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": null,
+  "change": null
+}

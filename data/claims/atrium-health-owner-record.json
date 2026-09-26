@@ -1,0 +1,14 @@
+{
+  "id": "atrium-health-owner-record",
+  "ownerIds": [
+    "atrium-health-owner"
+  ],
+  "text": "Atrium Health is a nonprofit healthcare organization headquartered in Charlotte, North Carolina, operating as part of Advocate Health, the third-largest nonprofit health system in the United States.",
+  "short": "Atrium Health is a nonprofit healthcare organization headquartered in Charlotte, North Carolina, operating as part of Advocate Health, the third-largest nonprofit….",
+  "source": {
+    "name": "Atrium Health About Us page",
+    "date": "2026-09-24",
+    "url": "https://atriumhealth.org/about-us"
+  },
+  "reviewed": true
+}

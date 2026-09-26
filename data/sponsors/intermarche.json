@@ -1,0 +1,14 @@
+{
+  "id": "intermarche",
+  "name": "Intermarché",
+  "ownerId": null,
+  "ownership": null,
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": [
+    "les mousquetaires"
+  ],
+  "note": "French supermarket chain."
+}

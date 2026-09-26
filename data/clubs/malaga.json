@@ -1,0 +1,12 @@
+{
+  "id": "malaga",
+  "name": "Malaga CF",
+  "shortName": "Malaga",
+  "code": "MAL",
+  "sportId": "soccer",
+  "leagueId": "la-liga",
+  "country": "Spain",
+  "crest": "assets/crests/malaga.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

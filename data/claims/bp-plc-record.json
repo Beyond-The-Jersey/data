@@ -1,0 +1,14 @@
+{
+  "id": "bp-plc-record",
+  "ownerIds": [
+    "bp-plc"
+  ],
+  "text": "No state shareholder (London/NYSE-listed), but a sustained documented adverse record: the US court found BP grossly negligent over the 2010 Deepwater Horizon spill and BP paid a $20.8bn civil settlement with the US and five Gulf states.",
+  "short": "No state shareholder (London/NYSE-listed), but a sustained documented adverse record: the US court found BP grossly negligent over the 2010 Deepwater Horizon spill….",
+  "source": {
+    "name": "US Department of Justice - 'U.S. and Five Gulf States Reach Historic Settlement with BP'",
+    "date": "2015-10-05",
+    "url": "https://www.justice.gov/archives/opa/pr/us-and-five-gulf-states-reach-historic-settlement-bp-resolve-civil-lawsuit-over-deepwater"
+  },
+  "reviewed": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": "citigroup-citi-owner-record",
+  "ownerIds": [
+    "citigroup-citi-owner"
+  ],
+  "text": "Citigroup is a NYSE-listed bank with no state ownership but has documented conduct issues including sanctions violations and settlements related to Iran/Sudan/Libya/Burma.",
+  "short": "Citigroup is a NYSE-listed bank with no state ownership but has documented conduct issues including sanctions violations and settlements related to….",
+  "source": {
+    "name": "Citigroup DEF 14A 2026",
+    "date": "2026-04-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/831001/000120677426000185/citi4583461-def14a.htm"
+  },
+  "reviewed": true
+}

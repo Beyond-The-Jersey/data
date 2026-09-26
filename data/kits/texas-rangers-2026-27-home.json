@@ -1,0 +1,24 @@
+{
+  "id": "texas-rangers-2026-27-home",
+  "clubId": "texas-rangers",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "energy-transfer",
+      "placement": "patch",
+      "source": {
+        "name": "Texas Rangers / MLB.com press release",
+        "date": "2024-03-27",
+        "url": "https://www.mlb.com/press-release/press-release-texas-rangers-announcement-multi-year-agreement-with-energy-transfer-to-become-team-s-official-jersey-patch-partner"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Energy Transfer.",
+  "change": null
+}

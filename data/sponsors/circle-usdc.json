@@ -1,0 +1,17 @@
+{
+  "id": "circle-usdc",
+  "name": "USDC (Circle)",
+  "ownerId": "circle-internet-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Circle Internet Group, Inc. (NYSE: CRCL) — public shareholders. Nothing found.",
+  "claimIds": [
+    "circle-internet-group-record"
+  ],
+  "aliases": [
+    "usdc",
+    "circle"
+  ],
+  "note": "Rating note: Listed US company, no state link → none."
+}

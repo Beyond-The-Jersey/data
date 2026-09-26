@@ -1,0 +1,14 @@
+{
+  "id": "hamburger-sv",
+  "name": "Hamburger SV",
+  "shortName": "Hamburg",
+  "code": "HSV",
+  "sportId": "soccer",
+  "leagueId": "bundesliga",
+  "country": "Germany",
+  "crest": "assets/crests/hamburger-sv.png",
+  "aliases": [
+    "hsv"
+  ],
+  "hasTeamPageDesign": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "eintracht-frankfurt-indeed",
+  "clubId": "eintracht-frankfurt",
+  "orgName": null,
+  "sponsorId": "indeed",
+  "placement": "front",
+  "from": null,
+  "to": "2028-29",
+  "value": {
+    "amount": 13,
+    "currency": "EUR",
+    "unit": "m",
+    "per": "year",
+    "upTo": true,
+    "usdApprox": 15
+  },
+  "source": {
+    "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+    "date": "2026-08-04",
+    "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+  },
+  "note": "Extended three seasons to 2029; reported volume about EUR40m."
+}

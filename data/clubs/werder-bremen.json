@@ -1,0 +1,14 @@
+{
+  "id": "werder-bremen",
+  "name": "Werder Bremen",
+  "shortName": "Werder",
+  "code": "SVW",
+  "sportId": "soccer",
+  "leagueId": "bundesliga",
+  "country": "Germany",
+  "crest": "assets/crests/werder-bremen.png",
+  "aliases": [
+    "bremen"
+  ],
+  "hasTeamPageDesign": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "m-and-t-bank",
+  "name": "M&T Bank",
+  "ownerId": "m-and-t-bank-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by M&T Bank. Nothing found.",
+  "claimIds": [
+    "m-and-t-bank-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: M&T Bank is publicly traded with no state ownership; largest holder is Vanguard (~13.0%). No documented human-rights concerns in ownership chain identified."
+}

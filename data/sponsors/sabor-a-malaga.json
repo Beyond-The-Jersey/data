@@ -1,0 +1,14 @@
+{
+  "id": "sabor-a-malaga",
+  "name": "Sabor a Malaga",
+  "ownerId": "diputacion-de-malaga",
+  "ownership": "owned",
+  "tier": "concern",
+  "status": "rated",
+  "verdict": "Sabor a Malaga is not a company but a promotional quality brand owned and run by the Diputacion Provincial de Malaga, the provincial public administration; the….",
+  "claimIds": [
+    "diputacion-de-malaga-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Sub-national government owner (not a sovereign state, not a state fund) maps to concern as a lesser link. Currently front-of-shirt sponsor of Malaga CF (since 2021)."
+}

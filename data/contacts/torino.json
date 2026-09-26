@@ -1,0 +1,43 @@
+{
+  "clubId": "torino",
+  "channels": [
+    {
+      "type": "email",
+      "value": "slo@torinofc.it",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.torinofc.it/fan/supporter-liaison-officer-slo",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.torinofc.it/fan/supporter-liaison-officer-slo",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.torinofc.it/fan/supporter-liaison-officer-slo",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@TorinoFC_1906",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.torinofc.it/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@torinofc1906",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.torinofc.it/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

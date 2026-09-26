@@ -1,0 +1,12 @@
+{
+  "id": "phoenix-suns",
+  "name": "Phoenix Suns",
+  "shortName": "Suns",
+  "code": "PHX",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "USA",
+  "crest": "assets/crests/phoenix-suns.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

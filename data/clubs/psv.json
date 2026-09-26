@@ -1,0 +1,14 @@
+{
+  "id": "psv",
+  "name": "PSV Eindhoven",
+  "shortName": "PSV",
+  "code": "PSV",
+  "sportId": "soccer",
+  "leagueId": "uefa",
+  "country": "Netherlands",
+  "crest": "assets/crests/psv.png",
+  "aliases": [
+    "psv eindhoven"
+  ],
+  "hasTeamPageDesign": false
+}

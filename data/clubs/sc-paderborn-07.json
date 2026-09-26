@@ -1,0 +1,12 @@
+{
+  "id": "sc-paderborn-07",
+  "name": "SC Paderborn",
+  "shortName": "Paderborn",
+  "code": "SCP",
+  "sportId": "soccer",
+  "leagueId": "bundesliga",
+  "country": "Germany",
+  "crest": "assets/crests/sc-paderborn-07.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

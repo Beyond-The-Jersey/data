@@ -1,0 +1,23 @@
+{
+  "id": "manchester-united-snapdragon",
+  "clubId": "manchester-united",
+  "orgName": null,
+  "sponsorId": "snapdragon",
+  "placement": "front",
+  "from": null,
+  "to": "2029-30",
+  "value": {
+    "amount": 60,
+    "currency": "GBP",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": 80
+  },
+  "source": {
+    "name": "SportsPro, Manchester United and Qualcomm Snapdragon shirt deal",
+    "date": "2024-08",
+    "url": "https://www.sportspro.com/news/manchester-united-qualcomm-snapdragon-shirt-sponsorship/"
+  },
+  "note": "Reported GBP60m a year, among the largest shirt deals in the league."
+}

@@ -1,0 +1,52 @@
+{
+  "clubId": "sevilla",
+  "channels": [
+    {
+      "type": "email",
+      "value": "lopd@sevillafc.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://sevillafc.es/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "ejercicioderechos@grupodatcon.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://sevillafc.es/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://sevillafc.es/aviso-legal",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://sevillafc.es/aviso-legal",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@SevillaFC",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://sevillafc.es/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@sevillafc",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://sevillafc.es/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "charlotte-hornets-2026-27-home",
+  "clubId": "charlotte-hornets",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "judi-health",
+      "placement": "patch",
+      "source": {
+        "name": "Charlotte Hornets / NBA.com",
+        "date": "2025-09-24",
+        "url": "https://www.nba.com/hornets/news/charlotte-hornets-and-judi-health-launch-multi-year-partnership-highlighted-by-jersey-patch-designation"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Judi Health.",
+  "change": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "pittsburgh-pirates-2026-27-home",
+  "clubId": "pittsburgh-pirates",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "sheetz",
+      "placement": "patch",
+      "source": {
+        "name": "Pittsburgh Pirates / MLB.com press release",
+        "date": "2024-06-21",
+        "url": "https://www.mlb.com/press-release/press-release-pittsburgh-pirates-and-sheetz-announce-jersey-patch-partnership"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Sheetz.",
+  "change": null
+}

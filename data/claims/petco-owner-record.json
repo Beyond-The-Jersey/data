@@ -1,0 +1,14 @@
+{
+  "id": "petco-owner-record",
+  "ownerIds": [
+    "petco-owner"
+  ],
+  "text": "Petco Health & Wellness Company, Inc. is owned by Petco. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+  "short": "Petco Health & Wellness Company, Inc.",
+  "source": {
+    "name": "Petco Health & Wellness Company, Inc. DEF 14A 2026 (SEC)",
+    "date": "2026-05-14",
+    "url": "https://www.sec.gov/Archives/edgar/data/1826470/000182647026000040/woof-20260514.htm"
+  },
+  "reviewed": true
+}

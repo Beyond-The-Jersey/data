@@ -1,0 +1,16 @@
+{
+  "id": "milwaukee-brewers-american-family-insurance-stadium",
+  "clubId": "milwaukee-brewers",
+  "orgName": "American Family Insurance",
+  "sponsorId": "american-family-insurance",
+  "placement": "stadium",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Wisconsin Public Radio (AP)",
+    "date": "2020-01-22",
+    "url": "https://www.wpr.org/economy/brewers-home-ballpark-be-renamed-american-family-field"
+  },
+  "note": "Arena naming rights: American Family Field. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2020-01-22."
+}

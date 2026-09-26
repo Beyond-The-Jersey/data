@@ -1,0 +1,15 @@
+{
+  "id": "moeve-mubadala-record",
+  "ownerIds": [
+    "moeve",
+    "mubadala"
+  ],
+  "text": "Moeve (formerly Cepsa) is owned by Mubadala Investment Company, Abu Dhabi's sovereign wealth fund, and The Carlyle Group.",
+  "short": "Owned by Mubadala and Carlyle",
+  "source": {
+    "name": "Moeve, the company",
+    "date": "2026",
+    "url": "https://www.moeveglobal.com/en/the-company"
+  },
+  "reviewed": true
+}

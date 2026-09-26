@@ -1,0 +1,12 @@
+{
+  "id": "baltimore-orioles",
+  "name": "Baltimore Orioles",
+  "shortName": "Orioles",
+  "code": "BAL",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "USA",
+  "crest": "assets/crests/baltimore-orioles.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

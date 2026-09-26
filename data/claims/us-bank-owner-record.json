@@ -1,0 +1,14 @@
+{
+  "id": "us-bank-owner-record",
+  "ownerIds": [
+    "us-bank-owner"
+  ],
+  "text": "U.S. Bancorp is owned by U.S. Bank. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+  "short": "U.S.",
+  "source": {
+    "name": "US BANCORP DEF 14A 2026 (SEC)",
+    "date": "2026-03-10",
+    "url": "https://www.sec.gov/Archives/edgar/data/36104/000110465926025844/tm261379-1_def14a.htm"
+  },
+  "reviewed": true
+}

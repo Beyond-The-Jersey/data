@@ -1,0 +1,14 @@
+{
+  "id": "el-camino-health-record",
+  "ownerIds": [
+    "el-camino-health"
+  ],
+  "text": "El Camino Health is a not-for-profit hospital system in Santa Clara County, California, running two acute-care hospitals in Los Gatos and Mountain View and a network of clinics. It has no external owner beyond itself - no state stake and no listed float. Human-rights relevance is thin: a local health system's labour and access record.",
+  "short": "El Camino Health is a not-for-profit hospital system in Santa Clara County, California, running two acute-care hospitals in Los Gatos and Mountain View and a….",
+  "source": {
+    "name": "El Camino Health - About Us",
+    "date": "2026-09-25",
+    "url": "https://elcaminohealth.org/about-us"
+  },
+  "reviewed": true
+}

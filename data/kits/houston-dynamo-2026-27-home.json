@@ -1,0 +1,24 @@
+{
+  "id": "houston-dynamo-2026-27-home",
+  "clubId": "houston-dynamo",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026-27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "md-anderson-cancer-center",
+      "placement": "front",
+      "source": {
+        "name": "FOR SOCCER",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+}

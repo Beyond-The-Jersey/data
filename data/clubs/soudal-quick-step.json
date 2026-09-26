@@ -1,0 +1,14 @@
+{
+  "id": "soudal-quick-step",
+  "name": "Soudal Quick-Step",
+  "shortName": "Soudal Quick-Step",
+  "code": "SOQ",
+  "sportId": "cycling",
+  "leagueId": "uci-worldtour",
+  "country": "Belgium",
+  "crest": "assets/crests/soudal-quick-step.png",
+  "aliases": [
+    "quick-step",
+    "soudal-quickstep"
+  ]
+}

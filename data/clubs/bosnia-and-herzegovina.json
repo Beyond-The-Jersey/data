@@ -1,0 +1,11 @@
+{
+  "id": "bosnia-and-herzegovina",
+  "name": "Bosnia and Herzegovina",
+  "shortName": "Bosnia and Herzegovina",
+  "code": "BIH",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Bosnia and Herzegovina",
+  "crest": "assets/crests/bosnia-and-herzegovina.png",
+  "aliases": []
+}

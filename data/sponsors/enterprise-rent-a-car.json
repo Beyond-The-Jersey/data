@@ -1,0 +1,11 @@
+{
+  "id": "enterprise-rent-a-car",
+  "name": "Enterprise Rent-A-Car",
+  "ownerId": null,
+  "ownership": null,
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": []
+}

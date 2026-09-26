@@ -1,0 +1,14 @@
+{
+  "id": "gainbridge-group-1001-owner-record",
+  "ownerIds": [
+    "gainbridge-group-1001-owner"
+  ],
+  "text": "Gainbridge is owned by Group 1001 Insurance Holdings, a privately held financial services collective controlled by Mark Walter (TWG Global), with no state ownership.",
+  "short": "Gainbridge is owned by Group 1001 Insurance Holdings, a privately held financial services collective controlled by Mark Walter (TWG Global), with no state ownership.",
+  "source": {
+    "name": "Group 1001 About Us page",
+    "date": "2026-09-24",
+    "url": "https://www.group1001.com/aboutus"
+  },
+  "reviewed": true
+}

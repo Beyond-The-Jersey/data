@@ -1,0 +1,11 @@
+{
+  "id": "red-bull-racing",
+  "name": "Oracle Red Bull Racing",
+  "shortName": "Red Bull Racing",
+  "code": "RBR",
+  "sportId": "motorsport",
+  "leagueId": "formula-1",
+  "country": "United Kingdom",
+  "crest": "assets/crests/red-bull-racing.png",
+  "aliases": []
+}

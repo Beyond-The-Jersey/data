@@ -1,0 +1,16 @@
+{
+  "id": "oklahoma-city-thunder-paycom-stadium",
+  "clubId": "oklahoma-city-thunder",
+  "orgName": "Paycom",
+  "sponsorId": "paycom",
+  "placement": "stadium",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Oklahoma City Thunder (nba.com)",
+    "date": "2021-07-27",
+    "url": "https://www.nba.com/thunder/news/release-paycom-210727"
+  },
+  "note": "Arena naming rights: Paycom Center. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2021-07-27."
+}

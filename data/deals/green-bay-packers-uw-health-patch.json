@@ -1,0 +1,16 @@
+{
+  "id": "green-bay-packers-uw-health-patch",
+  "clubId": "green-bay-packers",
+  "orgName": "UW Health",
+  "sponsorId": "uw-health",
+  "placement": "training-kit",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Green Bay Packers (packers.com)",
+    "date": "2026-04-16",
+    "url": "https://www.packers.com/news/packers-name-uw-health-official-health-care-partner-of-the-green-bay-packers-2026"
+  },
+  "note": "Practice-jersey patch."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fifa-coca-cola",
+  "clubId": null,
+  "orgName": "FIFA",
+  "sponsorId": "coca-cola",
+  "placement": "league-partner",
+  "from": null,
+  "to": "2030",
+  "value": null,
+  "source": {
+    "name": "FIFA - Partners (Coca-Cola page)",
+    "date": "2023-11-01",
+    "url": "https://inside.fifa.com/tournament-organisation/partners/coca-cola"
+  },
+  "leagueId": "fifa",
+  "note": "Partnership through 2030."
+}

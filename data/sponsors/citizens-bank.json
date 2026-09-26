@@ -1,0 +1,14 @@
+{
+  "id": "citizens-bank",
+  "name": "Citizens Bank (Citizens Financial Group)",
+  "ownerId": "citizens-bank-citizens-financial-group-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Citizens Bank (Citizens Financial Group). Nothing found.",
+  "claimIds": [
+    "citizens-bank-citizens-financial-group-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
+}

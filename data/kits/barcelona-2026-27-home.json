@@ -1,0 +1,43 @@
+{
+  "id": "barcelona-2026-27-home",
+  "clubId": "barcelona",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "spotify",
+      "placement": "front",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    },
+    {
+      "sponsorId": "midea",
+      "placement": "sleeve",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    },
+    {
+      "sponsorId": "fundacio-fc-barcelona",
+      "placement": "back",
+      "source": {
+        "name": "2Playbook, El 'mercato' del patrocinio en LaLiga 2026-2027",
+        "date": "2026-08-10",
+        "url": "https://www.2playbook.com/patrocinio/mercato-patrocinio-en-laliga-marcas-entran-salen-equipaciones-en-2026-2027_23233_102.html",
+        "note": "Fundacio FC Barcelona replaces UNHCR/ACNUR on the back"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": null,
+  "change": null
+}

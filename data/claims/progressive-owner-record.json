@@ -1,0 +1,14 @@
+{
+  "id": "progressive-owner-record",
+  "ownerIds": [
+    "progressive-owner"
+  ],
+  "text": "Progressive Corporation is a publicly traded company listed on the New York Stock Exchange under ticker PGR.",
+  "short": "Progressive Corporation is a publicly traded company listed on the New York Stock Exchange under ticker PGR.",
+  "source": {
+    "name": "SEC DEF 14A for Progressive Corporation",
+    "date": "2026-03-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/80661/000008066126000099/pgr-20260318.htm"
+  },
+  "reviewed": true
+}

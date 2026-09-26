@@ -1,0 +1,14 @@
+{
+  "id": "paycom-owner-record",
+  "ownerIds": [
+    "paycom-owner"
+  ],
+  "text": "Paycom Software, Inc. is a NYSE-listed HR technology provider with no state ownership; founder Chad Richison beneficially owns ~13.1% of shares.",
+  "short": "Paycom Software, Inc.",
+  "source": {
+    "name": "Paycom DEF 14A 2026",
+    "date": "2026-04-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/1590955/000119312526140064/d44715ddef14a.htm"
+  },
+  "reviewed": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": "estrella-galicia",
+  "name": "Estrella Galicia",
+  "ownerId": "corporacion-hijos-de-rivera",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Corporacion Hijos de Rivera, S.L.. Nothing found.",
+  "claimIds": [
+    "corporacion-hijos-de-rivera-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Fifth-generation family group (Rivera family). No state or fund capital."
+}

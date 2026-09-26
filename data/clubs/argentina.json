@@ -1,0 +1,11 @@
+{
+  "id": "argentina",
+  "name": "Argentina",
+  "shortName": "Argentina",
+  "code": "ARG",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Argentina",
+  "crest": "assets/crests/argentina.png",
+  "aliases": []
+}

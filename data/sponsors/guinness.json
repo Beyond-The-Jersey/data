@@ -1,0 +1,13 @@
+{
+  "id": "guinness",
+  "name": "Guinness",
+  "ownerId": "diageo-plc",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": [
+    "diageo"
+  ]
+}

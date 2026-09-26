@@ -1,0 +1,12 @@
+{
+  "id": "rb-leipzig",
+  "name": "RB Leipzig",
+  "shortName": "Leipzig",
+  "code": "RBL",
+  "sportId": "soccer",
+  "leagueId": "bundesliga",
+  "country": "Germany",
+  "crest": "assets/crests/rb-leipzig.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

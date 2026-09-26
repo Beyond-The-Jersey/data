@@ -1,0 +1,16 @@
+{
+  "id": "brooklyn-nets-barclays-stadium",
+  "clubId": "brooklyn-nets",
+  "orgName": "Barclays",
+  "sponsorId": "barclays",
+  "placement": "stadium",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "The New York Times",
+    "date": "2007-01-18",
+    "url": "https://www.nytimes.com/2007/01/18/sports/basketball/18arena.html"
+  },
+  "note": "Arena naming rights: Barclays Center. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2007-01-18."
+}

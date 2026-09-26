@@ -1,0 +1,14 @@
+{
+  "id": "recruit-holdings-record",
+  "ownerIds": [
+    "recruit-holdings"
+  ],
+  "text": "Recruit Holdings Co., Ltd. is a Tokyo-listed global HR-technology group whose group companies include Indeed and Glassdoor. No state or state-fund owner.",
+  "short": "Recruit Holdings is a Tokyo-listed group and the parent of Indeed.",
+  "source": {
+    "name": "Recruit Holdings, Group Companies",
+    "date": "2026",
+    "url": "https://recruit-holdings.com/en/about/group"
+  },
+  "reviewed": true
+}

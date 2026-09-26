@@ -1,0 +1,12 @@
+{
+  "id": "los-angeles-dodgers",
+  "name": "Los Angeles Dodgers",
+  "shortName": "Dodgers",
+  "code": "LAD",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "USA",
+  "crest": "assets/crests/los-angeles-dodgers.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

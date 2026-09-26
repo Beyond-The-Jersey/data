@@ -1,0 +1,14 @@
+{
+  "id": "atlantic-health",
+  "name": "Atlantic Health",
+  "ownerId": "atlantic-health-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Atlantic Health System. Nothing found.",
+  "claimIds": [
+    "atlantic-health-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Private Company company with no significant conduct issues found"
+}

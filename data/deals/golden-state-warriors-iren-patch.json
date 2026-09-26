@@ -1,0 +1,16 @@
+{
+  "id": "golden-state-warriors-iren-patch",
+  "clubId": "golden-state-warriors",
+  "orgName": "IREN (IREN Ltd, AI cloud infrastructure)",
+  "sponsorId": "iren",
+  "placement": "patch",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Silicon Valley / Bay Area News Group",
+    "date": "2026-06-27",
+    "url": "https://siliconvalley.com/2026/06/27/warriors-announce-ai-data-center-company-as-jersey-sponsor"
+  },
+  "note": "Jersey patch."
+}

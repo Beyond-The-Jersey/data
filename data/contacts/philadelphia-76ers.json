@@ -1,0 +1,24 @@
+{
+  "clubId": "philadelphia-76ers",
+  "channels": [
+    {
+      "type": "x",
+      "value": "@Sixers",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/sixers/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@Sixers",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/sixers/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

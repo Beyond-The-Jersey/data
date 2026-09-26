@@ -1,0 +1,24 @@
+{
+  "id": "new-orleans-pelicans-2026-27-home",
+  "clubId": "new-orleans-pelicans",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "newage-products",
+      "placement": "patch",
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2024-09-30",
+        "url": "https://sportsbusinessjournal.com/Articles/2024/09/30/new-orleans-pelicans-patch-newage-products"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: NewAge Products.",
+  "change": null
+}

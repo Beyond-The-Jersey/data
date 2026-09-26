@@ -1,0 +1,12 @@
+{
+  "id": "philadelphia-eagles",
+  "name": "Philadelphia Eagles",
+  "shortName": "Eagles",
+  "code": "PHI",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/philadelphia-eagles.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

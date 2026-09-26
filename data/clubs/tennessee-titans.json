@@ -1,0 +1,12 @@
+{
+  "id": "tennessee-titans",
+  "name": "Tennessee Titans",
+  "shortName": "Titans",
+  "code": "TEN",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/tennessee-titans.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

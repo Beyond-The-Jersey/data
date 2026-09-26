@@ -1,0 +1,16 @@
+{
+  "id": "toronto-raptors-sun-life-patch",
+  "clubId": "toronto-raptors",
+  "orgName": "Sun Life",
+  "sponsorId": "sun-life",
+  "placement": "patch",
+  "from": "2017",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Toronto Raptors / NBA.com",
+    "date": "2017-07-06",
+    "url": "https://www.nba.com/raptors/raptors-sunlife-announce-partnership"
+  },
+  "note": "Jersey patch."
+}

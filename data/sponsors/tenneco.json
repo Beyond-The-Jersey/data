@@ -1,0 +1,14 @@
+{
+  "id": "tenneco",
+  "name": "Tenneco",
+  "ownerId": "apollo-global-management",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Apollo Global Management, Inc. (Apollo Funds). Nothing found.",
+  "claimIds": [
+    "apollo-global-management-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Owned by Apollo-managed funds rather than Apollo the listed entity; classified as listed-company because the ultimate parent is listed. Apollo's own investor base includes sovereign funds but none control it."
+}

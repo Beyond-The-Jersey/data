@@ -1,0 +1,14 @@
+{
+  "id": "target",
+  "name": "Target",
+  "ownerId": "target-corporation",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Target Corporation. Nothing found.",
+  "claimIds": [
+    "target-corporation-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: No state stake identified."
+}

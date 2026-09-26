@@ -1,0 +1,14 @@
+{
+  "id": "nationwide",
+  "name": "Nationwide",
+  "ownerId": "nationwide-mutual-insurance-company",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Nationwide Mutual Insurance Company. Nothing found.",
+  "claimIds": [
+    "nationwide-mutual-insurance-company-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Type recorded as private-company because the schema has no 'mutual' option; the release confirms Nationwide Mutual Insurance Company as the mark owner."
+}

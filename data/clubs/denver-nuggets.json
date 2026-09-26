@@ -1,0 +1,12 @@
+{
+  "id": "denver-nuggets",
+  "name": "Denver Nuggets",
+  "shortName": "Nuggets",
+  "code": "DEN",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "USA",
+  "crest": "assets/crests/denver-nuggets.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

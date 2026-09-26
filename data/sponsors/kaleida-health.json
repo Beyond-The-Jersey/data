@@ -1,0 +1,14 @@
+{
+  "id": "kaleida-health",
+  "name": "Kaleida Health",
+  "ownerId": "kaleida-health-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Kaleida Health. Nothing found.",
+  "claimIds": [
+    "kaleida-health-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Private Company company with no significant conduct issues found"
+}

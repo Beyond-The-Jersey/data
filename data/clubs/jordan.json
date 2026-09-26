@@ -1,0 +1,11 @@
+{
+  "id": "jordan",
+  "name": "Jordan",
+  "shortName": "Jordan",
+  "code": "JOR",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Jordan",
+  "crest": "assets/crests/jordan.png",
+  "aliases": []
+}

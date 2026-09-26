@@ -1,0 +1,13 @@
+{
+  "id": "uefa",
+  "aliases": [
+    "champions league",
+    "euro"
+  ],
+  "sportId": "events",
+  "name": "UEFA competitions",
+  "status": "not-started",
+  "notes": [
+    "UEFA ended its Gazprom deal in 2022."
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "clubId": "sc-paderborn-07",
+  "channels": [
+    {
+      "type": "contact-form",
+      "value": "https://www.scp07.de/Teams/Leistungszentrum/#1029-Kontakt",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.scp07.de/Teams/Leistungszentrum/#1029-Kontakt",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@scp07_official",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.scp07.de/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

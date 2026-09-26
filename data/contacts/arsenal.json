@@ -1,0 +1,34 @@
+{
+  "clubId": "arsenal",
+  "channels": [
+    {
+      "type": "contact-form",
+      "value": "https://www.arsenal.com/meetings-and-events/contact-us",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.arsenal.com/meetings-and-events/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@Arsenal",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.arsenal.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@arsenal",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.arsenal.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

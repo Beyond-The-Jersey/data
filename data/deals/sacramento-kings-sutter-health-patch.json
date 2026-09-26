@@ -1,0 +1,16 @@
+{
+  "id": "sacramento-kings-sutter-health-patch",
+  "clubId": "sacramento-kings",
+  "orgName": "Sutter Health",
+  "sponsorId": "sutter-health",
+  "placement": "patch",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Sports Business Journal",
+    "date": "2026-05-12",
+    "url": "https://sportsbusinessjournal.com/Articles/2026/05/12/sacramento-kings-name-sutter-health-jersey-patch-sponsor"
+  },
+  "note": "Jersey patch."
+}

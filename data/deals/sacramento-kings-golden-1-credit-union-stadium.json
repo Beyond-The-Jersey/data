@@ -1,0 +1,16 @@
+{
+  "id": "sacramento-kings-golden-1-credit-union-stadium",
+  "clubId": "sacramento-kings",
+  "orgName": "Golden 1 Credit Union",
+  "sponsorId": "golden-1-credit-union",
+  "placement": "stadium",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Sacramento Kings (NBA.com)",
+    "date": "2015-06-16",
+    "url": "https://www.nba.com/kings/news/06162015-press-release"
+  },
+  "note": "Arena naming rights: Golden 1 Center. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2015-06-16."
+}

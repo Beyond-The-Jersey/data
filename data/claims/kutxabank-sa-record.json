@@ -1,0 +1,15 @@
+{
+  "id": "kutxabank-sa-record",
+  "ownerIds": [
+    "kutxabank-sa"
+  ],
+  "text": "Kutxabank S.A. is controlled 57% by BBK Fundacion Bancaria, 32% by Kutxa and 11% by Vital - the three former Basque savings banks, now private-law banking foundations. A banking foundation is a private entity (not a state or sovereign fund), so Kutxabank's owner is private even though the foundations pursue public-benefit goals.",
+  "short": "Kutxabank S.A.",
+  "source": {
+    "name": "Kutxabank consolidated interim report 2024 (parent/ownership); El Correo - shareholder breakdown 57/32/11",
+    "date": "2024-06-30",
+    "url": null,
+    "note": "Link removed 2026-09-25 (404 on 2026-09-25): https://www.kutxabank.eus/cs/Satellite?blobcol=urldata&blobheadername1=Expires&blobheadervalue4=inline%3B++filename%3D%22Inf+Semestral+KB+consol+30-06-2024_EN.PDF%22"
+  },
+  "reviewed": true
+}

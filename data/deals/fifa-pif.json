@@ -1,0 +1,17 @@
+{
+  "id": "fifa-pif",
+  "clubId": null,
+  "orgName": "FIFA",
+  "sponsorId": "pif",
+  "placement": "league-partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "FIFA - PIF named as Official Tournament Supporter of FIFA World Cup 2026",
+    "date": "2026-05-14",
+    "url": "https://inside.fifa.com/tournament-organisation/commercial/media-releases/origin1904-p.cxm.fifa.com/pif-official-tournament-supporter-world-cup-2026"
+  },
+  "leagueId": "fifa",
+  "note": "North America and Asia regions."
+}

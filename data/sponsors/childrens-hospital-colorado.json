@@ -1,0 +1,14 @@
+{
+  "id": "childrens-hospital-colorado",
+  "name": "Children's Hospital Colorado",
+  "ownerId": "childrens-hospital-colorado-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Children's Hospital Colorado. Nothing found.",
+  "claimIds": [
+    "childrens-hospital-colorado-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Explicitly states private, non-profit status; no state stake or serious conduct record identified."
+}

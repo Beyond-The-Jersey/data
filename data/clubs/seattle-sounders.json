@@ -1,0 +1,11 @@
+{
+  "id": "seattle-sounders",
+  "name": "Seattle Sounders FC",
+  "shortName": "Seattle Sounders",
+  "code": "SEA",
+  "sportId": "soccer",
+  "leagueId": "mls",
+  "country": "USA",
+  "crest": "assets/crests/seattle-sounders.png",
+  "aliases": []
+}

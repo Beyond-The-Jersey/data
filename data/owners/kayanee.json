@@ -1,0 +1,9 @@
+{
+  "id": "kayanee",
+  "name": "Kayanee",
+  "type": "private-company",
+  "country": "Saudi Arabia",
+  "via": "PIF",
+  "note": "PIF-backed wellbeing company.",
+  "parentId": "saudi-pif"
+}

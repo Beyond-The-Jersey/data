@@ -1,0 +1,16 @@
+{
+  "id": "philadelphia-76ers-crypto-com-patch",
+  "clubId": "philadelphia-76ers",
+  "orgName": "Crypto.com",
+  "sponsorId": "crypto-com",
+  "placement": "patch",
+  "from": "2021",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Front Office Sports",
+    "date": "2026-07-30",
+    "url": "https://frontofficesports.com/lebron-james-sixers-expiring-jersey-patch"
+  },
+  "note": "Jersey patch."
+}

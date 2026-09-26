@@ -1,0 +1,88 @@
+{
+  "id": "williams-2026-home",
+  "clubId": "williams",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "atlassian",
+      "placement": "front",
+      "source": {
+        "name": "Atlassian – Announcing Atlassian Williams Racing",
+        "date": "2025-02-11",
+        "url": "https://www.atlassian.com/blog/company-news/atlassian-williams-partnership"
+      }
+    },
+    {
+      "sponsorId": "komatsu",
+      "placement": "front",
+      "source": {
+        "name": "Atlassian Williams F1 Team – Partners",
+        "date": "2026-09-24",
+        "url": "https://www.williamsf1.com/partners"
+      }
+    },
+    {
+      "sponsorId": "barclays",
+      "placement": "sleeve",
+      "source": {
+        "name": "Atlassian Williams F1 Team – Partners",
+        "date": "2026-09-24",
+        "url": "https://www.williamsf1.com/partners"
+      }
+    },
+    {
+      "sponsorId": "claude",
+      "placement": "partner",
+      "source": {
+        "name": "Atlassian Williams F1 Team – Partners",
+        "date": "2026-09-24",
+        "url": "https://www.williamsf1.com/partners"
+      }
+    },
+    {
+      "sponsorId": "kraken",
+      "placement": "partner",
+      "source": {
+        "name": "Kraken – Williams Racing and Kraken announce global crypto partnership",
+        "date": "2026",
+        "url": "https://www.kraken.com/press/releases/williams-racing-and-kraken-announce-global-crypto-partnership-ahead-of-australian-grand-prix",
+        "note": "date precision: year"
+      }
+    },
+    {
+      "sponsorId": "gulf-oil-w",
+      "placement": "partner",
+      "source": {
+        "name": "Atlassian Williams F1 Team – Partners",
+        "date": "2026-09-24",
+        "url": "https://www.williamsf1.com/partners"
+      }
+    },
+    {
+      "sponsorId": "duracell",
+      "placement": "partner",
+      "source": {
+        "name": "Atlassian Williams F1 Team – Partners",
+        "date": "2026-09-24",
+        "url": "https://www.williamsf1.com/partners"
+      }
+    },
+    {
+      "sponsorId": "betway",
+      "placement": "partner",
+      "source": {
+        "name": "Atlassian Williams F1 Team – Partners",
+        "date": "2026-09-24",
+        "url": "https://www.williamsf1.com/partners"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": "2026 car. U"
+}

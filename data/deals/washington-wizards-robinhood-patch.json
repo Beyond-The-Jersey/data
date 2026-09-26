@@ -1,0 +1,16 @@
+{
+  "id": "washington-wizards-robinhood-patch",
+  "clubId": "washington-wizards",
+  "orgName": "Robinhood",
+  "sponsorId": "robinhood",
+  "placement": "patch",
+  "from": "2023",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Washington Wizards (nba.com)",
+    "date": "2023-10-23",
+    "url": "https://www.nba.com/wizards/news/washington-wizards-announce-robinhood-as-official-brokerage-and-jersey-patch-partner"
+  },
+  "note": "Jersey patch."
+}

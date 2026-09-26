@@ -1,0 +1,12 @@
+{
+  "id": "tampa-bay-rays",
+  "name": "Tampa Bay Rays",
+  "shortName": "Rays",
+  "code": "TB",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "USA",
+  "crest": "assets/crests/tampa-bay-rays.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

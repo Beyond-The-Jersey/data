@@ -1,0 +1,16 @@
+{
+  "id": "alpine-bwt",
+  "clubId": "alpine",
+  "orgName": null,
+  "sponsorId": "bwt",
+  "placement": "front",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "BWT Alpine Formula One Team – Partners (title partner and partner tiers)",
+    "date": "2026-09-24",
+    "url": "https://www.alpinef1.com/partners"
+  },
+  "note": "BWT Alpine F1 Team title partner on the 2026 car."
+}

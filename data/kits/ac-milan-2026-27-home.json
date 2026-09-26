@@ -1,0 +1,24 @@
+{
+  "id": "ac-milan-2026-27-home",
+  "clubId": "ac-milan",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026-27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "emirates",
+      "placement": "front",
+      "source": {
+        "name": "Football Italia",
+        "date": "2026-07-01",
+        "url": "https://football-italia.net/official-milan-confirm-100m-sponsorship-deal"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": null
+}

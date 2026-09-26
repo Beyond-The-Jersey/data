@@ -1,0 +1,14 @@
+{
+  "id": "national-bank-of-bahrain",
+  "name": "National Bank of Bahrain",
+  "ownerId": "government-of-bahrain",
+  "ownership": "part-owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": [
+    "nbb"
+  ],
+  "note": "Bahraini bank with significant state/Mumtalakat ownership."
+}

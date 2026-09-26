@@ -1,0 +1,11 @@
+{
+  "id": "monza",
+  "name": "AC Monza",
+  "shortName": "Monza",
+  "code": "MON",
+  "sportId": "soccer",
+  "leagueId": "serie-a",
+  "country": "Italy",
+  "crest": "assets/crests/monza.png",
+  "aliases": []
+}

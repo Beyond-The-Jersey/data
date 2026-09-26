@@ -1,0 +1,11 @@
+{
+  "id": "parma",
+  "name": "Parma Calcio 1913",
+  "shortName": "Parma",
+  "code": "PAR",
+  "sportId": "soccer",
+  "leagueId": "serie-a",
+  "country": "Italy",
+  "crest": "assets/crests/parma.png",
+  "aliases": []
+}

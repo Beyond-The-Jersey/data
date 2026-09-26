@@ -1,0 +1,14 @@
+{
+  "id": "ibm-corp-record",
+  "ownerIds": [
+    "ibm-corp"
+  ],
+  "text": "IBM is an NYSE-listed technology company (IBM) with no state shareholder.",
+  "short": "IBM is an NYSE-listed technology company (IBM) with no state shareholder.",
+  "source": {
+    "name": "IBM - investor relations / NYSE listing",
+    "date": "2026-09-24",
+    "url": "https://www.ibm.com/investor"
+  },
+  "reviewed": true
+}

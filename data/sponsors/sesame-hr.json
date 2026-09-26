@@ -1,0 +1,14 @@
+{
+  "id": "sesame-hr",
+  "name": "Sesame HR",
+  "ownerId": "sesame-hr-sl",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Sesame HR (Sesame HR S.L.). Nothing found.",
+  "claimIds": [
+    "sesame-hr-sl-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: BBVA Spark is a bank lending facility, not equity, and BBVA has no state stake - so owner remains private-company, tier none."
+}

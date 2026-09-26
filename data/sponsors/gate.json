@@ -1,0 +1,14 @@
+{
+  "id": "gate",
+  "name": "Gate",
+  "ownerId": "gate-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Gate Group / Gate Technology Inc.. Nothing found.",
+  "claimIds": [
+    "gate-group-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Gate exited the Japanese market citing compliance; multiple retail licences elsewhere. No sovereign investor disclosed. If a stricter line is wanted on crypto, gate is the first candidate to move to concern."
+}

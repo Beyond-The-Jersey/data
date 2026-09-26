@@ -1,0 +1,11 @@
+{
+  "id": "canada",
+  "name": "Canada",
+  "shortName": "Canada",
+  "code": "CAN",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Canada",
+  "crest": "assets/crests/canada.png",
+  "aliases": []
+}

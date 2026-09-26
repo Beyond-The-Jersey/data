@@ -1,0 +1,16 @@
+{
+  "id": "philadelphia-76ers-xfinity-mobile-stadium",
+  "clubId": "philadelphia-76ers",
+  "orgName": "Xfinity Mobile (Comcast)",
+  "sponsorId": "xfinity-mobile",
+  "placement": "stadium",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "ESPN / Associated Press",
+    "date": "2025-05-06",
+    "url": "https://www.espn.com/nhl/story/_/id/45025071/76ers-flyers-arena-lands-naming-rights-deal-xfinity-mobile"
+  },
+  "note": "Arena naming rights: Xfinity Mobile Arena."
+}

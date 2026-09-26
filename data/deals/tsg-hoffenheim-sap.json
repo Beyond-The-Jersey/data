@@ -1,0 +1,23 @@
+{
+  "id": "tsg-hoffenheim-sap",
+  "clubId": "tsg-hoffenheim",
+  "orgName": null,
+  "sponsorId": "sap",
+  "placement": "front",
+  "from": null,
+  "to": null,
+  "value": {
+    "amount": 6,
+    "currency": "EUR",
+    "unit": "m",
+    "per": "year",
+    "upTo": true,
+    "usdApprox": 7
+  },
+  "source": {
+    "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+    "date": "2026-08-04",
+    "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+  },
+  "note": "Unofficial figure; SAP co-founder Dietmar Hopp is the club's patron."
+}

@@ -1,0 +1,52 @@
+{
+  "clubId": "ac-milan",
+  "channels": [
+    {
+      "type": "email",
+      "value": "sponsorshipenquiries@acmilan.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.acmilan.com/it/contatti",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "licensingenquiries@acmilan.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.acmilan.com/it/contatti",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.acmilan.com/it/contatti",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.acmilan.com/it/contatti",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@acmilan",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.acmilan.com/it",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@acmilan",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.acmilan.com/it",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pamesa-ceramica",
+  "name": "Pamesa Ceramica",
+  "ownerId": "pamesa-grupo-empresarial",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Pamesa Grupo Empresarial (Fernando Roig). Nothing found.",
+  "claimIds": [
+    "pamesa-grupo-empresarial-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Family/owner-controlled Castellon ceramics group (~EUR 1.2bn revenue). Roig's Villarreal link is separate."
+}

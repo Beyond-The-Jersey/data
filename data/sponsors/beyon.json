@@ -1,0 +1,14 @@
+{
+  "id": "beyon",
+  "name": "Beyon",
+  "ownerId": "government-of-bahrain",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": [
+    "batelco"
+  ],
+  "note": "Bahraini telecoms group (formerly Batelco); majority state-linked."
+}

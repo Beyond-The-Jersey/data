@@ -1,0 +1,43 @@
+{
+  "id": "getafe-2026-27-home",
+  "clubId": "getafe",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "tecnocasa-group",
+      "placement": "front",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    },
+    {
+      "sponsorId": "odty-news",
+      "placement": "sleeve",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    },
+    {
+      "sponsorId": "lowi",
+      "placement": "back",
+      "source": {
+        "name": "Blinkfire, Guia de los patrocinadores de la LALIGA 2025-26",
+        "date": "2025-10-08",
+        "url": "https://patrocinio-en-redes.blinkfire.com/inicio/articulos/guia-de-los-patrocinadores-de-la-laliga-2025-26-la-diversidad-manda-en-las-equipaciones/",
+        "note": "Lowi back of shirt per the 2025-26 guide; one of the two Lowi backs the 2026-27 overview names, not identified there"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": null,
+  "change": null
+}

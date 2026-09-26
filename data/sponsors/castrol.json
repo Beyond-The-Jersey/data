@@ -1,0 +1,14 @@
+{
+  "id": "castrol",
+  "name": "Castrol",
+  "ownerId": "bp-plc",
+  "ownership": "owned",
+  "tier": "concern",
+  "status": "rated",
+  "verdict": "Castrol is BP's lubricants brand, so it inherits BP's owner chain (London/NYSE-listed, no state shareholder) and its sustained documented adverse record on the….",
+  "claimIds": [
+    "bp-plc-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Same owner id as bp so the website derives one blood contribution. Castrol is F1's long-running lubricant partner."
+}

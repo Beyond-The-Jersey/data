@@ -1,0 +1,14 @@
+{
+  "id": "schalke-04",
+  "name": "Schalke 04",
+  "shortName": "Schalke 04",
+  "code": "S04",
+  "sportId": "soccer",
+  "leagueId": "bundesliga",
+  "country": "Germany",
+  "crest": "assets/crests/schalke-04.png",
+  "aliases": [
+    "schalke"
+  ],
+  "hasTeamPageDesign": false
+}

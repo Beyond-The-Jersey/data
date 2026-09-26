@@ -1,0 +1,14 @@
+{
+  "id": "marex-group-plc-record",
+  "ownerIds": [
+    "marex-group-plc"
+  ],
+  "text": "Marex Group plc listed on Nasdaq in June 2024 after growth under private-equity sponsors, leaving a public float. No state or state-fund owner.",
+  "short": "Marex Group plc is a Nasdaq-listed financial-services group.",
+  "source": {
+    "name": "Marex, investors (SEC filings)",
+    "date": "2024-06",
+    "url": "https://www.marex.com/investors"
+  },
+  "reviewed": true
+}

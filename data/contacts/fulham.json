@@ -1,0 +1,52 @@
+{
+  "clubId": "fulham",
+  "channels": [
+    {
+      "type": "email",
+      "value": "bookings@brasserieconstance.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.fulhamfc.com/more/contact-us/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "info@lighthousesocial.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.fulhamfc.com/more/contact-us/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.fulhamfc.com/more/contact-us/",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.fulhamfc.com/more/contact-us/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@FulhamFC",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.fulhamfc.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@fulhamfc",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.fulhamfc.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

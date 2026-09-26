@@ -1,0 +1,14 @@
+{
+  "id": "lotto-intermarche",
+  "name": "Lotto Intermarché",
+  "shortName": "Lotto",
+  "code": "LOI",
+  "sportId": "cycling",
+  "leagueId": "uci-worldtour",
+  "country": "Belgium",
+  "crest": "assets/crests/lotto-intermarche.png",
+  "aliases": [
+    "lotto-soudal",
+    "intermarche-wanty"
+  ]
+}

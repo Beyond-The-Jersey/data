@@ -1,0 +1,14 @@
+{
+  "id": "mercy-health",
+  "name": "Mercy Health",
+  "ownerId": "bon-secours-mercy-health",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Bon Secours Mercy Health (Mercy Health, Ohio and Kentucky). Nothing found.",
+  "claimIds": [
+    "bon-secours-mercy-health-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Nonprofits have no 'owner', so type was recorded as private-company; the Bon Secours Mercy Health parentage is in press coverage rather than on the page opened."
+}

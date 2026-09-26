@@ -1,0 +1,85 @@
+{
+  "id": "al-kholood-2026-27-home",
+  "clubId": "al-kholood",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "yelo",
+      "placement": "front",
+      "source": {
+        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+        "date": "2026-06-15",
+        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+      }
+    },
+    {
+      "sponsorId": "tameeni-insurance",
+      "placement": "front",
+      "source": {
+        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+        "date": "2026-06-15",
+        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+      }
+    },
+    {
+      "sponsorId": "mezaj-maghribhi",
+      "placement": "back",
+      "source": {
+        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+        "date": "2026-08-24",
+        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+        "note": "Official league gallery of the 2026-27 kits."
+      }
+    },
+    {
+      "sponsorId": "florina-shoes",
+      "placement": "back",
+      "source": {
+        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+        "date": "2026-08-24",
+        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+        "note": "Official league gallery of the 2026-27 kits."
+      }
+    },
+    {
+      "sponsorId": "elba-cookers",
+      "placement": "back",
+      "source": {
+        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+        "date": "2026-08-24",
+        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+        "note": "Official league gallery of the 2026-27 kits."
+      }
+    },
+    {
+      "sponsorId": "saudi-qaid-transport",
+      "placement": "sleeve",
+      "source": {
+        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+        "date": "2026-08-24",
+        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+        "note": "Official league gallery of the 2026-27 kits."
+      }
+    },
+    {
+      "sponsorId": "kappa",
+      "placement": "partner",
+      "source": {
+        "name": "Sponsor note (kit supplier)",
+        "date": "2026-09",
+        "url": null,
+        "note": "Kit supplier to Al-Kholood. Link removed 2026-09-25 (a private issue in the data repo, not a public source (2026-09-25)): https://github.com/Beyond-The-Jersey/data/issues/243"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Kappa home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+  "change": null
+}

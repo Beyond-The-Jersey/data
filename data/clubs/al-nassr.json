@@ -1,0 +1,14 @@
+{
+  "id": "al-nassr",
+  "name": "Al-Nassr",
+  "shortName": "Al-Nassr",
+  "code": "NAS",
+  "sportId": "soccer",
+  "leagueId": "saudi-pro-league",
+  "country": "Saudi Arabia",
+  "crest": "assets/crests/al-nassr.png",
+  "aliases": [
+    "al nassr",
+    "nassr"
+  ]
+}

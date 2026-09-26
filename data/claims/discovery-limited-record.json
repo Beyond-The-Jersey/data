@@ -1,0 +1,14 @@
+{
+  "id": "discovery-limited-record",
+  "ownerIds": [
+    "discovery-limited"
+  ],
+  "text": "Discovery Limited is a Johannesburg-headquartered, JSE-listed financial services group and the licensed controlling company of the Discovery insurance group; it owns the Vitality brand. No state or state-fund owner.",
+  "short": "Discovery Limited is a JSE-listed insurer and the owner of the Vitality brand.",
+  "source": {
+    "name": "Discovery Limited investor relations",
+    "date": "2026",
+    "url": "https://www.discovery.co.za/corporate/investor-relations"
+  },
+  "reviewed": true
+}

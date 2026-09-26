@@ -1,0 +1,16 @@
+{
+  "id": "red-bull-racing-tag-heuer",
+  "clubId": "red-bull-racing",
+  "orgName": null,
+  "sponsorId": "tag-heuer",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+    "date": "2026-09-24",
+    "url": "https://www.redbullracing.com/int-en/partners"
+  },
+  "note": "Oracle Red Bull Racing other partner on the 2026 car."
+}

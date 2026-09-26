@@ -1,0 +1,14 @@
+{
+  "id": "ally",
+  "name": "Ally",
+  "ownerId": "ally-financial",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Ally Financial Inc.. Nothing found.",
+  "claimIds": [
+    "ally-financial-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Historic US Treasury stake (2009-2014) noted but fully exited, so not scored as state."
+}

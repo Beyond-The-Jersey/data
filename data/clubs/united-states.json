@@ -1,0 +1,11 @@
+{
+  "id": "united-states",
+  "name": "United States",
+  "shortName": "United States",
+  "code": "USA",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "United States",
+  "crest": "assets/crests/united-states.png",
+  "aliases": []
+}

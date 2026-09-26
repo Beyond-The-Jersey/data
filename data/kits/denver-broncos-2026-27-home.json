@@ -1,0 +1,24 @@
+{
+  "id": "denver-broncos-2026-27-home",
+  "clubId": "denver-broncos",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "childrens-hospital-colorado",
+      "placement": "training-kit",
+      "source": {
+        "name": "Denver Broncos",
+        "date": "2024-07-24",
+        "url": "https://www.denverbroncos.com/news/broncos-renew-and-expand-partnership-with-children-s-hospital-colorado"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Practice-jersey patch: Children's Hospital Colorado.",
+  "change": null
+}

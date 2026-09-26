@@ -1,0 +1,14 @@
+{
+  "id": "standard-chartered",
+  "name": "Standard Chartered",
+  "ownerId": "standard-chartered-plc",
+  "ownership": "owned",
+  "tier": "concern",
+  "status": "rated",
+  "verdict": "Standard Chartered is a London-headquartered, publicly listed bank with dispersed shareholders and no state or state-fund owner.",
+  "claimIds": [
+    "standard-chartered-plc-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Listed UK owner, no state link → none. Honesty flag: the task highlighted SC as 'interesting', and its sanctions-violation history is real, but under a state-ownership rubric the honest tier is none. If conduct counted, concern. ADJUSTED: Raised from none: the 2012 and 2019 forfeitures are a sustained structural record, not a one-off fine, which is what tiers.json calls 'a lesser link'."
+}

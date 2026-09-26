@@ -1,0 +1,24 @@
+{
+  "id": "baltimore-orioles-2026-27-home",
+  "clubId": "baltimore-orioles",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "t-rowe-price",
+      "placement": "patch",
+      "source": {
+        "name": "Baltimore Orioles / MLB.com press release",
+        "date": "2024-06-10",
+        "url": "https://www.mlb.com/press-release/press-release-baltimore-orioles-and-t-rowe-price-announce-marquee-sponsorship-agreement-with-jersey-patch"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: T. Rowe Price.",
+  "change": null
+}

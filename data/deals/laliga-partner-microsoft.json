@@ -1,0 +1,17 @@
+{
+  "id": "laliga-partner-microsoft",
+  "clubId": null,
+  "orgName": "LaLiga",
+  "sponsorId": "microsoft",
+  "placement": "league-partner",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+    "date": "2026-09-06",
+    "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+    "note": "Technology Partner"
+  },
+  "leagueId": "la-liga"
+}

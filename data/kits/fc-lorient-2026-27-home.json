@@ -1,0 +1,87 @@
+{
+  "id": "fc-lorient-2026-27-home",
+  "clubId": "fc-lorient",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "jean-floch",
+      "placement": "front",
+      "source": {
+        "name": "FC Lorient — Parrains et partenaires officiels (site officiel)",
+        "date": "2026",
+        "url": "https://www.fclorient.bzh/"
+      }
+    },
+    {
+      "sponsorId": "acadomia",
+      "placement": "front",
+      "source": {
+        "name": "FC Lorient — Parrains et partenaires officiels (site officiel)",
+        "date": "2026",
+        "url": "https://www.fclorient.bzh/"
+      }
+    },
+    {
+      "sponsorId": "breizh-cola",
+      "placement": "front",
+      "source": {
+        "name": "FC Lorient — Parrains et partenaires officiels (site officiel)",
+        "date": "2026",
+        "url": "https://www.fclorient.bzh/"
+      }
+    },
+    {
+      "sponsorId": "world-of-tanks",
+      "placement": "back",
+      "source": {
+        "name": "FC Lorient — Parrains et partenaires officiels (site officiel)",
+        "date": "2026",
+        "url": "https://www.fclorient.bzh/"
+      }
+    },
+    {
+      "sponsorId": "aniel-pieces-auto",
+      "placement": "back",
+      "source": {
+        "name": "FC Lorient — Parrains et partenaires officiels (site officiel)",
+        "date": "2026",
+        "url": "https://www.fclorient.bzh/"
+      }
+    },
+    {
+      "sponsorId": "actual-group",
+      "placement": "sleeve",
+      "source": {
+        "name": "FC Lorient — Parrains et partenaires officiels (site officiel)",
+        "date": "2026",
+        "url": "https://www.fclorient.bzh/"
+      }
+    },
+    {
+      "sponsorId": "cite-marine",
+      "placement": "shorts",
+      "source": {
+        "name": "FC Lorient — Parrains et partenaires officiels (site officiel)",
+        "date": "2026",
+        "url": "https://www.fclorient.bzh/"
+      }
+    },
+    {
+      "sponsorId": "b-and-b-hotels",
+      "placement": "shorts",
+      "source": {
+        "name": "FC Lorient — Parrains et partenaires officiels (site officiel)",
+        "date": "2026",
+        "url": "https://www.fclorient.bzh/"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Joma kit. Jean Floc'h front.",
+  "change": null
+}

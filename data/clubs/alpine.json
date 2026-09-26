@@ -1,0 +1,11 @@
+{
+  "id": "alpine",
+  "name": "BWT Alpine F1 Team",
+  "shortName": "Alpine",
+  "code": "ALP",
+  "sportId": "motorsport",
+  "leagueId": "formula-1",
+  "country": "United Kingdom",
+  "crest": "assets/crests/alpine.png",
+  "aliases": []
+}

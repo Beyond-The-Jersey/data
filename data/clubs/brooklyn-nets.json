@@ -1,0 +1,12 @@
+{
+  "id": "brooklyn-nets",
+  "name": "Brooklyn Nets",
+  "shortName": "Nets",
+  "code": "BKN",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "USA",
+  "crest": "assets/crests/brooklyn-nets.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

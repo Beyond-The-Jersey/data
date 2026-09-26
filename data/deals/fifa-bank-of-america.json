@@ -1,0 +1,16 @@
+{
+  "id": "fifa-bank-of-america",
+  "clubId": null,
+  "orgName": "FIFA",
+  "sponsorId": "bank-of-america",
+  "placement": "league-partner",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "FIFA - FIFA announces Bank of America as Official Bank Sponsor of FIFA World Cup 26",
+    "date": "2024-08-15",
+    "url": "https://inside.fifa.com/about-fifa/commercial/media-releases/fifa-announces-bank-of-america-as-official-bank-sponsor-of-fifa-world-cup-26"
+  },
+  "leagueId": "fifa"
+}

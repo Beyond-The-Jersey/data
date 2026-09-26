@@ -1,0 +1,13 @@
+{
+  "id": "deutsche-vermoegensberatung",
+  "name": "Deutsche Vermögensberatung",
+  "ownerId": "deutsche-vermoegensberatung-ag",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": [
+    "dvag"
+  ]
+}

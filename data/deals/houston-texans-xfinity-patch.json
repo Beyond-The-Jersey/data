@@ -1,0 +1,16 @@
+{
+  "id": "houston-texans-xfinity-patch",
+  "clubId": "houston-texans",
+  "orgName": "Xfinity (also Houston Methodist on some jerseys)",
+  "sponsorId": "xfinity",
+  "placement": "training-kit",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Zoomph (2026 NFL practice jersey patch guide)",
+    "date": "2026-09-01",
+    "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+  },
+  "note": "Practice-jersey patch."
+}

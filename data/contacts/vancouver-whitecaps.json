@@ -1,0 +1,62 @@
+{
+  "clubId": "vancouver-whitecaps",
+  "channels": [
+    {
+      "type": "website",
+      "value": "https://www.whitecapsfc.com",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.whitecapsfc.com",
+        "date": "2026-09-24"
+      },
+      "label": "Club website"
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.whitecapsfc.com/club/contact-us",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.whitecapsfc.com/club/contact-us",
+        "date": "2026-09-24"
+      },
+      "label": "Club contact page"
+    },
+    {
+      "type": "email",
+      "value": "info@whitecapsfc.com",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.whitecapsfc.com/club/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "+1 604-669-9283",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.whitecapsfc.com/club/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@WhitecapsFC",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.whitecapsfc.com",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@whitecapsfc",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.whitecapsfc.com",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

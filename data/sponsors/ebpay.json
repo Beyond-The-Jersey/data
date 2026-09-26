@@ -1,0 +1,11 @@
+{
+  "id": "ebpay",
+  "name": "EBpay",
+  "ownerId": "ebpay",
+  "ownership": null,
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": []
+}

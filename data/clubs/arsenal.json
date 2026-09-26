@@ -1,0 +1,16 @@
+{
+  "id": "arsenal",
+  "name": "Arsenal",
+  "shortName": "Arsenal",
+  "code": "ARS",
+  "sportId": "soccer",
+  "leagueId": "premier-league",
+  "country": "England",
+  "crest": "assets/crests/arsenal.png",
+  "aliases": [
+    "gunners",
+    "afc"
+  ],
+  "hasTeamPageDesign": true,
+  "contact": null
+}

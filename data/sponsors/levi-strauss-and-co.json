@@ -1,0 +1,14 @@
+{
+  "id": "levi-strauss-and-co",
+  "name": "Levi Strauss & Co. (Levi's)",
+  "ownerId": "levi-strauss-and-co-levi-s-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Levi Strauss & Co.. Nothing found.",
+  "claimIds": [
+    "levi-strauss-and-co-levi-s-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Levi Strauss & Co. is a publicly traded apparel company; no state stake or serious conduct record identified."
+}

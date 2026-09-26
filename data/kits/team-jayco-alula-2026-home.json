@@ -1,0 +1,42 @@
+{
+  "id": "team-jayco-alula-2026-home",
+  "clubId": "team-jayco-alula",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026 season",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "jayco",
+      "placement": "front",
+      "source": {
+        "name": "Team Jayco AlUla (GreenEDGE) — Partners 2026",
+        "date": "unknown",
+        "url": "https://greenedgecycling.com/2026/2025partners/"
+      }
+    },
+    {
+      "sponsorId": "alula",
+      "placement": "front",
+      "source": {
+        "name": "Team Jayco AlUla (GreenEDGE) — Partners 2026",
+        "date": "unknown",
+        "url": "https://greenedgecycling.com/2026/2025partners/"
+      }
+    },
+    {
+      "sponsorId": "giant",
+      "placement": "partner",
+      "source": {
+        "name": "Team Jayco AlUla (GreenEDGE) — Partners 2026",
+        "date": "unknown",
+        "url": "https://greenedgecycling.com/2026/2025partners/"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "2026 UCI WorldTeam. Team Jayco AlUla's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+  "change": null
+}

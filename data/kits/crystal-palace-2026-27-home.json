@@ -1,0 +1,35 @@
+{
+  "id": "crystal-palace-2026-27-home",
+  "clubId": "crystal-palace",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {
+    "square": "assets/shirts/grid/crystal-palace-2026-27-home-front-square.jpg"
+  },
+  "sponsors": [
+    {
+      "sponsorId": "temporal",
+      "placement": "front",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
+    },
+    {
+      "sponsorId": "chexx",
+      "placement": "sleeve",
+      "source": {
+        "name": "Crystal Palace FC – 'Crystal Palace FC announce CHEXX as Official Sleeve Partner'",
+        "date": "2026-08-28",
+        "url": "https://www.cpfc.co.uk/news/announcement/crystal-palace-fc-announce-chexx-as-official-sleeve-partner/"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": null,
+  "change": null
+}

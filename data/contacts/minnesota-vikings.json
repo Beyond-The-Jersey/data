@@ -1,0 +1,52 @@
+{
+  "clubId": "minnesota-vikings",
+  "channels": [
+    {
+      "type": "email",
+      "value": "customerservice@vikings.nfl.net",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.vikings.com/footer/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "info@usbankstadium.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.vikings.com/footer/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.vikings.com/footer/contact-us",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.vikings.com/footer/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@vikings",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.vikings.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@vikings",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.vikings.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

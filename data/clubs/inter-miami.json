@@ -1,0 +1,11 @@
+{
+  "id": "inter-miami",
+  "name": "Inter Miami CF",
+  "shortName": "Inter Miami",
+  "code": "MIA",
+  "sportId": "soccer",
+  "leagueId": "mls",
+  "country": "USA",
+  "crest": "assets/crests/inter-miami.png",
+  "aliases": []
+}

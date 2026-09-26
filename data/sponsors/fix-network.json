@@ -1,0 +1,14 @@
+{
+  "id": "fix-network",
+  "name": "FIX Network",
+  "ownerId": "mondofix-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Mondofix Inc. (dba Fix Network World). Nothing found.",
+  "claimIds": [
+    "mondofix-inc-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: The group publishes no share register; 'largest shareholder' and 'majority control' are the company's own words. No state or PE owner identified."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "clickhouse",
+  "name": "ClickHouse",
+  "ownerId": "clickhouse-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by ClickHouse, Inc. (private, VC-backed). Nothing found.",
+  "claimIds": [
+    "clickhouse-inc-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Private owner → none. GIC (Singapore) is a minority investor only; Singapore's record is clean, so no abuse link. Arguable concern if any SWF minority counts; recorded here."
+}

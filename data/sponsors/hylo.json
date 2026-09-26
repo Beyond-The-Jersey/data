@@ -1,0 +1,14 @@
+{
+  "id": "hylo",
+  "name": "HYLO",
+  "ownerId": "ursapharm-arzneimittel-gmbh",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by URSAPHARM Arzneimittel GmbH. Nothing found.",
+  "claimIds": [
+    "ursapharm-arzneimittel-gmbh-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: URSAPHARM is the owner of the HYLO trademark (USPTO registration 5887500 in its name). Not HYLO the drink brand."
+}

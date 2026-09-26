@@ -1,0 +1,9 @@
+{
+  "id": "humain",
+  "name": "HUMAIN",
+  "type": "private-company",
+  "country": "Saudi Arabia",
+  "via": "PIF",
+  "note": "Launched May 2025 under PIF; chaired by Crown Prince Mohammed bin Salman.",
+  "parentId": "saudi-pif"
+}

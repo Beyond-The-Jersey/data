@@ -1,0 +1,15 @@
+{
+  "id": "stockx-owner-record",
+  "ownerIds": [
+    "stockx-owner"
+  ],
+  "text": "StockX is a privately held e-commerce marketplace that authenticates and resells sneakers, streetwear, watches and collectibles.",
+  "short": "StockX is a privately held e-commerce marketplace that authenticates and resells sneakers, streetwear, watches and collectibles.",
+  "source": {
+    "name": "Bitget Wiki article on StockX ownership",
+    "date": "2026-09-24",
+    "url": null,
+    "note": "Link removed 2026-09-25 (404 on 2026-09-25): https://bitget.com/wiki/who-owns-stock-x"
+  },
+  "reviewed": true
+}

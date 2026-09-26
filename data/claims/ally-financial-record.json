@@ -1,0 +1,14 @@
+{
+  "id": "ally-financial-record",
+  "ownerIds": [
+    "ally-financial"
+  ],
+  "text": "Ally Financial Inc. (NYSE: ALLY) is a US-listed digital bank and auto lender with no state shareholder; the largest holders are passive and mega-cap managers (Berkshire Hathaway affiliates ~9.4%, Vanguard ~9.1%, BlackRock ~8.3% as of March 2026). The company was majority-owned by the US Treasury after the 2008 GMAC bailout, but that stake was fully sold and today ownership is purely private and dispersed. Human-rights relevance is conduct-based and modest: subprime auto lending and repossession practice.",
+  "short": "Ally Financial Inc.",
+  "source": {
+    "name": "Ally Financial Inc. DEF 14A 2026 (SEC)",
+    "date": "2026-03-18",
+    "url": "https://www.sec.gov/Archives/edgar/data/40729/000119312526113819/ally-20260318.htm"
+  },
+  "reviewed": true
+}

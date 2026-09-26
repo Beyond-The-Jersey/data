@@ -1,0 +1,15 @@
+{
+  "id": "rubaya-smuggling",
+  "ownerIds": [
+    "government-of-rwanda"
+  ],
+  "text": "More than 120 tonnes of coltan a month smuggled from Congo’s Rubaya mines into Rwanda since April 2024.",
+  "short": "120+ tonnes of coltan a month smuggled into Rwanda",
+  "source": {
+    "name": "Global Witness",
+    "date": "2026-06",
+    "url": "https://globalwitness.org/en/campaigns/transition-minerals/who-buys-rwandas-smuggled-coltan-the-global-journey-of-conflict-coltan-from-drc-to-the-worlds-electronics/",
+    "note": "Who buys Rwanda's smuggled coltan?"
+  },
+  "reviewed": true
+}

@@ -1,0 +1,17 @@
+{
+  "id": "saudi-pro-league-address-coffee",
+  "clubId": null,
+  "orgName": "Roshn Saudi League",
+  "sponsorId": "address-coffee",
+  "placement": "league-partner",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Saudi Pro League official site – partner strip",
+    "date": "2026-09-24",
+    "url": "https://www.spl.com.sa/en"
+  },
+  "leagueId": "saudi-pro-league",
+  "note": "League-wide partner, attached to no single club."
+}

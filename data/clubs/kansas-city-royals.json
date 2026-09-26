@@ -1,0 +1,12 @@
+{
+  "id": "kansas-city-royals",
+  "name": "Kansas City Royals",
+  "shortName": "Royals",
+  "code": "KC",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "USA",
+  "crest": "assets/crests/kansas-city-royals.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

@@ -1,0 +1,105 @@
+{
+  "id": "red-bull-racing-2026-home",
+  "clubId": "red-bull-racing",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "oracle",
+      "placement": "front",
+      "source": {
+        "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+        "date": "2026-09-24",
+        "url": "https://www.redbullracing.com/int-en/partners"
+      }
+    },
+    {
+      "sponsorId": "ford",
+      "placement": "front",
+      "source": {
+        "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+        "date": "2026-09-24",
+        "url": "https://www.redbullracing.com/int-en/partners"
+      }
+    },
+    {
+      "sponsorId": "visa",
+      "placement": "sleeve",
+      "source": {
+        "name": "Visa Investor Relations – Visa renews partnership across Red Bull Formula One teams",
+        "date": "2026-02-21",
+        "url": "https://investor.visa.com/news/news-details/2026/Visa-Renews-Partnership-Across-Red-Bull-Formula-One-Teams"
+      }
+    },
+    {
+      "sponsorId": "att",
+      "placement": "sleeve",
+      "source": {
+        "name": "AT&T – AT&T turbocharges partnership with Oracle Red Bull Racing",
+        "date": "2024-06-06",
+        "url": "https://about.att.com/story/2024/oracle-red-bull-racing.html"
+      }
+    },
+    {
+      "sponsorId": "hard-rock",
+      "placement": "partner",
+      "source": {
+        "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+        "date": "2026-09-24",
+        "url": "https://www.redbullracing.com/int-en/partners"
+      }
+    },
+    {
+      "sponsorId": "siemens",
+      "placement": "partner",
+      "source": {
+        "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+        "date": "2026-09-24",
+        "url": "https://www.redbullracing.com/int-en/partners"
+      }
+    },
+    {
+      "sponsorId": "mobil-1",
+      "placement": "partner",
+      "source": {
+        "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+        "date": "2026-09-24",
+        "url": "https://www.redbullracing.com/int-en/partners"
+      }
+    },
+    {
+      "sponsorId": "gate",
+      "placement": "partner",
+      "source": {
+        "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+        "date": "2026-09-24",
+        "url": "https://www.redbullracing.com/int-en/partners"
+      }
+    },
+    {
+      "sponsorId": "damac",
+      "placement": "partner",
+      "source": {
+        "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+        "date": "2026-09-24",
+        "url": "https://www.redbullracing.com/int-en/partners"
+      }
+    },
+    {
+      "sponsorId": "tag-heuer",
+      "placement": "partner",
+      "source": {
+        "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+        "date": "2026-09-24",
+        "url": "https://www.redbullracing.com/int-en/partners"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": "2026 car. O"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "caesars-entertainment",
+  "name": "Caesars Entertainment",
+  "ownerId": "caesars-entertainment-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Caesars Entertainment. Nothing found.",
+  "claimIds": [
+    "caesars-entertainment-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
+}

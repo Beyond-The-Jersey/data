@@ -1,0 +1,12 @@
+{
+  "id": "sacramento-kings",
+  "name": "Sacramento Kings",
+  "shortName": "Kings",
+  "code": "SAC",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "USA",
+  "crest": "assets/crests/sacramento-kings.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

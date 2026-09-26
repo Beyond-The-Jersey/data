@@ -1,0 +1,16 @@
+{
+  "id": "detroit-tigers-fifth-third-bank-stadium",
+  "clubId": "detroit-tigers",
+  "orgName": "Fifth Third Bank",
+  "sponsorId": "fifth-third-bank",
+  "placement": "stadium",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "MLB.com",
+    "date": "2026-09-21",
+    "url": "https://www.mlb.com/redsox/news/tigers-ballpark-name-changed-to-fifth-third-park"
+  },
+  "note": "Arena naming rights: Fifth Third Park."
+}

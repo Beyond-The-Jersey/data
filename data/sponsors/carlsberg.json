@@ -1,0 +1,11 @@
+{
+  "id": "carlsberg",
+  "name": "Carlsberg",
+  "ownerId": "carlsberg-group",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "formula-1",
+  "aliases": [
+    "f1"
+  ],
+  "sportId": "motorsport",
+  "name": "Formula 1",
+  "status": "partial",
+  "notes": [
+    "Haas dropped Uralkali in 2022; the Russian Grand Prix was cancelled in 2022."
+  ]
+}

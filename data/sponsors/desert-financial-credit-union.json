@@ -1,0 +1,14 @@
+{
+  "id": "desert-financial-credit-union",
+  "name": "Desert Financial Credit Union",
+  "ownerId": "desert-financial-credit-union-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Desert Financial Credit Union. Nothing found.",
+  "claimIds": [
+    "desert-financial-credit-union-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Explicitly states not-for-profit, member-owned credit union; no state stake or serious conduct record identified."
+}

@@ -1,0 +1,52 @@
+{
+  "clubId": "deportivo-alaves",
+  "channels": [
+    {
+      "type": "email",
+      "value": "deportivoalavessad@alaves.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://deportivoalaves.com:443/es/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "945139191",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://deportivoalaves.com:443/es/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://deportivoalaves.com:443/es/aviso-legal",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://deportivoalaves.com:443/es/aviso-legal",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@alaves",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://deportivoalaves.com:443/es/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@deportivoalaves",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://deportivoalaves.com:443/es/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

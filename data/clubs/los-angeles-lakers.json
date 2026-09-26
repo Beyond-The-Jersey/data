@@ -1,0 +1,12 @@
+{
+  "id": "los-angeles-lakers",
+  "name": "Los Angeles Lakers",
+  "shortName": "Lakers",
+  "code": "LAL",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "USA",
+  "crest": "assets/crests/los-angeles-lakers.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

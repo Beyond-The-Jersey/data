@@ -1,0 +1,11 @@
+{
+  "id": "new-england-revolution",
+  "name": "New England Revolution",
+  "shortName": "New England Revolution",
+  "code": "NE",
+  "sportId": "soccer",
+  "leagueId": "mls",
+  "country": "USA",
+  "crest": "assets/crests/new-england-revolution.png",
+  "aliases": []
+}

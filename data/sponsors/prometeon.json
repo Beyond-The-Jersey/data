@@ -1,0 +1,14 @@
+{
+  "id": "prometeon",
+  "name": "Prometeon",
+  "ownerId": "sinochem-holdings",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Prometeon Tyre Group, the truck/agro tyre business spun out of Pirelli in 2017, is controlled through China National Tire & Rubber Co.",
+  "claimIds": [
+    "sinochem-holdings-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Sinochem's own newsroom carries the same 38% CNRC/Prometeon transaction, confirming the state chain. ON HOLD: the only claim is about Pirelli's shareholder, not about Prometeon's own ownership."
+}

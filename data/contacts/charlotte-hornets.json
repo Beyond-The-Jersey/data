@@ -1,0 +1,43 @@
+{
+  "clubId": "charlotte-hornets",
+  "channels": [
+    {
+      "type": "email",
+      "value": "arenainfo@hornets.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/hornets/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.nba.com/hornets/contact",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/hornets/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@hornets",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/hornets/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@hornets",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/hornets/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

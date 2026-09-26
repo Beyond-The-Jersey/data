@@ -1,0 +1,17 @@
+{
+  "id": "uefa-just-eat-ucl",
+  "clubId": null,
+  "orgName": "UEFA Champions League",
+  "sponsorId": "just-eat",
+  "placement": "league-partner",
+  "from": null,
+  "to": "2026",
+  "value": null,
+  "source": {
+    "name": "UEFA.com",
+    "date": "2024-09-19",
+    "url": "https://www.uefa.com/news-media/news/0291-1be4662a44e0-b6385c6139f8-1000--qatar-airways-becomes-official-airline-partner-of-the-uefa-c/"
+  },
+  "leagueId": "uefa",
+  "note": "Listed as a UCL sponsor in UEFA's September 2024 announcement; exited one year early, citing changing priorities (SportsPro, 2026-09-08)."
+}

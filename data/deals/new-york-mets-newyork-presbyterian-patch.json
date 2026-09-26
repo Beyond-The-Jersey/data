@@ -1,0 +1,16 @@
+{
+  "id": "new-york-mets-newyork-presbyterian-patch",
+  "clubId": "new-york-mets",
+  "orgName": "NewYork-Presbyterian",
+  "sponsorId": "newyork-presbyterian",
+  "placement": "patch",
+  "from": "2023",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "MLB.com press release",
+    "date": "2023-04-06",
+    "url": "https://www.mlb.com/press-release/press-release-new-york-mets-announce-multiyear-partnership-with-newyork-presbyte"
+  },
+  "note": "Jersey patch."
+}

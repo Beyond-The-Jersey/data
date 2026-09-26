@@ -1,0 +1,11 @@
+{
+  "id": "ghana",
+  "name": "Ghana",
+  "shortName": "Ghana",
+  "code": "GHA",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Ghana",
+  "crest": "assets/crests/ghana.png",
+  "aliases": []
+}

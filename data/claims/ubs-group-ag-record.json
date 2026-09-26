@@ -1,0 +1,14 @@
+{
+  "id": "ubs-group-ag-record",
+  "ownerIds": [
+    "ubs-group-ag"
+  ],
+  "text": "UBS Group AG is a SIX/NYSE-listed bank with a broad free float and no state shareholder; the Swiss Confederation exited its crisis-era stake long ago. Its 20-F discusses 'significant shareholders' only in the sense of reporting-threshold disclosures by private investors. The Mercedes partnership is private bank money.",
+  "short": "UBS Group AG is a SIX/NYSE-listed bank with a broad free float and no state shareholder; the Swiss Confederation exited its crisis-era stake long ago.",
+  "source": {
+    "name": "UBS Group AG Form 20-F FY2025 (SEC EDGAR)",
+    "date": "2026-03-09",
+    "url": "https://www.sec.gov/Archives/edgar/data/1610520/000161052026000023/ubs-20251231.htm"
+  },
+  "reviewed": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": "marathon-owner-record",
+  "ownerIds": [
+    "marathon-owner"
+  ],
+  "text": "Marathon Petroleum Corporation is owned by Marathon. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+  "short": "Marathon Petroleum Corporation is owned by Marathon.",
+  "source": {
+    "name": "Marathon Petroleum Corp DEF 14A 2026 (SEC)",
+    "date": "2026-03-16",
+    "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000023/mpc-20260316.htm"
+  },
+  "reviewed": true
+}

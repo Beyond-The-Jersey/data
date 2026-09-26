@@ -1,0 +1,12 @@
+{
+  "id": "jacksonville-jaguars",
+  "name": "Jacksonville Jaguars",
+  "shortName": "Jaguars",
+  "code": "JAX",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/jacksonville-jaguars.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": "seattle-mariners",
+  "name": "Seattle Mariners",
+  "shortName": "Mariners",
+  "code": "SEA",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "USA",
+  "crest": "assets/crests/seattle-mariners.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

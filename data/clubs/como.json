@@ -1,0 +1,11 @@
+{
+  "id": "como",
+  "name": "Como 1907",
+  "shortName": "Como",
+  "code": "COM",
+  "sportId": "soccer",
+  "leagueId": "serie-a",
+  "country": "Italy",
+  "crest": "assets/crests/como.png",
+  "aliases": []
+}

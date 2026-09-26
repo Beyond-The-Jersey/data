@@ -1,0 +1,43 @@
+{
+  "clubId": "atlanta-hawks",
+  "channels": [
+    {
+      "type": "email",
+      "value": "hawks.tickets@hawks.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/hawks/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.nba.com/hawks/contact",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/hawks/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@atlhawks",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/hawks/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@atlhawks",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/hawks/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

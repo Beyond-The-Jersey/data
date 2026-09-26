@@ -1,0 +1,14 @@
+{
+  "id": "m-and-t-bank-owner-record",
+  "ownerIds": [
+    "m-and-t-bank-owner"
+  ],
+  "text": "M&T Bank Corporation is a NYSE-listed bank with no state ownership; largest shareholder is The Vanguard Group (~13.04%) and other institutions each under 10%.",
+  "short": "M&T Bank Corporation is a NYSE-listed bank with no state ownership; largest shareholder is The Vanguard Group (~13.04%) and other institutions each under 10%.",
+  "source": {
+    "name": "M&T Bank DEF 14A 2026",
+    "date": "2026-03-10",
+    "url": "https://www.sec.gov/Archives/edgar/data/36270/000119312526099298/d74790ddef14a.htm"
+  },
+  "reviewed": true
+}

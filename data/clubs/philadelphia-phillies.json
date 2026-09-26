@@ -1,0 +1,12 @@
+{
+  "id": "philadelphia-phillies",
+  "name": "Philadelphia Phillies",
+  "shortName": "Phillies",
+  "code": "PHI",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "USA",
+  "crest": "assets/crests/philadelphia-phillies.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

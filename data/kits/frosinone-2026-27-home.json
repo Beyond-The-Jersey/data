@@ -1,0 +1,24 @@
+{
+  "id": "frosinone-2026-27-home",
+  "clubId": "frosinone",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026-27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "banca-popolare-del-frusinate",
+      "placement": "front",
+      "source": {
+        "name": "Footy Headlines",
+        "date": "2026-08-10",
+        "url": "https://www.footyheadlines.com/5057587566/frosinone-calcio-26-27-home-away-third-kits-released.html"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": "All three 26-27 kits carry 'long-standing main partner Banca Popolare Frusinate across the chest'."
+}

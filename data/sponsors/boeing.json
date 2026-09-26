@@ -1,0 +1,14 @@
+{
+  "id": "boeing",
+  "name": "Boeing",
+  "ownerId": "boeing",
+  "ownership": "owned",
+  "tier": "concern",
+  "status": "rated",
+  "verdict": "The Boeing Company is a US-listed commercial and defence aerospace prime with a widely held register and no state shareholder; its largest holders are index….",
+  "claimIds": [
+    "boeing-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Read literally, Boeing's weapons sales to conflict parties could argue for severe; kept at concern because the company itself is not a belligerent state entity."
+}

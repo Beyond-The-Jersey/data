@@ -1,0 +1,24 @@
+{
+  "id": "new-england-revolution-2026-27-home",
+  "clubId": "new-england-revolution",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026-27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "gillette",
+      "placement": "front",
+      "source": {
+        "name": "revolutionsoccer.net",
+        "date": "2025-02-11",
+        "url": "https://www.revolutionsoccer.net/news/revolution-welcome-gillette-as-official-jersey-sponsor-in-expanded-multi-year-partnership"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+}

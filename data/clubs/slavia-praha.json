@@ -1,0 +1,14 @@
+{
+  "id": "slavia-praha",
+  "name": "Slavia Praha",
+  "shortName": "Slavia Praha",
+  "code": "SLA",
+  "sportId": "soccer",
+  "leagueId": "uefa",
+  "country": "Czechia",
+  "crest": "assets/crests/slavia-praha.png",
+  "aliases": [
+    "slavia prague"
+  ],
+  "hasTeamPageDesign": false
+}

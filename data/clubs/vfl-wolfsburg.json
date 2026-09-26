@@ -1,0 +1,12 @@
+{
+  "id": "vfl-wolfsburg",
+  "name": "VfL Wolfsburg",
+  "shortName": "Wolfsburg",
+  "code": "WOB",
+  "sportId": "soccer",
+  "leagueId": "2-bundesliga",
+  "country": "Germany",
+  "crest": "assets/crests/vfl-wolfsburg.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

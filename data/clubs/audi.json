@@ -1,0 +1,11 @@
+{
+  "id": "audi",
+  "name": "Audi Revolut F1 Team",
+  "shortName": "Audi",
+  "code": "AUD",
+  "sportId": "motorsport",
+  "leagueId": "formula-1",
+  "country": "Germany",
+  "crest": "assets/crests/audi.png",
+  "aliases": []
+}

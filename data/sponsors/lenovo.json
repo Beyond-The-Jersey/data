@@ -1,0 +1,14 @@
+{
+  "id": "lenovo",
+  "name": "Lenovo",
+  "ownerId": "lenovo-group-ltd",
+  "ownership": "owned",
+  "tier": "concern",
+  "status": "rated",
+  "verdict": "Lenovo, Formula 1's league-level partner, is listed in Hong Kong (992) and its largest shareholder is Legend Holdings Corporation with about 31.4% - Legend's own….",
+  "claimIds": [
+    "lenovo-group-ltd-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Legend Holdings holds 31.41% of Lenovo (also confirmed on Lenovo's own IR shareholding page); CAS Holdings held ~29.04% of Legend. Control runs through a listed holding company, so the state's effective economic interest is under 10% - hence 'concern'."
+}

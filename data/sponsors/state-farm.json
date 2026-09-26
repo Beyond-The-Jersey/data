@@ -1,0 +1,14 @@
+{
+  "id": "state-farm",
+  "name": "State Farm",
+  "ownerId": "state-farm-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by State Farm. Nothing found.",
+  "claimIds": [
+    "state-farm-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
+}

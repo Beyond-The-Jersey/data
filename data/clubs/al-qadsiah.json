@@ -1,0 +1,14 @@
+{
+  "id": "al-qadsiah",
+  "name": "Al-Qadsiah",
+  "shortName": "Al-Qadsiah",
+  "code": "QAD",
+  "sportId": "soccer",
+  "leagueId": "saudi-pro-league",
+  "country": "Saudi Arabia",
+  "crest": "assets/crests/al-qadsiah.png",
+  "aliases": [
+    "al qadsiah",
+    "qadsiah"
+  ]
+}

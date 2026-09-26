@@ -1,0 +1,52 @@
+{
+  "clubId": "boston-red-sox",
+  "channels": [
+    {
+      "type": "email",
+      "value": "ticketoffice@redsox.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/redsox/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "tours@redsox.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/redsox/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.mlb.com/redsox/official-information/contact",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/redsox/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@RedSox",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/redsox",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@redsox",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/redsox",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

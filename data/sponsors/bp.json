@@ -1,0 +1,14 @@
+{
+  "id": "bp",
+  "name": "BP",
+  "ownerId": "bp-plc",
+  "ownership": "owned",
+  "tier": "concern",
+  "status": "rated",
+  "verdict": "No state shareholder (London/NYSE-listed), but a sustained documented adverse record: the US court found BP grossly negligent over the 2010 Deepwater Horizon spill….",
+  "claimIds": [
+    "bp-plc-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Rated with shell for consistency. BP also held a 19.75% stake in Russia's state-controlled Rosneft until 2022 - a further Russia-exposure note."
+}

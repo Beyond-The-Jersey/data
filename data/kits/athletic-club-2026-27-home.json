@@ -1,0 +1,34 @@
+{
+  "id": "athletic-club-2026-27-home",
+  "clubId": "athletic-club",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "kutxabank",
+      "placement": "front",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    },
+    {
+      "sponsorId": "digi",
+      "placement": "back",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "note": "back of shirt; B2BinPay did not renew the sleeve, left free"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": null,
+  "change": null
+}

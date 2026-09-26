@@ -1,0 +1,11 @@
+{
+  "id": "venezia",
+  "name": "Venezia FC",
+  "shortName": "Venezia",
+  "code": "VEN",
+  "sportId": "soccer",
+  "leagueId": "serie-a",
+  "country": "Italy",
+  "crest": "assets/crests/venezia.png",
+  "aliases": []
+}

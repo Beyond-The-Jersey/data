@@ -1,0 +1,14 @@
+{
+  "id": "rouses-markets-owner-record",
+  "ownerIds": [
+    "rouses-markets-owner"
+  ],
+  "text": "Rouses Markets is a family-owned grocery chain (third-generation Rouse family) with no state ownership or control.",
+  "short": "Rouses Markets is a family-owned grocery chain (third-generation Rouse family) with no state ownership or control.",
+  "source": {
+    "name": "Rouses Markets About Us page",
+    "date": "2026-09-24",
+    "url": "http://rouses.com/about/about-us"
+  },
+  "reviewed": true
+}

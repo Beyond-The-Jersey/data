@@ -1,0 +1,14 @@
+{
+  "id": "coca-cola-company-record",
+  "ownerIds": [
+    "coca-cola-company"
+  ],
+  "text": "The Coca-Cola Company is a US NYSE-listed beverage company with dispersed public shareholders and no state owner.",
+  "short": "The Coca-Cola Company is an NYSE-listed beverage company.",
+  "source": {
+    "name": "The Coca-Cola Company, investor relations",
+    "date": "2026",
+    "url": "https://investors.coca-colacompany.com/"
+  },
+  "reviewed": true
+}

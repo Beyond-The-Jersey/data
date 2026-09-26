@@ -1,0 +1,14 @@
+{
+  "id": "polymarket",
+  "name": "Polymarket",
+  "ownerId": "blockratize-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Blockratize, Inc. (dba Polymarket). Nothing found.",
+  "claimIds": [
+    "blockratize-inc-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: ICE's investment (reported ~USD 2bn, with a further USD 600m in 2026) is minority; ownership of the wider Polymarket structure is unusually opaque, but no state owner is evident. The supplied currentOwnerId 'blockratize' was correct; normalised to blockratize-inc."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "fifa-grupo-caliente",
+  "clubId": null,
+  "orgName": "FIFA",
+  "sponsorId": "grupo-caliente",
+  "placement": "league-partner",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "FIFA sponsors list (North American regional supporter)",
+    "date": "2026",
+    "url": null
+  },
+  "leagueId": "fifa"
+}

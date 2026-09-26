@@ -1,0 +1,11 @@
+{
+  "id": "curacao",
+  "name": "Curacao",
+  "shortName": "Curacao",
+  "code": "CUW",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Curaçao",
+  "crest": "assets/crests/curacao.png",
+  "aliases": []
+}

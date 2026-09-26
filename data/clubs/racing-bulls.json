@@ -1,0 +1,11 @@
+{
+  "id": "racing-bulls",
+  "name": "Visa Cash App Racing Bulls F1 Team",
+  "shortName": "Racing Bulls",
+  "code": "RB",
+  "sportId": "motorsport",
+  "leagueId": "formula-1",
+  "country": "Italy",
+  "crest": "assets/crests/racing-bulls.png",
+  "aliases": []
+}

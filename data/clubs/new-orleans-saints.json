@@ -1,0 +1,12 @@
+{
+  "id": "new-orleans-saints",
+  "name": "New Orleans Saints",
+  "shortName": "Saints",
+  "code": "NO",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/new-orleans-saints.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

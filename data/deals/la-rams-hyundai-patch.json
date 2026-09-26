@@ -1,0 +1,16 @@
+{
+  "id": "la-rams-hyundai-patch",
+  "clubId": "la-rams",
+  "orgName": "Hyundai (Hyundai Motor America)",
+  "sponsorId": "hyundai",
+  "placement": "training-kit",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Zoomph (2026 NFL practice-jersey patch guide)",
+    "date": "2026-09-01",
+    "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+  },
+  "note": "Practice-jersey patch."
+}

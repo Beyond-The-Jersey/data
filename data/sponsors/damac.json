@@ -1,0 +1,14 @@
+{
+  "id": "damac",
+  "name": "DAMAC Properties",
+  "ownerId": "maple-invest",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Maple Invest Co. Ltd (Hussain Sajwani family). Nothing found.",
+  "claimIds": [
+    "maple-invest-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Dubai-based but privately owned, not state-owned - so none. If the dataset later treats all Dubai-domiciled firms as state-linked this becomes the first to revisit."
+}

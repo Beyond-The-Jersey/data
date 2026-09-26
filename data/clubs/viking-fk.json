@@ -1,0 +1,14 @@
+{
+  "id": "viking-fk",
+  "name": "Viking FK",
+  "shortName": "Viking",
+  "code": "VIK",
+  "sportId": "soccer",
+  "leagueId": "uefa",
+  "country": "Norway",
+  "crest": "assets/crests/viking-fk.png",
+  "aliases": [
+    "viking stavanger"
+  ],
+  "hasTeamPageDesign": false
+}

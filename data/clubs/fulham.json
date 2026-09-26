@@ -1,0 +1,12 @@
+{
+  "id": "fulham",
+  "name": "Fulham",
+  "shortName": "Fulham",
+  "code": "FUL",
+  "sportId": "soccer",
+  "leagueId": "premier-league",
+  "country": "England",
+  "crest": "assets/crests/fulham.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

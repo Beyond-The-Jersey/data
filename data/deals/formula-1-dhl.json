@@ -1,0 +1,17 @@
+{
+  "id": "formula-1-dhl",
+  "clubId": null,
+  "orgName": "Formula 1",
+  "sponsorId": "dhl",
+  "placement": "league-partner",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "DHL Group – DHL renews partnership with Formula 1",
+    "date": "2024-11-25",
+    "url": "https://group.dhl.com/en/media-relations/press-releases/2024/dhl-renews-partnership-with-formula-1.html"
+  },
+  "note": "Formula 1 league-wide partner, so attached to no single team. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2024-11-25.",
+  "leagueId": "formula-1"
+}

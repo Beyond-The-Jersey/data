@@ -1,0 +1,24 @@
+{
+  "id": "udinese-2026-27-home",
+  "clubId": "udinese",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026-27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "io-sono-friuli-venezia-giulia",
+      "placement": "front",
+      "source": {
+        "name": "Udinese Calcio",
+        "date": "2026-03-13",
+        "url": "https://www.udinese.it/news/club/io-sono-friuli-venezia-giulia-renews-udinese-shirt-sponsorship-deal-until-202829"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": "Regional tourism brand on shirts 2026-27 through 2028-29."
+}

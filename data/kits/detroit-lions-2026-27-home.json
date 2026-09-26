@@ -1,0 +1,24 @@
+{
+  "id": "detroit-lions-2026-27-home",
+  "clubId": "detroit-lions",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "meijer",
+      "placement": "training-kit",
+      "source": {
+        "name": "Detroit Lions",
+        "date": "2024-07-23",
+        "url": "https://www.detroitlions.com/news/detroit-lions-expand-and-extend-partnership-with-meijer"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Practice-jersey patch: Meijer.",
+  "change": null
+}

@@ -1,0 +1,52 @@
+{
+  "clubId": "athletics",
+  "channels": [
+    {
+      "type": "email",
+      "value": "spring@athletics.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/athletics/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "tickets@sutterhealthpark.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/athletics/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.mlb.com/athletics/official-information/contact",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/athletics/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@Athletics",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/athletics",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@athletics",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/athletics",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

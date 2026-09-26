@@ -1,0 +1,43 @@
+{
+  "clubId": "real-sociedad",
+  "channels": [
+    {
+      "type": "email",
+      "value": "realsoc@realsociedad.eus",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.realsociedad.eus/es/i/aviso-legal",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.realsociedad.eus/es/i/aviso-legal",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.realsociedad.eus/es/i/aviso-legal",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@RealSociedad",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.realsociedad.eus/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@realsociedad",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.realsociedad.eus/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

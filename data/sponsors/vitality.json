@@ -1,0 +1,14 @@
+{
+  "id": "vitality",
+  "name": "Vitality",
+  "ownerId": "discovery-limited",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Discovery Limited (Johannesburg-listed). Nothing found.",
+  "claimIds": [
+    "discovery-limited-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Currency of sponsor name is ambiguous: 'Vitality' most commonly means the Discovery-owned brand (UK VitalityHealth/VitalityLife are Discovery subsidiaries). If the sponsor is instead US 'Vitality' (John Hancock/Manulife) the owner is likewise a listed insurer and the tier stays none. Flagged rather than picked silently."
+}

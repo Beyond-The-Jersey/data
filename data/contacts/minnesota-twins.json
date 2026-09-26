@@ -1,0 +1,52 @@
+{
+  "clubId": "minnesota-twins",
+  "channels": [
+    {
+      "type": "email",
+      "value": "twins@twinsbaseball.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/twins/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "tickets@twinsbaseball.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/twins/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.mlb.com/twins/official-information/contact",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/twins/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@Twins",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/twins",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@twins",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/twins",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

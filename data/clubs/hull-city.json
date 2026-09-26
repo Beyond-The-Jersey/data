@@ -1,0 +1,12 @@
+{
+  "id": "hull-city",
+  "name": "Hull City",
+  "shortName": "Hull",
+  "code": "HUL",
+  "sportId": "soccer",
+  "leagueId": "premier-league",
+  "country": "England",
+  "crest": "assets/crests/hull-city.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

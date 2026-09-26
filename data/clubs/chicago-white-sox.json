@@ -1,0 +1,12 @@
+{
+  "id": "chicago-white-sox",
+  "name": "Chicago White Sox",
+  "shortName": "White Sox",
+  "code": "CWS",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "USA",
+  "crest": "assets/crests/chicago-white-sox.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

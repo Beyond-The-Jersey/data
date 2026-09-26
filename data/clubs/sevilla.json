@@ -1,0 +1,12 @@
+{
+  "id": "sevilla",
+  "name": "Sevilla FC",
+  "shortName": "Sevilla",
+  "code": "SEV",
+  "sportId": "soccer",
+  "leagueId": "la-liga",
+  "country": "Spain",
+  "crest": "assets/crests/sevilla.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

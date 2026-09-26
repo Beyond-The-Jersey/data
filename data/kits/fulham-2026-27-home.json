@@ -1,0 +1,35 @@
+{
+  "id": "fulham-2026-27-home",
+  "clubId": "fulham",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {
+    "square": "assets/shirts/grid/fulham-2026-27-home-front-square.jpg"
+  },
+  "sponsors": [
+    {
+      "sponsorId": "clickhouse",
+      "placement": "front",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
+    },
+    {
+      "sponsorId": "hibob",
+      "placement": "sleeve",
+      "source": {
+        "name": "Fulham FC – 'Fulham FC announces extended partnership with HiBob as Official Sleeve Partner & Principal Partner'",
+        "date": "2025-12-15",
+        "url": "https://www.fulhamfc.com/news/2025/december/15/fulham-fc-announces-extended-partnership-with-hibob-as-official-sleeve-partner---principal-partner/"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": null,
+  "change": null
+}

@@ -1,0 +1,11 @@
+{
+  "id": "napoli",
+  "name": "SSC Napoli",
+  "shortName": "Napoli",
+  "code": "NAP",
+  "sportId": "soccer",
+  "leagueId": "serie-a",
+  "country": "Italy",
+  "crest": "assets/crests/napoli.png",
+  "aliases": []
+}

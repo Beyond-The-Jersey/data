@@ -1,0 +1,52 @@
+{
+  "clubId": "real-salt-lake",
+  "channels": [
+    {
+      "type": "email",
+      "value": "support@rsl.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.rsl.com/club/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "FanRelations@RSL.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.rsl.com/club/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.rsl.com/club/contact-us",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.rsl.com/club/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@realsaltlake",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.rsl.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@realsaltlake",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.rsl.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

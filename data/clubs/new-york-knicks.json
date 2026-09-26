@@ -1,0 +1,12 @@
+{
+  "id": "new-york-knicks",
+  "name": "New York Knicks",
+  "shortName": "Knicks",
+  "code": "NYK",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "USA",
+  "crest": "assets/crests/new-york-knicks.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

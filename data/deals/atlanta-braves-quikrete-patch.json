@@ -1,0 +1,16 @@
+{
+  "id": "atlanta-braves-quikrete-patch",
+  "clubId": "atlanta-braves",
+  "orgName": "QUIKRETE",
+  "sponsorId": "quikrete",
+  "placement": "patch",
+  "from": "2023",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "MLB.com press release (Atlanta Braves)",
+    "date": "2023-05-18",
+    "url": "https://www.mlb.com/press-release/press-release-atlanta-braves-name-quikrete-as-the-team-s-first-official-jersey-p"
+  },
+  "note": "Jersey patch."
+}

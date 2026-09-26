@@ -1,0 +1,11 @@
+{
+  "id": "iran",
+  "name": "Iran",
+  "shortName": "Iran",
+  "code": "IRN",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Iran",
+  "crest": "assets/crests/iran.png",
+  "aliases": []
+}

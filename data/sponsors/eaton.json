@@ -1,0 +1,14 @@
+{
+  "id": "eaton",
+  "name": "Eaton Corporation",
+  "ownerId": "eaton-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Eaton Corporation. Nothing found.",
+  "claimIds": [
+    "eaton-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
+}

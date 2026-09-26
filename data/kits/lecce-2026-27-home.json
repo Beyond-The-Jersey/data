@@ -1,0 +1,24 @@
+{
+  "id": "lecce-2026-27-home",
+  "clubId": "lecce",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026-27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "deghi",
+      "placement": "front",
+      "source": {
+        "name": "Corriere Salentino",
+        "date": "2025-11-01",
+        "url": "https://www.corrieresalentino.it/2025/11/deghi-s-p-a-e-u-s-lecce-rinnovano-laccordo-di-main-sponsorship-per-il-quinquennio-2026-2031/"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": "DEGHI renewed as Main Sponsor for 2026-2031; BetItalyPay also on the front."
+}

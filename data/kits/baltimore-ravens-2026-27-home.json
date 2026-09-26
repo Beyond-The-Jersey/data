@@ -1,0 +1,24 @@
+{
+  "id": "baltimore-ravens-2026-27-home",
+  "clubId": "baltimore-ravens",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "perdue-farms",
+      "placement": "training-kit",
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2026-07-20",
+        "url": "https://sportsbusinessjournal.com/Articles/2026/07/20/ravens-sign-perdue-farms-as-official-chicken-in-multiyear-sponsorship-deal"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Practice-jersey patch: Perdue Farms.",
+  "change": null
+}

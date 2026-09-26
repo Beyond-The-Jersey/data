@@ -1,0 +1,14 @@
+{
+  "id": "purina",
+  "name": "Purina",
+  "ownerId": "nestle-sa",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Nestle S.A.. Nothing found.",
+  "claimIds": [
+    "nestle-sa-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: nestle.com blocks direct scraping (403); the Annual Review PDF was opened via extractor. Purina is a subsidiary brand of Nestle S.A."
+}

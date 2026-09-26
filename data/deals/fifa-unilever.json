@@ -1,0 +1,16 @@
+{
+  "id": "fifa-unilever",
+  "clubId": null,
+  "orgName": "FIFA",
+  "sponsorId": "unilever",
+  "placement": "league-partner",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "FIFA - Unilever personal care brands unveiled as Official Sponsors of FIFA Women's World Cup 2023",
+    "date": "2023-05-12",
+    "url": "https://www.fifa.com/fifaplus/en/tournaments/womens/womensworldcup/australia-new-zealand2023/articles/unilever-personal-care-brands-official-sponsors-of-fifa-womens-world-cup-2023"
+  },
+  "leagueId": "fifa"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "uzbekistan",
+  "name": "Uzbekistan",
+  "shortName": "Uzbekistan",
+  "code": "UZB",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Uzbekistan",
+  "crest": "assets/crests/uzbekistan.png",
+  "aliases": []
+}

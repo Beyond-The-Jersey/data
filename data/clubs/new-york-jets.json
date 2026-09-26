@@ -1,0 +1,12 @@
+{
+  "id": "new-york-jets",
+  "name": "New York Jets",
+  "shortName": "Jets",
+  "code": "NYJ",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/new-york-jets.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

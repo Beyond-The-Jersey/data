@@ -1,0 +1,16 @@
+{
+  "id": "cincinnati-reds-kroger-patch",
+  "clubId": "cincinnati-reds",
+  "orgName": "Kroger",
+  "sponsorId": "kroger",
+  "placement": "patch",
+  "from": "2023",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Front Office Sports",
+    "date": "2023-02-02",
+    "url": "https://frontofficesports.com/mlb-jersey-patch-market-warming-up-reds-ink-deal"
+  },
+  "note": "Jersey patch."
+}

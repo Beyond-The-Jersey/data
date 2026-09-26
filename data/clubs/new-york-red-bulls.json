@@ -1,0 +1,11 @@
+{
+  "id": "new-york-red-bulls",
+  "name": "New York Red Bulls",
+  "shortName": "NY Red Bulls",
+  "code": "RBNY",
+  "sportId": "soccer",
+  "leagueId": "mls",
+  "country": "USA",
+  "crest": "assets/crests/new-york-red-bulls.png",
+  "aliases": []
+}

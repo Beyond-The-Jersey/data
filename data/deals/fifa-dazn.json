@@ -1,0 +1,17 @@
+{
+  "id": "fifa-dazn",
+  "clubId": null,
+  "orgName": "FIFA",
+  "sponsorId": "dazn",
+  "placement": "league-partner",
+  "from": "2025",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "SportsPro - Saudi Arabia's SURJ takes 'US$1bn' stake in DAZN",
+    "date": "2025-02-17",
+    "url": "https://www.sportspro.com/news/dazn-saudi-arabia-pif-surj-sports-investment-february-2025/"
+  },
+  "leagueId": "fifa",
+  "note": "DAZN bought the global broadcast rights to the FIFA Club World Cup 2025 for a reported US$1bn; broadcaster rather than sponsor."
+}

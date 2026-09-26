@@ -1,0 +1,17 @@
+{
+  "id": "uefa-euronics-uwcl",
+  "clubId": null,
+  "orgName": "UEFA Women's Champions League",
+  "sponsorId": "euronics",
+  "placement": "league-partner",
+  "from": "2025-12",
+  "to": "2029",
+  "value": null,
+  "source": {
+    "name": "UEFA.com",
+    "date": "2025-12-17",
+    "url": "https://www.uefa.com/news-media/news/02a0-1f75c472f4d9-77c69b2201ef-1000--uefa-and-euronics-group-sign-uefa-women-s-champions-league/"
+  },
+  "leagueId": "uefa",
+  "note": "Official partner of the UEFA Women's Champions League for three seasons; also a partner of UEFA Women's EURO 2029."
+}

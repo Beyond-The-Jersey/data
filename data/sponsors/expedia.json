@@ -1,0 +1,13 @@
+{
+  "id": "expedia",
+  "name": "Expedia",
+  "ownerId": "expedia-group-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Expedia Group, Inc.. Nothing found.",
+  "claimIds": [
+    "expedia-group-inc-record"
+  ],
+  "aliases": []
+}

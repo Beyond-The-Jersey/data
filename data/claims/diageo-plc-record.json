@@ -1,0 +1,14 @@
+{
+  "id": "diageo-plc-record",
+  "ownerIds": [
+    "diageo-plc"
+  ],
+  "text": "Diageo plc is a UK-headquartered drinks group listed in London and New York with dispersed public shareholders and no state owner.",
+  "short": "Diageo plc is a UK-listed drinks group; Guinness is its brand.",
+  "source": {
+    "name": "Diageo, our business",
+    "date": "2026",
+    "url": "https://www.diageo.com/en/our-business/"
+  },
+  "reviewed": true
+}

@@ -1,0 +1,34 @@
+{
+  "clubId": "milwaukee-bucks",
+  "channels": [
+    {
+      "type": "email",
+      "value": "tickets@bucks.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/bucks/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "webmaster@bucks.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/bucks/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.nba.com/bucks/contact",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/bucks/contact",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

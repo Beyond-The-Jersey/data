@@ -1,0 +1,14 @@
+{
+  "id": "compass-minerals",
+  "name": "Compass Minerals",
+  "ownerId": "compass-minerals",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Compass Minerals International, Inc.. Nothing found.",
+  "claimIds": [
+    "compass-minerals-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Koch's 16.81% is the notable structural fact; it is private capital, so no tier change. Koch does, however, have its own well-documented political and environmental record that may matter downstream in this dataset."
+}

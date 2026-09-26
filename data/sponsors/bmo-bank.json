@@ -1,0 +1,14 @@
+{
+  "id": "bmo-bank",
+  "name": "BMO Bank",
+  "ownerId": "bank-of-montreal",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Bank of Montreal. Nothing found.",
+  "claimIds": [
+    "bank-of-montreal-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: BMO's 40-F primary document is largely XBRL; the ownership evidence used is the AIF exhibit."
+}

@@ -1,0 +1,52 @@
+{
+  "clubId": "eintracht-frankfurt",
+  "channels": [
+    {
+      "type": "email",
+      "value": "info@eintrachtfrankfurt.de",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.eintracht.de/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "+498007431899",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.eintracht.de/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.deutsche-bank.de/pk/service-und-kontakt/kooperationen/eintracht-frankfurt.html?kid=e.0600.10.57",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.deutsche-bank.de/pk/service-und-kontakt/kooperationen/eintracht-frankfurt.html?kid=e.0600.10.57",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@Eintracht",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.eintracht.de/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@eintrachtfrankfurt",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.eintracht.de/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

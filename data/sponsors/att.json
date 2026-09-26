@@ -1,0 +1,14 @@
+{
+  "id": "att",
+  "name": "AT&T",
+  "ownerId": "att-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by AT&T Inc.. Nothing found.",
+  "claimIds": [
+    "att-inc-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Formerly state-regulated monopoly (pre-1984 break-up) but never state-owned; no sovereign stake today."
+}

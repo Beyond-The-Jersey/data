@@ -1,0 +1,11 @@
+{
+  "id": "aston-martin",
+  "name": "Aston Martin Aramco F1 Team",
+  "shortName": "Aston Martin",
+  "code": "AST",
+  "sportId": "motorsport",
+  "leagueId": "formula-1",
+  "country": "United Kingdom",
+  "crest": "assets/crests/aston-martin.png",
+  "aliases": []
+}

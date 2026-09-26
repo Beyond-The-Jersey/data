@@ -1,0 +1,9 @@
+{
+  "id": "red-sea-global",
+  "name": "Red Sea Global (RSG)",
+  "type": "private-company",
+  "country": "Saudi Arabia",
+  "via": "PIF",
+  "note": "Listed in PIF's portfolio; RSG governance 'reflects the values of the PIF'.",
+  "parentId": "saudi-pif"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "baltimore-ravens-perdue-farms-patch",
+  "clubId": "baltimore-ravens",
+  "orgName": "Perdue Farms",
+  "sponsorId": "perdue-farms",
+  "placement": "training-kit",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Sports Business Journal",
+    "date": "2026-07-20",
+    "url": "https://sportsbusinessjournal.com/Articles/2026/07/20/ravens-sign-perdue-farms-as-official-chicken-in-multiyear-sponsorship-deal"
+  },
+  "note": "Practice-jersey patch."
+}

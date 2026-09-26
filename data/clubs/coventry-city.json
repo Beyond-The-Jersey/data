@@ -1,0 +1,12 @@
+{
+  "id": "coventry-city",
+  "name": "Coventry City",
+  "shortName": "Coventry",
+  "code": "COV",
+  "sportId": "soccer",
+  "leagueId": "premier-league",
+  "country": "England",
+  "crest": "assets/crests/coventry-city.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

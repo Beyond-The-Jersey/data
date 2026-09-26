@@ -1,0 +1,14 @@
+{
+  "id": "aarp-owner-record",
+  "ownerIds": [
+    "aarp-owner"
+  ],
+  "text": "AARP is owned by AARP. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+  "short": "AARP is owned by AARP.",
+  "source": {
+    "name": "AARP About page",
+    "date": "2026-09-24",
+    "url": "https://www.aarp.org/about-aarp/"
+  },
+  "reviewed": true
+}

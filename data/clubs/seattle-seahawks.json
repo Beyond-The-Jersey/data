@@ -1,0 +1,12 @@
+{
+  "id": "seattle-seahawks",
+  "name": "Seattle Seahawks",
+  "shortName": "Seahawks",
+  "code": "SEA",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/seattle-seahawks.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

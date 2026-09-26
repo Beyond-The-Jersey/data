@@ -1,0 +1,15 @@
+{
+  "id": "american-express",
+  "name": "American Express",
+  "ownerId": "american-express-company",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "A listed US company with no state owner. Nothing found.",
+  "claimIds": [
+    "amex-listed-no-state"
+  ],
+  "aliases": [
+    "amex"
+  ]
+}

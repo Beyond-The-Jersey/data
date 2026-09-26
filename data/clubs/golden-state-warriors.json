@@ -1,0 +1,12 @@
+{
+  "id": "golden-state-warriors",
+  "name": "Golden State Warriors",
+  "shortName": "Warriors",
+  "code": "GSW",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "USA",
+  "crest": "assets/crests/golden-state-warriors.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

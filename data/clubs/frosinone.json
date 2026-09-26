@@ -1,0 +1,11 @@
+{
+  "id": "frosinone",
+  "name": "Frosinone Calcio",
+  "shortName": "Frosinone",
+  "code": "FRO",
+  "sportId": "soccer",
+  "leagueId": "serie-a",
+  "country": "Italy",
+  "crest": "assets/crests/frosinone.png",
+  "aliases": []
+}

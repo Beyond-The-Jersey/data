@@ -1,0 +1,35 @@
+{
+  "id": "hull-city-2026-27-home",
+  "clubId": "hull-city",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {
+    "square": "assets/shirts/grid/hull-city-2026-27-home-front-square.jpg"
+  },
+  "sponsors": [
+    {
+      "sponsorId": "corendon",
+      "placement": "front",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
+    },
+    {
+      "sponsorId": "mcvities",
+      "placement": "sleeve",
+      "source": {
+        "name": "Hull City AFC – 'Hull City and McVitie's announce new partnership'",
+        "date": "2026-08-21",
+        "url": "https://www.wearehullcity.co.uk/news/2026/august/21/Hull-City-and-McVities-announce-new-partnership/"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": null,
+  "change": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "phoenix-suns-2026-27-home",
+  "clubId": "phoenix-suns",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "paypal",
+      "placement": "patch",
+      "source": {
+        "name": "Zoomph (2026/27 NBA jersey patch guide)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/nba-jersey-patch-sponsors-this-season/"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: PayPal.",
+  "change": null
+}

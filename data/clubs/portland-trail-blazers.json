@@ -1,0 +1,12 @@
+{
+  "id": "portland-trail-blazers",
+  "name": "Portland Trail Blazers",
+  "shortName": "Trail Blazers",
+  "code": "POR",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "USA",
+  "crest": "assets/crests/portland-trail-blazers.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "arsenal-emirates",
+  "clubId": "arsenal",
+  "orgName": null,
+  "sponsorId": "emirates",
+  "placement": "front",
+  "from": "2006-07",
+  "to": "2032-33",
+  "value": {
+    "amount": 70,
+    "currency": "GBP",
+    "unit": "m",
+    "per": "year",
+    "upTo": true,
+    "usdApprox": 93
+  },
+  "source": {
+    "name": "Sporting Goods Intelligence (citing SportsPro estimate)",
+    "date": "2026-08-06",
+    "url": "https://www.sgieurope.com/marketing/emirates-and-arsenal-extend-shirt-deal-to-2033/122576.article",
+    "short": "SportsPro"
+  },
+  "note": "Renewal announced 6 Aug 2026 (Inside World Football). Estimate; Footy Headlines suggests £65m for 2026/27–2027/28 then £75m."
+}

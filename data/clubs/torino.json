@@ -1,0 +1,11 @@
+{
+  "id": "torino",
+  "name": "Torino FC",
+  "shortName": "Torino",
+  "code": "TOR",
+  "sportId": "soccer",
+  "leagueId": "serie-a",
+  "country": "Italy",
+  "crest": "assets/crests/torino.png",
+  "aliases": []
+}

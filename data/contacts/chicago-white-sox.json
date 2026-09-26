@@ -1,0 +1,52 @@
+{
+  "clubId": "chicago-white-sox",
+  "channels": [
+    {
+      "type": "email",
+      "value": "community@chisox.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/whitesox/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "tickets@chisox.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/whitesox/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.mlb.com/whitesox/official-information/contact",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/whitesox/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@whitesox",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/whitesox",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@whitesox",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/whitesox",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

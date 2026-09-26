@@ -1,0 +1,12 @@
+{
+  "id": "pittsburgh-pirates",
+  "name": "Pittsburgh Pirates",
+  "shortName": "Pirates",
+  "code": "PIT",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "USA",
+  "crest": "assets/crests/pittsburgh-pirates.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

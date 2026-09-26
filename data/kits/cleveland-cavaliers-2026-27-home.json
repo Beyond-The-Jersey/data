@@ -1,0 +1,24 @@
+{
+  "id": "cleveland-cavaliers-2026-27-home",
+  "clubId": "cleveland-cavaliers",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "cleveland-cliffs",
+      "placement": "patch",
+      "source": {
+        "name": "Cleveland Cavaliers (NBA.com)",
+        "date": "2022-03-29",
+        "url": "https://www.nba.com/cavaliers/releases/cliffs-release-220329"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Cleveland-Cliffs.",
+  "change": null
+}

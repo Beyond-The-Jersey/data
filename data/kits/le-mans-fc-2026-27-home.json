@@ -1,0 +1,60 @@
+{
+  "id": "le-mans-fc-2026-27-home",
+  "clubId": "le-mans-fc",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "hexaom",
+      "placement": "front",
+      "source": {
+        "name": "Le Mans FC — site officiel (partenaires)",
+        "date": "2026",
+        "url": "https://www.lemansfc.fr/"
+      }
+    },
+    {
+      "sponsorId": "groupe-ej",
+      "placement": "front",
+      "source": {
+        "name": "Le Mans FC — site officiel (partenaires)",
+        "date": "2026",
+        "url": "https://www.lemansfc.fr/"
+      }
+    },
+    {
+      "sponsorId": "oeufs-matines",
+      "placement": "front",
+      "source": {
+        "name": "Le Mans FC — site officiel (partenaires)",
+        "date": "2026",
+        "url": "https://www.lemansfc.fr/"
+      }
+    },
+    {
+      "sponsorId": "passenaud-recyclage",
+      "placement": "back",
+      "source": {
+        "name": "Le Mans FC — site officiel (partenaires)",
+        "date": "2026",
+        "url": "https://www.lemansfc.fr/"
+      }
+    },
+    {
+      "sponsorId": "of-course-le-mans",
+      "placement": "sleeve",
+      "source": {
+        "name": "Le Mans FC — site officiel (partenaires)",
+        "date": "2026",
+        "url": "https://www.lemansfc.fr/"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Adidas kit. Hexaom front.",
+  "change": null
+}

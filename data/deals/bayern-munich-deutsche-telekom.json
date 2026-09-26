@@ -1,0 +1,23 @@
+{
+  "id": "bayern-munich-deutsche-telekom",
+  "clubId": "bayern-munich",
+  "orgName": null,
+  "sponsorId": "deutsche-telekom",
+  "placement": "front",
+  "from": null,
+  "to": "2028-29",
+  "value": {
+    "amount": 60,
+    "currency": "EUR",
+    "unit": "m",
+    "per": "year",
+    "upTo": true,
+    "usdApprox": 69
+  },
+  "source": {
+    "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+    "date": "2026-08-04",
+    "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+  },
+  "note": "Reported EUR60-65m a season, the club's largest single deal."
+}

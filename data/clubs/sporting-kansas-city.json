@@ -1,0 +1,11 @@
+{
+  "id": "sporting-kansas-city",
+  "name": "Sporting Kansas City",
+  "shortName": "Sporting KC",
+  "code": "SKC",
+  "sportId": "soccer",
+  "leagueId": "mls",
+  "country": "USA",
+  "crest": "assets/crests/sporting-kansas-city.png",
+  "aliases": []
+}

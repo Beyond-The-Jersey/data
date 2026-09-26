@@ -1,0 +1,14 @@
+{
+  "id": "eni-spa-record",
+  "ownerIds": [
+    "eni"
+  ],
+  "text": "Plenitude is Eni's retail/renewables division; Eni is listed on Borsa Italiana and NYSE but the Italian Ministry of Economy and Finance plus CDP S.p.A. together hold 33.09% of its share capital, i.e. a state link at the owner. Eni is restructuring/deconsolidating Plenitude with Ares (20%) and EIP (10%), leaving Eni around 65%.",
+  "short": "Plenitude is Eni's retail/renewables division; Eni is listed on Borsa Italiana and NYSE but the Italian Ministry of Economy and Finance plus CDP S.p.A.",
+  "source": {
+    "name": "Eni official shareholder-structure page (MEF + CDP = 33.09%); Eni press release on deconsolidation of Plenitude",
+    "date": "2026-03-19",
+    "url": "https://www.eni.com/en-IT/governance/shareholding-structure.html"
+  },
+  "reviewed": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": "singha",
+  "name": "Singha",
+  "ownerId": "boon-rawd-brewery",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Boon Rawd Brewery Co., Ltd. (Bhirombhakdi family). Nothing found.",
+  "claimIds": [
+    "boon-rawd-brewery-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Majority stake held by the Bhirombhakdi family (Nation Thailand, 2023). Thailand's state holds no equity in Boon Rawd."
+}

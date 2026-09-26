@@ -1,0 +1,14 @@
+{
+  "id": "vodafone",
+  "name": "Vodafone",
+  "ownerId": "vodafone-group-plc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Vodafone Group Plc — public shareholders (Niel family now largest holder). Nothing found.",
+  "claimIds": [
+    "vodafone-group-plc-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Honesty flag: through most of the period the UAE state fund had a ~16% stake, which would have made this concern; it has now exited, so none. If the rubric freezes the e& period, this becomes concern (UAE state fund). e& state ownership: https://www.eia.gov.ae/"
+}

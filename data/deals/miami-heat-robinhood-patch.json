@@ -1,0 +1,16 @@
+{
+  "id": "miami-heat-robinhood-patch",
+  "clubId": "miami-heat",
+  "orgName": "Robinhood",
+  "sponsorId": "robinhood",
+  "placement": "patch",
+  "from": "2024",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Miami HEAT (nba.com/heat)",
+    "date": "2024-09-24",
+    "url": "https://www.nba.com/heat/news/heat-and-robinhood-announce-jersey-patch-partnership"
+  },
+  "note": "Jersey patch."
+}

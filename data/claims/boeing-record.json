@@ -1,0 +1,14 @@
+{
+  "id": "boeing-record",
+  "ownerIds": [
+    "boeing"
+  ],
+  "text": "The Boeing Company is a US-listed commercial and defence aerospace prime with a widely held register and no state shareholder; its largest holders are index managers (Vanguard 9.0%, FMR 7.0%, BlackRock 6.8% as at 31 December 2025). Human-rights relevance is the conduct record: two 737 MAX crashes killed 346 people, the type was grounded for 20 months, and the defence arm sells aircraft and munitions into live conflicts. That is a genuine but non-state record, so concern.",
+  "short": "The Boeing Company is a US-listed commercial and defence aerospace prime with a widely held register and no state shareholder; its largest holders are index….",
+  "source": {
+    "name": "The Boeing Company DEF 14A 2026, 'Principal Shareholders' (SEC)",
+    "date": "2026-03-06",
+    "url": "https://www.sec.gov/Archives/edgar/data/12927/000119312526096787/d39411ddef14a.htm"
+  },
+  "reviewed": true
+}

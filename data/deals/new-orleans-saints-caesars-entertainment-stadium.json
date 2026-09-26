@@ -1,0 +1,16 @@
+{
+  "id": "new-orleans-saints-caesars-entertainment-stadium",
+  "clubId": "new-orleans-saints",
+  "orgName": "Caesars Entertainment",
+  "sponsorId": "caesars-entertainment",
+  "placement": "stadium",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Caesars Entertainment investor news release",
+    "date": "2021-07-26",
+    "url": "https://investor.caesars.com/news-releases/news-release-details/new-orleans-saints-and-caesars-entertainment-announce"
+  },
+  "note": "Arena naming rights: Caesars Superdome. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2021-07-26."
+}

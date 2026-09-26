@@ -1,0 +1,35 @@
+{
+  "id": "brentford-2026-27-home",
+  "clubId": "brentford",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {
+    "square": "assets/shirts/grid/brentford-2026-27-home-front-square.jpg"
+  },
+  "sponsors": [
+    {
+      "sponsorId": "indeed",
+      "placement": "front",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
+    },
+    {
+      "sponsorId": "cazoo",
+      "placement": "sleeve",
+      "source": {
+        "name": "Brentford FC – 'Brentford Football Club extend official sleeve partnership with Cazoo'",
+        "date": "2026-07-16",
+        "url": "https://www.brentfordfc.com/en/news/article/club-news-brentford-fc-cazoo-official-sleeve-partner-extension"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": null,
+  "change": null
+}

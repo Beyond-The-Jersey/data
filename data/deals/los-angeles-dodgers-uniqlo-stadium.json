@@ -1,0 +1,16 @@
+{
+  "id": "los-angeles-dodgers-uniqlo-stadium",
+  "clubId": "los-angeles-dodgers",
+  "orgName": "UNIQLO",
+  "sponsorId": "uniqlo",
+  "placement": "stadium",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "DodgerBlue",
+    "date": "2026-03-25",
+    "url": "https://dodgerblue.com/dodgers-partnership-with-uniqlo-field-name-dodger-stadium/2026/03/25/"
+  },
+  "note": "Arena naming rights: UNIQLO Field at Dodger Stadium."
+}

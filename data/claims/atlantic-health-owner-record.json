@@ -1,0 +1,14 @@
+{
+  "id": "atlantic-health-owner-record",
+  "ownerIds": [
+    "atlantic-health-owner"
+  ],
+  "text": "Atlantic Health System is the ultimate owner of Atlantic Health.",
+  "short": "Atlantic Health System is the ultimate owner of Atlantic Health.",
+  "source": {
+    "name": "Atlantic Health System About Us",
+    "date": "2026-09-25",
+    "url": "https://www.atlantichealthsystem.org/about-us"
+  },
+  "reviewed": true
+}

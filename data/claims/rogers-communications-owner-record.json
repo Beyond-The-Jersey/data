@@ -1,0 +1,14 @@
+{
+  "id": "rogers-communications-owner-record",
+  "ownerIds": [
+    "rogers-communications-owner"
+  ],
+  "text": "Rogers Communications Inc. is a publicly traded company listed on the Toronto Stock Exchange and New York Stock Exchange under ticker RCI.",
+  "short": "Rogers Communications Inc.",
+  "source": {
+    "name": "SEC 40-F for Rogers Communications Inc.",
+    "date": "2026-03-06",
+    "url": "https://www.sec.gov/Archives/edgar/data/733099/000073309926000009/rci-20251231.htm"
+  },
+  "reviewed": true
+}

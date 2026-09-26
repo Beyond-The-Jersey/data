@@ -1,0 +1,33 @@
+{
+  "id": "lotto-intermarche-2026-home",
+  "clubId": "lotto-intermarche",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026 season",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "lotto",
+      "placement": "front",
+      "source": {
+        "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+        "date": "2026-07-14",
+        "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+      }
+    },
+    {
+      "sponsorId": "intermarche",
+      "placement": "front",
+      "source": {
+        "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+        "date": "2026-07-14",
+        "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "2026 UCI WorldTeam. Lotto Intermarché's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+  "change": null
+}

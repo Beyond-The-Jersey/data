@@ -1,0 +1,11 @@
+{
+  "id": "fc-dallas",
+  "name": "FC Dallas",
+  "shortName": "FC Dallas",
+  "code": "DAL",
+  "sportId": "soccer",
+  "leagueId": "mls",
+  "country": "USA",
+  "crest": "assets/crests/fc-dallas.png",
+  "aliases": []
+}

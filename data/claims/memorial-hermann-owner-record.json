@@ -1,0 +1,14 @@
+{
+  "id": "memorial-hermann-owner-record",
+  "ownerIds": [
+    "memorial-hermann-owner"
+  ],
+  "text": "Memorial Hermann Health System is a nonprofit, locally governed health system based in Houston, Texas, with no state ownership or control.",
+  "short": "Memorial Hermann Health System is a nonprofit, locally governed health system based in Houston, Texas, with no state ownership or control.",
+  "source": {
+    "name": "Memorial Hermann About Us page",
+    "date": "2026-09-24",
+    "url": "https://memorialhermann.org/about-us"
+  },
+  "reviewed": true
+}

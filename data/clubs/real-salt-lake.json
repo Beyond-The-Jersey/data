@@ -1,0 +1,11 @@
+{
+  "id": "real-salt-lake",
+  "name": "Real Salt Lake",
+  "shortName": "Real Salt Lake",
+  "code": "RSL",
+  "sportId": "soccer",
+  "leagueId": "mls",
+  "country": "USA",
+  "crest": "assets/crests/real-salt-lake.png",
+  "aliases": []
+}

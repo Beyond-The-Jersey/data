@@ -1,0 +1,14 @@
+{
+  "id": "scott",
+  "name": "Scott",
+  "ownerId": null,
+  "ownership": null,
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": [
+    "scott sports"
+  ],
+  "note": "Bicycle manufacturer; NSN bike supplier from 2026."
+}

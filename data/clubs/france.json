@@ -1,0 +1,11 @@
+{
+  "id": "france",
+  "name": "France",
+  "shortName": "France",
+  "code": "FRA",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "France",
+  "crest": "assets/crests/france.png",
+  "aliases": []
+}

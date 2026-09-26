@@ -1,0 +1,14 @@
+{
+  "id": "fanatics-record",
+  "ownerIds": [
+    "fanatics"
+  ],
+  "text": "Topps is owned by Fanatics, Inc., a private US sports-merchandise group that bought Topps's trading-card business in 2022. No state owner.",
+  "short": "Topps is owned by the private US group Fanatics.",
+  "source": {
+    "name": "Reuters, Fanatics buys Topps",
+    "date": "2022-01-04",
+    "url": "https://www.reuters.com/markets/deals/fanatics-buys-topps-trading-card-business-500-million-2022-01-04/"
+  },
+  "reviewed": true
+}

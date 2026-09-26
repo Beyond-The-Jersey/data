@@ -1,0 +1,24 @@
+{
+  "id": "dallas-mavericks-2026-27-home",
+  "clubId": "dallas-mavericks",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "jpmorganchase",
+      "placement": "patch",
+      "source": {
+        "name": "JPMorgan Chase Newsroom",
+        "date": "2026-07-08",
+        "url": "https://www.jpmorganchase.com/newsroom/press-releases/2026/chasedallasmavs"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: JPMorganChase (Chase).",
+  "change": null
+}

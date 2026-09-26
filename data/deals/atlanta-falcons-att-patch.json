@@ -1,0 +1,16 @@
+{
+  "id": "atlanta-falcons-att-patch",
+  "clubId": "atlanta-falcons",
+  "orgName": "AT&T",
+  "sponsorId": "att",
+  "placement": "training-kit",
+  "from": "2016",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Zoomph (NFL practice-jersey sponsor tracker)",
+    "date": "2026-09-01",
+    "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+  },
+  "note": "Practice-jersey patch."
+}

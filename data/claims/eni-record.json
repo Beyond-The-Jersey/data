@@ -1,0 +1,14 @@
+{
+  "id": "eni-record",
+  "ownerIds": [
+    "eni"
+  ],
+  "text": "Eni S.p.A. is effectively Italian state-owned: the Ministry of Economy and Finance (MEF) holds 2.166% directly and a further 30.918% indirectly through Cassa Depositi e Prestiti (which is 82.77% MEF-owned) - 33.084% in total, alongside a golden share - per Eni's own shareholder communications to its 2026 AGM.",
+  "short": "Eni S.p.A.",
+  "source": {
+    "name": "Eni S.p.A. - Proposals of the Shareholder Ministry of the Economy and Finance (AGM 2026 filing)",
+    "date": "2026-04-10",
+    "url": "https://www.eni.com/content/dam/enicom/documents/eng/governance/shareholders-meetings/2026/Proposals-of-Shareholder-Ministry-of-the-Economy-and-Finance-in-relation-to-item-6-7-and-10-of-the-agenda.pdf"
+  },
+  "reviewed": true
+}

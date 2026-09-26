@@ -1,0 +1,16 @@
+{
+  "id": "fifa-adi-predictstreet",
+  "clubId": null,
+  "orgName": "FIFA",
+  "sponsorId": "adi-predictstreet",
+  "placement": "league-partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "FIFA - ADI Predictstreet named official prediction market partner of the FIFA World Cup 2026",
+    "date": "2026-04-02",
+    "url": "https://inside.fifa.com/tournament-organisation/commercial/news/adi-predictstreet-official-prediction-market-partner-fifa-world-cup-2026"
+  },
+  "leagueId": "fifa"
+}

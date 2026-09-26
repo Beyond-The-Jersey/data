@@ -1,0 +1,15 @@
+{
+  "id": "diriyah",
+  "name": "Diriyah Club",
+  "shortName": "Diriyah",
+  "code": "DIR",
+  "sportId": "soccer",
+  "leagueId": "saudi-pro-league",
+  "country": "Saudi Arabia",
+  "crest": "assets/crests/diriyah.png",
+  "aliases": [
+    "al-diriyah",
+    "diriyah club",
+    "al diriyah"
+  ]
+}

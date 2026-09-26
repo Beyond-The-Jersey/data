@@ -1,0 +1,12 @@
+{
+  "id": "utah-jazz",
+  "name": "Utah Jazz",
+  "shortName": "Jazz",
+  "code": "UTA",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "USA",
+  "crest": "assets/crests/utah-jazz.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

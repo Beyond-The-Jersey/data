@@ -1,0 +1,115 @@
+{
+  "id": "stade-brestois-29-2026-27-home",
+  "clubId": "stade-brestois-29",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "queguiner-materiaux",
+      "placement": "front",
+      "source": {
+        "name": "Stade Brestois 29 — Partenaires (site officiel)",
+        "date": "2026",
+        "url": "https://www.sb29.bzh/"
+      }
+    },
+    {
+      "sponsorId": "sill",
+      "placement": "front",
+      "source": {
+        "name": "Stade Brestois 29 — Partenaires (site officiel)",
+        "date": "2026",
+        "url": "https://www.sb29.bzh/"
+      }
+    },
+    {
+      "sponsorId": "breizh-cola",
+      "placement": "front",
+      "source": {
+        "name": "Stade Brestois 29 — Partenaires (site officiel)",
+        "date": "2026",
+        "url": "https://www.sb29.bzh/"
+      }
+    },
+    {
+      "sponsorId": "oceania-hotels",
+      "placement": "front",
+      "source": {
+        "name": "Stade Brestois 29 — Partenaires (site officiel)",
+        "date": "2026",
+        "url": "https://www.sb29.bzh/"
+      }
+    },
+    {
+      "sponsorId": "le-football-a-la-pointe",
+      "placement": "front",
+      "source": {
+        "name": "Stade Brestois 29 — Partenaires (site officiel)",
+        "date": "2026",
+        "url": "https://www.sb29.bzh/"
+      }
+    },
+    {
+      "sponsorId": "oriance",
+      "placement": "back",
+      "source": {
+        "name": "Stade Brestois 29 — Partenaires (site officiel)",
+        "date": "2026",
+        "url": "https://www.sb29.bzh/"
+      }
+    },
+    {
+      "sponsorId": "j-bervas-automobiles",
+      "placement": "back",
+      "source": {
+        "name": "Stade Brestois 29 — Partenaires (site officiel)",
+        "date": "2026",
+        "url": "https://www.sb29.bzh/"
+      }
+    },
+    {
+      "sponsorId": "le-rond-central",
+      "placement": "sleeve",
+      "source": {
+        "name": "Stade Brestois 29 — Partenaires (site officiel)",
+        "date": "2026",
+        "url": "https://www.sb29.bzh/"
+      }
+    },
+    {
+      "sponsorId": "e-leclerc",
+      "placement": "shorts",
+      "source": {
+        "name": "Stade Brestois 29 — Partenaires (site officiel)",
+        "date": "2026",
+        "url": "https://www.sb29.bzh/"
+      }
+    },
+    {
+      "sponsorId": "groupe-soft",
+      "placement": "shorts",
+      "source": {
+        "name": "Stade Brestois 29 — Partenaires (site officiel)",
+        "date": "2026",
+        "url": "https://www.sb29.bzh/"
+      }
+    },
+    {
+      "sponsorId": "yaourt-malo",
+      "placement": "partner",
+      "source": {
+        "name": "Sponsor note (kit supplier)",
+        "date": "2026-09",
+        "url": null,
+        "note": "Kit supplier per the target research. Link removed 2026-09-25 (a private issue in the data repo, not a public source (2026-09-25)): https://github.com/Beyond-The-Jersey/data/issues/243"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Adidas kit. Quéquiner Matériaux front on the home shirt.",
+  "change": null
+}

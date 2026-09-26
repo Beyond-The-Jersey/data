@@ -1,0 +1,14 @@
+{
+  "id": "celta-vigo",
+  "name": "Celta Vigo",
+  "shortName": "Celta",
+  "code": "CEL",
+  "sportId": "soccer",
+  "leagueId": "la-liga",
+  "country": "Spain",
+  "crest": "assets/crests/celta-vigo.png",
+  "aliases": [
+    "celta"
+  ],
+  "hasTeamPageDesign": false
+}

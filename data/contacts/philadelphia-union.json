@@ -1,0 +1,43 @@
+{
+  "clubId": "philadelphia-union",
+  "channels": [
+    {
+      "type": "email",
+      "value": "fanservices@philadelphiaunion.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.philadelphiaunion.com/club/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.philadelphiaunion.com/club/contact-us",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.philadelphiaunion.com/club/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@PhilaUnion",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.philadelphiaunion.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@philaunion",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.philadelphiaunion.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

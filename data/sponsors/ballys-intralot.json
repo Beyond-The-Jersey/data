@@ -1,0 +1,14 @@
+{
+  "id": "ballys-intralot",
+  "name": "Bally's Intralot",
+  "ownerId": "standard-general",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Standard General L.P.. Nothing found.",
+  "claimIds": [
+    "standard-general-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Ultimate owner traced to Standard General (Soo Kim) on both sides of the merger. Intralot's own IR page (intralot.com/gr/investor-relations/stock) lays out the Standard General control chain and CQ Lottery's 26.86% / PE Sub Holdings' 6.48% stakes. Sponsor name 'Bally's Intralot' refers to the merged entity, not to a brand."
+}

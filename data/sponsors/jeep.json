@@ -1,0 +1,14 @@
+{
+  "id": "jeep",
+  "name": "Jeep (with Visit Detroit)",
+  "ownerId": "stellantis-nv",
+  "ownership": "owned",
+  "tier": "concern",
+  "status": "rated",
+  "verdict": "Jeep (with Visit Detroit) on the Juventus front is a brand of Stellantis N.V., the Amsterdam-domiciled, NYSE/Euronext-listed automaker.",
+  "claimIds": [
+    "stellantis-nv-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: The 2026 20-F also records Bpifrance's loyalty-voting power; the stake is minority and doubled-voting, so 'concern' not 'serious'."
+}

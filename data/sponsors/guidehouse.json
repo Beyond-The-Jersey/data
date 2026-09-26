@@ -1,0 +1,13 @@
+{
+  "id": "guidehouse",
+  "name": "Guidehouse",
+  "ownerId": "bain-capital",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Bain Capital, LP (Bain Capital Private Equity). Nothing found.",
+  "claimIds": [
+    "bain-capital-record"
+  ],
+  "aliases": []
+}

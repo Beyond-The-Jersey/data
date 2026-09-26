@@ -1,0 +1,14 @@
+{
+  "id": "nsn-cycling-team",
+  "name": "NSN Cycling Team",
+  "shortName": "NSN",
+  "code": "NSN",
+  "sportId": "cycling",
+  "leagueId": "uci-worldtour",
+  "country": "Switzerland",
+  "crest": "assets/crests/nsn-cycling-team.png",
+  "aliases": [
+    "israel-premier-tech",
+    "israel-start-up-nation"
+  ]
+}

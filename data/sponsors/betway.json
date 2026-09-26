@@ -1,0 +1,14 @@
+{
+  "id": "betway",
+  "name": "Betway",
+  "ownerId": "super-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Super Group (SGHC) Limited. Nothing found.",
+  "claimIds": [
+    "super-group-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Listed on NYSE (SGHC) since the January 2022 SPAC combination. Guernsey incorporated, no sovereign stake."
+}

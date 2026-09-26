@@ -1,0 +1,12 @@
+{
+  "id": "atlanta-braves",
+  "name": "Atlanta Braves",
+  "shortName": "Braves",
+  "code": "ATL",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "USA",
+  "crest": "assets/crests/atlanta-braves.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

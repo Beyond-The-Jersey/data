@@ -1,0 +1,25 @@
+{
+  "clubId": "indiana-pacers",
+  "channels": [
+    {
+      "type": "email",
+      "value": "GuestServices@Pacers.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/pacers/contact-us-pacers",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.nba.com/pacers/contact-us-pacers",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/pacers/contact-us-pacers",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

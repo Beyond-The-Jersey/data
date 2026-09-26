@@ -1,0 +1,52 @@
+{
+  "clubId": "udinese",
+  "channels": [
+    {
+      "type": "email",
+      "value": "stampa@udinese.it",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.udinese.it/club/contatti",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "udinese@udinesespa.it",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.udinese.it/club/contatti",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.udinese.it/club/contatti",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.udinese.it/club/contatti",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@Udinese_1896",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.udinese.it/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@udinesecalcio",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.udinese.it/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

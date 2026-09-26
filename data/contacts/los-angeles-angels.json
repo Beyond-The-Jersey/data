@@ -1,0 +1,52 @@
+{
+  "clubId": "los-angeles-angels",
+  "channels": [
+    {
+      "type": "email",
+      "value": "ballparkinfo@angels.mlb.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/angels/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "accessibility@angels.mlb.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/angels/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.mlb.com/angels/official-information/contact",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/angels/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@angels",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/angels",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@angels",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/angels",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

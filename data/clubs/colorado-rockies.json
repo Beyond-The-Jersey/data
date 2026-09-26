@@ -1,0 +1,12 @@
+{
+  "id": "colorado-rockies",
+  "name": "Colorado Rockies",
+  "shortName": "Rockies",
+  "code": "COL",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "USA",
+  "crest": "assets/crests/colorado-rockies.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

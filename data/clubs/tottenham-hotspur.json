@@ -1,0 +1,14 @@
+{
+  "id": "tottenham-hotspur",
+  "name": "Tottenham Hotspur",
+  "shortName": "Tottenham",
+  "code": "TOT",
+  "sportId": "soccer",
+  "leagueId": "premier-league",
+  "country": "England",
+  "crest": "assets/crests/tottenham-hotspur.png",
+  "aliases": [
+    "spurs"
+  ],
+  "hasTeamPageDesign": false
+}

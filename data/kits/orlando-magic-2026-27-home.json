@@ -1,0 +1,24 @@
+{
+  "id": "orlando-magic-2026-27-home",
+  "clubId": "orlando-magic",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "walt-disney-world",
+      "placement": "patch",
+      "source": {
+        "name": "Orlando Magic (nba.com/magic)",
+        "date": "2022-10-26",
+        "url": "https://www.nba.com/magic/news/orlando-magic-walt-disney-world-resort-community-sponsorship-agreement-logo-jersey-patch-release-20221026"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Walt Disney World Resort.",
+  "change": null
+}

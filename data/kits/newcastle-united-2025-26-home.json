@@ -1,0 +1,23 @@
+{
+  "id": "newcastle-united-2025-26-home",
+  "clubId": "newcastle-united",
+  "season": "2025-26",
+  "kitType": "home",
+  "periodLabel": "2025/26",
+  "periodFrom": "2025-26",
+  "periodTo": "2025-26",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "sela",
+      "placement": "front"
+    },
+    {
+      "sponsorId": "noon",
+      "placement": "sleeve"
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Saudi-owned Sela on the front, noon on the sleeve.",
+  "change": null
+}

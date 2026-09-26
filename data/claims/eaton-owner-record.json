@@ -1,0 +1,14 @@
+{
+  "id": "eaton-owner-record",
+  "ownerIds": [
+    "eaton-owner"
+  ],
+  "text": "Eaton Corp plc is owned by Eaton Corporation. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+  "short": "Eaton Corp plc is owned by Eaton Corporation.",
+  "source": {
+    "name": "Eaton Corp plc DEF 14A 2026 (SEC)",
+    "date": "2026-03-13",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000119312526105117/etn-20260312.htm"
+  },
+  "reviewed": true
+}

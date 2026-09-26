@@ -1,0 +1,15 @@
+{
+  "id": "khashoggi-assessment",
+  "ownerIds": [
+    "government-of-saudi-arabia",
+    "saudi-pif"
+  ],
+  "text": "US intelligence assessed that the crown prince approved the 2018 operation that killed journalist Jamal Khashoggi.",
+  "source": {
+    "name": "US Office of the Director of National Intelligence",
+    "date": "2021-02",
+    "url": "https://www.dni.gov/files/ODNI/documents/assessments/Assessment-Saudi-Gov-Role-in-JK-Death-20210226v2.pdf",
+    "note": "Declassified assessment, 26 Feb 2021."
+  },
+  "reviewed": true
+}

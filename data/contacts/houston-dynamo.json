@@ -1,0 +1,62 @@
+{
+  "clubId": "houston-dynamo",
+  "channels": [
+    {
+      "type": "website",
+      "value": "https://www.houstondynamofc.com",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.houstondynamofc.com",
+        "date": "2026-09-24"
+      },
+      "label": "Club website"
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.houstondynamofc.com/contact-us",
+      "source": {
+        "name": "Club website (client-rendered route: returns 404 to a non-JS client, real in a browser)",
+        "url": "https://www.houstondynamofc.com/contact-us",
+        "date": "2026-09-24"
+      },
+      "label": "Club contact form"
+    },
+    {
+      "type": "email",
+      "value": "info@houstondynamo.com",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.houstondynamofc.com/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "+1 713-276-7500",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.houstondynamofc.com/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@houstondynamo",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.houstondynamofc.com",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@houstondynamo",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.houstondynamofc.com",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

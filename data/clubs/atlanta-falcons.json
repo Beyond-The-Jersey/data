@@ -1,0 +1,12 @@
+{
+  "id": "atlanta-falcons",
+  "name": "Atlanta Falcons",
+  "shortName": "Falcons",
+  "code": "ATL",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/atlanta-falcons.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "united-airlines-owner-record",
+  "ownerIds": [
+    "united-airlines-owner"
+  ],
+  "text": "United Airlines Holdings, Inc. is owned by United Airlines. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+  "short": "United Airlines Holdings, Inc.",
+  "source": {
+    "name": "United Airlines Holdings, Inc. DEF 14A 2026 (SEC)",
+    "date": "2026-04-07",
+    "url": "https://www.sec.gov/Archives/edgar/data/100517/000110465926040467/tmb-20260519xdef14a.htm"
+  },
+  "reviewed": true
+}

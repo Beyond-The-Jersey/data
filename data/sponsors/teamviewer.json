@@ -1,0 +1,14 @@
+{
+  "id": "teamviewer",
+  "name": "TeamViewer",
+  "ownerId": "teamviewer-se",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by TeamViewer SE. Nothing found.",
+  "claimIds": [
+    "teamviewer-se-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Largest individual holders sit just under the 3% reporting threshold; none identified as state-linked."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "football-manager",
+  "name": "Football Manager",
+  "ownerId": "sega-sammy",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": [
+    "fm",
+    "sega"
+  ]
+}

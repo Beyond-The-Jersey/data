@@ -1,0 +1,14 @@
+{
+  "id": "barclays-plc-record",
+  "ownerIds": [
+    "barclays-plc"
+  ],
+  "text": "Barclays plc is a UK-headquartered bank listed in London and New York with dispersed institutional and public shareholders and no state owner.",
+  "short": "Barclays plc is a UK-listed bank.",
+  "source": {
+    "name": "Barclays, about us",
+    "date": "2026",
+    "url": "https://home.barclays/who-we-are/"
+  },
+  "reviewed": true
+}

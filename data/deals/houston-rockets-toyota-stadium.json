@@ -1,0 +1,16 @@
+{
+  "id": "houston-rockets-toyota-stadium",
+  "clubId": "houston-rockets",
+  "orgName": "Toyota",
+  "sponsorId": "toyota",
+  "placement": "stadium",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Sports Business Journal",
+    "date": "2025-05-12",
+    "url": "https://www.sportsbusinessjournal.com/Articles/2025/05/12/report-rockets-toyota-sign-five-year-arena-naming-rights-extension/"
+  },
+  "note": "Arena naming rights: Toyota Center."
+}

@@ -1,0 +1,12 @@
+{
+  "id": "minnesota-timberwolves",
+  "name": "Minnesota Timberwolves",
+  "shortName": "Timberwolves",
+  "code": "MIN",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "USA",
+  "crest": "assets/crests/minnesota-timberwolves.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": "espanyol",
+  "name": "RCD Espanyol",
+  "shortName": "Espanyol",
+  "code": "ESP",
+  "sportId": "soccer",
+  "leagueId": "la-liga",
+  "country": "Spain",
+  "crest": "assets/crests/espanyol.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

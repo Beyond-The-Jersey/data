@@ -1,0 +1,62 @@
+{
+  "clubId": "seattle-sounders",
+  "channels": [
+    {
+      "type": "website",
+      "value": "https://www.soundersfc.com",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.soundersfc.com",
+        "date": "2026-09-24"
+      },
+      "label": "Club website"
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.soundersfc.com/tickets/information-request",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.soundersfc.com/tickets/information-request",
+        "date": "2026-09-24"
+      },
+      "label": "Information request form - the club has no dedicated contact page"
+    },
+    {
+      "type": "email",
+      "value": "CustomerService@SoundersFC.com",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.soundersfc.com/tickets/information-request",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "+1 877-657-4625",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.soundersfc.com/tickets/information-request",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@SoundersFC",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.soundersfc.com",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@soundersfc",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.soundersfc.com",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

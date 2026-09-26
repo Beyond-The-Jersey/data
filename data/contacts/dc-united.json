@@ -1,0 +1,62 @@
+{
+  "clubId": "dc-united",
+  "channels": [
+    {
+      "type": "website",
+      "value": "https://www.dcunited.com",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.dcunited.com",
+        "date": "2026-09-24"
+      },
+      "label": "Club website"
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.dcunited.com/tickets/contact",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.dcunited.com/tickets/contact",
+        "date": "2026-09-24"
+      },
+      "label": "Ticket office contact (the site's only Contact Us)"
+    },
+    {
+      "type": "email",
+      "value": "ticketing@dcunited.com",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.dcunited.com/tickets/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "+1 202-600-9098",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.dcunited.com/tickets/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@dcunited",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.dcunited.com",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@dcunited",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.dcunited.com",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

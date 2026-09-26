@@ -1,0 +1,16 @@
+{
+  "id": "milwaukee-bucks-fiserv-stadium",
+  "clubId": "milwaukee-bucks",
+  "orgName": "Fiserv",
+  "sponsorId": "fiserv",
+  "placement": "stadium",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Fiserv, Inc. investor newsroom",
+    "date": "2018-07-26",
+    "url": "https://investors.fiserv.com/news-releases/news-release-details/fiserv-forum-new-home-milwaukee-bucks"
+  },
+  "note": "Arena naming rights: Fiserv Forum. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2018-07-26."
+}

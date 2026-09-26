@@ -1,0 +1,14 @@
+{
+  "id": "aws-owner-record",
+  "ownerIds": [
+    "aws-owner"
+  ],
+  "text": "Amazon.com, Inc. is owned by Amazon Web Services (AWS). No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+  "short": "Amazon.com, Inc.",
+  "source": {
+    "name": "AMAZON COM INC DEF 14A 2026 (SEC)",
+    "date": "2026-04-09",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926041026/tm261382-1_def14a.htm"
+  },
+  "reviewed": true
+}

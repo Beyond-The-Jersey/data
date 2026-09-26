@@ -1,0 +1,14 @@
+{
+  "id": "uniqlo-owner-record",
+  "ownerIds": [
+    "uniqlo-owner"
+  ],
+  "text": "Fast Retailing Co., Ltd. (UNIQLO parent) is a TSE-listed apparel retailer with no state ownership but has documented supply-chain forced-labour exposure in Xinjiang cotton.",
+  "short": "Fast Retailing Co., Ltd.",
+  "source": {
+    "name": "Fast Retailing major shareholders page",
+    "date": "2026-04-10",
+    "url": "https://www.fastretailing.com/eng/ir/stockinfo/breakdown.html"
+  },
+  "reviewed": true
+}

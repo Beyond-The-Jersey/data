@@ -1,0 +1,16 @@
+{
+  "id": "williams-duracell",
+  "clubId": "williams",
+  "orgName": null,
+  "sponsorId": "duracell",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Atlassian Williams F1 Team – Partners",
+    "date": "2026-09-24",
+    "url": "https://www.williamsf1.com/partners"
+  },
+  "note": "Atlassian Williams F1 Team other partner on the 2026 car."
+}

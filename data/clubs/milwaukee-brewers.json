@@ -1,0 +1,12 @@
+{
+  "id": "milwaukee-brewers",
+  "name": "Milwaukee Brewers",
+  "shortName": "Brewers",
+  "code": "MIL",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "USA",
+  "crest": "assets/crests/milwaukee-brewers.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

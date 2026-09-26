@@ -1,0 +1,14 @@
+{
+  "id": "baptist-health-owner-record",
+  "ownerIds": [
+    "baptist-health-owner"
+  ],
+  "text": "Baptist Health is a faith-based, not-for-profit healthcare organization.",
+  "short": "Baptist Health is a faith-based, not-for-profit healthcare organization.",
+  "source": {
+    "name": "Baptist Health South Florida website",
+    "date": "2026-09-24",
+    "url": "https://baptisthealth.net/about-baptist-health/fulfilling-our-mission"
+  },
+  "reviewed": true
+}

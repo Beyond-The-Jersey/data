@@ -1,0 +1,16 @@
+{
+  "id": "washington-nationals-aarp-patch",
+  "clubId": "washington-nationals",
+  "orgName": "AARP",
+  "sponsorId": "aarp",
+  "placement": "patch",
+  "from": "2025",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "AARP press release",
+    "date": "2025-06-30",
+    "url": "https://www.aarp.org/press/releases/2025-06-30-aarp-becomes-washington-nationals-inaugural-jersey-patch-sponsor-and-an-official-community-impact-partner.html"
+  },
+  "note": "Jersey patch."
+}

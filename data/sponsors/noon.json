@@ -1,0 +1,15 @@
+{
+  "id": "noon",
+  "name": "noon",
+  "ownerId": "saudi-pif",
+  "ownership": "part-owned",
+  "tier": "concern",
+  "status": "rated",
+  "verdict": "Part-owned by Saudi Arabia’s Public Investment Fund.",
+  "claimIds": [
+    "saudi-executions-2024"
+  ],
+  "aliases": [
+    "saudi"
+  ]
+}

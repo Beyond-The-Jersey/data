@@ -1,0 +1,24 @@
+{
+  "id": "minnesota-twins-2026-27-home",
+  "clubId": "minnesota-twins",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "securian-financial",
+      "placement": "patch",
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2025-07-17",
+        "url": "https://www.sportsbusinessjournal.com/Articles/2025/07/17/securian-financial-becomes-twins-first-ever-jersey-patch-sponsor"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Securian Financial.",
+  "change": null
+}

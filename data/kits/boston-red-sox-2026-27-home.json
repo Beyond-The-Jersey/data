@@ -1,0 +1,24 @@
+{
+  "id": "boston-red-sox-2026-27-home",
+  "clubId": "boston-red-sox",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "massmutual",
+      "placement": "patch",
+      "source": {
+        "name": "MLB.com",
+        "date": "2022-11-30",
+        "url": "https://www.mlb.com/news/red-sox-jersey-patch-massmutual"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: MassMutual.",
+  "change": null
+}

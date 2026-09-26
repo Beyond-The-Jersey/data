@@ -1,0 +1,17 @@
+{
+  "id": "uefa-prezero",
+  "clubId": null,
+  "orgName": "UEFA",
+  "sponsorId": "prezero",
+  "placement": "league-partner",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "UEFA.com",
+    "date": "2026-03-17",
+    "url": "https://www.uefa.com/news-media/news/02a3-202a8f624e95-645f8d48f865-1000--uefa-announces-first-strategic-corporate-partnership-with-c/"
+  },
+  "leagueId": "uefa",
+  "note": "PreZero (Schwarz Group) supports UEFA's circular-economy work across competitions, stadiums and operations as part of UEFA's first strategic corporate partnership."
+}

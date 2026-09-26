@@ -1,0 +1,14 @@
+{
+  "id": "monzo",
+  "name": "Monzo",
+  "ownerId": "monzo-bank-limited",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Monzo Bank Limited (private, VC-backed). Nothing found.",
+  "claimIds": [
+    "monzo-bank-limited-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Private company, dispersed VC ownership → none. No single dominant owner documented, so the owner object points at the bank itself."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "digi",
+  "name": "Digi",
+  "ownerId": "digi-communications-nv",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Digi Communications N.V.. Nothing found.",
+  "claimIds": [
+    "digi-communications-nv-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Romanian listing plus US/Nasdaq-style ADRs; ownership private/founder with public float. Founder-linked governance litigation exists but no state link."
+}

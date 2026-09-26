@@ -1,0 +1,13 @@
+{
+  "id": "pif-record",
+  "ownerIds": [
+    "saudi-pif"
+  ],
+  "text": "Ma'aden is majority-owned (~67%) by PIF, the Saudi sovereign wealth fund.",
+  "source": {
+    "name": "AGBI (Arab Gulf Business Insight) company profile",
+    "date": "2026-09-24",
+    "url": "https://www.agbi.com/companies/maaden-company/"
+  },
+  "reviewed": true
+}

@@ -1,0 +1,99 @@
+{
+  "id": "aston-martin-2026-home",
+  "clubId": "aston-martin",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "aramco",
+      "placement": "front",
+      "source": {
+        "name": "Aramco – Aston Martin Cognizant F1 Team and Aramco enter a long-term strategic partnership",
+        "date": "2022-02-03",
+        "url": "https://www.aramco.com/en/news-media/news/2022/aston-martin-cognizant-formula-one-team-and-aramco-enter-a--long-term-strategic-partnership"
+      }
+    },
+    {
+      "sponsorId": "honda",
+      "placement": "front",
+      "source": {
+        "name": "Aston Martin Aramco Formula One Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.astonmartinf1.com/en-GB/partners"
+      }
+    },
+    {
+      "sponsorId": "maaden",
+      "placement": "partner",
+      "source": {
+        "name": "Ma'aden (Saudi Arabian Mining Company) – Aston Martin Aramco and principal partner Ma'aden announce multi-year programme",
+        "date": "2026",
+        "url": "https://maaden.com/news-insights/latest-news/aston-martin-aramco-formula-one-team-and-principal-partner-maaden-announce-multi-year-youth-development-programme",
+        "note": "date precision: year"
+      }
+    },
+    {
+      "sponsorId": "coinbase",
+      "placement": "partner",
+      "source": {
+        "name": "Coinbase – Coinbase brand partnership with Aston Martin Aramco Formula One Team",
+        "date": "2023-11-16",
+        "url": "https://www.coinbase.com/blog/coinbase-waves-the-green-flag-on-global-expansion-in-brand-partnership-with-Aston-Martin-Aramco-Formula-One-Team"
+      }
+    },
+    {
+      "sponsorId": "cognizant",
+      "placement": "partner",
+      "source": {
+        "name": "Aston Martin Aramco Formula One Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.astonmartinf1.com/en-GB/partners"
+      }
+    },
+    {
+      "sponsorId": "valvoline",
+      "placement": "partner",
+      "source": {
+        "name": "Aston Martin Aramco – AMF1 Team and Valvoline Global Operations announce strategic partnership",
+        "date": "2026",
+        "url": "https://www.astonmartinf1.com/en-GB/news/announcement/amf1-team-and-valvoline-global-operations-announce-strategic-partnership",
+        "note": "date precision: year"
+      }
+    },
+    {
+      "sponsorId": "netapp",
+      "placement": "partner",
+      "source": {
+        "name": "Aston Martin Aramco – Aston Martin Aramco and NetApp renew data-driven partnership",
+        "date": "2026",
+        "url": "https://www.astonmartinf1.com/en-GB/news/announcement/aston-martin-aramco-and-netapp-renew-data-driven-partnership",
+        "note": "date precision: year"
+      }
+    },
+    {
+      "sponsorId": "puma-am",
+      "placement": "partner",
+      "source": {
+        "name": "Aston Martin Aramco Formula One Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.astonmartinf1.com/en-GB/partners"
+      }
+    },
+    {
+      "sponsorId": "breitling",
+      "placement": "partner",
+      "source": {
+        "name": "Aston Martin Aramco Formula One Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.astonmartinf1.com/en-GB/partners"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": "2026 car. S"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "snapdragon",
+  "name": "Snapdragon",
+  "ownerId": "qualcomm",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Qualcomm Incorporated (Nasdaq-listed) — Snapdragon is its brand. Nothing found.",
+  "claimIds": [
+    "qualcomm-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Listed US company → none. Note only: Qualcomm faces antitrust rather than human-rights findings."
+}

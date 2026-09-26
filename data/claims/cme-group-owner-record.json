@@ -1,0 +1,14 @@
+{
+  "id": "cme-group-owner-record",
+  "ownerIds": [
+    "cme-group-owner"
+  ],
+  "text": "CME Group Inc. is a publicly traded company listed on the NASDAQ and NYSE under ticker CME.",
+  "short": "CME Group Inc.",
+  "source": {
+    "name": "SEC DEF 14A for CME Group Inc.",
+    "date": "2026-03-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/1156375/000162828026020500/cme-20260323.htm"
+  },
+  "reviewed": true
+}

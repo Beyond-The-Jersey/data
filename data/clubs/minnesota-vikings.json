@@ -1,0 +1,12 @@
+{
+  "id": "minnesota-vikings",
+  "name": "Minnesota Vikings",
+  "shortName": "Vikings",
+  "code": "MIN",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/minnesota-vikings.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

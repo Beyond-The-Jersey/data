@@ -1,0 +1,24 @@
+{
+  "id": "minnesota-timberwolves-2026-27-home",
+  "clubId": "minnesota-timberwolves",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "sezzle",
+      "placement": "patch",
+      "source": {
+        "name": "Minnesota Timberwolves (nba.com)",
+        "date": "2024-08-12",
+        "url": "https://www.nba.com/timberwolves/news/timberwolves-name-sezzle-official-jersey-patch-partner"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Sezzle.",
+  "change": null
+}

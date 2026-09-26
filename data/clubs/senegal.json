@@ -1,0 +1,11 @@
+{
+  "id": "senegal",
+  "name": "Senegal",
+  "shortName": "Senegal",
+  "code": "SEN",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Senegal",
+  "crest": "assets/crests/senegal.png",
+  "aliases": []
+}

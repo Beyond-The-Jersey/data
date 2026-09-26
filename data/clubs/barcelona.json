@@ -1,0 +1,15 @@
+{
+  "id": "barcelona",
+  "name": "FC Barcelona",
+  "shortName": "Barcelona",
+  "code": "BAR",
+  "sportId": "soccer",
+  "leagueId": "la-liga",
+  "country": "Spain",
+  "crest": "assets/crests/barcelona.png",
+  "aliases": [
+    "barca",
+    "fcb"
+  ],
+  "hasTeamPageDesign": false
+}

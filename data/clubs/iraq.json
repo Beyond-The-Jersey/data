@@ -1,0 +1,11 @@
+{
+  "id": "iraq",
+  "name": "Iraq",
+  "shortName": "Iraq",
+  "code": "IRQ",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Iraq",
+  "crest": "assets/crests/iraq.png",
+  "aliases": []
+}

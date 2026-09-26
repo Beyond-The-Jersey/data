@@ -1,0 +1,15 @@
+{
+  "id": "slovan-bratislava",
+  "name": "ŠK Slovan Bratislava",
+  "shortName": "Slovan Bratislava",
+  "code": "SLO",
+  "sportId": "soccer",
+  "leagueId": "uefa",
+  "country": "Slovakia",
+  "crest": "assets/crests/slovan-bratislava.png",
+  "aliases": [
+    "slovan",
+    "belasí"
+  ],
+  "hasTeamPageDesign": false
+}

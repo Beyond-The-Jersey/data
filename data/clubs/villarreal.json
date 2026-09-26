@@ -1,0 +1,12 @@
+{
+  "id": "villarreal",
+  "name": "Villarreal CF",
+  "shortName": "Villarreal",
+  "code": "VIL",
+  "sportId": "soccer",
+  "leagueId": "la-liga",
+  "country": "Spain",
+  "crest": "assets/crests/villarreal.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

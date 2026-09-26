@@ -1,0 +1,15 @@
+{
+  "id": "newcastle-united",
+  "name": "Newcastle United",
+  "shortName": "Newcastle",
+  "code": "NEW",
+  "sportId": "soccer",
+  "leagueId": "premier-league",
+  "country": "England",
+  "crest": "assets/crests/newcastle-united.png",
+  "aliases": [
+    "nufc",
+    "toon"
+  ],
+  "hasTeamPageDesign": false
+}

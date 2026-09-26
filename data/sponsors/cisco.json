@@ -1,0 +1,14 @@
+{
+  "id": "cisco",
+  "name": "Cisco",
+  "ownerId": "cisco",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Cisco Systems, Inc.. Nothing found.",
+  "claimIds": [
+    "cisco-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Used the FY2025 10-K; ownership is disclosed by incorporation into the proxy, which shows no 5%+ holder of note."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "minnesota-timberwolves-sezzle-patch",
+  "clubId": "minnesota-timberwolves",
+  "orgName": "Sezzle",
+  "sponsorId": "sezzle",
+  "placement": "patch",
+  "from": "2024",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Minnesota Timberwolves (nba.com)",
+    "date": "2024-08-12",
+    "url": "https://www.nba.com/timberwolves/news/timberwolves-name-sezzle-official-jersey-patch-partner"
+  },
+  "note": "Jersey patch."
+}

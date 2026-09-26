@@ -1,0 +1,12 @@
+{
+  "id": "minnesota-twins",
+  "name": "Minnesota Twins",
+  "shortName": "Twins",
+  "code": "MIN",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "USA",
+  "crest": "assets/crests/minnesota-twins.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

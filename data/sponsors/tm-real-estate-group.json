@@ -1,0 +1,14 @@
+{
+  "id": "tm-real-estate-group",
+  "name": "TM Real Estate Group",
+  "ownerId": "tm-grupo-inmobiliario",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by TM Grupo Inmobiliario (Serna family). Nothing found.",
+  "claimIds": [
+    "tm-grupo-inmobiliario-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Not related to the unrelated US 'TM Real Estate Group LLC'. Family-held Alicante developer operating in Spain and Mexico."
+}

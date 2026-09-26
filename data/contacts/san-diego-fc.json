@@ -1,0 +1,61 @@
+{
+  "clubId": "san-diego-fc",
+  "channels": [
+    {
+      "type": "email",
+      "value": "customerservice@sandiegofc.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.sandiegofc.com/club/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "media@sandiegofc.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.sandiegofc.com/club/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "6415852864001",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.sandiegofc.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.sandiegofc.com/club/contact",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.sandiegofc.com/club/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@sandiegofc",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.sandiegofc.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@sandiegofc",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.sandiegofc.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

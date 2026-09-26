@@ -1,0 +1,16 @@
+{
+  "id": "memphis-grizzlies-robinhood-patch",
+  "clubId": "memphis-grizzlies",
+  "orgName": "Robinhood",
+  "sponsorId": "robinhood",
+  "placement": "patch",
+  "from": "2024",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Sports Business Journal",
+    "date": "2024-09-19",
+    "url": "https://www.sportsbusinessjournal.com/Articles/2024/09/19/memphis-grizzlies-jersey-patch-robinhood"
+  },
+  "note": "Jersey patch."
+}

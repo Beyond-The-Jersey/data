@@ -1,0 +1,34 @@
+{
+  "id": "fc-augsburg-2026-27-home",
+  "clubId": "fc-augsburg",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "wwk",
+      "placement": "front",
+      "source": {
+        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+        "date": "2026-08-04",
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+      }
+    },
+    {
+      "sponsorId": "siegmund",
+      "placement": "sleeve",
+      "side": "front",
+      "source": {
+        "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
+        "date": "2025-26",
+        "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": null,
+  "change": null
+}

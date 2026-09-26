@@ -1,0 +1,61 @@
+{
+  "clubId": "fiorentina",
+  "channels": [
+    {
+      "type": "email",
+      "value": "fiorentinapoint@acffiorentina.it",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.acffiorentina.com/faq-supporto-contatti",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "customercare@fiorentinastore.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.acffiorentina.com/faq-supporto-contatti",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "055571259",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.acffiorentina.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.acffiorentina.com/faq-supporto-contatti",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.acffiorentina.com/faq-supporto-contatti",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@acffiorentina",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.acffiorentina.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@acffiorentina",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.acffiorentina.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

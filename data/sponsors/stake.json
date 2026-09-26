@@ -1,0 +1,14 @@
+{
+  "id": "stake",
+  "name": "Stake",
+  "ownerId": "easygo",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Easygo (Medium Rare N.V. trading entity). Nothing found.",
+  "claimIds": [
+    "easygo-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: The stake.com terms page is JavaScript-heavy, so the ownership sentence was read from the page's terms text; the Easygo/Craven/Tehrani link comes from secondary coverage rather than a filing. Curaçao-licensed, so no regulator-disclosed ownership."
+}

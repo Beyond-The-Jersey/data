@@ -1,0 +1,96 @@
+{
+  "id": "aj-auxerre-2026-27-home",
+  "clubId": "aj-auxerre",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "x1-xi-wang",
+      "placement": "front",
+      "source": {
+        "name": "AJ Auxerre — Nos partenaires",
+        "date": "2026",
+        "url": "https://www.aja.fr/nos-partenaires-2/"
+      }
+    },
+    {
+      "sponsorId": "sppe",
+      "placement": "front",
+      "source": {
+        "name": "AJ Auxerre — Nos partenaires",
+        "date": "2026",
+        "url": "https://www.aja.fr/nos-partenaires-2/"
+      }
+    },
+    {
+      "sponsorId": "jussieu-secours",
+      "placement": "front",
+      "source": {
+        "name": "AJ Auxerre — Nos partenaires",
+        "date": "2026",
+        "url": "https://www.aja.fr/nos-partenaires-2/"
+      }
+    },
+    {
+      "sponsorId": "les-constructeurs-reunis",
+      "placement": "back",
+      "source": {
+        "name": "AJ Auxerre — Nos partenaires",
+        "date": "2026",
+        "url": "https://www.aja.fr/nos-partenaires-2/"
+      }
+    },
+    {
+      "sponsorId": "acadomia",
+      "placement": "back",
+      "source": {
+        "name": "AJ Auxerre — Nos partenaires",
+        "date": "2026",
+        "url": "https://www.aja.fr/nos-partenaires-2/"
+      }
+    },
+    {
+      "sponsorId": "groupama",
+      "placement": "sleeve",
+      "source": {
+        "name": "AJ Auxerre — Nos partenaires",
+        "date": "2026",
+        "url": "https://www.aja.fr/nos-partenaires-2/"
+      }
+    },
+    {
+      "sponsorId": "ville-d-auxerre",
+      "placement": "shorts",
+      "source": {
+        "name": "AJ Auxerre — Nos partenaires",
+        "date": "2026",
+        "url": "https://www.aja.fr/nos-partenaires-2/"
+      }
+    },
+    {
+      "sponsorId": "advise-energie",
+      "placement": "shorts",
+      "source": {
+        "name": "AJ Auxerre — Nos partenaires",
+        "date": "2026",
+        "url": "https://www.aja.fr/nos-partenaires-2/"
+      }
+    },
+    {
+      "sponsorId": "cichy-manutention",
+      "placement": "shorts",
+      "source": {
+        "name": "AJ Auxerre — Nos partenaires",
+        "date": "2026",
+        "url": "https://www.aja.fr/nos-partenaires-2/"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Macron kit. X1 on the front; Groupama on the sleeve.",
+  "change": null
+}

@@ -1,0 +1,24 @@
+{
+  "clubId": "new-york-knicks",
+  "channels": [
+    {
+      "type": "x",
+      "value": "@nyknicks",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/knicks/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@nyknicks",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/knicks/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "finstreet-ltd",
+  "name": "Finstreet Ltd",
+  "type": "private-company",
+  "country": "United Arab Emirates",
+  "parentId": "international-holding-company",
+  "note": "Finstreet is named as ADI Predictstreet's parent, owned by IHC."
+}

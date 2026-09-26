@@ -1,0 +1,16 @@
+{
+  "id": "fifa-marriott-bonvoy",
+  "clubId": null,
+  "orgName": "FIFA",
+  "sponsorId": "marriott-bonvoy",
+  "placement": "league-partner",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "FIFA - Marriott Bonvoy to provide unmatched fan access to FIFA World Cup 2026",
+    "date": "2025-01-06",
+    "url": "https://inside.fifa.com/tournament-organisation/commercial/media-releases/marriott-bonvoy-unmatched-fan-access-world-cup-2026-hotel-supporter"
+  },
+  "leagueId": "fifa"
+}

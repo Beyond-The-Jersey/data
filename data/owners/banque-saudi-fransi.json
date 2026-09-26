@@ -1,0 +1,9 @@
+{
+  "id": "banque-saudi-fransi",
+  "name": "Banque Saudi Fransi (BSF)",
+  "type": "listed-company",
+  "country": "Saudi Arabia",
+  "via": "PIF",
+  "note": "Listed bank; PIF stake reported at ~16.19% (2026).",
+  "parentId": "saudi-pif"
+}

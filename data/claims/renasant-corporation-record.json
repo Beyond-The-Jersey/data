@@ -1,0 +1,14 @@
+{
+  "id": "renasant-corporation-record",
+  "ownerIds": [
+    "renasant-corporation"
+  ],
+  "text": "Renasant Bank is the principal subsidiary of Renasant Corporation, an NYSE-listed (RNST) regional bank holding company based in Tupelo, Mississippi. It is privately held through public markets with no state ownership. The Nashville SC front sponsorship is plain private bank marketing money.",
+  "short": "Renasant Bank is the principal subsidiary of Renasant Corporation, an NYSE-listed (RNST) regional bank holding company based in Tupelo, Mississippi.",
+  "source": {
+    "name": "Renasant Corporation Form 10-K FY2025 (SEC EDGAR)",
+    "date": "2026-03-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/715072/000071507226000017/rnst-20251231.htm"
+  },
+  "reviewed": true
+}

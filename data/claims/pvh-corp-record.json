@@ -1,0 +1,14 @@
+{
+  "id": "pvh-corp-record",
+  "ownerIds": [
+    "pvh-corp"
+  ],
+  "text": "Tommy Hilfiger is owned by PVH Corp., an NYSE-listed apparel company with no state shareholder.",
+  "short": "Tommy Hilfiger is owned by PVH Corp., an NYSE-listed apparel company with no state shareholder.",
+  "source": {
+    "name": "PVH Corp. - NYSE: PVH company profile",
+    "date": "2026-09-24",
+    "url": "https://tradingkey.com/markets/stocks/nasdaq-pvh/company"
+  },
+  "reviewed": true
+}

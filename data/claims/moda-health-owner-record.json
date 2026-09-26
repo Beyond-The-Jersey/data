@@ -1,0 +1,14 @@
+{
+  "id": "moda-health-owner-record",
+  "ownerIds": [
+    "moda-health-owner"
+  ],
+  "text": "Moda Health Plan, Inc. is owned by Moda Health. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+  "short": "Moda Health Plan, Inc.",
+  "source": {
+    "name": "Moda Health Strategic Partnership Press Release",
+    "date": "2019-02-28",
+    "url": "https://www.modahealth.com/-/media/shop/PDFs/2025/Enrollment/Moda-SG-MED-DEN-Brochure-2025-AK.pdf"
+  },
+  "reviewed": true
+}

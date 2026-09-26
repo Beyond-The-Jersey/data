@@ -1,0 +1,16 @@
+{
+  "id": "fifa-lenovo",
+  "clubId": null,
+  "orgName": "FIFA",
+  "sponsorId": "lenovo",
+  "placement": "league-partner",
+  "from": "2024",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "FIFA - Lenovo named Official FIFA Technology Partner",
+    "date": "2024-10-15",
+    "url": "https://inside.fifa.com/about-fifa/commercial/media-releases/lenovo-named-official-fifa-technology-partner"
+  },
+  "leagueId": "fifa"
+}

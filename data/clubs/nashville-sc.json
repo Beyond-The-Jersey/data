@@ -1,0 +1,11 @@
+{
+  "id": "nashville-sc",
+  "name": "Nashville SC",
+  "shortName": "Nashville SC",
+  "code": "NSH",
+  "sportId": "soccer",
+  "leagueId": "mls",
+  "country": "USA",
+  "crest": "assets/crests/nashville-sc.png",
+  "aliases": []
+}

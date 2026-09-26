@@ -1,0 +1,16 @@
+{
+  "id": "indiana-pacers-lucas-oil-patch",
+  "clubId": "indiana-pacers",
+  "orgName": "Lucas Oil",
+  "sponsorId": "lucas-oil",
+  "placement": "patch",
+  "from": "2025",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Indiana Pacers (NBA.com)",
+    "date": "2025-07-09",
+    "url": "https://nba.com/pacers/news/indiana-pacers-and-lucas-oil-announce-multi-year-jersey-patch-partnership"
+  },
+  "note": "Jersey patch."
+}

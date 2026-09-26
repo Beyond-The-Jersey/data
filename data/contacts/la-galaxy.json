@@ -1,0 +1,62 @@
+{
+  "clubId": "la-galaxy",
+  "channels": [
+    {
+      "type": "website",
+      "value": "https://www.lagalaxy.com",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.lagalaxy.com",
+        "date": "2026-09-24"
+      },
+      "label": "Club website"
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.lagalaxy.com/club/contact",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.lagalaxy.com/club/contact",
+        "date": "2026-09-24"
+      },
+      "label": "Club contact page"
+    },
+    {
+      "type": "email",
+      "value": "customerservice@lagalaxy.com",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.lagalaxy.com/club/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "+1 877-342-5299",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.lagalaxy.com/club/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@LAGalaxy",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.lagalaxy.com",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@lagalaxy",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.lagalaxy.com",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

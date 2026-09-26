@@ -1,0 +1,44 @@
+{
+  "id": "nottingham-forest-2026-27-home",
+  "clubId": "nottingham-forest",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {
+    "square": "assets/shirts/grid/nottingham-forest-2026-27-home-front-square.jpg"
+  },
+  "sponsors": [
+    {
+      "sponsorId": "marex",
+      "placement": "front",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
+    },
+    {
+      "sponsorId": "ballys-intralot",
+      "placement": "sleeve",
+      "source": {
+        "name": "Nottingham Forest – 'Forest confirms Bally's Intralot as official sleeve partner'",
+        "date": "2026-08-21",
+        "url": "https://www.nottinghamforest.co.uk/news/2026/august/21/forest-confirms-bally-s-intralot-as-official-sleeve-partner/"
+      }
+    },
+    {
+      "sponsorId": "boylesports",
+      "placement": "shorts",
+      "source": {
+        "name": "BoyleSports – 'BOYLE Sports Named an Official Betting Partner of Nottingham Forest'",
+        "date": "2026-08-25",
+        "url": "https://www.boylesports.com/blog/football/boyle-sports-named-an-official-betting-partner-of-nottingham-forest"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": null,
+  "change": null
+}

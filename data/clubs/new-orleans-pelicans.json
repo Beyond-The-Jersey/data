@@ -1,0 +1,12 @@
+{
+  "id": "new-orleans-pelicans",
+  "name": "New Orleans Pelicans",
+  "shortName": "Pelicans",
+  "code": "NOP",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "USA",
+  "crest": "assets/crests/new-orleans-pelicans.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": "baltimore-ravens-m-and-t-bank-stadium",
+  "clubId": "baltimore-ravens",
+  "orgName": "M&T Bank",
+  "sponsorId": "m-and-t-bank",
+  "placement": "stadium",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "M&T Bank (investor news release)",
+    "date": "2023-04-20",
+    "url": "https://ir.mtb.com/news-releases/news-release-details/mt-bank-baltimore-ravens-extend-partnership-through-2037-nfl"
+  },
+  "note": "Arena naming rights: M&T Bank Stadium. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2023-04-20."
+}

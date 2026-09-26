@@ -1,0 +1,14 @@
+{
+  "id": "revolut-group-holdings-record",
+  "ownerIds": [
+    "revolut-group-holdings"
+  ],
+  "text": "Revolut is a UK private limited company; the Companies House persons-with-significant-control register shows no state or sovereign entity holding control. In 2026 it is the reported title sponsor of the Audi F1 team.",
+  "short": "Revolut is a UK private limited company; the Companies House persons-with-significant-control register shows no state or sovereign entity holding control.",
+  "source": {
+    "name": "UK Companies House - REVOLUT LTD, persons with significant control",
+    "date": "2026-09-24",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/08804411/persons-with-significant-control"
+  },
+  "reviewed": true
+}

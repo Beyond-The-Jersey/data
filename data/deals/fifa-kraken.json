@@ -1,0 +1,16 @@
+{
+  "id": "fifa-kraken",
+  "clubId": null,
+  "orgName": "FIFA",
+  "sponsorId": "kraken",
+  "placement": "league-partner",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "FIFA - FIFA announces Kraken as Official Crypto Exchange Supporter of the FIFA World Cup 2026",
+    "date": "2026",
+    "url": null
+  },
+  "leagueId": "fifa"
+}

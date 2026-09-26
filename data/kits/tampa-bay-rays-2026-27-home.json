@@ -1,0 +1,24 @@
+{
+  "id": "tampa-bay-rays-2026-27-home",
+  "clubId": "tampa-bay-rays",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "webull",
+      "placement": "patch",
+      "source": {
+        "name": "MLB.com (Tampa Bay Rays)",
+        "date": "2026-03-19",
+        "url": "https://www.mlb.com/news/rays-announce-webull-will-be-corporate-jersey-patch-sponsor-2026"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Webull.",
+  "change": null
+}

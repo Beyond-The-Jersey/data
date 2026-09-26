@@ -1,0 +1,24 @@
+{
+  "id": "cleveland-guardians-2026-27-home",
+  "clubId": "cleveland-guardians",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "marathon",
+      "placement": "patch",
+      "source": {
+        "name": "Crain's Cleveland Business",
+        "date": "2026-09-10",
+        "url": "https://www.crainscleveland.com/sports-recreation/ccl-guardians-marathon-20260910/"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Marathon.",
+  "change": null
+}

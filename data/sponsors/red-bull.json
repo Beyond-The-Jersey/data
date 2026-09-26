@@ -1,0 +1,14 @@
+{
+  "id": "red-bull",
+  "name": "Red Bull",
+  "ownerId": "mateschitz-yoovidhya-families",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Mateschitz family (49%) and Yoovidhya family (51%), via Red Bull GmbH. Nothing found.",
+  "claimIds": [
+    "mateschitz-yoovidhya-families-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Private/family owner → none. Thailand's state is not in the ownership chain despite the Thai ownership origin."
+}

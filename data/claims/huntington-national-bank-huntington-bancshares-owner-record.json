@@ -1,0 +1,14 @@
+{
+  "id": "huntington-national-bank-huntington-bancshares-owner-record",
+  "ownerIds": [
+    "huntington-national-bank-huntington-bancshares-owner"
+  ],
+  "text": "Huntington Bancshares Incorporated is owned by Huntington National Bank (Huntington Bancshares). No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+  "short": "Huntington Bancshares Incorporated is owned by Huntington National Bank (Huntington Bancshares).",
+  "source": {
+    "name": "HUNTINGTON BANCSHARES INC /MD/ DEF 14A 2026 (SEC)",
+    "date": "2026-03-12",
+    "url": "https://www.sec.gov/Archives/edgar/data/49196/000119312526103196/hban-20260312.htm"
+  },
+  "reviewed": true
+}

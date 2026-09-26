@@ -1,0 +1,14 @@
+{
+  "id": "block-inc-record",
+  "ownerIds": [
+    "block-inc"
+  ],
+  "text": "Cash App is a brand of Block, Inc., a NYSE-listed (XYZ) payments company owned by institutions and the public float, with no state shareholder.",
+  "short": "Cash App is a brand of Block, Inc., a NYSE-listed (XYZ) payments company owned by institutions and the public float, with no state shareholder.",
+  "source": {
+    "name": "Investopedia - Top Block (XYZ) shareholders",
+    "date": "2026-09-24",
+    "url": "https://investopedia.com/square-top-shareholders-5094562"
+  },
+  "reviewed": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": "al-hilal",
+  "name": "Al-Hilal",
+  "shortName": "Al-Hilal",
+  "code": "HIL",
+  "sportId": "soccer",
+  "leagueId": "saudi-pro-league",
+  "country": "Saudi Arabia",
+  "crest": "assets/crests/al-hilal.png",
+  "aliases": [
+    "al hilal",
+    "hilal",
+    "al hilal sfc"
+  ]
+}

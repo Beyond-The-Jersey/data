@@ -1,0 +1,24 @@
+{
+  "id": "milwaukee-bucks-2026-27-home",
+  "clubId": "milwaukee-bucks",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "uline",
+      "placement": "patch",
+      "source": {
+        "name": "Milwaukee Bucks / NBA.com",
+        "date": "2026-09-21",
+        "url": "https://www.nba.com/bucks/news/milwaukee-bucks-name-wisconsin-based-uline-as-official-jersey-patch-partner"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Uline.",
+  "change": null
+}

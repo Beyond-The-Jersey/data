@@ -1,0 +1,14 @@
+{
+  "id": "sheetz",
+  "name": "Sheetz",
+  "ownerId": "sheetz-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Sheetz. Nothing found.",
+  "claimIds": [
+    "sheetz-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Sheetz is 100% family-owned (Sheetz family); no state stake or government control. No documented human-rights concerns in ownership chain identified."
+}

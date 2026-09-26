@@ -1,0 +1,16 @@
+{
+  "id": "oklahoma-city-thunder-loves-travel-stops-patch",
+  "clubId": "oklahoma-city-thunder",
+  "orgName": "Love's Travel Stops & Country Stores",
+  "sponsorId": "loves-travel-stops",
+  "placement": "patch",
+  "from": "2019",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "ESPN",
+    "date": "2019-03-15",
+    "url": "https://www.espn.com/espn/print?id=26262269"
+  },
+  "note": "Jersey patch."
+}

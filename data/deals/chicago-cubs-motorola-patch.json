@@ -1,0 +1,16 @@
+{
+  "id": "chicago-cubs-motorola-patch",
+  "clubId": "chicago-cubs",
+  "orgName": "Motorola (Motorola Mobility)",
+  "sponsorId": "motorola",
+  "placement": "patch",
+  "from": "2024",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "MLB.com press release (Chicago Cubs)",
+    "date": "2024-08-01",
+    "url": "https://www.mlb.com/press-release/press-release-chicago-cubs-announce-motorola-as-official-jersey-patch-partner"
+  },
+  "note": "Jersey patch."
+}

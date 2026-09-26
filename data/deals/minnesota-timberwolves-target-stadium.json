@@ -1,0 +1,16 @@
+{
+  "id": "minnesota-timberwolves-target-stadium",
+  "clubId": "minnesota-timberwolves",
+  "orgName": "Target",
+  "sponsorId": "target",
+  "placement": "stadium",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Target Center (official)",
+    "date": "2026-01-01",
+    "url": "https://www.targetcenter.com/about-target-center"
+  },
+  "note": "Arena naming rights: Target Center."
+}

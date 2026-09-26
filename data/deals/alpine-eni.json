@@ -1,0 +1,16 @@
+{
+  "id": "alpine-eni",
+  "clubId": "alpine",
+  "orgName": null,
+  "sponsorId": "eni",
+  "placement": "front",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Eni – Eni, Renault Group and BWT Alpine Formula One Team new strategic partnership (PDF)",
+    "date": "2025-02-13",
+    "url": "https://www.eni.com/content/dam/enicom/documents/press-release/migrated/2025-en/02/pr-eni-renault-group-bwt-alpine-formula-one-team-new-strategic-partnership.pdf"
+  },
+  "note": "BWT Alpine F1 Team front partner on the 2026 car."
+}

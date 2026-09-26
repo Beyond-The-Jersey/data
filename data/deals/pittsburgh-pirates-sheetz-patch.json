@@ -1,0 +1,16 @@
+{
+  "id": "pittsburgh-pirates-sheetz-patch",
+  "clubId": "pittsburgh-pirates",
+  "orgName": "Sheetz",
+  "sponsorId": "sheetz",
+  "placement": "patch",
+  "from": "2024",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Pittsburgh Pirates / MLB.com press release",
+    "date": "2024-06-21",
+    "url": "https://www.mlb.com/press-release/press-release-pittsburgh-pirates-and-sheetz-announce-jersey-patch-partnership"
+  },
+  "note": "Jersey patch."
+}

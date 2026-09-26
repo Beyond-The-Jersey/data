@@ -1,0 +1,35 @@
+{
+  "id": "real-madrid-2026-27-home",
+  "clubId": "real-madrid",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {
+    "square": "assets/shirts/grid/real-madrid-2026-27-home-front-square.jpg"
+  },
+  "sponsors": [
+    {
+      "sponsorId": "emirates",
+      "placement": "front",
+      "source": {
+        "name": "SportsPro",
+        "date": "2026-06-10",
+        "url": "https://www.sportspro.com/news/sponsorship-marketing/real-madrid-emirates-record-sponsorship-june-2026/"
+      }
+    },
+    {
+      "sponsorId": "hp",
+      "placement": "sleeve",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Paid for by the Government of Dubai.",
+  "change": null
+}

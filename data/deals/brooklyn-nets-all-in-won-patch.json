@@ -1,0 +1,16 @@
+{
+  "id": "brooklyn-nets-all-in-won-patch",
+  "clubId": "brooklyn-nets",
+  "orgName": "All In Won",
+  "sponsorId": "all-in-won",
+  "placement": "patch",
+  "from": "2025",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Brooklyn Sports & Entertainment (bkse.com)",
+    "date": "2025-07-01",
+    "url": "https://bkse.com/news/brooklyn-nets-name-all-in-won-as-official-jersey-patch-partner"
+  },
+  "note": "Jersey patch."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "detroit-lions-ford-motor-company-stadium",
+  "clubId": "detroit-lions",
+  "orgName": "Ford Motor Company",
+  "sponsorId": "ford-motor-company",
+  "placement": "stadium",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Detroit Lions",
+    "date": "2025-03-28",
+    "url": "https://www.detroitlions.com/news/detroit-tradition-continues-lions-and-ford-announce-extension-of-ford-field-partnership-through-2036-season"
+  },
+  "note": "Arena naming rights: Ford Field."
+}

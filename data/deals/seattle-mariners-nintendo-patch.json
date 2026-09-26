@@ -1,0 +1,16 @@
+{
+  "id": "seattle-mariners-nintendo-patch",
+  "clubId": "seattle-mariners",
+  "orgName": "Nintendo (Nintendo of America)",
+  "sponsorId": "nintendo",
+  "placement": "patch",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Seattle Mariners (MLB.com)",
+    "date": "2026-03-27",
+    "url": "https://mariners.com/Nintendo"
+  },
+  "note": "Jersey patch."
+}

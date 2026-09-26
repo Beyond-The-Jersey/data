@@ -1,0 +1,16 @@
+{
+  "id": "aston-villa",
+  "name": "Aston Villa",
+  "shortName": "Aston Villa",
+  "code": "AVL",
+  "sportId": "soccer",
+  "leagueId": "premier-league",
+  "country": "England",
+  "crest": "assets/crests/aston-villa.png",
+  "aliases": [
+    "villa",
+    "avfc"
+  ],
+  "hasTeamPageDesign": true,
+  "contact": null
+}

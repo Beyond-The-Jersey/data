@@ -1,0 +1,16 @@
+{
+  "id": "coventry-city-monzo",
+  "clubId": "coventry-city",
+  "orgName": null,
+  "sponsorId": "monzo",
+  "placement": "front",
+  "from": "2026-27",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+    "date": "2026-09-17",
+    "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+  },
+  "note": "Promoted club, continues a non-gambling front."
+}

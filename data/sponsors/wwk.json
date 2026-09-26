@@ -1,0 +1,14 @@
+{
+  "id": "wwk",
+  "name": "WWK",
+  "ownerId": "wwk-lebensversicherung-ag",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by WWK Lebensversicherung a.G. (WWK Versicherungsgruppe). Nothing found.",
+  "claimIds": [
+    "wwk-lebensversicherung-ag-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Founded 1884 in Munich; 140-year mutual insurer with a real-estate subsidiary. No state or listed-shareholder ownership."
+}

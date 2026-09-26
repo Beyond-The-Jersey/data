@@ -1,0 +1,24 @@
+{
+  "id": "st-louis-cardinals-2026-27-home",
+  "clubId": "st-louis-cardinals",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "stifel",
+      "placement": "patch",
+      "source": {
+        "name": "MLB.com press release",
+        "date": "2023-05-02",
+        "url": "https://mlb.com/press-release/press-release-cardinals-announce-stifel-as-club-s-first-jersey-patch-sponsor"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Stifel Financial.",
+  "change": null
+}

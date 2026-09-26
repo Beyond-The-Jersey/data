@@ -1,0 +1,12 @@
+{
+  "id": "dallas-mavericks",
+  "name": "Dallas Mavericks",
+  "shortName": "Mavericks",
+  "code": "DAL",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "USA",
+  "crest": "assets/crests/dallas-mavericks.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

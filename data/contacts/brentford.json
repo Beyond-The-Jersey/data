@@ -1,0 +1,43 @@
+{
+  "clubId": "brentford",
+  "channels": [
+    {
+      "type": "email",
+      "value": "tickets@brentfordfc.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.brentfordfc.com/en/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "accessibility@brentfordfc.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.brentfordfc.com/en/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "02088472511",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.brentfordfc.com/en",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.brentfordfc.com/en/contact-us",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.brentfordfc.com/en/contact-us",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

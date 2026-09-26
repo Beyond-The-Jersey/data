@@ -1,0 +1,14 @@
+{
+  "id": "puma-se-record",
+  "ownerIds": [
+    "puma-se"
+  ],
+  "text": "PUMA SE is a German Frankfurt-listed sportswear company with dispersed public shareholders and no state owner.",
+  "short": "PUMA SE is a Frankfurt-listed sportswear company.",
+  "source": {
+    "name": "PUMA, investor relations",
+    "date": "2026",
+    "url": "https://about.puma.com/en/investor-relations"
+  },
+  "reviewed": true
+}

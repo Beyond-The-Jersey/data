@@ -1,0 +1,11 @@
+{
+  "id": "cadillac",
+  "name": "Cadillac Formula 1 Team",
+  "shortName": "Cadillac",
+  "code": "CAD",
+  "sportId": "motorsport",
+  "leagueId": "formula-1",
+  "country": "United States",
+  "crest": "assets/crests/cadillac.png",
+  "aliases": []
+}

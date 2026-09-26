@@ -1,0 +1,61 @@
+{
+  "clubId": "as-roma",
+  "channels": [
+    {
+      "type": "email",
+      "value": "youthdevelopment@asroma.it",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.asroma.com/en/club/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "callcenter@asroma.it",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.asroma.com/en/club/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "+390689386000",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.asroma.com/en",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.asroma.com/en/club/contact-us",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.asroma.com/en/club/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@ASRomaEN",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.asroma.com/en",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@officialasroma",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.asroma.com/en",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

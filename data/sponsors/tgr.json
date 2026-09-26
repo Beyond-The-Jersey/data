@@ -1,0 +1,14 @@
+{
+  "id": "tgr",
+  "name": "Toyota Gazoo Racing",
+  "ownerId": "toyota-motor-corporation",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Toyota Motor Corporation. Nothing found.",
+  "claimIds": [
+    "toyota-motor-corporation-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: The 20-F carries a 5%-plus beneficial ownership table; no government holder appears. Toyota's keiretsu cross-shareholdings are private."
+}

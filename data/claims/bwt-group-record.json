@@ -1,0 +1,14 @@
+{
+  "id": "bwt-group-record",
+  "ownerIds": [
+    "bwt-group"
+  ],
+  "text": "BWT AG (Best Water Technology), based in Mondsee, Austria, is a private water-treatment manufacturer. The company has been controlled since a 1990 management buy-out led by Andreas Weissenbacher, and its last published shareholder structure - in the FY2014 report, before the Vienna listing was wound up - showed the WAB group holding 79.7% with only 14.3% free float. There is no state stake; relevance is industrial/water-sector conduct rather than rights.",
+  "short": "BWT AG (Best Water Technology), based in Mondsee, Austria, is a private water-treatment manufacturer.",
+  "source": {
+    "name": "BWT AG Annual Report 2014, 'Shareholder structure'",
+    "date": "2014-12-31",
+    "url": "https://www.bwt.com/en/-/media/bwt/www,-d-,bwt,-d-,com/documents/financial-publications/annual-reports/bwt-annual-report-2014.pdf"
+  },
+  "reviewed": true
+}

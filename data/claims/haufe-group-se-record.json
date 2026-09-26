@@ -1,0 +1,14 @@
+{
+  "id": "haufe-group-se-record",
+  "ownerIds": [
+    "haufe-group-se"
+  ],
+  "text": "Lexware is the accounting-software brand of Haufe-Lexware GmbH & Co. KG, whose parent is the family-owned Haufe Group SE of Freiburg (HRA 4408). Haufe Group is described as a family-managed German B2B technology/publishing group - no state or fund ownership.",
+  "short": "Lexware is the accounting-software brand of Haufe-Lexware GmbH & Co.",
+  "source": {
+    "name": "Haufe-Lexware fact sheet 2024; Handelsregisterauszug HRA 4408 (Haufe-Lexware GmbH & Co. KG)",
+    "date": "2024",
+    "url": "https://www.lexware.de/fileadmin/pressematerial/factsheet_lexware_2024.pdf"
+  },
+  "reviewed": true
+}

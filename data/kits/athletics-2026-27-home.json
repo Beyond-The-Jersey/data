@@ -1,0 +1,24 @@
+{
+  "id": "athletics-2026-27-home",
+  "clubId": "athletics",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "lvcva",
+      "placement": "patch",
+      "source": {
+        "name": "MLB Trade Rumors",
+        "date": "2025-03-07",
+        "url": "https://mlbtraderumors.com/2025/03/as-announce-las-vegas-jersey-patch-sponsorship.html"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Las Vegas Convention and Visitors Authority (LVCVA) - 'Las Vegas' patch.",
+  "change": null
+}

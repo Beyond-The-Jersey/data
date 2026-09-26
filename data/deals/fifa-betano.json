@@ -1,0 +1,16 @@
+{
+  "id": "fifa-betano",
+  "clubId": null,
+  "orgName": "FIFA",
+  "sponsorId": "betano",
+  "placement": "league-partner",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "FIFA - Betano unveiled as Tournament Supporter of FIFA World Cup 2026 for Europe and South America",
+    "date": "2026",
+    "url": null
+  },
+  "leagueId": "fifa"
+}

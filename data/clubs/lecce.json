@@ -1,0 +1,11 @@
+{
+  "id": "lecce",
+  "name": "US Lecce",
+  "shortName": "Lecce",
+  "code": "LEC",
+  "sportId": "soccer",
+  "leagueId": "serie-a",
+  "country": "Italy",
+  "crest": "assets/crests/lecce.png",
+  "aliases": []
+}

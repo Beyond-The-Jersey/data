@@ -1,0 +1,14 @@
+{
+  "id": "al-hazem",
+  "name": "Al-Hazem",
+  "shortName": "Al-Hazem",
+  "code": "HAZ",
+  "sportId": "soccer",
+  "leagueId": "saudi-pro-league",
+  "country": "Saudi Arabia",
+  "crest": "assets/crests/al-hazem.png",
+  "aliases": [
+    "al hazem",
+    "hazem"
+  ]
+}

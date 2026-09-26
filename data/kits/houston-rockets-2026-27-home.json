@@ -1,0 +1,24 @@
+{
+  "id": "houston-rockets-2026-27-home",
+  "clubId": "houston-rockets",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "memorial-hermann",
+      "placement": "patch",
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2024-10-10",
+        "url": "https://www.sportsbusinessjournal.com/Articles/2024/10/10/houston-rockets-jersey-patch/"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Memorial Hermann Health System.",
+  "change": null
+}

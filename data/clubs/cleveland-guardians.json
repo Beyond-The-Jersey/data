@@ -1,0 +1,12 @@
+{
+  "id": "cleveland-guardians",
+  "name": "Cleveland Guardians",
+  "shortName": "Guardians",
+  "code": "CLE",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "USA",
+  "crest": "assets/crests/cleveland-guardians.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

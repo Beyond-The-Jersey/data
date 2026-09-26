@@ -1,0 +1,9 @@
+{
+  "id": "neom",
+  "name": "NEOM",
+  "type": "private-company",
+  "country": "Saudi Arabia",
+  "via": "PIF",
+  "note": "PIF giga-project; owns NEOM SC.",
+  "parentId": "saudi-pif"
+}

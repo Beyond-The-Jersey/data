@@ -1,0 +1,9 @@
+{
+  "id": "cruise-saudi",
+  "name": "Cruise Saudi",
+  "type": "private-company",
+  "country": "Saudi Arabia",
+  "via": "PIF",
+  "note": "PIF-owned; operates AROYA Cruises.",
+  "parentId": "saudi-pif"
+}

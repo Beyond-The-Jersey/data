@@ -1,0 +1,14 @@
+{
+  "id": "amica-mutual-insurance",
+  "name": "Amica Mutual Insurance",
+  "ownerId": "amica-mutual-insurance-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Amica Mutual Insurance Company. Nothing found.",
+  "claimIds": [
+    "amica-mutual-insurance-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Private Company company with no significant conduct issues found"
+}

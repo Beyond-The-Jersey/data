@@ -1,0 +1,52 @@
+{
+  "clubId": "rayo-vallecano",
+  "channels": [
+    {
+      "type": "email",
+      "value": "cumplimiento@rayovallecano.es",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.rayovallecano.es/aviso-legal",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "cumpimiento@rayovallecano.es",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.rayovallecano.es/aviso-legal",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.rayovallecano.es/aviso-legal",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.rayovallecano.es/aviso-legal",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@RayoVallecano",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.rayovallecano.es/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@rayovallecano",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.rayovallecano.es/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

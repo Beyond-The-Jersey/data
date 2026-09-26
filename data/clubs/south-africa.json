@@ -1,0 +1,11 @@
+{
+  "id": "south-africa",
+  "name": "South Africa",
+  "shortName": "South Africa",
+  "code": "RSA",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "South Africa",
+  "crest": "assets/crests/south-africa.png",
+  "aliases": []
+}

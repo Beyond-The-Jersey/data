@@ -1,0 +1,12 @@
+{
+  "id": "philadelphia-76ers",
+  "name": "Philadelphia 76ers",
+  "shortName": "76ers",
+  "code": "PHI",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "USA",
+  "crest": "assets/crests/philadelphia-76ers.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

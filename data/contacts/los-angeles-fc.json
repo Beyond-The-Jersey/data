@@ -1,0 +1,52 @@
+{
+  "clubId": "los-angeles-fc",
+  "channels": [
+    {
+      "type": "email",
+      "value": "lafcpr@lafc.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.lafc.com/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "tickets@lafc.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.lafc.com/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.lafc.com/contact",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.lafc.com/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@LAFC",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.lafc.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@lafc",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.lafc.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

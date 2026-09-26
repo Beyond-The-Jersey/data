@@ -1,0 +1,16 @@
+{
+  "id": "new-york-giants-metlife-stadium",
+  "clubId": "new-york-giants",
+  "orgName": "MetLife (Metropolitan Life Insurance)",
+  "sponsorId": "metlife",
+  "placement": "stadium",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "NJ.com",
+    "date": "2026-04-15",
+    "url": "https://www.nj.com/bergen/2026/04/metlife-stadiums-name-change-leaves-nj-as-second-fiddle-what-else-is-new.html"
+  },
+  "note": "Arena naming rights: MetLife Stadium."
+}

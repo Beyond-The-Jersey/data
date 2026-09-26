@@ -1,0 +1,24 @@
+{
+  "id": "detroit-pistons-2026-27-home",
+  "clubId": "detroit-pistons",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "stockx",
+      "placement": "patch",
+      "source": {
+        "name": "StockX Newsroom",
+        "date": "2024-09-25",
+        "url": "https://stockx.com/about/detroit-pistons-and-stockx-announce-jersey-partnership"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: StockX.",
+  "change": null
+}

@@ -1,0 +1,69 @@
+{
+  "id": "olympique-lyonnais-2026-27-home",
+  "clubId": "olympique-lyonnais",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "emirates",
+      "placement": "front",
+      "source": {
+        "name": "Emirates, 'Emirates renews partnership with Olympique Lyonnais until 2030'",
+        "date": "2025-04-25",
+        "url": "https://www.emirates.com/media-centre/emirates-renews-partnership-with-olympique-lyonnais-until-2030/"
+      }
+    },
+    {
+      "sponsorId": "winamax",
+      "placement": "back",
+      "source": {
+        "name": "Olympique Lyonnais — Partenaires",
+        "date": "2026",
+        "url": "https://www.ol.fr/fr/club/partenaires"
+      }
+    },
+    {
+      "sponsorId": "xtb",
+      "placement": "back",
+      "source": {
+        "name": "Olympique Lyonnais — Partenaires",
+        "date": "2026",
+        "url": "https://www.ol.fr/fr/club/partenaires"
+      }
+    },
+    {
+      "sponsorId": "mg-motor",
+      "placement": "sleeve",
+      "source": {
+        "name": "Olympique Lyonnais — Partenaires",
+        "date": "2026",
+        "url": "https://www.ol.fr/fr/club/partenaires"
+      }
+    },
+    {
+      "sponsorId": "trainline",
+      "placement": "shorts",
+      "source": {
+        "name": "Olympique Lyonnais — Partenaires",
+        "date": "2026",
+        "url": "https://www.ol.fr/fr/club/partenaires"
+      }
+    },
+    {
+      "sponsorId": "staffmatch",
+      "placement": "shorts",
+      "source": {
+        "name": "Olympique Lyonnais — Partenaires",
+        "date": "2026",
+        "url": "https://www.ol.fr/fr/club/partenaires"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Adidas kit. Emirates (Dubai state-owned) on the front until 2030.",
+  "change": null
+}

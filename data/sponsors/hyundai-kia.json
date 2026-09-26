@@ -1,0 +1,12 @@
+{
+  "id": "hyundai-kia",
+  "name": "Hyundai-Kia",
+  "ownerId": "hyundai-motor-group",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": [],
+  "note": "Official automotive/mobility partner via Hyundai Motor Company and Kia Corporation."
+}

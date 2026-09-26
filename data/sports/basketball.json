@@ -1,0 +1,9 @@
+{
+  "id": "basketball",
+  "label": "Basketball",
+  "status": "not-mapped",
+  "aliases": [
+    "nba",
+    "bal"
+  ]
+}

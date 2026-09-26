@@ -1,0 +1,14 @@
+{
+  "id": "nissan-owner-record",
+  "ownerIds": [
+    "nissan-owner"
+  ],
+  "text": "Through the Renault-Nissan Alliance, the French State holds a 15% stake in Renault, which in turn holds a 15% stake in Nissan, resulting in an indirect state interest of approximately 2.25% in Nissan.",
+  "short": "Through the Renault-Nissan Alliance, the French State holds a 15% stake in Renault, which in turn holds a 15% stake in Nissan, resulting in an indirect state….",
+  "source": {
+    "name": "Nissan News Release",
+    "date": "2010-01-30",
+    "url": "https://global.nissannews.com/en/releases/011030-01"
+  },
+  "reviewed": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": "al-shabab",
+  "name": "Al-Shabab",
+  "shortName": "Al-Shabab",
+  "code": "SHB",
+  "sportId": "soccer",
+  "leagueId": "saudi-pro-league",
+  "country": "Saudi Arabia",
+  "crest": "assets/crests/al-shabab.png",
+  "aliases": [
+    "al shabab",
+    "shabab"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "bain-capital-record",
+  "ownerIds": [
+    "bain-capital"
+  ],
+  "text": "Guidehouse, the D.C. United front sponsor, is a Washington-based consultancy owned by Bain Capital Private Equity, which bought it from Veritas Capital in a $5.3bn deal that closed in December 2023 - Guidehouse's own newsroom confirms the completion. Ownership is therefore private PE money (Bain's funds and their LPs), no state stake. Human-rights relevance: consulting/defense-adjacent services, nothing state-owned.",
+  "short": "Guidehouse, the D.C.",
+  "source": {
+    "name": "Guidehouse newsroom - completion of transaction with Bain Capital",
+    "date": "2023-12-14",
+    "url": "https://guidehouse.com/news/corporate-news/2023/guidehouse-completes-transaction-with-bain-capital"
+  },
+  "reviewed": true
+}

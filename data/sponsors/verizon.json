@@ -1,0 +1,12 @@
+{
+  "id": "verizon",
+  "name": "Verizon",
+  "ownerId": null,
+  "ownership": null,
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": [],
+  "note": "Official telecommunication services sponsor."
+}

@@ -1,0 +1,24 @@
+{
+  "clubId": "como",
+  "channels": [
+    {
+      "type": "x",
+      "value": "@Como_1907",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.comofootball.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@como_1907official",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.comofootball.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

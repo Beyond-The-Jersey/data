@@ -1,0 +1,16 @@
+{
+  "id": "fifa-doordash",
+  "clubId": null,
+  "orgName": "FIFA",
+  "sponsorId": "doordash",
+  "placement": "league-partner",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "FIFA - DoorDash named Official Tournament Supporter of the FIFA World Cup 2026 and FIFA Women's World Cup 2027",
+    "date": "2025-11-18",
+    "url": "https://inside.fifa.com/tournament-organisation/commercial/news/doordash-tournament-supporter-world-cup-2026-womens-2027"
+  },
+  "leagueId": "fifa"
+}

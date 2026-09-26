@@ -1,0 +1,14 @@
+{
+  "id": "hep-solar",
+  "name": "Hep Solar",
+  "ownerId": "hep-global",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": [
+    "hep solar",
+    "hep global"
+  ]
+}

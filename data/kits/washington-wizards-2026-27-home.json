@@ -1,0 +1,24 @@
+{
+  "id": "washington-wizards-2026-27-home",
+  "clubId": "washington-wizards",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "robinhood",
+      "placement": "patch",
+      "source": {
+        "name": "Washington Wizards (nba.com)",
+        "date": "2023-10-23",
+        "url": "https://www.nba.com/wizards/news/washington-wizards-announce-robinhood-as-official-brokerage-and-jersey-patch-partner"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Robinhood.",
+  "change": null
+}

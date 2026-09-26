@@ -1,0 +1,8 @@
+{
+  "id": "diriyah-gate-development-authority",
+  "name": "Diriyah Gate Development Authority",
+  "type": "state",
+  "country": "Saudi Arabia",
+  "note": "Government authority behind Diriyah Company; runs Diriyah Club.",
+  "parentId": "government-of-saudi-arabia"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "uline",
+  "name": "Uline",
+  "ownerId": "uline-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Uline. Nothing found.",
+  "claimIds": [
+    "uline-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Explicitly states family-owned since 1980; no state stake or serious conduct record identified."
+}

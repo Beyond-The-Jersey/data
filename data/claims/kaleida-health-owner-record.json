@@ -1,0 +1,15 @@
+{
+  "id": "kaleida-health-owner-record",
+  "ownerIds": [
+    "kaleida-health-owner"
+  ],
+  "text": "Kaleida Health is the ultimate owner of Kaleida Health.",
+  "short": "Kaleida Health is the ultimate owner of Kaleida Health.",
+  "source": {
+    "name": "Kaleida Health About Us",
+    "date": "2026-09-25",
+    "url": null,
+    "note": "Link removed 2026-09-25 (404 on 2026-09-25): https://www.kaleidahealth.org/about-us"
+  },
+  "reviewed": true
+}

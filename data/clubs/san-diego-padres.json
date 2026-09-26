@@ -1,0 +1,12 @@
+{
+  "id": "san-diego-padres",
+  "name": "San Diego Padres",
+  "shortName": "Padres",
+  "code": "SD",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "USA",
+  "crest": "assets/crests/san-diego-padres.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

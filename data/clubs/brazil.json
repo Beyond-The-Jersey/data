@@ -1,0 +1,11 @@
+{
+  "id": "brazil",
+  "name": "Brazil",
+  "shortName": "Brazil",
+  "code": "BRA",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Brazil",
+  "crest": "assets/crests/brazil.png",
+  "aliases": []
+}

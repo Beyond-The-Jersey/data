@@ -1,0 +1,23 @@
+{
+  "id": "psg-qatar-airways-front",
+  "clubId": "paris-saint-germain",
+  "orgName": null,
+  "sponsorId": "qatar-airways",
+  "placement": "front",
+  "from": "2022",
+  "to": "2028",
+  "value": {
+    "amount": 60,
+    "currency": "EUR",
+    "unit": "m",
+    "per": "year",
+    "upTo": true,
+    "usdApprox": 70
+  },
+  "source": {
+    "name": "SportsPro, 'PSG renew Qatar Airways shirt sponsorship on same terms'",
+    "date": "2025-01-27",
+    "url": "https://www.sportspro.com/news/psg-qatar-airways-shirt-sponsor-contract-extension-2028-january-2025/"
+  },
+  "note": "Reported €60–70m a season (Le Parisien, via SportsPro); playing, training and warm-up kits. Sponsor and club owner both Qatari state-linked."
+}

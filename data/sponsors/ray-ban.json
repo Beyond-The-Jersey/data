@@ -1,0 +1,14 @@
+{
+  "id": "ray-ban",
+  "name": "Ray-Ban / EssilorLuxottica",
+  "ownerId": "essilorluxottica",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by EssilorLuxottica SA. Nothing found.",
+  "claimIds": [
+    "essilorluxottica-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Franco-Italian group. Cite the Euronext listing/registration document if a primary link is needed; Wikipedia used here as the lead for the ISIN."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "providence",
+  "name": "Providence",
+  "ownerId": "providence-health-system",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Providence (Providence Health & Services / Providence Swedish). Nothing found.",
+  "claimIds": [
+    "providence-health-system-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Catholic non-profit; some would flag religious-ethics issues, not state ownership."
+}

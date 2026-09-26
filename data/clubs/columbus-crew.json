@@ -1,0 +1,11 @@
+{
+  "id": "columbus-crew",
+  "name": "Columbus Crew",
+  "shortName": "Columbus Crew",
+  "code": "CLB",
+  "sportId": "soccer",
+  "leagueId": "mls",
+  "country": "USA",
+  "crest": "assets/crests/columbus-crew.png",
+  "aliases": []
+}

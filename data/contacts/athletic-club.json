@@ -1,0 +1,52 @@
+{
+  "clubId": "athletic-club",
+  "channels": [
+    {
+      "type": "email",
+      "value": "contacto@athletic-club.eus",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.athletic-club.eus/en/contact/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "+34944240877",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.athletic-club.eus/en/contact/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.athletic-club.eus/en/contact/",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.athletic-club.eus/en/contact/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@AthleticClub",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.athletic-club.eus/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@athleticclub",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.athletic-club.eus/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

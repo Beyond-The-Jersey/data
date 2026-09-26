@@ -1,0 +1,52 @@
+{
+  "clubId": "san-diego-padres",
+  "channels": [
+    {
+      "type": "email",
+      "value": "comments@padres.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/padres/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "tickets@padres.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/padres/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.mlb.com/padres/official-information/contact",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/padres/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@padres",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/padres",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@padres",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/padres",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

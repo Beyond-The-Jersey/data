@@ -1,0 +1,14 @@
+{
+  "id": "shakhtar-donetsk",
+  "name": "Shakhtar Donetsk",
+  "shortName": "Shakhtar",
+  "code": "SHA",
+  "sportId": "soccer",
+  "leagueId": "uefa",
+  "country": "Ukraine",
+  "crest": "assets/crests/shakhtar-donetsk.png",
+  "aliases": [
+    "shakhtar"
+  ],
+  "hasTeamPageDesign": false
+}

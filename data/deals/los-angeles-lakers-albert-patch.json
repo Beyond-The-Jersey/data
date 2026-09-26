@@ -1,0 +1,16 @@
+{
+  "id": "los-angeles-lakers-albert-patch",
+  "clubId": "los-angeles-lakers",
+  "orgName": "Albert",
+  "sponsorId": "albert",
+  "placement": "patch",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Yahoo Sports",
+    "date": "2026-07-17",
+    "url": "https://sports.yahoo.com/articles/lakers-announce-albert-jersey-patch-182626664.html"
+  },
+  "note": "Jersey patch."
+}

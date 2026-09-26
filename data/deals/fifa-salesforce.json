@@ -1,0 +1,16 @@
+{
+  "id": "fifa-salesforce",
+  "clubId": null,
+  "orgName": "FIFA",
+  "sponsorId": "salesforce",
+  "placement": "league-partner",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "FIFA - FIFA announces Salesforce as Official Tournament Supporter of FIFA World Cup 2026 and FIFA Women's World Cup 2027",
+    "date": "2026",
+    "url": null
+  },
+  "leagueId": "fifa"
+}

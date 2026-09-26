@@ -1,0 +1,14 @@
+{
+  "id": "saputo",
+  "name": "Saputo",
+  "ownerId": "saputo-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Saputo Inc.. Nothing found.",
+  "claimIds": [
+    "saputo-inc-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Judgement call: CDPQ's ~4.5% was treated as too small to justify 'concern'. Raise it if the dataset wants any state-fund presence flagged."
+}

@@ -1,0 +1,12 @@
+{
+  "id": "washington-nationals",
+  "name": "Washington Nationals",
+  "shortName": "Nationals",
+  "code": "WAS",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "USA",
+  "crest": "assets/crests/washington-nationals.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

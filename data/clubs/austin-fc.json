@@ -1,0 +1,11 @@
+{
+  "id": "austin-fc",
+  "name": "Austin FC",
+  "shortName": "Austin FC",
+  "code": "ATX",
+  "sportId": "soccer",
+  "leagueId": "mls",
+  "country": "USA",
+  "crest": "assets/crests/austin-fc.png",
+  "aliases": []
+}

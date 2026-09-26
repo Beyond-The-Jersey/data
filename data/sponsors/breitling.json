@@ -1,0 +1,14 @@
+{
+  "id": "breitling",
+  "name": "Breitling",
+  "ownerId": "cvc-capital-partners",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by CVC Capital Partners (CVC Fund VI). Nothing found.",
+  "claimIds": [
+    "cvc-capital-partners-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: CVC's own 28 Apr 2017 release documents the 80/20 deal; the follow-on 20% purchase (Nov 2018) is documented by Unquote. Owner type kept as private-company because the holder is a PE fund, not the listed manager."
+}

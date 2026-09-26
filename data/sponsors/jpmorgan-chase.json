@@ -1,0 +1,14 @@
+{
+  "id": "jpmorgan-chase",
+  "name": "JPMorgan Chase (Chase)",
+  "ownerId": "jpmorgan-chase-owner",
+  "ownership": "owned",
+  "tier": "concern",
+  "status": "rated",
+  "verdict": "JPMorgan Chase & Co.",
+  "claimIds": [
+    "jpmorgan-chase-chase-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: JPMorgan Chase has paid multiple significant settlements including $151 million in 2024 for SEC violations and various other regulatory matters."
+}

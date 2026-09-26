@@ -1,0 +1,12 @@
+{
+  "id": "getafe",
+  "name": "Getafe CF",
+  "shortName": "Getafe",
+  "code": "GET",
+  "sportId": "soccer",
+  "leagueId": "la-liga",
+  "country": "Spain",
+  "crest": "assets/crests/getafe.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

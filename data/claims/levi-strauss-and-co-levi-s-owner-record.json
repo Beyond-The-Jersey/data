@@ -1,0 +1,14 @@
+{
+  "id": "levi-strauss-and-co-levi-s-owner-record",
+  "ownerIds": [
+    "levi-strauss-and-co-levi-s-owner"
+  ],
+  "text": "Levi Strauss & Co. is a publicly traded company listed on the New York Stock Exchange under ticker LEVI.",
+  "short": "Levi Strauss & Co.",
+  "source": {
+    "name": "SEC DEF 14A for Levi Strauss & Co.",
+    "date": "2026-03-11",
+    "url": "https://www.sec.gov/Archives/edgar/data/94845/000130817926000050/levi014917_def14a.htm"
+  },
+  "reviewed": true
+}

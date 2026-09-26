@@ -1,0 +1,14 @@
+{
+  "id": "intermountain-health-record",
+  "ownerIds": [
+    "intermountain-health"
+  ],
+  "text": "Select Health is the insurance arm of Intermountain Health, a non-profit integrated health system based in Salt Lake City. No shareholders, no state stake - the Real Salt Lake front deal is non-profit healthcare money. Human-rights relevance is minimal apart from ordinary US health-insurance conduct.",
+  "short": "Select Health is the insurance arm of Intermountain Health, a non-profit integrated health system based in Salt Lake City.",
+  "source": {
+    "name": "Select Health, About Us",
+    "date": "2026-09",
+    "url": "https://selecthealth.org/about-us"
+  },
+  "reviewed": true
+}

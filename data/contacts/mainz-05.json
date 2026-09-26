@@ -1,0 +1,43 @@
+{
+  "clubId": "mainz-05",
+  "channels": [
+    {
+      "type": "phone",
+      "value": "06131375500",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mainz05.de/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.mainz05.de/impressum",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mainz05.de/impressum",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@1fsvmainz05",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mainz05.de/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@1fsvmainz05",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mainz05.de/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

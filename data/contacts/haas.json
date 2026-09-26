@@ -1,0 +1,34 @@
+{
+  "clubId": "haas",
+  "channels": [
+    {
+      "type": "contact-form",
+      "value": "https://www.haasf1team.com/contact-us",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.haasf1team.com/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@HaasF1Team",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.haasf1team.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@haasf1team",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.haasf1team.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fifa-aramco",
+  "clubId": null,
+  "orgName": "FIFA",
+  "sponsorId": "aramco",
+  "placement": "league-partner",
+  "from": "2024",
+  "to": "2027",
+  "value": null,
+  "source": {
+    "name": "FIFA - Aramco and FIFA announce global partnership",
+    "date": "2024-04-25",
+    "url": "https://inside.fifa.com/tournament-organisation/commercial/media-releases/aramco-and-fifa-announce-global-partnership"
+  },
+  "leagueId": "fifa",
+  "note": "Major Worldwide Partner, exclusive energy category; runs to end 2027."
+}

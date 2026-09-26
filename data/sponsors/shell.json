@@ -1,0 +1,14 @@
+{
+  "id": "shell",
+  "name": "Shell",
+  "ownerId": "shell-plc",
+  "ownership": "owned",
+  "tier": "concern",
+  "status": "rated",
+  "verdict": "No state shareholder (a London-listed public company, effectively full free float), but a sustained documented adverse record: decades of oil spills and failed….",
+  "claimIds": [
+    "shell-plc-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Raised to concern on the 'sustained documented adverse record' limb, not on state ownership - so bp and castrol are rated the same way for consistency. Shell is also Ferrari's fuel partner historically."
+}

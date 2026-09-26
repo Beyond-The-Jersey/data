@@ -1,0 +1,26 @@
+{
+  "id": "sunderland-2026-27-home",
+  "clubId": "sunderland",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {
+    "square": "assets/shirts/grid/sunderland-2026-27-home-front-square.jpg"
+  },
+  "sponsors": [
+    {
+      "sponsorId": "shuffle",
+      "placement": "sleeve",
+      "source": {
+        "name": "Sunderland AFC – 'Sunderland AFC and Shuffle join forces in new global sleeve partnership'",
+        "date": "2026-09-11",
+        "url": "https://www.safc.com/news/2026/september/11/sunderland-afc-and-shuffle-join-forces-in-new-global-sleeve-partnership/"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "No front-of-shirt sponsor at the start of the season (SportsPro).",
+  "change": null
+}

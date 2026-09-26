@@ -1,0 +1,16 @@
+{
+  "id": "miami-heat-kaseya-stadium",
+  "clubId": "miami-heat",
+  "orgName": "Kaseya",
+  "sponsorId": "kaseya",
+  "placement": "stadium",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Miami-Dade County",
+    "date": "2023-04-04",
+    "url": "https://www.miamidade.gov/global/release.page?Mduid_release=rel1680639570445939"
+  },
+  "note": "Arena naming rights: Kaseya Center. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2023-04-04."
+}

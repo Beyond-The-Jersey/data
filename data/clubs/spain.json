@@ -1,0 +1,11 @@
+{
+  "id": "spain",
+  "name": "Spain",
+  "shortName": "Spain",
+  "code": "ESP",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Spain",
+  "crest": "assets/crests/spain.png",
+  "aliases": []
+}

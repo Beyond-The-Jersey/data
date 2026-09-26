@@ -1,0 +1,72 @@
+{
+  "id": "atletico-de-madrid-2026-27-home",
+  "clubId": "atletico-de-madrid",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {
+    "front": "assets/shirts/atletico-de-madrid/2026-27-home-front.jpg",
+    "back": "assets/shirts/atletico-de-madrid/2026-27-home-back.jpg",
+    "square": "assets/shirts/grid/atletico-de-madrid-2026-27-home-front-square.jpg"
+  },
+  "sponsors": [
+    {
+      "sponsorId": "riyadh-air",
+      "placement": "front",
+      "side": "front",
+      "hotspot": {
+        "x": 0.49,
+        "y": 0.468,
+        "w": 0.38,
+        "h": 0.23
+      },
+      "cardSlot": "L",
+      "source": {
+        "name": "Score and Change, La Liga sponsors 2026/27",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    },
+    {
+      "sponsorId": "kraken",
+      "placement": "sleeve",
+      "side": "front",
+      "hotspot": {
+        "x": 0.883,
+        "y": 0.236,
+        "w": 0.06,
+        "h": 0.13
+      },
+      "cardSlot": "T",
+      "source": {
+        "name": "Score and Change, La Liga sponsors 2026/27",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    },
+    {
+      "sponsorId": "visit-rwanda",
+      "placement": "back",
+      "side": "back",
+      "hotspot": {
+        "x": 0.507,
+        "y": 0.678,
+        "w": 0.27,
+        "h": 0.09
+      },
+      "cardSlot": "R",
+      "source": {
+        "name": "Score and Change, La Liga sponsors 2026/27",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Saudi Arabia’s state fund pays for the front of this shirt. Rwanda’s government pays for the back.",
+  "change": null,
+  "headline": "The shirt is {level}: Saudi Arabia’s state fund owns the front sponsor, Riyadh Air, and Rwanda’s government pays for Visit Rwanda on the back.",
+  "shortLine": "Riyadh Air on the front, Visit Rwanda on the back"
+}
