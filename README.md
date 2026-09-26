@@ -57,7 +57,7 @@ schema/                 JSON Schemas, one per record type: the contract with the
 scripts/                validate.py, check_links.py, build.py (standard Python; validate needs jsonschema)
 agents/                 briefs for research agents and the review agent
 assets/                 candidate image sources with licences (images themselves live with the website)
-docs/                   the record of past migrations
+docs/                   coverage/ (research leads per target) and the record of past migrations
 ```
 
 Run the checks locally:
