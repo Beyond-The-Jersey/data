@@ -66,8 +66,11 @@ jobs:
         with:
           model: gateway/${{ vars.GLM_MODEL }}
           use_github_token: true
+          # Don't publish the session on opencode.ai (the default for public repos).
+          share: false
           prompt: |
             Read agents/review.md and follow it exactly. The pull request's diff is review/pr.diff,
             its changed files are listed in review/files.txt (A added, M modified, D deleted,
             R renamed), and its title and description are in review/pr.md. The dataset on main is
-            in data/. Answer with the review comment only.
+            in data/. Your final message is posted as the pull request comment exactly as you
+            write it: start with "**Review agent:**", with nothing before it.
