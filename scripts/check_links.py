@@ -27,7 +27,7 @@ args = ap.parse_args()
 if args.all:
     files = [os.path.join(dp, f) for dp, _, fs in os.walk(DATA) for f in fs if f.endswith('.json')]
 else:
-    out = subprocess.run(['git', '-C', ROOT, 'diff', '--name-only', '--diff-filter=AM', f'{args.base}...HEAD', '--', 'data'],
+    out = subprocess.run(['git', '-C', ROOT, 'diff', '--name-only', '--no-renames', '--diff-filter=AM', f'{args.base}...HEAD', '--', 'data'],
                          capture_output=True, text=True, check=True).stdout.split()
     files = [os.path.join(ROOT, f) for f in out if f.endswith('.json')]
 

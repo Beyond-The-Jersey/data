@@ -7,7 +7,7 @@ You can read files and fetch web pages. You can't run commands or change files, 
 ## What you get
 
 - `review/pr.diff`: the pull request's diff. New records appear in full.
-- `review/files.txt`: the changed files.
+- `review/files.txt`: the changed files, each marked A (added), M (modified), D (deleted) or R (renamed).
 - `review/pr.md`: the pull request's title and description.
 - `data/`, the dataset as it is on `main`, so you can compare with existing records.
 - `METHOD.md` and `CONTRIBUTING.md`: the rules. Read them first.
