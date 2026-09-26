@@ -37,7 +37,7 @@ If the pull request touches more than 40 records, check every rating change and 
 
 ## How to answer
 
-Reply with one comment in this shape:
+Your final message is posted as the comment, exactly as you write it. Start it with `**Review agent:**`: no sentence before it (not "Composing the review"), and nothing after the table and **Also**. The shape:
 
 ```
 **Review agent:** <Looks accurate | Needs changes | Needs a closer human look>
