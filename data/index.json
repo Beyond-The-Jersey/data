@@ -3007,6 +3007,76 @@
       "file": "turkey.json"
     },
     {
+      "id": "andretti-formula-e",
+      "name": "Andretti Formula E",
+      "sport": "motorsport",
+      "league": "formula-e",
+      "file": "andretti-formula-e.json"
+    },
+    {
+      "id": "citroen-racing",
+      "name": "Citroen Racing",
+      "sport": "motorsport",
+      "league": "formula-e",
+      "file": "citroen-racing.json"
+    },
+    {
+      "id": "cupra-kiro",
+      "name": "Cupra Kiro",
+      "sport": "motorsport",
+      "league": "formula-e",
+      "file": "cupra-kiro.json"
+    },
+    {
+      "id": "ds-penske",
+      "name": "DS Penske",
+      "sport": "motorsport",
+      "league": "formula-e",
+      "file": "ds-penske.json"
+    },
+    {
+      "id": "envision-racing",
+      "name": "Envision Racing",
+      "sport": "motorsport",
+      "league": "formula-e",
+      "file": "envision-racing.json"
+    },
+    {
+      "id": "jaguar-tcs-racing",
+      "name": "Jaguar TCS Racing",
+      "sport": "motorsport",
+      "league": "formula-e",
+      "file": "jaguar-tcs-racing.json"
+    },
+    {
+      "id": "lola-yamaha-abt",
+      "name": "Lola Yamaha ABT Formula E Team",
+      "sport": "motorsport",
+      "league": "formula-e",
+      "file": "lola-yamaha-abt.json"
+    },
+    {
+      "id": "mahindra-racing",
+      "name": "Mahindra Racing",
+      "sport": "motorsport",
+      "league": "formula-e",
+      "file": "mahindra-racing.json"
+    },
+    {
+      "id": "nissan-formula-e",
+      "name": "Nissan Formula E Team",
+      "sport": "motorsport",
+      "league": "formula-e",
+      "file": "nissan-formula-e.json"
+    },
+    {
+      "id": "porsche-formula-e",
+      "name": "Porsche Formula E Team",
+      "sport": "motorsport",
+      "league": "formula-e",
+      "file": "porsche-formula-e.json"
+    },
+    {
       "id": "mens-t20-world-cup-2026",
       "name": "ICC Men's T20 World Cup 2026",
       "sport": "cricket",
@@ -3322,6 +3392,118 @@
       "file": "superfile-trackhouse-motogp-team.json"
     },
     {
+      "id": "akhmat-grozny",
+      "name": "FC Akhmat Grozny",
+      "sport": "soccer",
+      "league": "russian-premier-league",
+      "file": "akhmat-grozny.json"
+    },
+    {
+      "id": "akron-tolyatti",
+      "name": "FC Akron Tolyatti",
+      "sport": "soccer",
+      "league": "russian-premier-league",
+      "file": "akron-tolyatti.json"
+    },
+    {
+      "id": "baltika-kaliningrad",
+      "name": "FC Baltika Kaliningrad",
+      "sport": "soccer",
+      "league": "russian-premier-league",
+      "file": "baltika-kaliningrad.json"
+    },
+    {
+      "id": "cska-moscow",
+      "name": "PFC CSKA Moscow",
+      "sport": "soccer",
+      "league": "russian-premier-league",
+      "file": "cska-moscow.json"
+    },
+    {
+      "id": "dynamo-makhachkala",
+      "name": "FC Dynamo Makhachkala",
+      "sport": "soccer",
+      "league": "russian-premier-league",
+      "file": "dynamo-makhachkala.json"
+    },
+    {
+      "id": "dynamo-moscow",
+      "name": "FC Dynamo Moscow",
+      "sport": "soccer",
+      "league": "russian-premier-league",
+      "file": "dynamo-moscow.json"
+    },
+    {
+      "id": "fakel-voronezh",
+      "name": "FC Fakel Voronezh",
+      "sport": "soccer",
+      "league": "russian-premier-league",
+      "file": "fakel-voronezh.json"
+    },
+    {
+      "id": "krasnodar",
+      "name": "FC Krasnodar",
+      "sport": "soccer",
+      "league": "russian-premier-league",
+      "file": "krasnodar.json"
+    },
+    {
+      "id": "krylia-sovetov",
+      "name": "PFC Krylia Sovetov Samara",
+      "sport": "soccer",
+      "league": "russian-premier-league",
+      "file": "krylia-sovetov.json"
+    },
+    {
+      "id": "lokomotiv-moscow",
+      "name": "FC Lokomotiv Moscow",
+      "sport": "soccer",
+      "league": "russian-premier-league",
+      "file": "lokomotiv-moscow.json"
+    },
+    {
+      "id": "orenburg",
+      "name": "FC Orenburg",
+      "sport": "soccer",
+      "league": "russian-premier-league",
+      "file": "orenburg.json"
+    },
+    {
+      "id": "rodina-moscow",
+      "name": "FC Rodina Moscow",
+      "sport": "soccer",
+      "league": "russian-premier-league",
+      "file": "rodina-moscow.json"
+    },
+    {
+      "id": "rostov",
+      "name": "FC Rostov",
+      "sport": "soccer",
+      "league": "russian-premier-league",
+      "file": "rostov.json"
+    },
+    {
+      "id": "rubin-kazan",
+      "name": "FC Rubin Kazan",
+      "sport": "soccer",
+      "league": "russian-premier-league",
+      "file": "rubin-kazan.json"
+    },
+    {
+      "id": "spartak-moscow",
+      "name": "FC Spartak Moscow",
+      "sport": "soccer",
+      "league": "russian-premier-league",
+      "file": "spartak-moscow.json"
+    },
+    {
+      "id": "zenit-st-petersburg",
+      "name": "FC Zenit Saint Petersburg",
+      "sport": "soccer",
+      "league": "russian-premier-league",
+      "file": "zenit-st-petersburg.json"
+    },
+    {
       "id": "bonds-flying-roos",
       "name": "BONDS Flying Roos SailGP Team",
       "sport": "sailing",
@@ -3537,6 +3719,104 @@
       "sport": "soccer",
       "league": "saudi-pro-league",
       "file": "neom.json"
+    },
+    {
+      "id": "ag-insurance-soudal-women",
+      "name": "AG Insurance-Soudal Team",
+      "sport": "cycling",
+      "league": "uci-womens-worldtour",
+      "file": "ag-insurance-soudal-women.json"
+    },
+    {
+      "id": "canyon-sram-zondacrypto",
+      "name": "Canyon//SRAM zondacrypto",
+      "sport": "cycling",
+      "league": "uci-womens-worldtour",
+      "file": "canyon-sram-zondacrypto.json"
+    },
+    {
+      "id": "ef-education-oatly",
+      "name": "EF Education-Oatly",
+      "sport": "cycling",
+      "league": "uci-womens-worldtour",
+      "file": "ef-education-oatly.json"
+    },
+    {
+      "id": "fdj-united-suez-women",
+      "name": "FDJ United-Suez",
+      "sport": "cycling",
+      "league": "uci-womens-worldtour",
+      "file": "fdj-united-suez-women.json"
+    },
+    {
+      "id": "fenix-premier-tech",
+      "name": "Fenix-Premier Tech",
+      "sport": "cycling",
+      "league": "uci-womens-worldtour",
+      "file": "fenix-premier-tech.json"
+    },
+    {
+      "id": "human-powered-health-women",
+      "name": "Human Powered Health",
+      "sport": "cycling",
+      "league": "uci-womens-worldtour",
+      "file": "human-powered-health-women.json"
+    },
+    {
+      "id": "lidl-trek-women",
+      "name": "Lidl-Trek",
+      "sport": "cycling",
+      "league": "uci-womens-worldtour",
+      "file": "lidl-trek-women.json"
+    },
+    {
+      "id": "liv-alula-jayco",
+      "name": "Liv AlUla Jayco",
+      "sport": "cycling",
+      "league": "uci-womens-worldtour",
+      "file": "liv-alula-jayco.json"
+    },
+    {
+      "id": "movistar-women",
+      "name": "Movistar Team (women)",
+      "sport": "cycling",
+      "league": "uci-womens-worldtour",
+      "file": "movistar-women.json"
+    },
+    {
+      "id": "team-picnic-postnl-women",
+      "name": "Team Picnic PostNL (women)",
+      "sport": "cycling",
+      "league": "uci-womens-worldtour",
+      "file": "team-picnic-postnl-women.json"
+    },
+    {
+      "id": "team-sd-worx-protime",
+      "name": "Team SD Worx-Protime",
+      "sport": "cycling",
+      "league": "uci-womens-worldtour",
+      "file": "team-sd-worx-protime.json"
+    },
+    {
+      "id": "team-visma-lease-a-bike-women",
+      "name": "Team Visma | Lease a Bike (women)",
+      "sport": "cycling",
+      "league": "uci-womens-worldtour",
+      "file": "team-visma-lease-a-bike-women.json"
+    },
+    {
+      "id": "uae-team-limad",
+      "name": "UAE Team L'IMAD",
+      "sport": "cycling",
+      "league": "uci-womens-worldtour",
+      "file": "uae-team-limad.json"
+    },
+    {
+      "id": "uno-x-mobility-women",
+      "name": "Uno-X Mobility (women)",
+      "sport": "cycling",
+      "league": "uci-womens-worldtour",
+      "file": "uno-x-mobility-women.json"
     },
     {
       "id": "alpecin-premier-tech",
@@ -3782,6 +4062,146 @@
       "sport": "soccer",
       "league": "uefa",
       "file": "viking-fk.json"
+    },
+    {
+      "id": "alpine-endurance-team",
+      "name": "Alpine Endurance Team",
+      "sport": "motorsport",
+      "league": "wec",
+      "file": "alpine-endurance-team.json"
+    },
+    {
+      "id": "aston-martin-thor-team",
+      "name": "Aston Martin THOR Team",
+      "sport": "motorsport",
+      "league": "wec",
+      "file": "aston-martin-thor-team.json"
+    },
+    {
+      "id": "bmw-m-team-wrt",
+      "name": "BMW M Team WRT",
+      "sport": "motorsport",
+      "league": "wec",
+      "file": "bmw-m-team-wrt.json"
+    },
+    {
+      "id": "team-wrt",
+      "name": "Team WRT",
+      "sport": "motorsport",
+      "league": "wec",
+      "file": "team-wrt.json"
+    },
+    {
+      "id": "cadillac-hertz-team-jota",
+      "name": "Cadillac Hertz Team JOTA",
+      "sport": "motorsport",
+      "league": "wec",
+      "file": "cadillac-hertz-team-jota.json"
+    },
+    {
+      "id": "ferrari-af-corse",
+      "name": "Ferrari AF Corse",
+      "sport": "motorsport",
+      "league": "wec",
+      "file": "ferrari-af-corse.json"
+    },
+    {
+      "id": "af-corse",
+      "name": "AF Corse",
+      "sport": "motorsport",
+      "league": "wec",
+      "file": "af-corse.json"
+    },
+    {
+      "id": "genesis-magma-racing",
+      "name": "Genesis Magma Racing",
+      "sport": "motorsport",
+      "league": "wec",
+      "file": "genesis-magma-racing.json"
+    },
+    {
+      "id": "peugeot-totalenergies",
+      "name": "Peugeot TotalEnergies",
+      "sport": "motorsport",
+      "league": "wec",
+      "file": "peugeot-totalenergies.json"
+    },
+    {
+      "id": "toyota-racing",
+      "name": "Toyota Racing",
+      "sport": "motorsport",
+      "league": "wec",
+      "file": "toyota-racing.json"
+    },
+    {
+      "id": "heart-of-racing-team",
+      "name": "Heart of Racing Team",
+      "sport": "motorsport",
+      "league": "wec",
+      "file": "heart-of-racing-team.json"
+    },
+    {
+      "id": "tf-sport",
+      "name": "TF Sport",
+      "sport": "motorsport",
+      "league": "wec",
+      "file": "tf-sport.json"
+    },
+    {
+      "id": "racing-team-turkey-by-tf",
+      "name": "Racing Team Turkey by TF",
+      "sport": "motorsport",
+      "league": "wec",
+      "file": "racing-team-turkey-by-tf.json"
+    },
+    {
+      "id": "vista-af-corse",
+      "name": "Vista AF Corse",
+      "sport": "motorsport",
+      "league": "wec",
+      "file": "vista-af-corse.json"
+    },
+    {
+      "id": "proton-competition",
+      "name": "Proton Competition",
+      "sport": "motorsport",
+      "league": "wec",
+      "file": "proton-competition.json"
+    },
+    {
+      "id": "akkodis-asp-team",
+      "name": "Akkodis ASP Team",
+      "sport": "motorsport",
+      "league": "wec",
+      "file": "akkodis-asp-team.json"
+    },
+    {
+      "id": "garage-59",
+      "name": "Garage 59",
+      "sport": "motorsport",
+      "league": "wec",
+      "file": "garage-59.json"
+    },
+    {
+      "id": "iron-lynx",
+      "name": "Iron Lynx",
+      "sport": "motorsport",
+      "league": "wec",
+      "file": "iron-lynx.json"
+    },
+    {
+      "id": "manthey-dk-engineering",
+      "name": "Manthey DK Engineering",
+      "sport": "motorsport",
+      "league": "wec",
+      "file": "manthey-dk-engineering.json"
+    },
+    {
+      "id": "the-bend-manthey",
+      "name": "The Bend Manthey",
+      "sport": "motorsport",
+      "league": "wec",
+      "file": "the-bend-manthey.json"
     },
     {
       "id": "arsenal-w",

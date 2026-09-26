@@ -1,0 +1,28 @@
+{
+  "id": "envision-racing",
+  "team": "Envision Racing",
+  "sport": "motorsport",
+  "league": "formula-e",
+  "country": "United Kingdom",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "paysafe",
+      "name": "Paysafe",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "FIA Formula E - Paysafe Envision announcement (new Title Partner from 2026-27)",
+        "date": "2026-09-14",
+        "url": "https://www.fiaformulae.com/en/news/drivers/max-guenther-joins-forces-with-paysafe-envision-racing-for-2026-27-formula-e-season"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "uae-team-limad",
+  "team": "UAE Team L'IMAD",
+  "sport": "cycling",
+  "league": "uci-womens-worldtour",
+  "country": "United Arab Emirates",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "analog",
+      "name": "Analog",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "UAE Team L'IMAD - Main Sponsors page",
+        "date": "2026-09-25",
+        "url": "https://uaeteamlimad.com/sponsors/"
+      }
+    },
+    {
+      "id": "ihc",
+      "name": "IHC (International Holding Company)",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": "international-holding-company",
+      "owner": "International Holding Company (IHC)",
+      "verdict": null,
+      "source": {
+        "name": "UAE Team L'IMAD - Main Sponsors page",
+        "date": "2026-09-25",
+        "url": "https://uaeteamlimad.com/sponsors/"
+      }
+    },
+    {
+      "id": "limad",
+      "name": "L'IMAD",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": "limad",
+      "owner": "L'IMAD (Abu Dhabi sovereign investor, formerly ADQ)",
+      "verdict": null,
+      "source": {
+        "name": "Cyclingnews - UAE Team ADQ get new name for Tour de France Femmes and beyond (Matilda Price)",
+        "date": "2026-07-27",
+        "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/uae-team-adq-get-new-name-for-tour-de-france-femmes-and-beyond/"
+      }
+    },
+    {
+      "id": "mywhoosh",
+      "name": "MyWhoosh",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "UAE Team L'IMAD - Main Sponsors page",
+        "date": "2026-09-25",
+        "url": "https://uaeteamlimad.com/sponsors/"
+      }
+    },
+    {
+      "id": "nmdc-group",
+      "name": "NMDC Group",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "UAE Team L'IMAD - Main Sponsors page",
+        "date": "2026-09-25",
+        "url": "https://uaeteamlimad.com/sponsors/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "international-holding-company",
+    "limad"
+  ],
+  "lastUpdated": "2026-09-24"
+}

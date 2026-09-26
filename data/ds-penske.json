@@ -1,0 +1,28 @@
+{
+  "id": "ds-penske",
+  "team": "DS Penske",
+  "sport": "motorsport",
+  "league": "formula-e",
+  "country": "United States",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "ds-automobiles",
+      "name": "DS Automobiles",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "FIA Formula E - DS Penske team page (DS in team name)",
+        "date": "2026-09-25",
+        "url": "https://www.fiaformulae.com/en/teams/ds-penske"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

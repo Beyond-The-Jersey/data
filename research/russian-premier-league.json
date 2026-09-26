@@ -1,0 +1,48 @@
+{
+  "target": "russian-premier-league",
+  "issue": "https://github.com/Beyond-The-Jersey/data/issues/273",
+  "sports": [],
+  "leagues": [
+    {
+      "id": "russian-premier-league",
+      "aliases": ["rpl", "russian premier liga", "alfa-bank russian premier league", "alfa-bank russian premier liga"],
+      "sportId": "soccer",
+      "name": "Alfa-Bank Russian Premier League",
+      "country": "Russia",
+      "clubCount": 16,
+      "season": "2026-27",
+      "status": "partial",
+      "notes": [
+        "2026-27 season ran from 24 July 2026 to 29 May 2027, with a winter break after 7 December 2026 until 26 February 2027.",
+        "Named 'Alfa-Bank Russian Premier League' for sponsorship reasons since July 2026 (title sponsor Alfa-Bank).",
+        "Russian clubs have been suspended from FIFA and UEFA competitions since February 2022 following the invasion of Ukraine.",
+        "The official premierliga.ru site is behind a Yandex anti-bot CAPTCHA, so club and sponsor facts rely on club announcements and press coverage."
+      ]
+    }
+  ],
+  "clubs": [
+    {"id": "akhmat-grozny", "name": "FC Akhmat Grozny", "shortName": "Akhmat", "code": "AKH", "sportId": "soccer", "leagueId": "russian-premier-league", "country": "Russia", "crest": null, "aliases": ["akhmat", "akhmat grozny"]},
+    {"id": "akron-tolyatti", "name": "FC Akron Tolyatti", "shortName": "Akron", "code": "AKR", "sportId": "soccer", "leagueId": "russian-premier-league", "country": "Russia", "crest": null, "aliases": ["akron", "akron tolyatti"]},
+    {"id": "baltika-kaliningrad", "name": "FC Baltika Kaliningrad", "shortName": "Baltika", "code": "BAL", "sportId": "soccer", "leagueId": "russian-premier-league", "country": "Russia", "crest": null, "aliases": ["baltika", "baltika kaliningrad"]},
+    {"id": "cska-moscow", "name": "PFC CSKA Moscow", "shortName": "CSKA", "code": "CSK", "sportId": "soccer", "leagueId": "russian-premier-league", "country": "Russia", "crest": null, "aliases": ["cska", "cska moscow", "tska"]},
+    {"id": "dynamo-makhachkala", "name": "FC Dynamo Makhachkala", "shortName": "Dynamo Makhachkala", "code": "DKM", "sportId": "soccer", "leagueId": "russian-premier-league", "country": "Russia", "crest": null, "aliases": ["dinamo makhachkala", "dynamo makhachkala"]},
+    {"id": "dynamo-moscow", "name": "FC Dynamo Moscow", "shortName": "Dynamo Moscow", "code": "DYN", "sportId": "soccer", "leagueId": "russian-premier-league", "country": "Russia", "crest": null, "aliases": ["dinamo moscow", "dinamo moskva", "dynamo moscow"]},
+    {"id": "fakel-voronezh", "name": "FC Fakel Voronezh", "shortName": "Fakel", "code": "FAK", "sportId": "soccer", "leagueId": "russian-premier-league", "country": "Russia", "crest": null, "aliases": ["fakel", "fakel voronezh"]},
+    {"id": "krasnodar", "name": "FC Krasnodar", "shortName": "Krasnodar", "code": "KRA", "sportId": "soccer", "leagueId": "russian-premier-league", "country": "Russia", "crest": null, "aliases": ["fk krasnodar"]},
+    {"id": "krylia-sovetov", "name": "PFC Krylia Sovetov Samara", "shortName": "Krylia Sovetov", "code": "KRY", "sportId": "soccer", "leagueId": "russian-premier-league", "country": "Russia", "crest": null, "aliases": ["krylya sovetov", "krylia sovetov samara", "wings of the soviets"]},
+    {"id": "lokomotiv-moscow", "name": "FC Lokomotiv Moscow", "shortName": "Lokomotiv", "code": "LOK", "sportId": "soccer", "leagueId": "russian-premier-league", "country": "Russia", "crest": null, "aliases": ["loko", "lokomotiv moscow"]},
+    {"id": "orenburg", "name": "FC Orenburg", "shortName": "Orenburg", "code": "ORE", "sportId": "soccer", "leagueId": "russian-premier-league", "country": "Russia", "crest": null, "aliases": ["orenburg"]},
+    {"id": "rodina-moscow", "name": "FC Rodina Moscow", "shortName": "Rodina", "code": "ROD", "sportId": "soccer", "leagueId": "russian-premier-league", "country": "Russia", "crest": null, "aliases": ["rodina", "rodina moscow"]},
+    {"id": "rostov", "name": "FC Rostov", "shortName": "Rostov", "code": "ROS", "sportId": "soccer", "leagueId": "russian-premier-league", "country": "Russia", "crest": null, "aliases": ["rostov", "fc rostov"]},
+    {"id": "rubin-kazan", "name": "FC Rubin Kazan", "shortName": "Rubin", "code": "RUB", "sportId": "soccer", "leagueId": "russian-premier-league", "country": "Russia", "crest": null, "aliases": ["rubin", "rubin kazan"]},
+    {"id": "spartak-moscow", "name": "FC Spartak Moscow", "shortName": "Spartak", "code": "SPA", "sportId": "soccer", "leagueId": "russian-premier-league", "country": "Russia", "crest": null, "aliases": ["spartak", "spartak moscow"]},
+    {"id": "zenit-st-petersburg", "name": "FC Zenit Saint Petersburg", "shortName": "Zenit", "code": "ZEN", "sportId": "soccer", "leagueId": "russian-premier-league", "country": "Russia", "crest": null, "aliases": ["zenit", "zenit st petersburg", "zenit saint petersburg"]}
+  ],
+  "owners": [],
+  "sponsors": [],
+  "kits": [],
+  "deals": [],
+  "claims": [],
+  "proposedRatings": [],
+  "unsourced": []
+}

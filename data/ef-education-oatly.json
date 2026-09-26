@@ -1,0 +1,43 @@
+{
+  "id": "ef-education-oatly",
+  "team": "EF Education-Oatly",
+  "sport": "cycling",
+  "league": "uci-womens-worldtour",
+  "country": "United States",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "ef-education-first",
+      "name": "EF Education First",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "EF Pro Cycling - Partners page (EF Education First and Oatly logos)",
+        "date": "2026-09-25",
+        "url": "https://efprocycling.com/partners/"
+      }
+    },
+    {
+      "id": "oatly",
+      "name": "Oatly",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "EF Pro Cycling - Partners page (EF Education First and Oatly logos)",
+        "date": "2026-09-25",
+        "url": "https://efprocycling.com/partners/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

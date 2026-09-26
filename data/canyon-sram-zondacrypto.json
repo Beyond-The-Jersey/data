@@ -1,0 +1,43 @@
+{
+  "id": "canyon-sram-zondacrypto",
+  "team": "Canyon//SRAM zondacrypto",
+  "sport": "cycling",
+  "league": "uci-womens-worldtour",
+  "country": "Germany",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "canyon",
+      "name": "Canyon",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "The Inner Ring - Women's Pro Team Sponsors Explained",
+        "date": "2026-08-05",
+        "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/"
+      }
+    },
+    {
+      "id": "sram",
+      "name": "SRAM",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "The Inner Ring - Women's Pro Team Sponsors Explained",
+        "date": "2026-08-05",
+        "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

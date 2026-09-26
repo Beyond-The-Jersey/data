@@ -1,0 +1,60 @@
+{
+  "id": "liv-alula-jayco",
+  "team": "Liv AlUla Jayco",
+  "sport": "cycling",
+  "league": "uci-womens-worldtour",
+  "country": "Australia",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "alula",
+      "name": "AlUla",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": "royal-commission-for-alula",
+      "owner": "Royal Commission for AlUla (RCU)",
+      "verdict": null,
+      "source": {
+        "name": "GreenEDGE Cycling - Partners 2026 page (Experience AlUla logo, links to experiencealula.com)",
+        "date": "2026-09-25",
+        "url": "https://greenedgecycling.com/2026/2025partners/"
+      }
+    },
+    {
+      "id": "jayco",
+      "name": "Jayco",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "GreenEDGE Cycling - Partners 2026 page (Jayco logo, links to jayco.com.au)",
+        "date": "2026-09-25",
+        "url": "https://greenedgecycling.com/2026/2025partners/"
+      }
+    },
+    {
+      "id": "liv",
+      "name": "Liv",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "The Inner Ring - Women's Pro Team Sponsors Explained (Liv AlUla Jayco co-title sponsors)",
+        "date": "2026-08-05",
+        "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "royal-commission-for-alula"
+  ],
+  "lastUpdated": "2026-09-24"
+}

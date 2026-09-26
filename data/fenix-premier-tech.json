@@ -1,0 +1,45 @@
+{
+  "id": "fenix-premier-tech",
+  "team": "Fenix-Premier Tech",
+  "sport": "cycling",
+  "league": "uci-womens-worldtour",
+  "country": "Belgium",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "fenix",
+      "name": "Fenix",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": "arpa-industriale",
+      "owner": "Arpa Industriale",
+      "verdict": null,
+      "source": {
+        "name": "Cyclist - Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+        "date": "2026-07-14",
+        "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+      }
+    },
+    {
+      "id": "premier-tech",
+      "name": "Premier Tech",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Cyclist - Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+        "date": "2026-07-14",
+        "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "arpa-industriale"
+  ],
+  "lastUpdated": "2026-09-24"
+}

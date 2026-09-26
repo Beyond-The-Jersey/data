@@ -1,0 +1,28 @@
+{
+  "id": "cupra-kiro",
+  "team": "Cupra Kiro",
+  "sport": "motorsport",
+  "league": "formula-e",
+  "country": "United States",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "cupra",
+      "name": "CUPRA",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "FIA Formula E - Cupra Kiro team page (CUPRA in team name)",
+        "date": "2026-09-25",
+        "url": "https://www.fiaformulae.com/en/teams/cupra-kiro"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

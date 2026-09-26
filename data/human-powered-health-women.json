@@ -1,0 +1,30 @@
+{
+  "id": "human-powered-health-women",
+  "team": "Human Powered Health",
+  "sport": "cycling",
+  "league": "uci-womens-worldtour",
+  "country": "United States",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "human-powered-health",
+      "name": "Human Powered Health",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": "optum",
+      "owner": "Optum",
+      "verdict": null,
+      "source": {
+        "name": "The Inner Ring - Women's Pro Team Sponsors Explained",
+        "date": "2026-08-05",
+        "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "optum"
+  ],
+  "lastUpdated": "2026-09-24"
+}

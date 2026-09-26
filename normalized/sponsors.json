@@ -77,6 +77,20 @@
     "aliases": []
   },
   {
+    "id": "abb",
+    "name": "ABB",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Asea Brown Boveri"
+    ],
+    "note": "Title Partner of the ABB FIA Formula E World Championship since 2018 (fiaformulae.com/en/partners/abb, fetched 2026-09-25). Ownership not researched in this pass; ABB Ltd is a Swiss-Swedish engineering group."
+  },
+  {
     "id": "abbvie",
     "name": "AbbVie",
     "ownerId": null,
@@ -336,6 +350,32 @@
       "african export-import bank"
     ],
     "note": "BAL partner (bal.nba.com/partners; pr.nba.com 30 Jan 2026)."
+  },
+  {
+    "id": "ag-insurance",
+    "name": "AG Insurance",
+    "ownerId": "ageas",
+    "ownership": "part-owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "ag insurance - soudal"
+    ],
+    "note": "Belgian insurer founded 1824, 75% owned by Ageas, 25% by BNP Paribas Fortis; title sponsor of AG Insurance-Soudal (Cyclist, 2026-07-14)."
+  },
+  {
+    "id": "aggreko",
+    "name": "Aggreko",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official Temporary Power Provider (fiaformulae.com/en/partners, fetched 2026-09-25)."
   },
   {
     "id": "aia",
@@ -837,6 +877,20 @@
     "aliases": []
   },
   {
+    "id": "analog",
+    "name": "Analog",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "analog sports"
+    ],
+    "note": "Adaptive intelligence/technology company; official technology sponsor of UAE Team ADQ/L'IMAD. The Inner Ring (2026-08-05) says Analog is owned by G42 (normalized sponsor id g42, Mubadala-backed)."
+  },
+  {
     "id": "anheuser-busch",
     "name": "Anheuser-Busch",
     "ownerId": "anheuser-busch-owner",
@@ -862,6 +916,18 @@
     "aliases": []
   },
   {
+    "id": "antofagasta-minerals",
+    "name": "Antofagasta Minerals",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official Copper Mining Partner (fiaformulae.com/en/partners, fetched 2026-09-25)."
+  },
+  {
     "id": "apex-group",
     "name": "Apex Group",
     "ownerId": null,
@@ -885,6 +951,18 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "apple-music",
+    "name": "Apple Music",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Brand of Apple Inc. (US-listed, NASDAQ: AAPL); owner entry not yet created."
   },
   {
     "id": "aramco",
@@ -1148,6 +1226,18 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "autoliv",
+    "name": "Autoliv",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official Automotive Safety Awareness Partner (fiaformulae.com/en/partners, fetched 2026-09-25)."
   },
   {
     "id": "avery-dennison",
@@ -1867,6 +1957,20 @@
     "note": "German cooker-extractor manufacturer."
   },
   {
+    "id": "bosch",
+    "name": "Bosch",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "bosch motorsport"
+    ],
+    "note": "Series partner (fiawec.com partners page, fetched 2026-09-26). Robert Bosch GmbH is majority-held by Robert Bosch Stiftung, a charitable foundation; not verified from a primary source here."
+  },
+  {
     "id": "boulanger",
     "name": "Boulanger",
     "ownerId": null,
@@ -2085,6 +2189,18 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "canyon",
+    "name": "Canyon",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "German bike brand; title sponsor of Canyon//SRAM (Cyclist, 2026-07-14)."
   },
   {
     "id": "capital-one",
@@ -4030,6 +4146,18 @@
     "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
+    "id": "fenix",
+    "name": "Fenix",
+    "ownerId": "arpa-industriale",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Surface-material brand of Italy's Arpa Industriale; title sponsor of Fenix-Premier Tech (Cyclist, 2026-07-14)."
+  },
+  {
     "id": "fever",
     "name": "Fever",
     "ownerId": null,
@@ -4246,6 +4374,20 @@
       "ford-motor-company-record"
     ],
     "aliases": []
+  },
+  {
+    "id": "fortescue-zero",
+    "name": "Fortescue Zero",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Fortescue"
+    ],
+    "note": "Formula E Official PIT BOOST Partner and, from 2026-27, a team entrant after acquiring the Penske Formula E operation (fiaformulae.com news, 2026-09-18). Fortescue is an Australian mining group; owner chain not researched here."
   },
   {
     "id": "fortinet",
@@ -4662,6 +4804,20 @@
     "note": "Rating note: Explicitly states member-owned and not-for-profit; no state stake or serious conduct record identified."
   },
   {
+    "id": "goodyear",
+    "name": "Goodyear",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "aliases": [
+      "goodyear racing"
+    ],
+    "claimIds": [],
+    "note": "Exclusive LMGT3 tyre supplier, extended to at least 2029 (fiawec.com news, 2026-06-11) and shown as tyre partner on LMGT3 car pages. Goodyear Tire & Rubber Company is Nasdaq-listed; ownership chain not researched here."
+  },
+  {
     "id": "google",
     "name": "Google",
     "ownerId": "alphabet-inc",
@@ -4885,6 +5041,20 @@
     ],
     "aliases": [],
     "note": "Rating note: Same ultimate owner for the Williams partnership as for the McLaren deal; Hinduja Group is family-held, so no state stake."
+  },
+  {
+    "id": "hackett-sport",
+    "name": "Hackett Sport",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Hackett"
+    ],
+    "note": "Official Apparel Provider (fiaformulae.com/en/partners, fetched 2026-09-25)."
   },
   {
     "id": "hager-group",
@@ -5292,6 +5462,20 @@
     "note": "Al-Nassr main shirt sponsor from 2026/27."
   },
   {
+    "id": "human-powered-health",
+    "name": "Human Powered Health",
+    "ownerId": "optum",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "hph"
+    ],
+    "note": "US sports-science/health company; title sponsor of the Human Powered Health Women's WorldTeam. The Inner Ring (2026-08-05) describes it as a subsidiary of Optum, part of UnitedHealth Group."
+  },
+  {
     "id": "huntington-national-bank",
     "name": "Huntington National Bank (Huntington Bancshares)",
     "ownerId": "huntington-national-bank-huntington-bancshares-owner",
@@ -5439,6 +5623,20 @@
     "note": "Rating note: EQT itself is a listed Swedish PE firm, so the chain has both listed-PE and private-fund layers; ADIA's entry is minority, hence 'concern'."
   },
   {
+    "id": "ihc",
+    "name": "IHC (International Holding Company)",
+    "ownerId": "international-holding-company",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "international holding company"
+    ],
+    "note": "Abu Dhabi listed holding company; main sponsor of UAE Team L'IMAD. Reuses normalized owner id international-holding-company."
+  },
+  {
     "id": "ihg-hotels-resorts",
     "name": "IHG Hotels & Resorts",
     "ownerId": "intercontinental-hotels-group",
@@ -5570,6 +5768,18 @@
     "claimIds": [],
     "aliases": [],
     "note": "Title sponsor of the Investec South African Open Championship (event name, 2026 Race to Dubai schedule). Ownership not traced here."
+  },
+  {
+    "id": "invisalign",
+    "name": "Invisalign",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Brand of Align Technology, Inc. (US-listed, NASDAQ: ALGN); owner entry not yet created."
   },
   {
     "id": "io-sono-friuli-venezia-giulia",
@@ -6431,6 +6641,21 @@
     "note": "Insurance broker owned by Goldman Sachs since 2024; West Ham's official sleeve partner from 2026/27."
   },
   {
+    "id": "limad",
+    "name": "L'IMAD",
+    "ownerId": "limad",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "l'imad",
+      "uae team limad"
+    ],
+    "note": "Abu Dhabi sovereign wealth fund (formerly ADQ, absorbed into L'IMAD); title sponsor of UAE Team L'IMAD from 1 August 2026."
+  },
+  {
     "id": "limova-ai",
     "name": "Limova.ai",
     "ownerId": null,
@@ -6480,6 +6705,18 @@
     ],
     "aliases": [],
     "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
+  },
+  {
+    "id": "liv",
+    "name": "Liv",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Women's bike brand of Giant Bicycles; co-title sponsor of Liv AlUla Jayco (Cyclist, 2026-07-14: 'Liv Cycling is the women's arm of Giant Bicycles'; The Inner Ring, 2026-08-05). Giant's ownership not traced."
   },
   {
     "id": "loandepot",
@@ -7369,6 +7606,18 @@
     "note": "Rating note: Although Motorola Mobility is a subsidiary of Lenovo (which has partial state stake via Legend Holdings), the direct owner is Lenovo; Lenovo has concern tier due to partial state stake (Legend Holdings ~31.4%, CAS Holdings ~29.04% leading to indirect state interest ~9%). Therefore, Motorola Mobility inherits concern tier."
   },
   {
+    "id": "motul",
+    "name": "Motul",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Series partner (fiawec.com partners page, fetched 2026-09-26). Motul is a subsidiary of Integra Eco (French family group); ownership not verified from a primary source here."
+  },
+  {
     "id": "mouwasat-hospital",
     "name": "Mouwasat Hospital",
     "ownerId": null,
@@ -7456,6 +7705,18 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "mywhoosh",
+    "name": "MyWhoosh",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Indoor cycling app; main sponsor of UAE Team L'IMAD. Ownership not found."
   },
   {
     "id": "national-bank-of-bahrain",
@@ -7760,6 +8021,20 @@
     "note": "Title sponsor of the Nitto ATP Finals through 2030. Nitto Denko is a Tokyo-listed Japanese materials company (Wikipedia lead, not cited as source); ownerId left null pending a filing check."
   },
   {
+    "id": "nmdc-group",
+    "name": "NMDC Group",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "nmdc"
+    ],
+    "note": "Abu Dhabi dredging/energy EPC group; main sponsor of UAE Team L'IMAD. Ownership not verified from a primary source."
+  },
+  {
     "id": "no-bull",
     "name": "No Bull",
     "ownerId": null,
@@ -7903,6 +8178,18 @@
       "telefonica o2 uk"
     ],
     "note": "Sponsor logo shown in the englandrugby.com header ('header-sponsor-logo'); shirt placement not stated on the pages opened this pass - see unsourced."
+  },
+  {
+    "id": "oatly",
+    "name": "Oatly",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Swedish oat-drink maker listed on the New York Stock Exchange; co-title sponsor of EF Education-Oatly (Cyclist, 2026-07-14; EF partner page)."
   },
   {
     "id": "occidental-petroleum",
@@ -8238,6 +8525,20 @@
     ],
     "aliases": [],
     "note": "Rating note: Private Company company with no significant conduct issues found"
+  },
+  {
+    "id": "paysafe",
+    "name": "Paysafe",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Paysafe Limited"
+    ],
+    "note": "New Title Partner of Envision's Formula E team from 2026-27 (fiaformulae.com driver announcement, 2026-09-14). Ownership not researched in this pass."
   },
   {
     "id": "paze",
@@ -8609,6 +8910,18 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "protime",
+    "name": "Protime",
+    "ownerId": "worxinvest",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Time-registration brand belonging to the SD Worx group; co-title sponsor of Team SD Worx-Protime (Cyclist, 2026-07-14)."
   },
   {
     "id": "providence",
@@ -9661,6 +9974,18 @@
     "note": "Bicycle manufacturer; NSN bike supplier from 2026."
   },
   {
+    "id": "sd-worx",
+    "name": "SD Worx",
+    "ownerId": "worxinvest",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Belgian HR/payroll services company; title sponsor of Team SD Worx-Protime."
+  },
+  {
     "id": "seafrigo",
     "name": "Seafrigo",
     "ownerId": null,
@@ -9757,6 +10082,18 @@
     ],
     "aliases": [],
     "note": "Rating note: Select Health's own page describes integration with Intermountain Health; it also works with UCHealth in Colorado, which is a separate non-profit."
+  },
+  {
+    "id": "sennheiser",
+    "name": "Sennheiser",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official Sound Provider (fiaformulae.com/en/partners, fetched 2026-09-25)."
   },
   {
     "id": "servicenow",
@@ -10185,6 +10522,18 @@
     "aliases": []
   },
   {
+    "id": "specialized",
+    "name": "Specialized",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "US bike manufacturer; premium partner of Team SD Worx-Protime (team partners page). Not state-linked."
+  },
+  {
     "id": "spectrum",
     "name": "Spectrum (Charter Communications)",
     "ownerId": "spectrum-charter-communications-owner",
@@ -10234,6 +10583,18 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "sram",
+    "name": "SRAM",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Chicago-based component manufacturer; co-title sponsor of Canyon//SRAM (Cyclist, 2026-07-14)."
   },
   {
     "id": "staffmatch",
@@ -10438,6 +10799,18 @@
     "note": "QSR franchise chain; WSL minor partner per wslfootball.com."
   },
   {
+    "id": "suez",
+    "name": "Suez",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "French water and waste utility listed on Euronext Paris/Brussels; co-title sponsor of FDJ United-Suez (Cyclist, 2026-07-14)."
+  },
+  {
     "id": "sumup",
     "name": "SumUp",
     "ownerId": "sumup-ltd",
@@ -10623,6 +10996,18 @@
     "note": "RWC 2027 Official Supplier as LipovitanD (rugbyworldcup.com/2027/en/partners); also a Global Partner of New Zealand Rugby (allblacks.com/partners)."
   },
   {
+    "id": "taittinger",
+    "name": "Taittinger",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official Champagne (fiaformulae.com/en/partners, fetched 2026-09-25)."
+  },
+  {
     "id": "tameeni-insurance",
     "name": "Tameeni Insurance",
     "ownerId": null,
@@ -10674,6 +11059,18 @@
     "note": "Rating note: No state stake identified."
   },
   {
+    "id": "tata-communications",
+    "name": "Tata Communications",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official Broadcast Distribution Provider (fiaformulae.com/en/partners, fetched 2026-09-25). Tata Sons ownership chain not researched in this pass."
+  },
+  {
     "id": "tcl",
     "name": "TCL",
     "ownerId": null,
@@ -10683,6 +11080,20 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "tcs",
+    "name": "TCS (Tata Consultancy Services)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Tata Consultancy Services"
+    ],
+    "note": "Title/name partner in the Jaguar TCS Racing team name (fiaformulae.com team page, fetched 2026-09-25). Tata Sons ownership chain not researched in this pass."
   },
   {
     "id": "td-bank",
@@ -10697,6 +11108,18 @@
     ],
     "aliases": [],
     "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
+  },
+  {
+    "id": "tdk",
+    "name": "TDK",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official Partner (fiaformulae.com/en/partners, fetched 2026-09-25)."
   },
   {
     "id": "teamviewer",
@@ -10922,7 +11345,7 @@
     "aliases": [
       "total"
     ],
-    "note": "Title sponsor of the Qatar TotalEnergies Open (WTA 1000, Doha). Listed company: shares listed on Euronext Paris, Euronext Brussels, the LSE and since 8 Dec 2025 the NYSE; largest single shareholder is BlackRock with 6.5% of capital as of 31 Dec 2025 - no state control."
+    "note": "Existing normalized sponsor reused: series partner and title sponsor of the TotalEnergies 6 Hours of Spa-Francorchamps; Peugeot TotalEnergies carries the name as Hypercar team title sponsor. Listed company (Euronext Paris et al.), largest shareholder BlackRock, no state control."
   },
   {
     "id": "toyota",

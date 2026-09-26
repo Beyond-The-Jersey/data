@@ -85,6 +85,14 @@
     "parentId": null
   },
   {
+    "id": "ageas",
+    "name": "Ageas",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "Belgium",
+    "note": "Belgium's largest insurer, listed on Euronext Brussels; owns 75% of AG Insurance, the other 25% held by BNP Paribas Fortis (Cyclist, 2026-07-14)."
+  },
+  {
     "id": "agnelli-elkann",
     "name": "Agnelli/Elkann family",
     "type": "private-company",
@@ -284,6 +292,14 @@
     "country": "Italy",
     "note": "EA7 is Armani's sportswear line",
     "parentId": null
+  },
+  {
+    "id": "arpa-industriale",
+    "name": "Arpa Industriale",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Italy",
+    "note": "Italian manufacturer of high-pressure laminate; owner of the Fenix brand used as Fenix-Premier Tech's title sponsor (Cyclist, 2026-07-14)."
   },
   {
     "id": "asahi-group-holdings",
@@ -1292,7 +1308,8 @@
     "name": "FedEx Corporation",
     "type": "listed-company",
     "country": "USA",
-    "parentId": null
+    "parentId": null,
+    "note": "US-listed logistics company (NYSE: FDX). The corpus already has fedex-owner (FedEx LLC, listed-company); this parent-chain entry records the listed parent for the same chain. No state stake."
   },
   {
     "id": "fedex-owner",
@@ -2213,6 +2230,15 @@
     "country": "CY"
   },
   {
+    "id": "limad",
+    "name": "L'IMAD (Abu Dhabi sovereign investor, formerly ADQ)",
+    "type": "state-fund",
+    "country": "United Arab Emirates",
+    "parentId": "government-of-abu-dhabi",
+    "via": "Sovereign investor of the Government of Abu Dhabi; absorbed ADQ in 2026; chaired by Sheikh Tahnoon bin Zayed (The Inner Ring, 2026-08-05)",
+    "note": "UAE Team L'IMAD sponsor page: 'L'IMAD is a sovereign investor of the Government of Abu Dhabi.' Cyclingnews (2026-07-27): Abu Dhabi sovereign wealth fund reportedly worth about $300bn, chaired by Crown Prince Sheikh Khaled bin Mohamed bin Zayed Al Nahyan; ADQ absorbed into L'IMAD. The Inner Ring (2026-08-05) says the fund is chaired by Sheikh Tahnoon bin Zayed. Chair accounts differ between sources."
+  },
+  {
     "id": "lincoln-financial-group-owner",
     "name": "Lincoln Financial Group",
     "type": "listed-company",
@@ -2787,6 +2813,14 @@
     "parentId": null
   },
   {
+    "id": "optum",
+    "name": "Optum",
+    "type": "private-company",
+    "parentId": null,
+    "country": "United States",
+    "note": "US health-services arm of UnitedHealth Group; Human Powered Health is described as a subsidiary of Optum (The Inner Ring, 2026-08-05)."
+  },
+  {
     "id": "oracle-corporation",
     "name": "Oracle Corporation",
     "type": "listed-company",
@@ -2906,6 +2940,14 @@
     "via": "Pentland Brands",
     "note": "Pentland Group describes itself on its About Us page as 'a family business building and delivering positive brands in sports, outdoor and fashion'; Pentland Brands 'owns Speedo, Berghaus, Canterbury, Endura, ellesse, SeaVees, Red Or Dead and Mitre'. Pentland also holds 51.89% of JD Sports Fashion plc.",
     "parentId": null
+  },
+  {
+    "id": "pepsico-inc",
+    "name": "PepsiCo, Inc.",
+    "type": "listed-company",
+    "country": "USA",
+    "parentId": null,
+    "note": "US-listed snacks and beverages company (NASDAQ: PEP); owner of the Pepsi brand. No state stake. Owner record added to back the Pepsi league-partner deal; tier left for a rater."
   },
   {
     "id": "perdue-farms-owner",
@@ -4084,6 +4126,14 @@
     "type": "private-company",
     "country": "United Kingdom",
     "parentId": "dorilton"
+  },
+  {
+    "id": "worxinvest",
+    "name": "WorxInvest",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Belgium",
+    "note": "Belgian holding company started in 2018 as SD Worx's investment arm; parent of SD Worx (Cyclist, 2026-07-14)."
   },
   {
     "id": "wwk-lebensversicherung-ag",

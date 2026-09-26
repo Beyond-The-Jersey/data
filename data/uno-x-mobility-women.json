@@ -1,0 +1,28 @@
+{
+  "id": "uno-x-mobility-women",
+  "team": "Uno-X Mobility (women)",
+  "sport": "cycling",
+  "league": "uci-womens-worldtour",
+  "country": "Norway",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "uno-x",
+      "name": "Uno-X",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "The Inner Ring - Women's Pro Team Sponsors Explained",
+        "date": "2026-08-05",
+        "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

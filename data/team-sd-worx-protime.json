@@ -1,0 +1,60 @@
+{
+  "id": "team-sd-worx-protime",
+  "team": "Team SD Worx-Protime",
+  "sport": "cycling",
+  "league": "uci-womens-worldtour",
+  "country": "Netherlands",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "protime",
+      "name": "Protime",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": "worxinvest",
+      "owner": "WorxInvest",
+      "verdict": null,
+      "source": {
+        "name": "Team SD Worx-Protime - Partners page",
+        "date": "2026-09-25",
+        "url": "https://teamsdworxprotime.com/en/partners"
+      }
+    },
+    {
+      "id": "sd-worx",
+      "name": "SD Worx",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": "worxinvest",
+      "owner": "WorxInvest",
+      "verdict": null,
+      "source": {
+        "name": "Team SD Worx-Protime - Partners page ('SD Worx & Protime chose to sponsor the world's best women's cycling team')",
+        "date": "2026-09-25",
+        "url": "https://teamsdworxprotime.com/en/partners"
+      }
+    },
+    {
+      "id": "specialized",
+      "name": "Specialized",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Team SD Worx-Protime - Partners page (premium partner Specialized)",
+        "date": "2026-09-25",
+        "url": "https://teamsdworxprotime.com/en/partners"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "worxinvest"
+  ],
+  "lastUpdated": "2026-09-24"
+}

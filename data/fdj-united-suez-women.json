@@ -1,0 +1,45 @@
+{
+  "id": "fdj-united-suez-women",
+  "team": "FDJ United-Suez",
+  "sport": "cycling",
+  "league": "uci-womens-worldtour",
+  "country": "France",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "fdj",
+      "name": "FDJ United",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": "french-state",
+      "owner": "French State via APE",
+      "verdict": null,
+      "source": {
+        "name": "The Inner Ring - Women's Pro Team Sponsors Explained",
+        "date": "2026-08-05",
+        "url": "https://inrng.com/2026/08/womens-pro-team-sponsors/"
+      }
+    },
+    {
+      "id": "suez",
+      "name": "Suez",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Cyclist - Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+        "date": "2026-07-14",
+        "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "french-state"
+  ],
+  "lastUpdated": "2026-09-24"
+}

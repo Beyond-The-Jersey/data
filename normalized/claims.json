@@ -3448,6 +3448,63 @@
     "reviewed": true
   },
   {
+    "id": "wec-bapco-bahrain-record",
+    "ownerIds": [
+      "government-of-bahrain"
+    ],
+    "text": "Bapco Energies is Bahrain's national integrated oil and gas company and titles the WEC season finale, while Human Rights Watch reports that in 2026 Bahraini authorities arbitrarily arrested dozens of people, that Mohammed Almosawi died in custody with signs of torture after being forcibly disappeared, and that 67 people had their citizenship stripped.",
+    "short": "Bahrain state energy company titles the WEC finale; HRW documents 2026 arrests, a death in custody, citizenship-stripping",
+    "source": {
+      "name": "Human Rights Watch - Bahrain country page",
+      "date": "2026",
+      "url": "https://www.hrw.org/middle-east/north-africa/bahrain"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "wec-qatar-host-record",
+    "ownerIds": [
+      "government-of-qatar"
+    ],
+    "text": "The Qatar 1812km is hosted at the Lusail International Circuit with the Qatar Motor & Motorcycle Federation (QMMF), both state-linked bodies, while Amnesty International reports that Qatar's migrant workers remain exposed to exploitation despite kafala reform and that expression and assembly are tightly restricted.",
+    "short": "Qatar state bodies host the WEC season opener; Amnesty documents migrant-worker exploitation and restricted expression",
+    "source": {
+      "name": "Amnesty International - Human rights in Qatar (country report)",
+      "date": "2026-01-15",
+      "url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/qatar/report-qatar"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "wec-pif-aston-martin-ownership",
+    "ownerIds": [
+      "saudi-pif",
+      "government-of-saudi-arabia"
+    ],
+    "text": "Saudi Arabia's Public Investment Fund is the largest shareholder (19.5%) of Aston Martin Lagonda, the manufacturer behind the Aston Martin THOR Team Hypercar programme; Aston Martin denied FT reports (14 Nov 2025) that PIF would raise its stake and take the company private.",
+    "short": "PIF is Aston Martin Lagonda's largest shareholder (19.5%); takeover-denied",
+    "source": {
+      "name": "CarExpert - Aston Martin denies change of ownership plans after massive losses",
+      "date": "2025-11-19",
+      "url": "https://www.carexpert.com.au/car-news/aston-martin-denies-change-of-ownership-plans-after-massive-losses"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "wec-cyvn-mclaren-ownership",
+    "ownerIds": [
+      "cyvn"
+    ],
+    "text": "CYVN Holdings, an Abu Dhabi-based investment vehicle, completed the acquisition of McLaren Automotive and a non-controlling stake in McLaren Racing in April 2025, consolidating its UK investments under McLaren Group Holdings; CYVN's own government ownership is not stated in the announcement.",
+    "short": "Abu Dhabi's CYVN owns McLaren Automotive and holds a non-controlling McLaren Racing stake",
+    "source": {
+      "name": "McLaren Racing - McLaren Racing welcomes CYVN Holdings as non-controlling shareholder",
+      "date": "2025-04-03",
+      "url": "https://www.mclaren.com/racing/latest-news/2025/mclaren-racing-welcomes-cyvn-holdings-as-minority-shareholder/"
+    },
+    "reviewed": true
+  },
+  {
     "id": "amnesty-rwanda-sportswashing-2026",
     "ownerIds": [
       "government-of-rwanda"

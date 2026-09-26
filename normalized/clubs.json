@@ -5313,6 +5313,134 @@
     "aliases": []
   },
   {
+    "id": "andretti-formula-e",
+    "name": "Andretti Formula E",
+    "shortName": "Andretti",
+    "code": "AND",
+    "sportId": "motorsport",
+    "leagueId": "formula-e",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "Andretti Global"
+    ]
+  },
+  {
+    "id": "citroen-racing",
+    "name": "Citroen Racing",
+    "shortName": "Citroen",
+    "code": "CIT",
+    "sportId": "motorsport",
+    "leagueId": "formula-e",
+    "country": "France",
+    "crest": null,
+    "aliases": [
+      "Citroen Racing Formula E Team"
+    ]
+  },
+  {
+    "id": "cupra-kiro",
+    "name": "Cupra Kiro",
+    "shortName": "Cupra Kiro",
+    "code": "CKR",
+    "sportId": "motorsport",
+    "leagueId": "formula-e",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "Kiro Race Co"
+    ]
+  },
+  {
+    "id": "ds-penske",
+    "name": "DS Penske",
+    "shortName": "DS Penske",
+    "code": "DSP",
+    "sportId": "motorsport",
+    "leagueId": "formula-e",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "DS Automobiles Penske Formula E Team"
+    ]
+  },
+  {
+    "id": "envision-racing",
+    "name": "Envision Racing",
+    "shortName": "Envision",
+    "code": "ENV",
+    "sportId": "motorsport",
+    "leagueId": "formula-e",
+    "country": "United Kingdom",
+    "crest": null,
+    "aliases": [
+      "Envision Formula E Team",
+      "Paysafe Envision Racing"
+    ]
+  },
+  {
+    "id": "jaguar-tcs-racing",
+    "name": "Jaguar TCS Racing",
+    "shortName": "Jaguar TCS",
+    "code": "JAG",
+    "sportId": "motorsport",
+    "leagueId": "formula-e",
+    "country": "United Kingdom",
+    "crest": null,
+    "aliases": [
+      "Jaguar Racing"
+    ]
+  },
+  {
+    "id": "lola-yamaha-abt",
+    "name": "Lola Yamaha ABT Formula E Team",
+    "shortName": "Lola Yamaha ABT",
+    "code": "LYA",
+    "sportId": "motorsport",
+    "leagueId": "formula-e",
+    "country": "United Kingdom",
+    "crest": null,
+    "aliases": [
+      "Lola Cars",
+      "ABT Formula E Team"
+    ]
+  },
+  {
+    "id": "mahindra-racing",
+    "name": "Mahindra Racing",
+    "shortName": "Mahindra",
+    "code": "MAH",
+    "sportId": "motorsport",
+    "leagueId": "formula-e",
+    "country": "India",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "nissan-formula-e",
+    "name": "Nissan Formula E Team",
+    "shortName": "Nissan",
+    "code": "NIS",
+    "sportId": "motorsport",
+    "leagueId": "formula-e",
+    "country": "Japan",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "porsche-formula-e",
+    "name": "Porsche Formula E Team",
+    "shortName": "Porsche",
+    "code": "POR",
+    "sportId": "motorsport",
+    "leagueId": "formula-e",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [
+      "TAG Heuer Porsche Formula E Team"
+    ]
+  },
+  {
     "id": "mens-t20-world-cup-2026",
     "name": "ICC Men's T20 World Cup 2026",
     "shortName": "Men's T20WC 2026",
@@ -5935,6 +6063,232 @@
     ]
   },
   {
+    "id": "akhmat-grozny",
+    "name": "FC Akhmat Grozny",
+    "shortName": "Akhmat",
+    "code": "AKH",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "akhmat",
+      "akhmat grozny"
+    ]
+  },
+  {
+    "id": "akron-tolyatti",
+    "name": "FC Akron Tolyatti",
+    "shortName": "Akron",
+    "code": "AKR",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "akron",
+      "akron tolyatti"
+    ]
+  },
+  {
+    "id": "baltika-kaliningrad",
+    "name": "FC Baltika Kaliningrad",
+    "shortName": "Baltika",
+    "code": "BAL",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "baltika",
+      "baltika kaliningrad"
+    ]
+  },
+  {
+    "id": "cska-moscow",
+    "name": "PFC CSKA Moscow",
+    "shortName": "CSKA",
+    "code": "CSK",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "cska",
+      "cska moscow",
+      "tska"
+    ]
+  },
+  {
+    "id": "dynamo-makhachkala",
+    "name": "FC Dynamo Makhachkala",
+    "shortName": "Dynamo Makhachkala",
+    "code": "DKM",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "dinamo makhachkala",
+      "dynamo makhachkala"
+    ]
+  },
+  {
+    "id": "dynamo-moscow",
+    "name": "FC Dynamo Moscow",
+    "shortName": "Dynamo Moscow",
+    "code": "DYN",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "dinamo moscow",
+      "dinamo moskva",
+      "dynamo moscow"
+    ]
+  },
+  {
+    "id": "fakel-voronezh",
+    "name": "FC Fakel Voronezh",
+    "shortName": "Fakel",
+    "code": "FAK",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "fakel",
+      "fakel voronezh"
+    ]
+  },
+  {
+    "id": "krasnodar",
+    "name": "FC Krasnodar",
+    "shortName": "Krasnodar",
+    "code": "KRA",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "fk krasnodar"
+    ]
+  },
+  {
+    "id": "krylia-sovetov",
+    "name": "PFC Krylia Sovetov Samara",
+    "shortName": "Krylia Sovetov",
+    "code": "KRY",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "krylya sovetov",
+      "krylia sovetov samara",
+      "wings of the soviets"
+    ]
+  },
+  {
+    "id": "lokomotiv-moscow",
+    "name": "FC Lokomotiv Moscow",
+    "shortName": "Lokomotiv",
+    "code": "LOK",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "loko",
+      "lokomotiv moscow"
+    ]
+  },
+  {
+    "id": "orenburg",
+    "name": "FC Orenburg",
+    "shortName": "Orenburg",
+    "code": "ORE",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "orenburg"
+    ]
+  },
+  {
+    "id": "rodina-moscow",
+    "name": "FC Rodina Moscow",
+    "shortName": "Rodina",
+    "code": "ROD",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "rodina",
+      "rodina moscow"
+    ]
+  },
+  {
+    "id": "rostov",
+    "name": "FC Rostov",
+    "shortName": "Rostov",
+    "code": "ROS",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "rostov",
+      "fc rostov"
+    ]
+  },
+  {
+    "id": "rubin-kazan",
+    "name": "FC Rubin Kazan",
+    "shortName": "Rubin",
+    "code": "RUB",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "rubin",
+      "rubin kazan"
+    ]
+  },
+  {
+    "id": "spartak-moscow",
+    "name": "FC Spartak Moscow",
+    "shortName": "Spartak",
+    "code": "SPA",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "spartak",
+      "spartak moscow"
+    ]
+  },
+  {
+    "id": "zenit-st-petersburg",
+    "name": "FC Zenit Saint Petersburg",
+    "shortName": "Zenit",
+    "code": "ZEN",
+    "sportId": "soccer",
+    "leagueId": "russian-premier-league",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "zenit",
+      "zenit st petersburg",
+      "zenit saint petersburg"
+    ]
+  },
+  {
     "id": "bonds-flying-roos",
     "name": "BONDS Flying Roos SailGP Team",
     "shortName": "Flying Roos",
@@ -6378,6 +6732,200 @@
     "aliases": [
       "neom",
       "neom sc"
+    ]
+  },
+  {
+    "id": "ag-insurance-soudal-women",
+    "name": "AG Insurance-Soudal Team",
+    "shortName": "AG Insurance-Soudal",
+    "code": "AGS",
+    "sportId": "cycling",
+    "leagueId": "uci-womens-worldtour",
+    "country": "Belgium",
+    "crest": null,
+    "aliases": [
+      "ag insurance - soudal team",
+      "nxtg racing"
+    ]
+  },
+  {
+    "id": "canyon-sram-zondacrypto",
+    "name": "Canyon//SRAM zondacrypto",
+    "shortName": "Canyon//SRAM",
+    "code": "CSZ",
+    "sportId": "cycling",
+    "leagueId": "uci-womens-worldtour",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [
+      "canyon-sram",
+      "canyon//sram racing"
+    ]
+  },
+  {
+    "id": "ef-education-oatly",
+    "name": "EF Education-Oatly",
+    "shortName": "EF Education-Oatly",
+    "code": "EFO",
+    "sportId": "cycling",
+    "leagueId": "uci-womens-worldtour",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "ef education - oatly",
+      "ef-tibco-svb"
+    ]
+  },
+  {
+    "id": "fdj-united-suez-women",
+    "name": "FDJ United-Suez",
+    "shortName": "FDJ-Suez",
+    "code": "TFS",
+    "sportId": "cycling",
+    "leagueId": "uci-womens-worldtour",
+    "country": "France",
+    "crest": null,
+    "aliases": [
+      "fdj-suez",
+      "fdj nouvelle aquitaine futuroscope"
+    ]
+  },
+  {
+    "id": "fenix-premier-tech",
+    "name": "Fenix-Premier Tech",
+    "shortName": "Fenix-Premier Tech",
+    "code": "FPT",
+    "sportId": "cycling",
+    "leagueId": "uci-womens-worldtour",
+    "country": "Belgium",
+    "crest": null,
+    "aliases": [
+      "fenix-deceuninck",
+      "plantur-pura",
+      "ciclismo mundial"
+    ]
+  },
+  {
+    "id": "human-powered-health-women",
+    "name": "Human Powered Health",
+    "shortName": "HPH",
+    "code": "HPH",
+    "sportId": "cycling",
+    "leagueId": "uci-womens-worldtour",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "rally cycling",
+      "optum pro cycling"
+    ]
+  },
+  {
+    "id": "lidl-trek-women",
+    "name": "Lidl-Trek",
+    "shortName": "Lidl-Trek",
+    "code": "LTKW",
+    "sportId": "cycling",
+    "leagueId": "uci-womens-worldtour",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [
+      "trek-segafredo women",
+      "trek factory racing women"
+    ]
+  },
+  {
+    "id": "liv-alula-jayco",
+    "name": "Liv AlUla Jayco",
+    "shortName": "Liv AlUla Jayco",
+    "code": "LIV",
+    "sportId": "cycling",
+    "leagueId": "uci-womens-worldtour",
+    "country": "Australia",
+    "crest": null,
+    "aliases": [
+      "liv jayco alula",
+      "liv racing teqfind"
+    ]
+  },
+  {
+    "id": "movistar-women",
+    "name": "Movistar Team (women)",
+    "shortName": "Movistar",
+    "code": "MOVW",
+    "sportId": "cycling",
+    "leagueId": "uci-womens-worldtour",
+    "country": "Spain",
+    "crest": null,
+    "aliases": [
+      "movistar team mujeres"
+    ]
+  },
+  {
+    "id": "team-picnic-postnl-women",
+    "name": "Team Picnic PostNL (women)",
+    "shortName": "Picnic PostNL",
+    "code": "TPPW",
+    "sportId": "cycling",
+    "leagueId": "uci-womens-worldtour",
+    "country": "Netherlands",
+    "crest": null,
+    "aliases": [
+      "team dsm",
+      "dsm-firmenich women"
+    ]
+  },
+  {
+    "id": "team-sd-worx-protime",
+    "name": "Team SD Worx-Protime",
+    "shortName": "SD Worx-Protime",
+    "code": "SDW",
+    "sportId": "cycling",
+    "leagueId": "uci-womens-worldtour",
+    "country": "Netherlands",
+    "crest": null,
+    "aliases": [
+      "boels-dolmans",
+      "dolmans-landscaping"
+    ]
+  },
+  {
+    "id": "team-visma-lease-a-bike-women",
+    "name": "Team Visma | Lease a Bike (women)",
+    "shortName": "Visma-Lease a Bike",
+    "code": "TVLW",
+    "sportId": "cycling",
+    "leagueId": "uci-womens-worldtour",
+    "country": "Netherlands",
+    "crest": null,
+    "aliases": [
+      "jumbo-visma women"
+    ]
+  },
+  {
+    "id": "uae-team-limad",
+    "name": "UAE Team L'IMAD",
+    "shortName": "UAE Team L'IMAD",
+    "code": "UADW",
+    "sportId": "cycling",
+    "leagueId": "uci-womens-worldtour",
+    "country": "United Arab Emirates",
+    "crest": null,
+    "aliases": [
+      "uae team adq",
+      "ale-btc ljubljana"
+    ]
+  },
+  {
+    "id": "uno-x-mobility-women",
+    "name": "Uno-X Mobility (women)",
+    "shortName": "Uno-X",
+    "code": "UXMW",
+    "sportId": "cycling",
+    "leagueId": "uci-womens-worldtour",
+    "country": "Norway",
+    "crest": null,
+    "aliases": [
+      "uno-x mobility women"
     ]
   },
   {
@@ -6872,6 +7420,261 @@
       "viking stavanger"
     ],
     "hasTeamPageDesign": false
+  },
+  {
+    "id": "alpine-endurance-team",
+    "name": "Alpine Endurance Team",
+    "shortName": "Alpine",
+    "code": "ALE",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "France",
+    "crest": null,
+    "aliases": [
+      "signatech",
+      "alpine a424"
+    ]
+  },
+  {
+    "id": "aston-martin-thor-team",
+    "name": "Aston Martin THOR Team",
+    "shortName": "Aston Martin THOR",
+    "code": "AST",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "United Kingdom",
+    "crest": null,
+    "aliases": [
+      "aston martin valkyrie",
+      "thor team"
+    ]
+  },
+  {
+    "id": "bmw-m-team-wrt",
+    "name": "BMW M Team WRT",
+    "shortName": "BMW M WRT",
+    "code": "BMW",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "Belgium",
+    "crest": null,
+    "aliases": [
+      "team wrt bmw",
+      "wrt"
+    ]
+  },
+  {
+    "id": "team-wrt",
+    "name": "Team WRT",
+    "shortName": "WRT",
+    "code": "WRT",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "Belgium",
+    "crest": null,
+    "aliases": [
+      "w racing team"
+    ]
+  },
+  {
+    "id": "cadillac-hertz-team-jota",
+    "name": "Cadillac Hertz Team JOTA",
+    "shortName": "Cadillac JOTA",
+    "code": "CDJ",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "United Kingdom",
+    "crest": null,
+    "aliases": [
+      "jota sport",
+      "cadillac jota"
+    ]
+  },
+  {
+    "id": "ferrari-af-corse",
+    "name": "Ferrari AF Corse",
+    "shortName": "Ferrari AF Corse",
+    "code": "FER",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "Italy",
+    "crest": null,
+    "aliases": [
+      "ferrari hypercar",
+      "af corse ferrari"
+    ]
+  },
+  {
+    "id": "af-corse",
+    "name": "AF Corse",
+    "shortName": "AF Corse",
+    "code": "AFC",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "Italy",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "genesis-magma-racing",
+    "name": "Genesis Magma Racing",
+    "shortName": "Genesis Magma",
+    "code": "GEN",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "South Korea",
+    "crest": null,
+    "aliases": [
+      "genesis hypercar"
+    ]
+  },
+  {
+    "id": "peugeot-totalenergies",
+    "name": "Peugeot TotalEnergies",
+    "shortName": "Peugeot",
+    "code": "PEU",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "France",
+    "crest": null,
+    "aliases": [
+      "peugeot sport",
+      "peugeot 9x8"
+    ]
+  },
+  {
+    "id": "toyota-racing",
+    "name": "Toyota Racing",
+    "shortName": "Toyota",
+    "code": "TOY",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "Japan",
+    "crest": null,
+    "aliases": [
+      "toyota gazoo racing",
+      "toyota gr racing"
+    ]
+  },
+  {
+    "id": "heart-of-racing-team",
+    "name": "Heart of Racing Team",
+    "shortName": "Heart of Racing",
+    "code": "HOR",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "United States",
+    "crest": null,
+    "aliases": [
+      "heart of racing"
+    ]
+  },
+  {
+    "id": "tf-sport",
+    "name": "TF Sport",
+    "shortName": "TF Sport",
+    "code": "TFS",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "United Kingdom",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "racing-team-turkey-by-tf",
+    "name": "Racing Team Turkey by TF",
+    "shortName": "Racing Team Turkey",
+    "code": "RTT",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "Turkey",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "vista-af-corse",
+    "name": "Vista AF Corse",
+    "shortName": "Vista AF Corse",
+    "code": "VAC",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "Italy",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "proton-competition",
+    "name": "Proton Competition",
+    "shortName": "Proton",
+    "code": "PRO",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "Germany",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "akkodis-asp-team",
+    "name": "Akkodis ASP Team",
+    "shortName": "Akkodis ASP",
+    "code": "AKK",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "France",
+    "crest": null,
+    "aliases": [
+      "akka asp"
+    ]
+  },
+  {
+    "id": "garage-59",
+    "name": "Garage 59",
+    "shortName": "Garage 59",
+    "code": "G59",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "United Kingdom",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "iron-lynx",
+    "name": "Iron Lynx",
+    "shortName": "Iron Lynx",
+    "code": "IRL",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "Italy",
+    "crest": null,
+    "aliases": [
+      "iron dames"
+    ]
+  },
+  {
+    "id": "manthey-dk-engineering",
+    "name": "Manthey DK Engineering",
+    "shortName": "Manthey DK",
+    "code": "MDK",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "Germany",
+    "crest": null,
+    "aliases": [
+      "manthey racing"
+    ]
+  },
+  {
+    "id": "the-bend-manthey",
+    "name": "The Bend Manthey",
+    "shortName": "The Bend Manthey",
+    "code": "TBM",
+    "sportId": "motorsport",
+    "leagueId": "wec",
+    "country": "Australia",
+    "crest": null,
+    "aliases": [
+      "manthey the bend"
+    ]
   },
   {
     "id": "arsenal-w",
