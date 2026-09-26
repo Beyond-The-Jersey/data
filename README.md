@@ -16,7 +16,7 @@ flowchart TB
     B --> D["review agent<br/>opens each source, comments on accuracy"]
     C --> E{"A maintainer<br/>approves and merges"}
     D --> E
-    E --> F["release workflow<br/>publishes a release: JSON, CSV, zip"]
+    E --> F["release workflow, when records change<br/>publishes a release: JSON, CSV, zip"]
   end
   F --> G["Journalists, researchers, anyone:<br/>download the release"]
   subgraph web["Beyond-The-Jersey/website"]
@@ -84,7 +84,7 @@ Every pull request:
 - is read by a review agent that compares each claim with its source;
 - is merged only after a person approves it.
 
-After a merge, a new release is published, and the website picks it up through its own pull request ([How it works](#how-it-works)).
+After a merge that changes records, a new release is published, and the website picks it up through its own pull request ([How it works](#how-it-works)).
 
 ## What's in this repository
 
