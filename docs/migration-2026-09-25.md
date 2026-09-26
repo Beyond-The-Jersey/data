@@ -950,3 +950,10 @@
 - leagues/formula-1: not-started → partial (10 of 11 rated)
 - leagues/mlb: not-started → partial (21 of 30 rated)
 
+
+## After the first CI run
+
+- **339 claims: `reviewed` set to `false`.** The old builder set `reviewed: true` on every claim, but no person had checked any of them against their source (the handover seed itself has `reviewed: false`). METHOD.md now says `true` means a person checked it. The website doesn't use this field yet.
+- **Two links to domains that don't exist removed** (the source stays):
+  - claims/amica-mutual-insurance-owner-record: https://www.amicamutualinsurancecompany.com/about-us
+  - deals/newcastle-united-visit-saudi: https://www.visitvisitsaudi.com/
