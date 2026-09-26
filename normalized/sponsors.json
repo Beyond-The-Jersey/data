@@ -1764,6 +1764,21 @@
     "aliases": []
   },
   {
+    "id": "bfgoodrich",
+    "name": "BFGoodrich",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "BF Goodrich",
+      "BFGoodrich Tires"
+    ],
+    "note": "Official tyre supplier of the Dakar since 2002 with 20 outright wins per dakar.com; a Michelin brand. Its Dakar page links to mena.bfgoodrich.com."
+  },
+  {
     "id": "bianchi",
     "name": "Bianchi",
     "ownerId": null,
@@ -3084,6 +3099,20 @@
     "note": "Rating note: US SEC investigation into revenue/accounting and a US money-laundering lawsuit have been reported, but these are company-level regulatory matters, not a state-ownership link, so tier stays none. No parent company above Deel, Inc."
   },
   {
+    "id": "defender",
+    "name": "Defender (Land Rover)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Land Rover Defender"
+    ],
+    "note": "Official Dakar partner per dakar.com; Land Rover Defender brand (JLR, owned by Tata Motors)."
+  },
+  {
     "id": "deghi",
     "name": "DEGHI",
     "ownerId": "deghi",
@@ -3357,6 +3386,20 @@
     "claimIds": [],
     "aliases": [],
     "note": "Owner of Diriyah Club."
+  },
+  {
+    "id": "diverse-extreme-team",
+    "name": "Diverse Extreme Team",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Diverse"
+    ],
+    "note": "Polish clothing brand, official technical partner of the Dakar since 2020, makes the official Dakar collection per dakar.com."
   },
   {
     "id": "divina-seguros",
@@ -6189,6 +6232,20 @@
     "note": "Partner of NorthStar Canada (SailGP press release, 2024)."
   },
   {
+    "id": "kahoot",
+    "name": "Kahoot!",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Kahoot"
+    ],
+    "note": "Official Dakar supporter per dakar.com; learning platform with a dedicated Dakar quiz channel."
+  },
+  {
     "id": "kaleida-health",
     "name": "Kaleida Health",
     "ownerId": "kaleida-health-owner",
@@ -7432,6 +7489,21 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "ministry-of-sport",
+    "name": "Saudi Ministry of Sport",
+    "ownerId": "ministry-of-sport",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Ministry of Sport (Saudi Arabia)",
+      "MOS"
+    ],
+    "note": "Government ministry supervising the Dakar Rally; institutional partner on dakar.com (mos.gov.sa link, which did not load on 25 Sep 2026)."
   },
   {
     "id": "mip",
@@ -9840,6 +9912,21 @@
     "note": "Rating note: No sovereign wealth stake."
   },
   {
+    "id": "samf",
+    "name": "Saudi Automobile and Motorcycle Federation (SAMF)",
+    "ownerId": "samf",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "SAMF",
+      "Saudi Arabian Motor Federation"
+    ],
+    "note": "Institutional partner on dakar.com (samf.gov.sa); cooperating federation for the Saudi-era Dakar."
+  },
+  {
     "id": "samruk-kazyna",
     "name": "Samruk-Kazyna",
     "ownerId": "samruk-kazyna",
@@ -9955,6 +10042,20 @@
     "claimIds": [],
     "aliases": [],
     "note": "Al-Ahli front-of-shirt sponsor."
+  },
+  {
+    "id": "saudi-motorsport-company",
+    "name": "Saudi Motorsport Company (SMC)",
+    "ownerId": "saudi-motorsport-company",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "SMC"
+    ],
+    "note": "Saudi co-organiser of the Dakar; founded 2021, operates under SAMF and the Ministry of Sport, chaired by Prince Khalid bin Sultan Al-Abdullah Al-Faisal (saudimotorsport.com)."
   },
   {
     "id": "saudi-national-bank",
@@ -12289,6 +12390,20 @@
     ],
     "aliases": [],
     "note": "Rating note: Private Company company with no significant conduct issues found"
+  },
+  {
+    "id": "wega",
+    "name": "Wega",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "WEGA"
+    ],
+    "note": "Argentine filter brand (R. Neto S.A.), 'official filter of the most extreme race in the world' per dakar.com."
   },
   {
     "id": "wilson",

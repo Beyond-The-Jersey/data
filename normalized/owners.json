@@ -207,6 +207,14 @@
     "parentId": null
   },
   {
+    "id": "amaury-group",
+    "name": "Amaury Group (Groupe Amaury / EPIC Editions Philippe Amaury)",
+    "type": "private-company",
+    "country": "France",
+    "note": "Family-owned French media and sport group that owns L'Equipe; Marie-Odile Amaury holds a majority and Aurore Amaury is CEO.",
+    "parentId": null
+  },
+  {
     "id": "amazon-com-inc",
     "name": "Amazon.com, Inc.",
     "type": "listed-company",
@@ -338,6 +346,15 @@
     "parentId": null,
     "note": "jersey patch partner of indianapolis-colts (2026-27).",
     "country": "USA"
+  },
+  {
+    "id": "aso",
+    "name": "Amaury Sport Organisation (ASO)",
+    "type": "private-company",
+    "country": "France",
+    "via": "Amaury Group",
+    "note": "Wholly owned subsidiary of the Amaury Group per ASO's own privacy policy; owns and organises the Dakar Rally, the Tour de France and about 100 events a year. Registered in Boulogne-Billancourt (SIREN 383 160 348, French company registry).",
+    "parentId": "amaury-group"
   },
   {
     "id": "aspetar",
@@ -2589,6 +2606,14 @@
     "country": "China"
   },
   {
+    "id": "ministry-of-sport",
+    "name": "Saudi Ministry of Sport",
+    "type": "state",
+    "country": "Saudi Arabia",
+    "note": "Government ministry formed 25 Feb 2020, led by Prince Abdulaziz bin Turki Al-Faisal; supervises the Dakar Rally (Arab News, 6 May 2026: route launched 'under the supervision of the Ministry of Sport').",
+    "parentId": "government-of-saudi-arabia"
+  },
+  {
     "id": "mk-sports-news",
     "name": "mk体育 / MKSPORTS News (mktynews.com)",
     "type": "unknown",
@@ -3426,6 +3451,15 @@
     "country": "United States"
   },
   {
+    "id": "samf",
+    "name": "Saudi Automobile and Motorcycle Federation (SAMF)",
+    "type": "private-company",
+    "country": "Saudi Arabia",
+    "via": "state-supervised national federation",
+    "note": "The FIA-affiliated national motorsport federation, chaired by Prince Khalid bin Sultan Al-Abdullah Al-Faisal; cooperates on the Dakar and supervises SMC.",
+    "parentId": "government-of-saudi-arabia"
+  },
+  {
     "id": "samruk-kazyna",
     "name": "Samruk-Kazyna (Kazakhstan sovereign wealth fund)",
     "type": "state-fund",
@@ -3452,6 +3486,15 @@
     "type": "state",
     "country": "Saudi Arabia",
     "parentId": null
+  },
+  {
+    "id": "saudi-motorsport-company",
+    "name": "Saudi Motorsport Company (SMC)",
+    "type": "private-company",
+    "country": "Saudi Arabia",
+    "via": "operates under SAMF and the Ministry of Sport",
+    "note": "Founded 2021 as the dedicated entity for promoting and operating motorsport in Saudi Arabia in line with Vision 2030; chaired by HRH Prince Khalid bin Sultan Al-Abdullah Al-Faisal, who also chairs SAMF. Its own site says it operates under SAMF and the Ministry of Sport, so the state link is direct.",
+    "parentId": "government-of-saudi-arabia"
   },
   {
     "id": "saudi-national-bank",

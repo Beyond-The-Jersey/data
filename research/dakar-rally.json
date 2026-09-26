@@ -77,21 +77,6 @@
  ],
  "sponsors": [
   {
-   "id": "aso",
-   "name": "Amaury Sport Organisation (ASO)",
-   "ownerId": "aso",
-   "ownership": "owned",
-   "tier": "unrated",
-   "status": "unrated",
-   "verdict": null,
-   "claimIds": [],
-   "aliases": [
-    "A.S.O.",
-    "Amaury Sport Organisation"
-   ],
-   "note": "French organiser and owner of the Dakar Rally; listed as an institutional partner on dakar.com. Host-fee income from Saudi Arabia is not published."
-  },
-  {
    "id": "saudi-motorsport-company",
    "name": "Saudi Motorsport Company (SMC)",
    "ownerId": "saudi-motorsport-company",
@@ -149,18 +134,6 @@
     "BFGoodrich Tires"
    ],
    "note": "Official tyre supplier of the Dakar since 2002 with 20 outright wins per dakar.com; a Michelin brand. Its Dakar page links to mena.bfgoodrich.com."
-  },
-  {
-   "id": "motul",
-   "name": "Motul",
-   "ownerId": null,
-   "ownership": null,
-   "tier": "unrated",
-   "status": "unrated",
-   "verdict": null,
-   "claimIds": [],
-   "aliases": [],
-   "note": "Lubricant specialist, a major/official Dakar partner since 2018 per dakar.com; runs the Motul Racing Laboratory service and backs 'Original by Motul' riders."
   },
   {
    "id": "defender",
@@ -520,6 +493,7 @@
   "RISK: Dakar 2027 (1-15 Jan) is still scheduled and ASO called cancellation rumours 'unfounded' as of 21 Sep 2026 (per target notes; Visordown article URL could not be located to cite - 404), but the regional security situation is worsening (Houthi missile/attack coverage, Al Jazeera 24-26 Sep 2026) and the WRC's Rally Saudi Arabia (Jeddah, 12-15 Nov 2026) was cancelled and not replaced after Toyota and Hyundai travel bans (Autosport https://www.autosport.com/wrc/news/wrc-cancels-saudi-arabia-finale/10856625/; The Independent via Yahoo https://sports.yahoo.com/articles/fia-cancels-saudi-arabia-race-100728397.html, 21 Sep 2026). Re-check Dakar status before publishing.",
   "Ownership detail not verifiable from primary documents: Saudi Motorsport Company's corporate ownership is not published; only its operating-under-SAMF/Ministry-of-Sport governance (saudimotorsport.com) and chairman Prince Khalid bin Sultan Al-Abdullah Al-Faisal are sourced, so the parentId to the state rests on that governance statement.",
   "Motul ownership (private French lubricant group) and Kahoot! ownership (taken private in 2023) were not researched to primary filings; both left ownerId null.",
-  "Mos.gov.sa (Ministry of Sport site) was unreachable on 25 Sep 2026 (connection refused/timeout from this machine); its institutional-partner role is cited via the dakar.com partners page and Arab News instead."
+  "Mos.gov.sa (Ministry of Sport site) was unreachable on 25 Sep 2026 (connection refused/timeout from this machine); its institutional-partner role is cited via the dakar.com partners page and Arab News instead.",
+  "ASO (Amaury Sport Organisation) record dropped: it is the Dakar's owner/organiser, not a sponsor — the Saudi host-fee relationship is in the event notes."
  ]
 }

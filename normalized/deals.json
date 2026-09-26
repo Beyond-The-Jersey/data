@@ -2047,6 +2047,222 @@
     "note": "URSAPHARM (brand HYLO) since 1990 to 2029; estimated EUR3-5m; also URSAPHARM Arena naming rights."
   },
   {
+    "id": "dakar-host-country-saudi",
+    "clubId": null,
+    "orgName": "Dakar Rally (ASO)",
+    "sponsorId": "visit-saudi",
+    "placement": "league-partner",
+    "from": "2020",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "dakar.com - Partners (Host country: Saudi Arabia)",
+      "date": "2026-09-25",
+      "url": "https://www.dakar.com/en/dakar-world/partners",
+      "note": "dakar.com lists 'Host country: Saudi Arabia' with a link to visitsaudi.com, the Visit Saudi tourism platform. Human Rights Watch (3 Jan 2020) described a five-year deal between ASO and the Saudi government for the 2020 edition."
+    },
+    "leagueId": "dakar-rally",
+    "note": "Host-country partnership since the 2020 Saudi debut; the country is in the event title ('Dakar Rally Saudi Arabia 2027'). Host fee not published. Castera (Motorsport.com es, 4 Jun 2023): rally to stay in Saudi Arabia until at least 2029."
+  },
+  {
+    "id": "dakar-smc-organiser",
+    "clubId": null,
+    "orgName": "Dakar Rally (ASO / Saudi Motorsport Company)",
+    "sponsorId": "saudi-motorsport-company",
+    "placement": "league-partner",
+    "from": "2020",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Arab News - Dakar Rally Saudi Arabia 2027 route unveiled",
+      "date": "2026-05-06",
+      "url": "https://www.arabnews.com/node/2642518/sport",
+      "note": "Route launched by Saudi Motorsport Co. and ASO in cooperation with SAMF under the supervision of the Ministry of Sport; start and finish at King Abdullah Economic City, 1-15 Jan 2027."
+    },
+    "leagueId": "dakar-rally",
+    "note": "Co-organiser and host-side operator; institutional partner on dakar.com (saudimotorsport.com). SMC founded 2021, chaired by Prince Khalid bin Sultan Al-Abdullah Al-Faisal."
+  },
+  {
+    "id": "dakar-ministry-of-sport",
+    "clubId": null,
+    "orgName": "Dakar Rally (ASO / Saudi Motorsport Company)",
+    "sponsorId": "ministry-of-sport",
+    "placement": "league-partner",
+    "from": "2020",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Arab News - Dakar Rally Saudi Arabia 2027 route unveiled",
+      "date": "2026-05-06",
+      "url": "https://www.arabnews.com/node/2642518/sport",
+      "note": "Route launch 'under the supervision of the Ministry of Sport'. dakar.com partners page lists the Ministry of Sport (mos.gov.sa) as an institutional partner; mos.gov.sa did not load on 25 Sep 2026."
+    },
+    "leagueId": "dakar-rally",
+    "note": "State supervision of the event; the ministry is headed by Prince Abdulaziz bin Turki Al-Faisal."
+  },
+  {
+    "id": "dakar-samf-institutional",
+    "clubId": null,
+    "orgName": "Dakar Rally (ASO / Saudi Motorsport Company)",
+    "sponsorId": "samf",
+    "placement": "league-partner",
+    "from": "2020",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "dakar.com - Partners (Institutional Partners)",
+      "date": "2026-09-25",
+      "url": "https://www.dakar.com/en/dakar-world/partners",
+      "note": "SAMF (samf.gov.sa) listed under Institutional Partners; Arab News confirms the federation cooperates on the Saudi Dakar."
+    },
+    "leagueId": "dakar-rally",
+    "note": "Cooperating national federation."
+  },
+  {
+    "id": "dakar-bfgoodrich",
+    "clubId": null,
+    "orgName": "Dakar Rally (ASO)",
+    "sponsorId": "bfgoodrich",
+    "placement": "league-partner",
+    "from": "2002",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "dakar.com - Partners (Official Partners: BFGoodrich)",
+      "date": "2026-09-25",
+      "url": "https://www.dakar.com/en/dakar-world/partners",
+      "note": "'Since 2002, BFGoodrich has won every Dakar Rally it has entered... 20 outright victories... named the official tire supplier.'"
+    },
+    "leagueId": "dakar-rally",
+    "note": "Official tyre supplier; a Michelin brand."
+  },
+  {
+    "id": "dakar-motul",
+    "clubId": null,
+    "orgName": "Dakar Rally (ASO)",
+    "sponsorId": "motul",
+    "placement": "league-partner",
+    "from": "2018",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "dakar.com - Partners (Official Partners: Motul)",
+      "date": "2026-09-25",
+      "url": "https://www.dakar.com/en/dakar-world/partners",
+      "note": "'The international lubricant specialist stepped up in 2018 to become a Major Partner of the event.' Runs the Motul Racing Laboratory and supports 'Original by Motul' riders."
+    },
+    "leagueId": "dakar-rally",
+    "note": "Official partner; also a technical partner of factory teams."
+  },
+  {
+    "id": "dakar-defender",
+    "clubId": null,
+    "orgName": "Dakar Rally (ASO)",
+    "sponsorId": "defender",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "dakar.com - Partners (Official Partners: Defender)",
+      "date": "2026-09-25",
+      "url": "https://www.dakar.com/en/dakar-world/partners",
+      "note": "Defender (Land Rover) listed as an Official Partner, linking to landrover.com/defender."
+    },
+    "leagueId": "dakar-rally",
+    "note": "Land Rover brand; JLR is owned by Tata Motors."
+  },
+  {
+    "id": "dakar-hero-motocorp",
+    "clubId": null,
+    "orgName": "Dakar Rally (ASO)",
+    "sponsorId": "hero-motocorp",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "dakar.com - Partners (Official Partners: Hero)",
+      "date": "2026-09-25",
+      "url": "https://www.dakar.com/en/dakar-world/partners",
+      "note": "Hero MotoCorp listed as an Official Partner (heromotocorp.com)."
+    },
+    "leagueId": "dakar-rally",
+    "note": "Existing sponsor id hero-motocorp reused."
+  },
+  {
+    "id": "dakar-tudor",
+    "clubId": null,
+    "orgName": "Dakar Rally (ASO)",
+    "sponsorId": "tudor",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "dakar.com - Partners (Official Timekeeper: TUDOR)",
+      "date": "2026-09-25",
+      "url": "https://www.dakar.com/en/dakar-world/partners",
+      "note": "TUDOR listed as Official Timekeeper."
+    },
+    "leagueId": "dakar-rally",
+    "note": "Existing sponsor id tudor reused (Rolex-owned)."
+  },
+  {
+    "id": "dakar-diverse-extreme",
+    "clubId": null,
+    "orgName": "Dakar Rally (ASO)",
+    "sponsorId": "diverse-extreme-team",
+    "placement": "league-partner",
+    "from": "2020",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "dakar.com - Partners (Technical Partners: Diverse Extreme Team)",
+      "date": "2026-09-25",
+      "url": "https://www.dakar.com/en/dakar-world/partners",
+      "note": "'Since 2020, as the official technical partner of the Dakar Rally, the brand has provided high-performance clothing.'"
+    },
+    "leagueId": "dakar-rally",
+    "note": "Technical partner and official Dakar collection licencee."
+  },
+  {
+    "id": "dakar-wega",
+    "clubId": null,
+    "orgName": "Dakar Rally (ASO)",
+    "sponsorId": "wega",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "dakar.com - Partners (Technical Partners: Wega)",
+      "date": "2026-09-25",
+      "url": "https://www.dakar.com/en/dakar-world/partners",
+      "note": "WEGA 'takes part in the Dakar Rally, as the official filter of the most extreme race in the world'."
+    },
+    "leagueId": "dakar-rally",
+    "note": "Argentine filter manufacturer (R. Neto S.A.)."
+  },
+  {
+    "id": "dakar-kahoot",
+    "clubId": null,
+    "orgName": "Dakar Rally (ASO)",
+    "sponsorId": "kahoot",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "dakar.com - Partners (Official Supporters: Kahoot!)",
+      "date": "2026-09-25",
+      "url": "https://www.dakar.com/en/dakar-world/partners",
+      "note": "'With Kahoot!, play & learn with Dakar!... partner with Dakar' with a dedicated Dakar quiz channel."
+    },
+    "leagueId": "dakar-rally",
+    "note": "Official supporter."
+  },
+  {
     "id": "dp-world-tour-dp-world",
     "clubId": null,
     "orgName": "DP World Tour",
