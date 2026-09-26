@@ -1,0 +1,28 @@
+{
+  "id": "amur-khabarovsk",
+  "team": "Amur Khabarovsk",
+  "sport": "ice-hockey",
+  "league": "khl",
+  "country": "Russia",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "olimpbet",
+      "name": "Olimpbet",
+      "placement": "partner",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "HC Amur official site",
+        "date": "2026-09-25",
+        "url": "https://hcamur.ru/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

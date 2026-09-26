@@ -1,0 +1,43 @@
+{
+  "id": "cska-moscow-hockey",
+  "team": "HC CSKA Moscow",
+  "sport": "ice-hockey",
+  "league": "khl",
+  "country": "Russia",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "olimpbet",
+      "name": "Olimpbet",
+      "placement": "partner",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "HC CSKA Moscow official site, partners page",
+        "date": "2026-09-25",
+        "url": "https://cska-hockey.ru/club/partners/"
+      }
+    },
+    {
+      "id": "rosneft",
+      "name": "Rosneft",
+      "placement": "partner",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "HC CSKA Moscow official site, partners page",
+        "date": "2026-09-25",
+        "url": "https://cska-hockey.ru/club/partners/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

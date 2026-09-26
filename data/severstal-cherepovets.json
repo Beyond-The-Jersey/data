@@ -1,0 +1,58 @@
+{
+  "id": "severstal-cherepovets",
+  "team": "Severstal Cherepovets",
+  "sport": "ice-hockey",
+  "league": "khl",
+  "country": "Russia",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "olimpbet",
+      "name": "Olimpbet",
+      "placement": "partner",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "HC Severstal official site",
+        "date": "2026-09-25",
+        "url": "https://www.severstalclub.ru/"
+      }
+    },
+    {
+      "id": "severstal",
+      "name": "Severstal",
+      "placement": "partner",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "HC Severstal official site",
+        "date": "2026-09-25",
+        "url": "https://www.severstalclub.ru/"
+      }
+    },
+    {
+      "id": "sovcombank",
+      "name": "Sovcombank",
+      "placement": "partner",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "HC Severstal official site",
+        "date": "2026-09-25",
+        "url": "https://www.severstalclub.ru/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

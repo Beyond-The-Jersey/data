@@ -1,0 +1,28 @@
+{
+  "id": "lada-tolyatti",
+  "team": "Lada Tolyatti",
+  "sport": "ice-hockey",
+  "league": "khl",
+  "country": "Russia",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "avtovaz",
+      "name": "AvtoVAZ (LADA)",
+      "placement": "partner",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "HC Lada official site, club partners page",
+        "date": "2026-09-25",
+        "url": "https://hclada.ru/club/partners/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

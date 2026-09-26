@@ -1,0 +1,30 @@
+{
+  "id": "barys-astana",
+  "team": "Barys Astana",
+  "sport": "ice-hockey",
+  "league": "khl",
+  "country": "Kazakhstan",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "samruk-kazyna",
+      "name": "Samruk-Kazyna",
+      "placement": "partner",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "samruk-kazyna",
+      "owner": "Samruk-Kazyna (Kazakhstan sovereign wealth fund)",
+      "verdict": null,
+      "source": {
+        "name": "HC Barys official site, partnership page",
+        "date": "2026-09-25",
+        "url": "https://hcbarys.kz/club/partnership/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "samruk-kazyna"
+  ],
+  "lastUpdated": "2026-09-24"
+}

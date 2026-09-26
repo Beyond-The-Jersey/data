@@ -1,0 +1,43 @@
+{
+  "id": "spartak-moscow-hockey",
+  "team": "HC Spartak Moscow",
+  "sport": "ice-hockey",
+  "league": "khl",
+  "country": "Russia",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "komus",
+      "name": "Komus",
+      "placement": "partner",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Spartak club site, sponsors and partners page",
+        "date": "2026-09-25",
+        "url": "https://spartak.ru/club/sponsory-i-partnery/"
+      }
+    },
+    {
+      "id": "olimpbet",
+      "name": "Olimpbet",
+      "placement": "partner",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Spartak club site, sponsors and partners page",
+        "date": "2026-09-25",
+        "url": "https://spartak.ru/club/sponsory-i-partnery/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

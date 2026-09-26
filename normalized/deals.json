@@ -5108,6 +5108,176 @@
     }
   },
   {
+    "id": "khl-fonbet",
+    "clubId": null,
+    "orgName": "Kontinental Hockey League (KHL)",
+    "sponsorId": "fonbet",
+    "placement": "league-partner",
+    "from": null,
+    "to": "2027-28",
+    "value": null,
+    "source": {
+      "name": "KHL.ru, league thank-you to 2025/26 partners",
+      "date": "2026-05-29",
+      "url": "https://www.khl.ru/news/2026/05/29/562872.html"
+    },
+    "leagueId": "khl",
+    "note": "Title partner; the league championship is branded 'FONBET KHL Championship'. KHL.ru (2026-05-29) reported the deal extended to 2027/28."
+  },
+  {
+    "id": "khl-sogaz",
+    "clubId": null,
+    "orgName": "Kontinental Hockey League (KHL)",
+    "sponsorId": "sogaz",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "HC Sochi official site, partners page (2026-27 FONBET KHL partner widget)",
+      "date": "2026-09-25",
+      "url": "https://www.hcsochi.ru/club/partner/"
+    },
+    "leagueId": "khl",
+    "note": "General partner; KHL.ru (2026-05-29) named SOGAZ a general partner for 2025/26 and the 2026-27 club-site widget carries it forward."
+  },
+  {
+    "id": "khl-t-bank",
+    "clubId": null,
+    "orgName": "Kontinental Hockey League (KHL)",
+    "sponsorId": "t-bank",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "HC Sochi official site, partners page (2026-27 FONBET KHL partner widget)",
+      "date": "2026-09-25",
+      "url": "https://www.hcsochi.ru/club/partner/"
+    },
+    "leagueId": "khl",
+    "note": "General partner; KHL.ru (2026-05-29) named T-Bank a general partner and the 2026-27 club-site widget carries it forward."
+  },
+  {
+    "id": "khl-mir-nspk",
+    "clubId": null,
+    "orgName": "Kontinental Hockey League (KHL)",
+    "sponsorId": "mir-nspk",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "HC Sochi official site, partners page (2026-27 FONBET KHL partner widget)",
+      "date": "2026-09-25",
+      "url": "https://www.hcsochi.ru/club/partner/"
+    },
+    "leagueId": "khl",
+    "note": "Official partner in the 2026-27 club-site widget; replaces SBP, the 2025/26 official partner named by KHL.ru."
+  },
+  {
+    "id": "khl-rostelecom",
+    "clubId": null,
+    "orgName": "Kontinental Hockey League (KHL)",
+    "sponsorId": "rostelecom",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "HC Sochi official site, partners page (2026-27 FONBET KHL partner widget)",
+      "date": "2026-09-25",
+      "url": "https://www.hcsochi.ru/club/partner/"
+    },
+    "leagueId": "khl",
+    "note": "League partner in 2025/26 (KHL.ru) and in the 2026-27 club-site widget."
+  },
+  {
+    "id": "khl-avtovaz",
+    "clubId": null,
+    "orgName": "Kontinental Hockey League (KHL)",
+    "sponsorId": "avtovaz",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "HC Sochi official site, partners page (2026-27 FONBET KHL partner widget)",
+      "date": "2026-09-25",
+      "url": "https://www.hcsochi.ru/club/partner/"
+    },
+    "leagueId": "khl",
+    "note": "League partner in 2025/26 (KHL.ru) and in the 2026-27 club-site widget."
+  },
+  {
+    "id": "khl-kinopoisk",
+    "clubId": null,
+    "orgName": "Kontinental Hockey League (KHL)",
+    "sponsorId": "kinopoisk",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "HC Sochi official site, partners page (2026-27 FONBET KHL partner widget)",
+      "date": "2026-09-25",
+      "url": "https://www.hcsochi.ru/club/partner/"
+    },
+    "leagueId": "khl",
+    "note": "League partner in 2025/26 (KHL.ru) and in the 2026-27 club-site widget."
+  },
+  {
+    "id": "khl-gislaved",
+    "clubId": null,
+    "orgName": "Kontinental Hockey League (KHL)",
+    "sponsorId": "gislaved",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "HC Sochi official site, partners page (2026-27 FONBET KHL partner widget)",
+      "date": "2026-09-25",
+      "url": "https://www.hcsochi.ru/club/partner/"
+    },
+    "leagueId": "khl",
+    "note": "League partner in 2025/26 (KHL.ru) and in the 2026-27 club-site widget."
+  },
+  {
+    "id": "khl-haier",
+    "clubId": null,
+    "orgName": "Kontinental Hockey League (KHL)",
+    "sponsorId": "haier",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "HC Sochi official site, partners page (2026-27 FONBET KHL partner widget)",
+      "date": "2026-09-25",
+      "url": "https://www.hcsochi.ru/club/partner/"
+    },
+    "leagueId": "khl",
+    "note": "League partner in 2025/26 (KHL.ru) and in the 2026-27 club-site widget."
+  },
+  {
+    "id": "khl-s7",
+    "clubId": null,
+    "orgName": "Kontinental Hockey League (KHL)",
+    "sponsorId": "s7-airlines",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "HC Sochi official site, partners page (2026-27 FONBET KHL partner widget)",
+      "date": "2026-09-25",
+      "url": "https://www.hcsochi.ru/club/partner/"
+    },
+    "leagueId": "khl",
+    "note": "League partner in 2025/26 (KHL.ru) and in the 2026-27 club-site widget."
+  },
+  {
     "id": "laliga-partner-ea-sports",
     "clubId": null,
     "orgName": "LaLiga",

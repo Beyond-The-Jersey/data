@@ -1,0 +1,60 @@
+{
+  "id": "ska-spb",
+  "team": "SKA Saint Petersburg",
+  "sport": "ice-hockey",
+  "league": "khl",
+  "country": "Russia",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "gazprom",
+      "name": "Gazprom",
+      "placement": "partner",
+      "season": "2026-27",
+      "tier": "severe",
+      "ownerId": "russian-federation",
+      "owner": "Russian Federation (Federal Agency for State Property Management)",
+      "verdict": "The Russian Government controls over 50% of Gazprom's shares (Russian Federation direct 38.37% plus government-controlled Rosneftegaz 10.97% and Rosgazifikatsiya….",
+      "source": {
+        "name": "SKA official site via Wayback Machine (snapshot 2026-03-24, labelled season 2025/2026)",
+        "date": "2026-03-24",
+        "url": "https://web.archive.org/web/20260324002324id_/https://www.ska.ru/"
+      }
+    },
+    {
+      "id": "gazprom-neft",
+      "name": "Gazprom Neft",
+      "placement": "partner",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "SKA official site via Wayback Machine (snapshot 2026-03-24, labelled season 2025/2026)",
+        "date": "2026-03-24",
+        "url": "https://web.archive.org/web/20260324002324id_/https://www.ska.ru/"
+      }
+    },
+    {
+      "id": "olimpbet",
+      "name": "Olimpbet",
+      "placement": "partner",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "SKA official site via Wayback Machine (snapshot 2026-03-24, labelled season 2025/2026)",
+        "date": "2026-03-24",
+        "url": "https://web.archive.org/web/20260324002324id_/https://www.ska.ru/"
+      }
+    }
+  ],
+  "worstTier": "severe",
+  "owners": [
+    "russian-federation"
+  ],
+  "lastUpdated": "2026-09-24"
+}

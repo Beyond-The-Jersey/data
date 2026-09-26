@@ -1,0 +1,43 @@
+{
+  "id": "sochi-hc",
+  "team": "HC Sochi",
+  "sport": "ice-hockey",
+  "league": "khl",
+  "country": "Russia",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "olimpbet",
+      "name": "Olimpbet",
+      "placement": "partner",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "HC Sochi official site, partners page (2026-27 FONBET KHL partner widget)",
+        "date": "2026-09-25",
+        "url": "https://www.hcsochi.ru/club/partner/"
+      }
+    },
+    {
+      "id": "rzd",
+      "name": "Russian Railways (RZD)",
+      "placement": "partner",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "HC Sochi official site, partners page (2026-27 FONBET KHL partner widget)",
+        "date": "2026-09-25",
+        "url": "https://www.hcsochi.ru/club/partner/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

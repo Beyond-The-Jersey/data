@@ -1,0 +1,43 @@
+{
+  "id": "avangard-omsk",
+  "team": "Avangard Omsk",
+  "sport": "ice-hockey",
+  "league": "khl",
+  "country": "Russia",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "alfa-bank",
+      "name": "Alfa-Bank",
+      "placement": "partner",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "HC Avangard official site, partners page",
+        "date": "2026-09-25",
+        "url": "https://hawk.ru/partners/"
+      }
+    },
+    {
+      "id": "gazprom-neft",
+      "name": "Gazprom Neft",
+      "placement": "partner",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "HC Avangard official site, partners page",
+        "date": "2026-09-25",
+        "url": "https://hawk.ru/partners/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

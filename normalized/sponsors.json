@@ -594,6 +594,20 @@
     "note": "Al-Ettifaq / Al-Taawoun front sponsor."
   },
   {
+    "id": "alfa-bank",
+    "name": "Alfa-Bank",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Альфа-банк"
+    ],
+    "note": "Partner of HC Avangard."
+  },
+  {
     "id": "alfred-dunhill",
     "name": "Alfred Dunhill",
     "ownerId": null,
@@ -1279,6 +1293,22 @@
     "note": "Rating note: Avnet is a publicly traded company with no state ownership; largest shareholders are institutional investors (Vanguard, BlackRock) each holding well under 10%. No human-rights concerns in ownership chain identified."
   },
   {
+    "id": "avtovaz",
+    "name": "AvtoVAZ (LADA)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "АВТОВАЗ",
+      "LADA",
+      "Lada"
+    ],
+    "note": "League partner; lada.ru is the title sponsor of HC Lada."
+  },
+  {
     "id": "aws",
     "name": "Amazon Web Services (AWS)",
     "ownerId": "aws-owner",
@@ -1649,6 +1679,20 @@
     "claimIds": [],
     "aliases": [],
     "note": "Saudi Pro League partner."
+  },
+  {
+    "id": "belavia",
+    "name": "Belavia",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Белавиа"
+    ],
+    "note": "Partner of HC Dinamo Minsk; Belarusian state airline (ownership not traced)."
   },
   {
     "id": "bestebit",
@@ -4409,6 +4453,21 @@
     "note": "Principal Partner of the Springboks (springboks.rugby/partners); shirt placement not stated on that page."
   },
   {
+    "id": "fonbet",
+    "name": "FONBET",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Фонбет",
+      "Fon.Bet"
+    ],
+    "note": "League title partner; the KHL championship carries the FONBET name. Private betting company; ownership not traced."
+  },
+  {
     "id": "football-manager",
     "name": "Football Manager",
     "ownerId": "sega-sammy",
@@ -4738,6 +4797,38 @@
     "note": "Rating note: Severe: state-controlled and the state is the direct party to an ongoing armed conflict. State-control claim corroborated by the company's own investor page; war-funding claim from Yale HRL PDF."
   },
   {
+    "id": "gazprom-neft",
+    "name": "Gazprom Neft",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Газпром нефть",
+      "G-Drive",
+      "G-Energy",
+      "gpnbonus"
+    ],
+    "note": "General partner of HC Avangard (G-Drive Arena naming) and club sponsor of SKA. Lead: subsidiary of state-controlled Gazprom; primary document not yet opened."
+  },
+  {
+    "id": "gazprom-transgaz-belarus",
+    "name": "Gazprom transgaz Belarus (GTB)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "ОАО «Газпром трансгаз Беларусь»",
+      "gtb.by"
+    ],
+    "note": "General partner of HC Dinamo Minsk."
+  },
+  {
     "id": "gcs",
     "name": "GCS",
     "ownerId": "gcs",
@@ -4849,6 +4940,20 @@
       "procter-and-gamble-record"
     ],
     "aliases": []
+  },
+  {
+    "id": "gislaved",
+    "name": "Gislaved",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Gislaved Tires"
+    ],
+    "note": "League partner; tyre brand."
   },
   {
     "id": "globant",
@@ -6430,6 +6535,21 @@
     "note": "Owner of 70% of Al-Hilal."
   },
   {
+    "id": "kinopoisk",
+    "name": "Kinopoisk",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Кинопоиск",
+      "hd.kinopoisk.ru"
+    ],
+    "note": "League partner; streaming service. Ownership (Yandex) not traced."
+  },
+  {
     "id": "klm",
     "name": "KLM",
     "ownerId": null,
@@ -6498,6 +6618,20 @@
     ],
     "aliases": [],
     "note": "Rating note: Corporate profile confirms TSE Prime listing; no government stake on the shareholder register."
+  },
+  {
+    "id": "komus",
+    "name": "Komus",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Комус"
+    ],
+    "note": "Partner of HC Spartak Moscow."
   },
   {
     "id": "konami",
@@ -7235,6 +7369,20 @@
     "note": "Rating note: Family/mittelstand building group; ownership not unit-listed, no state stake found."
   },
   {
+    "id": "maxline",
+    "name": "Maxline",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Maxline.by"
+    ],
+    "note": "Official partner of HC Dinamo Minsk; betting brand."
+  },
+  {
     "id": "mcarthurglen-troyes",
     "name": "McArthurGlen Troyes",
     "ownerId": null,
@@ -7549,6 +7697,22 @@
       "mexicoinfra"
     ],
     "note": "Fireballs GC partner, logo links to mexicoinfra.com (livgolf.com/fireballs-gc, fetched 2026-09-25)."
+  },
+  {
+    "id": "mir-nspk",
+    "name": "MIR (NSPK payment system)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "МИР",
+      "Mir card",
+      "НСПК"
+    ],
+    "note": "League official partner for 2026-27 (replaced SBP, the 2025/26 official partner, in the syndicated club-site widget)."
   },
   {
     "id": "mitre",
@@ -8477,6 +8641,21 @@
     ],
     "aliases": [],
     "note": "Rating note: Exchange founded 2013 by Star Xu (OK Group); no sovereign fund on the register. DOJ Information v. 25 Cr. names Aux Cayes FinTech Co. Ltd d/b/a 'OKEx'/'OKX'. Man City sleeve sponsor (existing dataset row)."
+  },
+  {
+    "id": "olimpbet",
+    "name": "Olimpbet",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Олимпбет",
+      "olimp.bet"
+    ],
+    "note": "Betting brand; official partner of several KHL clubs (CSKA, Severstal, Spartak, Sochi, Amur) and of SKA per the archived club site."
   },
   {
     "id": "omega",
@@ -9794,6 +9973,35 @@
     "note": "ROSHN is the title sponsor of the Roshn Saudi League (naming rights)."
   },
   {
+    "id": "rosneft",
+    "name": "Rosneft",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Роснефть",
+      "rosneft.ru"
+    ],
+    "note": "General sponsor of HC CSKA Moscow. Lead: majority state-owned; primary document not yet opened."
+  },
+  {
+    "id": "rostelecom",
+    "name": "Rostelecom",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Ростелеком"
+    ],
+    "note": "League partner. Lead: state-controlled telecoms operator; primary ownership document not yet opened."
+  },
+  {
     "id": "rouses-markets",
     "name": "Rouses Markets",
     "ownerId": "rouses-markets-owner",
@@ -9890,6 +10098,21 @@
     "note": "Official Airline of the BAL; part of the Rwanda Development Board package (pr.nba.com, 19 Jun 2023)."
   },
   {
+    "id": "rzd",
+    "name": "Russian Railways (RZD)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "РЖД",
+      "Российские железные дороги"
+    ],
+    "note": "Partner of HC Sochi. Lead: state-owned railway operator; Lokomotiv Yaroslavl is linked to RZD. Primary document not yet opened."
+  },
+  {
     "id": "s-3m",
     "name": "3M",
     "ownerId": "3m-company",
@@ -9902,6 +10125,21 @@
     ],
     "aliases": [],
     "note": "Rating note: Serious conduct record but private owner, so 'none' under the ownership-led method rather than 'concern'."
+  },
+  {
+    "id": "s7-airlines",
+    "name": "S7 Airlines",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "S7",
+      "С7"
+    ],
+    "note": "League partner; airline."
   },
   {
     "id": "sabor-a-malaga",
@@ -9967,9 +10205,11 @@
     "verdict": null,
     "claimIds": [],
     "aliases": [
-      "samruk kazyna"
+      "СК",
+      "sk.kz",
+      "«Самұрық-Қазына»"
     ],
-    "note": "Kazakhstan's sovereign wealth fund; main partner of XDS Astana Team."
+    "note": "Main partner ('Бас Серіктес') of HC Barys; Kazakhstan's sovereign wealth fund."
   },
   {
     "id": "samsic",
@@ -10340,6 +10580,21 @@
     "note": "Rating note: BBVA Spark is a bank lending facility, not equity, and BBVA has no state stake - so owner remains private-company, tier none."
   },
   {
+    "id": "severstal",
+    "name": "Severstal",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Северсталь",
+      "severstal.com"
+    ],
+    "note": "General sponsor of HC Severstal. Lead: controlled by Alexei Mordashov; primary document not yet opened."
+  },
+  {
     "id": "sezzle",
     "name": "Sezzle",
     "ownerId": "sezzle-owner",
@@ -10663,6 +10918,20 @@
     "note": "Presenting partner of the PIF Saudi International powered by SoftBank Investment Advisers (internationalseries.com partners page, fetched 2026-09-25). SB Investment Advisers (UK) Limited is the SoftBank Group entity behind the Vision Fund vehicles; ownership chain: SB Investment Advisers (UK) Ltd -> SoftBank Group Corp (Companies House PSC)."
   },
   {
+    "id": "sogaz",
+    "name": "SOGAZ",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "СОГАЗ"
+    ],
+    "note": "League general partner and official insurer. Lead (unchecked against a primary document): insurance group founded by Gazprom; reported EU/UK (2022) and US (2024) sanctions."
+  },
+  {
     "id": "solan-de-cabras",
     "name": "Solan de Cabras",
     "ownerId": "mahou-san-miguel",
@@ -10731,6 +11000,20 @@
       "sa tourism"
     ],
     "note": "BAL partner with in-arena visibility for the South Africa Conference (bal.nba.com/partners). Links to the national Department of Tourism (tourism.gov.za) from its site; formal status not verified."
+  },
+  {
+    "id": "sovcombank",
+    "name": "Sovcombank",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Совкомбанк"
+    ],
+    "note": "Official bank of HC Severstal."
   },
   {
     "id": "sowayoga",
@@ -11171,6 +11454,22 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "t-bank",
+    "name": "T-Bank",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Т-Банк",
+      "Tinkoff",
+      "Тинькофф"
+    ],
+    "note": "League general partner."
   },
   {
     "id": "t-mobile",
@@ -12351,6 +12650,22 @@
       "volvo"
     ],
     "note": "Title sponsor of the Volvo China Open (event name, 2026 Race to Dubai schedule). Ownership not traced to a primary document in this pass."
+  },
+  {
+    "id": "vtb",
+    "name": "VTB",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "ВТБ",
+      "vtb.ru",
+      "Банк ВТБ"
+    ],
+    "note": "General sponsor of HC Dynamo Moscow; VTB Bank (Belarus) partners HC Dinamo Minsk. Lead: state-controlled bank; primary document not yet opened."
   },
   {
     "id": "walt-disney-world",

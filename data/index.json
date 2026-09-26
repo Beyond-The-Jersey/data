@@ -3224,6 +3224,160 @@
       "file": "world-test-championship.json"
     },
     {
+      "id": "ska-spb",
+      "name": "SKA Saint Petersburg",
+      "sport": "ice-hockey",
+      "league": "khl",
+      "file": "ska-spb.json"
+    },
+    {
+      "id": "cska-moscow-hockey",
+      "name": "HC CSKA Moscow",
+      "sport": "ice-hockey",
+      "league": "khl",
+      "file": "cska-moscow-hockey.json"
+    },
+    {
+      "id": "spartak-moscow-hockey",
+      "name": "HC Spartak Moscow",
+      "sport": "ice-hockey",
+      "league": "khl",
+      "file": "spartak-moscow-hockey.json"
+    },
+    {
+      "id": "dynamo-moscow-hockey",
+      "name": "HC Dynamo Moscow",
+      "sport": "ice-hockey",
+      "league": "khl",
+      "file": "dynamo-moscow-hockey.json"
+    },
+    {
+      "id": "lokomotiv-yaroslavl",
+      "name": "Lokomotiv Yaroslavl",
+      "sport": "ice-hockey",
+      "league": "khl",
+      "file": "lokomotiv-yaroslavl.json"
+    },
+    {
+      "id": "metallurg-magnitogorsk",
+      "name": "Metallurg Magnitogorsk",
+      "sport": "ice-hockey",
+      "league": "khl",
+      "file": "metallurg-magnitogorsk.json"
+    },
+    {
+      "id": "ak-bars-kazan",
+      "name": "Ak Bars Kazan",
+      "sport": "ice-hockey",
+      "league": "khl",
+      "file": "ak-bars-kazan.json"
+    },
+    {
+      "id": "salavat-yulaev",
+      "name": "Salavat Yulaev Ufa",
+      "sport": "ice-hockey",
+      "league": "khl",
+      "file": "salavat-yulaev.json"
+    },
+    {
+      "id": "avangard-omsk",
+      "name": "Avangard Omsk",
+      "sport": "ice-hockey",
+      "league": "khl",
+      "file": "avangard-omsk.json"
+    },
+    {
+      "id": "severstal-cherepovets",
+      "name": "Severstal Cherepovets",
+      "sport": "ice-hockey",
+      "league": "khl",
+      "file": "severstal-cherepovets.json"
+    },
+    {
+      "id": "torpedo-nizhny-novgorod",
+      "name": "Torpedo Nizhny Novgorod",
+      "sport": "ice-hockey",
+      "league": "khl",
+      "file": "torpedo-nizhny-novgorod.json"
+    },
+    {
+      "id": "neftekhimik-nizhnekamsk",
+      "name": "Neftekhimik Nizhnekamsk",
+      "sport": "ice-hockey",
+      "league": "khl",
+      "file": "neftekhimik-nizhnekamsk.json"
+    },
+    {
+      "id": "traktor-chelyabinsk",
+      "name": "Traktor Chelyabinsk",
+      "sport": "ice-hockey",
+      "league": "khl",
+      "file": "traktor-chelyabinsk.json"
+    },
+    {
+      "id": "avtomobilist-yekaterinburg",
+      "name": "Avtomobilist Yekaterinburg",
+      "sport": "ice-hockey",
+      "league": "khl",
+      "file": "avtomobilist-yekaterinburg.json"
+    },
+    {
+      "id": "sibir-novosibirsk",
+      "name": "Sibir Novosibirsk",
+      "sport": "ice-hockey",
+      "league": "khl",
+      "file": "sibir-novosibirsk.json"
+    },
+    {
+      "id": "admiral-vladivostok",
+      "name": "Admiral Vladivostok",
+      "sport": "ice-hockey",
+      "league": "khl",
+      "file": "admiral-vladivostok.json"
+    },
+    {
+      "id": "amur-khabarovsk",
+      "name": "Amur Khabarovsk",
+      "sport": "ice-hockey",
+      "league": "khl",
+      "file": "amur-khabarovsk.json"
+    },
+    {
+      "id": "lada-tolyatti",
+      "name": "Lada Tolyatti",
+      "sport": "ice-hockey",
+      "league": "khl",
+      "file": "lada-tolyatti.json"
+    },
+    {
+      "id": "sochi-hc",
+      "name": "HC Sochi",
+      "sport": "ice-hockey",
+      "league": "khl",
+      "file": "sochi-hc.json"
+    },
+    {
+      "id": "dynamo-minsk",
+      "name": "Dinamo Minsk",
+      "sport": "ice-hockey",
+      "league": "khl",
+      "file": "dynamo-minsk.json"
+    },
+    {
+      "id": "barys-astana",
+      "name": "Barys Astana",
+      "sport": "ice-hockey",
+      "league": "khl",
+      "file": "barys-astana.json"
+    },
+    {
+      "id": "shanghai-dragons",
+      "name": "Shanghai Dragons",
+      "sport": "ice-hockey",
+      "league": "khl",
+      "file": "shanghai-dragons.json"
+    },
+    {
       "id": "angers-sco",
       "name": "Angers SCO",
       "sport": "soccer",

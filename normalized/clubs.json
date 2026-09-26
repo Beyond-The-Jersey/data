@@ -5720,6 +5720,304 @@
     ]
   },
   {
+    "id": "ska-spb",
+    "name": "SKA Saint Petersburg",
+    "shortName": "SKA",
+    "code": "SKA",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "СКА",
+      "SKA St Petersburg",
+      "SKA Neva"
+    ]
+  },
+  {
+    "id": "cska-moscow-hockey",
+    "name": "HC CSKA Moscow",
+    "shortName": "CSKA",
+    "code": "CSK",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "ЦСКА",
+      "CSKA Moscow"
+    ]
+  },
+  {
+    "id": "spartak-moscow-hockey",
+    "name": "HC Spartak Moscow",
+    "shortName": "Spartak",
+    "code": "SPA",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "ХК Спартак",
+      "Spartak Moscow hockey"
+    ]
+  },
+  {
+    "id": "dynamo-moscow-hockey",
+    "name": "HC Dynamo Moscow",
+    "shortName": "Dynamo",
+    "code": "DYN",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Динамо Москва",
+      "Dynamo Moscow hockey"
+    ]
+  },
+  {
+    "id": "lokomotiv-yaroslavl",
+    "name": "Lokomotiv Yaroslavl",
+    "shortName": "Lokomotiv",
+    "code": "LOK",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Локомотив Ярославль"
+    ]
+  },
+  {
+    "id": "metallurg-magnitogorsk",
+    "name": "Metallurg Magnitogorsk",
+    "shortName": "Metallurg",
+    "code": "MET",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Металлург Магнитогорск",
+      "Metallurg Mg"
+    ]
+  },
+  {
+    "id": "ak-bars-kazan",
+    "name": "Ak Bars Kazan",
+    "shortName": "Ak Bars",
+    "code": "AKB",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Ак Барс Казань"
+    ]
+  },
+  {
+    "id": "salavat-yulaev",
+    "name": "Salavat Yulaev Ufa",
+    "shortName": "Salavat Yulaev",
+    "code": "SAL",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Салават Юлаев Уфа"
+    ]
+  },
+  {
+    "id": "avangard-omsk",
+    "name": "Avangard Omsk",
+    "shortName": "Avangard",
+    "code": "AVA",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Авангард Омск",
+      "Hawks"
+    ]
+  },
+  {
+    "id": "severstal-cherepovets",
+    "name": "Severstal Cherepovets",
+    "shortName": "Severstal",
+    "code": "SEV",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Северсталь Череповец"
+    ]
+  },
+  {
+    "id": "torpedo-nizhny-novgorod",
+    "name": "Torpedo Nizhny Novgorod",
+    "shortName": "Torpedo",
+    "code": "TOR",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Торпедо Нижний Новгород"
+    ]
+  },
+  {
+    "id": "neftekhimik-nizhnekamsk",
+    "name": "Neftekhimik Nizhnekamsk",
+    "shortName": "Neftekhimik",
+    "code": "NEF",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Нефтехимик Нижнекамск"
+    ]
+  },
+  {
+    "id": "traktor-chelyabinsk",
+    "name": "Traktor Chelyabinsk",
+    "shortName": "Traktor",
+    "code": "TRA",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Трактор Челябинск"
+    ]
+  },
+  {
+    "id": "avtomobilist-yekaterinburg",
+    "name": "Avtomobilist Yekaterinburg",
+    "shortName": "Avtomobilist",
+    "code": "AVT",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Автомобилист Екатеринбург"
+    ]
+  },
+  {
+    "id": "sibir-novosibirsk",
+    "name": "Sibir Novosibirsk",
+    "shortName": "Sibir",
+    "code": "SIB",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Сибирь Новосибирск"
+    ]
+  },
+  {
+    "id": "admiral-vladivostok",
+    "name": "Admiral Vladivostok",
+    "shortName": "Admiral",
+    "code": "ADM",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Адмирал Владивосток"
+    ]
+  },
+  {
+    "id": "amur-khabarovsk",
+    "name": "Amur Khabarovsk",
+    "shortName": "Amur",
+    "code": "AMU",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Амур Хабаровск"
+    ]
+  },
+  {
+    "id": "lada-tolyatti",
+    "name": "Lada Tolyatti",
+    "shortName": "Lada",
+    "code": "LAD",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "Лада Тольятти",
+      "ХК Лада"
+    ]
+  },
+  {
+    "id": "sochi-hc",
+    "name": "HC Sochi",
+    "shortName": "Sochi",
+    "code": "SOC",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Russia",
+    "crest": null,
+    "aliases": [
+      "ХК Сочи",
+      "Sochi Leopards"
+    ]
+  },
+  {
+    "id": "dynamo-minsk",
+    "name": "Dinamo Minsk",
+    "shortName": "Dinamo Minsk",
+    "code": "DIN",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Belarus",
+    "crest": null,
+    "aliases": [
+      "Динамо-Минск",
+      "HC Dinamo Minsk"
+    ]
+  },
+  {
+    "id": "barys-astana",
+    "name": "Barys Astana",
+    "shortName": "Barys",
+    "code": "BAR",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "Kazakhstan",
+    "crest": null,
+    "aliases": [
+      "Барыс Астана",
+      "HC Barys"
+    ]
+  },
+  {
+    "id": "shanghai-dragons",
+    "name": "Shanghai Dragons",
+    "shortName": "Shanghai Dragons",
+    "code": "SHA",
+    "sportId": "ice-hockey",
+    "leagueId": "khl",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "Шанхайские драконы",
+      "Kunlun Red Star"
+    ]
+  },
+  {
     "id": "angers-sco",
     "name": "Angers SCO",
     "shortName": "Angers",
