@@ -1,0 +1,60 @@
+# The review agent (agents/review.md) reads each pull request and comments on the accuracy of
+# every new or changed fact. It never approves or merges: a maintainer does.
+#
+# Runs on pull requests from branches of this repo. For a pull request from a fork, a maintainer
+# comments "/review" on it. The agent always runs with main's config and brief, reads the pull
+# request only as a diff, and can't run commands or edit files (.github/opencode/review.json).
+name: review
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, ready_for_review]
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: read
+  pull-requests: write
+  issues: write
+
+concurrency:
+  group: review-${{ github.event.pull_request.number || github.event.issue.number }}
+  cancel-in-progress: true
+
+jobs:
+  review:
+    if: >
+      (github.event_name == 'pull_request' && !github.event.pull_request.draft &&
+       github.event.pull_request.head.repo.full_name == github.repository) ||
+      (github.event_name == 'issue_comment' && github.event.issue.pull_request &&
+       startsWith(github.event.comment.body, '/review') &&
+       contains(fromJSON('["OWNER","MEMBER","COLLABORATOR"]'), github.event.comment.author_association))
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          persist-credentials: false
+      - name: Collect the pull request
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR: ${{ github.event.pull_request.number || github.event.issue.number }}
+        run: |
+          mkdir -p review
+          gh pr diff "$PR" -R "$GITHUB_REPOSITORY" > review/pr.diff
+          gh pr view "$PR" -R "$GITHUB_REPOSITORY" --json files -q '.files[].path' > review/files.txt
+          gh pr view "$PR" -R "$GITHUB_REPOSITORY" --json title,body -q '"# " + .title + "\n\n" + .body' > review/pr.md
+          echo "$(wc -l < review/files.txt) files, $(wc -c < review/pr.diff) bytes of diff"
+      - uses: anomalyco/opencode/github@latest
+        env:
+          OPENCODE_CONFIG: .github/opencode/review.json
+          GLM_API_KEY: ${{ secrets.GLM_API_KEY }}
+          GLM_BASE_URL: ${{ vars.GLM_BASE_URL }}
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          model: gateway/${{ vars.GLM_MODEL }}
+          use_github_token: true
+          prompt: |
+            Read agents/review.md and follow it exactly. The pull request's diff is review/pr.diff,
+            its changed files are listed in review/files.txt, and its title and description are in
+            review/pr.md. The dataset on main is in data/. Answer with the review comment only.

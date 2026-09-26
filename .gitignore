@@ -1,3 +1,5 @@
 __pycache__/
 *.pyc
-contacts.log
+dist/
+behind-the-jersey-data.zip
+review/

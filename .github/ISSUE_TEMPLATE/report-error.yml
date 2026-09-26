@@ -1,0 +1,16 @@
+name: Report an error
+description: Something in the data is wrong, outdated or unsourced.
+title: "Error: "
+labels: [bug]
+body:
+  - type: input
+    id: record
+    attributes: { label: Which record, description: "e.g. data/sponsors/emirates.json, or the page on behind-the-jersey.org" }
+    validations: { required: true }
+  - type: textarea
+    id: wrong
+    attributes: { label: What's wrong, description: "And what it should say" }
+    validations: { required: true }
+  - type: input
+    id: source
+    attributes: { label: Source, description: "A link that shows the correct fact" }

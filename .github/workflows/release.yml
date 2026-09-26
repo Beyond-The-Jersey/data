@@ -1,0 +1,42 @@
+# Publishes the dataset after every merge to main: dist/ (JSON, CSV and a zip) as a GitHub release.
+# The website's update workflow picks up the latest release and opens a pull request there.
+name: release
+
+on:
+  push:
+    branches: [main]
+    paths: ['data/**', 'schema/**', 'scripts/**']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - run: python3 -m pip install --quiet jsonschema
+      - run: python3 scripts/validate.py
+      - run: python3 scripts/build.py
+      - name: Publish the release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          sha=$(git rev-parse --short HEAD)
+          day=$(date -u +%Y-%m-%d)
+          tag="data-${day}-${sha}"
+          counts=$(python3 -c "import json; print(', '.join(f'{len(json.load(open(f\"dist/{n}.json\")))} {n}' for n in ['clubs','sponsors','owners','claims','kits','deals']))")
+          {
+            echo "Built from ${sha} on ${day}: ${counts}."
+            echo
+            echo "Download everything as \`behind-the-jersey-data.zip\`, or single JSON and CSV files below."
+            echo "Data: CC BY 4.0 (credit \"Behind the Jersey, github.com/Beyond-The-Jersey/data\"). Ratings are illustrative until the method is final."
+          } > notes.md
+          gh release create "$tag" dist/* --title "Data ${day} (${sha})" --notes-file notes.md --latest
