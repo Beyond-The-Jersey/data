@@ -1638,6 +1638,14 @@
     "parentId": null
   },
   {
+    "id": "government-of-kuwait",
+    "name": "Government of Kuwait",
+    "type": "state",
+    "country": "Kuwait",
+    "parentId": null,
+    "note": "Host state for the Saudi Super Cup 2026 (December 2026) and the Trophée des Champions 2025 edition (8 January 2026); the Kuwait FA president quoted on the hosting is Sheikh Ahmad Al-Yousef Al-Sabah of the ruling Al Sabah family (Goal.com, 14 Sep 2026)."
+  },
+  {
     "id": "government-of-qatar",
     "name": "Government of the State of Qatar (Qatar Airways Group Q.C.S.C.)",
     "type": "state",

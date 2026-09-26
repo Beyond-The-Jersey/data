@@ -4953,6 +4953,37 @@
     "aliases": []
   },
   {
+    "id": "government-of-kuwait",
+    "name": "Kuwait (government host)",
+    "ownerId": "government-of-kuwait",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [
+      "kuwait-exit-permit-2025"
+    ],
+    "aliases": [
+      "State of Kuwait (host)"
+    ],
+    "note": "Host state: Saudi Super Cup 2026 (19-23 December 2026) and Trophée des Champions 2025 edition (8 January 2026), the latter organised with the Kuwait Football Association. Hosting fees not published."
+  },
+  {
+    "id": "government-of-saudi-arabia",
+    "name": "Saudi Arabia (government host)",
+    "ownerId": "government-of-saudi-arabia",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Saudi Arabia host",
+      "Kingdom of Saudi Arabia (host)"
+    ],
+    "note": "The Saudi state as contracted host of domestic super cups: Supercopa de España (hosted editions through 2026-27 cycle; resumes 2028 and 2029) and Supercoppa Italiana (hosted editions from 2018 to the December 2025 final). Host fees not published."
+  },
+  {
     "id": "great-american-insurance",
     "name": "Great American Insurance",
     "ownerId": "great-american-insurance-owner",
@@ -11739,6 +11770,21 @@
       "messageLine": "Turkey has a documented record of serious human-rights abuses, including the purges after 2016 and attacks on press freedom.",
       "status": "draft"
     }
+  },
+  {
+    "id": "turkiye-futbol-federasyonu",
+    "name": "Türkiye Futbol Federasyonu (Turkish Football Federation)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "TFF",
+      "Turkish Football Federation"
+    ],
+    "note": "Host of the Supercopa de España 2027 (Istanbul, 2-6 February 2027); the RFEF president signed the hosting agreement in Istanbul. Ownership not traced; Turkish sports and culture/tourism ministers attended the presentation (El Español, 17 Sep 2026)."
   },
   {
     "id": "twg-ai",
