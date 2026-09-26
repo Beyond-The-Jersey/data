@@ -2047,6 +2047,430 @@
     "note": "URSAPHARM (brand HYLO) since 1990 to 2029; estimated EUR3-5m; also URSAPHARM Arena naming rights."
   },
   {
+    "id": "uaetour-ad-ports-group",
+    "clubId": null,
+    "orgName": "UAE Tour (Abu Dhabi Sports Council / RCS Sport)",
+    "sponsorId": "ad-ports-group",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "UAE Tour - Sponsors page (Presenting Sponsor)",
+      "date": "2026-09-25",
+      "url": "https://www.theuaetour.com/sponsors/",
+      "note": "The sponsors page lists 'Presenting Sponsor' with the AD Ports Group logo (Logo-ADPG-2026.webp, link to adportsgroup.com); ADSC's 10 Sep 2026 release confirms the partnership was 'established in 2026' and continues in 2027."
+    },
+    "leagueId": "cycling-stage-races",
+    "note": "Presenting Sponsor of the men's UAE Tour; also a classification-jersey sponsor and a stage sponsor (AD Ports Group Stage, stage 7). Fee not published."
+  },
+  {
+    "id": "uaetour-mubadala",
+    "clubId": null,
+    "orgName": "UAE Tour (Abu Dhabi Sports Council / RCS Sport)",
+    "sponsorId": "mubadala",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "UAE Tour - Sponsors page (Jersey Sponsors)",
+      "date": "2026-09-25",
+      "url": "https://www.theuaetour.com/sponsors/",
+      "note": "Mubadala logo (Top-Sponsor-MUBADALA.png, link to mubadala.com) listed under 'Jersey Sponsors'."
+    },
+    "leagueId": "cycling-stage-races",
+    "note": "Classification-jersey sponsor of the men's UAE Tour. Fee not published. Mubadala is the Abu Dhabi sovereign wealth fund."
+  },
+  {
+    "id": "uaetour-burjeel-holdings",
+    "clubId": null,
+    "orgName": "UAE Tour (Abu Dhabi Sports Council / RCS Sport)",
+    "sponsorId": "burjeel-holdings",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "UAE Tour - Sponsors page (Jersey Sponsors)",
+      "date": "2026-09-25",
+      "url": "https://www.theuaetour.com/sponsors/",
+      "note": "Burjeel Holdings logo (Top-Sponsor-Burjeel_Holdings-2025.png, link to burjeelholdings.com) listed under 'Jersey Sponsors'; Burjeel Medical City is also the Medical Sponsor."
+    },
+    "leagueId": "cycling-stage-races",
+    "note": "Classification-jersey sponsor and Medical Sponsor of the men's UAE Tour. Fee not published."
+  },
+  {
+    "id": "uaetour-aldar",
+    "clubId": null,
+    "orgName": "UAE Tour (Abu Dhabi Sports Council / RCS Sport)",
+    "sponsorId": "aldar-properties",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "UAE Tour - Sponsors page (Jersey Sponsors)",
+      "date": "2026-09-25",
+      "url": "https://www.theuaetour.com/sponsors/",
+      "note": "Aldar logo (logo-aldar.png, link to aldar.com) listed under 'Jersey Sponsors'."
+    },
+    "leagueId": "cycling-stage-races",
+    "note": "Classification-jersey sponsor of the men's UAE Tour. Fee not published."
+  },
+  {
+    "id": "uaetourw-ad-ports-group",
+    "clubId": null,
+    "orgName": "UAE Tour Women (Abu Dhabi Sports Council / RCS Sport)",
+    "sponsorId": "ad-ports-group",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "UAE Tour Women - Sponsors page (Presenting Sponsor)",
+      "date": "2026-09-25",
+      "url": "https://theuaetourwomen.com/sponsors/",
+      "note": "The 'Presenting Sponsor' section links to adportsgroup.com; the Abu Dhabi Sports Council press release of 10 Sep 2026 confirms AD Ports Group as Presenting Partner of both races with the partnership 'established in 2026'."
+    },
+    "leagueId": "cycling-stage-races",
+    "note": "Presenting Sponsor of the women's race; also a classification-jersey sponsor."
+  },
+  {
+    "id": "uaetourw-mubadala",
+    "clubId": null,
+    "orgName": "UAE Tour Women (Abu Dhabi Sports Council / RCS Sport)",
+    "sponsorId": "mubadala",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "UAE Tour Women - Sponsors page (Jersey Sponsors)",
+      "date": "2026-09-25",
+      "url": "https://theuaetourwomen.com/sponsors/",
+      "note": "Mubadala listed under 'Jersey Sponsors' alongside AD Ports Group, Burjeel Holdings and Aldar."
+    },
+    "leagueId": "cycling-stage-races",
+    "note": "Classification-jersey sponsor of the women's race."
+  },
+  {
+    "id": "uaetourw-burjeel-holdings",
+    "clubId": null,
+    "orgName": "UAE Tour Women (Abu Dhabi Sports Council / RCS Sport)",
+    "sponsorId": "burjeel-holdings",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "UAE Tour Women - Sponsors page (Jersey Sponsors)",
+      "date": "2026-09-25",
+      "url": "https://theuaetourwomen.com/sponsors/",
+      "note": "Burjeel Holdings listed under 'Jersey Sponsors'."
+    },
+    "leagueId": "cycling-stage-races",
+    "note": "Classification-jersey sponsor of the women's race."
+  },
+  {
+    "id": "uaetourw-aldar",
+    "clubId": null,
+    "orgName": "UAE Tour Women (Abu Dhabi Sports Council / RCS Sport)",
+    "sponsorId": "aldar-properties",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "UAE Tour Women - Sponsors page (Jersey Sponsors)",
+      "date": "2026-09-25",
+      "url": "https://theuaetourwomen.com/sponsors/",
+      "note": "Aldar listed under 'Jersey Sponsors'."
+    },
+    "leagueId": "cycling-stage-races",
+    "note": "Classification-jersey sponsor of the women's race."
+  },
+  {
+    "id": "alulatour-manahil-nissan",
+    "clubId": null,
+    "orgName": "AlUla Tour (ASO / Royal Commission for AlUla / Saudi Ministry of Sport)",
+    "sponsorId": "manahil-nissan",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "The AlUla Tour - Partners page (Main partner)",
+      "date": "2026-09-25",
+      "url": "https://www.thealulatour.com/en/partners",
+      "note": "'Main partner' tier lists Manahil l Nissan (en.nissan-manahil.com); institutional partners are the Saudi Ministry of Sport (mos.gov.sa), the Saudi Cycling Federation (sacf.sa), AlUla (rcu.gov.sa) and Saudi Palmier Olympique (olympic.sa)."
+    },
+    "leagueId": "cycling-stage-races",
+    "note": "Main (commercial) partner of the 2026 AlUla Tour. Fee not published. ASO (Amaury Sport Organisation) runs the race site (c ASO)."
+  },
+  {
+    "id": "guangxi-gree-title",
+    "clubId": null,
+    "orgName": "Tour of Guangxi (People's Government of Guangxi / Wanda Group)",
+    "sponsorId": "gree",
+    "placement": "league-partner",
+    "from": "2022",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Cyclingnews - Gree-Tour of Guangxi stages (race name in title-sponsor form)",
+      "date": "2026-09-25",
+      "url": "https://www.cyclingnews.com/gree-tour-of-guangxi/stages/",
+      "note": "Cyclingnews uses the hyphenated title 'Gree-Tour of Guangxi 2026' for the WorldTour finale; the race is 'officially known as the GREE-Tour of Guangxi for sponsorship purposes' (Tour of Guangxi race record). A 2022 WorldTour calendar on Cycling Weekly already lists 'Gree-Tour of Guangxi'."
+    },
+    "leagueId": "cycling-stage-races",
+    "note": "Title sponsor - GREE's name is in the official race name. Fee not published. GREE is owned by Gree Group (Zhuhai Municipal Government / Zhuhai SASAC) and already rated concern."
+  },
+  {
+    "id": "tdr-visit-rwanda",
+    "clubId": null,
+    "orgName": "Tour du Rwanda (Rwanda Cycling Federation)",
+    "sponsorId": "visit-rwanda",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Tour du Rwanda - Partners (Platinum)",
+      "date": "2026-09-25",
+      "url": "https://www.tourdurwanda.rw/",
+      "note": "The partners block on the race's own site lists Visit Rwanda (visitrwanda.com) as the sole Platinum partner, with a dedicated 'Visit Rwanda - Discover the Land of a Thousand Hills' section."
+    },
+    "leagueId": "cycling-stage-races",
+    "note": "Top-tier (Platinum) partner of the 2026 Tour du Rwanda; Visit Rwanda is the Rwanda Development Board's official tourism brand (government money). Fee not published."
+  },
+  {
+    "id": "tdr-amstel",
+    "clubId": null,
+    "orgName": "Tour du Rwanda (Rwanda Cycling Federation)",
+    "sponsorId": "amstel",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Tour du Rwanda - Partners (Golden) and classification jerseys",
+      "date": "2026-09-25",
+      "url": "https://www.tourdurwanda.rw/",
+      "note": "Amstel (amstel.com) is the Golden partner; the final-results block names an 'Amstel Beer Jersey' (general classification) among the race's classification jerseys."
+    },
+    "leagueId": "cycling-stage-races",
+    "note": "Golden partner and classification-jersey sponsor. Amstel is a Heineken N.V. brand."
+  },
+  {
+    "id": "tdr-mtn-momo",
+    "clubId": null,
+    "orgName": "Tour du Rwanda (Rwanda Cycling Federation)",
+    "sponsorId": "mtn-momo",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Tour du Rwanda - Partners (Silver) and classification jerseys",
+      "date": "2026-09-25",
+      "url": "https://www.tourdurwanda.rw/",
+      "note": "MTN MoMo (momo.mtn.com) is a Silver partner; the site lists an 'MTN MoMo Jersey' for the Young African classification."
+    },
+    "leagueId": "cycling-stage-races",
+    "note": "Silver partner and classification-jersey sponsor."
+  },
+  {
+    "id": "tdr-brd-rwanda",
+    "clubId": null,
+    "orgName": "Tour du Rwanda (Rwanda Cycling Federation)",
+    "sponsorId": "brd-rwanda",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Tour du Rwanda - Partners (Silver) and classification jerseys",
+      "date": "2026-09-25",
+      "url": "https://www.tourdurwanda.rw/",
+      "note": "BRD (brd.rw) is a Silver partner; the site lists a 'Green Jersey \"BRD\"' for the points classification."
+    },
+    "leagueId": "cycling-stage-races",
+    "note": "Silver partner and points-classification jersey sponsor. Government of Rwanda is BRD's top shareholder."
+  },
+  {
+    "id": "tdr-bpr-bank",
+    "clubId": null,
+    "orgName": "Tour du Rwanda (Rwanda Cycling Federation)",
+    "sponsorId": "bpr-bank",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Tour du Rwanda - Partners (Silver) and classification jerseys",
+      "date": "2026-09-25",
+      "url": "https://www.tourdurwanda.rw/",
+      "note": "BPR Bank (bpr.rw) is a Silver partner; the site lists a 'BPR BANK Jersey' for the Best Rwandan Riders classification."
+    },
+    "leagueId": "cycling-stage-races",
+    "note": "Silver partner and classification-jersey sponsor. Subsidiary of Kenya's KCB Group (87.5%)."
+  },
+  {
+    "id": "tdr-prime",
+    "clubId": null,
+    "orgName": "Tour du Rwanda (Rwanda Cycling Federation)",
+    "sponsorId": "prime-rwanda",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Tour du Rwanda - Partners (Silver)",
+      "date": "2026-09-25",
+      "url": "https://www.tourdurwanda.rw/",
+      "note": "The Silver tier lists BPR (bpr.rw), MTN MoMo (momo.mtn.com), BRD (brd.rw) and Prime (prime.rw)."
+    },
+    "leagueId": "cycling-stage-races",
+    "note": "Silver partner. Identity/ownership unresolved."
+  },
+  {
+    "id": "tdr-rwandair",
+    "clubId": null,
+    "orgName": "Tour du Rwanda (Rwanda Cycling Federation)",
+    "sponsorId": "rwandair",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Tour du Rwanda - Partners (Bronze) and classification jerseys",
+      "date": "2026-09-25",
+      "url": "https://www.tourdurwanda.rw/",
+      "note": "RwandAir (rwandair.com) is a Bronze partner; the site lists a 'RwandAir Jersey' for the Best African Riders classification."
+    },
+    "leagueId": "cycling-stage-races",
+    "note": "Bronze partner and classification-jersey sponsor."
+  },
+  {
+    "id": "tdr-ingufu-gin",
+    "clubId": null,
+    "orgName": "Tour du Rwanda (Rwanda Cycling Federation)",
+    "sponsorId": "ingufu-gin",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Tour du Rwanda - Partners (Bronze) and classification jerseys",
+      "date": "2026-09-25",
+      "url": "https://www.tourdurwanda.rw/",
+      "note": "Ingufu Gin (ingufugin.com) is a Bronze partner; the site lists an 'Ingufu Gin Jersey' for the Longest Breakaway classification."
+    },
+    "leagueId": "cycling-stage-races",
+    "note": "Bronze partner and classification-jersey sponsor."
+  },
+  {
+    "id": "tdr-inyange",
+    "clubId": null,
+    "orgName": "Tour du Rwanda (Rwanda Cycling Federation)",
+    "sponsorId": "inyange",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Tour du Rwanda - Suppliers and classification jerseys",
+      "date": "2026-09-25",
+      "url": "https://www.tourdurwanda.rw/",
+      "note": "Inyange Industries (inyangeindustries.com) appears in the Supplier tier; the site lists an 'Inyange Jersey' for the Team Classification."
+    },
+    "leagueId": "cycling-stage-races",
+    "note": "Supplier-tier partner and classification-jersey sponsor."
+  },
+  {
+    "id": "tdr-sensitive-group",
+    "clubId": null,
+    "orgName": "Tour du Rwanda (Rwanda Cycling Federation)",
+    "sponsorId": "sensitive-group",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Tour du Rwanda - Suppliers and classification jerseys",
+      "date": "2026-09-25",
+      "url": "https://www.tourdurwanda.rw/",
+      "note": "Sensitive Group (sensitive.co.rw) appears in the Supplier tier; the site lists a 'Sensitive Group Jersey' for the Best Climber classification."
+    },
+    "leagueId": "cycling-stage-races",
+    "note": "Supplier-tier partner and classification-jersey sponsor."
+  },
+  {
+    "id": "uaetour-ale-cycling",
+    "clubId": null,
+    "orgName": "UAE Tour (Abu Dhabi Sports Council / RCS Sport)",
+    "sponsorId": "ale-cycling",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Race partner page (see sponsor note)",
+      "date": "2026-09-25",
+      "url": "https://www.alecycling.com/",
+      "note": "Italian cycling-apparel maker (alecycling.com); Jersey Partner of the UAE Tour and Official partner of the AlUla Tour. Ownership not traced."
+    }
+  },
+  {
+    "id": "alulatour-ale-cycling",
+    "clubId": null,
+    "orgName": "AlUla Tour (ASO / Royal Commission for AlUla / Saudi Ministry of Sport)",
+    "sponsorId": "ale-cycling",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Race partner page (see sponsor note)",
+      "date": "2026-09-25",
+      "url": "https://www.alecycling.com/",
+      "note": "Italian cycling-apparel maker (alecycling.com); Jersey Partner of the UAE Tour and Official partner of the AlUla Tour. Ownership not traced."
+    }
+  },
+  {
+    "id": "alulatour-nova-water",
+    "clubId": null,
+    "orgName": "AlUla Tour (ASO / Royal Commission for AlUla / Saudi Ministry of Sport)",
+    "sponsorId": "nova-water",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Race partner page (see sponsor note)",
+      "date": "2026-09-25",
+      "url": "https://novawater.com/",
+      "note": "Bottled-water brand (novawater.com); Official partner of the AlUla Tour. Ownership and country of incorporation not verified."
+    }
+  },
+  {
+    "id": "alulatour-budget-saudi-arabia",
+    "clubId": null,
+    "orgName": "AlUla Tour (ASO / Royal Commission for AlUla / Saudi Ministry of Sport)",
+    "sponsorId": "budget-saudi-arabia",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Race partner page (see sponsor note)",
+      "date": "2026-09-25",
+      "url": "https://budgetsaudi.com/",
+      "note": "Car-rental company (budgetsaudi.com); Official partner of the AlUla Tour. Ownership not verified this pass."
+    }
+  },
+  {
     "id": "dakar-host-country-saudi",
     "clubId": null,
     "orgName": "Dakar Rally (ASO)",

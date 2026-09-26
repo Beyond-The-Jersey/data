@@ -124,8 +124,10 @@
     "status": "unrated",
     "verdict": null,
     "claimIds": [],
-    "aliases": [],
-    "note": "Existing entry. This target adds: naming sponsor of the Emirates Poules d'Essai (French Guineas day, 10 May 2026) via the UAE President Cup series, per France Galop's partners page and the France Galop ticketing page."
+    "aliases": [
+      "adsc"
+    ],
+    "note": "Existing entry. This target adds: owner and organiser of the UAE Tour and UAE Tour Women; 'Established in 2006 by His Highness Sheikh Mohamed bin Zayed Al Nahyan' and 'aligned to the emirate's leadership vision' (adsc.gov.ae/about-us, opened)."
   },
   {
     "id": "acadomia",
@@ -200,6 +202,20 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "ad-ports-group",
+    "name": "AD Ports Group",
+    "ownerId": "ad-ports-group",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "abu dhabi ports"
+    ],
+    "note": "Abu Dhabi ports-and-logistics group owned by ADQ; Presenting Sponsor of the UAE Tour and UAE Tour Women (theuaetour.com/sponsors and theuaetourwomen.com/sponsors, both opened), a partnership the Abu Dhabi Sports Council says was 'established in 2026' and continues in 2027."
   },
   {
     "id": "address-coffee",
@@ -568,7 +584,7 @@
     "aliases": [
       "aldar"
     ],
-    "note": "DP World Tour partner (tour partner bar, fetched 25 Sep 2026). Abu Dhabi-listed developer; aldar.com is JS-gated and no primary ownership statement was retrieved, so no owner linked."
+    "note": "Existing entry. This target adds: classification-jersey sponsor of the UAE Tour and UAE Tour Women (theuaetour.com/sponsors, opened). Ownership unchanged (left null)."
   },
   {
     "id": "aldrees",
@@ -592,6 +608,21 @@
     "claimIds": [],
     "aliases": [],
     "note": "Al-Ettifaq / Al-Taawoun front sponsor."
+  },
+  {
+    "id": "ale-cycling",
+    "name": "Alé Cycling",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "ale",
+      "ale cycling apparel"
+    ],
+    "note": "Italian cycling-apparel maker (alecycling.com); Jersey Partner of the UAE Tour and Official partner of the AlUla Tour. Ownership not traced."
   },
   {
     "id": "alfa-bank",
@@ -785,7 +816,7 @@
     "aliases": [
       "experience alula"
     ],
-    "note": "Saudi destination brand run by the Royal Commission for AlUla; co-title sponsor of Team Jayco AlUla."
+    "note": "Existing entry. This target adds: the destination brand is the name of the AlUla Tour (formerly Saudi Tour) and the Royal Commission for AlUla (rcu.gov.sa) is listed as an institutional partner of the race (thealulatour.com/en/partners, opened)."
   },
   {
     "id": "am-green",
@@ -903,6 +934,20 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "amstel",
+    "name": "Amstel",
+    "ownerId": "heineken-nv",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "amstel beer"
+    ],
+    "note": "Dutch beer brand taken over by Heineken N.V. in 1968; Golden partner and classification-jersey sponsor of the Tour du Rwanda (tourdurwanda.rw, opened)."
   },
   {
     "id": "analog",
@@ -2097,6 +2142,34 @@
     "note": "Rating note: Rated with shell for consistency. BP also held a 19.75% stake in Russia's state-controlled Rosneft until 2022 - a further Russia-exposure note."
   },
   {
+    "id": "bpr-bank",
+    "name": "BPR Bank Rwanda",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "banque populaire du rwanda"
+    ],
+    "note": "Rwandan bank, subsidiary of Kenya's KCB Group (87.5% after the 2021/2022 acquisition and amalgamation); Silver partner and classification-jersey sponsor of the Tour du Rwanda. KCB stake left null pending a primary source."
+  },
+  {
+    "id": "brd-rwanda",
+    "name": "Development Bank of Rwanda (BRD)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "brd"
+    ],
+    "note": "Rwandan development bank, a public company limited by shares with the Government of Rwanda ranked as its top shareholder; Silver partner and points-classification jersey sponsor of the Tour du Rwanda. Exact government stake not published on the pages checked, so ownerId left null."
+  },
+  {
     "id": "breitling",
     "name": "Breitling",
     "ownerId": "cvc-capital-partners",
@@ -2136,6 +2209,20 @@
     "note": "Energy supplier owned by Centrica; official energy partner of the WSL and WSL2 from 2025/26."
   },
   {
+    "id": "budget-saudi-arabia",
+    "name": "Budget Saudi Arabia",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "budget rent a car saudi arabia"
+    ],
+    "note": "Car-rental company (budgetsaudi.com); Official partner of the AlUla Tour. Ownership not verified this pass."
+  },
+  {
     "id": "budweiser",
     "name": "Budweiser",
     "ownerId": "anheuser-busch-owner",
@@ -2172,6 +2259,20 @@
     "claimIds": [],
     "aliases": [],
     "note": "Global Partner of New Zealand Rugby (allblacks.com/partners)."
+  },
+  {
+    "id": "burjeel-holdings",
+    "name": "Burjeel Holdings",
+    "ownerId": "burjeel-holdings",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "aliases": [
+      "burjeel"
+    ],
+    "claimIds": [],
+    "note": "UAE private healthcare group founded by Dr Shamsheer Vayalil in Abu Dhabi in 2007 (burjeelholdings.com); Jersey Sponsor of the UAE Tour and UAE Tour Women and Medical Sponsor (Burjeel Medical City) of the men's race."
   },
   {
     "id": "burns-and-mcdonnell",
@@ -2783,7 +2884,7 @@
     "verdict": null,
     "claimIds": [],
     "aliases": [],
-    "note": "Italian bicycle manufacturer; UAE Team Emirates bike sponsor (Inner Ring links it to Sheikh Tahnoun)."
+    "note": "Existing entry. This target adds: Bike Partner of the UAE Tour and UAE Tour Women (theuaetour.com/sponsors and theuaetourwomen.com/sponsors, opened)."
   },
   {
     "id": "commscope",
@@ -5953,6 +6054,18 @@
     "note": "Listed on the ATP Tour's official partners as 'Infosys - DIGITAL INNOVATION PARTNER' (atptour.com/en/-/partners, fetched 25 Sep 2026). Infosys Ltd is a Mumbai-listed IT services company; no state shareholder claimed and its partnership start year was not verifiable here (infosys.com blocks automated access)."
   },
   {
+    "id": "ingufu-gin",
+    "name": "Ingufu Gin",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Rwandan gin brand (ingufugin.com); Bronze partner and classification-jersey sponsor of the Tour du Rwanda. Ownership not traced."
+  },
+  {
     "id": "intermarche",
     "name": "Intermarché",
     "ownerId": null,
@@ -6015,6 +6128,20 @@
     "claimIds": [],
     "aliases": [],
     "note": "Brand of Align Technology, Inc. (US-listed, NASDAQ: ALGN); owner entry not yet created."
+  },
+  {
+    "id": "inyange",
+    "name": "Inyange Industries",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "inyange industries"
+    ],
+    "note": "Rwandan food and beverage company (inyangeindustries.com); supplier-tier partner and classification-jersey sponsor of the Tour du Rwanda. Ownership not traced this pass."
   },
   {
     "id": "io-sono-friuli-venezia-giulia",
@@ -7264,6 +7391,20 @@
     "aliases": []
   },
   {
+    "id": "manahil-nissan",
+    "name": "Manahil Nissan",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "manahil"
+    ],
+    "note": "Saudi Nissan dealer (en.nissan-manahil.com); Main partner of the AlUla Tour (thealulatour.com/en/partners, opened). Ownership not traced."
+  },
+  {
     "id": "mapei",
     "name": "Mapei",
     "ownerId": "mapei-spa",
@@ -8023,6 +8164,21 @@
     "aliases": []
   },
   {
+    "id": "mtn-momo",
+    "name": "MTN MoMo (Mobile Money)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "mtn mobile money",
+      "momo"
+    ],
+    "note": "Mobile-money platform of MTN Group (JSE-listed); Silver partner and classification-jersey sponsor of the Tour du Rwanda. MTN Group's current shareholding was not traced to a primary document this pass."
+  },
+  {
     "id": "mubadala",
     "name": "Mubadala Investment Company",
     "ownerId": "mubadala",
@@ -8480,6 +8636,20 @@
     ],
     "aliases": [],
     "note": "Rating note: Tiered 'concern' not 'serious' because GIC co-owns with private-equity capital rather than holding 100%. Nouryon does not publish an exact split; 'jointly owned' implies broadly equal stakes."
+  },
+  {
+    "id": "nova-water",
+    "name": "Nova (Nova Water)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "novawater"
+    ],
+    "note": "Bottled-water brand (novawater.com); Official partner of the AlUla Tour. Ownership and country of incorporation not verified."
   },
   {
     "id": "nrg-energy",
@@ -9214,6 +9384,18 @@
       "prima"
     ],
     "note": "Title sponsor of Prima Pramac Yamaha MotoGP, confirmed again for the 2026 season (Yamaha Motor race release, 2026-01-14). Ownership not yet researched (prima.it blocks fetching)."
+  },
+  {
+    "id": "prime-rwanda",
+    "name": "Prime (prime.rw)",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Silver partner of the Tour du Rwanda (tourdurwanda.rw, opened); the company's legal identity and ownership were not verified - prime.rw did not resolve to readable content this pass."
   },
   {
     "id": "primo-brands",
@@ -10552,6 +10734,18 @@
     "claimIds": [],
     "aliases": [],
     "note": "Official Sound Provider (fiaformulae.com/en/partners, fetched 2026-09-25)."
+  },
+  {
+    "id": "sensitive-group",
+    "name": "Sensitive Group",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Rwandan company (sensitive.co.rw); supplier-tier partner and classification-jersey sponsor of the Tour du Rwanda. Ownership not traced."
   },
   {
     "id": "servicenow",

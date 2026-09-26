@@ -46,6 +46,15 @@
     "parentId": "magnus-holdings"
   },
   {
+    "id": "ad-ports-group",
+    "name": "AD Ports Group (Abu Dhabi Ports PJSC)",
+    "type": "listed-company",
+    "country": "United Arab Emirates",
+    "via": "owned by ADQ per AD Ports Group's own about-us page",
+    "note": "'Established by Emiri Decree and owned by ADQ, one of the region's largest holding companies' (adportsgroup.com/en/about-us, opened). ADQ is a wholly Government-of-Abu-Dhabi state fund (existing owners.json entry). Presenting Sponsor of the UAE Tour and UAE Tour Women.",
+    "parentId": "adq"
+  },
+  {
     "id": "adidas-ag",
     "name": "adidas AG",
     "type": "listed-company",
@@ -679,6 +688,15 @@
     "type": "listed-company",
     "parentId": null,
     "country": "United Kingdom"
+  },
+  {
+    "id": "burjeel-holdings",
+    "name": "Burjeel Holdings",
+    "type": "private-company",
+    "country": "United Arab Emirates",
+    "via": "founded by Dr Shamsheer Vayalil in Abu Dhabi in 2007",
+    "note": "'Founded by Dr. Shamsheer Vayalil in Abu Dhabi in 2007' (burjeelholdings.com, opened). Jersey sponsor of the UAE Tour and UAE Tour Women. ADX listing / ADQ stake not verified to a primary document this pass.",
+    "parentId": null
   },
   {
     "id": "burns-and-mcdonnell-owner",
@@ -1644,6 +1662,14 @@
     "country": "Kuwait",
     "parentId": null,
     "note": "Host state for the Saudi Super Cup 2026 (December 2026) and the Trophée des Champions 2025 edition (8 January 2026); the Kuwait FA president quoted on the hosting is Sheikh Ahmad Al-Yousef Al-Sabah of the ruling Al Sabah family (Goal.com, 14 Sep 2026)."
+  },
+  {
+    "id": "government-of-oman",
+    "name": "Government of the Sultanate of Oman",
+    "type": "state",
+    "country": "Oman",
+    "note": "Created for this target; Oman is not on the project's core state list - its rights record should be rated separately.",
+    "parentId": null
   },
   {
     "id": "government-of-qatar",
@@ -2894,6 +2920,15 @@
     "parentId": null
   },
   {
+    "id": "oman-ministry-culture-sports-youth",
+    "name": "Oman Ministry of Culture, Sports and Youth",
+    "type": "state",
+    "country": "Oman",
+    "via": "government ministry of the Sultanate of Oman (mcsy.gov.om, opened)",
+    "note": "Organiser of the Tour of Oman and Muscat Classic, in cooperation with the Oman Cycling Association.",
+    "parentId": "government-of-oman"
+  },
+  {
     "id": "opap-group",
     "name": "OPAP Group",
     "type": "listed-company",
@@ -3028,6 +3063,15 @@
     "country": "United Kingdom",
     "via": "Pentland Brands",
     "note": "Pentland Group describes itself on its About Us page as 'a family business building and delivering positive brands in sports, outdoor and fashion'; Pentland Brands 'owns Speedo, Berghaus, Canterbury, Endura, ellesse, SeaVees, Red Or Dead and Mitre'. Pentland also holds 51.89% of JD Sports Fashion plc.",
+    "parentId": null
+  },
+  {
+    "id": "people-s-government-of-guangxi",
+    "name": "People's Government of the Guangxi Zhuang Autonomous Region",
+    "type": "state",
+    "country": "China",
+    "via": "provincial-level government of the Guangxi Zhuang Autonomous Region, China",
+    "note": "Co-organiser (with Wanda Group) and owner of the Tour of Guangxi, a UCI WorldTour race created by a 1 December 2016 agreement between the UCI, Wanda Sports and the regional government.",
     "parentId": null
   },
   {
@@ -3271,6 +3315,15 @@
     "country": "USA"
   },
   {
+    "id": "rcs-sport",
+    "name": "RCS Sport (RCS MediaGroup)",
+    "type": "private-company",
+    "country": "Italy",
+    "via": "RCS MediaGroup, controlled by Urbano Cairo via Cairo Communication (59.693%)",
+    "note": "Cairo Communication holds 59.693% of RCS MediaGroup and Urbano Cairo is chairman and CEO (RCS MediaGroup corporate structure). Organiser of the UAE Tour and UAE Tour Women on behalf of the Abu Dhabi Sports Council.",
+    "parentId": null
+  },
+  {
     "id": "recruit-holdings",
     "name": "Recruit Holdings",
     "type": "listed-company",
@@ -3434,6 +3487,15 @@
     "country": "Rwanda",
     "via": "Ministry of Defence",
     "note": "Designated by OFAC on 2 March 2026 (SDN entry: 'RWANDA DEFENCE FORCE (a.k.a. RDF), Ministry of Defence, KG 1 Roundabout, Kigali', tagged DRCONGO). Owner of APR BBC, the 2026 Rwandan champion that withdrew from the 2026 BAL.",
+    "parentId": "government-of-rwanda"
+  },
+  {
+    "id": "rwanda-ministry-of-sports",
+    "name": "Rwanda Ministry of Sports (Minisports)",
+    "type": "state",
+    "country": "Rwanda",
+    "via": "minisports.gov.rw, listed as an institution partner of the Tour du Rwanda",
+    "note": "Institution partner of the Tour du Rwanda alongside the European Commission Global Gateway and Rwanda National Police (tourdurwanda.rw, opened).",
     "parentId": "government-of-rwanda"
   },
   {
