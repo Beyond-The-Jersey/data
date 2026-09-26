@@ -6108,6 +6108,87 @@
     "leagueId": "la-liga"
   },
   {
+    "id": "liga-portugal-betclic-title",
+    "clubId": null,
+    "orgName": "Liga Portugal (Primeira Liga)",
+    "leagueId": "liga-portugal",
+    "sponsorId": "betclic",
+    "placement": "league-partner",
+    "from": "2023",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Record, 'Liga 2023/24 passa a chamar-se Liga Portugal Betclic' (naming from 2023/24, replacing Bwin); confirmed live on ligaportugal.pt commercial page ('Title sponsor') and season news branding",
+      "date": "2023-07-05",
+      "url": "https://www.record.pt/futebol/futebol-nacional/liga-bwin/detalhe/liga-202324-passa-a-chamar-se-liga-portugal-betclic"
+    },
+    "note": "Competition branded 'Liga Portugal Betclic' since 2023-24; naming deal still running through the 2026-27 season (league's own commercial page lists Betclic as title sponsor; news of 23 Sep 2026 uses the Liga Portugal Betclic name)."
+  },
+  {
+    "id": "benfica-emirates-front",
+    "clubId": "benfica",
+    "orgName": null,
+    "sponsorId": "emirates",
+    "placement": "front",
+    "from": "2015",
+    "to": "2028-29",
+    "value": null,
+    "source": {
+      "name": "Sportcal, 'Benfica and Emirates extend shirt sponsorship deal to 2029' (five more seasons from 2024; Emirates official airline partner since 2014, shirt sponsor since 2015)",
+      "date": "2024-08-14",
+      "url": "https://www.sportcal.com/sponsorship/benfica-and-emirates-extend-shirt-sponsorship-deal-to-2029/"
+    },
+    "note": "Benfica calls it the 'longest and most lucrative' front-of-shirt deal in its history; no value disclosed. Original 2015 announcement: Emirates media centre, 19 May 2015 (three-year front-of-shirt deal, 'Fly Emirates on the front of the SL Benfica jersey')."
+  },
+  {
+    "id": "benfica-betano-sleeve",
+    "clubId": "benfica",
+    "orgName": null,
+    "sponsorId": "betano",
+    "placement": "sleeve",
+    "from": "2021-22",
+    "to": "2026-27",
+    "value": null,
+    "source": {
+      "name": "Kaizen Gaming, 'Betano and SL Benfica renew partnership for 3 more years' (first brand ever on the SL Benfica sleeve, through 2026/27)",
+      "date": "2024-05-16",
+      "url": "https://kaizengaming.com/news/betano-and-sl-benfica-renew-partnership-for-3-more-years/"
+    },
+    "note": "Also confirmed by Sportcal (Aug 2024): Benfica renewed its Betano sleeve deal through 2026-27."
+  },
+  {
+    "id": "porto-betano-front",
+    "clubId": "porto",
+    "orgName": null,
+    "sponsorId": "betano",
+    "placement": "front",
+    "from": "2021",
+    "to": "2028-29",
+    "value": null,
+    "source": {
+      "name": "Kaizen Gaming, 'Betano and FC Porto renew partnership until 2029' (Main Sponsor, logo on the front of the official match and training shirts)",
+      "date": "2026-07-30",
+      "url": "https://kaizengaming.com/news/betano-and-fc-porto-renew-partnership-until-2029-2/"
+    },
+    "note": "Betano partner of Porto since 2021; renewal extends to the Women's Team (sleeve) from 2026-27."
+  },
+  {
+    "id": "sporting-cp-betano-front",
+    "clubId": "sporting-cp",
+    "orgName": null,
+    "sponsorId": "betano",
+    "placement": "front",
+    "from": "2021",
+    "to": "2028-29",
+    "value": null,
+    "source": {
+      "name": "Kaizen Gaming, 'Betano and Sporting CP renew partnership until 2029' (Main Sponsor, branding on the front of both teams' official shirts)",
+      "date": "2025-08-08",
+      "url": "https://kaizengaming.com/news/betano-and-sporting-cp-renew-partnership-until-2029/"
+    },
+    "note": "Betano has sponsored Sporting since 2021."
+  },
+  {
     "id": "ligue-1-mcdonalds-title",
     "clubId": null,
     "orgName": "Ligue 1 McDonald's",

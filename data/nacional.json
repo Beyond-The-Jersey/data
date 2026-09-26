@@ -1,0 +1,45 @@
+{
+  "id": "nacional",
+  "team": "CD Nacional",
+  "sport": "soccer",
+  "league": "liga-portugal",
+  "country": "Portugal",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "coral-cerveja",
+      "name": "Cerveja Coral",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "pestana-group",
+      "owner": "Pestana Group",
+      "verdict": null,
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Coral Cerveja main kit sponsor)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+      }
+    },
+    {
+      "id": "madeira-tao-tua",
+      "name": "Madeira. Tao tua",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Madeira. Tão tua back)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "pestana-group"
+  ],
+  "lastUpdated": "2026-09-24"
+}

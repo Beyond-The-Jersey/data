@@ -1,0 +1,43 @@
+{
+  "id": "maritimo",
+  "team": "CS Maritimo",
+  "sport": "soccer",
+  "league": "liga-portugal",
+  "country": "Portugal",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "bwin",
+      "name": "Bwin",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (bwin main kit sponsor)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+      }
+    },
+    {
+      "id": "madeira-tao-tua",
+      "name": "Madeira. Tao tua",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Madeira. Tão tua front)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

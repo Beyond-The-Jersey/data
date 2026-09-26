@@ -1407,6 +1407,21 @@
     "note": "Italian luxury yacht builder; Global Partner of Red Bull Italy (sailgp.com team page, fetched 2026-09-25)."
   },
   {
+    "id": "azores-airlines",
+    "name": "Azores Airlines (SATA)",
+    "ownerId": "sata-group",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "sata",
+      "sata azores airlines"
+    ],
+    "note": "Airline of the Azores-based SATA group, controlled by the Regional Government of the Azores. Front-of-shirt sponsor at Santa Clara in 2026-27."
+  },
+  {
     "id": "b-and-b-hotels",
     "name": "B&B Hotels",
     "ownerId": null,
@@ -1774,6 +1789,21 @@
     ],
     "aliases": [],
     "note": "Rating note: Private Greek/Czech owners, no state link → none. Kaizen is registered/parented in Malta while Greek-founded; country shown as GR as the operating origin. Ownership percentage sourced from trade press, hence medium confidence."
+  },
+  {
+    "id": "betclic",
+    "name": "Betclic",
+    "ownerId": "betclic-everest",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "betclic everest",
+      "bem operations"
+    ],
+    "note": "Title/naming sponsor of Liga Portugal since 2023-24 ('Liga Portugal Betclic'); league-partner deal recorded separately. Operator per SRIJ register: BEM OPERATIONS LIMITED."
   },
   {
     "id": "betmgm",
@@ -2311,7 +2341,8 @@
     "status": "unrated",
     "verdict": null,
     "claimIds": [],
-    "aliases": []
+    "aliases": [],
+    "note": "Kit sponsor per https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
   },
   {
     "id": "bwt",
@@ -2951,6 +2982,21 @@
     "claimIds": [],
     "aliases": [],
     "note": "Entain plc's UK betting brand; first front-of-shirt deal in its history, on Birmingham City men's and women's shirts from 2026/27."
+  },
+  {
+    "id": "coral-cerveja",
+    "name": "Cerveja Coral",
+    "ownerId": "pestana-group",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "coral beer",
+      "empresa de cerveja da madeira"
+    ],
+    "note": "Madeira beer brand of the Madeira Brewery (Empresa de Cerveja da Madeira), controlled since 1999 by the Pestana Group with the Miles family. Back-of-shirt sponsor at Nacional in 2026-27."
   },
   {
     "id": "corales-puntacana",
@@ -5097,6 +5143,21 @@
     "note": "Rating note: Explicitly states member-owned and not-for-profit; no state stake or serious conduct record identified."
   },
   {
+    "id": "goldenpark",
+    "name": "Goldenpark Casino",
+    "ownerId": "azartia",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "goldenpark",
+      "goldenpark.pt"
+    ],
+    "note": "Portuguese online casino/betting brand; SRIJ licence 029 held by Azartia Games, S.A. Main kit sponsor at Gil Vicente in 2026-27."
+  },
+  {
     "id": "golf-saudi",
     "name": "Golf Saudi",
     "ownerId": null,
@@ -5733,6 +5794,21 @@
       "honda-motor-co-ltd-record"
     ],
     "aliases": []
+  },
+  {
+    "id": "hospital-da-luz",
+    "name": "Hospital da Luz (Luz Saude)",
+    "ownerId": "fidelidade",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "luz saude",
+      "hospital da luz"
+    ],
+    "note": "Portuguese private hospital group (Luz Saude, 60% Fidelidade / 40% Macquarie since Sep 2025; Fidelidade is 85% Fosun / 15% state-owned CGD). Front or sleeve sponsor at several clubs in 2026-27."
   },
   {
     "id": "howden",
@@ -6928,6 +7004,20 @@
     "note": "Dutch bike-leasing venture owned by the Pon conglomerate."
   },
   {
+    "id": "lebull",
+    "name": "Lebull",
+    "ownerId": "southern-stingray",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "lebull.pt"
+    ],
+    "note": "Portuguese online betting brand (SRIJ licence 027, operator Southern Stingray, S.A.). Main kit sponsor at Estrela da Amadora, Rio Ave and Santa Clara in 2026-27."
+  },
+  {
     "id": "ledger",
     "name": "Ledger",
     "ownerId": "ledger-owner",
@@ -7294,6 +7384,18 @@
     "note": "Rating note: Listed Company company with no significant conduct issues found"
   },
   {
+    "id": "lus-iadas",
+    "name": "Lus Iadas",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Kit sponsor per https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+  },
+  {
     "id": "lvcva",
     "name": "Las Vegas Convention and Visitors Authority (LVCVA) - 'Las Vegas' patch",
     "ownerId": "lvcva-owner",
@@ -7356,6 +7458,21 @@
     "claimIds": [],
     "aliases": [],
     "note": "Kit supplier to Al-Diriyah and Al-Taawoun."
+  },
+  {
+    "id": "madeira-tao-tua",
+    "name": "Madeira. Tao tua",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "madeira tao tua",
+      "madeira promotion bureau"
+    ],
+    "note": "'Madeira. Tua' destination-marketing slogan of the Madeira island authorities; appears as front-of-shirt sponsor at Maritimo and back at Nacional in 2026-27. The branding body (Madeira Promotion Bureau / regional government) not yet verified from a primary source."
   },
   {
     "id": "mahou-san-miguel",
@@ -9247,6 +9364,22 @@
     "note": "Rating note: State stake is being reduced (talk of a further cut toward 10%) but Sinochem remained Pirelli's second-largest shareholder after the July 2026 sale, so 'serious' still stands. Camfin (Tronchetti Provera family) is the largest holder. ON HOLD: a minority state stake (about 20%): concern at most under tiers.json."
   },
   {
+    "id": "placard",
+    "name": "Placard (Jogos Santa Casa)",
+    "ownerId": "santa-casa",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "placard.pt",
+      "santa casa",
+      "jogos santa casa"
+    ],
+    "note": "Portuguese state-linked fixed-odds sports betting product of Jogos Santa Casa; online licences held by SAS Apostas Sociais, Jogos e Apostas Online, S.A. (SRIJ). Main kit sponsor at Alverca, Moreirense and Vitoria SC in 2026-27."
+  },
+  {
     "id": "play",
     "name": "Play (Ed Sheeran 'Play' tour)",
     "ownerId": "ed-sheeran",
@@ -10349,6 +10482,21 @@
     "aliases": []
   },
   {
+    "id": "sagres",
+    "name": "Sagres",
+    "ownerId": "sociedade-central-cervejas",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "cerveja sagres",
+      "scc"
+    ],
+    "note": "Portuguese beer brand of Sociedade Central de Cervejas e Bebidas (100% Heineken since 2008). Back-of-shirt sponsor at Benfica in 2026-27."
+  },
+  {
     "id": "salesforce",
     "name": "Salesforce",
     "ownerId": "salesforce-inc",
@@ -11137,6 +11285,33 @@
     "aliases": []
   },
   {
+    "id": "soleo",
+    "name": "Soleo",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Kit sponsor per https://www.scbraga.pt/pt/sponsors"
+  },
+  {
+    "id": "solverde",
+    "name": "Solverde.pt",
+    "ownerId": "solverde",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "solverde",
+      "grupo solverde"
+    ],
+    "note": "Online casino/betting brand of Grupo Solverde (casinos Espinho, Vilamoura, Monte Gordo, Portimao, Chaves); SRIJ-licensed. Main kit sponsor at SC Braga and Estoril Praia in 2026-27."
+  },
+  {
     "id": "sonepar",
     "name": "Sonepar",
     "ownerId": "sonepar",
@@ -11562,6 +11737,20 @@
     "note": "Rating note: Sun Life Financial is publicly traded (Canada/US) with no state ownership; no controlling shareholder. Largest holdings are institutional (Vanguard, BlackRock) each under 10%. No human-rights concerns in ownership chain."
   },
   {
+    "id": "super-bock",
+    "name": "Super Bock",
+    "ownerId": "super-bock-group",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "super bock group"
+    ],
+    "note": "Portuguese beer brand (Super Bock Group). Back-of-shirt sponsor at Porto and Sporting CP, and an official sponsor at Braga, in 2026-27."
+  },
+  {
     "id": "superbet",
     "name": "Superbet",
     "ownerId": "superbet-owner",
@@ -11901,6 +12090,18 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "tek4life",
+    "name": "Tek4Life",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Kit sponsor per https://www.scbraga.pt/pt/sponsors"
   },
   {
     "id": "telus",
@@ -12278,6 +12479,21 @@
       "Turkish Football Federation"
     ],
     "note": "Host of the Supercopa de España 2027 (Istanbul, 2-6 February 2027); the RFEF president signed the hosting agreement in Istanbul. Ownership not traced; Turkish sports and culture/tourism ministers attended the presentation (El Español, 17 Sep 2026)."
+  },
+  {
+    "id": "tvi",
+    "name": "TVI",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "televisao independente",
+      "media capital"
+    ],
+    "note": "Portuguese free-to-air TV channel (Media Capital group). Front-of-shirt sponsor at Moreirense in 2026-27."
   },
   {
     "id": "twg-ai",
@@ -12691,6 +12907,20 @@
     ],
     "aliases": [],
     "note": "Rating note: Duplicate sponsor record for a second car; same owner resolved."
+  },
+  {
+    "id": "visabeira",
+    "name": "Visabeira",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "grupo visabeira"
+    ],
+    "note": "Portuguese conglomerate (telecoms, energy, industry incl. Vista Alegre, tourism, construction), founded in Viseu in 1980. Main kit sponsor at Academico de Viseu in 2026-27. Controlling owners not stated in the sources checked."
   },
   {
     "id": "visit-qatar",
@@ -13151,14 +13381,15 @@
   },
   {
     "id": "xtb",
-    "name": "XTB",
+    "name": "Xtb",
     "ownerId": null,
     "ownership": null,
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
     "claimIds": [],
-    "aliases": []
+    "aliases": [],
+    "note": "Kit sponsor per https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
   },
   {
     "id": "yaourt-malo",

@@ -5922,6 +5922,564 @@
     "change": null
   },
   {
+    "id": "benfica-2026-27-home",
+    "clubId": "benfica",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "emirates",
+        "placement": "front",
+        "source": {
+          "name": "Sportcal, 'Benfica and Emirates extend shirt sponsorship deal to 2029'",
+          "date": "2024-08-14",
+          "url": "https://www.sportcal.com/sponsorship/benfica-and-emirates-extend-shirt-sponsorship-deal-to-2029/"
+        }
+      },
+      {
+        "sponsorId": "betano",
+        "placement": "sleeve",
+        "source": {
+          "name": "Sportcal, 'Benfica and Emirates extend shirt sponsorship deal to 2029' (notes Betano sleeve renewal through 2026-27)",
+          "date": "2024-08-14",
+          "url": "https://www.sportcal.com/sponsorship/benfica-and-emirates-extend-shirt-sponsorship-deal-to-2029/"
+        }
+      },
+      {
+        "sponsorId": "sagres",
+        "placement": "back",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Emirates front; Sagres back)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Front paid for by the Government of Dubai via Emirates.",
+    "change": null
+  },
+  {
+    "id": "porto-2026-27-home",
+    "clubId": "porto",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "betano",
+        "placement": "front",
+        "source": {
+          "name": "Kaizen Gaming, 'Betano and FC Porto renew partnership until 2029' (Main Sponsor, logo on the front of the official match shirts)",
+          "date": "2026-07-30",
+          "url": "https://kaizengaming.com/news/betano-and-fc-porto-renew-partnership-until-2029-2/"
+        }
+      },
+      {
+        "sponsorId": "super-bock",
+        "placement": "back",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Betano front slot; Super Bock back)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      },
+      {
+        "sponsorId": "xtb",
+        "placement": "sleeve",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (XTB sleeve, UEFA matches)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Front paid for by Kaizen Gaming (private Greek/Czech owners, partly Allwyn) via Betano.",
+    "change": null
+  },
+  {
+    "id": "sporting-cp-2026-27-home",
+    "clubId": "sporting-cp",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "betano",
+        "placement": "front",
+        "source": {
+          "name": "Kaizen Gaming, 'Betano and Sporting CP renew partnership until 2029' (Main Sponsor, branding on the front of the official shirts)",
+          "date": "2025-08-08",
+          "url": "https://kaizengaming.com/news/betano-and-sporting-cp-renew-partnership-until-2029/"
+        }
+      },
+      {
+        "sponsorId": "super-bock",
+        "placement": "back",
+        "source": {
+          "name": "Sporting CP official sponsors page (Super Bock listed as Main Partner) plus Wikipedia 2026-27 Personnel and kits (Super Bock back)",
+          "date": "2026-09",
+          "url": "https://www.sporting.pt/en/sponsors"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Front paid for by Kaizen Gaming (private Greek/Czech owners, partly Allwyn) via Betano.",
+    "change": null
+  },
+  {
+    "id": "braga-2026-27-home",
+    "clubId": "braga",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "solverde",
+        "placement": "front",
+        "source": {
+          "name": "SC Braga official sponsors page (Solverde listed first among Patrocinadores Principais)",
+          "date": "2026-09",
+          "url": "https://www.scbraga.pt/pt/sponsors"
+        }
+      },
+      {
+        "sponsorId": "soleo",
+        "placement": "front",
+        "source": {
+          "name": "SC Braga official sponsors page (Soleo among Patrocinadores Principais)",
+          "date": "2026-09",
+          "url": "https://www.scbraga.pt/pt/sponsors"
+        }
+      },
+      {
+        "sponsorId": "tek4life",
+        "placement": "sleeve",
+        "source": {
+          "name": "SC Braga official sponsors page (Tek4life among Patrocinadores Principais)",
+          "date": "2026-09",
+          "url": "https://www.scbraga.pt/pt/sponsors"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Front of the shirt carries Solverde.pt (Grupo Solverde) and Soleo; sleeve Tek4life. Qatar Sports Investments (QSI, via the Qatar Investment Authority) holds about 29.6% of the football SAD.",
+    "change": null
+  },
+  {
+    "id": "alverca-2026-27-home",
+    "clubId": "alverca",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "placard",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Placard.pt main kit sponsor)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Shirt main slot paid for by Jogos Santa Casa (Portuguese state mandate) via Placard.",
+    "change": null
+  },
+  {
+    "id": "moreirense-2026-27-home",
+    "clubId": "moreirense",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "placard",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Placard.pt main kit sponsor)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      },
+      {
+        "sponsorId": "tvi",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (tvi front)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Main slot paid for by Jogos Santa Casa via Placard; TVI on the front.",
+    "change": null
+  },
+  {
+    "id": "vitoria-guimaraes-2026-27-home",
+    "clubId": "vitoria-guimaraes",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "placard",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Placard.pt main kit sponsor)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Main slot paid for by Jogos Santa Casa (Portuguese state mandate) via Placard.",
+    "change": null
+  },
+  {
+    "id": "arouca-2026-27-home",
+    "clubId": "arouca",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "bwin",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (bwin main kit sponsor)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Main slot paid for by Entain plc (LSE-listed, no state owner) via Bwin.",
+    "change": null
+  },
+  {
+    "id": "casa-pia-2026-27-home",
+    "clubId": "casa-pia",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "bwin",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (bwin main kit sponsor)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      },
+      {
+        "sponsorId": "hospital-da-luz",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Hospital da Luz front)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Main slot paid for by Entain plc via Bwin; Hospital da Luz also on the front.",
+    "change": null
+  },
+  {
+    "id": "famalicao-2026-27-home",
+    "clubId": "famalicao",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "bwin",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (bwin main kit sponsor)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Main slot paid for by Entain plc via Bwin.",
+    "change": null
+  },
+  {
+    "id": "maritimo-2026-27-home",
+    "clubId": "maritimo",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "bwin",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (bwin main kit sponsor)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      },
+      {
+        "sponsorId": "madeira-tao-tua",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Madeira. Tão tua front)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Main slot paid for by Entain plc via Bwin; Madeira destination branding also on the front.",
+    "change": null
+  },
+  {
+    "id": "estrela-amadora-2026-27-home",
+    "clubId": "estrela-amadora",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "lebull",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Lebull main kit sponsor)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Main slot paid for by Southern Stingray, S.A. via Lebull.",
+    "change": null
+  },
+  {
+    "id": "rio-ave-2026-27-home",
+    "clubId": "rio-ave",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "lebull",
+        "placement": "front",
+        "source": {
+          "name": "Rio Ave FC official partners page (Lebull listed as Main Sponsor) plus Wikipedia 2026-27 Personnel and kits",
+          "date": "2026-09",
+          "url": "https://www.rioavefc.pt/pt/clube/parceiros"
+        }
+      },
+      {
+        "sponsorId": "lus-iadas",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Lusíadas front)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Main slot paid for by Southern Stingray, S.A. via Lebull; Lusíadas also on the front.",
+    "change": null
+  },
+  {
+    "id": "santa-clara-2026-27-home",
+    "clubId": "santa-clara",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "lebull",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Lebull main kit sponsor)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      },
+      {
+        "sponsorId": "azores-airlines",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Azores Airlines front)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Main slot paid for by Southern Stingray, S.A. via Lebull; Azores Airlines (Regional Government of the Azores) also on the front.",
+    "change": null
+  },
+  {
+    "id": "gil-vicente-2026-27-home",
+    "clubId": "gil-vicente",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "goldenpark",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Goldenpark Casino main kit sponsor)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Main slot paid for by Azartia Games, S.A. via Goldenpark.",
+    "change": null
+  },
+  {
+    "id": "nacional-2026-27-home",
+    "clubId": "nacional",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "coral-cerveja",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Coral Cerveja main kit sponsor)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      },
+      {
+        "sponsorId": "madeira-tao-tua",
+        "placement": "back",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Madeira. Tão tua back)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Main slot paid for by the Madeira Brewery (Pestana Group) via Coral beer.",
+    "change": null
+  },
+  {
+    "id": "estoril-praia-2026-27-home",
+    "clubId": "estoril-praia",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "solverde",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Solverde.pt main kit sponsor)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Main slot paid for by Grupo Solverde via Solverde.pt.",
+    "change": null
+  },
+  {
+    "id": "academico-de-viseu-2026-27-home",
+    "clubId": "academico-de-viseu",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "visabeira",
+        "placement": "front",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Visabeira main kit sponsor)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      },
+      {
+        "sponsorId": "dazn",
+        "placement": "sleeve",
+        "source": {
+          "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (DAZN sleeve)",
+          "date": "2026-09",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Main slot paid for by Grupo Visabeira (private Portuguese conglomerate).",
+    "change": null
+  },
+  {
     "id": "angers-sco-2026-27-home",
     "clubId": "angers-sco",
     "season": "2026-27",

@@ -1,0 +1,62 @@
+{
+  "id": "benfica",
+  "team": "SL Benfica",
+  "sport": "soccer",
+  "league": "liga-portugal",
+  "country": "Portugal",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "betano",
+      "name": "Betano",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "kaizen-gaming",
+      "owner": "Kaizen Gaming",
+      "verdict": "Owned by Kaizen Gaming International Limited (partly owned by Allwyn). Nothing found.",
+      "source": {
+        "name": "Sportcal, 'Benfica and Emirates extend shirt sponsorship deal to 2029' (notes Betano sleeve renewal through 2026-27)",
+        "date": "2024-08-14",
+        "url": "https://www.sportcal.com/sponsorship/benfica-and-emirates-extend-shirt-sponsorship-deal-to-2029/"
+      }
+    },
+    {
+      "id": "emirates",
+      "name": "Emirates",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "serious",
+      "ownerId": "government-of-dubai",
+      "owner": "Government of Dubai",
+      "verdict": "The airline is owned by the Dubai government’s investment arm.",
+      "source": {
+        "name": "Sportcal, 'Benfica and Emirates extend shirt sponsorship deal to 2029'",
+        "date": "2024-08-14",
+        "url": "https://www.sportcal.com/sponsorship/benfica-and-emirates-extend-shirt-sponsorship-deal-to-2029/"
+      }
+    },
+    {
+      "id": "sagres",
+      "name": "Sagres",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "sociedade-central-cervejas",
+      "owner": "Sociedade Central de Cervejas e Bebidas (SCC)",
+      "verdict": null,
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Emirates front; Sagres back)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "government-of-dubai",
+    "kaizen-gaming",
+    "sociedade-central-cervejas"
+  ],
+  "lastUpdated": "2026-09-24"
+}

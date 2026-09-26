@@ -3378,6 +3378,132 @@
       "file": "shanghai-dragons.json"
     },
     {
+      "id": "academico-de-viseu",
+      "name": "Academico de Viseu FC",
+      "sport": "soccer",
+      "league": "liga-portugal",
+      "file": "academico-de-viseu.json"
+    },
+    {
+      "id": "alverca",
+      "name": "FC Alverca",
+      "sport": "soccer",
+      "league": "liga-portugal",
+      "file": "alverca.json"
+    },
+    {
+      "id": "arouca",
+      "name": "FC Arouca",
+      "sport": "soccer",
+      "league": "liga-portugal",
+      "file": "arouca.json"
+    },
+    {
+      "id": "benfica",
+      "name": "SL Benfica",
+      "sport": "soccer",
+      "league": "liga-portugal",
+      "file": "benfica.json"
+    },
+    {
+      "id": "braga",
+      "name": "SC Braga",
+      "sport": "soccer",
+      "league": "liga-portugal",
+      "file": "braga.json"
+    },
+    {
+      "id": "casa-pia",
+      "name": "Casa Pia AC",
+      "sport": "soccer",
+      "league": "liga-portugal",
+      "file": "casa-pia.json"
+    },
+    {
+      "id": "estoril-praia",
+      "name": "G.D. Estoril Praia",
+      "sport": "soccer",
+      "league": "liga-portugal",
+      "file": "estoril-praia.json"
+    },
+    {
+      "id": "estrela-amadora",
+      "name": "C.F. Estrela da Amadora",
+      "sport": "soccer",
+      "league": "liga-portugal",
+      "file": "estrela-amadora.json"
+    },
+    {
+      "id": "famalicao",
+      "name": "FC Famalicao",
+      "sport": "soccer",
+      "league": "liga-portugal",
+      "file": "famalicao.json"
+    },
+    {
+      "id": "gil-vicente",
+      "name": "Gil Vicente FC",
+      "sport": "soccer",
+      "league": "liga-portugal",
+      "file": "gil-vicente.json"
+    },
+    {
+      "id": "maritimo",
+      "name": "CS Maritimo",
+      "sport": "soccer",
+      "league": "liga-portugal",
+      "file": "maritimo.json"
+    },
+    {
+      "id": "moreirense",
+      "name": "Moreirense FC",
+      "sport": "soccer",
+      "league": "liga-portugal",
+      "file": "moreirense.json"
+    },
+    {
+      "id": "nacional",
+      "name": "CD Nacional",
+      "sport": "soccer",
+      "league": "liga-portugal",
+      "file": "nacional.json"
+    },
+    {
+      "id": "porto",
+      "name": "FC Porto",
+      "sport": "soccer",
+      "league": "liga-portugal",
+      "file": "porto.json"
+    },
+    {
+      "id": "rio-ave",
+      "name": "Rio Ave FC",
+      "sport": "soccer",
+      "league": "liga-portugal",
+      "file": "rio-ave.json"
+    },
+    {
+      "id": "santa-clara",
+      "name": "CD Santa Clara",
+      "sport": "soccer",
+      "league": "liga-portugal",
+      "file": "santa-clara.json"
+    },
+    {
+      "id": "sporting-cp",
+      "name": "Sporting CP",
+      "sport": "soccer",
+      "league": "liga-portugal",
+      "file": "sporting-cp.json"
+    },
+    {
+      "id": "vitoria-guimaraes",
+      "name": "Vitoria SC",
+      "sport": "soccer",
+      "league": "liga-portugal",
+      "file": "vitoria-guimaraes.json"
+    },
+    {
       "id": "angers-sco",
       "name": "Angers SCO",
       "sport": "soccer",
@@ -4281,13 +4407,6 @@
       "file": "lille.json"
     },
     {
-      "id": "porto",
-      "name": "FC Porto",
-      "sport": "soccer",
-      "league": "uefa",
-      "file": "porto.json"
-    },
-    {
       "id": "psv",
       "name": "PSV Eindhoven",
       "sport": "soccer",
@@ -4321,13 +4440,6 @@
       "sport": "soccer",
       "league": "uefa",
       "file": "slavia-praha.json"
-    },
-    {
-      "id": "sporting-cp",
-      "name": "Sporting CP",
-      "sport": "soccer",
-      "league": "uefa",
-      "file": "sporting-cp.json"
     },
     {
       "id": "viking-fk",

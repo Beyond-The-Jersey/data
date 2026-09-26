@@ -1,0 +1,45 @@
+{
+  "id": "rio-ave",
+  "team": "Rio Ave FC",
+  "sport": "soccer",
+  "league": "liga-portugal",
+  "country": "Portugal",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "lebull",
+      "name": "Lebull",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "southern-stingray",
+      "owner": "Southern Stingray, S.A.",
+      "verdict": null,
+      "source": {
+        "name": "Rio Ave FC official partners page (Lebull listed as Main Sponsor) plus Wikipedia 2026-27 Personnel and kits",
+        "date": "2026-09",
+        "url": "https://www.rioavefc.pt/pt/clube/parceiros"
+      }
+    },
+    {
+      "id": "lus-iadas",
+      "name": "Lus Iadas",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Lusíadas front)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "southern-stingray"
+  ],
+  "lastUpdated": "2026-09-24"
+}

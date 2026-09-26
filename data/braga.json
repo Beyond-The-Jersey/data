@@ -1,0 +1,60 @@
+{
+  "id": "braga",
+  "team": "SC Braga",
+  "sport": "soccer",
+  "league": "liga-portugal",
+  "country": "Portugal",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "soleo",
+      "name": "Soleo",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "SC Braga official sponsors page (Soleo among Patrocinadores Principais)",
+        "date": "2026-09",
+        "url": "https://www.scbraga.pt/pt/sponsors"
+      }
+    },
+    {
+      "id": "solverde",
+      "name": "Solverde.pt",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "solverde",
+      "owner": "Grupo Solverde (Solverde - Sociedade de Investimentos Turisticos da Costa Verde)",
+      "verdict": null,
+      "source": {
+        "name": "SC Braga official sponsors page (Solverde listed first among Patrocinadores Principais)",
+        "date": "2026-09",
+        "url": "https://www.scbraga.pt/pt/sponsors"
+      }
+    },
+    {
+      "id": "tek4life",
+      "name": "Tek4Life",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "SC Braga official sponsors page (Tek4life among Patrocinadores Principais)",
+        "date": "2026-09",
+        "url": "https://www.scbraga.pt/pt/sponsors"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "solverde"
+  ],
+  "lastUpdated": "2026-09-24"
+}

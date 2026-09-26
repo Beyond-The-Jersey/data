@@ -2,11 +2,45 @@
   "id": "sporting-cp",
   "team": "Sporting CP",
   "sport": "soccer",
-  "league": "uefa",
+  "league": "liga-portugal",
   "country": "Portugal",
   "contact": {},
-  "sponsors": [],
-  "worstTier": "unrated",
-  "owners": [],
+  "sponsors": [
+    {
+      "id": "betano",
+      "name": "Betano",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "kaizen-gaming",
+      "owner": "Kaizen Gaming",
+      "verdict": "Owned by Kaizen Gaming International Limited (partly owned by Allwyn). Nothing found.",
+      "source": {
+        "name": "Kaizen Gaming, 'Betano and Sporting CP renew partnership until 2029' (Main Sponsor, branding on the front of the official shirts)",
+        "date": "2025-08-08",
+        "url": "https://kaizengaming.com/news/betano-and-sporting-cp-renew-partnership-until-2029/"
+      }
+    },
+    {
+      "id": "super-bock",
+      "name": "Super Bock",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "super-bock-group",
+      "owner": "Super Bock Group",
+      "verdict": null,
+      "source": {
+        "name": "Sporting CP official sponsors page (Super Bock listed as Main Partner) plus Wikipedia 2026-27 Personnel and kits (Super Bock back)",
+        "date": "2026-09",
+        "url": "https://www.sporting.pt/en/sponsors"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "kaizen-gaming",
+    "super-bock-group"
+  ],
   "lastUpdated": "2026-09-24"
 }

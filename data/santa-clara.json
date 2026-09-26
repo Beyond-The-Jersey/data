@@ -1,0 +1,46 @@
+{
+  "id": "santa-clara",
+  "team": "CD Santa Clara",
+  "sport": "soccer",
+  "league": "liga-portugal",
+  "country": "Portugal",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "azores-airlines",
+      "name": "Azores Airlines (SATA)",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "sata-group",
+      "owner": "Grupo SATA",
+      "verdict": null,
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Azores Airlines front)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+      }
+    },
+    {
+      "id": "lebull",
+      "name": "Lebull",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "southern-stingray",
+      "owner": "Southern Stingray, S.A.",
+      "verdict": null,
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Lebull main kit sponsor)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "sata-group",
+    "southern-stingray"
+  ],
+  "lastUpdated": "2026-09-24"
+}

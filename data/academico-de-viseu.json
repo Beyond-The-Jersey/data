@@ -1,0 +1,45 @@
+{
+  "id": "academico-de-viseu",
+  "team": "Academico de Viseu FC",
+  "sport": "soccer",
+  "league": "liga-portugal",
+  "country": "Portugal",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "dazn",
+      "name": "DAZN",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "access-industries",
+      "owner": "Access Industries",
+      "verdict": null,
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (DAZN sleeve)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+      }
+    },
+    {
+      "id": "visabeira",
+      "name": "Visabeira",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Visabeira main kit sponsor)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "access-industries"
+  ],
+  "lastUpdated": "2026-09-24"
+}

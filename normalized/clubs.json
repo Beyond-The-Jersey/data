@@ -6018,6 +6018,257 @@
     ]
   },
   {
+    "id": "academico-de-viseu",
+    "name": "Academico de Viseu FC",
+    "shortName": "Academico",
+    "code": "ADV",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "academicodeviseu",
+      "academico"
+    ]
+  },
+  {
+    "id": "alverca",
+    "name": "FC Alverca",
+    "shortName": "Alverca",
+    "code": "ALV",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "futebol clube de alverca",
+      "alverca futebol sad"
+    ]
+  },
+  {
+    "id": "arouca",
+    "name": "FC Arouca",
+    "shortName": "Arouca",
+    "code": "ARO",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "futebol clube de arouca"
+    ]
+  },
+  {
+    "id": "benfica",
+    "name": "SL Benfica",
+    "shortName": "Benfica",
+    "code": "BEN",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "sport lisboa e benfica",
+      "sl benfica"
+    ]
+  },
+  {
+    "id": "braga",
+    "name": "SC Braga",
+    "shortName": "Braga",
+    "code": "BRA",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "sporting clube de braga",
+      "sc braga",
+      "braga sad"
+    ]
+  },
+  {
+    "id": "casa-pia",
+    "name": "Casa Pia AC",
+    "shortName": "Casa Pia",
+    "code": "CAS",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "casa pia atlantico clube"
+    ]
+  },
+  {
+    "id": "estoril-praia",
+    "name": "G.D. Estoril Praia",
+    "shortName": "Estoril",
+    "code": "EST",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "grupo desportivo estoril praia",
+      "estoril praias"
+    ]
+  },
+  {
+    "id": "estrela-amadora",
+    "name": "C.F. Estrela da Amadora",
+    "shortName": "Estrela",
+    "code": "CFE",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "clube de futebol estrela da amadora",
+      "estrela da amadora"
+    ]
+  },
+  {
+    "id": "famalicao",
+    "name": "FC Famalicao",
+    "shortName": "Famalicao",
+    "code": "FAM",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "futebol clube de famalicao",
+      "famalicao sad"
+    ]
+  },
+  {
+    "id": "gil-vicente",
+    "name": "Gil Vicente FC",
+    "shortName": "Gil Vicente",
+    "code": "GVF",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "gil vicente futebol clube"
+    ]
+  },
+  {
+    "id": "maritimo",
+    "name": "CS Maritimo",
+    "shortName": "Maritimo",
+    "code": "MAR",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "club sport maritimo",
+      "maritimo da madeira"
+    ]
+  },
+  {
+    "id": "moreirense",
+    "name": "Moreirense FC",
+    "shortName": "Moreirense",
+    "code": "MOR",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "futebol clube de moreirense"
+    ]
+  },
+  {
+    "id": "nacional",
+    "name": "CD Nacional",
+    "shortName": "Nacional",
+    "code": "NAC",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "clube desportivo nacional",
+      "nacional da madeira"
+    ]
+  },
+  {
+    "id": "porto",
+    "name": "FC Porto",
+    "shortName": "Porto",
+    "code": "POR",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": "assets/crests/porto.png",
+    "aliases": [
+      "futebol clube do porto",
+      "fc porto"
+    ]
+  },
+  {
+    "id": "rio-ave",
+    "name": "Rio Ave FC",
+    "shortName": "Rio Ave",
+    "code": "RIO",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "rio ave futebol clube",
+      "rioavefc"
+    ]
+  },
+  {
+    "id": "santa-clara",
+    "name": "CD Santa Clara",
+    "shortName": "Santa Clara",
+    "code": "SCL",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "clube desportivo santa clara",
+      "santa clara azores"
+    ]
+  },
+  {
+    "id": "sporting-cp",
+    "name": "Sporting CP",
+    "shortName": "Sporting",
+    "code": "SCP",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": "assets/crests/sporting-cp.png",
+    "aliases": [
+      "sporting clube de portugal",
+      "sporting lisbon",
+      "sporting"
+    ]
+  },
+  {
+    "id": "vitoria-guimaraes",
+    "name": "Vitoria SC",
+    "shortName": "Vitoria Guimaraes",
+    "code": "VSC",
+    "sportId": "soccer",
+    "leagueId": "liga-portugal",
+    "country": "Portugal",
+    "crest": null,
+    "aliases": [
+      "vitoria sport clube",
+      "vitoria de guimaraes",
+      "vitoriasc"
+    ]
+  },
+  {
     "id": "angers-sco",
     "name": "Angers SCO",
     "shortName": "Angers",
@@ -7828,20 +8079,6 @@
     "hasTeamPageDesign": false
   },
   {
-    "id": "porto",
-    "name": "FC Porto",
-    "shortName": "Porto",
-    "code": "POR",
-    "sportId": "soccer",
-    "leagueId": "uefa",
-    "country": "Portugal",
-    "crest": "assets/crests/porto.png",
-    "aliases": [
-      "fc porto"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
     "id": "psv",
     "name": "PSV Eindhoven",
     "shortName": "PSV",
@@ -7910,21 +8147,6 @@
     "crest": "assets/crests/slavia-praha.png",
     "aliases": [
       "slavia prague"
-    ],
-    "hasTeamPageDesign": false
-  },
-  {
-    "id": "sporting-cp",
-    "name": "Sporting CP",
-    "shortName": "Sporting",
-    "code": "SCP",
-    "sportId": "soccer",
-    "leagueId": "uefa",
-    "country": "Portugal",
-    "crest": "assets/crests/sporting-cp.png",
-    "aliases": [
-      "sporting lisbon",
-      "sporting"
     ],
     "hasTeamPageDesign": false
   },

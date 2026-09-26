@@ -3099,6 +3099,69 @@
     "reviewed": true
   },
   {
+    "id": "uae-mass-trial-2024-lp",
+    "ownerIds": [
+      "uae",
+      "government-of-dubai"
+    ],
+    "text": "In July 2024 a UAE court sentenced 43 activists and dissidents to life imprisonment after a mass trial that Human Rights Watch called grossly unfair; Emirates' ultimate owner is the Government of Dubai, via the Investment Corporation of Dubai.",
+    "short": "UAE mass-trial life sentences (HRW, 2024); Emirates owned by Government of Dubai",
+    "source": {
+      "name": "Human Rights Watch, 'UAE: Unfair Trial, Unjust Sentences'",
+      "date": "2024-07-10",
+      "url": "https://www.hrw.org/news/2024/07/10/uae-unfair-trial-unjust-sentences",
+      "note": "Reuse of the existing uae-mass-trial-2024 claim, reworded for the Benfica page; owner chain per the existing fa-cup-emirates-ownership claim."
+    },
+    "reviewed": true
+  },
+  {
+    "id": "qsi-braga-stake",
+    "ownerIds": [
+      "qatar-sports-investments",
+      "qia",
+      "government-of-qatar"
+    ],
+    "text": "Qatar Sports Investments (QSI) - owner of Paris Saint-Germain, wholly owned by the Qatar Investment Authority, Qatar's sovereign wealth fund - agreed in October 2022 to buy 21.67% of Sporting Clube de Braga (share purchase agreement with Olivedesportos, SGPS S.A., disclosed to Portugal's securities regulator CMVM); by 2023 QSI held 29.60% of the football SAD.",
+    "short": "QSI (Qatar Investment Authority) holds a minority stake in SC Braga's football SAD",
+    "source": {
+      "name": "Plataforma Media, 'PSG owner buys minority stake in SC Braga' (CMVM disclosure); Wikipedia S.C. Braga ownership section for the 29.60% 2023 figure",
+      "date": "2022-10-10",
+      "url": "https://www.plataformamedia.com/en/2022/10/10/psg-owner-buys-minority-stake-in-sc-braga/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "qatar-record-lp-context",
+    "ownerIds": [
+      "government-of-qatar",
+      "qia"
+    ],
+    "text": "Amnesty International reports that Qatar's migrant workers remain exposed to exploitation despite kafala reform and that expression and assembly are tightly restricted - the record of the state whose sovereign wealth fund (QIA) owns QSI, Braga's minority shareholder.",
+    "short": "Amnesty: Qatar migrant-worker exploitation and restricted expression (country report)",
+    "source": {
+      "name": "Amnesty International - Human rights in Qatar (country report)",
+      "date": "2026-01-15",
+      "url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/qatar/report-qatar",
+      "note": "Reuse of the existing gov-qatar-record source for the Braga/QSI owner chain."
+    },
+    "reviewed": true
+  },
+  {
+    "id": "santa-casa-state-games",
+    "ownerIds": [
+      "santa-casa"
+    ],
+    "text": "Santa Casa da Misericordia de Lisboa operates Portugal's social games 'on behalf and on account of the State' under an exclusive regime; its Jogos Santa Casa arm runs the Placard betting brand ('O Placard, produto dos Jogos Santa Casa'), whose online licence (013) is held by SAS Apostas Sociais, Jogos e Apostas Online, S.A.",
+    "short": "Placard is a product of Jogos Santa Casa, which operates Portugal's games on behalf of the State",
+    "source": {
+      "name": "Santa Casa da Misericordia de Lisboa (scml.pt Jogos Santa Casa page and news) + SRIJ licensed-entities register",
+      "date": "2026-07-20",
+      "url": "https://scml.pt/comunicacao/noticias/placard-da-nome-a-supertaca-candido-de-oliveira/",
+      "note": "Exclusivity statement opened at https://scml.pt/jogos-santa-casa/; SRIJ register entry opened at https://www.srij.turismodeportugal.pt/pt/jogos-e-apostas-online/entidades-licenciadas."
+    },
+    "reviewed": true
+  },
+  {
     "id": "qsi-owns-psg",
     "ownerIds": [
       "qatar-sports-investments",

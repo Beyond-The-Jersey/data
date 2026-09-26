@@ -1,0 +1,30 @@
+{
+  "id": "gil-vicente",
+  "team": "Gil Vicente FC",
+  "sport": "soccer",
+  "league": "liga-portugal",
+  "country": "Portugal",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "goldenpark",
+      "name": "Goldenpark Casino",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "azartia",
+      "owner": "Azartia Games, S.A.",
+      "verdict": null,
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Goldenpark Casino main kit sponsor)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "azartia"
+  ],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "estoril-praia",
+  "team": "G.D. Estoril Praia",
+  "sport": "soccer",
+  "league": "liga-portugal",
+  "country": "Portugal",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "solverde",
+      "name": "Solverde.pt",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "solverde",
+      "owner": "Grupo Solverde (Solverde - Sociedade de Investimentos Turisticos da Costa Verde)",
+      "verdict": null,
+      "source": {
+        "name": "Wikipedia, 2026-27 Primeira Liga - Personnel and kits (Solverde.pt main kit sponsor)",
+        "date": "2026-09",
+        "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primeira_Liga"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "solverde"
+  ],
+  "lastUpdated": "2026-09-24"
+}
