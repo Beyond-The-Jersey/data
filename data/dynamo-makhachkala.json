@@ -5,8 +5,44 @@
   "league": "russian-premier-league",
   "country": "Russia",
   "contact": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "betcity",
+      "name": "Betcity",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "betcity",
+      "owner": "Betcity",
+      "verdict": null,
+      "source": {
+        "name": "FC Dynamo Makhachkala – Club partners",
+        "date": "2026-09-25",
+        "url": "https://dinamo-mx.ru/",
+        "note": "Бетсити first in the club partners carousel."
+      }
+    },
+    {
+      "id": "magnit",
+      "name": "Magnit",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "magnit",
+      "owner": "Magnit (PJSC)",
+      "verdict": null,
+      "source": {
+        "name": "FC Dynamo Makhachkala – Club partners",
+        "date": "2026-09-25",
+        "url": "https://dinamo-mx.ru/",
+        "note": "Магнит (Основа) in the club partners carousel."
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "betcity",
+    "magnit"
+  ],
   "lastUpdated": "2026-09-24"
 }

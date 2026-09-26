@@ -5,8 +5,59 @@
   "league": "russian-premier-league",
   "country": "Russia",
   "contact": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "constell-group",
+      "name": "Constell Group",
+      "placement": "partner",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Club partner page (see sponsor note)",
+        "date": "2026-09-25",
+        "url": "https://github.com/Beyond-The-Jersey/data/issues/273",
+        "note": "FC Krasnodar general partner (confectionery production group)."
+      }
+    },
+    {
+      "id": "ozon",
+      "name": "Ozon",
+      "placement": "partner",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Club partner page (see sponsor note)",
+        "date": "2026-09-25",
+        "url": "https://github.com/Beyond-The-Jersey/data/issues/273",
+        "note": "Krasnodar partner."
+      }
+    },
+    {
+      "id": "winline",
+      "name": "Winline",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "winline",
+      "owner": "Winline",
+      "verdict": null,
+      "source": {
+        "name": "FC Krasnodar – Sponsors and partners",
+        "date": "2026-09-25",
+        "url": "https://fckrasnodar.ru/club/partners",
+        "note": "БК Winline listed among club partners with a dedicated description."
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "winline"
+  ],
   "lastUpdated": "2026-09-24"
 }

@@ -139,6 +139,14 @@
     "country": "US"
   },
   {
+    "id": "akhmat-foundation",
+    "name": "Akhmat Foundation (Regional Public Fund named after Akhmat Kadyrov)",
+    "type": "state-fund",
+    "country": "Russia",
+    "parentId": null,
+    "note": "Charitable foundation named after the first Chechen president; listed as a partner of RFK Akhmat."
+  },
+  {
     "id": "albaik-food-systems",
     "name": "ALBAIK Food Systems Company",
     "type": "private-company",
@@ -153,6 +161,14 @@
     "parentId": null,
     "note": "jersey patch partner of los-angeles-lakers (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "alfa-bank",
+    "name": "Alfa-Bank (AO ALFA-BANK)",
+    "type": "private-company",
+    "country": "Russia",
+    "parentId": null,
+    "note": "Largest private Russian bank; title sponsor of the Russian Premier League."
   },
   {
     "id": "all-in-won-owner",
@@ -398,6 +414,14 @@
     "country": "US"
   },
   {
+    "id": "atlantis-pak",
+    "name": "Atlantis-Pak",
+    "type": "private-company",
+    "country": "Russia",
+    "parentId": null,
+    "note": "Rostov-based food-packaging producer, part of Agrokom holding; title sponsor of FC Rostov."
+  },
+  {
     "id": "atlassian",
     "name": "Atlassian Corporation",
     "type": "listed-company",
@@ -619,6 +643,14 @@
     "country": "United Kingdom",
     "parentId": null,
     "note": "Controlled by the Coates family."
+  },
+  {
+    "id": "betcity",
+    "name": "Betcity",
+    "type": "private-company",
+    "country": "Russia",
+    "parentId": null,
+    "note": "Russian bookmaker (operated by Fortuna)."
   },
   {
     "id": "betclic-everest",
@@ -1245,6 +1277,14 @@
     "country": "GB"
   },
   {
+    "id": "ekoniva",
+    "name": "Ekoniva",
+    "type": "private-company",
+    "country": "Russia",
+    "parentId": null,
+    "note": "Ekaterinburg-based dairy holding (EkonivaMoloko)."
+  },
+  {
     "id": "el-camino-health",
     "name": "El Camino Health",
     "type": "private-company",
@@ -1469,6 +1509,14 @@
     "country": "ES"
   },
   {
+    "id": "fonbet",
+    "name": "Fonbet",
+    "type": "private-company",
+    "country": "Russia",
+    "parentId": null,
+    "note": "Russian bookmaker."
+  },
+  {
     "id": "ford-motor-company",
     "name": "Ford Motor Company",
     "type": "listed-company",
@@ -1560,6 +1608,14 @@
     "type": "private-company",
     "parentId": null,
     "country": "Cayman Islands"
+  },
+  {
+    "id": "gazprom",
+    "name": "Gazprom (PJSC)",
+    "type": "listed-company",
+    "country": "Russia",
+    "parentId": "russian-federation",
+    "note": "Reused id; Russian state controls a majority stake via Rosimushchestvo."
   },
   {
     "id": "gcs",
@@ -2199,6 +2255,14 @@
     "parentId": "saudi-pif"
   },
   {
+    "id": "kazanorgsintez",
+    "name": "Kazanorgsintez (PAO)",
+    "type": "listed-company",
+    "country": "Russia",
+    "parentId": null,
+    "note": "Petrochemical producer, part of SIBUR group; general sponsor of FC Rubin."
+  },
+  {
     "id": "kermi",
     "name": "Kermi GmbH",
     "type": "private-company",
@@ -2453,6 +2517,14 @@
     "country": "Spain"
   },
   {
+    "id": "lukoil",
+    "name": "LUKOIL (PJSC)",
+    "type": "listed-company",
+    "country": "Russia",
+    "parentId": null,
+    "note": "Private: the Russian Federation's stake was reduced to 0% by September 2004 (Lukoil share-capital history)."
+  },
+  {
     "id": "lumen-technologies-owner",
     "name": "Lumen Technologies Corporation",
     "type": "listed-company",
@@ -2482,6 +2554,14 @@
     "parentId": null,
     "note": "arena naming-rights holder of baltimore-ravens (2026-27).",
     "country": "USA"
+  },
+  {
+    "id": "magnit",
+    "name": "Magnit (PJSC)",
+    "type": "listed-company",
+    "country": "Russia",
+    "parentId": null,
+    "note": "Russian retail chain."
   },
   {
     "id": "magnus-holdings",
@@ -3500,6 +3580,14 @@
     "parentId": "saudi-pif"
   },
   {
+    "id": "rostec",
+    "name": "Rostec State Corporation",
+    "type": "state",
+    "country": "Russia",
+    "parentId": "russian-federation",
+    "note": "Russian state corporation; general sponsor of FC Baltika."
+  },
+  {
     "id": "rouses-markets-owner",
     "name": "Rouses Markets",
     "type": "private-company",
@@ -3534,8 +3622,9 @@
     "id": "russian-federation",
     "name": "Russian Federation (Federal Agency for State Property Management)",
     "type": "state",
+    "country": "Russia",
     "parentId": null,
-    "country": "RU"
+    "note": "Reused from normalized/owners.json."
   },
   {
     "id": "rwanda-defence-force",
@@ -3562,6 +3651,15 @@
     "country": "Rwanda",
     "note": "Rwanda's national carrier (operations began 1 Dec 2002 as 'the new national carrier', rwandair.com). The airline's own pages do not state its shareholding; state ownership needs a primary source.",
     "parentId": null
+  },
+  {
+    "id": "rzd",
+    "name": "Russian Railways (OAO RZD)",
+    "type": "state",
+    "country": "Russia",
+    "parentId": "russian-federation",
+    "via": "100% of shares held by the Russian Federation",
+    "note": "RZD charter: all shares of the company are owned by the Russian Federation."
   },
   {
     "id": "sabor-a-malaga",
@@ -4403,6 +4501,15 @@
     "parentId": null
   },
   {
+    "id": "vtb",
+    "name": "Bank VTB (PJSC)",
+    "type": "listed-company",
+    "country": "Russia",
+    "parentId": "russian-federation",
+    "via": "Rosimushchestvo holds 60.93% of ordinary shares; Minfin holds 32.88% of preference shares",
+    "note": "Majority state-controlled per VTB's own IR shareholder-structure page."
+  },
+  {
     "id": "walt-disney-world-owner",
     "name": "Walt Disney World Resort",
     "type": "listed-company",
@@ -4424,6 +4531,14 @@
     "type": "private-company",
     "country": "United Kingdom",
     "parentId": "dorilton"
+  },
+  {
+    "id": "winline",
+    "name": "Winline",
+    "type": "private-company",
+    "country": "Russia",
+    "parentId": null,
+    "note": "Russian bookmaker."
   },
   {
     "id": "worxinvest",

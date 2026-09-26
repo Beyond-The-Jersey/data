@@ -5,7 +5,24 @@
   "league": "russian-premier-league",
   "country": "Russia",
   "contact": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "fonbet",
+      "name": "FONBET",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "PFC Krylia Sovetov – Sponsors and partners",
+        "date": "2026-09-25",
+        "url": "https://pfcks.ru/stranitsa-sponsorov/",
+        "note": "Fonbet is the first (large-tier) sponsor on the club's sponsors page."
+      }
+    }
+  ],
   "worstTier": "unrated",
   "owners": [],
   "lastUpdated": "2026-09-24"

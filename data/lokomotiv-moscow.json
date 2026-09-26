@@ -5,7 +5,24 @@
   "league": "russian-premier-league",
   "country": "Russia",
   "contact": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "rzd",
+      "name": "Russian Railways (RZD)",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "FC Lokomotiv – Partners",
+        "date": "2026-09-25",
+        "url": "https://www.fclm.ru/club/partners/",
+        "note": "\"ОАО «РЖД» Генеральный спонсор ФК «Локомотив»\"."
+      }
+    }
+  ],
   "worstTier": "unrated",
   "owners": [],
   "lastUpdated": "2026-09-24"

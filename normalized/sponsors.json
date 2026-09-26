@@ -462,6 +462,30 @@
     "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
   },
   {
+    "id": "ak-bars-bank",
+    "name": "Ak Bars Bank",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Official bank of FC Rubin."
+  },
+  {
+    "id": "akhmat-foundation",
+    "name": "Akhmat Foundation",
+    "ownerId": "akhmat-foundation",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Regional Public Fund named after Akhmat Kadyrov; listed partner of RFK Akhmat."
+  },
+  {
     "id": "akron",
     "name": "Akron",
     "ownerId": null,
@@ -1226,6 +1250,18 @@
     "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
+    "id": "atlantis-pak",
+    "name": "Atlantis-Pak",
+    "ownerId": "atlantis-pak",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "FC Rostov title sponsor."
+  },
+  {
     "id": "atlassian",
     "name": "Atlassian",
     "ownerId": "atlassian",
@@ -1789,6 +1825,18 @@
     ],
     "aliases": [],
     "note": "Rating note: Private Greek/Czech owners, no state link → none. Kaizen is registered/parented in Malta while Greek-founded; country shown as GR as the operating origin. Ownership percentage sourced from trade press, hence medium confidence."
+  },
+  {
+    "id": "betcity",
+    "name": "Betcity",
+    "ownerId": "betcity",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Back-of-shirt sponsor at Dynamo Moscow and Dynamo Makhachkala partner."
   },
   {
     "id": "betclic",
@@ -2644,6 +2692,18 @@
     "note": "Bottled-water brand of CR Beverage (HKEX 02460); title sponsor of the Chinese Football Super League."
   },
   {
+    "id": "chestny-znak",
+    "name": "Chestny Znak",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "CSKA strategic partner; state digital-marketing system."
+  },
+  {
     "id": "chexx",
     "name": "CHEXX",
     "ownerId": "continent-gaming",
@@ -2977,6 +3037,18 @@
     ],
     "aliases": [],
     "note": "Rating note: Koch's 16.81% is the notable structural fact; it is private capital, so no tier change. Koch does, however, have its own well-documented political and environmental record that may matter downstream in this dataset."
+  },
+  {
+    "id": "constell-group",
+    "name": "Constell Group",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "FC Krasnodar general partner (confectionery production group)."
   },
   {
     "id": "convoy-of-hope",
@@ -3958,6 +4030,18 @@
       "emirates golf federation"
     ],
     "note": "Founding Partner of the Hero Dubai Desert Classic per the event's own sponsors page (europeantour.com/dpworld-tour/hero-dubai-desert-classic-2026/sponsors, fetched 25 Sep 2026); egfgolf.com. UAE golf governing body; ownership not stated on the event page."
+  },
+  {
+    "id": "ekoniva",
+    "name": "Ekoniva",
+    "ownerId": "ekoniva",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Fakel Voronezh partner."
   },
   {
     "id": "el-camino-health",
@@ -6706,6 +6790,18 @@
     "note": "Al-Ahli back-of-shirt sponsor."
   },
   {
+    "id": "kazanorgsintez",
+    "name": "Kazanorgsintez",
+    "ownerId": "kazanorgsintez",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Rubin Kazan general sponsor."
+  },
+  {
     "id": "kchat",
     "name": "KChat",
     "ownerId": "uney-gmbh",
@@ -7403,6 +7499,18 @@
     "aliases": []
   },
   {
+    "id": "lukoil",
+    "name": "LUKOIL",
+    "ownerId": "lukoil",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Spartak Moscow: title sponsor for 20+ years and owner of 100% of the club since 2022."
+  },
+  {
     "id": "lumen-technologies",
     "name": "Lumen Technologies",
     "ownerId": "lumen-technologies-owner",
@@ -7506,6 +7614,18 @@
       "madeira promotion bureau"
     ],
     "note": "'Madeira. Tua' destination-marketing slogan of the Madeira island authorities; appears as front-of-shirt sponsor at Maritimo and back at Nacional in 2026-27. The branding body (Madeira Promotion Bureau / regional government) not yet verified from a primary source."
+  },
+  {
+    "id": "magnit",
+    "name": "Magnit",
+    "ownerId": "magnit",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Dynamo Makhachkala partner."
   },
   {
     "id": "mahou-san-miguel",
@@ -7746,6 +7866,20 @@
       "mediacom-communications-corp-record"
     ],
     "aliases": []
+  },
+  {
+    "id": "megafon",
+    "name": "MegaFon",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "megafon"
+    ],
+    "note": "Zenit and Krylia Sovetov partner."
   },
   {
     "id": "meijer",
@@ -9127,6 +9261,18 @@
     "note": "NEOM SC front-of-shirt sponsor (NEOM is the club's owner)."
   },
   {
+    "id": "ozon",
+    "name": "Ozon",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Krasnodar partner."
+  },
+  {
     "id": "pamesa-ceramica",
     "name": "Pamesa Ceramica",
     "ownerId": "pamesa-grupo-empresarial",
@@ -10350,6 +10496,20 @@
       "rosneft.ru"
     ],
     "note": "General sponsor of HC CSKA Moscow. Lead: majority state-owned; primary document not yet opened."
+  },
+  {
+    "id": "rostec",
+    "name": "Rostec",
+    "ownerId": "rostec",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": "State corporation (Rostec) behind Baltika Kaliningrad's front-of-shirt sponsorship; not yet rated.",
+    "claimIds": [],
+    "aliases": [
+      "Ростех",
+      "Rostec State Corporation"
+    ]
   },
   {
     "id": "rostelecom",
@@ -12893,6 +13053,18 @@
     "aliases": []
   },
   {
+    "id": "veb-rf",
+    "name": "VEB.RF",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "CSKA title partner; Russian state development corporation."
+  },
+  {
     "id": "verizon",
     "name": "Verizon",
     "ownerId": null,
@@ -13292,6 +13464,18 @@
     "verdict": null,
     "claimIds": [],
     "aliases": []
+  },
+  {
+    "id": "winline",
+    "name": "Winline",
+    "ownerId": "winline",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Krasnodar shirt sponsor per its partner page; also a Zenit partner."
   },
   {
     "id": "wizteam",

@@ -3728,6 +3728,79 @@
     "reviewed": true
   },
   {
+    "id": "rzd-state-owned",
+    "ownerIds": [
+      "rzd",
+      "russian-federation"
+    ],
+    "text": "All shares of OAO Russian Railways are owned by the Russian Federation (RZD charter, clause 32).",
+    "source": {
+      "name": "RZD Charter (via Wayback Machine, company.rzd.ru)",
+      "date": "2022-02-19",
+      "url": "https://web.archive.org/web/20220219191724/https://company.rzd.ru/ru/9353/page/105104?id=1792",
+      "note": "\"Все акции общества находятся в собственности Российской Федерации\"; charter approved by Government Directive No. 1838 of 27.10.2021."
+    },
+    "reviewed": true
+  },
+  {
+    "id": "vtb-state-control",
+    "ownerIds": [
+      "vtb",
+      "russian-federation"
+    ],
+    "text": "The Russian Federation holds a controlling position in Bank VTB: Rosimushchestvo held 60.93% of ordinary shares (12.13% of charter capital) and Minfin 100% of first-type preference shares (32.88% of charter capital).",
+    "source": {
+      "name": "VTB – Shareholder structure (IR governance, archived)",
+      "date": "2017-09-14",
+      "url": "https://web.archive.org/web/20170914171539/http://www.vtb.ru/ir/governance/structure/",
+      "note": "Shareholders with >5% as of 1 Sep 2017; the current vtb.ru site is unreachable from the research machine."
+    },
+    "reviewed": true
+  },
+  {
+    "id": "lukoil-owns-spartak",
+    "ownerIds": [
+      "lukoil"
+    ],
+    "text": "LUKOIL supported Spartak Moscow as title sponsor for more than 20 years and in summer 2022 acquired 100% of the club and the Otkritie Bank Arena stadium.",
+    "source": {
+      "name": "Spartak.com partner data (archived)",
+      "date": "2024-01-04",
+      "url": "https://web.archive.org/web/20240104102625/https://spartak.com/",
+      "note": "Club's own partner description."
+    },
+    "reviewed": true
+  },
+  {
+    "id": "lukoil-private-ownership",
+    "ownerIds": [
+      "lukoil"
+    ],
+    "text": "The Russian Federation's stake in LUKOIL was reduced to 0% following the September 2004 auction of the remaining 7.6% state-held shares to ConocoPhillips affiliate Springtime Holdings.",
+    "source": {
+      "name": "LUKOIL – Share capital history",
+      "date": "2026-09-25",
+      "url": "https://lukoil.ru/InvestorAndShareholderCenter/Securities/sharecapital",
+      "note": "\"Доля государства сократилась до 0%\" (2004)."
+    },
+    "reviewed": true
+  },
+  {
+    "id": "zenit-gazprom-owner",
+    "ownerIds": [
+      "gazprom",
+      "russian-federation"
+    ],
+    "text": "In winter 2005/06 Gazprom bought the controlling stake in FC Zenit, and Gazprom remains the club's general sponsor.",
+    "source": {
+      "name": "FC Zenit – club history",
+      "date": "2026-09-25",
+      "url": "https://www.fc-zenit.ru/club/zenit_history/history_1920/",
+      "note": "\"Зимой-2005/06 у клуба снова сменился владелец: контрольный пакет акций «Зенита» выкупил... ОАО «Газпром»\"; general-sponsor line confirmed on fc-zenit.ru/club/about/."
+    },
+    "reviewed": true
+  },
+  {
     "id": "gov-saudi-arabia-record",
     "ownerIds": [
       "government-of-saudi-arabia"

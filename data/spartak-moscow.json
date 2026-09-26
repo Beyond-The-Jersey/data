@@ -5,8 +5,27 @@
   "league": "russian-premier-league",
   "country": "Russia",
   "contact": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "lukoil",
+      "name": "LUKOIL",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "lukoil",
+      "owner": "LUKOIL (PJSC)",
+      "verdict": null,
+      "source": {
+        "name": "Spartak.com (archived homepage partner data)",
+        "date": "2024-01-04",
+        "url": "https://web.archive.org/web/20240104102625/https://spartak.com/",
+        "note": "\"Более 20 лет «ЛУКОЙЛ» оказывал неоценимую поддержку «Спартаку» как титульный спонсор, а летом 2022 года Компания объявила о приобретении 100% акций клуба\"."
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "lukoil"
+  ],
   "lastUpdated": "2026-09-24"
 }

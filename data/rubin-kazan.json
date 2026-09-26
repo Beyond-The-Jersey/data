@@ -5,8 +5,43 @@
   "league": "russian-premier-league",
   "country": "Russia",
   "contact": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "ak-bars-bank",
+      "name": "Ak Bars Bank",
+      "placement": "partner",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Club partner page (see sponsor note)",
+        "date": "2026-09-25",
+        "url": "https://github.com/Beyond-The-Jersey/data/issues/273",
+        "note": "Official bank of FC Rubin."
+      }
+    },
+    {
+      "id": "kazanorgsintez",
+      "name": "Kazanorgsintez",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "kazanorgsintez",
+      "owner": "Kazanorgsintez (PAO)",
+      "verdict": null,
+      "source": {
+        "name": "FC Rubin – Partners",
+        "date": "2026-09-25",
+        "url": "https://www.rubin-kazan.ru/club/partners/",
+        "note": "Казаньоргсинтез — Генеральный спонсор."
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "kazanorgsintez"
+  ],
   "lastUpdated": "2026-09-24"
 }

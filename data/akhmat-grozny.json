@@ -5,8 +5,27 @@
   "league": "russian-premier-league",
   "country": "Russia",
   "contact": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "akhmat-foundation",
+      "name": "Akhmat Foundation",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "akhmat-foundation",
+      "owner": "Akhmat Foundation (Regional Public Fund named after Akhmat Kadyrov)",
+      "verdict": null,
+      "source": {
+        "name": "RFK Akhmat – Partners",
+        "date": "2026-09-25",
+        "url": "https://www.fc-akhmat.ru/club/partners/",
+        "note": "Фонд Ахмат (fondkadyrova.net) listed among club partners."
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "akhmat-foundation"
+  ],
   "lastUpdated": "2026-09-24"
 }

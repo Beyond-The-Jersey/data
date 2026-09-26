@@ -5,8 +5,27 @@
   "league": "russian-premier-league",
   "country": "Russia",
   "contact": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "rostec",
+      "name": "Rostec",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "rostec",
+      "owner": "Rostec State Corporation",
+      "verdict": "State corporation (Rostec) behind Baltika Kaliningrad's front-of-shirt sponsorship; not yet rated.",
+      "source": {
+        "name": "FC Baltika – official site",
+        "date": "2026-09-25",
+        "url": "https://www.fc-baltika.ru/",
+        "note": "Ростех logo linked under Генеральный спонсор ФК Балтика."
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "rostec"
+  ],
   "lastUpdated": "2026-09-24"
 }

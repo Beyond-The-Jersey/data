@@ -5,8 +5,27 @@
   "league": "russian-premier-league",
   "country": "Russia",
   "contact": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "ekoniva",
+      "name": "Ekoniva",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "ekoniva",
+      "owner": "Ekoniva",
+      "verdict": null,
+      "source": {
+        "name": "FC Fakel – Partners",
+        "date": "2026-09-25",
+        "url": "https://fakelfc.ru/partners",
+        "note": "Эконива (ekoniva-moloko.com) listed among club partners."
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "ekoniva"
+  ],
   "lastUpdated": "2026-09-24"
 }

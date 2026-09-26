@@ -5,7 +5,56 @@
   "league": "russian-premier-league",
   "country": "Russia",
   "contact": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "chestny-znak",
+      "name": "Chestny Znak",
+      "placement": "partner",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Club partner page (see sponsor note)",
+        "date": "2026-09-25",
+        "url": "https://github.com/Beyond-The-Jersey/data/issues/273",
+        "note": "CSKA strategic partner; state digital-marketing system."
+      }
+    },
+    {
+      "id": "fonbet",
+      "name": "FONBET",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "PFC CSKA – Partners",
+        "date": "2026-09-25",
+        "url": "https://pfc-cska.com/ru/club/partneryi/",
+        "note": "Официальный партнер FONBET; FONBET BAR lounge on the arena named in its description."
+      }
+    },
+    {
+      "id": "veb-rf",
+      "name": "VEB.RF",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "PFC CSKA – Partners",
+        "date": "2026-09-25",
+        "url": "https://pfc-cska.com/ru/club/partneryi/",
+        "note": "Титульный партнер ВЭБ.РФ."
+      }
+    }
+  ],
   "worstTier": "unrated",
   "owners": [],
   "lastUpdated": "2026-09-24"

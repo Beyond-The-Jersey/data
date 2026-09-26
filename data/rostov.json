@@ -5,8 +5,43 @@
   "league": "russian-premier-league",
   "country": "Russia",
   "contact": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "atlantis-pak",
+      "name": "Atlantis-Pak",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "atlantis-pak",
+      "owner": "Atlantis-Pak",
+      "verdict": null,
+      "source": {
+        "name": "FC Rostov – Sponsors and partners",
+        "date": "2026-09-25",
+        "url": "https://fc-rostov.ru/club/sponsors",
+        "note": "Титульный спонсор Атлантис-Пак."
+      }
+    },
+    {
+      "id": "fonbet",
+      "name": "FONBET",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "FC Rostov – Sponsors and partners",
+        "date": "2026-09-25",
+        "url": "https://fc-rostov.ru/club/sponsors",
+        "note": "Официальный букмекер ФК \"Ростов\"."
+      }
+    }
+  ],
   "worstTier": "unrated",
-  "owners": [],
+  "owners": [
+    "atlantis-pak"
+  ],
   "lastUpdated": "2026-09-24"
 }

@@ -5,8 +5,43 @@
   "league": "russian-premier-league",
   "country": "Russia",
   "contact": {},
-  "sponsors": [],
-  "worstTier": "unrated",
-  "owners": [],
+  "sponsors": [
+    {
+      "id": "gazprom",
+      "name": "Gazprom",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "severe",
+      "ownerId": "russian-federation",
+      "owner": "Russian Federation (Federal Agency for State Property Management)",
+      "verdict": "The Russian Government controls over 50% of Gazprom's shares (Russian Federation direct 38.37% plus government-controlled Rosneftegaz 10.97% and Rosgazifikatsiya….",
+      "source": {
+        "name": "FC Zenit – Club (about)",
+        "date": "2026-09-25",
+        "url": "https://www.fc-zenit.ru/club/about/",
+        "note": "\"Генеральный спонсор клуба — публичное акционерное общество «Газпром»\"."
+      }
+    },
+    {
+      "id": "megafon",
+      "name": "MegaFon",
+      "placement": "partner",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Club partner page (see sponsor note)",
+        "date": "2026-09-25",
+        "url": "https://github.com/Beyond-The-Jersey/data/issues/273",
+        "note": "Zenit and Krylia Sovetov partner."
+      }
+    }
+  ],
+  "worstTier": "severe",
+  "owners": [
+    "russian-federation"
+  ],
   "lastUpdated": "2026-09-24"
 }
