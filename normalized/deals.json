@@ -1318,6 +1318,176 @@
     "note": "The centralised finals are hosted in Saudi Arabia; the 'provisionally through 2029' term comes from the Wikipedia season article and is unconfirmed by an AFC page. Recorded as the Saudi state as host; Visit Saudi is the state's tourism platform."
   },
   {
+    "id": "asian-tour-liv",
+    "clubId": null,
+    "orgName": "Asian Tour",
+    "sponsorId": "pif",
+    "placement": "league-partner",
+    "from": "2022",
+    "to": "2026",
+    "value": null,
+    "source": {
+      "name": "CBS Sports - Asian Tour joins partnership with PGA Tour, DP World Tour effective immediately",
+      "date": "2026-07-21",
+      "url": "https://www.cbssports.com/golf/news/pga-tour-dp-world-tour-and-asian-tour-partnership-liv-golf/"
+    },
+    "leagueId": "asian-tour",
+    "note": "PIF-funded LIV Golf partnered with the Asian Tour from the league's 2022 launch, creating and funding the International Series; the partnership ended when the Asian Tour joined the PGA Tour / DP World Tour strategic alliance on 21 July 2026 (CBS Sports). AFP via Philstar (2026-07-22) reports LIV had bankrolled the International Series to the tune of $300m, and that PIF announced earlier in 2026 it would stop funding LIV after the 2026 season. Existing claim liv-pif-funding covers the PIF-LIV funding."
+  },
+  {
+    "id": "pif-saudi-international-pif",
+    "clubId": null,
+    "orgName": "PIF Saudi International",
+    "sponsorId": "pif",
+    "placement": "league-partner",
+    "from": "2022",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "The International Series - Partners",
+      "date": "2026-09-25",
+      "url": "https://www.internationalseries.com/en/partners"
+    },
+    "leagueId": "asian-tour",
+    "note": "PIF is the title sponsor - the event carries its name ('Title sponsor of the PIF Saudi International', internationalseries.com partners page, fetched 2026-09-25). Event: Nov 18-21, 2026, Riyadh Golf Club, USD 5m purse (internationalseries.com event page). Wikipedia's 2026 table notes the event's International Series status was removed after the LIV restructuring. PIF has title-sponsored the event since 2022 per the site's lead (lead only - primary start date not verified)."
+  },
+  {
+    "id": "pif-saudi-international-softbank",
+    "clubId": null,
+    "orgName": "PIF Saudi International powered by SoftBank Investment Advisers",
+    "sponsorId": "softbank-investment-advisers",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "The International Series - PIF Saudi International 2026 event page",
+      "date": "2026-09-25",
+      "url": "https://www.internationalseries.com/en/schedule/pif-saudi-international-presented-by-softbank-investment-advisers-2026"
+    },
+    "leagueId": "asian-tour",
+    "note": "'Presenting partner of the PIF Saudi International powered by SoftBank Investment Advisers' (internationalseries.com partners page); the event page describes the finale as the 'PIF Saudi International powered by SoftBank Investment Advisers' determining International Series Rankings and LIV Golf spots."
+  },
+  {
+    "id": "international-series-titleist",
+    "clubId": null,
+    "orgName": "The International Series",
+    "sponsorId": "titleist",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "The International Series - Partners",
+      "date": "2026-09-25",
+      "url": "https://www.internationalseries.com/en/partners"
+    },
+    "leagueId": "asian-tour",
+    "note": "Series Partner: 'Official ball and equipment partner of the International Series' (partners page, fetched 2026-09-25)."
+  },
+  {
+    "id": "international-series-rolex",
+    "clubId": null,
+    "orgName": "The International Series",
+    "sponsorId": "rolex",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "The International Series - Partners",
+      "date": "2026-09-25",
+      "url": "https://www.internationalseries.com/en/partners"
+    },
+    "leagueId": "asian-tour",
+    "note": "Series Partner: 'Official timekeeper of the International Series' (partners page, fetched 2026-09-25). Rolex SA is held by the Hans Wilsdorf Foundation (existing sponsors.json note)."
+  },
+  {
+    "id": "international-series-fenix",
+    "clubId": null,
+    "orgName": "The International Series",
+    "sponsorId": "fenix",
+    "placement": "league-partner",
+    "from": "2025",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "The International Series - Partners",
+      "date": "2026-09-25",
+      "url": "https://www.internationalseries.com/en/partners"
+    },
+    "leagueId": "asian-tour",
+    "note": "Series Partner: 'Official apparel partner of the International Series', displayed as 'Fenix 2025' (partners page, fetched 2026-09-25)."
+  },
+  {
+    "id": "philippine-open-bingoplus",
+    "clubId": null,
+    "orgName": "BingoPlus Philippine Open",
+    "sponsorId": "bingoplus",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "The International Series - Partners",
+      "date": "2026-09-25",
+      "url": "https://www.internationalseries.com/en/partners"
+    },
+    "leagueId": "asian-tour",
+    "note": "'BingoPlus is the presenting partner of the Philippine Open' (partners page); the Nov 12-15, 2026 event at Manila Southwoods carries the BingoPlus name (internationalseries.com event page, fetched 2026-09-25). NGAP (National Golf Association of the Philippines) is also listed as a partner of the event."
+  },
+  {
+    "id": "singapore-open-business-times",
+    "clubId": null,
+    "orgName": "Singapore Open presented by The Business Times",
+    "sponsorId": "the-business-times",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "The International Series - Partners",
+      "date": "2026-09-25",
+      "url": "https://www.internationalseries.com/en/partners"
+    },
+    "leagueId": "asian-tour",
+    "note": "'The Business Times - Presenting partner of the Singapore Open' (partners page); the event page (Apr 23-26, 2026, Sentosa Golf Club) brands it 'The Singapore Open presented by The Business Times'."
+  },
+  {
+    "id": "link-hong-kong-open-link",
+    "clubId": null,
+    "orgName": "Link Hong Kong Open",
+    "sponsorId": "link-reit-brand",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "The International Series - Partners",
+      "date": "2026-09-25",
+      "url": "https://www.internationalseries.com/en/partners"
+    },
+    "leagueId": "asian-tour",
+    "note": "'LINK - Title sponsor of the LINK Hong Kong Open' (partners page, sponsor block id 'link-reit'); the event runs Oct 22-25, 2026 at Hong Kong Golf Club (event page)."
+  },
+  {
+    "id": "international-series-igpl",
+    "clubId": null,
+    "orgName": "The International Series",
+    "sponsorId": "am-green",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Wikipedia - 2026 Asian Tour schedule table (citing asiantour.com)",
+      "date": "2026-09-25",
+      "url": "https://en.wikipedia.org/wiki/2026_Asian_Tour"
+    },
+    "leagueId": "asian-tour",
+    "note": "AM Green is the name sponsor of the Am Green IGPL Bharath Classic Morocco (7 Jun 2026) per the 2026 schedule table; event name only - no separate sponsor announcement found. IGPL (Indian Golf Premier League) is the co-sanctioning tour, not a commercial sponsor row."
+  },
+  {
     "id": "atp-tour-pif",
     "clubId": null,
     "orgName": "ATP Tour",
@@ -3950,7 +4120,7 @@
     "orgName": "Formula E",
     "sponsorId": "pif",
     "placement": "league-partner",
-    "from": null,
+    "from": "2024",
     "to": null,
     "value": null,
     "source": {
@@ -3966,7 +4136,7 @@
     "orgName": "Formula E",
     "sponsorId": "saudia",
     "placement": "league-partner",
-    "from": "2018",
+    "from": "2018-19",
     "to": null,
     "value": null,
     "source": {
@@ -8013,6 +8183,125 @@
     },
     "note": "Qatar Airways was Official Title Partner and Airline Partner of the inaugural Qatar Airways Qatar 1812 Km (2024, Lusail). The 2026 edition was postponed then cancelled; the 2027 race name on fiawec.com is plain 'Qatar 1812km' with no title sponsor shown, so renewal is unverified.",
     "leagueId": "wec"
+  },
+  {
+    "id": "womens-golf-pif",
+    "clubId": null,
+    "orgName": "PIF Global Series (Ladies European Tour)",
+    "sponsorId": "pif",
+    "placement": "league-partner",
+    "from": "2025",
+    "to": null,
+    "value": null,
+    "leagueId": "womens-golf",
+    "note": "Series Title Partner of the PIF Global Series (pifglobalseries.com footer, fetched 25 Sep 2026). PIF was named title partner of the revamped five-event series (former Aramco Team Series) in May 2025 with a $13m total prize pool (PIF press release, 2025-05-08); the 2026 series carries $15m across five events (pifglobalseries.com, 2025-11-05). ESPN (2025-05-08, Field Level Media) reported the move as a PIF investment in the LET.",
+    "source": {
+      "name": "PIF - PIF continues to transform women's golf as title partner of revamped global series",
+      "date": "2025-05-08",
+      "url": "https://www.pif.gov.sa/en/news-and-insights/press-releases/2025/pif-continues-to-transform-womens-golf-as-title-partner-of-revamped-global-series/"
+    }
+  },
+  {
+    "id": "womens-golf-aramco",
+    "clubId": null,
+    "orgName": "Aramco Championship / Aramco Korea Championship / Aramco China Championship (PIF Global Series)",
+    "sponsorId": "aramco",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "leagueId": "womens-golf",
+    "note": "Title Partner of three PIF Global Series events - the Aramco Championship (Shadow Creek, Las Vegas, LPGA/LET co-sanctioned), Aramco Korea Championship (Seoul) and Aramco China Championship (Shenzhen) - per Aramco's own sponsorship site (sponsorships.aramco.com/pif-global-series, fetched 25 Sep 2026); Aramco says its 2026 title events span the US, Korea and China (Aramco Americas news, 2026-04-21). The inaugural Aramco Championship was won by Lauren Coughlin (Aramco Americas, 2026-04-21).",
+    "source": {
+      "name": "Aramco - PIF Global Series Partnership (sponsorships.aramco.com)",
+      "date": "2026-09-25",
+      "url": "https://sponsorships.aramco.com/pif-global-series/"
+    }
+  },
+  {
+    "id": "womens-golf-lpga-aramco-championship",
+    "clubId": null,
+    "orgName": "LPGA Tour (Aramco Championship at Shadow Creek)",
+    "sponsorId": "aramco",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "leagueId": "womens-golf",
+    "note": "The Aramco Championship at Shadow Creek (Apr 2-5, 2026, $4m purse, 120 players) is the first LPGA co-sanctioned event in the PIF Global Series, in partnership with Golf Saudi; LPGA commissioner Craig Kessler tied the deal to 'the LET's longstanding collaboration with Golf Saudi and PIF' (LPGA news, 2025-11-05, fetched 25 Sep 2026). Whether the LPGA deal is multi-year is not stated.",
+    "source": {
+      "name": "LPGA - LPGA and LET Deepen Collaboration through the PIF Global Series, with the Aramco Championship at Shadow Creek Golf Club",
+      "date": "2025-11-05",
+      "url": "https://www.lpga.com/news/2025/lpga-and-let-deepen-collaboration-through-the-pif-global-series-with-the-aramco-championship-at-shadow-creek-golf-club"
+    }
+  },
+  {
+    "id": "womens-golf-golf-saudi",
+    "clubId": null,
+    "orgName": "PIF Global Series (Ladies European Tour)",
+    "sponsorId": "golf-saudi",
+    "placement": "league-partner",
+    "from": "2021",
+    "to": null,
+    "value": null,
+    "leagueId": "womens-golf",
+    "note": "Organiser of the PIF Global Series (pifglobalseries.com footer, fetched 25 Sep 2026); the series is 'Golf Saudi's series of elite events on the Ladies European Tour' (pifglobalseries.com, fetched 25 Sep 2026). The LET has 'had a strong relationship with Golf Saudi since 2020' (LET board chair Marta Figueras-Dotti, quoted by the LPGA, 2025-11-05).",
+    "source": {
+      "name": "PIF Global Series - 2026 schedule announcement",
+      "date": "2025-11-05",
+      "url": "https://pifglobalseries.com/en-us/latest-news/2026-schedule/"
+    }
+  },
+  {
+    "id": "womens-golf-kolon",
+    "clubId": null,
+    "orgName": "PIF Global Series (Ladies European Tour)",
+    "sponsorId": "kolon",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "leagueId": "womens-golf",
+    "note": "Host Partner (pifglobalseries.com footer, fetched 25 Sep 2026; logo links kolon.com/en/main, 'KOLON GROUP').",
+    "source": {
+      "name": "PIF Global Series - partners footer",
+      "date": "2026-09-25",
+      "url": "https://pifglobalseries.com/en-us/"
+    }
+  },
+  {
+    "id": "womens-golf-fii-institute",
+    "clubId": null,
+    "orgName": "PIF Global Series (Ladies European Tour)",
+    "sponsorId": "fii-institute",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "leagueId": "womens-golf",
+    "note": "Official Partner (pifglobalseries.com footer, fetched 25 Sep 2026; logo links fii-institute.org).",
+    "source": {
+      "name": "PIF Global Series - partners footer",
+      "date": "2026-09-25",
+      "url": "https://pifglobalseries.com/en-us/"
+    }
+  },
+  {
+    "id": "womens-golf-rolex",
+    "clubId": null,
+    "orgName": "PIF Global Series (Ladies European Tour)",
+    "sponsorId": "rolex",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "leagueId": "womens-golf",
+    "note": "Official Partner (pifglobalseries.com footer, fetched 25 Sep 2026; logo links rolex.com). Rolex also backs the Rolex Women's World Golf Rankings cited in series coverage.",
+    "source": {
+      "name": "PIF Global Series - partners footer",
+      "date": "2026-09-25",
+      "url": "https://pifglobalseries.com/en-us/"
+    }
   },
   {
     "id": "villa-w-visit-rwanda",

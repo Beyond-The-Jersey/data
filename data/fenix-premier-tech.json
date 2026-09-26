@@ -12,8 +12,8 @@
       "placement": "front",
       "season": "2026",
       "tier": "unrated",
-      "ownerId": "arpa-industriale",
-      "owner": "Arpa Industriale",
+      "ownerId": null,
+      "owner": null,
       "verdict": null,
       "source": {
         "name": "Cyclist - Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
@@ -38,8 +38,6 @@
     }
   ],
   "worstTier": "unrated",
-  "owners": [
-    "arpa-industriale"
-  ],
+  "owners": [],
   "lastUpdated": "2026-09-24"
 }

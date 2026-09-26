@@ -2944,6 +2944,229 @@
     ]
   },
   {
+    "id": "philippine-golf-championship",
+    "name": "Philippine Golf Championship",
+    "shortName": "Philippine Golf",
+    "code": "PGC",
+    "sportId": "golf",
+    "leagueId": "asian-tour",
+    "country": "Philippines",
+    "crest": null,
+    "aliases": [
+      "new 2026 tournament"
+    ]
+  },
+  {
+    "id": "new-zealand-open",
+    "name": "New Zealand Open",
+    "shortName": "NZ Open",
+    "code": "NZO",
+    "sportId": "golf",
+    "leagueId": "asian-tour",
+    "country": "New Zealand",
+    "crest": null,
+    "aliases": [
+      "co-sanctioned with the PGA Tour of Australasia"
+    ]
+  },
+  {
+    "id": "international-series-japan",
+    "name": "International Series Japan",
+    "shortName": "IS Japan",
+    "code": "ISJ",
+    "sportId": "golf",
+    "leagueId": "asian-tour",
+    "country": "Japan",
+    "crest": null,
+    "aliases": [
+      "International Series event"
+    ]
+  },
+  {
+    "id": "singapore-open-golf",
+    "name": "Singapore Open",
+    "shortName": "Singapore Open",
+    "code": "SGO",
+    "sportId": "golf",
+    "leagueId": "asian-tour",
+    "country": "Singapore",
+    "crest": null,
+    "aliases": [
+      "International Series event; presented by The Business Times",
+      "historically co-sanctioned with the Japan Golf Tour era events; administered from Sentosa",
+      "singapore golf open"
+    ]
+  },
+  {
+    "id": "gs-caltex-maekyung-open",
+    "name": "GS Caltex Maekyung Open",
+    "shortName": "Maekyung Open",
+    "code": "GCM",
+    "sportId": "golf",
+    "leagueId": "asian-tour",
+    "country": "South Korea",
+    "crest": null,
+    "aliases": [
+      "co-sanctioned with the Korean Tour"
+    ]
+  },
+  {
+    "id": "taiwan-glass-taifong-open",
+    "name": "Taiwan Glass Taifong Open",
+    "shortName": "Taifong Open",
+    "code": "TTO",
+    "sportId": "golf",
+    "leagueId": "asian-tour",
+    "country": "Taiwan",
+    "crest": null,
+    "aliases": [
+      "co-sanctioned with the Taiwan PGA Tour"
+    ]
+  },
+  {
+    "id": "kolon-korea-open",
+    "name": "Kolon Korea Open",
+    "shortName": "Korea Open",
+    "code": "KKO",
+    "sportId": "golf",
+    "leagueId": "asian-tour",
+    "country": "South Korea",
+    "crest": null,
+    "aliases": [
+      "co-sanctioned with the Korean Tour"
+    ]
+  },
+  {
+    "id": "am-green-igpl-bharath-classic-morocco",
+    "name": "Am Green IGPL Bharath Classic Morocco",
+    "shortName": "IGPL Morocco",
+    "code": "IGM",
+    "sportId": "golf",
+    "leagueId": "asian-tour",
+    "country": "Morocco",
+    "crest": null,
+    "aliases": [
+      "co-sanctioned with the Indian Golf Premier League",
+      "new tournament"
+    ]
+  },
+  {
+    "id": "international-series-morocco",
+    "name": "International Series Morocco",
+    "shortName": "IS Morocco",
+    "code": "ISM",
+    "sportId": "golf",
+    "leagueId": "asian-tour",
+    "country": "Morocco",
+    "crest": null,
+    "aliases": [
+      "International Series event"
+    ]
+  },
+  {
+    "id": "yeangder-tournament-players-championship",
+    "name": "Yeangder Tournament Players Championship",
+    "shortName": "Yeangder TPC",
+    "code": "YTP",
+    "sportId": "golf",
+    "leagueId": "asian-tour",
+    "country": "Taiwan",
+    "crest": null,
+    "aliases": [
+      "co-sanctioned with the Taiwan PGA Tour"
+    ]
+  },
+  {
+    "id": "mercuries-taiwan-masters",
+    "name": "Mercuries Taiwan Masters",
+    "shortName": "Taiwan Masters",
+    "code": "MTM",
+    "sportId": "golf",
+    "leagueId": "asian-tour",
+    "country": "Taiwan",
+    "crest": null,
+    "aliases": [
+      "co-sanctioned with the Taiwan PGA Tour"
+    ]
+  },
+  {
+    "id": "international-series-india",
+    "name": "International Series India",
+    "shortName": "IS India",
+    "code": "ISI",
+    "sportId": "golf",
+    "leagueId": "asian-tour",
+    "country": "India",
+    "crest": null,
+    "aliases": [
+      "CANCELLED (Wikipedia 2026 schedule); was an International Series event"
+    ]
+  },
+  {
+    "id": "sjm-macao-open",
+    "name": "SJM Macao Open",
+    "shortName": "Macao Open",
+    "code": "SMO",
+    "sportId": "golf",
+    "leagueId": "asian-tour",
+    "country": "Macau",
+    "crest": null,
+    "aliases": []
+  },
+  {
+    "id": "link-hong-kong-open",
+    "name": "Link Hong Kong Open",
+    "shortName": "HK Open",
+    "code": "LHO",
+    "sportId": "golf",
+    "leagueId": "asian-tour",
+    "country": "Hong Kong",
+    "crest": null,
+    "aliases": [
+      "International Series status removed after the LIV split (Wikipedia note); IS partners page lists LINK as title sponsor"
+    ]
+  },
+  {
+    "id": "international-series-china",
+    "name": "International Series China",
+    "shortName": "IS China",
+    "code": "ISCN",
+    "sportId": "golf",
+    "leagueId": "asian-tour",
+    "country": "China",
+    "crest": null,
+    "aliases": [
+      "CANCELLED (Wikipedia 2026 schedule); was an International Series event"
+    ]
+  },
+  {
+    "id": "philippine-open",
+    "name": "BingoPlus Philippine Open",
+    "shortName": "Philippine Open",
+    "code": "BPO",
+    "sportId": "golf",
+    "leagueId": "asian-tour",
+    "country": "Philippines",
+    "crest": null,
+    "aliases": [
+      "International Series status removed after the LIV split (Wikipedia note); presented by BingoPlus (IS partners page)"
+    ]
+  },
+  {
+    "id": "pif-saudi-international",
+    "name": "PIF Saudi International",
+    "shortName": "Saudi International",
+    "code": "PSI",
+    "sportId": "golf",
+    "leagueId": "asian-tour",
+    "country": "Saudi Arabia",
+    "crest": null,
+    "aliases": [
+      "International Series status removed after the LIV split (Wikipedia note); title sponsor PIF, presented by SoftBank Investment Advisers (IS partners page)",
+      "Nov 18-21, 2026, Riyadh Golf Club, USD 5m purse (internationalseries.com event page)"
+    ]
+  },
+  {
     "id": "australian-open",
     "name": "Australian Open",
     "shortName": "Australian Open",
@@ -7674,6 +7897,38 @@
     "crest": null,
     "aliases": [
       "manthey the bend"
+    ]
+  },
+  {
+    "id": "pif-global-series-2026",
+    "name": "PIF Global Series 2026",
+    "shortName": "PIF GS 2026",
+    "code": "PIFGS26",
+    "sportId": "golf",
+    "leagueId": "womens-golf",
+    "country": "Saudi Arabia, USA, United Kingdom, South Korea, China",
+    "crest": null,
+    "aliases": [
+      "PIF Global Series",
+      "Aramco Team Series (former name)",
+      "PIF Saudi Ladies International",
+      "Aramco Championship",
+      "PIF London Championship",
+      "Aramco Korea Championship",
+      "Aramco China Championship"
+    ]
+  },
+  {
+    "id": "solheim-cup-2026",
+    "name": "Solheim Cup 2026",
+    "shortName": "Solheim Cup",
+    "code": "SOL26",
+    "sportId": "golf",
+    "leagueId": "womens-golf",
+    "country": "Netherlands",
+    "crest": null,
+    "aliases": [
+      "Solheim Cup"
     ]
   },
   {

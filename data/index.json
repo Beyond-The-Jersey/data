@@ -1684,6 +1684,125 @@
       "file": "cong-an-ha-noi.json"
     },
     {
+      "id": "philippine-golf-championship",
+      "name": "Philippine Golf Championship",
+      "sport": "golf",
+      "league": "asian-tour",
+      "file": "philippine-golf-championship.json"
+    },
+    {
+      "id": "new-zealand-open",
+      "name": "New Zealand Open",
+      "sport": "golf",
+      "league": "asian-tour",
+      "file": "new-zealand-open.json"
+    },
+    {
+      "id": "international-series-japan",
+      "name": "International Series Japan",
+      "sport": "golf",
+      "league": "asian-tour",
+      "file": "international-series-japan.json"
+    },
+    {
+      "id": "singapore-open-golf",
+      "name": "Singapore Open",
+      "sport": "golf",
+      "league": "asian-tour",
+      "file": "singapore-open-golf.json"
+    },
+    {
+      "id": "gs-caltex-maekyung-open",
+      "name": "GS Caltex Maekyung Open",
+      "sport": "golf",
+      "league": "asian-tour",
+      "file": "gs-caltex-maekyung-open.json"
+    },
+    {
+      "id": "taiwan-glass-taifong-open",
+      "name": "Taiwan Glass Taifong Open",
+      "sport": "golf",
+      "league": "asian-tour",
+      "file": "taiwan-glass-taifong-open.json"
+    },
+    {
+      "id": "kolon-korea-open",
+      "name": "Kolon Korea Open",
+      "sport": "golf",
+      "league": "asian-tour",
+      "file": "kolon-korea-open.json"
+    },
+    {
+      "id": "am-green-igpl-bharath-classic-morocco",
+      "name": "Am Green IGPL Bharath Classic Morocco",
+      "sport": "golf",
+      "league": "asian-tour",
+      "file": "am-green-igpl-bharath-classic-morocco.json"
+    },
+    {
+      "id": "international-series-morocco",
+      "name": "International Series Morocco",
+      "sport": "golf",
+      "league": "asian-tour",
+      "file": "international-series-morocco.json"
+    },
+    {
+      "id": "yeangder-tournament-players-championship",
+      "name": "Yeangder Tournament Players Championship",
+      "sport": "golf",
+      "league": "asian-tour",
+      "file": "yeangder-tournament-players-championship.json"
+    },
+    {
+      "id": "mercuries-taiwan-masters",
+      "name": "Mercuries Taiwan Masters",
+      "sport": "golf",
+      "league": "asian-tour",
+      "file": "mercuries-taiwan-masters.json"
+    },
+    {
+      "id": "international-series-india",
+      "name": "International Series India",
+      "sport": "golf",
+      "league": "asian-tour",
+      "file": "international-series-india.json"
+    },
+    {
+      "id": "sjm-macao-open",
+      "name": "SJM Macao Open",
+      "sport": "golf",
+      "league": "asian-tour",
+      "file": "sjm-macao-open.json"
+    },
+    {
+      "id": "link-hong-kong-open",
+      "name": "Link Hong Kong Open",
+      "sport": "golf",
+      "league": "asian-tour",
+      "file": "link-hong-kong-open.json"
+    },
+    {
+      "id": "international-series-china",
+      "name": "International Series China",
+      "sport": "golf",
+      "league": "asian-tour",
+      "file": "international-series-china.json"
+    },
+    {
+      "id": "philippine-open",
+      "name": "BingoPlus Philippine Open",
+      "sport": "golf",
+      "league": "asian-tour",
+      "file": "philippine-open.json"
+    },
+    {
+      "id": "pif-saudi-international",
+      "name": "PIF Saudi International",
+      "sport": "golf",
+      "league": "asian-tour",
+      "file": "pif-saudi-international.json"
+    },
+    {
       "id": "australian-open",
       "name": "Australian Open",
       "sport": "tennis",
@@ -4202,6 +4321,20 @@
       "sport": "motorsport",
       "league": "wec",
       "file": "the-bend-manthey.json"
+    },
+    {
+      "id": "pif-global-series-2026",
+      "name": "PIF Global Series 2026",
+      "sport": "golf",
+      "league": "womens-golf",
+      "file": "pif-global-series-2026.json"
+    },
+    {
+      "id": "solheim-cup-2026",
+      "name": "Solheim Cup 2026",
+      "sport": "golf",
+      "league": "womens-golf",
+      "file": "solheim-cup-2026.json"
     },
     {
       "id": "arsenal-w",

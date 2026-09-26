@@ -38,6 +38,14 @@
     "country": "US"
   },
   {
+    "id": "acushnet-holdings",
+    "name": "Acushnet Holdings Corp.",
+    "type": "listed-company",
+    "country": "United States",
+    "note": "NYSE-listed (GOLF) maker of Titleist and FootJoy; controlled company per NYSE rules (Acushnet FY2025 Form 10-K, filed 2026-02-27).",
+    "parentId": "magnus-holdings"
+  },
+  {
     "id": "adidas-ag",
     "name": "adidas AG",
     "type": "listed-company",
@@ -189,6 +197,14 @@
     "country": "Saudi Arabia",
     "parentId": null,
     "note": "Saudi joint-stock company (capital SAR 60bn), traded on the Saudi Exchange (Tadawul) as ticker 1120; supervised by the Saudi Central Bank. Founded by the Al Rajhi family; largest shareholders are family members (needs primary confirmation)."
+  },
+  {
+    "id": "am-green",
+    "name": "AM Green",
+    "type": "private-company",
+    "country": "India",
+    "note": "Green energy group (amgreen.com, fetched 2026-09-25); name sponsor of the Am Green IGPL Bharath Classic Morocco on the 2026 Asian Tour schedule. Ownership not traced to a primary document in this pass.",
+    "parentId": null
   },
   {
     "id": "amazon-com-inc",
@@ -1050,6 +1066,14 @@
     "country": "RO"
   },
   {
+    "id": "digiplus-interactive",
+    "name": "DigiPlus Interactive Corporation",
+    "type": "listed-company",
+    "country": "Philippines",
+    "note": "Philippine Stock Exchange-listed (Exchange where listed: Philippine Stock Exchange, digiplus.com.ph investor page, fetched 2026-09-25); operates BingoPlus, ArenaPlus and GameZone.",
+    "parentId": null
+  },
+  {
     "id": "diputacion-de-malaga",
     "name": "Diputacion Provincial de Malaga",
     "type": "state",
@@ -1333,6 +1357,14 @@
     "parentId": null,
     "note": "jersey patch partner of tampa-bay-buccaneers (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "fila-holdings",
+    "name": "Fila Holdings Corp (Misto Holdings Corp)",
+    "type": "listed-company",
+    "country": "South Korea",
+    "note": "Korea Exchange-listed sport and leisure apparel company, formerly Fila Korea and Fila Holdings, now Misto Holdings (Acushnet FY2025 Form 10-K). Parent of Magnus Holdings Co., Ltd.",
+    "parentId": null
   },
   {
     "id": "finstreet-ltd",
@@ -2247,6 +2279,22 @@
     "country": "USA"
   },
   {
+    "id": "link-asset-management",
+    "name": "Link Asset Management Limited",
+    "type": "private-company",
+    "country": "Hong Kong",
+    "note": "Manager of Link Real Estate Investment Trust (linkreit.com about page: 'Link REIT ... Managed by Link Asset Management Limited (Link)', fetched 2026-09-25).",
+    "parentId": null
+  },
+  {
+    "id": "link-reit",
+    "name": "Link Real Estate Investment Trust (Link REIT)",
+    "type": "listed-company",
+    "country": "Hong Kong",
+    "note": "HKEX-listed; 'entirely owned by independent investors since its listing in November 2005 as the first REIT in Hong Kong' (linkreit.com, fetched 2026-09-25). Manager: Link Asset Management Limited; the LINK brand title-sponsors the Link Hong Kong Open.",
+    "parentId": null
+  },
+  {
     "id": "little-caesars-owner",
     "name": "Little Caesars",
     "type": "private-company",
@@ -2340,6 +2388,14 @@
     "parentId": null,
     "note": "arena naming-rights holder of baltimore-ravens (2026-27).",
     "country": "USA"
+  },
+  {
+    "id": "magnus-holdings",
+    "name": "Magnus Holdings Co., Ltd.",
+    "type": "listed-company",
+    "country": "South Korea",
+    "note": "Wholly-owned subsidiary of Misto (Fila Holdings). Beneficially owned approximately 50.6% of Acushnet Holdings Corp. common stock as of 31 December 2025, making Acushnet a NYSE 'controlled company' (Acushnet FY2025 Form 10-K).",
+    "parentId": "fila-holdings"
   },
   {
     "id": "mahou-san-miguel",
@@ -3433,6 +3489,14 @@
     "parentId": "saudi-pif"
   },
   {
+    "id": "sb-investment-advisers-uk",
+    "name": "SB Investment Advisers (UK) Limited",
+    "type": "private-company",
+    "country": "United Kingdom",
+    "note": "Companies House 10498335; incorporated 25 November 2016, formerly SoftBank Vision Advisers Limited; nature of business SIC 66300 fund management activities; registered office 69 Grosvenor Street, London W1K 3JP. PSC: SoftBank Group Corp (Japan), 75%+ shares and voting rights (fetched 2026-09-25).",
+    "parentId": "softbank-group"
+  },
+  {
     "id": "schwarz-group",
     "name": "Schwarz Group",
     "type": "private-company",
@@ -3572,6 +3636,14 @@
     "country": "US"
   },
   {
+    "id": "softbank-group",
+    "name": "SoftBank Group Corp.",
+    "type": "listed-company",
+    "country": "Japan",
+    "note": "Tokyo-listed (TSE: 9984). Sole person with significant control over SB Investment Advisers (UK) Limited per the UK Companies House PSC register: 'Ownership of shares - 75% or more; Ownership of voting rights - 75% or more' (Companies House PSC register, company 10498335, fetched 2026-09-25).",
+    "parentId": null
+  },
+  {
     "id": "sonepar",
     "name": "Sonepar",
     "type": "private-company",
@@ -3601,6 +3673,14 @@
     "parentId": null,
     "note": "arena naming-rights holder of charlotte-hornets (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "sph-media",
+    "name": "SPH Media Limited",
+    "type": "private-company",
+    "country": "Singapore",
+    "note": "Publisher of The Business Times (businesstimes.com.sg footer: 'Published by SPH Media Limited, Co. Regn. No. 202120748H', fetched 2026-09-25). Upstream governance (SPH Media Trust, company limited by guarantee) not traced to a primary document in this pass.",
+    "parentId": null
   },
   {
     "id": "spotify-technology",

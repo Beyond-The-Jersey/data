@@ -774,6 +774,20 @@
     "note": "Saudi destination brand run by the Royal Commission for AlUla; co-title sponsor of Team Jayco AlUla."
   },
   {
+    "id": "am-green",
+    "name": "AM Green",
+    "ownerId": "am-green",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "amgreen"
+    ],
+    "note": "Name sponsor of the Am Green IGPL Bharath Classic Morocco (7 Jun 2026, Wikipedia 2026 Asian Tour schedule table citing asiantour.com); Indian green-energy group per amgreen.com (fetched 2026-09-25). Ownership not traced to a primary document in this pass."
+  },
+  {
     "id": "amazing-cre",
     "name": "Amazing CRE",
     "ownerId": null,
@@ -1774,6 +1788,20 @@
     ],
     "aliases": [],
     "note": "Rating note: The site publishes shareholder structure as a downloadable table rather than inline, so the exact family percentage is not stated on the page itself."
+  },
+  {
+    "id": "bingoplus",
+    "name": "BingoPlus",
+    "ownerId": "digiplus-interactive",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "bingo plus"
+    ],
+    "note": "Presenting partner of the BingoPlus Philippine Open (Nov 12-15, 2026, Manila Southwoods; internationalseries.com partners and event pages, fetched 2026-09-25). Operated by DigiPlus Interactive Corporation, Philippine Stock Exchange-listed."
   },
   {
     "id": "bishop",
@@ -4148,14 +4176,16 @@
   {
     "id": "fenix",
     "name": "Fenix",
-    "ownerId": "arpa-industriale",
-    "ownership": "owned",
+    "ownerId": null,
+    "ownership": null,
     "tier": "unrated",
     "status": "unrated",
     "verdict": null,
     "claimIds": [],
-    "aliases": [],
-    "note": "Surface-material brand of Italy's Arpa Industriale; title sponsor of Fenix-Premier Tech (Cyclist, 2026-07-14)."
+    "aliases": [
+      "fenix 2025"
+    ],
+    "note": "Official apparel partner of the International Series, labelled 'Fenix 2025' on the partners page (fetched 2026-09-25). The brand entity behind Fenix and its ownership are unconfirmed - see unsourced."
   },
   {
     "id": "fever",
@@ -4184,6 +4214,20 @@
     ],
     "aliases": [],
     "note": "Rating note: Fifth Third Bancorp is a publicly traded bank holding company; no state stake or serious conduct record identified."
+  },
+  {
+    "id": "fii-institute",
+    "name": "FII Institute (Future Investment Initiative Institute)",
+    "ownerId": "saudi-pif",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Future Investment Initiative Institute"
+    ],
+    "note": "Official Partner of the PIF Global Series (pifglobalseries.com footer, fetched 25 Sep 2026, linking fii-institute.org, 'FII Institute - Impact on Humanity')."
   },
   {
     "id": "firehouse-subs",
@@ -4802,6 +4846,18 @@
     ],
     "aliases": [],
     "note": "Rating note: Explicitly states member-owned and not-for-profit; no state stake or serious conduct record identified."
+  },
+  {
+    "id": "golf-saudi",
+    "name": "Golf Saudi",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [],
+    "note": "Organiser of the PIF Global Series (pifglobalseries.com footer, fetched 25 Sep 2026); the series is 'Golf Saudi's series of elite events on the Ladies European Tour' (pifglobalseries.com homepage). Golf Saudi describes itself as delivering a national golf development programme under Saudi Vision 2030 (golfsaudi.com/en/this_is_golf_saudi, fetched 25 Sep 2026) but publishes no ownership statement; left unowned rather than guessed."
   },
   {
     "id": "goodyear",
@@ -6328,6 +6384,20 @@
     "note": "Rating note: The Bahraini link is the former owner Arcapita, a Bahraini private bank - not the Bahraini state itself, so no state link at owner level."
   },
   {
+    "id": "kolon",
+    "name": "Kolon Group",
+    "ownerId": null,
+    "ownership": null,
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "Kolon"
+    ],
+    "note": "Host Partner of the PIF Global Series (pifglobalseries.com footer, fetched 25 Sep 2026, linking kolon.com/en/main, 'KOLON GROUP'); a South Korean conglomerate. Ownership not traced."
+  },
+  {
     "id": "komatsu",
     "name": "Komatsu",
     "ownerId": "komatsu-ltd",
@@ -6679,6 +6749,22 @@
     ],
     "aliases": [],
     "note": "Rating note: Lincoln Financial is publicly traded with no state ownership; largest holders are Vanguard (~10.4%) and BlackRock (~8.9%). No documented human-rights concerns in ownership chain identified."
+  },
+  {
+    "id": "link-reit-brand",
+    "name": "LINK (Link Asset Management / Link REIT)",
+    "ownerId": "link-reit",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "link",
+      "link hong kong open sponsor",
+      "link asset management"
+    ],
+    "note": "Title sponsor of the Link Hong Kong Open (internationalseries.com partners page, fetched 2026-09-25; the page's sponsor block carries the id 'link-reit'). Link Asset Management Limited manages HKEX-listed Link REIT."
   },
   {
     "id": "liqui-moly",
@@ -10429,6 +10515,22 @@
     "note": "Rating note: Private Company company with no significant conduct issues found"
   },
   {
+    "id": "softbank-investment-advisers",
+    "name": "SoftBank Investment Advisers",
+    "ownerId": "sb-investment-advisers-uk",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "SoftBank Investment Advisers (UK) Ltd",
+      "SB Investment Advisers",
+      "SoftBank"
+    ],
+    "note": "Presenting partner of the PIF Saudi International powered by SoftBank Investment Advisers (internationalseries.com partners page, fetched 2026-09-25). SB Investment Advisers (UK) Limited is the SoftBank Group entity behind the Vision Fund vehicles; ownership chain: SB Investment Advisers (UK) Ltd -> SoftBank Group Corp (Companies House PSC)."
+  },
+  {
     "id": "solan-de-cabras",
     "name": "Solan de Cabras",
     "ownerId": "mahou-san-miguel",
@@ -11244,6 +11346,21 @@
     "note": "Rating note: The 20-F carries a 5%-plus beneficial ownership table; no government holder appears. Toyota's keiretsu cross-shareholdings are private."
   },
   {
+    "id": "the-business-times",
+    "name": "The Business Times",
+    "ownerId": "sph-media",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "business times",
+      "bt singapore"
+    ],
+    "note": "Singapore business daily published by SPH Media Limited; presenting partner of the Singapore Open (internationalseries.com partners and event pages, fetched 2026-09-25)."
+  },
+  {
     "id": "theeb-rent-a-car",
     "name": "Theeb Rent A Car",
     "ownerId": null,
@@ -11279,6 +11396,21 @@
     "claimIds": [],
     "aliases": [],
     "note": "UCI World Cycling Partner."
+  },
+  {
+    "id": "titleist",
+    "name": "Titleist",
+    "ownerId": "acushnet-holdings",
+    "ownership": "owned",
+    "tier": "unrated",
+    "status": "unrated",
+    "verdict": null,
+    "claimIds": [],
+    "aliases": [
+      "acushnet",
+      "titleist golf"
+    ],
+    "note": "Official ball and equipment partner of the International Series (internationalseries.com partners page, fetched 2026-09-25). Titleist is Acushnet Holdings' flagship brand (FY2025 Form 10-K); Acushnet is controlled by Magnus Holdings (~50.6%), a wholly-owned subsidiary of Misto Holdings (Fila Holdings, Korea Exchange-listed)."
   },
   {
     "id": "tm-real-estate-group",

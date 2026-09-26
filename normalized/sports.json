@@ -54,6 +54,15 @@
     ]
   },
   {
+    "id": "golf",
+    "label": "Golf",
+    "status": "not-mapped",
+    "aliases": [
+      "asian tour",
+      "international series"
+    ]
+  },
+  {
     "id": "tennis",
     "label": "Tennis",
     "status": "not-mapped",
@@ -61,16 +70,6 @@
       "atp",
       "men's tennis",
       "association of tennis professionals"
-    ]
-  },
-  {
-    "id": "golf",
-    "label": "Golf",
-    "status": "not-mapped",
-    "aliases": [
-      "dp world tour",
-      "european tour",
-      "race to dubai"
     ]
   },
   {
