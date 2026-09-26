@@ -1,0 +1,12 @@
+{
+  "id": "miami-dolphins",
+  "name": "Miami Dolphins",
+  "shortName": "Dolphins",
+  "code": "MIA",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/miami-dolphins.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

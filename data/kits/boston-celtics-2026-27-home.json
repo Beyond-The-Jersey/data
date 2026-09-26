@@ -1,0 +1,24 @@
+{
+  "id": "boston-celtics-2026-27-home",
+  "clubId": "boston-celtics",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "amica-mutual-insurance",
+      "placement": "patch",
+      "source": {
+        "name": "NBC Sports Boston",
+        "date": "2024-07-09",
+        "url": "https://www.nbcsportsboston.com/nba/boston-celtics/wyc-grousbeck-celtics-jersey-patch-sponsor-amica/627910"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Amica Mutual Insurance.",
+  "change": null
+}

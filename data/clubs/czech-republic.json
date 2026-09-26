@@ -1,0 +1,11 @@
+{
+  "id": "czech-republic",
+  "name": "Czech Republic",
+  "shortName": "Czech Republic",
+  "code": "CZE",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Czech Republic",
+  "crest": "assets/crests/czech-republic.png",
+  "aliases": []
+}

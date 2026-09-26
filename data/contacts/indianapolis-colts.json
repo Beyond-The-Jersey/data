@@ -1,0 +1,52 @@
+{
+  "clubId": "indianapolis-colts",
+  "channels": [
+    {
+      "type": "email",
+      "value": "webmaster@colts.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.colts.com/footer/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "Colts.Community@colts.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.colts.com/footer/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.colts.com/footer/contact-us",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.colts.com/footer/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@colts",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.colts.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@colts",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.colts.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

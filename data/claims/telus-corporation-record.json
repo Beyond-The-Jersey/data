@@ -1,0 +1,14 @@
+{
+  "id": "telus-corporation-record",
+  "ownerIds": [
+    "telus-corporation"
+  ],
+  "text": "TELUS is a TSX/NYSE-listed Canadian telecom with a dispersed public shareholder base and no state owner; it files with the SEC as a foreign private issuer. The Vancouver Whitecaps front deal is private corporate money. Human-rights exposure is ordinary telecom supply chain (Huawei/network equipment) and privacy conduct.",
+  "short": "TELUS is a TSX/NYSE-listed Canadian telecom with a dispersed public shareholder base and no state owner; it files with the SEC as a foreign private issuer.",
+  "source": {
+    "name": "TELUS Corporation Form 40-F FY2025 (SEC EDGAR)",
+    "date": "2026-02-12",
+    "url": "https://www.sec.gov/Archives/edgar/data/868675/000110465926013854/tu-20251231x40f.htm"
+  },
+  "reviewed": false
+}

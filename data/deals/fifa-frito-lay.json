@@ -1,0 +1,16 @@
+{
+  "id": "fifa-frito-lay",
+  "clubId": null,
+  "orgName": "FIFA",
+  "sponsorId": "frito-lay",
+  "placement": "league-partner",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "FIFA - Lay's named Official Sponsor of FIFA World Cup 26 and FIFA Women's World Cup 2027",
+    "date": "2024-09-12",
+    "url": "https://inside.fifa.com/about-fifa/commercial/media-releases/lays-named-official-sponsor-of-fifa-world-cup-26-tm-and-fifa-womens-world-cup-2027"
+  },
+  "leagueId": "fifa"
+}

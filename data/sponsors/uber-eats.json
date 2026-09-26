@@ -1,0 +1,11 @@
+{
+  "id": "uber-eats",
+  "name": "Uber Eats",
+  "ownerId": "uber-technologies",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": []
+}

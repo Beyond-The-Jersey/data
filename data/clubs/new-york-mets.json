@@ -1,0 +1,12 @@
+{
+  "id": "new-york-mets",
+  "name": "New York Mets",
+  "shortName": "Mets",
+  "code": "NYM",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "USA",
+  "crest": "assets/crests/new-york-mets.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

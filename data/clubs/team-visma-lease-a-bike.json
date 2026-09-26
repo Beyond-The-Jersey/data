@@ -1,0 +1,13 @@
+{
+  "id": "team-visma-lease-a-bike",
+  "name": "Team Visma | Lease a Bike",
+  "shortName": "Visma-Lease a Bike",
+  "code": "TVL",
+  "sportId": "cycling",
+  "leagueId": "uci-worldtour",
+  "country": "Netherlands",
+  "crest": "assets/crests/team-visma-lease-a-bike.png",
+  "aliases": [
+    "jumbo-visma"
+  ]
+}

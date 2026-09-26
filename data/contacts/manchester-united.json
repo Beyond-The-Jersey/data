@@ -1,0 +1,61 @@
+{
+  "clubId": "manchester-united",
+  "channels": [
+    {
+      "type": "email",
+      "value": "ticketingandmembershipservices@manutd.co.uk",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.manutd.com/en/help/club-contacts",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "hospitality.enquiries@manutd.co.uk",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.manutd.com/en/help/club-contacts",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "+441616767770",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.manutd.com/en",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.manutd.com/en/help/club-contacts",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.manutd.com/en/help/club-contacts",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@ManUtd",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.manutd.com/en",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@manutd",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.manutd.com/en",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

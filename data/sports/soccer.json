@@ -1,0 +1,8 @@
+{
+  "id": "soccer",
+  "label": "Soccer",
+  "status": "active",
+  "aliases": [
+    "football"
+  ]
+}

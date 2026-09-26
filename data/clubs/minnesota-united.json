@@ -1,0 +1,11 @@
+{
+  "id": "minnesota-united",
+  "name": "Minnesota United FC",
+  "shortName": "Minnesota United",
+  "code": "MIN",
+  "sportId": "soccer",
+  "leagueId": "mls",
+  "country": "USA",
+  "crest": "assets/crests/minnesota-united.png",
+  "aliases": []
+}

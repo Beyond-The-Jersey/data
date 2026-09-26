@@ -1,0 +1,33 @@
+{
+  "clubId": "espanyol",
+  "channels": [
+    {
+      "type": "email",
+      "value": "info@rcdespanyol.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.rcdespanyol.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@rcdespanyol",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.rcdespanyol.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@RCDEspanyol",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.rcdespanyol.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

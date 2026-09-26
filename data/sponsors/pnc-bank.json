@@ -1,0 +1,14 @@
+{
+  "id": "pnc-bank",
+  "name": "PNC Bank (PNC Financial Services)",
+  "ownerId": "pnc-bank-pnc-financial-services-owner",
+  "ownership": "owned",
+  "tier": "concern",
+  "status": "rated",
+  "verdict": "PNC Financial Services Group, Inc.",
+  "claimIds": [
+    "pnc-bank-pnc-financial-services-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: PNC has paid significant settlements including $6.1 million in 2023 for BBVA 401(k) fees and various mortgage-related settlements."
+}

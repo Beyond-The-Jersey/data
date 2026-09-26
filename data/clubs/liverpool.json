@@ -1,0 +1,15 @@
+{
+  "id": "liverpool",
+  "name": "Liverpool",
+  "shortName": "Liverpool",
+  "code": "LIV",
+  "sportId": "soccer",
+  "leagueId": "premier-league",
+  "country": "England",
+  "crest": "assets/crests/liverpool.png",
+  "aliases": [
+    "lfc",
+    "reds"
+  ],
+  "hasTeamPageDesign": false
+}

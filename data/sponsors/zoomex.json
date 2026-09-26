@@ -1,0 +1,14 @@
+{
+  "id": "zoomex",
+  "name": "Zoomex",
+  "ownerId": "zoomex",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Zoomex (crypto derivatives exchange, founded 2021). Nothing found.",
+  "claimIds": [
+    "zoomex-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Thin public record - mostly exchange directories. Country of incorporation not stated on its own site (Cayman/Seychelles typical for the sector), left as unknown."
+}

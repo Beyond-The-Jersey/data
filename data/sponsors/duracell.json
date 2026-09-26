@@ -1,0 +1,14 @@
+{
+  "id": "duracell",
+  "name": "Duracell",
+  "ownerId": "berkshire-hathaway",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Berkshire Hathaway Inc.. Nothing found.",
+  "claimIds": [
+    "berkshire-hathaway-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Duracell's own company page (duracell.com/company) also states the Berkshire position since 2016."
+}

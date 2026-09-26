@@ -1,0 +1,39 @@
+{
+  "id": "newcastle-united-2026-27-home",
+  "clubId": "newcastle-united",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {
+    "square": "assets/shirts/grid/newcastle-united-2026-27-home-front-square.jpg"
+  },
+  "sponsors": [
+    {
+      "sponsorId": "knox-hydration",
+      "placement": "front",
+      "source": {
+        "name": "The Mag",
+        "date": "2026-06",
+        "url": "https://www.themag.co.uk/2026/06/newcastle-united-have-agreed-new-main-sponsor-front-of-shirt-three-year-deal-to-replace-sela/"
+      }
+    },
+    {
+      "sponsorId": "noon",
+      "placement": "sleeve",
+      "source": {
+        "name": "The Mag",
+        "date": "2026-06",
+        "url": "https://www.themag.co.uk/2026/06/newcastle-united-have-agreed-new-main-sponsor-front-of-shirt-three-year-deal-to-replace-sela/"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "noon, on the sleeve, is part-owned by Saudi Arabia’s state fund.",
+  "change": {
+    "kind": "better",
+    "text": "Better than last season: Saudi-owned Sela is off the front",
+    "badge": "Sela gone"
+  }
+}

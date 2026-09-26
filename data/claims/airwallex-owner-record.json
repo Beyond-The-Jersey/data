@@ -1,0 +1,14 @@
+{
+  "id": "airwallex-owner-record",
+  "ownerIds": [
+    "airwallex-owner"
+  ],
+  "text": "Airwallex is owned by Airwallex. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+  "short": "Airwallex is owned by Airwallex.",
+  "source": {
+    "name": "Airwallex Series B fundraising announcement",
+    "date": "2018-07-03",
+    "url": "https://www.airwallex.com/global/newsroom/series-b-closing-80m"
+  },
+  "reviewed": false
+}

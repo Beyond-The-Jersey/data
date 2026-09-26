@@ -1,0 +1,14 @@
+{
+  "id": "raymond-james-financial-owner-record",
+  "ownerIds": [
+    "raymond-james-financial-owner"
+  ],
+  "text": "Raymond James Financial is a NYSE-listed financial services company with no state ownership; largest shareholder is The Vanguard Group (~11.31%) and other institutions each under 10%.",
+  "short": "Raymond James Financial is a NYSE-listed financial services company with no state ownership; largest shareholder is The Vanguard Group (~11.31%) and other….",
+  "source": {
+    "name": "Raymond James Financial DEF 14A 2026",
+    "date": "2026-01-07",
+    "url": "https://www.sec.gov/Archives/edgar/data/720005/000072000526000019/rjf-20260106.htm"
+  },
+  "reviewed": false
+}

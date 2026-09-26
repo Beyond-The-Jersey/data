@@ -1,0 +1,15 @@
+name: Check a sponsor
+description: Trace who owns a sponsor and what's on record about the owner.
+title: "Check sponsor: "
+labels: [research]
+body:
+  - type: input
+    id: sponsor
+    attributes: { label: Sponsor, description: "Its name as it appears on the shirt" }
+    validations: { required: true }
+  - type: input
+    id: where
+    attributes: { label: Where it appears, description: "Clubs, leagues or events it sponsors" }
+  - type: textarea
+    id: known
+    attributes: { label: What you know so far, description: "Owners, filings, reports, with links" }

@@ -1,0 +1,25 @@
+{
+  "clubId": "union-berlin",
+  "channels": [
+    {
+      "type": "contact-form",
+      "value": "https://www.fc-union-berlin.de/en/contact-hwPB",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.fc-union-berlin.de/en/contact-hwPB",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@fcunion_en",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.fc-union-berlin.de/en",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

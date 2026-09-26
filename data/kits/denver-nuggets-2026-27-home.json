@@ -1,0 +1,24 @@
+{
+  "id": "denver-nuggets-2026-27-home",
+  "clubId": "denver-nuggets",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "ibotta",
+      "placement": "patch",
+      "source": {
+        "name": "Sportcal",
+        "date": "2026-04-17",
+        "url": "https://sportcal.com/news/ibotta-extends-as-nuggets-jersey-patch-partner"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Ibotta.",
+  "change": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": "deportivo-alaves",
+  "name": "Deportivo Alaves",
+  "shortName": "Alaves",
+  "code": "ALA",
+  "sportId": "soccer",
+  "leagueId": "la-liga",
+  "country": "Spain",
+  "crest": "assets/crests/deportivo-alaves.png",
+  "aliases": [
+    "alaves"
+  ],
+  "hasTeamPageDesign": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "government-of-dubai",
+  "name": "Government of Dubai",
+  "type": "state",
+  "country": "UAE",
+  "via": "Investment Corporation of Dubai",
+  "parentId": "uae"
+}

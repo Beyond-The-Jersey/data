@@ -1,0 +1,14 @@
+{
+  "id": "guggenheim-owner-record",
+  "ownerIds": [
+    "guggenheim-owner"
+  ],
+  "text": "Guggenheim Baseball Management LLC is owned by Guggenheim Baseball Management. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+  "short": "Guggenheim Baseball Management LLC is owned by Guggenheim Baseball Management.",
+  "source": {
+    "name": "MLB article on Dodgers sale to Guggenheim",
+    "date": "2012-05-01",
+    "url": "https://www.mlb.com/news/dodgers-sale-to-guggenheim-baseball-management-closed-c30125872"
+  },
+  "reviewed": false
+}

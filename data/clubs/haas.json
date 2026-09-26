@@ -1,0 +1,11 @@
+{
+  "id": "haas",
+  "name": "TGR Haas F1 Team",
+  "shortName": "Haas",
+  "code": "HAA",
+  "sportId": "motorsport",
+  "leagueId": "formula-1",
+  "country": "United States",
+  "crest": "assets/crests/haas.png",
+  "aliases": []
+}

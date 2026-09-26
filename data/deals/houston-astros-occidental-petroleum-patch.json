@@ -1,0 +1,16 @@
+{
+  "id": "houston-astros-occidental-petroleum-patch",
+  "clubId": "houston-astros",
+  "orgName": "Occidental Petroleum (Oxy)",
+  "sponsorId": "occidental-petroleum",
+  "placement": "patch",
+  "from": "2023",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Sports Business Journal",
+    "date": "2023-02-10",
+    "url": "https://www.sportsbusinessjournal.com/Daily/Morning-Buzz/2023/02/10/houston-astros-sign-jersey-patch-deal"
+  },
+  "note": "Jersey patch."
+}

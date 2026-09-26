@@ -1,0 +1,61 @@
+{
+  "clubId": "werder-bremen",
+  "channels": [
+    {
+      "type": "email",
+      "value": "tickets@vfl-bochum.de",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.werder.de/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "info@werder.de",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.werder.de/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "+49421434590",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.werder.de/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.werder.de/service/kontakt",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.werder.de/service/kontakt",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@werderbremen",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.werder.de/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@werderbremen",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.werder.de/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

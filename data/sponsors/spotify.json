@@ -1,0 +1,14 @@
+{
+  "id": "spotify",
+  "name": "Spotify",
+  "ownerId": "spotify-technology",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Spotify Technology S.A.. Nothing found.",
+  "claimIds": [
+    "spotify-technology-sa-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Flagged for proper look: the Tencent (~8%) stake is the only non-Western notable holder and Tencent itself is not state-controlled - so none, not concern."
+}

@@ -1,0 +1,11 @@
+{
+  "id": "portugal",
+  "name": "Portugal",
+  "shortName": "Portugal",
+  "code": "POR",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Portugal",
+  "crest": "assets/crests/portugal.png",
+  "aliases": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "arizona-diamondbacks-jpmorgan-chase-stadium",
+  "clubId": "arizona-diamondbacks",
+  "orgName": "JPMorgan Chase (Chase)",
+  "sponsorId": "jpmorgan-chase",
+  "placement": "stadium",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Ballparks of Baseball",
+    "date": "2025-01-01",
+    "url": "https://www.ballparksofbaseball.com/ballparks/chase-field/"
+  },
+  "note": "Arena naming rights: Chase Field."
+}

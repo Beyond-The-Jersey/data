@@ -1,0 +1,15 @@
+{
+  "id": "rwanda-troops-m23",
+  "ownerIds": [
+    "government-of-rwanda"
+  ],
+  "text": "UN experts say 3,000–4,000 Rwandan troops are fighting alongside M23 rebels in eastern Congo.",
+  "short": "3,000–4,000 Rwandan troops fighting alongside M23 in eastern Congo",
+  "source": {
+    "name": "UN Group of Experts on the DR Congo, final report",
+    "date": "2024",
+    "url": "https://docs.un.org/en/S/2024/432",
+    "note": "Final report of the UN Group of Experts on the DR Congo, S/2024/432."
+  },
+  "reviewed": false
+}

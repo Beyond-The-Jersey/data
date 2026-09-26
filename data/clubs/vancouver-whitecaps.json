@@ -1,0 +1,11 @@
+{
+  "id": "vancouver-whitecaps",
+  "name": "Vancouver Whitecaps FC",
+  "shortName": "Vancouver Whitecaps",
+  "code": "VAN",
+  "sportId": "soccer",
+  "leagueId": "mls",
+  "country": "Canada",
+  "crest": "assets/crests/vancouver-whitecaps.png",
+  "aliases": []
+}

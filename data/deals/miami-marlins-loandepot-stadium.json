@@ -1,0 +1,16 @@
+{
+  "id": "miami-marlins-loandepot-stadium",
+  "clubId": "miami-marlins",
+  "orgName": "loanDepot",
+  "sponsorId": "loandepot",
+  "placement": "stadium",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Miami Marlins / MLB.com press release",
+    "date": "2021-03-31",
+    "url": "https://www.mlb.com/press-release/welcome-to-loandepot-park-miami-s-new-home-for-world-class-entertainment"
+  },
+  "note": "Arena naming rights: loanDepot park. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2021-03-31."
+}

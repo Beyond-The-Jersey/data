@@ -1,0 +1,22 @@
+{
+  "id": "turkish-airlines",
+  "name": "Turkish Airlines",
+  "ownerId": "turkiye-wealth-fund",
+  "ownership": "part-owned",
+  "tier": "serious",
+  "status": "rated",
+  "verdict": "Turkish Airlines' official shareholding disclosure shows the state's Türkiye Wealth Fund as the largest shareholder with 49.12%, with a Ministry of Treasury and….",
+  "claimIds": [
+    "turkiye-wealth-fund-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: State fund with a documented serious-abuse state record → serious. Arguable alternative is concern, because ownership is only ~49% and the rest is free float; the privileged state share and fund control tip it to serious. Confidence medium for that reason.",
+  "why": {
+    "text": "Turkish Airlines’ largest shareholder is the state’s Türkiye Wealth Fund, with 49.12%, and a government share gives the state control. Turkey has a documented record of serious human-rights abuses, including the purges after 2016 and attacks on press freedom. A famous shirt makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+    "claimIds": [
+      "turkiye-wealth-fund-record"
+    ],
+    "messageLine": "Turkey has a documented record of serious human-rights abuses, including the purges after 2016 and attacks on press freedom.",
+    "status": "draft"
+  }
+}

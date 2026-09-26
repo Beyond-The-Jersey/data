@@ -1,0 +1,78 @@
+{
+  "id": "as-monaco-2026-27-home",
+  "clubId": "as-monaco",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "apm-monaco",
+      "placement": "front",
+      "source": {
+        "name": "AS Monaco — Les partenaires de l'AS Monaco",
+        "date": "2026",
+        "url": "https://www.asmonaco.com/fr/les-partenaires-de-l-as-monaco"
+      }
+    },
+    {
+      "sponsorId": "triangle-interim",
+      "placement": "front",
+      "source": {
+        "name": "AS Monaco — Les partenaires de l'AS Monaco",
+        "date": "2026",
+        "url": "https://www.asmonaco.com/fr/les-partenaires-de-l-as-monaco"
+      }
+    },
+    {
+      "sponsorId": "bang-and-olufsen",
+      "placement": "back",
+      "source": {
+        "name": "AS Monaco — Les partenaires de l'AS Monaco",
+        "date": "2026",
+        "url": "https://www.asmonaco.com/fr/les-partenaires-de-l-as-monaco"
+      }
+    },
+    {
+      "sponsorId": "teddy-smith",
+      "placement": "back",
+      "source": {
+        "name": "AS Monaco — Les partenaires de l'AS Monaco",
+        "date": "2026",
+        "url": "https://www.asmonaco.com/fr/les-partenaires-de-l-as-monaco"
+      }
+    },
+    {
+      "sponsorId": "rd-congo-coeur-d-afrique",
+      "placement": "sleeve",
+      "source": {
+        "name": "AS Monaco — Les partenaires ('le logo R.D.Congo sera présent sur la manche du maillot')",
+        "date": "2026",
+        "url": "https://www.asmonaco.com/fr/les-partenaires-de-l-as-monaco"
+      }
+    },
+    {
+      "sponsorId": "vbet",
+      "placement": "shorts",
+      "source": {
+        "name": "AS Monaco — Les partenaires de l'AS Monaco",
+        "date": "2026",
+        "url": "https://www.asmonaco.com/fr/les-partenaires-de-l-as-monaco"
+      }
+    },
+    {
+      "sponsorId": "simplicicar",
+      "placement": "shorts",
+      "source": {
+        "name": "AS Monaco — Les partenaires de l'AS Monaco",
+        "date": "2026",
+        "url": "https://www.asmonaco.com/fr/les-partenaires-de-l-as-monaco"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Mizuno kit. APM Monaco front; R.D.Congo (state brand) on the sleeve.",
+  "change": null
+}

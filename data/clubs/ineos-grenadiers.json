@@ -1,0 +1,14 @@
+{
+  "id": "ineos-grenadiers",
+  "name": "INEOS Grenadiers",
+  "shortName": "INEOS Grenadiers",
+  "code": "IGD",
+  "sportId": "cycling",
+  "leagueId": "uci-worldtour",
+  "country": "Great Britain",
+  "crest": "assets/crests/ineos-grenadiers.png",
+  "aliases": [
+    "team-ineos",
+    "netcompany-ineos"
+  ]
+}

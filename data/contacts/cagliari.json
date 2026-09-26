@@ -1,0 +1,52 @@
+{
+  "clubId": "cagliari",
+  "channels": [
+    {
+      "type": "email",
+      "value": "info@cagliaricalcio.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://cagliaricalcio.com/casteddu/contatti/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "+390704618182",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://cagliaricalcio.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://cagliaricalcio.com/casteddu/contatti/",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://cagliaricalcio.com/casteddu/contatti/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@CagliariCalcio",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://cagliaricalcio.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@cagliaricalcio",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://cagliaricalcio.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

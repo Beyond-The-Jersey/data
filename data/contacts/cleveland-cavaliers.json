@@ -1,0 +1,52 @@
+{
+  "clubId": "cleveland-cavaliers",
+  "channels": [
+    {
+      "type": "email",
+      "value": "cavaliersPR@cavs.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/cavaliers/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "media@cavs.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/cavaliers/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.nba.com/cavaliers/contact",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/cavaliers/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@cavs",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/cavaliers/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@Cavs",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/cavaliers/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

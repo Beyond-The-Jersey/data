@@ -1,0 +1,15 @@
+{
+  "id": "la-rams",
+  "name": "Los Angeles Rams",
+  "shortName": "Los Angeles Rams",
+  "code": "LAR",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/la-rams.png",
+  "aliases": [
+    "rams",
+    "nfl"
+  ],
+  "hasTeamPageDesign": false
+}

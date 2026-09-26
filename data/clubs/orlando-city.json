@@ -1,0 +1,11 @@
+{
+  "id": "orlando-city",
+  "name": "Orlando City SC",
+  "shortName": "Orlando City",
+  "code": "ORL",
+  "sportId": "soccer",
+  "leagueId": "mls",
+  "country": "USA",
+  "crest": "assets/crests/orlando-city.png",
+  "aliases": []
+}

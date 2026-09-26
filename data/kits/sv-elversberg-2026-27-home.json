@@ -1,0 +1,34 @@
+{
+  "id": "sv-elversberg-2026-27-home",
+  "clubId": "sv-elversberg",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "reuter",
+      "placement": "front",
+      "source": {
+        "name": "Football Kit Archive, Bundesliga 2026-27 kits",
+        "date": "2026-09-24",
+        "url": "https://www.footballkitarchive.com/bundesliga-kits-2026-27-l34/"
+      }
+    },
+    {
+      "sponsorId": "hylo",
+      "placement": "front",
+      "side": "front",
+      "source": {
+        "name": "ran.de, Was die Hauptsponsoren den 18 klubs in der Saison 2026/27 bezahlen (Quelle: kicker.de)",
+        "date": "2026-08",
+        "url": "https://ran.joyn.de/sports/fussball/bundesliga/bundesliga-was-die-hauptsponsoren-den18-klubs-in-der-saison202627-bezahlen-160665"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": null,
+  "change": null
+}

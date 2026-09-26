@@ -1,0 +1,14 @@
+{
+  "id": "uw-health-owner-record",
+  "ownerIds": [
+    "uw-health-owner"
+  ],
+  "text": "UW Health is a public hospital system organized under Wisconsin state law as the University of Wisconsin Hospitals and Clinics Authority, a state agency.",
+  "short": "UW Health is a public hospital system organized under Wisconsin state law as the University of Wisconsin Hospitals and Clinics Authority, a state agency.",
+  "source": {
+    "name": "Wisconsin Statutes 233.04(7)(e)",
+    "date": "2019-01-01",
+    "url": "https://docs.legis.wisconsin.gov/document/statutes/2019/233.04(7)(e)"
+  },
+  "reviewed": false
+}

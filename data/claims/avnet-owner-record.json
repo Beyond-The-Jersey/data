@@ -1,0 +1,14 @@
+{
+  "id": "avnet-owner-record",
+  "ownerIds": [
+    "avnet-owner"
+  ],
+  "text": "Avnet Inc. is a NYSE-listed electronics distributor with dispersed institutional ownership (Vanguard and BlackRock each under 10%) and no state shareholder.",
+  "short": "Avnet Inc.",
+  "source": {
+    "name": "Avnet DEF 14A 2025",
+    "date": "2025-10-07",
+    "url": "https://www.sec.gov/Archives/edgar/data/8858/000110465925097498/tm2516396-1_def14a.htm"
+  },
+  "reviewed": false
+}

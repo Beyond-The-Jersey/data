@@ -1,0 +1,11 @@
+{
+  "id": "japan",
+  "name": "Japan",
+  "shortName": "Japan",
+  "code": "JPN",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Japan",
+  "crest": "assets/crests/japan.png",
+  "aliases": []
+}

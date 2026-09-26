@@ -1,0 +1,14 @@
+{
+  "id": "etoro",
+  "name": "eToro",
+  "ownerId": "etoro",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by eToro Group Ltd.. Nothing found.",
+  "claimIds": [
+    "etoro-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Corrected from the blank owner in the input: eToro listed in May 2025, so its owner is a public float with founder control, not a private company."
+}

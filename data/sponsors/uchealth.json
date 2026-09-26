@@ -1,0 +1,14 @@
+{
+  "id": "uchealth",
+  "name": "UCHealth",
+  "ownerId": "uchealth",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by UCHealth (University of Colorado Health). Nothing found.",
+  "claimIds": [
+    "uchealth-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Judgement call: the University of Colorado link is public-sector-adjacent but UCHealth is a separate 501(c)(3), so 'none'. UCHealth in Colorado also works with Select Health."
+}

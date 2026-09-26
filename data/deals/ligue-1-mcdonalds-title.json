@@ -1,0 +1,17 @@
+{
+  "id": "ligue-1-mcdonalds-title",
+  "clubId": null,
+  "orgName": "Ligue 1 McDonald's",
+  "sponsorId": "mcdonalds",
+  "placement": "league-partner",
+  "from": "2024",
+  "to": null,
+  "value": null,
+  "leagueId": "ligue-1",
+  "source": {
+    "name": "Ligue 1 McDonald's / LFP official site",
+    "date": "2026",
+    "url": "https://ligue1.com/"
+  },
+  "note": "Title sponsorship of Ligue 1; the competition is branded Ligue 1 McDonald's."
+}

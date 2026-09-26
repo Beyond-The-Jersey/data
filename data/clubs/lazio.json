@@ -1,0 +1,11 @@
+{
+  "id": "lazio",
+  "name": "SS Lazio",
+  "shortName": "Lazio",
+  "code": "LAZ",
+  "sportId": "soccer",
+  "leagueId": "serie-a",
+  "country": "Italy",
+  "crest": "assets/crests/lazio.png",
+  "aliases": []
+}

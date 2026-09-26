@@ -1,0 +1,14 @@
+{
+  "id": "saputo-inc-record",
+  "ownerIds": [
+    "saputo-inc"
+  ],
+  "text": "Saputo Inc. is a Toronto-listed dairy processor controlled by the Saputo family through Jolina Capital, with a large family insider block. Quebec's public pension manager CDPQ holds a minority financial stake of roughly 4.5% after a September 2024 purchase, so there is a small state-fund presence but no state control. The Bologna front sponsorship is private family-controlled corporate money.",
+  "short": "Saputo Inc.",
+  "source": {
+    "name": "La Caisse (CDPQ), 'CDPQ increases its stake in Saputo Inc.'",
+    "date": "2024-09-30",
+    "url": "https://www.lacaisse.com/en/news/pressreleases/cdpq-increases-its-stake-saputo-inc"
+  },
+  "reviewed": false
+}

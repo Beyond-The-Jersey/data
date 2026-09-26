@@ -1,0 +1,13 @@
+{
+  "id": "microsoft",
+  "name": "Microsoft",
+  "ownerId": "microsoft-corporation",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Microsoft Corporation. Nothing found.",
+  "claimIds": [
+    "microsoft-corporation-record"
+  ],
+  "aliases": []
+}

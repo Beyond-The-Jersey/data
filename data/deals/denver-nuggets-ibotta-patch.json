@@ -1,0 +1,16 @@
+{
+  "id": "denver-nuggets-ibotta-patch",
+  "clubId": "denver-nuggets",
+  "orgName": "Ibotta",
+  "sponsorId": "ibotta",
+  "placement": "patch",
+  "from": "2023",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Sportcal",
+    "date": "2026-04-17",
+    "url": "https://sportcal.com/news/ibotta-extends-as-nuggets-jersey-patch-partner"
+  },
+  "note": "Jersey patch."
+}

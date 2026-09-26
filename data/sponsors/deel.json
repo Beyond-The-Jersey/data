@@ -1,0 +1,14 @@
+{
+  "id": "deel",
+  "name": "Deel",
+  "ownerId": "deel-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Deel, Inc.. Nothing found.",
+  "claimIds": [
+    "deel-inc-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: US SEC investigation into revenue/accounting and a US money-laundering lawsuit have been reported, but these are company-level regulatory matters, not a state-ownership link, so tier stays none. No parent company above Deel, Inc."
+}

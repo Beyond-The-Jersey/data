@@ -1,0 +1,14 @@
+{
+  "id": "telus",
+  "name": "Telus",
+  "ownerId": "telus-corporation",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by TELUS Corporation. Nothing found.",
+  "claimIds": [
+    "telus-corporation-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: No state stake; Canadian pension funds are minority institutional holders only."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "houston-astros-2026-27-home",
+  "clubId": "houston-astros",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "occidental-petroleum",
+      "placement": "patch",
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2023-02-10",
+        "url": "https://www.sportsbusinessjournal.com/Daily/Morning-Buzz/2023/02/10/houston-astros-sign-jersey-patch-deal"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Occidental Petroleum (Oxy).",
+  "change": null
+}

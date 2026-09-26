@@ -1,0 +1,11 @@
+{
+  "id": "playstation",
+  "name": "PlayStation",
+  "ownerId": "sony-group",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "toronto-raptors-2026-27-home",
+  "clubId": "toronto-raptors",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "sun-life",
+      "placement": "patch",
+      "source": {
+        "name": "Toronto Raptors / NBA.com",
+        "date": "2017-07-06",
+        "url": "https://www.nba.com/raptors/raptors-sunlife-announce-partnership"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Sun Life.",
+  "change": null
+}

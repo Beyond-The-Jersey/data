@@ -1,0 +1,14 @@
+{
+  "id": "att-inc-record",
+  "ownerIds": [
+    "att-inc"
+  ],
+  "text": "AT&T Inc. is owned by AT&T Inc.. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+  "short": "AT&T Inc.",
+  "source": {
+    "name": "AT&T INC. DEF 14A 2026 (SEC)",
+    "date": "2026-03-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/732717/000119312526119888/d919223ddef14a.htm"
+  },
+  "reviewed": false
+}

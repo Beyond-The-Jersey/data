@@ -1,0 +1,14 @@
+{
+  "id": "herbalife-ltd-record",
+  "ownerIds": [
+    "herbalife-ltd"
+  ],
+  "text": "Herbalife, the LA Galaxy front sponsor, is listed on the NYSE (HLF) with a public float and no state stake. It is rated 'concern' on conduct, not ownership: in July 2016 Herbalife settled FTC charges for $200m and was forced to restructure distributor rewards after the FTC found misleading earnings claims in its multi-level marketing model - the distributor network being the human-rights/consumer-pressure point. Otherwise unremarkable.",
+  "short": "Herbalife, the LA Galaxy front sponsor, is listed on the NYSE (HLF) with a public float and no state stake.",
+  "source": {
+    "name": "US Federal Trade Commission press release - Herbalife $200m settlement",
+    "date": "2016-07-15",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2016/07/herbalife-will-restructure-its-multi-level-marketing-operations-pay-200-million-consumer-redress"
+  },
+  "reviewed": false
+}

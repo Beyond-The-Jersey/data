@@ -1,0 +1,11 @@
+{
+  "id": "volkswagen",
+  "name": "Volkswagen",
+  "ownerId": "volkswagen-ag",
+  "ownership": "part-owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": []
+}

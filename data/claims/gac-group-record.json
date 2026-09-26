@@ -1,0 +1,14 @@
+{
+  "id": "gac-group-record",
+  "ownerIds": [
+    "gac-group"
+  ],
+  "text": "Guangzhou Automobile Group Co., Ltd. is a Chinese vehicle maker headquartered in Guangzhou and controlled by the Guangzhou municipal government (Guangzhou SASAC).",
+  "short": "Guangzhou municipal state-owned carmaker",
+  "source": {
+    "name": "GAC, GAC Global Site",
+    "date": "2026",
+    "url": "https://www.gac.com.cn/en/"
+  },
+  "reviewed": false
+}

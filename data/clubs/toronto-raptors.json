@@ -1,0 +1,12 @@
+{
+  "id": "toronto-raptors",
+  "name": "Toronto Raptors",
+  "shortName": "Raptors",
+  "code": "TOR",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "Canada",
+  "crest": "assets/crests/toronto-raptors.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

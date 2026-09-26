@@ -1,0 +1,12 @@
+{
+  "id": "tampa-bay-buccaneers",
+  "name": "Tampa Bay Buccaneers",
+  "shortName": "Buccaneers",
+  "code": "TB",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/tampa-bay-buccaneers.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

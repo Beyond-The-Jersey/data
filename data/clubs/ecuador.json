@@ -1,0 +1,11 @@
+{
+  "id": "ecuador",
+  "name": "Ecuador",
+  "shortName": "Ecuador",
+  "code": "ECU",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Ecuador",
+  "crest": "assets/crests/ecuador.png",
+  "aliases": []
+}

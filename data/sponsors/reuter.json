@@ -1,0 +1,14 @@
+{
+  "id": "reuter",
+  "name": "Reuter",
+  "ownerId": "reuter-gruppe",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by REUTER Gruppe (Reuter family). Nothing found.",
+  "claimIds": [
+    "reuter-gruppe-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Group HQ Moenchengladbach; expansion into Italy in 2024. No state or fund ownership."
+}

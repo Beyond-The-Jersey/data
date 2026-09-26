@@ -1,0 +1,11 @@
+{
+  "id": "morocco",
+  "name": "Morocco",
+  "shortName": "Morocco",
+  "code": "MAR",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Morocco",
+  "crest": "assets/crests/morocco.png",
+  "aliases": []
+}

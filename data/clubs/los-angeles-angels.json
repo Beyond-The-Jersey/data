@@ -1,0 +1,12 @@
+{
+  "id": "los-angeles-angels",
+  "name": "Los Angeles Angels",
+  "shortName": "Angels",
+  "code": "LAA",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "USA",
+  "crest": "assets/crests/los-angeles-angels.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

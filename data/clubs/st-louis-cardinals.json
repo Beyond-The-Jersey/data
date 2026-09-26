@@ -1,0 +1,12 @@
+{
+  "id": "st-louis-cardinals",
+  "name": "St. Louis Cardinals",
+  "shortName": "Cardinals",
+  "code": "STL",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "USA",
+  "crest": "assets/crests/st-louis-cardinals.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

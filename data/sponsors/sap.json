@@ -1,0 +1,14 @@
+{
+  "id": "sap",
+  "name": "SAP",
+  "ownerId": "sap-se",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by SAP SE — free float with founder-family anchors. Nothing found.",
+  "claimIds": [
+    "sap-se-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Listed German company → none."
+}

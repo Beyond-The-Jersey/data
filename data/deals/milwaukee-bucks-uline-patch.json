@@ -1,0 +1,16 @@
+{
+  "id": "milwaukee-bucks-uline-patch",
+  "clubId": "milwaukee-bucks",
+  "orgName": "Uline",
+  "sponsorId": "uline",
+  "placement": "patch",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Milwaukee Bucks / NBA.com",
+    "date": "2026-09-21",
+    "url": "https://www.nba.com/bucks/news/milwaukee-bucks-name-wisconsin-based-uline-as-official-jersey-patch-partner"
+  },
+  "note": "Jersey patch."
+}

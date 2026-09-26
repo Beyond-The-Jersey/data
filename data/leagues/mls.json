@@ -1,0 +1,14 @@
+{
+  "id": "mls",
+  "aliases": [
+    "major league soccer",
+    "usa"
+  ],
+  "sportId": "soccer",
+  "name": "MLS",
+  "country": "USA and Canada",
+  "clubCount": 30,
+  "season": "2026",
+  "status": "partial",
+  "notes": []
+}

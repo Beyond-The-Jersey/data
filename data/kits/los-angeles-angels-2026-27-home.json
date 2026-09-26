@@ -1,0 +1,24 @@
+{
+  "id": "los-angeles-angels-2026-27-home",
+  "clubId": "los-angeles-angels",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "foundation-building-materials",
+      "placement": "patch",
+      "source": {
+        "name": "Blinkfire Analytics",
+        "date": "2026-04-20",
+        "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball/"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Foundation Building Materials (FBM).",
+  "change": null
+}

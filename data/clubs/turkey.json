@@ -1,0 +1,11 @@
+{
+  "id": "turkey",
+  "name": "Turkey",
+  "shortName": "Turkey",
+  "code": "TUR",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Turkey",
+  "crest": "assets/crests/turkey.png",
+  "aliases": []
+}

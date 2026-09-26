@@ -1,0 +1,14 @@
+{
+  "id": "sap-se-record",
+  "ownerIds": [
+    "sap-se"
+  ],
+  "text": "SAP SE is a Frankfurt-listed German software company with a free float of about 84% reported by the company itself; the largest identified holders are founder-family vehicles (Hopp family ~5.1%, Portika gGmbH ~3.6%) — private, not state. No state or state-fund owner.",
+  "short": "SAP SE is a Frankfurt-listed German software company with a free float of about 84% reported by the company itself; the largest identified holders are….",
+  "source": {
+    "name": "SAP Investor Relations, shareholder structure/basic data",
+    "date": "2026",
+    "url": "https://www.sap.com/investors/en/stock/basic-data.html"
+  },
+  "reviewed": false
+}

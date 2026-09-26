@@ -1,0 +1,13 @@
+{
+  "id": "lidl-trek",
+  "name": "Lidl-Trek",
+  "shortName": "Lidl-Trek",
+  "code": "LTK",
+  "sportId": "cycling",
+  "leagueId": "uci-worldtour",
+  "country": "Germany",
+  "crest": "assets/crests/lidl-trek.png",
+  "aliases": [
+    "trek-segafredo"
+  ]
+}

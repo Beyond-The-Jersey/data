@@ -1,0 +1,14 @@
+{
+  "id": "lask",
+  "name": "LASK",
+  "shortName": "LASK",
+  "code": "LAS",
+  "sportId": "soccer",
+  "leagueId": "uefa",
+  "country": "Austria",
+  "crest": "assets/crests/lask.png",
+  "aliases": [
+    "linzer ask"
+  ],
+  "hasTeamPageDesign": false
+}

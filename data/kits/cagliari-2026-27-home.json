@@ -1,0 +1,24 @@
+{
+  "id": "cagliari-2026-27-home",
+  "clubId": "cagliari",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026-27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "sardegna-turismo",
+      "placement": "front",
+      "source": {
+        "name": "Calcio e Finanza",
+        "date": "2026-07-07",
+        "url": "https://www.calcioefinanza.it/2026/07/07/ricavi-sponsor-maglia-serie-a-2026-2027-la-classifica/"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": "Sardegna Turismo is the main shirt sponsor; Doppio Malto is the front-of-shirt on the kit (club announcement). Both reported as one front deal."
+}

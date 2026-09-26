@@ -1,0 +1,24 @@
+{
+  "id": "san-francisco-giants-2026-27-home",
+  "clubId": "san-francisco-giants",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "airwallex",
+      "placement": "patch",
+      "source": {
+        "name": "MLB.com press release (San Francisco Giants)",
+        "date": "2026-02-18",
+        "url": "https://www.mlb.com/press-release/press-release-airwallex-becomes-the-giants-official-jersey-patch-partner"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Airwallex.",
+  "change": null
+}

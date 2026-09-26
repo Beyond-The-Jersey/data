@@ -1,0 +1,16 @@
+{
+  "id": "uefa-gazprom-2022",
+  "year": 2022,
+  "clubId": null,
+  "orgName": "UEFA",
+  "leagueId": "uefa",
+  "sponsorId": "gazprom",
+  "what": "Dropped Gazprom",
+  "text": "Ended across the Champions League, national-team competitions and Euro 2024.",
+  "source": {
+    "name": "The Athletic, UEFA ends partnership with Gazprom",
+    "date": "2022-02-28",
+    "url": "https://www.nytimes.com/athletic/4181788/2022/02/28/uefa-ends-partnership-with-russian-energy-company-gazprom/"
+  },
+  "featured": false
+}

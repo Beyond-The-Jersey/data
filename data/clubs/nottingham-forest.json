@@ -1,0 +1,12 @@
+{
+  "id": "nottingham-forest",
+  "name": "Nottingham Forest",
+  "shortName": "Forest",
+  "code": "NFO",
+  "sportId": "soccer",
+  "leagueId": "premier-league",
+  "country": "England",
+  "crest": "assets/crests/nottingham-forest.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

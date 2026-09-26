@@ -1,0 +1,24 @@
+{
+  "id": "new-york-knicks-2026-27-home",
+  "clubId": "new-york-knicks",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "experience-abu-dhabi",
+      "placement": "patch",
+      "source": {
+        "name": "PR Newswire / MSG Sports Corp.",
+        "date": "2024-10-17",
+        "url": "https://www.prnewswire.com/news-releases/experience-abu-dhabi-named-official-new-york-knicks-patch-partner-302278654.html"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Experience Abu Dhabi (Dept. of Culture and Tourism - Abu Dhabi).",
+  "change": null
+}

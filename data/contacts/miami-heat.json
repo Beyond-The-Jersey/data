@@ -1,0 +1,24 @@
+{
+  "clubId": "miami-heat",
+  "channels": [
+    {
+      "type": "x",
+      "value": "@miamiheat",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/heat/?tmd=1",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@MiamiHeat",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/heat/?tmd=1",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

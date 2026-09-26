@@ -1,0 +1,52 @@
+{
+  "clubId": "new-york-city-fc",
+  "channels": [
+    {
+      "type": "email",
+      "value": "nycfc@nycfc.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.newyorkcityfc.com/team/contactus",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "FanServices@nycfc.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.newyorkcityfc.com/team/contactus",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.newyorkcityfc.com/team/contactus",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.newyorkcityfc.com/team/contactus",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@newyorkcityfc",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.newyorkcityfc.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@newyorkcityfc",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.newyorkcityfc.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "miami-heat",
+  "name": "Miami Heat",
+  "shortName": "Heat",
+  "code": "MIA",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "USA",
+  "crest": "assets/crests/miami-heat.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

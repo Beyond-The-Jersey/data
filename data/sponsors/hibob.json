@@ -1,0 +1,13 @@
+{
+  "id": "hibob",
+  "name": "HiBob",
+  "ownerId": "hibob",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by HiBob (Bob). Nothing found.",
+  "claimIds": [
+    "hibob-record"
+  ],
+  "aliases": []
+}

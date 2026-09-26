@@ -1,0 +1,16 @@
+{
+  "id": "atletico-de-madrid",
+  "name": "Atlético de Madrid",
+  "shortName": "Atlético",
+  "code": "ATM",
+  "sportId": "soccer",
+  "leagueId": "la-liga",
+  "country": "Spain",
+  "crest": "assets/crests/atletico-de-madrid.png",
+  "aliases": [
+    "atletico",
+    "atleti"
+  ],
+  "hasTeamPageDesign": true,
+  "contact": null
+}

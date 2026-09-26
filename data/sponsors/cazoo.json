@@ -1,0 +1,14 @@
+{
+  "id": "cazoo",
+  "name": "Cazoo",
+  "ownerId": "motors",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Motors.co.uk Limited (O3 Industries / Novum Capital). Nothing found.",
+  "claimIds": [
+    "motors-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Trace corrected: the given owner chain was empty; Cazoo's brand now sits with Motors (O3/Novum), NOT with the original Cazoo Group. Motors itself was bought from eBay Classifieds in Dec 2021 by O3 Industries and Novum Capital."
+}

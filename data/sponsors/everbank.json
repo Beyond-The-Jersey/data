@@ -1,0 +1,14 @@
+{
+  "id": "everbank",
+  "name": "EverBank",
+  "ownerId": "everbank-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by EverBank. Nothing found.",
+  "claimIds": [
+    "everbank-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: EverBank is privately owned by a consortium of private equity funds; no state stake or government control. No documented human-rights concerns in ownership chain."
+}

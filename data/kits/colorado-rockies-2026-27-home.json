@@ -1,0 +1,24 @@
+{
+  "id": "colorado-rockies-2026-27-home",
+  "clubId": "colorado-rockies",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "york-space-systems",
+      "placement": "patch",
+      "source": {
+        "name": "Colorado Rockies / MLB.com press release",
+        "date": "2025-07-01",
+        "url": "https://www.mlb.com/press-release/colorado-rockies-and-york-space-systems-launch-historic-jersey-patch-partnership"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: York Space Systems.",
+  "change": null
+}

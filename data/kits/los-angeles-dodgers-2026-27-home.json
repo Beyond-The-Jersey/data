@@ -1,0 +1,24 @@
+{
+  "id": "los-angeles-dodgers-2026-27-home",
+  "clubId": "los-angeles-dodgers",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "guggenheim",
+      "placement": "patch",
+      "source": {
+        "name": "DodgerBlue",
+        "date": "2026-03-25",
+        "url": "https://dodgerblue.com/dodgers-partnership-with-uniqlo-field-name-dodger-stadium/2026/03/25/"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Guggenheim Baseball Management.",
+  "change": null
+}

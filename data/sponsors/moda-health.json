@@ -1,0 +1,14 @@
+{
+  "id": "moda-health",
+  "name": "Moda Health",
+  "ownerId": "moda-health-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Moda Health. Nothing found.",
+  "claimIds": [
+    "moda-health-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
+}

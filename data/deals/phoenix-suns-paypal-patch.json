@@ -1,0 +1,16 @@
+{
+  "id": "phoenix-suns-paypal-patch",
+  "clubId": "phoenix-suns",
+  "orgName": "PayPal",
+  "sponsorId": "paypal",
+  "placement": "patch",
+  "from": "2018",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Zoomph (2026/27 NBA jersey patch guide)",
+    "date": "2026-09-01",
+    "url": "https://zoomph.com/blog/nba-jersey-patch-sponsors-this-season/"
+  },
+  "note": "Jersey patch."
+}

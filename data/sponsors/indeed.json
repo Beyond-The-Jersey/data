@@ -1,0 +1,14 @@
+{
+  "id": "indeed",
+  "name": "Indeed",
+  "ownerId": "recruit-holdings",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Recruit Holdings Co., Ltd. (Tokyo-listed). Nothing found.",
+  "claimIds": [
+    "recruit-holdings-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Listed Japanese parent, no state link → none."
+}

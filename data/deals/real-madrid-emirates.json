@@ -1,0 +1,23 @@
+{
+  "id": "real-madrid-emirates",
+  "clubId": "real-madrid",
+  "orgName": null,
+  "sponsorId": "emirates",
+  "placement": "front",
+  "from": null,
+  "to": "2030-31",
+  "value": {
+    "amount": 100,
+    "currency": "EUR",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": 115
+  },
+  "source": {
+    "name": "SportsPro",
+    "date": "2026-06-10",
+    "url": "https://www.sportspro.com/news/sponsorship-marketing/real-madrid-emirates-record-sponsorship-june-2026/"
+  },
+  "note": "Renewed 10 Jun 2026, a European record."
+}

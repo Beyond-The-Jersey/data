@@ -1,0 +1,22 @@
+{
+  "id": "g42",
+  "name": "G42",
+  "ownerId": "mubadala",
+  "ownership": "part-owned",
+  "tier": "serious",
+  "status": "rated",
+  "verdict": "G42 is anchor-invested by Mubadala, Abu Dhabi's sovereign wealth fund, and is chaired by Sheikh Tahnoon bin Zayed (ruling family) - UAE state money, rated serious….",
+  "claimIds": [
+    "mubadala-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Ownership: Mubadala portfolio page - G42 'backed by Mubadala, Silver Lake, Microsoft and Dalio Family Office' (https://www.mubadala.com/en/what-we-do/g42). Mubadala is a shareholder, not sole owner, so 'part-owned'. Mercedes F1 sponsor.",
+  "why": {
+    "text": "G42’s anchor investor is Mubadala, Abu Dhabi’s sovereign wealth fund, and the company is chaired by a member of Abu Dhabi’s ruling family. The UAE’s courts have upheld the convictions from an unfair mass trial of activists and dissidents. A famous team makes the country look good to millions of fans while that goes on. That’s called sportswashing.",
+    "claimIds": [
+      "mubadala-record"
+    ],
+    "messageLine": "The UAE’s courts upheld the convictions from an unfair mass trial of activists and dissidents.",
+    "status": "draft"
+  }
+}

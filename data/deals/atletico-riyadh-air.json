@@ -1,0 +1,23 @@
+{
+  "id": "atletico-riyadh-air",
+  "clubId": "atletico-de-madrid",
+  "orgName": null,
+  "sponsorId": "riyadh-air",
+  "placement": "front",
+  "from": "2025-26",
+  "to": "2034-35",
+  "value": {
+    "amount": 40,
+    "currency": "EUR",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": 46
+  },
+  "source": {
+    "name": "SportsPro",
+    "date": "2025-04",
+    "url": "https://www.sportspro.com/news/atletico-madrid-riyadh-air-saudi-new-shirt-sponsor/"
+  },
+  "note": "Reported €40m per season, until 2035."
+}

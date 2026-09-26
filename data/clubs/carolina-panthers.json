@@ -1,0 +1,12 @@
+{
+  "id": "carolina-panthers",
+  "name": "Carolina Panthers",
+  "shortName": "Panthers",
+  "code": "CAR",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/carolina-panthers.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

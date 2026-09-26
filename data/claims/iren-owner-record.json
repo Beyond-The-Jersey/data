@@ -1,0 +1,14 @@
+{
+  "id": "iren-owner-record",
+  "ownerIds": [
+    "iren-owner"
+  ],
+  "text": "IREN Limited is an ASX- and Nasdaq-listed AI cloud infrastructure company with dispersed institutional ownership and no state shareholder above 5% threshold.",
+  "short": "IREN Limited is an ASX- and Nasdaq-listed AI cloud infrastructure company with dispersed institutional ownership and no state shareholder above 5% threshold.",
+  "source": {
+    "name": "IREN Limited Marketscreener page",
+    "date": "2026-09-24",
+    "url": "https://www.marketscreener.com/quote/stock/IREN-LIMITED-129472358/company-shareholders"
+  },
+  "reviewed": false
+}

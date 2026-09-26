@@ -1,0 +1,12 @@
+{
+  "id": "houston-texans",
+  "name": "Houston Texans",
+  "shortName": "Texans",
+  "code": "HOU",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/houston-texans.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

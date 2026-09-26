@@ -1,0 +1,13 @@
+{
+  "id": "ford-rb",
+  "name": "Ford Racing",
+  "ownerId": "ford-motor-company",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Ford Motor Company. Nothing found.",
+  "claimIds": [
+    "ford-motor-company-record"
+  ],
+  "aliases": []
+}

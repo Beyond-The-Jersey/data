@@ -1,0 +1,15 @@
+{
+  "id": "fulham-clickhouse",
+  "clubId": "fulham",
+  "orgName": null,
+  "sponsorId": "clickhouse",
+  "placement": "front",
+  "from": "2026-27",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "SportsPro, The business of the 2026/27 Premier League season",
+    "date": "2026-08-19",
+    "url": "https://www.sportspro.com/analysis/finance-investment/premier-league-2026-27-season-tv-rights-sponsors-finances-valuations/"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "peroni",
+  "name": "Peroni Nastro Azzurro",
+  "ownerId": "asahi-group-holdings",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Asahi Group Holdings, Ltd.. Nothing found.",
+  "claimIds": [
+    "asahi-group-holdings-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Acquisition completed 2016 following the SABMiller/AB InBev merger remedy package. Tokyo-listed, no sovereign stake."
+}

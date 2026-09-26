@@ -1,0 +1,14 @@
+{
+  "id": "cash-app",
+  "name": "Cash App",
+  "ownerId": "block-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Block, Inc. (Cash App). Nothing found.",
+  "claimIds": [
+    "block-inc-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Block was Square, Inc.; founder Jack Dorsey holds a minority. No sovereign wealth stake."
+}

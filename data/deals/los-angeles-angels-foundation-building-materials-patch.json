@@ -1,0 +1,16 @@
+{
+  "id": "los-angeles-angels-foundation-building-materials-patch",
+  "clubId": "los-angeles-angels",
+  "orgName": "Foundation Building Materials (FBM)",
+  "sponsorId": "foundation-building-materials",
+  "placement": "patch",
+  "from": "2023",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Blinkfire Analytics",
+    "date": "2026-04-20",
+    "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball/"
+  },
+  "note": "Jersey patch."
+}

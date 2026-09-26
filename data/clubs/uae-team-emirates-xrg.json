@@ -1,0 +1,14 @@
+{
+  "id": "uae-team-emirates-xrg",
+  "name": "UAE Team Emirates XRG",
+  "shortName": "UAE Team Emirates",
+  "code": "UAD",
+  "sportId": "cycling",
+  "leagueId": "uci-worldtour",
+  "country": "United Arab Emirates",
+  "crest": "assets/crests/uae-team-emirates-xrg.png",
+  "aliases": [
+    "uae-team-emirates",
+    "uae-team-adq"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "bahrain-victorious-2026-home",
+  "clubId": "bahrain-victorious",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026 season",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "bahrain-economic-development-board",
+      "placement": "front",
+      "source": {
+        "name": "Team Bahrain Victorious — About Us",
+        "date": "unknown",
+        "url": "https://bahraincyclingteam.com/about/"
+      }
+    },
+    {
+      "sponsorId": "mumtalakat",
+      "placement": "front",
+      "source": {
+        "name": "Team Bahrain Victorious — About Us",
+        "date": "unknown",
+        "url": "https://bahraincyclingteam.com/about/"
+      }
+    },
+    {
+      "sponsorId": "bapco-energies",
+      "placement": "front",
+      "source": {
+        "name": "Team Bahrain Victorious — About Us",
+        "date": "unknown",
+        "url": "https://bahraincyclingteam.com/about/"
+      }
+    },
+    {
+      "sponsorId": "beyon",
+      "placement": "back",
+      "source": {
+        "name": "Team Bahrain Victorious — Partners",
+        "date": "unknown",
+        "url": "https://bahraincyclingteam.com/partners/"
+      }
+    },
+    {
+      "sponsorId": "national-bank-of-bahrain",
+      "placement": "back",
+      "source": {
+        "name": "Team Bahrain Victorious — Partners",
+        "date": "unknown",
+        "url": "https://bahraincyclingteam.com/partners/"
+      }
+    },
+    {
+      "sponsorId": "al-salam-bank",
+      "placement": "back",
+      "source": {
+        "name": "Team Bahrain Victorious — Partners",
+        "date": "unknown",
+        "url": "https://bahraincyclingteam.com/partners/"
+      }
+    },
+    {
+      "sponsorId": "alba",
+      "placement": "back",
+      "source": {
+        "name": "Team Bahrain Victorious — Partners",
+        "date": "unknown",
+        "url": "https://bahraincyclingteam.com/partners/"
+      }
+    },
+    {
+      "sponsorId": "omniyat",
+      "placement": "partner",
+      "source": {
+        "name": "Team Bahrain Victorious — OMNIYAT supports Team Bahrain Victorious in 2026 WorldTour Cycling season",
+        "date": "2025-11-24",
+        "url": "https://bahraincyclingteam.com/omniyat-supports-team-bahrain-victorious-in-2026-worldtour-cycling-season/"
+      }
+    },
+    {
+      "sponsorId": "bianchi",
+      "placement": "partner",
+      "source": {
+        "name": "Team Bahrain Victorious — Partners",
+        "date": "unknown",
+        "url": "https://bahraincyclingteam.com/partners/"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "2026 UCI WorldTeam. Bahrain Victorious's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+  "change": null
+}

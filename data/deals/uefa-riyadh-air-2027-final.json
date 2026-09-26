@@ -1,0 +1,17 @@
+{
+  "id": "uefa-riyadh-air-2027-final",
+  "clubId": null,
+  "orgName": "UEFA Champions League 2027 final (Estadio Metropolitano, Madrid)",
+  "sponsorId": "riyadh-air",
+  "placement": "stadium",
+  "from": "2024-10",
+  "to": "2033",
+  "value": null,
+  "source": {
+    "name": "SportsPro",
+    "date": "2024-10-09",
+    "url": "https://www.sportspro.com/news/atletico-madrid-riyadh-air-stadium-naming-rights-metropolitano-laliga/"
+  },
+  "leagueId": "uefa",
+  "note": "Nine-year stadium naming-rights deal (Riyadh Air Metropolitano, worth a reported EUR 250-300m) that brands the 2027 UCL final venue. Indirect: UEFA uses the non-commercial name 'Estadio Metropolitano' and clean-venue rules hide naming rights during matches. The same company is Atletico de Madrid's front-of-shirt sponsor."
+}

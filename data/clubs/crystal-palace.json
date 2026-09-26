@@ -1,0 +1,12 @@
+{
+  "id": "crystal-palace",
+  "name": "Crystal Palace",
+  "shortName": "Palace",
+  "code": "CRY",
+  "sportId": "soccer",
+  "leagueId": "premier-league",
+  "country": "England",
+  "crest": "assets/crests/crystal-palace.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

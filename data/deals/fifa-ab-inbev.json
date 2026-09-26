@@ -1,0 +1,17 @@
+{
+  "id": "fifa-ab-inbev",
+  "clubId": null,
+  "orgName": "FIFA",
+  "sponsorId": "ab-inbev",
+  "placement": "league-partner",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "FIFA - FIFA announces AB InBev as official beer sponsor of FIFA Women's World Cup 2023 and FIFA World Cup 2026",
+    "date": "2023",
+    "url": null
+  },
+  "leagueId": "fifa",
+  "note": "URL from the FIFA sponsors list; not re-opened."
+}

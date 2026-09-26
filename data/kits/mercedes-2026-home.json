@@ -1,0 +1,96 @@
+{
+  "id": "mercedes-2026-home",
+  "clubId": "mercedes",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "petronas",
+      "placement": "front",
+      "source": {
+        "name": "Mercedes-AMG F1 – Mercedes-AMG F1 and PETRONAS power towards two decades of partnership",
+        "date": "2022-09-28",
+        "url": "https://www.mercedesamgf1.com/news/mercedes-amg-f1-and-petronas-power-towards-two-decades-of-partnership-and-embrace-f1s-sustainable-future"
+      }
+    },
+    {
+      "sponsorId": "ineos-s",
+      "placement": "front",
+      "source": {
+        "name": "Mercedes-AMG PETRONAS F1 Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.mercedesamgf1.com/partners"
+      }
+    },
+    {
+      "sponsorId": "crowdstrike",
+      "placement": "sleeve",
+      "source": {
+        "name": "CrowdStrike – Global partnership with Mercedes-AMG Petronas Motorsport",
+        "date": "2019-02-07",
+        "url": "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-announces-global-partnership-with-mercedes-amg-petronas-motorsport-to-protect-the-formula-one-team-in-the-paddock-and-beyond/"
+      }
+    },
+    {
+      "sponsorId": "qualcomm",
+      "placement": "partner",
+      "source": {
+        "name": "Mercedes-AMG PETRONAS F1 Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.mercedesamgf1.com/partners"
+      }
+    },
+    {
+      "sponsorId": "microsoft",
+      "placement": "partner",
+      "source": {
+        "name": "Mercedes-AMG PETRONAS F1 Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.mercedesamgf1.com/partners"
+      }
+    },
+    {
+      "sponsorId": "ubs",
+      "placement": "partner",
+      "source": {
+        "name": "Mercedes-AMG PETRONAS F1 Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.mercedesamgf1.com/partners"
+      }
+    },
+    {
+      "sponsorId": "teamviewer",
+      "placement": "partner",
+      "source": {
+        "name": "Mercedes-AMG PETRONAS F1 Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.mercedesamgf1.com/partners"
+      }
+    },
+    {
+      "sponsorId": "g42",
+      "placement": "partner",
+      "source": {
+        "name": "G42 (Abu Dhabi) – Mercedes-AMG PETRONAS F1 Team announces G42 as an Official Partner",
+        "date": "2023-02-15",
+        "url": "https://www.g42.ai/resources/news/mercedes-amg-petronas-f1-team-announces-g42-official-partner"
+      }
+    },
+    {
+      "sponsorId": "adidas",
+      "placement": "partner",
+      "source": {
+        "name": "Mercedes-AMG PETRONAS F1 Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.mercedesamgf1.com/partners"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": "2026 car. S"
+}

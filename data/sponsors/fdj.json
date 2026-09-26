@@ -1,0 +1,14 @@
+{
+  "id": "fdj",
+  "name": "FDJ United",
+  "ownerId": "french-state",
+  "ownership": "part-owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": [
+    "francaise des jeux"
+  ],
+  "note": "French national lottery, privatised in 2019 but the French state remains the largest shareholder."
+}

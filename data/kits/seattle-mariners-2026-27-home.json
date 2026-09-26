@@ -1,0 +1,24 @@
+{
+  "id": "seattle-mariners-2026-27-home",
+  "clubId": "seattle-mariners",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "nintendo",
+      "placement": "patch",
+      "source": {
+        "name": "Seattle Mariners (MLB.com)",
+        "date": "2026-03-27",
+        "url": "https://mariners.com/Nintendo"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Nintendo (Nintendo of America).",
+  "change": null
+}

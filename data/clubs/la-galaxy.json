@@ -1,0 +1,11 @@
+{
+  "id": "la-galaxy",
+  "name": "LA Galaxy",
+  "shortName": "LA Galaxy",
+  "code": "LAG",
+  "sportId": "soccer",
+  "leagueId": "mls",
+  "country": "USA",
+  "crest": "assets/crests/la-galaxy.png",
+  "aliases": []
+}

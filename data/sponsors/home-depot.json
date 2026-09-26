@@ -1,0 +1,12 @@
+{
+  "id": "home-depot",
+  "name": "Home Depot",
+  "ownerId": null,
+  "ownership": null,
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": [],
+  "note": "Official home improvement retail supporter."
+}

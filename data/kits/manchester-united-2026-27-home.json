@@ -1,0 +1,45 @@
+{
+  "id": "manchester-united-2026-27-home",
+  "clubId": "manchester-united",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {
+    "square": "assets/shirts/grid/manchester-united-2026-27-home-front-square.jpg"
+  },
+  "sponsors": [
+    {
+      "sponsorId": "snapdragon",
+      "placement": "front",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
+    },
+    {
+      "sponsorId": "sumup",
+      "placement": "sleeve",
+      "source": {
+        "name": "Manchester United – 'SumUp becomes United's Official Sleeve Partner'",
+        "date": "2026-09-08",
+        "url": "https://www.manutd.com/en/news/sumup-is-united-official-sleeve-partner"
+      }
+    },
+    {
+      "sponsorId": "microsoft",
+      "placement": "back",
+      "source": {
+        "name": "Manchester United, Microsoft Surface to feature on United shirts",
+        "date": "2026-08",
+        "url": "https://www.manutd.com/en/news/microsoft-surface-to-feature-on-back-of-united-shirts-v1"
+      },
+      "side": "back"
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": null,
+  "change": null
+}

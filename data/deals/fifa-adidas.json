@@ -1,0 +1,16 @@
+{
+  "id": "fifa-adidas",
+  "clubId": null,
+  "orgName": "FIFA",
+  "sponsorId": "adidas",
+  "placement": "league-partner",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "FIFA - Partners (adidas page)",
+    "date": "2026-01-12",
+    "url": "https://inside.fifa.com/tournament-organisation/partners/adidas"
+  },
+  "leagueId": "fifa"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "athletic-club",
+  "name": "Athletic Club",
+  "shortName": "Athletic Club",
+  "code": "ATH",
+  "sportId": "soccer",
+  "leagueId": "la-liga",
+  "country": "Spain",
+  "crest": "assets/crests/athletic-club.png",
+  "aliases": [
+    "athletic bilbao",
+    "bilbao"
+  ],
+  "hasTeamPageDesign": false
+}

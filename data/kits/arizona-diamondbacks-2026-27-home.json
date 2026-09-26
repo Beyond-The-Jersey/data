@@ -1,0 +1,24 @@
+{
+  "id": "arizona-diamondbacks-2026-27-home",
+  "clubId": "arizona-diamondbacks",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "avnet",
+      "placement": "patch",
+      "source": {
+        "name": "MLB.com / Arizona Diamondbacks",
+        "date": "2023-02-02",
+        "url": "https://www.mlb.com/press-release/press-release-arizona-diamondbacks-and-avnet-announce-new-partnership-to-include"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Avnet.",
+  "change": null
+}

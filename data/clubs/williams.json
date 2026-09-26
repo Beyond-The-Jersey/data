@@ -1,0 +1,11 @@
+{
+  "id": "williams",
+  "name": "Atlassian Williams F1 Team",
+  "shortName": "Williams",
+  "code": "WIL",
+  "sportId": "motorsport",
+  "leagueId": "formula-1",
+  "country": "United Kingdom",
+  "crest": "assets/crests/williams.png",
+  "aliases": []
+}

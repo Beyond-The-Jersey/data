@@ -1,0 +1,14 @@
+{
+  "id": "state-farm-owner-record",
+  "ownerIds": [
+    "state-farm-owner"
+  ],
+  "text": "State Farm Mutual Automobile Insurance Company is owned by State Farm. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+  "short": "State Farm Mutual Automobile Insurance Company is owned by State Farm.",
+  "source": {
+    "name": "State Farm Company Overview page",
+    "date": "2026-09-24",
+    "url": "https://www.statefarm.com/about-us/company-overview"
+  },
+  "reviewed": false
+}

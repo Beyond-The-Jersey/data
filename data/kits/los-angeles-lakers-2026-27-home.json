@@ -1,0 +1,24 @@
+{
+  "id": "los-angeles-lakers-2026-27-home",
+  "clubId": "los-angeles-lakers",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "albert",
+      "placement": "patch",
+      "source": {
+        "name": "Yahoo Sports",
+        "date": "2026-07-17",
+        "url": "https://sports.yahoo.com/articles/lakers-announce-albert-jersey-patch-182626664.html"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Albert.",
+  "change": null
+}

@@ -1,0 +1,16 @@
+{
+  "id": "premier-league-guinness",
+  "clubId": null,
+  "orgName": "Guinness",
+  "sponsorId": "guinness",
+  "placement": "league-partner",
+  "from": "2026-27",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Premier League, official commercial partners and licensees",
+    "date": "2026-09-24",
+    "url": "https://www.premierleague.com/en/about/partners"
+  },
+  "note": "Premier League Official Beer"
+}

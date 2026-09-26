@@ -1,0 +1,13 @@
+{
+  "id": "serie-a",
+  "aliases": [
+    "italy"
+  ],
+  "sportId": "soccer",
+  "name": "Serie A",
+  "country": "Italy",
+  "clubCount": 20,
+  "season": "2026-27",
+  "status": "partial",
+  "notes": []
+}

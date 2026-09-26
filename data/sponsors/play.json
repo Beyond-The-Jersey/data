@@ -1,0 +1,14 @@
+{
+  "id": "play",
+  "name": "Play (Ed Sheeran 'Play' tour)",
+  "ownerId": "ed-sheeran",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Ed Sheeran / 'Play' tour (private individual). Nothing found.",
+  "claimIds": [
+    "ed-sheeran-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Owner is a natural person, not a company, so type is mapped to private-company. Sheeran is also a minority shareholder in Ipswich Town, which can make the arrangement look corporate when it is personal."
+}

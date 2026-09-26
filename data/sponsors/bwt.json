@@ -1,0 +1,14 @@
+{
+  "id": "bwt",
+  "name": "BWT",
+  "ownerId": "bwt-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by BWT AG (WAB Group / Weissenbacher family). Nothing found.",
+  "claimIds": [
+    "bwt-group-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Judgement call: the FY2014 report is the last shareholder register BWT published, so the 79.7% WAB figure is dated but consistent with the company's current self-description as founder/management-controlled. No more recent register found."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "jpmorganchase-owner-record",
+  "ownerIds": [
+    "jpmorganchase-owner"
+  ],
+  "text": "JPMorgan Chase & Co. is a NYSE-listed bank with no state ownership; largest shareholder is The Vanguard Group (~9.86%) and BlackRock (~7.15%), both under 10%.",
+  "short": "JPMorgan Chase & Co.",
+  "source": {
+    "name": "JPMorgan Chase DEF 14A 2026",
+    "date": "2026-04-06",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000096/jpm-20260402.htm"
+  },
+  "reviewed": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "al-fayha",
+  "name": "Al-Fayha",
+  "shortName": "Al-Fayha",
+  "code": "FAY",
+  "sportId": "soccer",
+  "leagueId": "saudi-pro-league",
+  "country": "Saudi Arabia",
+  "crest": "assets/crests/al-fayha.png",
+  "aliases": [
+    "al fayha",
+    "fayha"
+  ]
+}

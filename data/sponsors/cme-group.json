@@ -1,0 +1,14 @@
+{
+  "id": "cme-group",
+  "name": "CME Group",
+  "ownerId": "cme-group-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by CME Group Inc.. Nothing found.",
+  "claimIds": [
+    "cme-group-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: CME Group is a publicly traded financial exchange company; no state stake or serious conduct record identified."
+}

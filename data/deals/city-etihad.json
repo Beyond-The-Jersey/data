@@ -1,0 +1,24 @@
+{
+  "id": "city-etihad",
+  "clubId": "manchester-city",
+  "orgName": null,
+  "sponsorId": "etihad-airways",
+  "placement": "front",
+  "from": "2026-27",
+  "to": null,
+  "value": {
+    "amount": 67.5,
+    "currency": "GBP",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": 90
+  },
+  "source": {
+    "name": "All Football",
+    "date": "older report",
+    "url": "https://m.allfootballapp.com/news/EPL/Manchester-City-set-to-keep-up-%C2%A367.5million-a-year-deal-with-Abu-Dhabi-airline-Etihad/2424047",
+    "note": "Older figure, check again"
+  },
+  "note": "GBP67.5m a year, from an older report. SportsPro's 2026/27 season analysis does not restate a figure, so the number stays as the last published value rather than being re-estimated."
+}

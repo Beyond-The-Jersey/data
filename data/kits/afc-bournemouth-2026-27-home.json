@@ -1,0 +1,35 @@
+{
+  "id": "afc-bournemouth-2026-27-home",
+  "clubId": "afc-bournemouth",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {
+    "square": "assets/shirts/grid/afc-bournemouth-2026-27-home-front-square.jpg"
+  },
+  "sponsors": [
+    {
+      "sponsorId": "vitality",
+      "placement": "front",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
+    },
+    {
+      "sponsorId": "mrq",
+      "placement": "sleeve",
+      "source": {
+        "name": "AFC Bournemouth – 'AFC Bournemouth announces multi-year partnership with MrQ'",
+        "date": "2026-07-08",
+        "url": "https://www.afcb.co.uk/news/2026/july/08/afc-bournemouth-announces-multi-year-partnership-with-mrq/"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": null,
+  "change": null
+}

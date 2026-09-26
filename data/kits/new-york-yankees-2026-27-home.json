@@ -1,0 +1,24 @@
+{
+  "id": "new-york-yankees-2026-27-home",
+  "clubId": "new-york-yankees",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "starr-insurance",
+      "placement": "patch",
+      "source": {
+        "name": "NJ.com",
+        "date": "2026-04-02",
+        "url": "https://nj.com/yankees/2026/04/yankees-say-alterative-uniforms-wont-kill-tradition-weve-got-a-patch-on-our-sleeves.html"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Starr Insurance Companies.",
+  "change": null
+}

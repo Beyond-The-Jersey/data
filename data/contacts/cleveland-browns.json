@@ -1,0 +1,61 @@
+{
+  "clubId": "cleveland-browns",
+  "channels": [
+    {
+      "type": "email",
+      "value": "tickets@clevelandbrowns.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.clevelandbrowns.com/contact/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "guestservices@clevelandbrowns.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.clevelandbrowns.com/contact/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "4408915050",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.clevelandbrowns.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.clevelandbrowns.com/contact/",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.clevelandbrowns.com/contact/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@Browns",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.clevelandbrowns.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@clevelandbrowns",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.clevelandbrowns.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

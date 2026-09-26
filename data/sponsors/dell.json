@@ -1,0 +1,13 @@
+{
+  "id": "dell",
+  "name": "Dell Technologies",
+  "ownerId": "dell-technologies",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Dell Technologies Inc.. Nothing found.",
+  "claimIds": [
+    "dell-technologies-record"
+  ],
+  "aliases": []
+}

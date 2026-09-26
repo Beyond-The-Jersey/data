@@ -1,0 +1,14 @@
+{
+  "id": "cynar-spritz",
+  "name": "Cynar Spritz",
+  "ownerId": "davide-campari-milano",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Davide Campari-Milano N.V.. Nothing found.",
+  "claimIds": [
+    "davide-campari-milano-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Campari's own website renders client-side, so the annual report PDF was used to establish Cynar as a Campari brand. The sponsor name 'Cynar Spritz' is a brand, not an entity."
+}

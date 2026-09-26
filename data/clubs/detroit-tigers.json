@@ -1,0 +1,12 @@
+{
+  "id": "detroit-tigers",
+  "name": "Detroit Tigers",
+  "shortName": "Tigers",
+  "code": "DET",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "USA",
+  "crest": "assets/crests/detroit-tigers.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

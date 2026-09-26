@@ -1,0 +1,12 @@
+{
+  "id": "indiana-pacers",
+  "name": "Indiana Pacers",
+  "shortName": "Pacers",
+  "code": "IND",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "USA",
+  "crest": "assets/crests/indiana-pacers.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "oxagon",
+  "name": "Oxagon",
+  "type": "private-company",
+  "country": "Saudi Arabia",
+  "via": "NEOM",
+  "note": "Industrial city/region of NEOM.",
+  "parentId": "neom"
+}

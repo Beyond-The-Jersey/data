@@ -1,0 +1,14 @@
+{
+  "id": "revolut",
+  "name": "Revolut",
+  "ownerId": "revolut-group-holdings",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Revolut Group Holdings Ltd. Nothing found.",
+  "claimIds": [
+    "revolut-group-holdings-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Group annual report filed at Companies House (RGHL_Annual Report 31 Dec 2025). Title-sponsor report: The Peninsula Qatar, 2026-09-10 ('Audi Revolut F1 Team')."
+}

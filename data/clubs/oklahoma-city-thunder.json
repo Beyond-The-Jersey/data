@@ -1,0 +1,12 @@
+{
+  "id": "oklahoma-city-thunder",
+  "name": "Oklahoma City Thunder",
+  "shortName": "Thunder",
+  "code": "OKC",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "USA",
+  "crest": "assets/crests/oklahoma-city-thunder.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

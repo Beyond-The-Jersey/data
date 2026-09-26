@@ -1,0 +1,13 @@
+{
+  "id": "movistar",
+  "name": "Movistar Team",
+  "shortName": "Movistar",
+  "code": "MOV",
+  "sportId": "cycling",
+  "leagueId": "uci-worldtour",
+  "country": "Spain",
+  "crest": "assets/crests/movistar.png",
+  "aliases": [
+    "movistar-team"
+  ]
+}

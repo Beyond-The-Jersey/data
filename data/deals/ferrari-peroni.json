@@ -1,0 +1,16 @@
+{
+  "id": "ferrari-peroni",
+  "clubId": "ferrari",
+  "orgName": null,
+  "sponsorId": "peroni",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Ferrari – Scuderia Ferrari HP partners page",
+    "date": "2026-09-24",
+    "url": "https://www.ferrari.com/en-EN/formula1/partners"
+  },
+  "note": "Scuderia Ferrari HP other partner on the 2026 car."
+}

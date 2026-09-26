@@ -1,0 +1,60 @@
+{
+  "id": "toulouse-fc-2026-27-home",
+  "clubId": "toulouse-fc",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "casadora",
+      "placement": "front",
+      "source": {
+        "name": "Toulouse FC — site officiel",
+        "date": "2026",
+        "url": "https://www.toulousefc.com/"
+      }
+    },
+    {
+      "sponsorId": "lp-promotion",
+      "placement": "front",
+      "source": {
+        "name": "Toulouse FC — site officiel",
+        "date": "2026",
+        "url": "https://www.toulousefc.com/"
+      }
+    },
+    {
+      "sponsorId": "winamax",
+      "placement": "back",
+      "source": {
+        "name": "Toulouse FC — site officiel",
+        "date": "2026",
+        "url": "https://www.toulousefc.com/"
+      }
+    },
+    {
+      "sponsorId": "newrest",
+      "placement": "back",
+      "source": {
+        "name": "Toulouse FC — site officiel",
+        "date": "2026",
+        "url": "https://www.toulousefc.com/"
+      }
+    },
+    {
+      "sponsorId": "starbucks",
+      "placement": "sleeve",
+      "source": {
+        "name": "Toulouse FC — site officiel",
+        "date": "2026",
+        "url": "https://www.toulousefc.com/"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Nike kit. Casadora front; Starbucks on the sleeve.",
+  "change": null
+}

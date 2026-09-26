@@ -1,0 +1,14 @@
+{
+  "id": "baptist-health",
+  "name": "Baptist Health",
+  "ownerId": "baptist-health-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Baptist Health South Florida. Nothing found.",
+  "claimIds": [
+    "baptist-health-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Explicitly states not-for-profit mission; no state stake or serious conduct record identified."
+}

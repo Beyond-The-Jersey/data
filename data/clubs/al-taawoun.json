@@ -1,0 +1,14 @@
+{
+  "id": "al-taawoun",
+  "name": "Al-Taawoun",
+  "shortName": "Al-Taawoun",
+  "code": "TAA",
+  "sportId": "soccer",
+  "leagueId": "saudi-pro-league",
+  "country": "Saudi Arabia",
+  "crest": "assets/crests/al-taawoun.png",
+  "aliases": [
+    "al taawoun",
+    "taawoun"
+  ]
+}

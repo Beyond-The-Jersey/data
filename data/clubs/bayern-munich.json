@@ -1,0 +1,15 @@
+{
+  "id": "bayern-munich",
+  "name": "Bayern Munich",
+  "shortName": "Bayern Munich",
+  "code": "FCB",
+  "sportId": "soccer",
+  "leagueId": "bundesliga",
+  "country": "Germany",
+  "crest": "assets/crests/bayern-munich.png",
+  "aliases": [
+    "fc bayern",
+    "munchen"
+  ],
+  "hasTeamPageDesign": false
+}

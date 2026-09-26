@@ -1,0 +1,62 @@
+{
+  "clubId": "minnesota-united",
+  "channels": [
+    {
+      "type": "website",
+      "value": "https://www.mnufc.com",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.mnufc.com",
+        "date": "2026-09-24"
+      },
+      "label": "Club website"
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.mnufc.com/club/contact-us",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.mnufc.com/club/contact-us",
+        "date": "2026-09-24"
+      },
+      "label": "Club contact page"
+    },
+    {
+      "type": "email",
+      "value": "info@mnufc.com",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.mnufc.com/club/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "+1 763-476-2237",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.mnufc.com/club/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@mnufc",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.mnufc.com",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@mnufc",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.mnufc.com",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

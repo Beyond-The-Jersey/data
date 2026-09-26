@@ -1,0 +1,12 @@
+{
+  "id": "mainz-05",
+  "name": "Mainz 05",
+  "shortName": "Mainz",
+  "code": "M05",
+  "sportId": "soccer",
+  "leagueId": "bundesliga",
+  "country": "Germany",
+  "crest": "assets/crests/mainz-05.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

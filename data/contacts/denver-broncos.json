@@ -1,0 +1,61 @@
+{
+  "clubId": "denver-broncos",
+  "channels": [
+    {
+      "type": "email",
+      "value": "Tickets@broncos.nfl.net",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.denverbroncos.com/contact/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "PremiumSeats@broncos.nfl.net",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.denverbroncos.com/contact/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "13036499000",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.denverbroncos.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.denverbroncos.com/contact/",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.denverbroncos.com/contact/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@broncos",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.denverbroncos.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@broncos",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.denverbroncos.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tampa-bay-buccaneers-2026-27-home",
+  "clubId": "tampa-bay-buccaneers",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "fifth-third-bank",
+      "placement": "training-kit",
+      "source": {
+        "name": "Tampa Bay Buccaneers / GlobeNewswire",
+        "date": "2026-08-03",
+        "url": "https://globenewswire.com/news-release/2026/08/03/3337463/0/en/Buccaneers-and-Fifth-Third-Bank-Elevate-Pewter-Partnership-with-Introduction-of-First-Ever-Practice-Jersey-Patch.html"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Practice-jersey patch: Fifth Third Bank.",
+  "change": null
+}

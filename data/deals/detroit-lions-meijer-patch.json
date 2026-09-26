@@ -1,0 +1,16 @@
+{
+  "id": "detroit-lions-meijer-patch",
+  "clubId": "detroit-lions",
+  "orgName": "Meijer",
+  "sponsorId": "meijer",
+  "placement": "training-kit",
+  "from": "2024",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Detroit Lions",
+    "date": "2024-07-23",
+    "url": "https://www.detroitlions.com/news/detroit-lions-expand-and-extend-partnership-with-meijer"
+  },
+  "note": "Practice-jersey patch."
+}

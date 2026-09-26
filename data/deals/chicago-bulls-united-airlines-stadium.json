@@ -1,0 +1,16 @@
+{
+  "id": "chicago-bulls-united-airlines-stadium",
+  "clubId": "chicago-bulls",
+  "orgName": "United Airlines",
+  "sponsorId": "united-airlines",
+  "placement": "stadium",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "United Center (official)",
+    "date": "2013-12-11",
+    "url": "https://www.unitedcenter.com/united-center-naming-rights-agreement/"
+  },
+  "note": "Arena naming rights: United Center. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2013-12-11."
+}

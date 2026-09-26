@@ -1,0 +1,12 @@
+{
+  "id": "baltimore-ravens",
+  "name": "Baltimore Ravens",
+  "shortName": "Ravens",
+  "code": "BAL",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/baltimore-ravens.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

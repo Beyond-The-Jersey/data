@@ -1,0 +1,11 @@
+{
+  "id": "belgium",
+  "name": "Belgium",
+  "shortName": "Belgium",
+  "code": "BEL",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Belgium",
+  "crest": "assets/crests/belgium.png",
+  "aliases": []
+}

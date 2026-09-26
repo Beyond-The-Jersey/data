@@ -1,0 +1,14 @@
+{
+  "id": "porto",
+  "name": "FC Porto",
+  "shortName": "Porto",
+  "code": "POR",
+  "sportId": "soccer",
+  "leagueId": "uefa",
+  "country": "Portugal",
+  "crest": "assets/crests/porto.png",
+  "aliases": [
+    "fc porto"
+  ],
+  "hasTeamPageDesign": false
+}

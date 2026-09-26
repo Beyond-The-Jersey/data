@@ -1,0 +1,14 @@
+{
+  "id": "bank-of-america-record",
+  "ownerIds": [
+    "bank-of-america"
+  ],
+  "text": "Bank of America Corporation is a US-listed bank with dispersed institutional ownership (BlackRock and Vanguard the largest holdings, both well under 10%) and no state shareholder - the US Treasury's crisis-era TARP stake is long gone. Its human-rights relevance is conduct rather than ownership: BofA is among the largest global financiers of fossil fuels and carried multi-billion-dollar mortgage and securities settlements after 2008. That gives a genuine but lesser documented record, hence concern rather than none.",
+  "short": "Bank of America Corporation is a US-listed bank with dispersed institutional ownership (BlackRock and Vanguard the largest holdings, both well under 10%) and no….",
+  "source": {
+    "name": "Bank of America Corporation DEF 14A 2026 (SEC)",
+    "date": "2026-03-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000119312526118929/d43888ddef14a.htm"
+  },
+  "reviewed": false
+}

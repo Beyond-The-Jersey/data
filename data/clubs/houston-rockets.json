@@ -1,0 +1,12 @@
+{
+  "id": "houston-rockets",
+  "name": "Houston Rockets",
+  "shortName": "Rockets",
+  "code": "HOU",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "USA",
+  "crest": "assets/crests/houston-rockets.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

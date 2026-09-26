@@ -1,0 +1,24 @@
+{
+  "id": "vancouver-whitecaps-2026-27-home",
+  "clubId": "vancouver-whitecaps",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026-27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "telus",
+      "placement": "front",
+      "source": {
+        "name": "mlssoccer.com",
+        "date": "2026-02-17",
+        "url": "https://www.mlssoccer.com/news/vancouver-whitecaps-fc-announce-telus-as-new-front-of-jersey-sponsor"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+}

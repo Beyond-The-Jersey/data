@@ -1,0 +1,14 @@
+{
+  "id": "rayo-vallecano",
+  "name": "Rayo Vallecano",
+  "shortName": "Rayo",
+  "code": "RAY",
+  "sportId": "soccer",
+  "leagueId": "la-liga",
+  "country": "Spain",
+  "crest": "assets/crests/rayo-vallecano.png",
+  "aliases": [
+    "rayo"
+  ],
+  "hasTeamPageDesign": false
+}

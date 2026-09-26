@@ -1,0 +1,12 @@
+{
+  "id": "coca-cola",
+  "name": "Coca-Cola",
+  "ownerId": "coca-cola-company",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": [],
+  "note": "FIFA partner since 1974; sponsor of the FIFA/Coca-Cola World Ranking."
+}

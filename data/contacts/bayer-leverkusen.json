@@ -1,0 +1,43 @@
+{
+  "clubId": "bayer-leverkusen",
+  "channels": [
+    {
+      "type": "contact-form",
+      "value": "https://www.bayer04.de/de-de/page/impressum",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.bayer04.de/de-de/page/impressum",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "+4921450001904",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.bayer04.de/de-de",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@bayer04fussball",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.bayer04.de/de-de",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@bayer04fussball",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.bayer04.de/de-de",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "fiorentina-2026-27-home",
+  "clubId": "fiorentina",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026-27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "mediacom",
+      "placement": "front",
+      "source": {
+        "name": "Firenze Viola",
+        "date": "2026-07-10",
+        "url": "https://www.firenzeviola.it/copertina/fiorentina-nuove-maglie-2026-27-sponsor-mediacom-480579"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": null
+}

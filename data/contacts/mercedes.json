@@ -1,0 +1,43 @@
+{
+  "clubId": "mercedes",
+  "channels": [
+    {
+      "type": "email",
+      "value": "enquiries@mercedesamgf1.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mercedesamgf1.com/legal-notice",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.mercedesamgf1.com/legal-notice",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mercedesamgf1.com/legal-notice",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@MERCEDESAMGF1",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mercedesamgf1.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@MercedesAMGF1",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mercedesamgf1.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "san-diego-padres-petco-stadium",
+  "clubId": "san-diego-padres",
+  "orgName": "Petco",
+  "sponsorId": "petco",
+  "placement": "stadium",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Ballpark Digest",
+    "date": "2021-03-08",
+    "url": "https://ballparkdigest.com/2021/03/08/petco-padres-extend-petco-park-naming-rights-deal-through-2027"
+  },
+  "note": "Arena naming rights: Petco Park. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2021-03-08."
+}

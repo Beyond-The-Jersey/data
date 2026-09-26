@@ -1,0 +1,17 @@
+{
+  "id": "saudi-pro-league-bsf",
+  "clubId": null,
+  "orgName": "Roshn Saudi League",
+  "sponsorId": "banque-saudi-fransi",
+  "placement": "league-partner",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Saudi Pro League official site – partner strip / BSF Goal of the Week",
+    "date": "2026-09-24",
+    "url": "https://www.spl.com.sa/en"
+  },
+  "leagueId": "saudi-pro-league",
+  "note": "League-wide partner, attached to no single club."
+}

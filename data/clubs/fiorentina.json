@@ -1,0 +1,11 @@
+{
+  "id": "fiorentina",
+  "name": "ACF Fiorentina",
+  "shortName": "Fiorentina",
+  "code": "FIO",
+  "sportId": "soccer",
+  "leagueId": "serie-a",
+  "country": "Italy",
+  "crest": "assets/crests/fiorentina.png",
+  "aliases": []
+}

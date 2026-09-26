@@ -1,0 +1,14 @@
+{
+  "id": "unicredit",
+  "name": "UniCredit",
+  "ownerId": "unicredit-spa",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by UniCredit S.p.A.. Nothing found.",
+  "claimIds": [
+    "unicredit-spa-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Judgement call: ~6% aggregate SWF holding was judged too small and too dispersed to lift this to 'concern'. Italian banking foundations (private-law entities) hold the rest of the notable blocks."
+}

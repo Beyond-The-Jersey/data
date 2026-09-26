@@ -1,0 +1,35 @@
+{
+  "id": "brighton-and-hove-albion-2026-27-home",
+  "clubId": "brighton-and-hove-albion",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {
+    "square": "assets/shirts/grid/brighton-and-hove-albion-2026-27-home-front-square.jpg"
+  },
+  "sponsors": [
+    {
+      "sponsorId": "american-express",
+      "placement": "front",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
+    },
+    {
+      "sponsorId": "experience-kissimmee",
+      "placement": "sleeve",
+      "source": {
+        "name": "Brighton & Hove Albion – 'Experience Kissimmee announces partnership with Albion'",
+        "date": "2024-06-11",
+        "url": "https://www.brightonandhovealbion.com/news/4036436/experience-kissimmee-announces-partnership-with-albion"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "A listed US company with no state owner. Nothing found.",
+  "change": null
+}

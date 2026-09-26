@@ -1,0 +1,11 @@
+{
+  "id": "heineken",
+  "name": "Heineken",
+  "ownerId": "heineken-nv",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": []
+}

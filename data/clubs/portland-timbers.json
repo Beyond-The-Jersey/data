@@ -1,0 +1,11 @@
+{
+  "id": "portland-timbers",
+  "name": "Portland Timbers",
+  "shortName": "Portland Timbers",
+  "code": "POR",
+  "sportId": "soccer",
+  "leagueId": "mls",
+  "country": "USA",
+  "crest": "assets/crests/portland-timbers.png",
+  "aliases": []
+}

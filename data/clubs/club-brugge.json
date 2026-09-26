@@ -1,0 +1,14 @@
+{
+  "id": "club-brugge",
+  "name": "Club Brugge KV",
+  "shortName": "Club Brugge",
+  "code": "CLB",
+  "sportId": "soccer",
+  "leagueId": "uefa",
+  "country": "Belgium",
+  "crest": "assets/crests/club-brugge.png",
+  "aliases": [
+    "brugge"
+  ],
+  "hasTeamPageDesign": false
+}

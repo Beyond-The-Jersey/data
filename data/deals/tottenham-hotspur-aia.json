@@ -1,0 +1,16 @@
+{
+  "id": "tottenham-hotspur-aia",
+  "clubId": "tottenham-hotspur",
+  "orgName": null,
+  "sponsorId": "aia",
+  "placement": "front",
+  "from": null,
+  "to": "2026-27",
+  "value": null,
+  "source": {
+    "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+    "date": "2026-09-17",
+    "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+  },
+  "note": "Current deal runs out after 2026/27."
+}

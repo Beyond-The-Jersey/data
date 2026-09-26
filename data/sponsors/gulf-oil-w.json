@@ -1,0 +1,14 @@
+{
+  "id": "gulf-oil-w",
+  "name": "Gulf Oil International",
+  "ownerId": "hinduja-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Hinduja Group (Hinduja family). Nothing found.",
+  "claimIds": [
+    "hinduja-group-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Same ultimate owner for the Williams partnership as for the McLaren deal; Hinduja Group is family-held, so no state stake."
+}

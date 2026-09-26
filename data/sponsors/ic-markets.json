@@ -1,0 +1,14 @@
+{
+  "id": "ic-markets",
+  "name": "IC Markets",
+  "ownerId": "international-capital-markets",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by International Capital Markets Pty Ltd. Nothing found.",
+  "claimIds": [
+    "international-capital-markets-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Broker operated by the same private group in Australia, Cyprus (CySEC) and the Seychelles."
+}

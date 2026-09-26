@@ -1,0 +1,16 @@
+{
+  "id": "new-orleans-pelicans-newage-products-patch",
+  "clubId": "new-orleans-pelicans",
+  "orgName": "NewAge Products",
+  "sponsorId": "newage-products",
+  "placement": "patch",
+  "from": "2024",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Sports Business Journal",
+    "date": "2024-09-30",
+    "url": "https://sportsbusinessjournal.com/Articles/2024/09/30/new-orleans-pelicans-patch-newage-products"
+  },
+  "note": "Jersey patch."
+}

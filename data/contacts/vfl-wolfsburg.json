@@ -1,0 +1,61 @@
+{
+  "clubId": "vfl-wolfsburg",
+  "channels": [
+    {
+      "type": "email",
+      "value": "service@vfl-wolfsburg.de",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.vfl-wolfsburg.de/allgemeines/impressum",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "vertrieb@vfl-wolfsburg.de",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.vfl-wolfsburg.de/allgemeines/impressum",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "053618903903",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.vfl-wolfsburg.de/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.vfl-wolfsburg.de/allgemeines/impressum",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.vfl-wolfsburg.de/allgemeines/impressum",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@VfL_Wolfsburg",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.vfl-wolfsburg.de/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@vfl.wolfsburg",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.vfl-wolfsburg.de/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

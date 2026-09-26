@@ -1,0 +1,43 @@
+{
+  "clubId": "getafe",
+  "channels": [
+    {
+      "type": "email",
+      "value": "marketing@getafecf.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.getafecf.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.getafecf.com/aviso-legal",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.getafecf.com/aviso-legal",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@GetafeCF",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.getafecf.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@getafecf",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.getafecf.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

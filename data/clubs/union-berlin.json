@@ -1,0 +1,12 @@
+{
+  "id": "union-berlin",
+  "name": "Union Berlin",
+  "shortName": "Union Berlin",
+  "code": "FCU",
+  "sportId": "soccer",
+  "leagueId": "bundesliga",
+  "country": "Germany",
+  "crest": "assets/crests/union-berlin.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

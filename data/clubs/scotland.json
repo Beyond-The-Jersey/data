@@ -1,0 +1,11 @@
+{
+  "id": "scotland",
+  "name": "Scotland",
+  "shortName": "Scotland",
+  "code": "SCO",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Scotland",
+  "crest": "assets/crests/scotland.png",
+  "aliases": []
+}

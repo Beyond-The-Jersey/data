@@ -1,0 +1,24 @@
+{
+  "id": "san-diego-fc-2026-27-home",
+  "clubId": "san-diego-fc",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026-27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "directv",
+      "placement": "front",
+      "source": {
+        "name": "sandiegofc.com",
+        "date": "2026-02-17",
+        "url": "https://www.sandiegofc.com/news/san-diego-fc-announces-directv-as-the-club-s-official-jersey-partner"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+}

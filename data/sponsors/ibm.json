@@ -1,0 +1,14 @@
+{
+  "id": "ibm",
+  "name": "IBM",
+  "ownerId": "ibm-corp",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by International Business Machines Corporation. Nothing found.",
+  "claimIds": [
+    "ibm-corp-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: No sovereign wealth stake."
+}

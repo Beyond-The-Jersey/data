@@ -1,0 +1,42 @@
+{
+  "id": "paris-saint-germain-2026-27-home",
+  "clubId": "paris-saint-germain",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "qatar-airways",
+      "placement": "front",
+      "source": {
+        "name": "SportsPro, 'PSG renew Qatar Airways shirt sponsorship on same terms'",
+        "date": "2025-01-27",
+        "url": "https://www.sportspro.com/news/psg-qatar-airways-shirt-sponsor-contract-extension-2028-january-2025/"
+      }
+    },
+    {
+      "sponsorId": "snipes",
+      "placement": "back",
+      "source": {
+        "name": "Paris Saint-Germain — site officiel",
+        "date": "2026",
+        "url": "https://www.psg.fr/"
+      }
+    },
+    {
+      "sponsorId": "beyond-developments",
+      "placement": "sleeve",
+      "source": {
+        "name": "Paris Saint-Germain — site officiel",
+        "date": "2026",
+        "url": "https://www.psg.fr/"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Nike kit. Qatar Airways (state-owned) front through 2028; Snipes on the back and Dubai developer BEYOND Developments on the sleeve.",
+  "change": null
+}

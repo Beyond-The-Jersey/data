@@ -1,0 +1,24 @@
+{
+  "clubId": "austin-fc",
+  "channels": [
+    {
+      "type": "x",
+      "value": "@AustinFC",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.austinfc.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@austinfc",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.austinfc.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

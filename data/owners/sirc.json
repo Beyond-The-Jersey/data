@@ -1,0 +1,9 @@
+{
+  "id": "sirc",
+  "name": "Saudi Investment Recycling Company (SIRC)",
+  "type": "private-company",
+  "country": "Saudi Arabia",
+  "via": "PIF",
+  "note": "PIF-owned recycling company.",
+  "parentId": "saudi-pif"
+}

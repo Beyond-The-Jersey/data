@@ -1,0 +1,62 @@
+{
+  "clubId": "toronto-fc",
+  "channels": [
+    {
+      "type": "website",
+      "value": "https://www.torontofc.ca",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.torontofc.ca",
+        "date": "2026-09-24"
+      },
+      "label": "Club website"
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.torontofc.ca/tickets/members",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.torontofc.ca/tickets/members",
+        "date": "2026-09-24"
+      },
+      "label": "Ticket service - the club has no dedicated contact page"
+    },
+    {
+      "type": "email",
+      "value": "TicketService@MLSE.com",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.torontofc.ca/tickets/members",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "+1 416-360-4625",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.torontofc.ca/tickets/members",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@TorontoFC",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.torontofc.ca",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@torontofc",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.torontofc.ca",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

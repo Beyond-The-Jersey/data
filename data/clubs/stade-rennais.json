@@ -1,0 +1,14 @@
+{
+  "id": "stade-rennais",
+  "name": "Stade Rennais FC",
+  "shortName": "Rennes",
+  "code": "SRFC",
+  "sportId": "soccer",
+  "leagueId": "ligue-1",
+  "country": "France",
+  "crest": "assets/crests/stade-rennais.png",
+  "aliases": [
+    "rennes",
+    "srfc"
+  ]
+}

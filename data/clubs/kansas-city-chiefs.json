@@ -1,0 +1,12 @@
+{
+  "id": "kansas-city-chiefs",
+  "name": "Kansas City Chiefs",
+  "shortName": "Chiefs",
+  "code": "KC",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/kansas-city-chiefs.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": "orlando-magic-walt-disney-world-patch",
+  "clubId": "orlando-magic",
+  "orgName": "Walt Disney World Resort",
+  "sponsorId": "walt-disney-world",
+  "placement": "patch",
+  "from": "2017",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Orlando Magic (nba.com/magic)",
+    "date": "2022-10-26",
+    "url": "https://www.nba.com/magic/news/orlando-magic-walt-disney-world-resort-community-sponsorship-agreement-logo-jersey-patch-release-20221026"
+  },
+  "note": "Jersey patch."
+}

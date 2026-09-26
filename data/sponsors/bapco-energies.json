@@ -1,0 +1,14 @@
+{
+  "id": "bapco-energies",
+  "name": "Bapco Energies",
+  "ownerId": "government-of-bahrain",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": [
+    "bapco"
+  ],
+  "note": "Bahrain national oil and gas company."
+}

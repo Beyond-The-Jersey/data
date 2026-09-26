@@ -1,0 +1,14 @@
+{
+  "id": "al-riyadh",
+  "name": "Al-Riyadh",
+  "shortName": "Al-Riyadh",
+  "code": "RIY",
+  "sportId": "soccer",
+  "leagueId": "saudi-pro-league",
+  "country": "Saudi Arabia",
+  "crest": "assets/crests/al-riyadh.png",
+  "aliases": [
+    "al riyadh",
+    "riyadh sc"
+  ]
+}

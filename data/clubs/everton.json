@@ -1,0 +1,14 @@
+{
+  "id": "everton",
+  "name": "Everton",
+  "shortName": "Everton",
+  "code": "EVE",
+  "sportId": "soccer",
+  "leagueId": "premier-league",
+  "country": "England",
+  "crest": "assets/crests/everton.png",
+  "aliases": [
+    "toffees"
+  ],
+  "hasTeamPageDesign": false
+}

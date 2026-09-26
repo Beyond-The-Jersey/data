@@ -1,0 +1,87 @@
+{
+  "id": "rc-lens-2026-27-home",
+  "clubId": "rc-lens",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "auchan",
+      "placement": "front",
+      "source": {
+        "name": "RC Lens — Les partenaires du Racing",
+        "date": "2026",
+        "url": "https://www.rclens.fr/fr/club/partenaires"
+      }
+    },
+    {
+      "sponsorId": "groupe-lempereur",
+      "placement": "front",
+      "source": {
+        "name": "RC Lens — Les partenaires du Racing",
+        "date": "2026",
+        "url": "https://www.rclens.fr/fr/club/partenaires"
+      }
+    },
+    {
+      "sponsorId": "nexans",
+      "placement": "front",
+      "source": {
+        "name": "RC Lens — Les partenaires du Racing",
+        "date": "2026",
+        "url": "https://www.rclens.fr/fr/club/partenaires"
+      }
+    },
+    {
+      "sponsorId": "murprotec",
+      "placement": "back",
+      "source": {
+        "name": "RC Lens — Les partenaires du Racing",
+        "date": "2026",
+        "url": "https://www.rclens.fr/fr/club/partenaires"
+      }
+    },
+    {
+      "sponsorId": "winamax",
+      "placement": "back",
+      "source": {
+        "name": "RC Lens — Les partenaires du Racing",
+        "date": "2026",
+        "url": "https://www.rclens.fr/fr/club/partenaires"
+      }
+    },
+    {
+      "sponsorId": "aushopping",
+      "placement": "sleeve",
+      "source": {
+        "name": "RC Lens — Les partenaires du Racing",
+        "date": "2026",
+        "url": "https://www.rclens.fr/fr/club/partenaires"
+      }
+    },
+    {
+      "sponsorId": "molinel",
+      "placement": "shorts",
+      "source": {
+        "name": "RC Lens — Les partenaires du Racing",
+        "date": "2026",
+        "url": "https://www.rclens.fr/fr/club/partenaires"
+      }
+    },
+    {
+      "sponsorId": "mcdonalds",
+      "placement": "shorts",
+      "source": {
+        "name": "RC Lens — Les partenaires du Racing",
+        "date": "2026",
+        "url": "https://www.rclens.fr/fr/club/partenaires"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Adidas kit. Auchan front; Aushopping (Auchan's mall brand) on the sleeve.",
+  "change": null
+}

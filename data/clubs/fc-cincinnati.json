@@ -1,0 +1,11 @@
+{
+  "id": "fc-cincinnati",
+  "name": "FC Cincinnati",
+  "shortName": "FC Cincinnati",
+  "code": "CIN",
+  "sportId": "soccer",
+  "leagueId": "mls",
+  "country": "USA",
+  "crest": "assets/crests/fc-cincinnati.png",
+  "aliases": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "chicago-white-sox-cme-group-patch",
+  "clubId": "chicago-white-sox",
+  "orgName": "CME Group",
+  "sponsorId": "cme-group",
+  "placement": "patch",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Sports Business Journal",
+    "date": "2026-01-28",
+    "url": "https://www.sportsbusinessjournal.com/Articles/2026/01/28/white-sox-add-cme-group-as-jersey-patch-sponsor"
+  },
+  "note": "Jersey patch."
+}

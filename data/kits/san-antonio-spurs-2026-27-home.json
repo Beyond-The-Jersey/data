@@ -1,0 +1,24 @@
+{
+  "id": "san-antonio-spurs-2026-27-home",
+  "clubId": "san-antonio-spurs",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "ledger",
+      "placement": "patch",
+      "source": {
+        "name": "San Antonio Spurs (spurs.com)",
+        "date": "2025-06-24",
+        "url": "https://spurs.com/news/san-antonio-spurs-partner-with-digital-asset-security-leader-ledger-in-new-global-jersey-patch-deal"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Ledger.",
+  "change": null
+}

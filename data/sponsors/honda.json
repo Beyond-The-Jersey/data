@@ -1,0 +1,13 @@
+{
+  "id": "honda",
+  "name": "Honda / Honda Racing Corporation",
+  "ownerId": "honda-motor-co-ltd",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Honda Motor Co., Ltd.. Nothing found.",
+  "claimIds": [
+    "honda-motor-co-ltd-record"
+  ],
+  "aliases": []
+}

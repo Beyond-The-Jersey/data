@@ -1,0 +1,51 @@
+{
+  "id": "le-havre-ac-2026-27-home",
+  "clubId": "le-havre-ac",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "seafrigo",
+      "placement": "front",
+      "source": {
+        "name": "Le Havre AC — site officiel (partenaires)",
+        "date": "2026",
+        "url": "http://www.hac-foot.com/"
+      }
+    },
+    {
+      "sponsorId": "sim-agences-d-emploi",
+      "placement": "front",
+      "source": {
+        "name": "Le Havre AC — site officiel (partenaires)",
+        "date": "2026",
+        "url": "http://www.hac-foot.com/"
+      }
+    },
+    {
+      "sponsorId": "df-industrie",
+      "placement": "sleeve",
+      "source": {
+        "name": "Le Havre AC — site officiel (partenaires)",
+        "date": "2026",
+        "url": "http://www.hac-foot.com/"
+      }
+    },
+    {
+      "sponsorId": "zeturf",
+      "placement": "shorts",
+      "source": {
+        "name": "Le Havre AC — site officiel (partenaires)",
+        "date": "2026",
+        "url": "http://www.hac-foot.com/"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Hummel kit. Seafrigo front.",
+  "change": null
+}

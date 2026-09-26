@@ -1,0 +1,14 @@
+{
+  "id": "t-rowe-price",
+  "name": "T. Rowe Price",
+  "ownerId": "t-rowe-price-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by T. Rowe Price Group, Inc.. Nothing found.",
+  "claimIds": [
+    "t-rowe-price-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: T. Rowe Price is a publicly traded investment management firm; no state stake or serious conduct record identified."
+}

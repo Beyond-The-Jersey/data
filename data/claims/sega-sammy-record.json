@@ -1,0 +1,14 @@
+{
+  "id": "sega-sammy-record",
+  "ownerIds": [
+    "sega-sammy"
+  ],
+  "text": "Sega Sammy Holdings Inc. is a Tokyo-listed entertainment group; its Sega studio publishes Football Manager. No state owner.",
+  "short": "Sega Sammy is a Tokyo-listed group; it owns the Football Manager studio.",
+  "source": {
+    "name": "Sega Sammy Holdings, investor relations",
+    "date": "2026",
+    "url": "https://www.segasammy.co.jp/en/ir/"
+  },
+  "reviewed": false
+}

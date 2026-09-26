@@ -1,0 +1,14 @@
+{
+  "id": "carvana-record",
+  "ownerIds": [
+    "carvana"
+  ],
+  "text": "Carvana Co. is a US-listed used-car retailer controlled by founder Ernest Garcia III and the Garcia family through high-vote Class B stock; the equity plan itself defines the 'Garcia Parties' as a distinct change-of-control bloc, and Garcia signs the 10-K as chairman and CEO. No state shareholder. Human-rights relevance is consumer-credit and reconditioning-centre labour.",
+  "short": "Carvana Co.",
+  "source": {
+    "name": "Carvana Co. DEF 14A 2026, 'Security Ownership of Certain Beneficial Owners and Management' (SEC)",
+    "date": "2026-03-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/1690820/000169082026000024/cvna-20260325.htm"
+  },
+  "reviewed": false
+}

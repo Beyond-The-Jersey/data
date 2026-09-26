@@ -1,0 +1,24 @@
+{
+  "clubId": "alpine",
+  "channels": [
+    {
+      "type": "x",
+      "value": "@AlpineF1Team",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.alpinef1.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@alpinef1team",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.alpinef1.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

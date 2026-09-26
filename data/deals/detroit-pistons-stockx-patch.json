@@ -1,0 +1,16 @@
+{
+  "id": "detroit-pistons-stockx-patch",
+  "clubId": "detroit-pistons",
+  "orgName": "StockX",
+  "sponsorId": "stockx",
+  "placement": "patch",
+  "from": "2024",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "StockX Newsroom",
+    "date": "2024-09-25",
+    "url": "https://stockx.com/about/detroit-pistons-and-stockx-announce-jersey-partnership"
+  },
+  "note": "Jersey patch."
+}

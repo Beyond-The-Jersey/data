@@ -1,0 +1,24 @@
+{
+  "id": "bologna-2026-27-home",
+  "clubId": "bologna",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026-27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "saputo",
+      "placement": "front",
+      "source": {
+        "name": "Bologna FC 1909",
+        "date": "2023-07-13",
+        "url": "https://www.bolognafc.it/en/saputo-to-become-bolognas-new-main-partner/"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": null
+}

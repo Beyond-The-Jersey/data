@@ -1,0 +1,12 @@
+{
+  "id": "levante",
+  "name": "Levante UD",
+  "shortName": "Levante",
+  "code": "LEV",
+  "sportId": "soccer",
+  "leagueId": "la-liga",
+  "country": "Spain",
+  "crest": "assets/crests/levante.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

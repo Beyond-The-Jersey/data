@@ -1,0 +1,15 @@
+{
+  "id": "manchester-united",
+  "name": "Manchester United",
+  "shortName": "Man Utd",
+  "code": "MUN",
+  "sportId": "soccer",
+  "leagueId": "premier-league",
+  "country": "England",
+  "crest": "assets/crests/manchester-united.png",
+  "aliases": [
+    "man utd",
+    "united"
+  ],
+  "hasTeamPageDesign": false
+}

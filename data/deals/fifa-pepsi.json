@@ -1,0 +1,16 @@
+{
+  "id": "fifa-pepsi",
+  "clubId": null,
+  "orgName": "FIFA",
+  "sponsorId": "pepsi",
+  "placement": "league-partner",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "FIFA sponsors list (North American regional supporter)",
+    "date": "2026",
+    "url": null
+  },
+  "leagueId": "fifa"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cleveland-cavaliers",
+  "name": "Cleveland Cavaliers",
+  "shortName": "Cavaliers",
+  "code": "CLE",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "USA",
+  "crest": "assets/crests/cleveland-cavaliers.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

@@ -1,0 +1,8 @@
+{
+  "id": "royal-commission-for-alula",
+  "name": "Royal Commission for AlUla (RCU)",
+  "type": "state",
+  "country": "Saudi Arabia",
+  "note": "Saudi government agency running the Experience AlUla tourist board.",
+  "parentId": "government-of-saudi-arabia"
+}

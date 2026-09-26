@@ -1,0 +1,24 @@
+{
+  "id": "golden-state-warriors-2026-27-home",
+  "clubId": "golden-state-warriors",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "iren",
+      "placement": "patch",
+      "source": {
+        "name": "Silicon Valley / Bay Area News Group",
+        "date": "2026-06-27",
+        "url": "https://siliconvalley.com/2026/06/27/warriors-announce-ai-data-center-company-as-jersey-sponsor"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: IREN (IREN Ltd, AI cloud infrastructure).",
+  "change": null
+}

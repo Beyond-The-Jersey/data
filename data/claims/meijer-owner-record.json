@@ -1,0 +1,14 @@
+{
+  "id": "meijer-owner-record",
+  "ownerIds": [
+    "meijer-owner"
+  ],
+  "text": "Meijer is a family business committed to meeting other families where they are, remaining 100% family owned.",
+  "short": "Meijer is a family business committed to meeting other families where they are, remaining 100% family owned.",
+  "source": {
+    "name": "Meijer About Meijer page",
+    "date": "2026-09-24",
+    "url": "https://www.meijer.com/shopping/about-meijer.html"
+  },
+  "reviewed": false
+}

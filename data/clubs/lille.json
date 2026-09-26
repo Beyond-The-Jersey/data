@@ -1,0 +1,14 @@
+{
+  "id": "lille",
+  "name": "Lille OSC",
+  "shortName": "Lille",
+  "code": "LIL",
+  "sportId": "soccer",
+  "leagueId": "uefa",
+  "country": "France",
+  "crest": "assets/crests/lille.png",
+  "aliases": [
+    "losc"
+  ],
+  "hasTeamPageDesign": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": "formula-1-pirelli",
+  "clubId": null,
+  "orgName": "Formula 1",
+  "sponsorId": "pirelli",
+  "placement": "league-partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "FIA/Wikipedia – Pirelli sole tyre supplier for all teams",
+    "date": "2026",
+    "url": "https://en.wikipedia.org/wiki/2026_Formula_One_World_Championship"
+  },
+  "note": "Formula 1 league-wide partner, so attached to no single team.",
+  "leagueId": "formula-1"
+}

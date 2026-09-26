@@ -1,0 +1,14 @@
+{
+  "id": "betano",
+  "name": "Betano",
+  "ownerId": "kaizen-gaming",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Kaizen Gaming International Limited (partly owned by Allwyn). Nothing found.",
+  "claimIds": [
+    "kaizen-gaming-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Private Greek/Czech owners, no state link → none. Kaizen is registered/parented in Malta while Greek-founded; country shown as GR as the operating origin. Ownership percentage sourced from trade press, hence medium confidence."
+}

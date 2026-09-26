@@ -1,0 +1,13 @@
+{
+  "id": "banca-popolare-del-frusinate",
+  "name": "Banca Popolare del Frusinate",
+  "ownerId": "banca-popolare-del-frusinate",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Banca Popolare del Frusinate S.C.p.A.. Nothing found.",
+  "claimIds": [
+    "banca-popolare-del-frusinate-record"
+  ],
+  "aliases": []
+}

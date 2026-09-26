@@ -1,0 +1,43 @@
+{
+  "clubId": "bayern-munich",
+  "channels": [
+    {
+      "type": "email",
+      "value": "service@fcbayern.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://fcbayern.com/en/imprint",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://fcbayern.com/en/contact",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://fcbayern.com/en/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@FCBayernEN",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://fcbayern.com/en/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@fcbayern",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://fcbayern.com/en/contact",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

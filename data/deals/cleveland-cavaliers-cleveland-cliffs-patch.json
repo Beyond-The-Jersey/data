@@ -1,0 +1,16 @@
+{
+  "id": "cleveland-cavaliers-cleveland-cliffs-patch",
+  "clubId": "cleveland-cavaliers",
+  "orgName": "Cleveland-Cliffs",
+  "sponsorId": "cleveland-cliffs",
+  "placement": "patch",
+  "from": "2022",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Cleveland Cavaliers (NBA.com)",
+    "date": "2022-03-29",
+    "url": "https://www.nba.com/cavaliers/releases/cliffs-release-220329"
+  },
+  "note": "Jersey patch."
+}

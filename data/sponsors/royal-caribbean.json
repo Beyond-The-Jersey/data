@@ -1,0 +1,14 @@
+{
+  "id": "royal-caribbean",
+  "name": "Royal Caribbean",
+  "ownerId": "royal-caribbean-cruises-ltd",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Royal Caribbean Cruises Ltd.. Nothing found.",
+  "claimIds": [
+    "royal-caribbean-cruises-ltd-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Liberian-incorporated but US-listed; no flag-of-convenience state owner."
+}

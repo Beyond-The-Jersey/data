@@ -1,0 +1,11 @@
+{
+  "id": "cf-montreal",
+  "name": "CF Montreal",
+  "shortName": "CF Montreal",
+  "code": "MTL",
+  "sportId": "soccer",
+  "leagueId": "mls",
+  "country": "Canada",
+  "crest": "assets/crests/cf-montreal.png",
+  "aliases": []
+}

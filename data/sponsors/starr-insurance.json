@@ -1,0 +1,14 @@
+{
+  "id": "starr-insurance",
+  "name": "Starr Insurance Companies",
+  "ownerId": "starr-insurance-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Starr Insurance Companies. Nothing found.",
+  "claimIds": [
+    "starr-insurance-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Starr Insurance is privately owned by C.V. Starr & Co. (now Starr International Company); no state ownership. Ultimate parent is private holding company domiciled in Switzerland. No documented human-rights concerns in ownership chain."
+}

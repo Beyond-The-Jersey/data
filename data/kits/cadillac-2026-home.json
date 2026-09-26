@@ -1,0 +1,96 @@
+{
+  "id": "cadillac-2026-home",
+  "clubId": "cadillac",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "twg-ai",
+      "placement": "partner",
+      "source": {
+        "name": "Cadillac Formula 1 Team – Official Partners",
+        "date": "2026-09-24",
+        "url": "https://www.cadillacf1team.com/partners"
+      }
+    },
+    {
+      "sponsorId": "s-3m",
+      "placement": "partner",
+      "source": {
+        "name": "Cadillac Formula 1 Team – Official Partners",
+        "date": "2026-09-24",
+        "url": "https://www.cadillacf1team.com/partners"
+      }
+    },
+    {
+      "sponsorId": "claro",
+      "placement": "partner",
+      "source": {
+        "name": "Cadillac Formula 1 Team – Official Partners",
+        "date": "2026-09-24",
+        "url": "https://www.cadillacf1team.com/partners"
+      }
+    },
+    {
+      "sponsorId": "core-scientific",
+      "placement": "partner",
+      "source": {
+        "name": "Cadillac Formula 1 Team – Official Partners",
+        "date": "2026-09-24",
+        "url": "https://www.cadillacf1team.com/partners"
+      }
+    },
+    {
+      "sponsorId": "ifs",
+      "placement": "partner",
+      "source": {
+        "name": "Cadillac Formula 1 Team – Official Partners",
+        "date": "2026-09-24",
+        "url": "https://www.cadillacf1team.com/partners"
+      }
+    },
+    {
+      "sponsorId": "jim-beam",
+      "placement": "partner",
+      "source": {
+        "name": "Cadillac Formula 1 Team – Official Partners",
+        "date": "2026-09-24",
+        "url": "https://www.cadillacf1team.com/partners"
+      }
+    },
+    {
+      "sponsorId": "tenneco",
+      "placement": "partner",
+      "source": {
+        "name": "Cadillac Formula 1 Team – Official Partners",
+        "date": "2026-09-24",
+        "url": "https://www.cadillacf1team.com/partners"
+      }
+    },
+    {
+      "sponsorId": "tommy-hilfiger",
+      "placement": "partner",
+      "source": {
+        "name": "Cadillac Formula 1 Team – Official Partners",
+        "date": "2026-09-24",
+        "url": "https://www.cadillacf1team.com/partners"
+      }
+    },
+    {
+      "sponsorId": "alpinestars-c",
+      "placement": "partner",
+      "source": {
+        "name": "Cadillac Formula 1 Team – Official Partners",
+        "date": "2026-09-24",
+        "url": "https://www.cadillacf1team.com/partners"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": "2026 car. N"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "boston-red-sox-massmutual-patch",
+  "clubId": "boston-red-sox",
+  "orgName": "MassMutual",
+  "sponsorId": "massmutual",
+  "placement": "patch",
+  "from": "2023",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "MLB.com",
+    "date": "2022-11-30",
+    "url": "https://www.mlb.com/news/red-sox-jersey-patch-massmutual"
+  },
+  "note": "Jersey patch."
+}

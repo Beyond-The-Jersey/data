@@ -1,0 +1,14 @@
+{
+  "id": "aia",
+  "name": "AIA",
+  "ownerId": "aia-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by AIA Group Limited (HKEX: 1299). Nothing found.",
+  "claimIds": [
+    "aia-group-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Listed Hong Kong company → none. Historical note: AIA was spun out of AIG; the US government's AIG bailout stake was long ago exited."
+}

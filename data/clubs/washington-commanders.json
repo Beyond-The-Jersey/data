@@ -1,0 +1,12 @@
+{
+  "id": "washington-commanders",
+  "name": "Washington Commanders",
+  "shortName": "Commanders",
+  "code": "WAS",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/washington-commanders.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

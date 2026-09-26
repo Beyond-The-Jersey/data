@@ -1,0 +1,52 @@
+{
+  "clubId": "paris-saint-germain",
+  "channels": [
+    {
+      "type": "email",
+      "value": "security@vercel.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.psg.fr/en/legal-notice",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "+14159065347",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.psg.fr/en",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.psg.fr/en/legal-notice",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.psg.fr/en/legal-notice",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@PSG_inside",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.psg.fr/en",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@psg",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.psg.fr/en",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

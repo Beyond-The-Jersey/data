@@ -1,0 +1,14 @@
+{
+  "id": "movistar",
+  "name": "Movistar",
+  "ownerId": null,
+  "ownership": null,
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": [
+    "telefonica"
+  ],
+  "note": "Spanish telecoms brand of Telefónica (listed)."
+}

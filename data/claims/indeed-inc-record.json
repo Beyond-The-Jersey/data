@@ -1,0 +1,14 @@
+{
+  "id": "indeed-inc-record",
+  "ownerIds": [
+    "indeed-inc"
+  ],
+  "text": "Indeed, Inc. is a wholly-owned subsidiary of Recruit Holdings Co., Ltd., listed on the Tokyo Stock Exchange. No state or state-fund owner.",
+  "short": "Indeed is a subsidiary of Tokyo-listed Recruit Holdings.",
+  "source": {
+    "name": "Recruit Holdings, Group Companies",
+    "date": "2026",
+    "url": "https://recruit-holdings.com/en/about/group"
+  },
+  "reviewed": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": "athletics",
+  "name": "Athletics",
+  "shortName": "Athletics",
+  "code": "ATH",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "USA",
+  "crest": "assets/crests/athletics.png",
+  "aliases": [
+    "a's",
+    "oakland athletics"
+  ],
+  "hasTeamPageDesign": false
+}

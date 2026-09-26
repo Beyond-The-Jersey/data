@@ -1,0 +1,24 @@
+{
+  "id": "as-roma-2026-27-home",
+  "clubId": "as-roma",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026-27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "eurobet-live",
+      "placement": "front",
+      "source": {
+        "name": "iGaming Republic",
+        "date": "2026-03-18",
+        "url": "https://igamingrepublic.com/eurobet-live-becomes-as-roma-main-shirt-sponsor"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": null
+}

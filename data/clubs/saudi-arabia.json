@@ -1,0 +1,11 @@
+{
+  "id": "saudi-arabia",
+  "name": "Saudi Arabia",
+  "shortName": "Saudi Arabia",
+  "code": "KSA",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Saudi Arabia",
+  "crest": "assets/crests/saudi-arabia.png",
+  "aliases": []
+}

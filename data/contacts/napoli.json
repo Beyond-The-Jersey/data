@@ -1,0 +1,34 @@
+{
+  "clubId": "napoli",
+  "channels": [
+    {
+      "type": "contact-form",
+      "value": "https://sscnapoli.it/contatti/",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://sscnapoli.it/contatti/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@SSCNapoli",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://sscnapoli.it/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@officialsscnapoli",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://sscnapoli.it/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "provider": {
+    "gateway": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "GLM gateway",
+      "options": {
+        "baseURL": "{env:GLM_BASE_URL}",
+        "apiKey": "{env:GLM_API_KEY}"
+      },
+      "models": {
+        "glm-5.3-flash-uncensored-fp8": { "name": "GLM 5.3 Flash" }
+      }
+    }
+  },
+  "permission": {
+    "edit": "deny",
+    "bash": "deny",
+    "webfetch": "allow"
+  }
+}

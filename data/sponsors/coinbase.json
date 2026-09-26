@@ -1,0 +1,14 @@
+{
+  "id": "coinbase",
+  "name": "Coinbase",
+  "ownerId": "coinbase-global",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Coinbase Global, Inc.. Nothing found.",
+  "claimIds": [
+    "coinbase-global-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Listed on Nasdaq, no sovereign stake. SEC v. Coinbase dismissed 2025-02-27 - resolved, so none rather than concern."
+}

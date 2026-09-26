@@ -1,0 +1,16 @@
+{
+  "id": "san-francisco-49ers-us-bank-patch",
+  "clubId": "san-francisco-49ers",
+  "orgName": "U.S. Bank",
+  "sponsorId": "us-bank",
+  "placement": "training-kit",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Sports Business Journal",
+    "date": "2026-09-10",
+    "url": "https://www.sportsbusinessjournal.com/Articles/2026/09/10/health-care-providers-financial-companies-dominate-nfl-jersey-patches/"
+  },
+  "note": "Practice-jersey patch."
+}

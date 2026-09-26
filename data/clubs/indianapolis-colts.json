@@ -1,0 +1,12 @@
+{
+  "id": "indianapolis-colts",
+  "name": "Indianapolis Colts",
+  "shortName": "Colts",
+  "code": "IND",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/indianapolis-colts.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

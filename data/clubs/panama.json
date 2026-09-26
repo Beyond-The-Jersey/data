@@ -1,0 +1,11 @@
+{
+  "id": "panama",
+  "name": "Panama",
+  "shortName": "Panama",
+  "code": "PAN",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Panama",
+  "crest": "assets/crests/panama.png",
+  "aliases": []
+}

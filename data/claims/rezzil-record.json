@@ -1,0 +1,14 @@
+{
+  "id": "rezzil-record",
+  "ownerIds": [
+    "rezzil"
+  ],
+  "text": "Rezzil is a private UK VR-sports-software company with venture backing and no state owner.",
+  "short": "Rezzil is a private UK VR-sports company.",
+  "source": {
+    "name": "Rezzil, company site",
+    "date": "2026",
+    "url": "https://rezzil.com/"
+  },
+  "reviewed": false
+}

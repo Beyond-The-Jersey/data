@@ -1,0 +1,11 @@
+{
+  "id": "paraguay",
+  "name": "Paraguay",
+  "shortName": "Paraguay",
+  "code": "PAR",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Paraguay",
+  "crest": "assets/crests/paraguay.png",
+  "aliases": []
+}

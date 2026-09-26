@@ -1,0 +1,11 @@
+{
+  "id": "mclaren",
+  "name": "McLaren Mastercard F1 Team",
+  "shortName": "McLaren",
+  "code": "MCL",
+  "sportId": "motorsport",
+  "leagueId": "formula-1",
+  "country": "United Kingdom",
+  "crest": "assets/crests/mclaren.png",
+  "aliases": []
+}

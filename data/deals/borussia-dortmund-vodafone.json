@@ -1,0 +1,23 @@
+{
+  "id": "borussia-dortmund-vodafone",
+  "clubId": "borussia-dortmund",
+  "orgName": null,
+  "sponsorId": "vodafone",
+  "placement": "front",
+  "from": "2025-26",
+  "to": "2029-30",
+  "value": {
+    "amount": 30,
+    "currency": "EUR",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": 34
+  },
+  "source": {
+    "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+    "date": "2026-08-04",
+    "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+  },
+  "note": "Five-year deal to 2030; replaces the 1&1 (league) and Evonik (cup) split."
+}

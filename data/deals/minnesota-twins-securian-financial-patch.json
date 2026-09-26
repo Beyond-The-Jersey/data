@@ -1,0 +1,16 @@
+{
+  "id": "minnesota-twins-securian-financial-patch",
+  "clubId": "minnesota-twins",
+  "orgName": "Securian Financial",
+  "sponsorId": "securian-financial",
+  "placement": "patch",
+  "from": "2025",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Sports Business Journal",
+    "date": "2025-07-17",
+    "url": "https://www.sportsbusinessjournal.com/Articles/2025/07/17/securian-financial-becomes-twins-first-ever-jersey-patch-sponsor"
+  },
+  "note": "Jersey patch."
+}

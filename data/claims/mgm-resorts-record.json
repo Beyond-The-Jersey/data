@@ -1,0 +1,14 @@
+{
+  "id": "mgm-resorts-record",
+  "ownerIds": [
+    "mgm-resorts"
+  ],
+  "text": "MGM Rewards is the loyalty programme of MGM Resorts International, NYSE-listed with no state shareholder.",
+  "short": "MGM Rewards is the loyalty programme of MGM Resorts International, NYSE-listed with no state shareholder.",
+  "source": {
+    "name": "MGM Resorts International - investor relations",
+    "date": "2026-09-24",
+    "url": "https://investors.mgmresorts.com/"
+  },
+  "reviewed": false
+}

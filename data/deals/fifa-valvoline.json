@@ -1,0 +1,16 @@
+{
+  "id": "fifa-valvoline",
+  "clubId": null,
+  "orgName": "FIFA",
+  "sponsorId": "valvoline",
+  "placement": "league-partner",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "FIFA - Valvoline Global confirmed as Official FIFA World Cup 26 Supporter",
+    "date": "2025",
+    "url": null
+  },
+  "leagueId": "fifa"
+}

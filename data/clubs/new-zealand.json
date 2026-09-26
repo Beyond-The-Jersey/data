@@ -1,0 +1,11 @@
+{
+  "id": "new-zealand",
+  "name": "New Zealand",
+  "shortName": "New Zealand",
+  "code": "NZL",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "New Zealand",
+  "crest": "assets/crests/new-zealand.png",
+  "aliases": []
+}

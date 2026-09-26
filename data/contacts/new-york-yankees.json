@@ -1,0 +1,52 @@
+{
+  "clubId": "new-york-yankees",
+  "channels": [
+    {
+      "type": "email",
+      "value": "tickets@yankees.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/yankees/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "seasontickets@yankees.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/yankees/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.mlb.com/yankees/official-information/contact",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/yankees/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@Yankees",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/yankees",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@yankees",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/yankees",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

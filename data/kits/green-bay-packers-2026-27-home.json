@@ -1,0 +1,24 @@
+{
+  "id": "green-bay-packers-2026-27-home",
+  "clubId": "green-bay-packers",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "uw-health",
+      "placement": "training-kit",
+      "source": {
+        "name": "Green Bay Packers (packers.com)",
+        "date": "2026-04-16",
+        "url": "https://www.packers.com/news/packers-name-uw-health-official-health-care-partner-of-the-green-bay-packers-2026"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Practice-jersey patch: UW Health.",
+  "change": null
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ipswich-town",
+  "name": "Ipswich Town",
+  "shortName": "Ipswich",
+  "code": "IPS",
+  "sportId": "soccer",
+  "leagueId": "premier-league",
+  "country": "England",
+  "crest": "assets/crests/ipswich-town.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

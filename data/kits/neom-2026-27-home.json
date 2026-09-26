@@ -1,0 +1,35 @@
+{
+  "id": "neom-2026-27-home",
+  "clubId": "neom",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "oxagon",
+      "placement": "front",
+      "source": {
+        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+        "date": "2026-06-15",
+        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+      }
+    },
+    {
+      "sponsorId": "shg",
+      "placement": "front",
+      "source": {
+        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+        "date": "2026-06-15",
+        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Adidas home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+  "change": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": "capital-one-owner-record",
+  "ownerIds": [
+    "capital-one-owner"
+  ],
+  "text": "Capital One Financial Corp. is the ultimate owner of Capital One.",
+  "short": "Capital One Financial Corp.",
+  "source": {
+    "name": "Capital One Financial Corp. Investor Relations",
+    "date": "2026-09-25",
+    "url": "https://investor.capitalone.com"
+  },
+  "reviewed": false
+}

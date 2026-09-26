@@ -1,0 +1,11 @@
+{
+  "id": "genoa",
+  "name": "Genoa CFC",
+  "shortName": "Genoa",
+  "code": "GEN",
+  "sportId": "soccer",
+  "leagueId": "serie-a",
+  "country": "Italy",
+  "crest": "assets/crests/genoa.png",
+  "aliases": []
+}

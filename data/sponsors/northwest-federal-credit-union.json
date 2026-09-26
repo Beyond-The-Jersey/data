@@ -1,0 +1,14 @@
+{
+  "id": "northwest-federal-credit-union",
+  "name": "Northwest Federal Credit Union",
+  "ownerId": "northwest-federal-credit-union-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Northwest Federal Credit Union. Nothing found.",
+  "claimIds": [
+    "northwest-federal-credit-union-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Northwest Federal Credit Union is a member-owned cooperative (not-for-profit); no state ownership. Credit unions are private mutual entities under NCUA charter, not state-owned."
+}

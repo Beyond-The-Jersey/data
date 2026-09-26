@@ -1,0 +1,24 @@
+{
+  "id": "torino-2026-27-home",
+  "clubId": "torino",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026-27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "suzuki",
+      "placement": "front",
+      "source": {
+        "name": "Torino FC",
+        "date": "2026-07-03",
+        "url": "https://www.torinofc.it/news/03/07/2026/torino-fc-e-suzuki-insieme-nel-segno-della-continuita_43651"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": "Suzuki continued as main shirt partner for 26-27; Bet365 Scores also on the front."
+}

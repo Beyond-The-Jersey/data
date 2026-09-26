@@ -1,0 +1,17 @@
+{
+  "id": "formula-1-lenovo",
+  "clubId": null,
+  "orgName": "Formula 1",
+  "sponsorId": "lenovo",
+  "placement": "league-partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Lenovo – Formula 1 partnership",
+    "date": "2026",
+    "url": "https://lenovo.com/us/en/sports-partners/formula1"
+  },
+  "note": "Formula 1 league-wide partner, so attached to no single team.",
+  "leagueId": "formula-1"
+}

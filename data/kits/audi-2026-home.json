@@ -1,0 +1,79 @@
+{
+  "id": "audi-2026-home",
+  "clubId": "audi",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "revolut",
+      "placement": "front",
+      "source": {
+        "name": "Revolut – Revolut becomes title partner of the future Audi F1 Team",
+        "date": "2025-07-30",
+        "url": "https://www.revolut.com/en-US/news/revolut_becomes_title_partner_of_the_future_audi_f1_team/"
+      }
+    },
+    {
+      "sponsorId": "bp",
+      "placement": "front",
+      "source": {
+        "name": "Audi Revolut F1 Team – Partners",
+        "date": "2026-09-24",
+        "url": "https://www.audif1.com/en/partners"
+      }
+    },
+    {
+      "sponsorId": "castrol",
+      "placement": "sleeve",
+      "source": {
+        "name": "Castrol – Castrol to power the Audi Revolut F1 Team through new era",
+        "date": "2026",
+        "url": "https://www.castrol.com/en/global/corporate/about-castrol/newsroom/castrol-to-power-the-audi-revolut-f1-team-through-the-new-era.html",
+        "note": "date precision: year"
+      }
+    },
+    {
+      "sponsorId": "visit-qatar",
+      "placement": "partner",
+      "source": {
+        "name": "Audi AG – Visit Qatar welcomed by the future Audi F1 Team as a new principal partner",
+        "date": "2025-11-29",
+        "url": "https://www.audi.com/en/press-releases/visit-qatar-welcomed-by-the-future-audi-f1-team-as-a-new-principal-partner-16923"
+      }
+    },
+    {
+      "sponsorId": "adidas-a",
+      "placement": "partner",
+      "source": {
+        "name": "Audi Revolut F1 Team – Partners",
+        "date": "2026-09-24",
+        "url": "https://www.audif1.com/en/partners"
+      }
+    },
+    {
+      "sponsorId": "extreme-networks",
+      "placement": "partner",
+      "source": {
+        "name": "Audi Revolut F1 Team – Partners",
+        "date": "2026-09-24",
+        "url": "https://www.audif1.com/en/partners"
+      }
+    },
+    {
+      "sponsorId": "liberty-broker",
+      "placement": "partner",
+      "source": {
+        "name": "Audi Revolut F1 Team – Partners",
+        "date": "2026-09-24",
+        "url": "https://www.audif1.com/en/partners"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": "2026 car. S"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "switzerland",
+  "name": "Switzerland",
+  "shortName": "Switzerland",
+  "code": "SUI",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Switzerland",
+  "crest": "assets/crests/switzerland.png",
+  "aliases": []
+}

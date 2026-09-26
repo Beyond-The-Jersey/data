@@ -1,0 +1,29 @@
+{
+  "id": "visit-rwanda",
+  "name": "Visit Rwanda",
+  "ownerId": "government-of-rwanda",
+  "ownership": "owned",
+  "tier": "severe",
+  "status": "rated",
+  "verdict": "Paid for by a government that UN experts say has 3,000–4,000 troops fighting alongside M23 rebels in eastern Congo.",
+  "claimIds": [
+    "rwanda-troops-m23",
+    "m23-coltan-levies",
+    "rubaya-smuggling",
+    "rubaya-tantalum-share",
+    "coltan-supply-chain"
+  ],
+  "aliases": [
+    "rwanda"
+  ],
+  "ownerVerb": "paid for by",
+  "why": {
+    "text": "Rwanda’s government pays to put its tourism brand on the shirt. UN experts say 3,000–4,000 Rwandan troops are fighting alongside M23 rebels in eastern Congo, where the rebels take about $800,000 a month from coltan mining. A famous shirt makes Rwanda look like a holiday destination while that goes on. That’s called sportswashing.",
+    "claimIds": [
+      "rwanda-troops-m23",
+      "m23-coltan-levies"
+    ],
+    "messageLine": "UN experts say 3,000–4,000 Rwandan troops are fighting alongside M23 rebels in eastern Congo.",
+    "status": "draft"
+  }
+}

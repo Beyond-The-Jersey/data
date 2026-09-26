@@ -1,0 +1,16 @@
+{
+  "id": "atlanta-hawks-paze-patch",
+  "clubId": "atlanta-hawks",
+  "orgName": "Paze (Early Warning Services)",
+  "sponsorId": "paze",
+  "placement": "patch",
+  "from": "2025",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Sports Business Journal",
+    "date": "2025-09-29",
+    "url": "https://www.sportsbusinessjournal.com/Articles/2025/09/29/hawks-select-digital-wallet-paze-as-jersey-patch-sponsor"
+  },
+  "note": "Jersey patch."
+}

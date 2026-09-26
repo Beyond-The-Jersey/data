@@ -1,0 +1,14 @@
+{
+  "id": "al-khaleej",
+  "name": "Al-Khaleej",
+  "shortName": "Al-Khaleej",
+  "code": "KHA",
+  "sportId": "soccer",
+  "leagueId": "saudi-pro-league",
+  "country": "Saudi Arabia",
+  "crest": "assets/crests/al-khaleej.png",
+  "aliases": [
+    "al khaleej",
+    "khaleej"
+  ]
+}

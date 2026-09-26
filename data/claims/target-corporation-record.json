@@ -1,0 +1,14 @@
+{
+  "id": "target-corporation-record",
+  "ownerIds": [
+    "target-corporation"
+  ],
+  "text": "Target Corporation is NYSE-listed (TGT) with a fully dispersed shareholder base and no state or sovereign-fund owner. The Minnesota United front deal is private corporate money. Human-rights relevance is ordinary retail supply-chain labour exposure.",
+  "short": "Target Corporation is NYSE-listed (TGT) with a fully dispersed shareholder base and no state or sovereign-fund owner.",
+  "source": {
+    "name": "Target Corporation Form 10-K FY2025 (SEC EDGAR)",
+    "date": "2026-03-11",
+    "url": "https://www.sec.gov/Archives/edgar/data/27419/000002741926000016/tgt-20260131.htm"
+  },
+  "reviewed": false
+}

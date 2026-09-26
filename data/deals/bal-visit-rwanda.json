@@ -1,0 +1,24 @@
+{
+  "id": "bal-visit-rwanda",
+  "clubId": null,
+  "orgName": "Basketball Africa League",
+  "leagueId": "basketball-africa-league",
+  "sponsorId": "visit-rwanda",
+  "placement": "league-partner",
+  "from": null,
+  "to": null,
+  "value": {
+    "amount": 6.5,
+    "currency": "USD",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": 6.5
+  },
+  "source": {
+    "name": "Visit Rwanda, Basketball Africa League partnership",
+    "date": "2025",
+    "url": "https://visitrwanda.com/basketball-africa-league/"
+  },
+  "note": "Reportedly $6–7m a year."
+}

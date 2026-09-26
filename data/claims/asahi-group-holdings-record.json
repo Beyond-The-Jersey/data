@@ -1,0 +1,14 @@
+{
+  "id": "asahi-group-holdings-record",
+  "ownerIds": [
+    "asahi-group-holdings"
+  ],
+  "text": "Peroni Nastro Azzurro has been owned since 2016 by Asahi Group Holdings, a Tokyo-listed brewer, with no state shareholder.",
+  "short": "Peroni Nastro Azzurro has been owned since 2016 by Asahi Group Holdings, a Tokyo-listed brewer, with no state shareholder.",
+  "source": {
+    "name": "Asahi Group Holdings - FY2016 fact book (Peroni/Grolsch acquisition from AB InBev)",
+    "date": "2017-03-01",
+    "url": "https://www.asahigroup-holdings.com/ir_library_file/file/2016_yend_factbook.pdf"
+  },
+  "reviewed": false
+}

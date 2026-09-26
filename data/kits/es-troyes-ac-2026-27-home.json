@@ -1,0 +1,87 @@
+{
+  "id": "es-troyes-ac-2026-27-home",
+  "clubId": "es-troyes-ac",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "etihad-airways",
+      "placement": "front",
+      "source": {
+        "name": "ESTAC Troyes, 'Etihad élargit son engagement et devient Partenaire Majeur de l'ESTAC'",
+        "date": "2026-07-23",
+        "url": "https://www.estac.fr/etihad-elargit-son-engagement-et-devient-partenaire-majeur-de-lestac/"
+      }
+    },
+    {
+      "sponsorId": "ville-de-troyes",
+      "placement": "front",
+      "source": {
+        "name": "ESTAC Troyes — Partenaires",
+        "date": "2026",
+        "url": "https://www.estac.fr/le-club/partenaires/"
+      }
+    },
+    {
+      "sponsorId": "norelem",
+      "placement": "front",
+      "source": {
+        "name": "ESTAC Troyes — Partenaires",
+        "date": "2026",
+        "url": "https://www.estac.fr/le-club/partenaires/"
+      }
+    },
+    {
+      "sponsorId": "mcarthurglen-troyes",
+      "placement": "front",
+      "source": {
+        "name": "ESTAC Troyes — Partenaires",
+        "date": "2026",
+        "url": "https://www.estac.fr/le-club/partenaires/"
+      }
+    },
+    {
+      "sponsorId": "b-partner",
+      "placement": "back",
+      "source": {
+        "name": "ESTAC Troyes — Partenaires",
+        "date": "2026",
+        "url": "https://www.estac.fr/le-club/partenaires/"
+      }
+    },
+    {
+      "sponsorId": "century-21-groupe-martinot",
+      "placement": "sleeve",
+      "source": {
+        "name": "ESTAC Troyes — Partenaires",
+        "date": "2026",
+        "url": "https://www.estac.fr/le-club/partenaires/"
+      }
+    },
+    {
+      "sponsorId": "amplitude-groupe-automobile",
+      "placement": "shorts",
+      "source": {
+        "name": "ESTAC Troyes — Partenaires",
+        "date": "2026",
+        "url": "https://www.estac.fr/le-club/partenaires/"
+      }
+    },
+    {
+      "sponsorId": "les-constructeurs-reunis",
+      "placement": "shorts",
+      "source": {
+        "name": "ESTAC Troyes — Partenaires",
+        "date": "2026",
+        "url": "https://www.estac.fr/le-club/partenaires/"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Puma kit. Etihad Airways (Abu Dhabi state-owned) 'Partenaire Majeur'; club itself owned by City Football Group (Abu Dhabi).",
+  "change": null
+}

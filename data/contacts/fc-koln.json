@@ -1,0 +1,52 @@
+{
+  "clubId": "fc-koln",
+  "channels": [
+    {
+      "type": "email",
+      "value": "service@fc.de",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://fc.de/service/rund-um-den-fc/kontakt",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "fanshop-service@fc.de",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://fc.de/service/rund-um-den-fc/kontakt",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://fc.de/service/rund-um-den-fc/kontakt",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://fc.de/service/rund-um-den-fc/kontakt",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@fckoeln",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://fc.de/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@fckoeln",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://fc.de/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

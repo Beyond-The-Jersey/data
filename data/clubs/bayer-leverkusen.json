@@ -1,0 +1,14 @@
+{
+  "id": "bayer-leverkusen",
+  "name": "Bayer Leverkusen",
+  "shortName": "Leverkusen",
+  "code": "B04",
+  "sportId": "soccer",
+  "leagueId": "bundesliga",
+  "country": "Germany",
+  "crest": "assets/crests/bayer-leverkusen.png",
+  "aliases": [
+    "leverkusen"
+  ],
+  "hasTeamPageDesign": false
+}

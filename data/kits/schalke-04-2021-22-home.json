@@ -1,0 +1,30 @@
+{
+  "id": "schalke-04-2021-22-home",
+  "clubId": "schalke-04",
+  "season": "2021-22",
+  "kitType": "home",
+  "periodLabel": "2021-22",
+  "periodFrom": "2021-22",
+  "periodTo": "2021-22",
+  "photos": {
+    "square": "assets/shirts/grid/schalke-04-2021-22-home-front-square.jpg"
+  },
+  "sponsors": [
+    {
+      "sponsorId": "gazprom",
+      "placement": "front",
+      "source": {
+        "name": "Footy Headlines, Schalke 04 21-22 home kit released",
+        "date": "2021-07-02",
+        "url": "https://www.footyheadlines.com/2021/06/schalke-04-21-22-kit.html"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "The last Schalke shirt launched with Gazprom on the front.",
+  "change": {
+    "kind": "better",
+    "text": "Gazprom came off mid-season after 15 years, foiled over by the housing company Vivawest in March 2022.",
+    "badge": "Gazprom gone"
+  }
+}

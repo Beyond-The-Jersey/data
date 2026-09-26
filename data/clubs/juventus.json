@@ -1,0 +1,11 @@
+{
+  "id": "juventus",
+  "name": "Juventus FC",
+  "shortName": "Juventus",
+  "code": "JUV",
+  "sportId": "soccer",
+  "leagueId": "serie-a",
+  "country": "Italy",
+  "crest": "assets/crests/juventus.png",
+  "aliases": []
+}

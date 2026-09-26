@@ -1,0 +1,14 @@
+{
+  "id": "atlassian",
+  "name": "Atlassian",
+  "ownerId": "atlassian",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Atlassian Corporation. Nothing found.",
+  "claimIds": [
+    "atlassian-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Founders are now based in the US/Australia; company redomiciled to Delaware. No state stake in either jurisdiction."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "visa",
+  "name": "Visa",
+  "ownerId": "visa-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Visa Inc.. Nothing found.",
+  "claimIds": [
+    "visa-inc-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: No state stake identified."
+}

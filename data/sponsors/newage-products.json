@@ -1,0 +1,14 @@
+{
+  "id": "newage-products",
+  "name": "NewAge Products",
+  "ownerId": "newage-products-owner",
+  "ownership": "owned",
+  "tier": "concern",
+  "status": "rated",
+  "verdict": "NewAge Products Inc.",
+  "claimIds": [
+    "newage-products-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: NewAge Products is privately held (Toronto-based); no state stake. However, as a consumer goods manufacturer, its supply chain carries documented forced-labour exposure from Xinjiang cotton (per UFLPA detentions and Fast Retailing disclosures), triggering 'concern' on conduct grounds."
+}

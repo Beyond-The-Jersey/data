@@ -1,0 +1,14 @@
+{
+  "id": "hp-inc-record",
+  "ownerIds": [
+    "hp-inc"
+  ],
+  "text": "The Ferrari front branding is HP Inc., the Delaware-incorporated, NYSE-listed hardware company created by the 2015 Hewlett-Packard split. Dispersed public ownership, no parent, no state stake. Human-rights relevance: hardware supply chains and printer/ink subscription litigation, none of it owner-level state exposure.",
+  "short": "The Ferrari front branding is HP Inc., the Delaware-incorporated, NYSE-listed hardware company created by the 2015 Hewlett-Packard split.",
+  "source": {
+    "name": "HP Inc. Form 10-K for FY2025 (SEC)",
+    "date": "2025-12-10",
+    "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721725000071/hpq-20251031.htm"
+  },
+  "reviewed": false
+}

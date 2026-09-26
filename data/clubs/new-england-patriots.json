@@ -1,0 +1,12 @@
+{
+  "id": "new-england-patriots",
+  "name": "New England Patriots",
+  "shortName": "Patriots",
+  "code": "NE",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/new-england-patriots.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

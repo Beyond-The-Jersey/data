@@ -1,0 +1,13 @@
+{
+  "id": "mastercard",
+  "name": "Mastercard",
+  "ownerId": "mastercard-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Mastercard Incorporated. Nothing found.",
+  "claimIds": [
+    "mastercard-inc-record"
+  ],
+  "aliases": []
+}

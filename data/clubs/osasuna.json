@@ -1,0 +1,12 @@
+{
+  "id": "osasuna",
+  "name": "CA Osasuna",
+  "shortName": "Osasuna",
+  "code": "OSA",
+  "sportId": "soccer",
+  "leagueId": "la-liga",
+  "country": "Spain",
+  "crest": "assets/crests/osasuna.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

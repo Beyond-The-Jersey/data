@@ -1,0 +1,25 @@
+{
+  "id": "arsenal-visit-rwanda",
+  "clubId": "arsenal",
+  "orgName": null,
+  "sponsorId": "visit-rwanda",
+  "placement": "sleeve",
+  "from": "2018-19",
+  "to": "2025-26",
+  "value": {
+    "amount": 10,
+    "currency": "GBP",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": 13
+  },
+  "source": {
+    "name": "SportsPro (citing The Athletic)",
+    "date": "2026-07-15",
+    "url": "https://www.sportspro.com/news/sponsorship-marketing/aston-villa-visit-rwanda-shirt-principal-sponsorship-july-2026/",
+    "short": "The Athletic"
+  },
+  "note": "About £10m a year; ended June 2026.",
+  "endedOn": "2026-06"
+}

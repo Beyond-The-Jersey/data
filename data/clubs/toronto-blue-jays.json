@@ -1,0 +1,12 @@
+{
+  "id": "toronto-blue-jays",
+  "name": "Toronto Blue Jays",
+  "shortName": "Blue Jays",
+  "code": "TOR",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "Canada",
+  "crest": "assets/crests/toronto-blue-jays.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

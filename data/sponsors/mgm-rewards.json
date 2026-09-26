@@ -1,0 +1,14 @@
+{
+  "id": "mgm-rewards",
+  "name": "MGM Rewards",
+  "ownerId": "mgm-resorts",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by MGM Resorts International. Nothing found.",
+  "claimIds": [
+    "mgm-resorts-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: MGM China is a separately listed subsidiary (HKEX); neither has a sovereign shareholder."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ipswich-town-2026-27-home",
+  "clubId": "ipswich-town",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {
+    "square": "assets/shirts/grid/ipswich-town-2026-27-home-front-square.jpg"
+  },
+  "sponsors": [
+    {
+      "sponsorId": "halo",
+      "placement": "front",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
+    },
+    {
+      "sponsorId": "play",
+      "placement": "sleeve",
+      "source": {
+        "name": "Ipswich Town FC – '2026/27 KITS REVEALED'",
+        "date": "2026-07-03",
+        "url": "https://www.itfc.co.uk/news/2026/july/03/2026-27-kits-revealed/"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": null,
+  "change": null
+}

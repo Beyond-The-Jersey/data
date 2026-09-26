@@ -1,0 +1,11 @@
+{
+  "id": "norway",
+  "name": "Norway",
+  "shortName": "Norway",
+  "code": "NOR",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Norway",
+  "crest": "assets/crests/norway.png",
+  "aliases": []
+}

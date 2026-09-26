@@ -1,0 +1,14 @@
+{
+  "id": "ineos-s",
+  "name": "INEOS",
+  "ownerId": "ineos-group-limited",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by INEOS Group Limited. Nothing found.",
+  "claimIds": [
+    "ineos-group-limited-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Ratcliffe's majority stake and the Currie/Reece minority are well reported but not on the page opened; the page does confirm private ownership and Ratcliffe's chairmanship. Tier kept 'none' on ownership grounds rather than 'concern' on the petrochemicals record."
+}

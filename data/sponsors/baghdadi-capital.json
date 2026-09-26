@@ -1,0 +1,14 @@
+{
+  "id": "baghdadi-capital",
+  "name": "Baghdadi Capital",
+  "ownerId": "baghdadi-capital-sa",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Baghdadi Capital, S.A. (family office of Baihas Baghdadi). Nothing found.",
+  "claimIds": [
+    "baghdadi-capital-sa-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Name suggests Iraq/Iranian links but ownership is Spanish private family capital. Manages ~EUR 1.5bn AUM across Spain, US, UK, Ireland, Singapore."
+}

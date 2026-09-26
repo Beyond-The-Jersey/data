@@ -1,0 +1,24 @@
+{
+  "id": "genoa-2026-27-home",
+  "clubId": "genoa",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026-27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "pulsee-luce-e-gas",
+      "placement": "front",
+      "source": {
+        "name": "Pulsee",
+        "date": "2026-07-14",
+        "url": "https://pulsee.it/chi-siamo/sponsorship/genoa-cfc"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": null
+}

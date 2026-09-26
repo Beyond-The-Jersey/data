@@ -1,0 +1,11 @@
+{
+  "id": "los-angeles-fc",
+  "name": "Los Angeles FC",
+  "shortName": "LAFC",
+  "code": "LAFC",
+  "sportId": "soccer",
+  "leagueId": "mls",
+  "country": "USA",
+  "crest": "assets/crests/los-angeles-fc.png",
+  "aliases": []
+}

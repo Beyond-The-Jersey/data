@@ -1,0 +1,12 @@
+{
+  "id": "sc-freiburg",
+  "name": "SC Freiburg",
+  "shortName": "Freiburg",
+  "code": "SCF",
+  "sportId": "soccer",
+  "leagueId": "bundesliga",
+  "country": "Germany",
+  "crest": "assets/crests/sc-freiburg.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

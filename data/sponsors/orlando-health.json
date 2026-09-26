@@ -1,0 +1,14 @@
+{
+  "id": "orlando-health",
+  "name": "Orlando Health",
+  "ownerId": "orlando-health-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Orlando Health, Inc.. Nothing found.",
+  "claimIds": [
+    "orlando-health-inc-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Non-profit classified under private-company; no state funding owner, though it does receive public reimbursement as a hospital system."
+}

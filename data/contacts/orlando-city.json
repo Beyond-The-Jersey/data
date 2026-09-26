@@ -1,0 +1,52 @@
+{
+  "clubId": "orlando-city",
+  "channels": [
+    {
+      "type": "email",
+      "value": "tickets@orlandocitysoccer.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.orlandocitysc.com/club/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "jreaves@orlandocitysc.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.orlandocitysc.com/club/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.orlandocitysc.com/club/contact",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.orlandocitysc.com/club/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@orlandocitysc",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.orlandocitysc.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@orlandocitysc",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.orlandocitysc.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

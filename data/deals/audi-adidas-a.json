@@ -1,0 +1,16 @@
+{
+  "id": "audi-adidas-a",
+  "clubId": "audi",
+  "orgName": null,
+  "sponsorId": "adidas-a",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Audi Revolut F1 Team – Partners",
+    "date": "2026-09-24",
+    "url": "https://www.audif1.com/en/partners"
+  },
+  "note": "Audi Revolut F1 Team other partner on the 2026 car."
+}

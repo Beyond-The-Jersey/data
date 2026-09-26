@@ -1,0 +1,14 @@
+{
+  "id": "ef-education-easypost",
+  "name": "EF Education-EasyPost",
+  "shortName": "EF Education",
+  "code": "EFE",
+  "sportId": "cycling",
+  "leagueId": "uci-worldtour",
+  "country": "United States",
+  "crest": "assets/crests/ef-education-easypost.png",
+  "aliases": [
+    "ef-education-first",
+    "ef-education"
+  ]
+}

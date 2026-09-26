@@ -1,0 +1,11 @@
+{
+  "id": "fuchsia-bakery",
+  "name": "Fuchsia Bakery",
+  "ownerId": null,
+  "ownership": null,
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": []
+}

@@ -1,0 +1,959 @@
+# Migration, 25 Sep 2026: one file per record
+
+`normalized/*.json` (at `5a8f8e1`) was split into `data/<type>/<id>.json` by `scripts/migrate_2026_09_25.py` (removed after it ran; it is in the commit that added this report). On the way it fixed what needs no new research from issue #279. Everything else is unchanged.
+
+| Records | Count |
+|---|---|
+| sports | 7 |
+| leagues | 16 |
+| clubs | 331 |
+| owners | 403 |
+| claims | 339 |
+| sponsors | 656 |
+| kits | 271 |
+| deals | 460 |
+| changes | 9 |
+| dropped | 10 |
+| contacts | 213 |
+
+## Seasons written YYYY-YY (52)
+
+- kits/atalanta-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/bologna-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/cagliari-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/como-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/fiorentina-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/frosinone-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/genoa-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/inter-milan-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/juventus-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/lecce-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/ac-milan-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/monza-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/napoli-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/parma-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/as-roma-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/sassuolo-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/torino-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/udinese-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/venezia-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/atlanta-united-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/austin-fc-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/charlotte-fc-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/chicago-fire-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/fc-cincinnati-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/colorado-rapids-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/columbus-crew-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/fc-dallas-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/dc-united-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/houston-dynamo-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/sporting-kansas-city-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/la-galaxy-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/los-angeles-fc-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/inter-miami-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/minnesota-united-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/cf-montreal-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/nashville-sc-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/new-england-revolution-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/new-york-red-bulls-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/new-york-city-fc-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/orlando-city-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/philadelphia-union-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/portland-timbers-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/real-salt-lake-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/san-diego-fc-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/san-jose-earthquakes-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/seattle-sounders-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/st-louis-city-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/toronto-fc-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/vancouver-whitecaps-2026-27-home: periodFrom and periodTo → 2026-27
+- kits/bayern-munich-2022-23-home: periodFrom and periodTo → 2022-23
+- kits/schalke-04-2021-22-home: periodFrom and periodTo → 2021-22
+- kits/lazio-2026-27-home: periodFrom and periodTo → 2026-27
+
+## Invented claims removed ("Inference based on company name", example.com) (29)
+
+- claims/acrisure-owner-record
+- claims/albert-owner-record
+- claims/ball-corporation-owner-record
+- claims/cleveland-cliffs-owner-record
+- claims/delta-air-lines-owner-record
+- claims/empower-owner-record
+- claims/fedex-owner-record
+- claims/foundation-building-materials-owner-record
+- claims/globe-life-globe-life-inc-owner-record
+- claims/hard-rock-international-owner-record
+- claims/ibotta-owner-record
+- claims/jefferson-health-owner-record
+- claims/ledger-owner-record
+- claims/loandepot-owner-record
+- claims/lumen-technologies-owner-record
+- claims/metlife-owner-record
+- claims/motorola-owner-record
+- claims/nintendo-owner-record
+- claims/nrg-energy-reliant-brand-owner-record
+- claims/paypal-owner-record
+- claims/quiktrip-owner-record
+- claims/rocket-rocket-companies-owner-record
+- claims/securian-financial-owner-record
+- claims/sofi-owner-record
+- claims/stifel-owner-record
+- claims/t-mobile-owner-record
+- claims/toyota-owner-record
+- claims/united-wholesale-mortgage-owner-record
+- claims/webull-owner-record
+
+## Sponsors back to unrated (their rating rested on an invented claim) (29)
+
+- sponsors/acrisure: was none (Owned by Acrisure LLC. Nothing found.); owner acrisure-owner dropped
+- sponsors/albert: was none (Owned by Albert LLC. Nothing found.); owner albert-owner dropped
+- sponsors/ball-corporation: was none (Owned by Ball Corporation. Nothing found.); owner ball-corporation-owner dropped
+- sponsors/cleveland-cliffs: was none (Owned by Cleveland-Cliffs LLC. Nothing found.); owner cleveland-cliffs-owner dropped
+- sponsors/delta-air-lines: was none (Owned by Delta Air Lines LLC. Nothing found.); owner delta-air-lines-owner dropped
+- sponsors/empower: was none (Owned by Empower LLC. Nothing found.); owner empower-owner dropped
+- sponsors/fedex: was none (Owned by FedEx LLC. Nothing found.); owner fedex-owner dropped
+- sponsors/foundation-building-materials: was none (Owned by Foundation Building Materials (FBM) LLC. Nothing found.); owner foundation-building-materials-owner dropped
+- sponsors/globe-life: was none (Owned by Globe Life (Globe Life Inc.). Nothing found.); owner globe-life-globe-life-inc-owner dropped
+- sponsors/hard-rock-international: was none (Owned by Hard Rock International LLC. Nothing found.); owner hard-rock-international-owner dropped
+- sponsors/ibotta: was none (Owned by Ibotta LLC. Nothing found.); owner ibotta-owner dropped
+- sponsors/jefferson-health: was none (Owned by Jefferson Health. Nothing found.); owner jefferson-health-owner dropped
+- sponsors/ledger: was none (Owned by Ledger LLC. Nothing found.); owner ledger-owner dropped
+- sponsors/loandepot: was none (Owned by loanDepot Corporation. Nothing found.); owner loandepot-owner dropped
+- sponsors/lumen-technologies: was none (Owned by Lumen Technologies Corporation. Nothing found.); owner lumen-technologies-owner dropped
+- sponsors/metlife: was none (Owned by MetLife LLC. Nothing found.); owner metlife-owner dropped
+- sponsors/motorola: was none (Owned by Motorola LLC. Nothing found.); owner motorola-owner dropped
+- sponsors/nintendo: was none (Owned by Nintendo (Nintendo of America) LLC. Nothing found.); owner nintendo-owner dropped
+- sponsors/nrg-energy: was none (Owned by NRG Energy (Reliant brand) LLC. Nothing found.); owner nrg-energy-reliant-brand-owner dropped
+- sponsors/paypal: was none (Owned by PayPal LLC. Nothing found.); owner paypal-owner dropped
+- sponsors/quiktrip: was none (Owned by QuikTrip LLC. Nothing found.); owner quiktrip-owner dropped
+- sponsors/rocket: was none (Owned by Rocket (Rocket Companies) LLC. Nothing found.); owner rocket-rocket-companies-owner dropped
+- sponsors/securian-financial: was none (Owned by Securian Financial Corporation. Nothing found.); owner securian-financial-owner dropped
+- sponsors/sofi: was none (Owned by SoFi LLC. Nothing found.); owner sofi-owner dropped
+- sponsors/stifel: was none (Owned by Stifel Financial Corporation. Nothing found.); owner stifel-owner dropped
+- sponsors/t-mobile: was none (Owned by T-Mobile LLC. Nothing found.); owner t-mobile-owner dropped
+- sponsors/toyota: was none (Owned by Toyota LLC. Nothing found.); owner toyota-owner dropped
+- sponsors/united-wholesale-mortgage: was none (Owned by United Wholesale Mortgage Corporation. Nothing found.); owner united-wholesale-mortgage-owner dropped
+- sponsors/webull: was none (Owned by Webull LLC. Nothing found.); owner webull-owner dropped
+
+## Claims that only restated a deal removed (the deal or kit record stays) (151)
+
+- claims/paze-2026: Paze (Early Warning Services) is the jersey patch partner of atlanta-hawks for 2026-27.
+- claims/state-farm-2026: State Farm is the arena naming-rights holder of atlanta-hawks for 2026-27.
+- claims/jpmorganchase-2026: JPMorganChase (Chase) is the jersey patch partner of dallas-mavericks for 2026-27.
+- claims/american-airlines-2026: American Airlines is the arena naming-rights holder of dallas-mavericks for 2026-27.
+- claims/albert-2026: Albert is the jersey patch partner of los-angeles-lakers for 2026-27.
+- claims/crypto-com-2026: Crypto.com is the arena naming-rights holder of los-angeles-lakers for 2026-27.
+- claims/experience-abu-dhabi-2026: Experience Abu Dhabi (Dept. of Culture and Tourism - Abu Dhabi) is the jersey patch partner of new-york-knicks for 2026-27.
+- claims/sutter-health-2026: Sutter Health is the jersey patch partner of sacramento-kings for 2026-27.
+- claims/golden-1-credit-union-2026: Golden 1 Credit Union is the arena naming-rights holder of sacramento-kings for 2026-27.
+- claims/att-2026: AT&T is the jersey patch partner of atlanta-falcons for 2026-27.
+- claims/mercedes-benz-2026: Mercedes-Benz is the arena naming-rights holder of atlanta-falcons for 2026-27.
+- claims/eaton-2026: Eaton Corporation is the jersey patch partner of cleveland-browns for 2026-27.
+- claims/huntington-national-bank-2026: Huntington National Bank (Huntington Bancshares) is the arena naming-rights holder of cleveland-browns for 2026-27.
+- claims/ascension-st-vincent-2026: Ascension St. Vincent's is the jersey patch partner of indianapolis-colts for 2026-27.
+- claims/lucas-oil-products-2026: Lucas Oil Products is the arena naming-rights holder of indianapolis-colts for 2026-27.
+- claims/u-s-bank-2026: U.S. Bank is the arena naming-rights holder of minnesota-vikings for 2026-27.
+- claims/acrisure-2026: Acrisure is the arena naming-rights holder of pittsburgh-steelers for 2026-27.
+- claims/avnet-2026: Avnet is the jersey patch partner of arizona-diamondbacks for 2026-27.
+- claims/jpmorgan-chase-2026: JPMorgan Chase (Chase) is the arena naming-rights holder of arizona-diamondbacks for 2026-27.
+- claims/cme-group-2026: CME Group is the jersey patch partner of chicago-white-sox for 2026-27.
+- claims/rate-2026: Rate (formerly Guaranteed Rate) is the arena naming-rights holder of chicago-white-sox for 2026-27.
+- claims/quiktrip-2026: QuikTrip is the jersey patch partner of kansas-city-royals for 2026-27.
+- claims/newyork-presbyterian-2026: NewYork-Presbyterian is the jersey patch partner of new-york-mets for 2026-27.
+- claims/citigroup-2026: Citigroup (Citi) is the arena naming-rights holder of new-york-mets for 2026-27.
+- claims/nintendo-2026: Nintendo (Nintendo of America) is the jersey patch partner of seattle-mariners for 2026-27.
+- claims/t-mobile-2026: T-Mobile is the arena naming-rights holder of seattle-mariners for 2026-27.
+- claims/amica-mutual-insurance-2026: Amica Mutual Insurance is the jersey patch partner of boston-celtics for 2026-27.
+- claims/td-bank-2026: TD Bank is the arena naming-rights holder of boston-celtics for 2026-27.
+- claims/ibotta-2026: Ibotta is the jersey patch partner of denver-nuggets for 2026-27.
+- claims/ball-corporation-2026: Ball Corporation is the arena naming-rights holder of denver-nuggets for 2026-27.
+- claims/robinhood-2026: Robinhood is the jersey patch partner of memphis-grizzlies for 2026-27.
+- claims/fedex-2026: FedEx is the arena naming-rights holder of memphis-grizzlies for 2026-27.
+- claims/loves-travel-stops-2026: Love's Travel Stops & Country Stores is the jersey patch partner of oklahoma-city-thunder for 2026-27.
+- claims/paycom-2026: Paycom is the arena naming-rights holder of oklahoma-city-thunder for 2026-27.
+- claims/ledger-2026: Ledger is the jersey patch partner of san-antonio-spurs for 2026-27.
+- claims/frost-bank-2026: Frost Bank is the arena naming-rights holder of san-antonio-spurs for 2026-27.
+- claims/perdue-farms-2026: Perdue Farms is the jersey patch partner of baltimore-ravens for 2026-27.
+- claims/m-and-t-bank-2026: M&T Bank is the arena naming-rights holder of baltimore-ravens for 2026-27.
+- claims/at-and-t-2026: AT&T is the arena naming-rights holder of dallas-cowboys for 2026-27.
+- claims/dream-finders-homes-2026: Dream Finders Homes is the jersey patch partner of jacksonville-jaguars for 2026-27.
+- claims/everbank-2026: EverBank is the arena naming-rights holder of jacksonville-jaguars for 2026-27.
+- claims/gillette-2026: Gillette is the jersey patch partner of new-england-patriots for 2026-27.
+- claims/us-bank-2026: U.S. Bank is the jersey patch partner of san-francisco-49ers for 2026-27.
+- claims/levi-strauss-and-co-2026: Levi Strauss & Co. (Levi's) is the arena naming-rights holder of san-francisco-49ers for 2026-27.
+- claims/lvcva-2026: Las Vegas Convention and Visitors Authority (LVCVA) - 'Las Vegas' patch is the jersey patch partner of athletics for 2026-27.
+- claims/kroger-2026: Kroger is the jersey patch partner of cincinnati-reds for 2026-27.
+- claims/great-american-insurance-2026: Great American Insurance is the arena naming-rights holder of cincinnati-reds for 2026-27.
+- claims/foundation-building-materials-2026: Foundation Building Materials (FBM) is the jersey patch partner of los-angeles-angels for 2026-27.
+- claims/starr-insurance-2026: Starr Insurance Companies is the jersey patch partner of new-york-yankees for 2026-27.
+- claims/stifel-2026: Stifel Financial is the jersey patch partner of st-louis-cardinals for 2026-27.
+- claims/anheuser-busch-2026: Anheuser-Busch is the arena naming-rights holder of st-louis-cardinals for 2026-27.
+- claims/all-in-won-2026: All In Won is the jersey patch partner of brooklyn-nets for 2026-27.
+- claims/barclays-2026: Barclays is the arena naming-rights holder of brooklyn-nets for 2026-27.
+- claims/stockx-2026: StockX is the jersey patch partner of detroit-pistons for 2026-27.
+- claims/little-caesars-2026: Little Caesars is the arena naming-rights holder of detroit-pistons for 2026-27.
+- claims/kaseya-2026: Kaseya is the arena naming-rights holder of miami-heat for 2026-27.
+- claims/walt-disney-world-2026: Walt Disney World Resort is the jersey patch partner of orlando-magic for 2026-27.
+- claims/kia-america-2026: Kia America is the arena naming-rights holder of orlando-magic for 2026-27.
+- claims/sun-life-2026: Sun Life is the jersey patch partner of toronto-raptors for 2026-27.
+- claims/scotiabank-2026: Scotiabank is the arena naming-rights holder of toronto-raptors for 2026-27.
+- claims/kaleida-health-2026: Kaleida Health is the jersey patch partner of buffalo-bills for 2026-27.
+- claims/highmark-2026: Highmark is the arena naming-rights holder of buffalo-bills for 2026-27.
+- claims/childrens-hospital-colorado-2026: Children's Hospital Colorado is the jersey patch partner of denver-broncos for 2026-27.
+- claims/empower-2026: Empower is the arena naming-rights holder of denver-broncos for 2026-27.
+- claims/burns-and-mcdonnell-2026: Burns & McDonnell is the jersey patch partner of kansas-city-chiefs for 2026-27.
+- claims/rouses-markets-2026: Rouses Markets is the jersey patch partner of new-orleans-saints for 2026-27.
+- claims/caesars-entertainment-2026: Caesars Entertainment is the arena naming-rights holder of new-orleans-saints for 2026-27.
+- claims/aws-2026: Amazon Web Services (AWS) is the jersey patch partner of seattle-seahawks for 2026-27.
+- claims/lumen-technologies-2026: Lumen Technologies is the arena naming-rights holder of seattle-seahawks for 2026-27.
+- claims/quikrete-2026: QUIKRETE is the jersey patch partner of atlanta-braves for 2026-27.
+- claims/truist-2026: Truist is the arena naming-rights holder of atlanta-braves for 2026-27.
+- claims/marathon-2026: Marathon is the jersey patch partner of cleveland-guardians for 2026-27.
+- claims/progressive-2026: Progressive is the arena naming-rights holder of cleveland-guardians for 2026-27.
+- claims/guggenheim-2026: Guggenheim Baseball Management is the jersey patch partner of los-angeles-dodgers for 2026-27.
+- claims/uniqlo-2026: UNIQLO is the arena naming-rights holder of los-angeles-dodgers for 2026-27.
+- claims/independence-blue-cross-2026: Independence Blue Cross (IBX) is the jersey patch partner of philadelphia-phillies for 2026-27.
+- claims/citizens-bank-2026: Citizens Bank (Citizens Financial Group) is the arena naming-rights holder of philadelphia-phillies for 2026-27.
+- claims/webull-2026: Webull is the jersey patch partner of tampa-bay-rays for 2026-27.
+- claims/tropicana-2026: Tropicana (Tropicana Brands Group) is the arena naming-rights holder of tampa-bay-rays for 2026-27.
+- claims/judi-health-2026: Judi Health is the jersey patch partner of charlotte-hornets for 2026-27.
+- claims/spectrum-2026: Spectrum (Charter Communications) is the arena naming-rights holder of charlotte-hornets for 2026-27.
+- claims/iren-2026: IREN (IREN Ltd, AI cloud infrastructure) is the jersey patch partner of golden-state-warriors for 2026-27.
+- claims/uline-2026: Uline is the jersey patch partner of milwaukee-bucks for 2026-27.
+- claims/fiserv-2026: Fiserv is the arena naming-rights holder of milwaukee-bucks for 2026-27.
+- claims/xfinity-mobile-2026: Xfinity Mobile (Comcast) is the arena naming-rights holder of philadelphia-76ers for 2026-27.
+- claims/healthequity-2026: HealthEquity is the jersey patch partner of utah-jazz for 2026-27.
+- claims/delta-air-lines-2026: Delta Air Lines is the arena naming-rights holder of utah-jazz for 2026-27.
+- claims/atrium-health-2026: Atrium Health is the jersey patch partner of carolina-panthers for 2026-27.
+- claims/bank-of-america-2026: Bank of America is the arena naming-rights holder of carolina-panthers for 2026-27.
+- claims/meijer-2026: Meijer is the jersey patch partner of detroit-lions for 2026-27.
+- claims/ford-motor-company-2026: Ford Motor Company is the arena naming-rights holder of detroit-lions for 2026-27.
+- claims/allegiant-travel-company-2026: Allegiant Travel Company is the arena naming-rights holder of las-vegas-raiders for 2026-27.
+- claims/quest-diagnostics-2026: Quest Diagnostics is the jersey patch partner of new-york-giants for 2026-27.
+- claims/metlife-2026: MetLife (Metropolitan Life Insurance) is the arena naming-rights holder of new-york-giants for 2026-27.
+- claims/fifth-third-bank-2026: Fifth Third Bank is the jersey patch partner of tampa-bay-buccaneers for 2026-27.
+- claims/raymond-james-financial-2026: Raymond James Financial is the arena naming-rights holder of tampa-bay-buccaneers for 2026-27.
+- claims/t-rowe-price-2026: T. Rowe Price is the jersey patch partner of baltimore-orioles for 2026-27.
+- claims/york-space-systems-2026: York Space Systems is the jersey patch partner of colorado-rockies for 2026-27.
+- claims/coors-brewing-co-2026: Coors Brewing Co. (Molson Coors) is the arena naming-rights holder of colorado-rockies for 2026-27.
+- claims/adt-2026: ADT is the jersey patch partner of miami-marlins for 2026-27.
+- claims/loandepot-2026: loanDepot is the arena naming-rights holder of miami-marlins for 2026-27.
+- claims/sheetz-2026: Sheetz is the jersey patch partner of pittsburgh-pirates for 2026-27.
+- claims/pnc-bank-2026: PNC Bank (PNC Financial Services) is the arena naming-rights holder of pittsburgh-pirates for 2026-27.
+- claims/energy-transfer-2026: Energy Transfer is the jersey patch partner of texas-rangers for 2026-27.
+- claims/globe-life-2026: Globe Life (Globe Life Inc.) is the arena naming-rights holder of texas-rangers for 2026-27.
+- claims/motorola-mobility-2026: Motorola Mobility is the jersey patch partner of chicago-bulls for 2026-27.
+- claims/united-airlines-2026: United Airlines is the arena naming-rights holder of chicago-bulls for 2026-27.
+- claims/memorial-hermann-2026: Memorial Hermann Health System is the jersey patch partner of houston-rockets for 2026-27.
+- claims/toyota-2026: Toyota is the arena naming-rights holder of houston-rockets for 2026-27.
+- claims/sezzle-2026: Sezzle is the jersey patch partner of minnesota-timberwolves for 2026-27.
+- claims/target-2026: Target is the arena naming-rights holder of minnesota-timberwolves for 2026-27.
+- claims/paypal-2026: PayPal is the jersey patch partner of phoenix-suns for 2026-27.
+- claims/united-wholesale-mortgage-2026: United Wholesale Mortgage is the arena naming-rights holder of phoenix-suns for 2026-27.
+- claims/capital-one-2026: Capital One is the arena naming-rights holder of washington-wizards for 2026-27.
+- claims/advocate-health-care-2026: Advocate Health Care is the jersey patch partner of chicago-bears for 2026-27.
+- claims/uw-health-2026: UW Health is the jersey patch partner of green-bay-packers for 2026-27.
+- claims/ucla-health-2026: UCLA Health is the jersey patch partner of los-angeles-chargers for 2026-27.
+- claims/sofi-2026: SoFi is the arena naming-rights holder of los-angeles-chargers for 2026-27.
+- claims/atlantic-health-2026: Atlantic Health is the jersey patch partner of new-york-jets for 2026-27.
+- claims/nissan-2026: Nissan is the arena naming-rights holder of tennessee-titans for 2026-27.
+- claims/massmutual-2026: MassMutual is the jersey patch partner of boston-red-sox for 2026-27.
+- claims/northwestern-mutual-2026: Northwestern Mutual is the jersey patch partner of milwaukee-brewers for 2026-27.
+- claims/american-family-insurance-2026: American Family Insurance is the arena naming-rights holder of milwaukee-brewers for 2026-27.
+- claims/motorola-2026: Motorola is the jersey patch partner of san-diego-padres for 2026-27.
+- claims/petco-2026: Petco is the arena naming-rights holder of san-diego-padres for 2026-27.
+- claims/rogers-communications-2026: Rogers Communications is the arena naming-rights holder of toronto-blue-jays for 2026-27.
+- claims/cleveland-cliffs-2026: Cleveland-Cliffs is the jersey patch partner of cleveland-cavaliers for 2026-27.
+- claims/rocket-2026: Rocket (Rocket Companies) is the arena naming-rights holder of cleveland-cavaliers for 2026-27.
+- claims/lucas-oil-2026: Lucas Oil is the jersey patch partner of indiana-pacers for 2026-27.
+- claims/gainbridge-2026: Gainbridge (Group 1001) is the arena naming-rights holder of indiana-pacers for 2026-27.
+- claims/newage-products-2026: NewAge Products is the jersey patch partner of new-orleans-pelicans for 2026-27.
+- claims/smoothie-king-2026: Smoothie King is the arena naming-rights holder of new-orleans-pelicans for 2026-27.
+- claims/moda-health-2026: Moda Health is the arena naming-rights holder of portland-trail-blazers for 2026-27.
+- claims/desert-financial-credit-union-2026: Desert Financial Credit Union is the jersey patch partner of arizona-cardinals for 2026-27.
+- claims/paycor-2026: Paycor is the arena naming-rights holder of cincinnati-bengals for 2026-27.
+- claims/xfinity-2026: Xfinity (also Houston Methodist on some jerseys) is the jersey patch partner of houston-texans for 2026-27.
+- claims/nrg-energy-2026: NRG Energy (Reliant brand) is the arena naming-rights holder of houston-texans for 2026-27.
+- claims/baptist-health-2026: Baptist Health is the jersey patch partner of miami-dolphins for 2026-27.
+- claims/hard-rock-international-2026: Hard Rock International is the arena naming-rights holder of miami-dolphins for 2026-27.
+- claims/jefferson-health-2026: Jefferson Health is the jersey patch partner of philadelphia-eagles for 2026-27.
+- claims/lincoln-financial-group-2026: Lincoln Financial Group is the arena naming-rights holder of philadelphia-eagles for 2026-27.
+- claims/northwest-federal-credit-union-2026: Northwest Federal Credit Union is the jersey patch partner of washington-commanders for 2026-27.
+- claims/occidental-petroleum-2026: Occidental Petroleum (Oxy) is the jersey patch partner of houston-astros for 2026-27.
+- claims/daikin-comfort-technologies-2026: Daikin Comfort Technologies is the arena naming-rights holder of houston-astros for 2026-27.
+- claims/securian-financial-2026: Securian Financial is the jersey patch partner of minnesota-twins for 2026-27.
+- claims/airwallex-2026: Airwallex is the jersey patch partner of san-francisco-giants for 2026-27.
+- claims/oracle-2026: Oracle is the arena naming-rights holder of san-francisco-giants for 2026-27.
+- claims/aarp-2026: AARP is the jersey patch partner of washington-nationals for 2026-27.
+- claims/visit-rwanda-2026: Visit Rwanda (Rwanda Development Board) is the jersey patch partner of la-clippers for 2026-27.
+- claims/intuit-2026: Intuit (Intuit Inc., Nasdaq: INTU) is the arena naming-rights holder of la-clippers for 2026-27.
+- claims/hyundai-2026: Hyundai (Hyundai Motor America) is the jersey patch partner of la-rams for 2026-27.
+
+## Owners nothing refers to removed (85)
+
+- owners/acrisure-owner (Acrisure LLC): invented stub
+- owners/agnelli-elkann (Agnelli/Elkann family): no sponsor or claim refers to it
+- owners/airbnb-inc (Airbnb, Inc.): no sponsor or claim refers to it
+- owners/albert-owner (Albert LLC): invented stub
+- owners/aston-martin-lagonda (Aston Martin Lagonda Global Holdings plc): no sponsor or claim refers to it
+- owners/audi-ag (Audi AG): no sponsor or claim refers to it
+- owners/ball-corporation-owner (Ball Corporation): invented stub
+- owners/blockratize (Blockratize, Inc. (dba Polymarket)): no sponsor or claim refers to it
+- owners/celer-lighting (Celer Lighting): no sponsor or claim refers to it
+- owners/city-football-group (City Football Group): no sponsor or claim refers to it
+- owners/cleveland-cliffs-owner (Cleveland-Cliffs LLC): invented stub
+- owners/corendon-airlines (Corendon Airlines): no sponsor or claim refers to it
+- owners/cyvn (CYVN Holdings): no sponsor or claim refers to it
+- owners/dan-towriss (Dan Towriss): no sponsor or claim refers to it
+- owners/delta-air-lines-owner (Delta Air Lines LLC): invented stub
+- owners/deutsche-telekom-ag (Deutsche Telekom AG): no sponsor or claim refers to it
+- owners/empower-owner (Empower LLC): invented stub
+- owners/fedex-corporation (FedEx Corporation): no sponsor or claim refers to it
+- owners/fedex-owner (FedEx LLC): invented stub
+- owners/flexicar (Flexicar): no sponsor or claim refers to it
+- owners/foundation-building-materials-owner (Foundation Building Materials (FBM) LLC): invented stub
+- owners/general-motors (General Motors): no sponsor or claim refers to it
+- owners/george-kurtz (George Kurtz): no sponsor or claim refers to it
+- owners/globe-life-globe-life-inc-owner (Globe Life (Globe Life Inc.)): invented stub
+- owners/gree-electric (Gree Electric Appliances): no sponsor or claim refers to it
+- owners/haas-automation (Haas Automation): no sponsor or claim refers to it
+- owners/haas-formula (Haas Formula LLC): no sponsor or claim refers to it
+- owners/haier-group (Haier Group Corporation): no sponsor or claim refers to it
+- owners/halo-service-management (Halo Service Solutions): no sponsor or claim refers to it
+- owners/hansemerkur (HanseMerkur Versicherungsgruppe): no sponsor or claim refers to it
+- owners/hard-rock-international-owner (Hard Rock International LLC): invented stub
+- owners/ibotta-owner (Ibotta LLC): invented stub
+- owners/ineos (INEOS Industries Holdings): no sponsor or claim refers to it
+- owners/jefferson-health-owner (Jefferson Health): invented stub
+- owners/koemmerling-kunststoffe (Koemmerling Kunststoffe): no sponsor or claim refers to it
+- owners/kosner (Kosner): no sponsor or claim refers to it
+- owners/kutxabank (Kutxabank): no sponsor or claim refers to it
+- owners/lawrence-stroll (Lawrence Stroll): no sponsor or claim refers to it
+- owners/lbbw (Landesbank Baden-Wuerttemberg): no sponsor or claim refers to it
+- owners/ledger-owner (Ledger LLC): invented stub
+- owners/lexware-gmbh (Lexware (Haufe Group)): no sponsor or claim refers to it
+- owners/loandepot-owner (loanDepot Corporation): invented stub
+- owners/lumen-technologies-owner (Lumen Technologies Corporation): invented stub
+- owners/malaga-turismo (Malaga Turismo): no sponsor or claim refers to it
+- owners/mark-mateschitz (Mark Mateschitz): no sponsor or claim refers to it
+- owners/matthaei-bau (Matthaei Bauunternehmung): no sponsor or claim refers to it
+- owners/metlife-owner (MetLife LLC): invented stub
+- owners/mk-tiyu-news (MK TIYU News): no sponsor or claim refers to it
+- owners/motorola-owner (Motorola LLC): invented stub
+- owners/nintendo-owner (Nintendo (Nintendo of America) LLC): invented stub
+- owners/nrg-energy-reliant-brand-owner (NRG Energy (Reliant brand) LLC): invented stub
+- owners/otro-capital (Otro Capital): no sponsor or claim refers to it
+- owners/pamesa-ceramica (Pamesa Ceramica): no sponsor or claim refers to it
+- owners/paypal-owner (PayPal LLC): invented stub
+- owners/piero-ferrari (Piero Ferrari): no sponsor or claim refers to it
+- owners/plenitude-eni (Plenitude (Eni)): no sponsor or claim refers to it
+- owners/quiktrip-owner (QuikTrip LLC): invented stub
+- owners/raisin-ds (Raisin DS): no sponsor or claim refers to it
+- owners/red-bull-racing-limited (Red Bull Racing Limited): no sponsor or claim refers to it
+- owners/rocket-rocket-companies-owner (Rocket (Rocket Companies) LLC): invented stub
+- owners/sabor-a-malaga (Sabor a Malaga): no sponsor or claim refers to it
+- owners/securian-financial-owner (Securian Financial Corporation): invented stub
+- owners/shaikh-nasser-bin-hamad-al-khalifa (Shaikh Nasser bin Hamad Al Khalifa): no sponsor or claim refers to it
+- owners/sofi-owner (SoFi LLC): invented stub
+- owners/stifel-owner (Stifel Financial Corporation): invented stub
+- owners/surj-sports-investment (SURJ Sports Investment): no sponsor or claim refers to it
+- owners/t-mobile-owner (T-Mobile LLC): invented stub
+- owners/tecnocasa-group (Tecnocasa Group): no sponsor or claim refers to it
+- owners/tm-real-estate-group (TM Real Estate Group): no sponsor or claim refers to it
+- owners/toto-wolff (Toto Wolff): no sponsor or claim refers to it
+- owners/toyota-owner (Toyota LLC): invented stub
+- owners/united-wholesale-mortgage-owner (United Wholesale Mortgage Corporation): invented stub
+- owners/vodafone-group (Vodafone Group): no sponsor or claim refers to it
+- owners/webull-owner (Webull LLC): invented stub
+- owners/williams-grand-prix-engineering (Williams Grand Prix Engineering Ltd): no sponsor or claim refers to it
+- owners/wwk-versicherungen (WWK Versicherungen): no sponsor or claim refers to it
+- owners/xrg (XRG (international energy and chemicals investment company)): no sponsor or claim refers to it
+- owners/yoovidhya-family (Yoovidhya family): no sponsor or claim refers to it
+- owners/dorilton (Dorilton Capital): no sponsor or claim refers to it
+- owners/exor-nv (Exor N.V.): no sponsor or claim refers to it
+- owners/ferrari-nv (Ferrari N.V.): no sponsor or claim refers to it
+- owners/gene-haas (Gene Haas): no sponsor or claim refers to it
+- owners/motorsport-invest (Motorsport Invest Limited): no sponsor or claim refers to it
+- owners/yew-tree (Yew Tree Consortium): no sponsor or claim refers to it
+- owners/amr-gp (AMR GP Limited): no sponsor or claim refers to it
+
+## Rating commentary removed from claims (facts kept) (6)
+
+- claims/gov-saudi-arabia-record: "The Saudi state's documented record (a record 345 executions in 2024; drug-offence executions continuing through 2026) makes this serious - severe is reserved for live armed conflict."
+- claims/pif-record: ", so it carries the same Saudi state money as Aramco and the same serious rating."
+- claims/gov-qatar-record: "Qatar's documented record - migrant workers still exposed to exploitation despite kafala reform, expression and assembly tightly restricted - rates serious."
+- claims/state-of-qatar-qia-record: "The F1 global partnership is therefore effectively Gulf state money, which the method places at 'serious' absent live armed conflict."
+- claims/gov-malaysia-record: "is documented, so serious rather than concern."
+- claims/mubadala-record: "- UAE state money, rated serious on the UAE's upheld unfair mass-trial convictions."
+
+## Dead or private links removed (the source stays) (30)
+
+- claims/saudi-executions-2024: https://www.amnesty.org/en/documents/act50/8800/2025/en/
+- claims/advocate-health-care-owner-record: https://www.advocatehealth.org/about-us
+- claims/highmark-owner-record: https://www.highmarkhealth.org/about-us/index.shtml
+- claims/kaleida-health-owner-record: https://www.kaleidahealth.org/about-us
+- claims/kutxabank-sa-record: https://www.kutxabank.eus/cs/Satellite?blobcol=urldata&blobheadername1=Expires&blobheadervalue4=inline%3B++filename%3D%22Inf+Semestral+KB+consol+30-06-2024_EN.PDF%22
+- claims/mastercard-inc-record: https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/ma-20251231.pdf
+- claims/northwest-federal-credit-union-owner-record: https://nwfcu.org/about-us
+- claims/stockx-owner-record: https://bitget.com/wiki/who-owns-stock-x
+- claims/t-rowe-price-owner-record: https://www.sec.gov/Archives/edgar/data/267210/000032081212000031/troweprice-20200930.htm
+- deals/haas-uralkali: https://www.formula1.com/en/latest/article.haas-part-ways-with-title-sponsor-uralkali.4k1m4eFTTTRHEbDwKjHkOs.html
+- kits/monza-2026-27-home: https://www.acmonza.com/en/news/DAZN-Bet-Club-Official-Sponsor-Jersey
+- kits/new-york-red-bulls-2026-27-home: https://www.newyorkredbulls.com/club/partners
+- kits/stade-brestois-29-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
+- kits/abha-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
+- kits/al-ettifaq-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
+- kits/al-ettifaq-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
+- kits/al-fateh-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
+- kits/al-fayha-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
+- kits/al-hazem-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
+- kits/al-ittihad-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
+- kits/al-khaleej-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
+- kits/al-kholood-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
+- kits/al-qadsiah-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
+- kits/al-riyadh-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
+- kits/al-shabab-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
+- kits/al-taawoun-2026-27-home: https://github.com/Beyond-The-Jersey/data/issues/243
+- contacts/fc-dallas: contact-form https://www.fcdallas.com/contact-us
+- contacts/fc-dallas: email customerservice@fcdallas.com
+- contacts/fc-dallas: phone +1 214-705-6700
+- contacts/red-bull-racing: contact-form https://www.redbullracing.com/int-en/club/contacto
+
+## Deal start dates cleared (the source is years older than the start) (76)
+
+- deals/atlanta-hawks-state-farm-stadium: from 2026, source 2018-08-29
+- deals/dallas-mavericks-american-airlines-stadium: from 2026, source 1999-03-18
+- deals/los-angeles-lakers-crypto-com-stadium: from 2026, source 2021-11-17
+- deals/sacramento-kings-golden-1-credit-union-stadium: from 2026, source 2015-06-16
+- deals/atlanta-falcons-mercedes-benz-stadium: from 2026, source 2015-08-24
+- deals/cleveland-browns-huntington-national-bank-stadium: from 2026, source 2024-09-03
+- deals/indianapolis-colts-lucas-oil-products-stadium: from 2026, source 2006-02-28
+- deals/minnesota-vikings-u-s-bank-stadium: from 2026, source 2015-06-15
+- deals/pittsburgh-steelers-acrisure-stadium: from 2026, source 2022-07-12
+- deals/chicago-white-sox-rate-stadium: from 2026, source 2024-12-18
+- deals/new-york-mets-citigroup-stadium: from 2026, source 2006-11-14
+- deals/seattle-mariners-t-mobile-stadium: from 2026, source 2018-12-19
+- deals/boston-celtics-td-bank-stadium: from 2026, source 2023-01-12
+- deals/denver-nuggets-ball-corporation-stadium: from 2026, source 2020-10-22
+- deals/oklahoma-city-thunder-paycom-stadium: from 2026, source 2021-07-27
+- deals/san-antonio-spurs-frost-bank-stadium: from 2026, source 2023-09-22
+- deals/baltimore-ravens-m-and-t-bank-stadium: from 2026, source 2023-04-20
+- deals/dallas-cowboys-at-and-t-stadium: from 2026, source 2013-07-25
+- deals/jacksonville-jaguars-everbank-stadium: from 2026, source 2024-05-17
+- deals/new-england-patriots-gillette-stadium: from 2026, source 2010-09-22
+- deals/san-francisco-49ers-levi-strauss-and-co-stadium: from 2026, source 2024-01-25
+- deals/athletics-sutter-health-stadium: from 2026, source 2024-04-04
+- deals/cincinnati-reds-great-american-insurance-stadium: from 2026, source 2023-01-01
+- deals/st-louis-cardinals-anheuser-busch-stadium: from 2026, source 2023-12-13
+- deals/brooklyn-nets-barclays-stadium: from 2026, source 2007-01-18
+- deals/detroit-pistons-little-caesars-stadium: from 2026, source 2016-04-28
+- deals/miami-heat-kaseya-stadium: from 2026, source 2023-04-04
+- deals/orlando-magic-kia-america-stadium: from 2026, source 2023-12-20
+- deals/toronto-raptors-scotiabank-stadium: from 2026, source 2017-08-29
+- deals/buffalo-bills-highmark-stadium: from 2026, source 2023-06-05
+- deals/denver-broncos-empower-stadium: from 2026, source 2019-09-06
+- deals/new-orleans-saints-caesars-entertainment-stadium: from 2026, source 2021-07-26
+- deals/seattle-seahawks-lumen-technologies-stadium: from 2026, source 2020-11-19
+- deals/atlanta-braves-truist-stadium: from 2026, source 2020-01-14
+- deals/cleveland-guardians-progressive-stadium: from 2026, source 2024-04-03
+- deals/philadelphia-phillies-citizens-bank-stadium: from 2026, source 2003-06-17
+- deals/charlotte-hornets-spectrum-stadium: from 2026, source 2016-08-17
+- deals/golden-state-warriors-jpmorgan-chase-stadium: from 2026, source 2016-01-28
+- deals/milwaukee-bucks-fiserv-stadium: from 2026, source 2018-07-26
+- deals/utah-jazz-delta-air-lines-stadium: from 2026, source 2023-01-14
+- deals/las-vegas-raiders-allegiant-travel-company-stadium: from 2026, source 2019-08-05
+- deals/tampa-bay-buccaneers-raymond-james-financial-stadium: from 2026, source 2016-05-31
+- deals/colorado-rockies-coors-brewing-co-stadium: from 2026, source 2018-05-01
+- deals/miami-marlins-loandepot-stadium: from 2026, source 2021-03-31
+- deals/pittsburgh-pirates-pnc-bank-stadium: from 2026, source 2021-03-04
+- deals/texas-rangers-globe-life-stadium: from 2026, source 2017-08-24
+- deals/chicago-bulls-united-airlines-stadium: from 2026, source 2013-12-11
+- deals/los-angeles-chargers-sofi-stadium: from 2026, source 2019-09-15
+- deals/tennessee-titans-nissan-stadium: from 2026, source 2023-11-17
+- deals/milwaukee-brewers-american-family-insurance-stadium: from 2026, source 2020-01-22
+- deals/san-diego-padres-petco-stadium: from 2026, source 2021-03-08
+- deals/toronto-blue-jays-rogers-communications-stadium: from 2026, source 2005-02-03
+- deals/indiana-pacers-gainbridge-stadium: from 2026, source 2021-09-27
+- deals/new-orleans-pelicans-smoothie-king-stadium: from 2026, source 2023-12-26
+- deals/portland-trail-blazers-moda-health-stadium: from 2026, source 2013-08-13
+- deals/arizona-cardinals-state-farm-stadium: from 2026, source 2018-09-04
+- deals/cincinnati-bengals-paycor-stadium: from 2026, source 2022-08-09
+- deals/miami-dolphins-hard-rock-international-stadium: from 2026, source 2016-08-17
+- deals/philadelphia-eagles-lincoln-financial-group-stadium: from 2026, source 2019-05-09
+- deals/washington-commanders-northwest-federal-credit-union-stadium: from 2026, source 2024-08-27
+- deals/houston-astros-daikin-comfort-technologies-stadium: from 2026, source 2024-11-18
+- deals/minnesota-twins-target-stadium: from 2026, source 2008-09-15
+- deals/san-francisco-giants-oracle-stadium: from 2026, source 2019-01-10
+- deals/la-clippers-intuit-stadium: from 2026, source 2021-09-17
+- deals/la-rams-sofi-stadium: from 2026, source 2019-09-15
+- deals/red-bull-racing-att: from 2026, source 2024-06-06
+- deals/ferrari-hp: from 2026, source 2024-04-24
+- deals/mercedes-petronas: from 2026, source 2022-09-28
+- deals/mercedes-crowdstrike: from 2026, source 2019-02-07
+- deals/mercedes-g42: from 2026, source 2023-02-15
+- deals/mclaren-google: from 2026, source 2024-02-26
+- deals/mclaren-okx: from 2026, source 2023
+- deals/aston-martin-aramco: from 2026, source 2022-02-03
+- deals/aston-martin-coinbase: from 2026, source 2023-11-16
+- deals/formula-1-qatar-airways-global: from 2026, source 2023-02-22
+- deals/formula-1-dhl: from 2026, source 2024-11-25
+
+## Kit image references removed (Wikipedia kit templates, dropped from the website) (438)
+
+- kits/manchester-city-2026-27-home: back
+- kits/manchester-city-2026-27-home: front
+- kits/newcastle-united-2026-27-home: back
+- kits/newcastle-united-2026-27-home: front
+- kits/brighton-and-hove-albion-2026-27-home: back
+- kits/brighton-and-hove-albion-2026-27-home: front
+- kits/real-madrid-2026-27-home: back
+- kits/real-madrid-2026-27-home: front
+- kits/afc-bournemouth-2026-27-home: back
+- kits/afc-bournemouth-2026-27-home: front
+- kits/brentford-2026-27-home: back
+- kits/brentford-2026-27-home: front
+- kits/crystal-palace-2026-27-home: back
+- kits/crystal-palace-2026-27-home: front
+- kits/fulham-2026-27-home: back
+- kits/fulham-2026-27-home: front
+- kits/everton-2026-27-home: back
+- kits/everton-2026-27-home: front
+- kits/nottingham-forest-2026-27-home: back
+- kits/nottingham-forest-2026-27-home: front
+- kits/coventry-city-2026-27-home: back
+- kits/coventry-city-2026-27-home: front
+- kits/liverpool-2026-27-home: back
+- kits/liverpool-2026-27-home: front
+- kits/manchester-united-2026-27-home: back
+- kits/manchester-united-2026-27-home: front
+- kits/tottenham-hotspur-2026-27-home: back
+- kits/tottenham-hotspur-2026-27-home: front
+- kits/chelsea-2026-27-home: back
+- kits/chelsea-2026-27-home: front
+- kits/hull-city-2026-27-home: back
+- kits/hull-city-2026-27-home: front
+- kits/ipswich-town-2026-27-home: back
+- kits/ipswich-town-2026-27-home: front
+- kits/leeds-united-2026-27-home: back
+- kits/leeds-united-2026-27-home: front
+- kits/athletic-club-2026-27-home: back
+- kits/athletic-club-2026-27-home: front
+- kits/athletic-club-2026-27-home: square
+- kits/osasuna-2026-27-home: back
+- kits/osasuna-2026-27-home: front
+- kits/osasuna-2026-27-home: square
+- kits/celta-vigo-2026-27-home: back
+- kits/celta-vigo-2026-27-home: front
+- kits/celta-vigo-2026-27-home: square
+- kits/deportivo-alaves-2026-27-home: back
+- kits/deportivo-alaves-2026-27-home: front
+- kits/deportivo-alaves-2026-27-home: square
+- kits/elche-2026-27-home: back
+- kits/elche-2026-27-home: front
+- kits/elche-2026-27-home: square
+- kits/barcelona-2026-27-home: back
+- kits/barcelona-2026-27-home: front
+- kits/barcelona-2026-27-home: square
+- kits/getafe-2026-27-home: back
+- kits/getafe-2026-27-home: front
+- kits/getafe-2026-27-home: square
+- kits/levante-2026-27-home: back
+- kits/levante-2026-27-home: front
+- kits/levante-2026-27-home: square
+- kits/malaga-2026-27-home: back
+- kits/malaga-2026-27-home: front
+- kits/malaga-2026-27-home: square
+- kits/racing-santander-2026-27-home: back
+- kits/racing-santander-2026-27-home: front
+- kits/racing-santander-2026-27-home: square
+- kits/rayo-vallecano-2026-27-home: back
+- kits/rayo-vallecano-2026-27-home: front
+- kits/rayo-vallecano-2026-27-home: square
+- kits/deportivo-la-coruna-2026-27-home: back
+- kits/deportivo-la-coruna-2026-27-home: front
+- kits/deportivo-la-coruna-2026-27-home: square
+- kits/espanyol-2026-27-home: back
+- kits/espanyol-2026-27-home: front
+- kits/espanyol-2026-27-home: square
+- kits/real-betis-2026-27-home: back
+- kits/real-betis-2026-27-home: front
+- kits/real-betis-2026-27-home: square
+- kits/real-sociedad-2026-27-home: back
+- kits/real-sociedad-2026-27-home: front
+- kits/real-sociedad-2026-27-home: square
+- kits/sevilla-2026-27-home: back
+- kits/sevilla-2026-27-home: front
+- kits/sevilla-2026-27-home: square
+- kits/valencia-2026-27-home: back
+- kits/valencia-2026-27-home: front
+- kits/valencia-2026-27-home: square
+- kits/villarreal-2026-27-home: back
+- kits/villarreal-2026-27-home: front
+- kits/villarreal-2026-27-home: square
+- kits/fc-augsburg-2026-27-home: back
+- kits/fc-augsburg-2026-27-home: front
+- kits/fc-augsburg-2026-27-home: square
+- kits/union-berlin-2026-27-home: back
+- kits/union-berlin-2026-27-home: front
+- kits/union-berlin-2026-27-home: square
+- kits/werder-bremen-2026-27-home: back
+- kits/werder-bremen-2026-27-home: front
+- kits/werder-bremen-2026-27-home: square
+- kits/borussia-dortmund-2026-27-home: back
+- kits/borussia-dortmund-2026-27-home: front
+- kits/borussia-dortmund-2026-27-home: square
+- kits/sv-elversberg-2026-27-home: back
+- kits/sv-elversberg-2026-27-home: front
+- kits/sv-elversberg-2026-27-home: square
+- kits/eintracht-frankfurt-2026-27-home: back
+- kits/eintracht-frankfurt-2026-27-home: front
+- kits/eintracht-frankfurt-2026-27-home: square
+- kits/sc-freiburg-2026-27-home: back
+- kits/sc-freiburg-2026-27-home: front
+- kits/sc-freiburg-2026-27-home: square
+- kits/hamburger-sv-2026-27-home: back
+- kits/hamburger-sv-2026-27-home: front
+- kits/hamburger-sv-2026-27-home: square
+- kits/tsg-hoffenheim-2026-27-home: back
+- kits/tsg-hoffenheim-2026-27-home: front
+- kits/tsg-hoffenheim-2026-27-home: square
+- kits/fc-koln-2026-27-home: back
+- kits/fc-koln-2026-27-home: front
+- kits/fc-koln-2026-27-home: square
+- kits/rb-leipzig-2026-27-home: back
+- kits/rb-leipzig-2026-27-home: front
+- kits/rb-leipzig-2026-27-home: square
+- kits/bayer-leverkusen-2026-27-home: back
+- kits/bayer-leverkusen-2026-27-home: front
+- kits/bayer-leverkusen-2026-27-home: square
+- kits/mainz-05-2026-27-home: back
+- kits/mainz-05-2026-27-home: front
+- kits/mainz-05-2026-27-home: square
+- kits/borussia-monchengladbach-2026-27-home: back
+- kits/borussia-monchengladbach-2026-27-home: front
+- kits/borussia-monchengladbach-2026-27-home: square
+- kits/sc-paderborn-07-2026-27-home: back
+- kits/sc-paderborn-07-2026-27-home: front
+- kits/sc-paderborn-07-2026-27-home: square
+- kits/vfb-stuttgart-2026-27-home: back
+- kits/vfb-stuttgart-2026-27-home: front
+- kits/vfb-stuttgart-2026-27-home: square
+- kits/bayern-munich-2026-27-home: back
+- kits/bayern-munich-2026-27-home: front
+- kits/bayern-munich-2026-27-home: square
+- kits/schalke-04-2026-27-home: back
+- kits/schalke-04-2026-27-home: front
+- kits/schalke-04-2026-27-home: square
+- kits/atalanta-2026-27-home: back
+- kits/atalanta-2026-27-home: front
+- kits/atalanta-2026-27-home: square
+- kits/bologna-2026-27-home: back
+- kits/bologna-2026-27-home: front
+- kits/bologna-2026-27-home: square
+- kits/cagliari-2026-27-home: back
+- kits/cagliari-2026-27-home: front
+- kits/cagliari-2026-27-home: square
+- kits/como-2026-27-home: back
+- kits/como-2026-27-home: front
+- kits/como-2026-27-home: square
+- kits/fiorentina-2026-27-home: back
+- kits/fiorentina-2026-27-home: front
+- kits/fiorentina-2026-27-home: square
+- kits/genoa-2026-27-home: back
+- kits/genoa-2026-27-home: front
+- kits/genoa-2026-27-home: square
+- kits/inter-milan-2026-27-home: back
+- kits/inter-milan-2026-27-home: front
+- kits/inter-milan-2026-27-home: square
+- kits/juventus-2026-27-home: back
+- kits/juventus-2026-27-home: front
+- kits/juventus-2026-27-home: square
+- kits/lecce-2026-27-home: back
+- kits/lecce-2026-27-home: front
+- kits/lecce-2026-27-home: square
+- kits/ac-milan-2026-27-home: back
+- kits/ac-milan-2026-27-home: front
+- kits/ac-milan-2026-27-home: square
+- kits/monza-2026-27-home: back
+- kits/monza-2026-27-home: front
+- kits/monza-2026-27-home: square
+- kits/napoli-2026-27-home: back
+- kits/napoli-2026-27-home: front
+- kits/napoli-2026-27-home: square
+- kits/parma-2026-27-home: back
+- kits/parma-2026-27-home: front
+- kits/parma-2026-27-home: square
+- kits/as-roma-2026-27-home: back
+- kits/as-roma-2026-27-home: front
+- kits/as-roma-2026-27-home: square
+- kits/sassuolo-2026-27-home: back
+- kits/sassuolo-2026-27-home: front
+- kits/sassuolo-2026-27-home: square
+- kits/torino-2026-27-home: back
+- kits/torino-2026-27-home: front
+- kits/torino-2026-27-home: square
+- kits/udinese-2026-27-home: back
+- kits/udinese-2026-27-home: front
+- kits/udinese-2026-27-home: square
+- kits/venezia-2026-27-home: back
+- kits/venezia-2026-27-home: front
+- kits/venezia-2026-27-home: square
+- kits/atlanta-united-2026-27-home: back
+- kits/atlanta-united-2026-27-home: front
+- kits/atlanta-united-2026-27-home: square
+- kits/austin-fc-2026-27-home: back
+- kits/austin-fc-2026-27-home: front
+- kits/austin-fc-2026-27-home: square
+- kits/chicago-fire-2026-27-home: back
+- kits/chicago-fire-2026-27-home: front
+- kits/chicago-fire-2026-27-home: square
+- kits/fc-cincinnati-2026-27-home: back
+- kits/fc-cincinnati-2026-27-home: front
+- kits/fc-cincinnati-2026-27-home: square
+- kits/columbus-crew-2026-27-home: back
+- kits/columbus-crew-2026-27-home: front
+- kits/columbus-crew-2026-27-home: square
+- kits/fc-dallas-2026-27-home: back
+- kits/fc-dallas-2026-27-home: front
+- kits/fc-dallas-2026-27-home: square
+- kits/houston-dynamo-2026-27-home: back
+- kits/houston-dynamo-2026-27-home: front
+- kits/houston-dynamo-2026-27-home: square
+- kits/sporting-kansas-city-2026-27-home: back
+- kits/sporting-kansas-city-2026-27-home: front
+- kits/sporting-kansas-city-2026-27-home: square
+- kits/inter-miami-2026-27-home: back
+- kits/inter-miami-2026-27-home: front
+- kits/inter-miami-2026-27-home: square
+- kits/cf-montreal-2026-27-home: back
+- kits/cf-montreal-2026-27-home: front
+- kits/cf-montreal-2026-27-home: square
+- kits/new-england-revolution-2026-27-home: back
+- kits/new-england-revolution-2026-27-home: front
+- kits/new-england-revolution-2026-27-home: square
+- kits/new-york-red-bulls-2026-27-home: back
+- kits/new-york-red-bulls-2026-27-home: front
+- kits/new-york-red-bulls-2026-27-home: square
+- kits/new-york-city-fc-2026-27-home: back
+- kits/new-york-city-fc-2026-27-home: front
+- kits/new-york-city-fc-2026-27-home: square
+- kits/orlando-city-2026-27-home: back
+- kits/orlando-city-2026-27-home: front
+- kits/orlando-city-2026-27-home: square
+- kits/portland-timbers-2026-27-home: back
+- kits/portland-timbers-2026-27-home: front
+- kits/portland-timbers-2026-27-home: square
+- kits/real-salt-lake-2026-27-home: back
+- kits/real-salt-lake-2026-27-home: front
+- kits/real-salt-lake-2026-27-home: square
+- kits/san-diego-fc-2026-27-home: back
+- kits/san-diego-fc-2026-27-home: front
+- kits/san-diego-fc-2026-27-home: square
+- kits/san-jose-earthquakes-2026-27-home: back
+- kits/san-jose-earthquakes-2026-27-home: front
+- kits/san-jose-earthquakes-2026-27-home: square
+- kits/seattle-sounders-2026-27-home: back
+- kits/seattle-sounders-2026-27-home: front
+- kits/seattle-sounders-2026-27-home: square
+- kits/st-louis-city-2026-27-home: back
+- kits/st-louis-city-2026-27-home: front
+- kits/st-louis-city-2026-27-home: square
+- kits/toronto-fc-2026-27-home: back
+- kits/toronto-fc-2026-27-home: front
+- kits/toronto-fc-2026-27-home: square
+- kits/vancouver-whitecaps-2026-27-home: back
+- kits/vancouver-whitecaps-2026-27-home: front
+- kits/vancouver-whitecaps-2026-27-home: square
+- kits/angers-sco-2026-27-home: back
+- kits/angers-sco-2026-27-home: front
+- kits/angers-sco-2026-27-home: square
+- kits/aj-auxerre-2026-27-home: back
+- kits/aj-auxerre-2026-27-home: front
+- kits/aj-auxerre-2026-27-home: square
+- kits/stade-brestois-29-2026-27-home: back
+- kits/stade-brestois-29-2026-27-home: front
+- kits/stade-brestois-29-2026-27-home: square
+- kits/le-havre-ac-2026-27-home: back
+- kits/le-havre-ac-2026-27-home: front
+- kits/le-havre-ac-2026-27-home: square
+- kits/le-mans-fc-2026-27-home: back
+- kits/le-mans-fc-2026-27-home: front
+- kits/le-mans-fc-2026-27-home: square
+- kits/rc-lens-2026-27-home: back
+- kits/rc-lens-2026-27-home: front
+- kits/rc-lens-2026-27-home: square
+- kits/lille-osc-2026-27-home: back
+- kits/lille-osc-2026-27-home: front
+- kits/lille-osc-2026-27-home: square
+- kits/olympique-lyonnais-2026-27-home: back
+- kits/olympique-lyonnais-2026-27-home: front
+- kits/olympique-lyonnais-2026-27-home: square
+- kits/fc-lorient-2026-27-home: back
+- kits/fc-lorient-2026-27-home: front
+- kits/fc-lorient-2026-27-home: square
+- kits/olympique-de-marseille-2026-27-home: back
+- kits/olympique-de-marseille-2026-27-home: front
+- kits/olympique-de-marseille-2026-27-home: square
+- kits/as-monaco-2026-27-home: back
+- kits/as-monaco-2026-27-home: front
+- kits/as-monaco-2026-27-home: square
+- kits/ogc-nice-2026-27-home: back
+- kits/ogc-nice-2026-27-home: front
+- kits/ogc-nice-2026-27-home: square
+- kits/paris-fc-2026-27-home: back
+- kits/paris-fc-2026-27-home: front
+- kits/paris-fc-2026-27-home: square
+- kits/paris-saint-germain-2026-27-home: back
+- kits/paris-saint-germain-2026-27-home: front
+- kits/paris-saint-germain-2026-27-home: square
+- kits/stade-rennais-2026-27-home: back
+- kits/stade-rennais-2026-27-home: front
+- kits/stade-rennais-2026-27-home: square
+- kits/rc-strasbourg-2026-27-home: back
+- kits/rc-strasbourg-2026-27-home: front
+- kits/rc-strasbourg-2026-27-home: square
+- kits/toulouse-fc-2026-27-home: back
+- kits/toulouse-fc-2026-27-home: front
+- kits/toulouse-fc-2026-27-home: square
+- kits/es-troyes-ac-2026-27-home: back
+- kits/es-troyes-ac-2026-27-home: front
+- kits/es-troyes-ac-2026-27-home: square
+- kits/al-ahli-2026-27-home: back
+- kits/al-ahli-2026-27-home: front
+- kits/al-ahli-2026-27-home: square
+- kits/al-ettifaq-2026-27-home: back
+- kits/al-ettifaq-2026-27-home: front
+- kits/al-ettifaq-2026-27-home: square
+- kits/al-faisaly-2026-27-home: back
+- kits/al-faisaly-2026-27-home: front
+- kits/al-faisaly-2026-27-home: square
+- kits/al-fayha-2026-27-home: back
+- kits/al-fayha-2026-27-home: front
+- kits/al-fayha-2026-27-home: square
+- kits/al-hazem-2026-27-home: back
+- kits/al-hazem-2026-27-home: front
+- kits/al-hazem-2026-27-home: square
+- kits/al-hilal-2026-27-home: back
+- kits/al-hilal-2026-27-home: front
+- kits/al-hilal-2026-27-home: square
+- kits/al-nassr-2026-27-home: back
+- kits/al-nassr-2026-27-home: front
+- kits/al-nassr-2026-27-home: square
+- kits/al-qadsiah-2026-27-home: back
+- kits/al-qadsiah-2026-27-home: front
+- kits/al-qadsiah-2026-27-home: square
+- kits/al-riyadh-2026-27-home: back
+- kits/al-riyadh-2026-27-home: front
+- kits/al-riyadh-2026-27-home: square
+- kits/al-taawoun-2026-27-home: back
+- kits/al-taawoun-2026-27-home: front
+- kits/al-taawoun-2026-27-home: square
+- kits/atlanta-hawks-2026-27-home: back
+- kits/atlanta-hawks-2026-27-home: front
+- kits/atlanta-hawks-2026-27-home: square
+- kits/dallas-mavericks-2026-27-home: back
+- kits/dallas-mavericks-2026-27-home: front
+- kits/dallas-mavericks-2026-27-home: square
+- kits/los-angeles-lakers-2026-27-home: back
+- kits/los-angeles-lakers-2026-27-home: front
+- kits/los-angeles-lakers-2026-27-home: square
+- kits/new-york-knicks-2026-27-home: back
+- kits/new-york-knicks-2026-27-home: front
+- kits/new-york-knicks-2026-27-home: square
+- kits/sacramento-kings-2026-27-home: back
+- kits/sacramento-kings-2026-27-home: front
+- kits/sacramento-kings-2026-27-home: square
+- kits/boston-celtics-2026-27-home: back
+- kits/boston-celtics-2026-27-home: front
+- kits/boston-celtics-2026-27-home: square
+- kits/denver-nuggets-2026-27-home: back
+- kits/denver-nuggets-2026-27-home: front
+- kits/denver-nuggets-2026-27-home: square
+- kits/memphis-grizzlies-2026-27-home: back
+- kits/memphis-grizzlies-2026-27-home: front
+- kits/memphis-grizzlies-2026-27-home: square
+- kits/oklahoma-city-thunder-2026-27-home: back
+- kits/oklahoma-city-thunder-2026-27-home: front
+- kits/oklahoma-city-thunder-2026-27-home: square
+- kits/san-antonio-spurs-2026-27-home: back
+- kits/san-antonio-spurs-2026-27-home: front
+- kits/san-antonio-spurs-2026-27-home: square
+- kits/brooklyn-nets-2026-27-home: back
+- kits/brooklyn-nets-2026-27-home: front
+- kits/brooklyn-nets-2026-27-home: square
+- kits/detroit-pistons-2026-27-home: back
+- kits/detroit-pistons-2026-27-home: front
+- kits/detroit-pistons-2026-27-home: square
+- kits/miami-heat-2026-27-home: back
+- kits/miami-heat-2026-27-home: front
+- kits/miami-heat-2026-27-home: square
+- kits/orlando-magic-2026-27-home: back
+- kits/orlando-magic-2026-27-home: front
+- kits/orlando-magic-2026-27-home: square
+- kits/toronto-raptors-2026-27-home: back
+- kits/toronto-raptors-2026-27-home: front
+- kits/toronto-raptors-2026-27-home: square
+- kits/charlotte-hornets-2026-27-home: back
+- kits/charlotte-hornets-2026-27-home: front
+- kits/charlotte-hornets-2026-27-home: square
+- kits/golden-state-warriors-2026-27-home: back
+- kits/golden-state-warriors-2026-27-home: front
+- kits/golden-state-warriors-2026-27-home: square
+- kits/milwaukee-bucks-2026-27-home: back
+- kits/milwaukee-bucks-2026-27-home: front
+- kits/milwaukee-bucks-2026-27-home: square
+- kits/philadelphia-76ers-2026-27-home: back
+- kits/philadelphia-76ers-2026-27-home: front
+- kits/philadelphia-76ers-2026-27-home: square
+- kits/utah-jazz-2026-27-home: back
+- kits/utah-jazz-2026-27-home: front
+- kits/utah-jazz-2026-27-home: square
+- kits/chicago-bulls-2026-27-home: back
+- kits/chicago-bulls-2026-27-home: front
+- kits/chicago-bulls-2026-27-home: square
+- kits/houston-rockets-2026-27-home: back
+- kits/houston-rockets-2026-27-home: front
+- kits/houston-rockets-2026-27-home: square
+- kits/minnesota-timberwolves-2026-27-home: back
+- kits/minnesota-timberwolves-2026-27-home: front
+- kits/minnesota-timberwolves-2026-27-home: square
+- kits/phoenix-suns-2026-27-home: back
+- kits/phoenix-suns-2026-27-home: front
+- kits/phoenix-suns-2026-27-home: square
+- kits/washington-wizards-2026-27-home: back
+- kits/washington-wizards-2026-27-home: front
+- kits/washington-wizards-2026-27-home: square
+- kits/cleveland-cavaliers-2026-27-home: back
+- kits/cleveland-cavaliers-2026-27-home: front
+- kits/cleveland-cavaliers-2026-27-home: square
+- kits/indiana-pacers-2026-27-home: back
+- kits/indiana-pacers-2026-27-home: front
+- kits/indiana-pacers-2026-27-home: square
+- kits/new-orleans-pelicans-2026-27-home: back
+- kits/new-orleans-pelicans-2026-27-home: front
+- kits/new-orleans-pelicans-2026-27-home: square
+- kits/portland-trail-blazers-2026-27-home: back
+- kits/portland-trail-blazers-2026-27-home: front
+- kits/portland-trail-blazers-2026-27-home: square
+- kits/la-clippers-2026-27-home: back
+- kits/la-clippers-2026-27-home: front
+- kits/la-clippers-2026-27-home: square
+
+## League status set from coverage (8)
+
+- leagues/bundesliga: not-started → partial (2 of 18 rated)
+- leagues/ligue-1: not-started → partial (3 of 18 rated)
+- leagues/serie-a: not-started → partial (2 of 20 rated)
+- leagues/mls: not-started → partial (3 of 30 rated)
+- leagues/nba: not-started → partial (24 of 30 rated)
+- leagues/nfl: not-started → partial (26 of 32 rated)
+- leagues/formula-1: not-started → partial (10 of 11 rated)
+- leagues/mlb: not-started → partial (21 of 30 rated)
+
+
+## After the first CI run
+
+- **339 claims: `reviewed` set to `false`.** The old builder set `reviewed: true` on every claim, but no person had checked any of them against their source (the handover seed itself has `reviewed: false`). METHOD.md now says `true` means a person checked it. The website doesn't use this field yet.
+- **Two links to domains that don't exist removed** (the source stays):
+  - claims/amica-mutual-insurance-owner-record: https://www.amicamutualinsurancecompany.com/about-us
+  - deals/newcastle-united-visit-saudi: https://www.visitvisitsaudi.com/

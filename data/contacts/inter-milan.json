@@ -1,0 +1,52 @@
+{
+  "clubId": "inter-milan",
+  "channels": [
+    {
+      "type": "email",
+      "value": "tour@sansirostadium.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.inter.it/it/club/inter-contatti",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "storecustomercare@inter.it",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.inter.it/it/club/inter-contatti",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.inter.it/it/club/inter-contatti",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.inter.it/it/club/inter-contatti",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@Inter",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.inter.it/it",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@inter",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.inter.it/it",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "frost-bank-owner-record",
+  "ownerIds": [
+    "frost-bank-owner"
+  ],
+  "text": "Cullen/Frost Bankers, Inc. is a publicly traded company listed on the NYSE under ticker CFR.",
+  "short": "Cullen/Frost Bankers, Inc.",
+  "source": {
+    "name": "SEC DEF 14A for Cullen/Frost Bankers, Inc.",
+    "date": "2026-03-20",
+    "url": "https://www.sec.gov/Archives/edgar/data/39263/000003926326000023/cfr-20260320.htm"
+  },
+  "reviewed": false
+}

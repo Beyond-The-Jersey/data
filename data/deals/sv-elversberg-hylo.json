@@ -1,0 +1,23 @@
+{
+  "id": "sv-elversberg-hylo",
+  "clubId": "sv-elversberg",
+  "orgName": null,
+  "sponsorId": "hylo",
+  "placement": "front",
+  "from": null,
+  "to": "2028-29",
+  "value": {
+    "amount": 3,
+    "currency": "EUR",
+    "unit": "m",
+    "per": "year",
+    "upTo": true,
+    "usdApprox": 3
+  },
+  "source": {
+    "name": "ran.de, Was die Hauptsponsoren den 18 klubs in der Saison 2026/27 bezahlen (Quelle: kicker.de)",
+    "date": "2026-08",
+    "url": "https://ran.joyn.de/sports/fussball/bundesliga/bundesliga-was-die-hauptsponsoren-den18-klubs-in-der-saison202627-bezahlen-160665"
+  },
+  "note": "URSAPHARM (brand HYLO) since 1990 to 2029; estimated EUR3-5m; also URSAPHARM Arena naming rights."
+}

@@ -1,0 +1,12 @@
+{
+  "id": "texas-rangers",
+  "name": "Texas Rangers",
+  "shortName": "Rangers",
+  "code": "TEX",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "USA",
+  "crest": "assets/crests/texas-rangers.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

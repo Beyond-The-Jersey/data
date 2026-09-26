@@ -1,0 +1,11 @@
+{
+  "id": "bologna",
+  "name": "Bologna FC 1909",
+  "shortName": "Bologna",
+  "code": "BOL",
+  "sportId": "soccer",
+  "leagueId": "serie-a",
+  "country": "Italy",
+  "crest": "assets/crests/bologna.png",
+  "aliases": []
+}

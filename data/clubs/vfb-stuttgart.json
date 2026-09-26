@@ -1,0 +1,12 @@
+{
+  "id": "vfb-stuttgart",
+  "name": "VfB Stuttgart",
+  "shortName": "Stuttgart",
+  "code": "VFB",
+  "sportId": "soccer",
+  "leagueId": "bundesliga",
+  "country": "Germany",
+  "crest": "assets/crests/vfb-stuttgart.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

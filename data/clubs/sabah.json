@@ -1,0 +1,15 @@
+{
+  "id": "sabah",
+  "name": "Sabah FK",
+  "shortName": "Sabah",
+  "code": "SAB",
+  "sportId": "soccer",
+  "leagueId": "uefa",
+  "country": "Azerbaijan",
+  "crest": "assets/crests/sabah.png",
+  "aliases": [
+    "sabah fk",
+    "sabah baku"
+  ],
+  "hasTeamPageDesign": false
+}

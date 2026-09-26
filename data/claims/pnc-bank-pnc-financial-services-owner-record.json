@@ -1,0 +1,14 @@
+{
+  "id": "pnc-bank-pnc-financial-services-owner-record",
+  "ownerIds": [
+    "pnc-bank-pnc-financial-services-owner"
+  ],
+  "text": "PNC Financial Services Group, Inc. is the ultimate owner of PNC Bank (PNC Financial Services).",
+  "short": "PNC Financial Services Group, Inc.",
+  "source": {
+    "name": "PNC Financial Services Investor Relations",
+    "date": "2026-09-25",
+    "url": "https://investor.pnc.com"
+  },
+  "reviewed": false
+}

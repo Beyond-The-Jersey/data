@@ -1,0 +1,14 @@
+{
+  "id": "compass-minerals-record",
+  "ownerIds": [
+    "compass-minerals"
+  ],
+  "text": "Compass Minerals International, Inc. (NYSE: CMP) is a US-listed salt and plant-nutrition miner with no state shareholder. Its register does contain one large private block - Koch Industries holds about 16.8% through KMT Investment Holdings - but Koch is a family-owned private company, not a state, so the tier stays none. Human-rights relevance is mining, water and permitting conduct (its lithium and salt operations consume significant water).",
+  "short": "Compass Minerals International, Inc.",
+  "source": {
+    "name": "Compass Minerals International, Inc. DEF 14A 2026, '5% Stockholders' (SEC)",
+    "date": "2026-01-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/1227654/000130817926000019/cmp014557_def14a.htm"
+  },
+  "reviewed": false
+}

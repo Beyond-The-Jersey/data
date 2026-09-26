@@ -1,0 +1,11 @@
+{
+  "id": "san-jose-earthquakes",
+  "name": "San Jose Earthquakes",
+  "shortName": "San Jose Earthquakes",
+  "code": "SJ",
+  "sportId": "soccer",
+  "leagueId": "mls",
+  "country": "USA",
+  "crest": "assets/crests/san-jose-earthquakes.png",
+  "aliases": []
+}

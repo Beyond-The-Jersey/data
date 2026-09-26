@@ -1,0 +1,12 @@
+{
+  "id": "real-betis",
+  "name": "Real Betis",
+  "shortName": "Betis",
+  "code": "BET",
+  "sportId": "soccer",
+  "leagueId": "la-liga",
+  "country": "Spain",
+  "crest": "assets/crests/real-betis.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

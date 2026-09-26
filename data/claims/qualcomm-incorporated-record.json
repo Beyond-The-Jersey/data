@@ -1,0 +1,14 @@
+{
+  "id": "qualcomm-incorporated-record",
+  "ownerIds": [
+    "qualcomm"
+  ],
+  "text": "QUALCOMM Incorporated is a Nasdaq-listed (QCOM) semiconductor company with a dispersed institutional shareholder base and no state or sovereign-fund owner. The Snapdragon-branded Mercedes sponsorship is private corporate spend. Human-rights exposure would come from chip supply chains, especially China and Taiwan manufacturing.",
+  "short": "QUALCOMM Incorporated is a Nasdaq-listed (QCOM) semiconductor company with a dispersed institutional shareholder base and no state or sovereign-fund owner.",
+  "source": {
+    "name": "QUALCOMM Incorporated Form 10-K FY2025 (SEC EDGAR)",
+    "date": "2025-11-05",
+    "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/qcom-20250928.htm"
+  },
+  "reviewed": false
+}

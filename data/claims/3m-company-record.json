@@ -1,0 +1,14 @@
+{
+  "id": "3m-company-record",
+  "ownerIds": [
+    "3m-company"
+  ],
+  "text": "3M is an NYSE-listed conglomerate with no controlling or state shareholder. The Cadillac F1 partnership is private corporate money. 3M's notable human-rights/conduct exposure is litigation-driven - PFAS ('forever chemicals') contamination settlements and combat-earplug hearing-loss claims - not state ownership.",
+  "short": "3M is an NYSE-listed conglomerate with no controlling or state shareholder.",
+  "source": {
+    "name": "3M Company Form 10-K FY2025 (SEC EDGAR)",
+    "date": "2026-02-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/66740/000006674026000014/mmm-20251231.htm"
+  },
+  "reviewed": false
+}

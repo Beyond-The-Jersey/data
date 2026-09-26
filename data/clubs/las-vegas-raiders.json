@@ -1,0 +1,12 @@
+{
+  "id": "las-vegas-raiders",
+  "name": "Las Vegas Raiders",
+  "shortName": "Raiders",
+  "code": "LV",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/las-vegas-raiders.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

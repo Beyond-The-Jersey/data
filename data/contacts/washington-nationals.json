@@ -1,0 +1,61 @@
+{
+  "clubId": "washington-nationals",
+  "channels": [
+    {
+      "type": "email",
+      "value": "ticketinfo@nationals.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/nationals/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "groupsales@nationals.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/nationals/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "2026756287",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/nationals",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.mlb.com/nationals/official-information/contact",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/nationals/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@Nationals",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/nationals",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@nationals",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/nationals",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

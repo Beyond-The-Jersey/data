@@ -1,0 +1,11 @@
+{
+  "id": "philadelphia-union",
+  "name": "Philadelphia Union",
+  "shortName": "Philadelphia Union",
+  "code": "PHI",
+  "sportId": "soccer",
+  "leagueId": "mls",
+  "country": "USA",
+  "crest": "assets/crests/philadelphia-union.png",
+  "aliases": []
+}

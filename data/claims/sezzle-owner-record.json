@@ -1,0 +1,14 @@
+{
+  "id": "sezzle-owner-record",
+  "ownerIds": [
+    "sezzle-owner"
+  ],
+  "text": "Sezzle Inc. is a publicly traded company listed on the NASDAQ under ticker SEZL.",
+  "short": "Sezzle Inc.",
+  "source": {
+    "name": "SEC 10-K for Sezzle Inc.",
+    "date": "2026-02-26",
+    "url": "https://www.sec.gov/Archives/edgar/data/1662991/000166299126000016/szl-20251231.htm"
+  },
+  "reviewed": false
+}

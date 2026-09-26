@@ -1,0 +1,24 @@
+{
+  "id": "philadelphia-76ers-2026-27-home",
+  "clubId": "philadelphia-76ers",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "crypto-com",
+      "placement": "patch",
+      "source": {
+        "name": "Front Office Sports",
+        "date": "2026-07-30",
+        "url": "https://frontofficesports.com/lebron-james-sixers-expiring-jersey-patch"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Crypto.com.",
+  "change": null
+}

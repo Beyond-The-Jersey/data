@@ -1,0 +1,14 @@
+{
+  "id": "abha",
+  "name": "Abha",
+  "shortName": "Abha",
+  "code": "ABH",
+  "sportId": "soccer",
+  "leagueId": "saudi-pro-league",
+  "country": "Saudi Arabia",
+  "crest": "assets/crests/abha.png",
+  "aliases": [
+    "abha club",
+    "abha fc"
+  ]
+}

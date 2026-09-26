@@ -1,0 +1,12 @@
+{
+  "id": "houston-astros",
+  "name": "Houston Astros",
+  "shortName": "Astros",
+  "code": "HOU",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "USA",
+  "crest": "assets/crests/houston-astros.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

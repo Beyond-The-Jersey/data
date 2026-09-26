@@ -1,0 +1,14 @@
+{
+  "id": "decathlon-cma-cgm",
+  "name": "Decathlon CMA CGM Team",
+  "shortName": "Decathlon CMA CGM",
+  "code": "DCT",
+  "sportId": "cycling",
+  "leagueId": "uci-worldtour",
+  "country": "France",
+  "crest": "assets/crests/decathlon-cma-cgm.png",
+  "aliases": [
+    "ag2r-citroen",
+    "decathlon-ag2r"
+  ]
+}

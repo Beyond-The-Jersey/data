@@ -1,0 +1,14 @@
+{
+  "id": "at-and-t",
+  "name": "AT&T",
+  "ownerId": "att-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by AT&T Inc.. Nothing found.",
+  "claimIds": [
+    "att-inc-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
+}

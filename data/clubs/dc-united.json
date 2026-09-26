@@ -1,0 +1,11 @@
+{
+  "id": "dc-united",
+  "name": "D.C. United",
+  "shortName": "D.C. United",
+  "code": "DC",
+  "sportId": "soccer",
+  "leagueId": "mls",
+  "country": "USA",
+  "crest": "assets/crests/dc-united.png",
+  "aliases": []
+}

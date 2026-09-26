@@ -1,0 +1,14 @@
+{
+  "id": "siemens",
+  "name": "Siemens",
+  "ownerId": "siemens-ag",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Siemens AG. Nothing found.",
+  "claimIds": [
+    "siemens-ag-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Ownership is dispersed; no state stake. Conduct record (e.g. historic bribery, gas-turbine/Siemens Energy split) is not state-related."
+}

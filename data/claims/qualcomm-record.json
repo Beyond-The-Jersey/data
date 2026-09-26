@@ -1,0 +1,14 @@
+{
+  "id": "qualcomm-record",
+  "ownerIds": [
+    "qualcomm"
+  ],
+  "text": "Snapdragon is Qualcomm's product brand: Qualcomm Incorporated is a US Nasdaq-listed semiconductor company with dispersed public shareholders and no state or state-fund owner.",
+  "short": "Snapdragon is the brand of Nasdaq-listed Qualcomm.",
+  "source": {
+    "name": "Qualcomm, company page",
+    "date": "2026",
+    "url": "https://www.qualcomm.com/company"
+  },
+  "reviewed": false
+}

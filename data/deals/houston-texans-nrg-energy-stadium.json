@@ -1,0 +1,16 @@
+{
+  "id": "houston-texans-nrg-energy-stadium",
+  "clubId": "houston-texans",
+  "orgName": "NRG Energy (Reliant brand)",
+  "sponsorId": "nrg-energy",
+  "placement": "stadium",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Reliant / NRG Energy press release",
+    "date": "2026-04-15",
+    "url": "https://news.reliant.com/press-releases/press-release-details/2026/Reliant-Stadium-Returns-in-August-2026"
+  },
+  "note": "Arena naming rights: Reliant Stadium."
+}

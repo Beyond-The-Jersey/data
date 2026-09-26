@@ -1,0 +1,14 @@
+{
+  "id": "galatasaray",
+  "name": "Galatasaray",
+  "shortName": "Galatasaray",
+  "code": "GAL",
+  "sportId": "soccer",
+  "leagueId": "uefa",
+  "country": "Türkiye",
+  "crest": "assets/crests/galatasaray.png",
+  "aliases": [
+    "gala"
+  ],
+  "hasTeamPageDesign": false
+}

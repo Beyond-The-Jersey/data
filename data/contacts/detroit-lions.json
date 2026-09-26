@@ -1,0 +1,43 @@
+{
+  "clubId": "detroit-lions",
+  "channels": [
+    {
+      "type": "phone",
+      "value": "3132622000",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.detroitlions.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.detroitlions.com/about-us/contact-us",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.detroitlions.com/about-us/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@Lions",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.detroitlions.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@detroitlionsnfl",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.detroitlions.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

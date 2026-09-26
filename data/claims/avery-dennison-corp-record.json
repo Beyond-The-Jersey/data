@@ -1,0 +1,14 @@
+{
+  "id": "avery-dennison-corp-record",
+  "ownerIds": [
+    "avery-dennison"
+  ],
+  "text": "Avery Dennison Corporation is a US NYSE-listed materials-science company with dispersed public shareholders and no state owner.",
+  "short": "Avery Dennison is an NYSE-listed materials company.",
+  "source": {
+    "name": "Avery Dennison, investor relations",
+    "date": "2026",
+    "url": "https://investors.averydennison.com/"
+  },
+  "reviewed": false
+}

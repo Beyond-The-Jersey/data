@@ -1,0 +1,14 @@
+{
+  "id": "angers-sco",
+  "name": "Angers SCO",
+  "shortName": "Angers",
+  "code": "SCO",
+  "sportId": "soccer",
+  "leagueId": "ligue-1",
+  "country": "France",
+  "crest": "assets/crests/angers-sco.png",
+  "aliases": [
+    "angers",
+    "sco angers"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "washington-wizards-capital-one-stadium",
+  "clubId": "washington-wizards",
+  "orgName": "Capital One",
+  "sponsorId": "capital-one",
+  "placement": "stadium",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Capital One Newsroom",
+    "date": "2026-08-11",
+    "url": "https://www.capitalone.com/about/newsroom/a-bold-new-era-for-capital-one-arena-in-our-hometown/"
+  },
+  "note": "Arena naming rights: Capital One Arena."
+}

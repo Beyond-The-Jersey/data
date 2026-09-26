@@ -1,0 +1,14 @@
+{
+  "id": "massmutual",
+  "name": "MassMutual",
+  "ownerId": "massmutual-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by MassMutual. Nothing found.",
+  "claimIds": [
+    "massmutual-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Private Company company with no significant conduct issues found"
+}

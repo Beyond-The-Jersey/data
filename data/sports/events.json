@@ -1,0 +1,11 @@
+{
+  "id": "events",
+  "label": "Tournaments & governing bodies",
+  "status": "not-mapped",
+  "aliases": [
+    "fifa",
+    "uefa",
+    "world cup",
+    "cycling"
+  ]
+}

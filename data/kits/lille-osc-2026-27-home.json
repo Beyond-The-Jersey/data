@@ -1,0 +1,60 @@
+{
+  "id": "lille-osc-2026-27-home",
+  "clubId": "lille-osc",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "boulanger",
+      "placement": "front",
+      "source": {
+        "name": "LOSC — Partenaires",
+        "date": "2026",
+        "url": "https://www.losc.fr/partenaires"
+      }
+    },
+    {
+      "sponsorId": "actual-group",
+      "placement": "front",
+      "source": {
+        "name": "LOSC — Partenaires",
+        "date": "2026",
+        "url": "https://www.losc.fr/partenaires"
+      }
+    },
+    {
+      "sponsorId": "toyota",
+      "placement": "back",
+      "source": {
+        "name": "LOSC — Partenaires",
+        "date": "2026",
+        "url": "https://www.losc.fr/partenaires"
+      }
+    },
+    {
+      "sponsorId": "aushopping",
+      "placement": "back",
+      "source": {
+        "name": "LOSC — Partenaires",
+        "date": "2026",
+        "url": "https://www.losc.fr/partenaires"
+      }
+    },
+    {
+      "sponsorId": "etoro",
+      "placement": "sleeve",
+      "source": {
+        "name": "LOSC — Partenaires",
+        "date": "2026",
+        "url": "https://www.losc.fr/partenaires"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "New Balance kit. Boulanger front; eToro on the sleeve.",
+  "change": null
+}

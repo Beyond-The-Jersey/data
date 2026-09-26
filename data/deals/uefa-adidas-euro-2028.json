@@ -1,0 +1,16 @@
+{
+  "id": "uefa-adidas-euro-2028",
+  "clubId": null,
+  "orgName": "UEFA EURO 2028",
+  "sponsorId": "adidas",
+  "placement": "league-partner",
+  "from": null,
+  "to": "2028",
+  "value": null,
+  "source": {
+    "name": "UEFA.com",
+    "date": "2026-03-17",
+    "url": "https://www.uefa.com/news-media/news/02a3-202a8f624e95-645f8d48f865-1000--uefa-announces-first-strategic-corporate-partnership-with-c/"
+  },
+  "leagueId": "uefa"
+}

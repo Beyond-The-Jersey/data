@@ -1,0 +1,70 @@
+{
+  "id": "mclaren-2026-home",
+  "clubId": "mclaren",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "mastercard",
+      "placement": "front",
+      "source": {
+        "name": "McLaren Racing – McLaren Racing announces Mastercard as Official Naming Partner from 2026",
+        "date": "2025-08-27",
+        "url": "https://www.mclaren.com/racing/formula-1/2025/mastercard-official-naming-partner-mclaren-formula-1-team-from-2026/"
+      }
+    },
+    {
+      "sponsorId": "google",
+      "placement": "front",
+      "source": {
+        "name": "McLaren Racing – McLaren Racing and Google announce partnership expansion",
+        "date": "2024-02-26",
+        "url": "https://www.mclaren.com/racing/formula-1/2024/mclaren-racing-and-google-announce-partnership-expansion/"
+      }
+    },
+    {
+      "sponsorId": "okx",
+      "placement": "sleeve",
+      "source": {
+        "name": "McLaren Racing – McLaren Racing announces expansion with Official Primary Partner OKX",
+        "date": "2023",
+        "url": "https://www.mclaren.com/racing/formula-1/2023/mclaren-racing-announces-expansion-with-official-primary-partner-okx",
+        "note": "date precision: year"
+      }
+    },
+    {
+      "sponsorId": "cisco",
+      "placement": "partner",
+      "source": {
+        "name": "McLaren Racing – Partners",
+        "date": "2026-09-24",
+        "url": "https://www.mclaren.com/racing/partners/"
+      }
+    },
+    {
+      "sponsorId": "dell",
+      "placement": "partner",
+      "source": {
+        "name": "McLaren Racing – Partners",
+        "date": "2026-09-24",
+        "url": "https://www.mclaren.com/racing/partners/"
+      }
+    },
+    {
+      "sponsorId": "gulf-oil",
+      "placement": "partner",
+      "source": {
+        "name": "McLaren Racing – Partners",
+        "date": "2026-09-24",
+        "url": "https://www.mclaren.com/racing/partners/"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": "2026 car. S"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "perdue-farms-owner-record",
+  "ownerIds": [
+    "perdue-farms-owner"
+  ],
+  "text": "Perdue Farms is a privately held, family-owned agriculture company (fourth-generation Perdue family) with no state ownership.",
+  "short": "Perdue Farms is a privately held, family-owned agriculture company (fourth-generation Perdue family) with no state ownership.",
+  "source": {
+    "name": "Legal Clarity Perdue Farms ownership page",
+    "date": "2026-09-24",
+    "url": "https://legalclarity.org/who-owns-perdue-chicken-its-still-family-owned"
+  },
+  "reviewed": false
+}

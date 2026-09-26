@@ -1,0 +1,14 @@
+{
+  "id": "eurobet-live",
+  "name": "Eurobet.live",
+  "ownerId": "entain-plc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Entain plc. Nothing found.",
+  "claimIds": [
+    "entain-plc-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Entain ownership corroborated by SportBusiness ('Entain-owned infotainment platform') which is paywalled; no primary corporate filing opened for the Eurobet.live brand entity itself, hence medium confidence."
+}

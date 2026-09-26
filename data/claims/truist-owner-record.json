@@ -1,0 +1,14 @@
+{
+  "id": "truist-owner-record",
+  "ownerIds": [
+    "truist-owner"
+  ],
+  "text": "Truist Financial Corporation is a NYSE-listed bank with no state ownership; largest shareholder is The Vanguard Group (~9.8%) and other institutions each under 10%.",
+  "short": "Truist Financial Corporation is a NYSE-listed bank with no state ownership; largest shareholder is The Vanguard Group (~9.8%) and other institutions each under 10%.",
+  "source": {
+    "name": "Truist DEF 14A 2026",
+    "date": "2026-03-16",
+    "url": "https://www.sec.gov/Archives/edgar/data/92230/000119312526107144/d12240ddef14a.htm"
+  },
+  "reviewed": false
+}

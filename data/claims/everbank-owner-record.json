@@ -1,0 +1,14 @@
+{
+  "id": "everbank-owner-record",
+  "ownerIds": [
+    "everbank-owner"
+  ],
+  "text": "EverBank is a privately held commercial bank owned by private equity investors (Stone Point Capital, Warburg Pincus, Reverence Capital, etc.) with no state ownership.",
+  "short": "EverBank is a privately held commercial bank owned by private equity investors (Stone Point Capital, Warburg Pincus, Reverence Capital, etc.) with no state….",
+  "source": {
+    "name": "Stone Point Capital EverBank page",
+    "date": "2026-09-24",
+    "url": "https://stonepoint.com/company/everbank"
+  },
+  "reviewed": false
+}

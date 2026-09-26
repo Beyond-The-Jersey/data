@@ -1,0 +1,12 @@
+{
+  "id": "chicago-cubs",
+  "name": "Chicago Cubs",
+  "shortName": "Cubs",
+  "code": "CHC",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "USA",
+  "crest": "assets/crests/chicago-cubs.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

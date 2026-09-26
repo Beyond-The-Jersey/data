@@ -1,0 +1,13 @@
+{
+  "id": "red-bull-bora-hansgrohe",
+  "name": "Red Bull-Bora-Hansgrohe",
+  "shortName": "Red Bull-Bora",
+  "code": "RBH",
+  "sportId": "cycling",
+  "leagueId": "uci-worldtour",
+  "country": "Germany",
+  "crest": "assets/crests/red-bull-bora-hansgrohe.png",
+  "aliases": [
+    "bora-hansgrohe"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "crowdstrike-record",
+  "ownerIds": [
+    "crowdstrike"
+  ],
+  "text": "CrowdStrike Holdings, Inc. (NASDAQ: CRWD) is a US-listed cybersecurity company with a dispersed register dominated by index funds; co-founder and CEO George Kurtz is the most prominent individual holder. There is no state shareholder. Human-rights relevance is thin - its record event (the July 2024 global outage) is operational rather than rights-based.",
+  "short": "CrowdStrike Holdings, Inc.",
+  "source": {
+    "name": "CrowdStrike Holdings, Inc. DEF 14A 2026, 'Security Ownership of Certain Beneficial Owners and Management' (SEC)",
+    "date": "2026-05-05",
+    "url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465926055599/tm2532333-4_def14a.htm"
+  },
+  "reviewed": false
+}

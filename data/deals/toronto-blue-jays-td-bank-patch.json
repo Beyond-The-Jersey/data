@@ -1,0 +1,16 @@
+{
+  "id": "toronto-blue-jays-td-bank-patch",
+  "clubId": "toronto-blue-jays",
+  "orgName": "TD Bank",
+  "sponsorId": "td-bank",
+  "placement": "patch",
+  "from": "2024",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Blinkfire Analytics (2026 MLB jersey patch list)",
+    "date": "2026-04-20",
+    "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball"
+  },
+  "note": "Jersey patch."
+}

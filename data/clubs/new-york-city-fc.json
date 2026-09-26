@@ -1,0 +1,11 @@
+{
+  "id": "new-york-city-fc",
+  "name": "New York City FC",
+  "shortName": "NYCFC",
+  "code": "NYC",
+  "sportId": "soccer",
+  "leagueId": "mls",
+  "country": "USA",
+  "crest": "assets/crests/new-york-city-fc.png",
+  "aliases": []
+}

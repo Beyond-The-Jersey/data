@@ -1,0 +1,12 @@
+{
+  "id": "brentford",
+  "name": "Brentford",
+  "shortName": "Brentford",
+  "code": "BRE",
+  "sportId": "soccer",
+  "leagueId": "premier-league",
+  "country": "England",
+  "crest": "assets/crests/brentford.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

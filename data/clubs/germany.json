@@ -1,0 +1,11 @@
+{
+  "id": "germany",
+  "name": "Germany",
+  "shortName": "Germany",
+  "code": "GER",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Germany",
+  "crest": "assets/crests/germany.png",
+  "aliases": []
+}

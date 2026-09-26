@@ -1,0 +1,82 @@
+{
+  "id": "ferrari-2026-home",
+  "clubId": "ferrari",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "hp",
+      "placement": "front",
+      "source": {
+        "name": "Ferrari – Ferrari and HP announce a title partnership",
+        "date": "2024-04-24",
+        "url": "https://www.ferrari.com/en-EN/corporate/articles/ferrari-and-hp-announce-a-title-partnership-corporate"
+      }
+    },
+    {
+      "sponsorId": "shell",
+      "placement": "front",
+      "source": {
+        "name": "Ferrari – Ferrari and Shell renew their partnership",
+        "date": "2026",
+        "url": "https://www.ferrari.com/en-EN/corporate/articles/ferrari-and-shell-renew-their-partnership",
+        "note": "date precision: year"
+      }
+    },
+    {
+      "sponsorId": "unicredit",
+      "placement": "sleeve",
+      "source": {
+        "name": "UniCredit – Scuderia Ferrari partnership",
+        "date": "2026",
+        "url": "https://www.unicreditgroup.eu/en/unicredit-at-a-glance/art-culture-sport/sport/scuderia-ferrari.html",
+        "note": "date precision: year"
+      }
+    },
+    {
+      "sponsorId": "ibm",
+      "placement": "partner",
+      "source": {
+        "name": "Ferrari – Scuderia Ferrari HP announces a multi-year agreement with IBM as a Premium Partner",
+        "date": "2026",
+        "url": "https://www.ferrari.com/en-EN/formula1/articles/scuderia-ferrari-hp-announces-a-multi-year-agreement-with-ibm-as-a-premium-partner",
+        "note": "date precision: year"
+      }
+    },
+    {
+      "sponsorId": "puma",
+      "placement": "partner",
+      "source": {
+        "name": "PUMA – Ferrari and PUMA announce long-term partnership extension",
+        "date": "2026",
+        "url": "https://about.puma.com/en/newsroom/news/ferrari-and-puma-announce-long-term-partnership-extension",
+        "note": "date precision: year"
+      }
+    },
+    {
+      "sponsorId": "ray-ban",
+      "placement": "partner",
+      "source": {
+        "name": "Ferrari – Scuderia Ferrari HP partners page",
+        "date": "2026-09-24",
+        "url": "https://www.ferrari.com/en-EN/formula1/partners"
+      }
+    },
+    {
+      "sponsorId": "peroni",
+      "placement": "partner",
+      "source": {
+        "name": "Ferrari – Scuderia Ferrari HP partners page",
+        "date": "2026-09-24",
+        "url": "https://www.ferrari.com/en-EN/formula1/partners"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": "2026 car. H"
+}

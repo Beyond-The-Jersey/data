@@ -1,0 +1,15 @@
+{
+  "id": "la-clippers",
+  "name": "LA Clippers",
+  "shortName": "LA Clippers",
+  "code": "LAC",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "USA",
+  "crest": "assets/crests/la-clippers.png",
+  "aliases": [
+    "clippers",
+    "nba"
+  ],
+  "hasTeamPageDesign": false
+}

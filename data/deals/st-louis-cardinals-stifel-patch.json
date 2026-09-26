@@ -1,0 +1,16 @@
+{
+  "id": "st-louis-cardinals-stifel-patch",
+  "clubId": "st-louis-cardinals",
+  "orgName": "Stifel Financial",
+  "sponsorId": "stifel",
+  "placement": "patch",
+  "from": "2023",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "MLB.com press release",
+    "date": "2023-05-02",
+    "url": "https://mlb.com/press-release/press-release-cardinals-announce-stifel-as-club-s-first-jersey-patch-sponsor"
+  },
+  "note": "Jersey patch."
+}

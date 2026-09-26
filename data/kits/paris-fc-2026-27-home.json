@@ -1,0 +1,60 @@
+{
+  "id": "paris-fc-2026-27-home",
+  "clubId": "paris-fc",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "bahrain-victorious",
+      "placement": "front",
+      "source": {
+        "name": "The Daily Tribune (Bahrain), 'Victorious Bahrain goes European: Shaikh Nasser visits Paris FC'",
+        "date": "2026-02-08",
+        "url": "https://www.newsofbahrain.com/sports/126544.html"
+      }
+    },
+    {
+      "sponsorId": "google-pixel",
+      "placement": "front",
+      "source": {
+        "name": "Paris FC — site officiel",
+        "date": "2026",
+        "url": "https://parisfc.fr/"
+      }
+    },
+    {
+      "sponsorId": "vinci",
+      "placement": "back",
+      "source": {
+        "name": "Paris FC — site officiel",
+        "date": "2026",
+        "url": "https://parisfc.fr/"
+      }
+    },
+    {
+      "sponsorId": "renault",
+      "placement": "sleeve",
+      "source": {
+        "name": "Paris FC — site officiel",
+        "date": "2026",
+        "url": "https://parisfc.fr/"
+      }
+    },
+    {
+      "sponsorId": "bwin",
+      "placement": "shorts",
+      "source": {
+        "name": "Paris FC — site officiel",
+        "date": "2026",
+        "url": "https://parisfc.fr/"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Adidas kit. Bahrain Victorious (Bahrain state brand) front.",
+  "change": null
+}

@@ -1,0 +1,12 @@
+{
+  "id": "real-madrid",
+  "name": "Real Madrid",
+  "shortName": "Real Madrid",
+  "code": "RMA",
+  "sportId": "soccer",
+  "leagueId": "la-liga",
+  "country": "Spain",
+  "crest": "assets/crests/real-madrid.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

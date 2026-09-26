@@ -1,0 +1,12 @@
+{
+  "id": "san-antonio-spurs",
+  "name": "San Antonio Spurs",
+  "shortName": "Spurs",
+  "code": "SAS",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "USA",
+  "crest": "assets/crests/san-antonio-spurs.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

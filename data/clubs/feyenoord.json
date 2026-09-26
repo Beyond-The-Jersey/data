@@ -1,0 +1,12 @@
+{
+  "id": "feyenoord",
+  "name": "Feyenoord",
+  "shortName": "Feyenoord",
+  "code": "FEY",
+  "sportId": "soccer",
+  "leagueId": "uefa",
+  "country": "Netherlands",
+  "crest": "assets/crests/feyenoord.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

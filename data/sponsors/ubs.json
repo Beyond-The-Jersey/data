@@ -1,0 +1,14 @@
+{
+  "id": "ubs",
+  "name": "UBS",
+  "ownerId": "ubs-group-ag",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by UBS Group AG. Nothing found.",
+  "claimIds": [
+    "ubs-group-ag-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: No state stake. Note the Swiss state was famously a shareholder during 2008-2009 and again took a backstop role in the 2023 Credit Suisse rescue, but holds no ongoing equity."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "yeti",
+  "name": "YETI",
+  "ownerId": "yeti-holdings-inc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by YETI Holdings, Inc.. Nothing found.",
+  "claimIds": [
+    "yeti-holdings-inc-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: No state stake identified."
+}

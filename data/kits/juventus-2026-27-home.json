@@ -1,0 +1,24 @@
+{
+  "id": "juventus-2026-27-home",
+  "clubId": "juventus",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026-27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "jeep",
+      "placement": "front",
+      "source": {
+        "name": "Juventus FC",
+        "date": "2025-05-15",
+        "url": "https://www.juventus.com/it/news/articoli/jeep-e-visit-detroit-nuovi-front-of-shirt-partner-della-juventus-a-partire-dalla-stagione-2025-26"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": "Deal runs to 30 June 2028; both Jeep and Visit Detroit appear on the front."
+}

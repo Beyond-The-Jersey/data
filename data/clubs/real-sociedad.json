@@ -1,0 +1,14 @@
+{
+  "id": "real-sociedad",
+  "name": "Real Sociedad",
+  "shortName": "Real Sociedad",
+  "code": "RSO",
+  "sportId": "soccer",
+  "leagueId": "la-liga",
+  "country": "Spain",
+  "crest": "assets/crests/real-sociedad.png",
+  "aliases": [
+    "la real"
+  ],
+  "hasTeamPageDesign": false
+}

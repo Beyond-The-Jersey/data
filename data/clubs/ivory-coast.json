@@ -1,0 +1,11 @@
+{
+  "id": "ivory-coast",
+  "name": "Ivory Coast",
+  "shortName": "Ivory Coast",
+  "code": "CIV",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Ivory Coast",
+  "crest": "assets/crests/ivory-coast.png",
+  "aliases": []
+}

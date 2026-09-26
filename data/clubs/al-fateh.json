@@ -1,0 +1,14 @@
+{
+  "id": "al-fateh",
+  "name": "Al-Fateh",
+  "shortName": "Al-Fateh",
+  "code": "FAT",
+  "sportId": "soccer",
+  "leagueId": "saudi-pro-league",
+  "country": "Saudi Arabia",
+  "crest": "assets/crests/al-fateh.png",
+  "aliases": [
+    "al fateh",
+    "fateh"
+  ]
+}

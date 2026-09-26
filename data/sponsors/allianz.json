@@ -1,0 +1,11 @@
+{
+  "id": "allianz",
+  "name": "Allianz",
+  "ownerId": "allianz-se",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "denver-broncos",
+  "name": "Denver Broncos",
+  "shortName": "Broncos",
+  "code": "DEN",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/denver-broncos.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

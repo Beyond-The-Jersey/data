@@ -1,0 +1,12 @@
+{
+  "id": "chicago-bulls",
+  "name": "Chicago Bulls",
+  "shortName": "Bulls",
+  "code": "CHI",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "USA",
+  "crest": "assets/crests/chicago-bulls.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

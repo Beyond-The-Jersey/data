@@ -1,0 +1,12 @@
+{
+  "id": "cincinnati-bengals",
+  "name": "Cincinnati Bengals",
+  "shortName": "Bengals",
+  "code": "CIN",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/cincinnati-bengals.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

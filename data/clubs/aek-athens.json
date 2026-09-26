@@ -1,0 +1,15 @@
+{
+  "id": "aek-athens",
+  "name": "AEK Athens",
+  "shortName": "AEK Athens",
+  "code": "AEK",
+  "sportId": "soccer",
+  "leagueId": "uefa",
+  "country": "Greece",
+  "crest": "assets/crests/aek-athens.png",
+  "aliases": [
+    "aek",
+    "aek fc"
+  ],
+  "hasTeamPageDesign": false
+}

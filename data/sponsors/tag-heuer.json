@@ -1,0 +1,14 @@
+{
+  "id": "tag-heuer",
+  "name": "TAG Heuer",
+  "ownerId": "lvmh",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by LVMH Moet Hennessy Louis Vuitton SE. Nothing found.",
+  "claimIds": [
+    "lvmh-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Owner is LVMH rather than TAG Heuer itself - the brand is a subsidiary, not a shareholder-level entity."
+}

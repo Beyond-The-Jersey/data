@@ -1,0 +1,43 @@
+{
+  "clubId": "sc-freiburg",
+  "channels": [
+    {
+      "type": "email",
+      "value": "nachhaltigkeit@scfreiburg.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.scfreiburg.com/nachhaltigkeit/strategie/kontakt/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "0761385510",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.scfreiburg.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.scfreiburg.com/nachhaltigkeit/strategie/kontakt/",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.scfreiburg.com/nachhaltigkeit/strategie/kontakt/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@scfreiburg",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.scfreiburg.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

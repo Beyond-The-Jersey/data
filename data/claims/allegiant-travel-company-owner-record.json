@@ -1,0 +1,14 @@
+{
+  "id": "allegiant-travel-company-owner-record",
+  "ownerIds": [
+    "allegiant-travel-company-owner"
+  ],
+  "text": "Allegiant Travel Company is controlled by founder Maurice J. Gallagher Jr., who beneficially owns over 11% of shares, with no state ownership.",
+  "short": "Allegiant Travel Company is controlled by founder Maurice J.",
+  "source": {
+    "name": "Allegiant Travel Company DEF 14A 2026",
+    "date": "2026-05-15",
+    "url": "https://www.sec.gov/Archives/edgar/data/1362468/000136246826000034/algt-20260513.htm"
+  },
+  "reviewed": false
+}

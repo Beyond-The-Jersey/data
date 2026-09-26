@@ -1,0 +1,14 @@
+{
+  "id": "paycor",
+  "name": "Paycor",
+  "ownerId": "paycor-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Paycor. Nothing found.",
+  "claimIds": [
+    "paycor-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: No state stake or serious conduct record identified. Ownership is private or listed with no state involvement."
+}

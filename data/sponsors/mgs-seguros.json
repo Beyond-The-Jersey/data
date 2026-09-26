@@ -1,0 +1,11 @@
+{
+  "id": "mgs-seguros",
+  "name": "MGS Seguros",
+  "ownerId": "mgs-seguros",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": []
+}

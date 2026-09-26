@@ -1,0 +1,12 @@
+{
+  "id": "elche",
+  "name": "Elche CF",
+  "shortName": "Elche",
+  "code": "ELC",
+  "sportId": "soccer",
+  "leagueId": "la-liga",
+  "country": "Spain",
+  "crest": "assets/crests/elche.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

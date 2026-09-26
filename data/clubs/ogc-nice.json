@@ -1,0 +1,15 @@
+{
+  "id": "ogc-nice",
+  "name": "OGC Nice",
+  "shortName": "Nice",
+  "code": "OGCN",
+  "sportId": "soccer",
+  "leagueId": "ligue-1",
+  "country": "France",
+  "crest": "assets/crests/ogc-nice.png",
+  "aliases": [
+    "nice",
+    "ogc nice",
+    "le gym"
+  ]
+}

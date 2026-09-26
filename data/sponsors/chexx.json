@@ -1,0 +1,14 @@
+{
+  "id": "chexx",
+  "name": "CHEXX",
+  "ownerId": "continent-gaming",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Continent Gaming N.V.. Nothing found.",
+  "claimIds": [
+    "continent-gaming-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Kept at 'none' rather than 'unrated' because the operating entity is clearly established; the opacity is about the group's ultimate beneficial owners, which Curaçao does not publish."
+}

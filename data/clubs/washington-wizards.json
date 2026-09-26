@@ -1,0 +1,12 @@
+{
+  "id": "washington-wizards",
+  "name": "Washington Wizards",
+  "shortName": "Wizards",
+  "code": "WAS",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "USA",
+  "crest": "assets/crests/washington-wizards.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

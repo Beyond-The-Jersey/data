@@ -1,0 +1,24 @@
+{
+  "id": "san-francisco-49ers-2026-27-home",
+  "clubId": "san-francisco-49ers",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "us-bank",
+      "placement": "training-kit",
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2026-09-10",
+        "url": "https://www.sportsbusinessjournal.com/Articles/2026/09/10/health-care-providers-financial-companies-dominate-nfl-jersey-patches/"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Practice-jersey patch: U.S. Bank.",
+  "change": null
+}

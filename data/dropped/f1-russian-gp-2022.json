@@ -1,0 +1,16 @@
+{
+  "id": "f1-russian-gp-2022",
+  "year": 2022,
+  "clubId": null,
+  "orgName": "Formula 1",
+  "leagueId": "formula-1",
+  "sponsorId": null,
+  "what": "Cancelled the Russian Grand Prix",
+  "text": "Race cancelled, then the promoter contract terminated.",
+  "source": {
+    "name": "Sky Sports, Formula 1 terminates Russian GP contract",
+    "date": "2022-03-03",
+    "url": "https://www.skysports.com/f1/news/12433/12556381/formula-1-terminates-russian-gp-contract-in-wake-of-ukraine-invasion"
+  },
+  "featured": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "marex",
+  "name": "Marex",
+  "ownerId": "marex-group-plc",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Marex Group plc (Nasdaq-listed) — public and former PE sponsors. Nothing found.",
+  "claimIds": [
+    "marex-group-plc-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Listed company with PE heritage (private-equity sponsors were prior owners) → none. Owner type recorded as listed-company because the sponsors' control has dispersed post-IPO."
+}

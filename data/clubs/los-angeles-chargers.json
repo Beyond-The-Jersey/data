@@ -1,0 +1,12 @@
+{
+  "id": "los-angeles-chargers",
+  "name": "Los Angeles Chargers",
+  "shortName": "Chargers",
+  "code": "LAC",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/los-angeles-chargers.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

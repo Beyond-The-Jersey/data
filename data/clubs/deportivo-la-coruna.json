@@ -1,0 +1,14 @@
+{
+  "id": "deportivo-la-coruna",
+  "name": "Deportivo A Coruna",
+  "shortName": "Deportivo",
+  "code": "DEP",
+  "sportId": "soccer",
+  "leagueId": "la-liga",
+  "country": "Spain",
+  "crest": "assets/crests/deportivo-la-coruna.png",
+  "aliases": [
+    "deportivo"
+  ],
+  "hasTeamPageDesign": false
+}

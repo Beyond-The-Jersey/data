@@ -1,0 +1,24 @@
+{
+  "id": "chicago-fire-2026-27-home",
+  "clubId": "chicago-fire",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026-27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "carvana",
+      "placement": "front",
+      "source": {
+        "name": "chicagofirefc.com",
+        "date": "2026-02-14",
+        "url": "https://www.chicagofirefc.com/news/chicago-fire-fc-unveils-new-forever-red-kit-to-heat-up-2026-season"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+}

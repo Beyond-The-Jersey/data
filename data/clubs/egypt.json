@@ -1,0 +1,11 @@
+{
+  "id": "egypt",
+  "name": "Egypt",
+  "shortName": "Egypt",
+  "code": "EGY",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Egypt",
+  "crest": "assets/crests/egypt.png",
+  "aliases": []
+}

@@ -1,0 +1,11 @@
+{
+  "id": "sassuolo",
+  "name": "US Sassuolo",
+  "shortName": "Sassuolo",
+  "code": "SAS",
+  "sportId": "soccer",
+  "leagueId": "serie-a",
+  "country": "Italy",
+  "crest": "assets/crests/sassuolo.png",
+  "aliases": []
+}

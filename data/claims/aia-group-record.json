@@ -1,0 +1,14 @@
+{
+  "id": "aia-group-record",
+  "ownerIds": [
+    "aia-group"
+  ],
+  "text": "AIA Group Limited is incorporated in Hong Kong and listed on the Hong Kong Stock Exchange (stock code 1299); it is the largest independent publicly listed pan-Asian life insurer. No state or state-fund owner.",
+  "short": "AIA Group Limited is a Hong Kong-listed insurer.",
+  "source": {
+    "name": "AIA Group press release",
+    "date": "2023-07-13",
+    "url": "https://www.aia.com/content/dam/group-wise/en/docs/press-release/2023/AIA%20Group%20Press%20Release_ENG_13%20July%202023.pdf.coredownload.pdf"
+  },
+  "reviewed": false
+}

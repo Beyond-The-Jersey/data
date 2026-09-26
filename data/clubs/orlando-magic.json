@@ -1,0 +1,12 @@
+{
+  "id": "orlando-magic",
+  "name": "Orlando Magic",
+  "shortName": "Magic",
+  "code": "ORL",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "USA",
+  "crest": "assets/crests/orlando-magic.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

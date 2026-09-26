@@ -1,0 +1,14 @@
+{
+  "id": "le-havre-ac",
+  "name": "Le Havre AC",
+  "shortName": "Le Havre",
+  "code": "HAC",
+  "sportId": "soccer",
+  "leagueId": "ligue-1",
+  "country": "France",
+  "crest": "assets/crests/le-havre-ac.png",
+  "aliases": [
+    "le havre",
+    "hac"
+  ]
+}

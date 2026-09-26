@@ -1,0 +1,14 @@
+{
+  "id": "standard-chartered-plc-record",
+  "ownerIds": [
+    "standard-chartered-plc"
+  ],
+  "text": "Standard Chartered plc is a London-listed bank with dispersed shareholders and no state owner. Its conduct record is sustained: a $227m forfeiture in 2012 (Iran, Sudan, Libya, Burma) and about $1.1bn in 2019 for Iran-related sanctions/AML failures.",
+  "short": "Standard Chartered is a listed bank with a sustained sanctions-fine record.",
+  "source": {
+    "name": "US DOJ press release (2012 forfeiture)",
+    "date": "2012-12-10",
+    "url": "https://www.justice.gov/archives/opa/pr/standard-chartered-bank-agrees-forfeit-227-million-illegal-transactions-iran-sudan-libya-and"
+  },
+  "reviewed": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": "green-bay-packers",
+  "name": "Green Bay Packers",
+  "shortName": "Packers",
+  "code": "GB",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/green-bay-packers.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

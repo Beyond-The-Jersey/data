@@ -1,0 +1,14 @@
+{
+  "id": "puma-am",
+  "name": "PUMA",
+  "ownerId": "anta-sports-products",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by ANTA Sports Products Limited. Nothing found.",
+  "claimIds": [
+    "anta-sports-products-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Duplicate of the 'puma' sponsor record on a different car; kept separate because the dataset lists them separately."
+}

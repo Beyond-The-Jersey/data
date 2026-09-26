@@ -1,0 +1,11 @@
+{
+  "id": "qatar",
+  "name": "Qatar",
+  "shortName": "Qatar",
+  "code": "QAT",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Qatar",
+  "crest": "assets/crests/qatar.png",
+  "aliases": []
+}

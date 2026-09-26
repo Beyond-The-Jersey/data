@@ -1,0 +1,24 @@
+{
+  "id": "atlanta-braves-2026-27-home",
+  "clubId": "atlanta-braves",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "quikrete",
+      "placement": "patch",
+      "source": {
+        "name": "MLB.com press release (Atlanta Braves)",
+        "date": "2023-05-18",
+        "url": "https://www.mlb.com/press-release/press-release-atlanta-braves-name-quikrete-as-the-team-s-first-official-jersey-p"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: QUIKRETE.",
+  "change": null
+}

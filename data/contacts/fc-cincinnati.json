@@ -1,0 +1,62 @@
+{
+  "clubId": "fc-cincinnati",
+  "channels": [
+    {
+      "type": "website",
+      "value": "https://www.fccincinnati.com",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.fccincinnati.com",
+        "date": "2026-09-24"
+      },
+      "label": "Club website"
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.fccincinnati.com/tickets/contact-us",
+      "source": {
+        "name": "Club website (client-rendered route: returns 404 to a non-JS client, real in a browser)",
+        "url": "https://www.fccincinnati.com/tickets/contact-us",
+        "date": "2026-09-24"
+      },
+      "label": "Ticket office contact"
+    },
+    {
+      "type": "email",
+      "value": "tickets@fccincinnati.com",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.fccincinnati.com/tickets/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "+1 513-977-5425",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.fccincinnati.com/tickets/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@fccincinnati",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.fccincinnati.com",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@fccincinnati",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.fccincinnati.com",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

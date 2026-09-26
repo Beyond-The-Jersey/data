@@ -1,0 +1,14 @@
+{
+  "id": "barmenia",
+  "name": "Barmenia",
+  "ownerId": "barmenia-versicherungen-ag",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Barmenia Versicherungen a.G. (BarmeniaGothaer Group). Nothing found.",
+  "claimIds": [
+    "barmenia-versicherungen-ag-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: German mutual 'a.G.' structure; Barmenia holds 36% and Gothaer 64% of the joint holding after the 2023/24 merger. No state capital."
+}

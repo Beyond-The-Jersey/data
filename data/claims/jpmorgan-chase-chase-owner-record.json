@@ -1,0 +1,14 @@
+{
+  "id": "jpmorgan-chase-chase-owner-record",
+  "ownerIds": [
+    "jpmorgan-chase-owner"
+  ],
+  "text": "JPMorgan Chase & Co. is the ultimate owner of JPMorgan Chase (Chase).",
+  "short": "JPMorgan Chase & Co.",
+  "source": {
+    "name": "JPMorgan Chase Investor Relations",
+    "date": "2026-09-25",
+    "url": "https://www.jpmorganchase.com"
+  },
+  "reviewed": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "barcelona-spotify",
+  "clubId": "barcelona",
+  "orgName": null,
+  "sponsorId": "spotify",
+  "placement": "front",
+  "from": "2022-23",
+  "to": "2029-30",
+  "value": {
+    "amount": 65,
+    "currency": "EUR",
+    "unit": "m",
+    "per": "year",
+    "upTo": false,
+    "usdApprox": 75
+  },
+  "source": {
+    "name": "SportsPro, Barcelona Spotify and Camp Nou naming rights",
+    "date": "2025-10",
+    "url": "https://www.sportspro.com/news/sponsorship-marketing/sponsorship/barcelona-spotify-shirt-sponsor-camp-nou-naming-rights-october-2025/"
+  },
+  "note": "Reported EUR65m a year for the shirt plus training wear and naming rights."
+}

@@ -1,0 +1,12 @@
+{
+  "id": "new-york-yankees",
+  "name": "New York Yankees",
+  "shortName": "Yankees",
+  "code": "NYY",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "USA",
+  "crest": "assets/crests/new-york-yankees.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": "memphis-grizzlies",
+  "name": "Memphis Grizzlies",
+  "shortName": "Grizzlies",
+  "code": "MEM",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "USA",
+  "crest": "assets/crests/memphis-grizzlies.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

@@ -1,0 +1,11 @@
+{
+  "id": "mexico",
+  "name": "Mexico",
+  "shortName": "Mexico",
+  "code": "MEX",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Mexico",
+  "crest": "assets/crests/mexico.png",
+  "aliases": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "chicago-white-sox-rate-stadium",
+  "clubId": "chicago-white-sox",
+  "orgName": "Rate (formerly Guaranteed Rate)",
+  "sponsorId": "rate",
+  "placement": "stadium",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "MLB.com press release",
+    "date": "2024-12-18",
+    "url": "https://www.mlb.com/press-release/press-release-rate-and-chicago-white-sox-announce-rebrand-of-ballpark-introducing-rate-field"
+  },
+  "note": "Arena naming rights: Rate Field. Start date unknown: the record said 2026 (the season it was recorded), its source is from 2024-12-18."
+}

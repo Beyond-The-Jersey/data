@@ -1,0 +1,9 @@
+{
+  "id": "stc",
+  "name": "stc (Saudi Telecom Company)",
+  "type": "listed-company",
+  "country": "Saudi Arabia",
+  "via": "PIF",
+  "note": "PIF is the majority shareholder; parent of neoleap.",
+  "parentId": "saudi-pif"
+}

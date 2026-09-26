@@ -1,0 +1,52 @@
+{
+  "clubId": "cadillac",
+  "channels": [
+    {
+      "type": "email",
+      "value": "media@cadillacf1team.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.cadillacf1team.com/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "generalenquiries@cadillacf1team.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.cadillacf1team.com/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.cadillacf1team.com/contact-us",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.cadillacf1team.com/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@cadillac_f1",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.cadillacf1team.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@CadillacF1",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.cadillacf1team.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

@@ -1,0 +1,43 @@
+{
+  "clubId": "seattle-seahawks",
+  "channels": [
+    {
+      "type": "phone",
+      "value": "+14252038444",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.seahawks.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://suites.seahawks.com/contact?utm_source=web-app&amp;utm_medium=button&amp;utm_campaign=4415546923_sr26&amp;utm_content=home-page",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://suites.seahawks.com/contact?utm_source=web-app&amp;utm_medium=button&amp;utm_campaign=4415546923_sr26&amp;utm_content=home-page",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@Seahawks",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.seahawks.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@seahawks",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.seahawks.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

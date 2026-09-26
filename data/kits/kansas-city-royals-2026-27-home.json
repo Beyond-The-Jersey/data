@@ -1,0 +1,24 @@
+{
+  "id": "kansas-city-royals-2026-27-home",
+  "clubId": "kansas-city-royals",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "quiktrip",
+      "placement": "patch",
+      "source": {
+        "name": "MLB.com / Kansas City Royals",
+        "date": "2024-02-21",
+        "url": "https://www.mlb.com/news/royals-announce-jersey-patch-sponsor-with-quiktrip"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: QuikTrip.",
+  "change": null
+}

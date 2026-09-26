@@ -1,0 +1,14 @@
+{
+  "id": "hugo",
+  "name": "HUGO",
+  "ownerId": "hugo-boss-ag",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by HUGO BOSS AG. Nothing found.",
+  "claimIds": [
+    "hugo-boss-ag-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: The company's own IR page states the majority of shares are in free float."
+}

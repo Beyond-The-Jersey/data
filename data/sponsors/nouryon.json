@@ -1,0 +1,14 @@
+{
+  "id": "nouryon",
+  "name": "Nouryon",
+  "ownerId": "carlyle-group-and-gic",
+  "ownership": "owned",
+  "tier": "concern",
+  "status": "rated",
+  "verdict": "Nouryon (formerly AkzoNobel Specialty Chemicals) is a privately held Dutch specialty chemicals group bought in 2018 for EUR 10.1bn and jointly owned by….",
+  "claimIds": [
+    "carlyle-group-and-gic-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Tiered 'concern' not 'serious' because GIC co-owns with private-equity capital rather than holding 100%. Nouryon does not publish an exact split; 'jointly owned' implies broadly equal stakes."
+}

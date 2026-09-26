@@ -1,0 +1,17 @@
+{
+  "id": "uefa-haier-ucl",
+  "clubId": null,
+  "orgName": "UEFA Champions League",
+  "sponsorId": "haier",
+  "placement": "league-partner",
+  "from": "2027-28",
+  "to": "2030-31",
+  "value": null,
+  "source": {
+    "name": "PR Newswire (Haier)",
+    "date": "2026-09-04",
+    "url": "https://www.prnewswire.com/news-releases/haier-announces-global-partnership-with-uefa-champions-league-302869814.html"
+  },
+  "leagueId": "uefa",
+  "note": "Global Partner from the 2027/28 season via UC3; also covers the UEFA Super Cup, UEFA Youth League Finals and UEFA Futsal Champions League Finals. Exclusive worldwide rights in home appliances, televisions and commercial display screens."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "olympique-lyonnais",
+  "name": "Olympique Lyonnais",
+  "shortName": "Lyon",
+  "code": "OL",
+  "sportId": "soccer",
+  "leagueId": "ligue-1",
+  "country": "France",
+  "crest": "assets/crests/olympique-lyonnais.png",
+  "aliases": [
+    "lyon",
+    "ol"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "tecnocasa-group",
+  "name": "Tecnocasa Group",
+  "ownerId": "tecnocasa-holding-spa",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Tecnocasa Holding S.p.A.. Nothing found.",
+  "claimIds": [
+    "tecnocasa-holding-spa-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Private Italian holding, founding-franchise structured; not listed, no state capital found."
+}

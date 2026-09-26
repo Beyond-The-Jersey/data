@@ -1,0 +1,16 @@
+{
+  "id": "dallas-mavericks-jpmorganchase-patch",
+  "clubId": "dallas-mavericks",
+  "orgName": "JPMorganChase (Chase)",
+  "sponsorId": "jpmorganchase",
+  "placement": "patch",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "JPMorgan Chase Newsroom",
+    "date": "2026-07-08",
+    "url": "https://www.jpmorganchase.com/newsroom/press-releases/2026/chasedallasmavs"
+  },
+  "note": "Jersey patch."
+}

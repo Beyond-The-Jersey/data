@@ -1,0 +1,52 @@
+{
+  "clubId": "crystal-palace",
+  "channels": [
+    {
+      "type": "email",
+      "value": "shop@cpfc.co.uk",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.cpfc.co.uk/contact-us/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "memberships@cpfc.co.uk",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.cpfc.co.uk/contact-us/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.cpfc.co.uk/contact-us/",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.cpfc.co.uk/contact-us/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@eastmamba",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.cpfc.co.uk/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@embed.js",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.cpfc.co.uk/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

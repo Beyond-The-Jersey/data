@@ -1,0 +1,26 @@
+{
+  "id": "bayern-munich-2022-23-home",
+  "clubId": "bayern-munich",
+  "season": "2022-23",
+  "kitType": "home",
+  "periodLabel": "2022-23",
+  "periodFrom": "2022-23",
+  "periodTo": "2022-23",
+  "photos": {
+    "square": "assets/shirts/grid/bayern-munich-2022-23-home-front-square.jpg"
+  },
+  "sponsors": [
+    {
+      "sponsorId": "deutsche-telekom",
+      "placement": "front",
+      "source": {
+        "name": "Footy Headlines, FC Bayern 2022-23 home kit",
+        "date": "2022-03-01",
+        "url": "https://www.bavarianfootballworks.com/2022/3/1/22954757/bayern-munich-kit-leak-deutsche-telekom-sponsor-logo-change-bundesliga-pokal-champions-league"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Telekom's long run on the Bayern front, in the season the logo changed.",
+  "change": null
+}

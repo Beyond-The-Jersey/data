@@ -1,0 +1,11 @@
+{
+  "id": "haiti",
+  "name": "Haiti",
+  "shortName": "Haiti",
+  "code": "HAI",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Haiti",
+  "crest": "assets/crests/haiti.png",
+  "aliases": []
+}

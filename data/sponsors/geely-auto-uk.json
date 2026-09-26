@@ -1,0 +1,14 @@
+{
+  "id": "geely-auto-uk",
+  "name": "Geely Auto UK",
+  "ownerId": "zhejiang-geely-holding-group",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Zhejiang Geely Holding Group Co., Ltd.. Nothing found.",
+  "claimIds": [
+    "zhejiang-geely-holding-group-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Geely Holding has had state-linked co-investors and provincial funds at points, but the disclosed ultimate beneficial owner is Li Shufu, so no material state stake was established."
+}

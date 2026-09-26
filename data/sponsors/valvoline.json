@@ -1,0 +1,14 @@
+{
+  "id": "valvoline",
+  "name": "Valvoline Global Operations",
+  "ownerId": "saudi-aramco",
+  "ownership": "owned",
+  "tier": "serious",
+  "status": "rated",
+  "verdict": "Valvoline Global Operations is the former Valvoline Inc.",
+  "claimIds": [
+    "saudi-aramco-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Called 'serious' not 'severe' under the Gulf-state rule. Saudi Arabia is a party to the Yemen conflict but large-scale coalition operations have wound down; if the dataset treats Yemen as live, this and Aramco's other sponsorships would move to 'severe'."
+}

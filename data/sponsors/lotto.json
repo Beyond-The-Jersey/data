@@ -1,0 +1,14 @@
+{
+  "id": "lotto",
+  "name": "Lotto",
+  "ownerId": "government-of-belgium",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": [
+    "belgian national lottery"
+  ],
+  "note": "Belgium's state National Lottery; title sponsor."
+}

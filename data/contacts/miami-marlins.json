@@ -1,0 +1,52 @@
+{
+  "clubId": "miami-marlins",
+  "channels": [
+    {
+      "type": "email",
+      "value": "enrollment@marlins.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/marlins/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "groups@marlins.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/marlins/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.mlb.com/marlins/official-information/contact",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/marlins/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@marlins",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/marlins",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@marlins",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/marlins",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

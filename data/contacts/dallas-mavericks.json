@@ -1,0 +1,24 @@
+{
+  "clubId": "dallas-mavericks",
+  "channels": [
+    {
+      "type": "x",
+      "value": "@dallasmavs",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/mavs/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@dallasmavs",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/mavs/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

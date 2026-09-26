@@ -1,0 +1,14 @@
+{
+  "id": "american-family-insurance",
+  "name": "American Family Insurance",
+  "ownerId": "american-family-mutual-insurance-company",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by American Family Mutual Insurance Company, S.I.. Nothing found.",
+  "claimIds": [
+    "american-family-mutual-insurance-company-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Type recorded as private-company because policyholder-owned mutuals are not listed; effectively member-owned."
+}

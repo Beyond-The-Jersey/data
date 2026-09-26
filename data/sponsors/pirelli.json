@@ -1,0 +1,14 @@
+{
+  "id": "pirelli",
+  "name": "Pirelli",
+  "ownerId": "sinochem-holdings",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "being-rated",
+  "verdict": "Pirelli & C.",
+  "claimIds": [
+    "sinochem-holdings-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: State stake is being reduced (talk of a further cut toward 10%) but Sinochem remained Pirelli's second-largest shareholder after the July 2026 sale, so 'serious' still stands. Camfin (Tronchetti Provera family) is the largest holder. ON HOLD: a minority state stake (about 20%): concern at most under tiers.json."
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cape-verde",
+  "name": "Cape Verde",
+  "shortName": "Cape Verde",
+  "code": "CPV",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Cape Verde",
+  "crest": "assets/crests/cape-verde.png",
+  "aliases": []
+}

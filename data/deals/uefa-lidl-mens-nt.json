@@ -1,0 +1,17 @@
+{
+  "id": "uefa-lidl-mens-nt",
+  "clubId": null,
+  "orgName": "UEFA men's national team competitions",
+  "sponsorId": "lidl",
+  "placement": "league-partner",
+  "from": "2026",
+  "to": "2030",
+  "value": null,
+  "source": {
+    "name": "UEFA.com",
+    "date": "2026-03-17",
+    "url": "https://www.uefa.com/news-media/news/02a3-202a8f624e95-645f8d48f865-1000--uefa-announces-first-strategic-corporate-partnership-with-c/"
+  },
+  "leagueId": "uefa",
+  "note": "Lidl becomes a sponsor of UEFA men's national team competitions until 2030, building on its women's national team and club-competition deals; includes UEFA EURO 2028."
+}

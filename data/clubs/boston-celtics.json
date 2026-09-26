@@ -1,0 +1,12 @@
+{
+  "id": "boston-celtics",
+  "name": "Boston Celtics",
+  "shortName": "Celtics",
+  "code": "BOS",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "USA",
+  "crest": "assets/crests/boston-celtics.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

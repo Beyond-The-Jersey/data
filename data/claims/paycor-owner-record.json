@@ -1,0 +1,14 @@
+{
+  "id": "paycor-owner-record",
+  "ownerIds": [
+    "paycor-owner"
+  ],
+  "text": "Paycor, Inc. is owned by Paycor. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+  "short": "Paycor, Inc.",
+  "source": {
+    "name": "PAYCHEX INC DEF 14A 2026 (SEC)",
+    "date": "2026-09-04",
+    "url": "https://www.sec.gov/Archives/edgar/data/723531/000119312526382805/d111983ddef14a.htm"
+  },
+  "reviewed": false
+}

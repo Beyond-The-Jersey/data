@@ -1,0 +1,14 @@
+{
+  "id": "cmc-markets-plc-record",
+  "ownerIds": [
+    "cmc-markets-plc"
+  ],
+  "text": "CMC Markets plc is a London-listed CFD broker founded by Peter Cruddas, Baron Cruddas, whose family is a significant shareholder alongside a free float. No state or state-fund owner.",
+  "short": "CMC Markets plc is a London-listed broker with a founder-family stake.",
+  "source": {
+    "name": "CMC Markets, press release (Peter Cruddas appointed to the House of Lords)",
+    "date": "2020",
+    "url": "https://www.cmcmarkets.com/group/press-releases/peter-cruddas-appointed-to-the-house-of-lords-as-baron-cruddas-of-shoreditch"
+  },
+  "reviewed": false
+}

@@ -1,0 +1,11 @@
+{
+  "id": "colombia",
+  "name": "Colombia",
+  "shortName": "Colombia",
+  "code": "COL",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Colombia",
+  "crest": "assets/crests/colombia.png",
+  "aliases": []
+}

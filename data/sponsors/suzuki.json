@@ -1,0 +1,14 @@
+{
+  "id": "suzuki",
+  "name": "Suzuki",
+  "ownerId": "suzuki-motor-corporation",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Suzuki Motor Corporation. Nothing found.",
+  "claimIds": [
+    "suzuki-motor-corporation-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: No state stake; the PDF extract was thin, so the ownership conclusion rests on the listed, dispersed structure rather than a quoted holder table."
+}

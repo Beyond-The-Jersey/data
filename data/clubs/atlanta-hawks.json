@@ -1,0 +1,12 @@
+{
+  "id": "atlanta-hawks",
+  "name": "Atlanta Hawks",
+  "shortName": "Hawks",
+  "code": "ATL",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "USA",
+  "crest": "assets/crests/atlanta-hawks.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

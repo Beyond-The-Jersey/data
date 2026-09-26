@@ -1,0 +1,9 @@
+{
+  "id": "nhc",
+  "name": "NHC (National Housing Company)",
+  "type": "private-company",
+  "country": "Saudi Arabia",
+  "via": "Ministry of Municipal and Rural Affairs and Housing",
+  "note": "Set up by the ministry as its real-estate investment arm; state-owned.",
+  "parentId": "government-of-saudi-arabia"
+}

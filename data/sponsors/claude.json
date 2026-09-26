@@ -1,0 +1,14 @@
+{
+  "id": "claude",
+  "name": "Claude",
+  "ownerId": "anthropic",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Anthropic PBC. Nothing found.",
+  "claimIds": [
+    "anthropic-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Stake figures come from court filings reported by NYT (Google ~14%) and from Amazon/Google quarterly disclosures for the Amazon figure; both are minority and none is controlling."
+}

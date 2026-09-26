@@ -1,0 +1,12 @@
+{
+  "id": "dallas-cowboys",
+  "name": "Dallas Cowboys",
+  "shortName": "Cowboys",
+  "code": "DAL",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/dallas-cowboys.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

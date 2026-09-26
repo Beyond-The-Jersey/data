@@ -1,0 +1,24 @@
+{
+  "id": "venezia-2026-27-home",
+  "clubId": "venezia",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026-27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "cynar-spritz",
+      "placement": "front",
+      "source": {
+        "name": "Venezia FC",
+        "date": "2026-08-23",
+        "url": "https://www.veneziafc.it/news/cynar-spritz-rinnova-il-suo-impegno-accanto-al-venezia-fc-e-lancia-un-nuovo-capitolo-di-contro-il-logorio-della-vita-moderna"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": null
+}

@@ -1,0 +1,11 @@
+{
+  "id": "uruguay",
+  "name": "Uruguay",
+  "shortName": "Uruguay",
+  "code": "URU",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "Uruguay",
+  "crest": "assets/crests/uruguay.png",
+  "aliases": []
+}

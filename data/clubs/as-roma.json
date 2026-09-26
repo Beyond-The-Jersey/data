@@ -1,0 +1,11 @@
+{
+  "id": "as-roma",
+  "name": "AS Roma",
+  "shortName": "Roma",
+  "code": "ROM",
+  "sportId": "soccer",
+  "leagueId": "serie-a",
+  "country": "Italy",
+  "crest": "assets/crests/as-roma.png",
+  "aliases": []
+}

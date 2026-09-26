@@ -1,0 +1,14 @@
+{
+  "id": "york-space-systems-owner-record",
+  "ownerIds": [
+    "york-space-systems-owner"
+  ],
+  "text": "York Space Systems, Inc. is owned by York Space Systems. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+  "short": "York Space Systems, Inc.",
+  "source": {
+    "name": "York Space Systems Inc. 10-K 2026 (SEC)",
+    "date": "2026-03-20",
+    "url": "https://www.sec.gov/Archives/edgar/data/2086587/000162828026019923/yorkspacesystemsinc10-k.htm"
+  },
+  "reviewed": false
+}

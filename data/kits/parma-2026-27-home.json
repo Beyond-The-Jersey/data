@@ -1,0 +1,24 @@
+{
+  "id": "parma-2026-27-home",
+  "clubId": "parma",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026-27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "prometeon",
+      "placement": "front",
+      "source": {
+        "name": "Parma Calcio 1913",
+        "date": "2025-10-30",
+        "url": "https://www.parmacalcio1913.com/en/main-news/prometeon-and-parma-calcio-together-on-the-pitch-again/"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": "Prometeon is main sponsor; AdmiralBet.news also front of shirt."
+}

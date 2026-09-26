@@ -1,0 +1,14 @@
+{
+  "id": "team-picnic-postnl",
+  "name": "Team Picnic PostNL",
+  "shortName": "Picnic PostNL",
+  "code": "TPP",
+  "sportId": "cycling",
+  "leagueId": "uci-worldtour",
+  "country": "Netherlands",
+  "crest": "assets/crests/team-picnic-postnl.png",
+  "aliases": [
+    "team-dsm",
+    "dsm-firmenich"
+  ]
+}

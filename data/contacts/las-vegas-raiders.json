@@ -1,0 +1,43 @@
+{
+  "clubId": "las-vegas-raiders",
+  "channels": [
+    {
+      "type": "phone",
+      "value": "18007243377",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.raiders.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.raiders.com/about/contact-us",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.raiders.com/about/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@raiders",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.raiders.com/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@raiders",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.raiders.com/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

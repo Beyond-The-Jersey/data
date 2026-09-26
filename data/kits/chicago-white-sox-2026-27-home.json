@@ -1,0 +1,24 @@
+{
+  "id": "chicago-white-sox-2026-27-home",
+  "clubId": "chicago-white-sox",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "cme-group",
+      "placement": "patch",
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2026-01-28",
+        "url": "https://www.sportsbusinessjournal.com/Articles/2026/01/28/white-sox-add-cme-group-as-jersey-patch-sponsor"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: CME Group.",
+  "change": null
+}

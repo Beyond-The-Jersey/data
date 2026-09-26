@@ -1,0 +1,14 @@
+{
+  "id": "hard-rock",
+  "name": "Hard Rock International",
+  "ownerId": "seminole-tribe-of-florida",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Seminole Tribe of Florida (Hard Rock International). Nothing found.",
+  "claimIds": [
+    "seminole-tribe-of-florida-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Owner type mapped to private-company because the enum has no 'tribe' value. Revisit if the schema later adds one."
+}

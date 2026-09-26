@@ -1,0 +1,14 @@
+{
+  "id": "xds-astana-team",
+  "name": "XDS Astana Team",
+  "shortName": "XDS Astana",
+  "code": "XAT",
+  "sportId": "cycling",
+  "leagueId": "uci-worldtour",
+  "country": "Kazakhstan",
+  "crest": "assets/crests/xds-astana-team.png",
+  "aliases": [
+    "astana-qazaqstan",
+    "astana"
+  ]
+}

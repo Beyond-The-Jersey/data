@@ -1,0 +1,96 @@
+{
+  "id": "racing-bulls-2026-home",
+  "clubId": "racing-bulls",
+  "season": "2026",
+  "kitType": "home",
+  "periodLabel": "2026",
+  "periodFrom": "2026",
+  "periodTo": "2026",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "visa-rb",
+      "placement": "front",
+      "source": {
+        "name": "Visa Investor Relations – Visa renews partnership across Red Bull Formula One teams",
+        "date": "2026-02-21",
+        "url": "https://investor.visa.com/news/news-details/2026/Visa-Renews-Partnership-Across-Red-Bull-Formula-One-Teams"
+      }
+    },
+    {
+      "sponsorId": "cash-app",
+      "placement": "front",
+      "source": {
+        "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.visacashapprb.com/en/partners"
+      }
+    },
+    {
+      "sponsorId": "red-bull",
+      "placement": "front",
+      "source": {
+        "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.visacashapprb.com/en/partners"
+      }
+    },
+    {
+      "sponsorId": "ford-rb",
+      "placement": "sleeve",
+      "source": {
+        "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.visacashapprb.com/en/partners"
+      }
+    },
+    {
+      "sponsorId": "tudor",
+      "placement": "partner",
+      "source": {
+        "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.visacashapprb.com/en/partners"
+      }
+    },
+    {
+      "sponsorId": "hugo",
+      "placement": "partner",
+      "source": {
+        "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.visacashapprb.com/en/partners"
+      }
+    },
+    {
+      "sponsorId": "mobil-1-rb",
+      "placement": "partner",
+      "source": {
+        "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.visacashapprb.com/en/partners"
+      }
+    },
+    {
+      "sponsorId": "salesforce",
+      "placement": "partner",
+      "source": {
+        "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.visacashapprb.com/en/partners"
+      }
+    },
+    {
+      "sponsorId": "nouryon",
+      "placement": "partner",
+      "source": {
+        "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.visacashapprb.com/en/partners"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": "2026 car. S"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "st-louis-city",
+  "name": "St. Louis CITY SC",
+  "shortName": "St. Louis City",
+  "code": "STL",
+  "sportId": "soccer",
+  "leagueId": "mls",
+  "country": "USA",
+  "crest": "assets/crests/st-louis-city.png",
+  "aliases": []
+}

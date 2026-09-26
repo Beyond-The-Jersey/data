@@ -1,0 +1,15 @@
+{
+  "id": "manutd-aeroflot-2022",
+  "year": 2022,
+  "clubId": "manchester-united",
+  "sponsorId": "aeroflot",
+  "what": "Dropped Aeroflot",
+  "text": "Ended the deal early and said it shared fans’ concerns.",
+  "source": {
+    "name": "ESPN",
+    "date": "2022-02-25",
+    "url": "https://www.espn.com/soccer/story/_/id/37625797/man-united-cut-sponsorship-russian-airline-aeroflot-amid-ukraine-invasion",
+    "note": "United withdrew Aeroflot's sponsorship rights and said it shared fans' concerns."
+  },
+  "featured": true
+}

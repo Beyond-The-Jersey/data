@@ -1,0 +1,14 @@
+{
+  "id": "directv",
+  "name": "DirecTV",
+  "ownerId": "tpg",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by TPG Capital (TPG Inc.). Nothing found.",
+  "claimIds": [
+    "tpg-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: TPG Inc. is itself Nasdaq-listed, but DirecTV is held by TPG's private funds, so the owner type is private-company."
+}

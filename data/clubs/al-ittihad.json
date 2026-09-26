@@ -1,0 +1,15 @@
+{
+  "id": "al-ittihad",
+  "name": "Al-Ittihad",
+  "shortName": "Al-Ittihad",
+  "code": "ITT",
+  "sportId": "soccer",
+  "leagueId": "saudi-pro-league",
+  "country": "Saudi Arabia",
+  "crest": "assets/crests/al-ittihad.png",
+  "aliases": [
+    "al ittihad",
+    "ittihad",
+    "al ittihad jeddah"
+  ]
+}

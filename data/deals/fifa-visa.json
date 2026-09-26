@@ -1,0 +1,17 @@
+{
+  "id": "fifa-visa",
+  "clubId": null,
+  "orgName": "FIFA",
+  "sponsorId": "visa",
+  "placement": "league-partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "FIFA - Partners (Visa page)",
+    "date": "2025-02-17",
+    "url": "https://inside.fifa.com/tournament-organisation/partners/visa"
+  },
+  "leagueId": "fifa",
+  "note": "Official Payment Technology Partner; page text still says 'through 2022' but Visa is listed as a current partner."
+}

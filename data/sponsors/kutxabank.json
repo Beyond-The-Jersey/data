@@ -1,0 +1,14 @@
+{
+  "id": "kutxabank",
+  "name": "Kutxabank",
+  "ownerId": "kutxabank-sa",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Kutxabank, S.A. (owned by BBK, Kutxa and Vital foundations). Nothing found.",
+  "claimIds": [
+    "kutxabank-sa-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Flagged for proper look because savings-bank ownership feels public; legally the owners are private foundations, so none rather than concern. Not listed (no IPO; the foundations' reserve funds keep it unlisted)."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "borussia-dortmund",
+  "name": "Borussia Dortmund",
+  "shortName": "Dortmund",
+  "code": "BVB",
+  "sportId": "soccer",
+  "leagueId": "bundesliga",
+  "country": "Germany",
+  "crest": "assets/crests/borussia-dortmund.png",
+  "aliases": [
+    "bvb"
+  ],
+  "hasTeamPageDesign": false
+}

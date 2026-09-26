@@ -1,0 +1,16 @@
+{
+  "id": "texas-rangers-energy-transfer-patch",
+  "clubId": "texas-rangers",
+  "orgName": "Energy Transfer",
+  "sponsorId": "energy-transfer",
+  "placement": "patch",
+  "from": "2024",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Texas Rangers / MLB.com press release",
+    "date": "2024-03-27",
+    "url": "https://www.mlb.com/press-release/press-release-texas-rangers-announcement-multi-year-agreement-with-energy-transfer-to-become-team-s-official-jersey-patch-partner"
+  },
+  "note": "Jersey patch."
+}

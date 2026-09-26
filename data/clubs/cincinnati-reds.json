@@ -1,0 +1,12 @@
+{
+  "id": "cincinnati-reds",
+  "name": "Cincinnati Reds",
+  "shortName": "Reds",
+  "code": "CIN",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "USA",
+  "crest": "assets/crests/cincinnati-reds.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

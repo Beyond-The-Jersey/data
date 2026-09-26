@@ -1,0 +1,18 @@
+{
+  "id": "saudi-pro-league-roshn",
+  "clubId": null,
+  "orgName": "Roshn Saudi League",
+  "sponsorId": "roshn",
+  "placement": "league-partner",
+  "from": null,
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "ROSHN – ROSHN Saudi League sponsorship",
+    "date": "2026-09-24",
+    "url": "https://www.roshn.sa/sponsorships/roshn-saudi-league",
+    "note": "ROSHN (a PIF company) names the league. No contract term shown."
+  },
+  "leagueId": "saudi-pro-league",
+  "note": "League-wide partner, attached to no single club."
+}

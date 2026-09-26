@@ -1,0 +1,15 @@
+{
+  "id": "fc-koln",
+  "name": "1. FC Koeln",
+  "shortName": "Koeln",
+  "code": "KOE",
+  "sportId": "soccer",
+  "leagueId": "bundesliga",
+  "country": "Germany",
+  "crest": "assets/crests/fc-koln.png",
+  "aliases": [
+    "koln",
+    "cologne"
+  ],
+  "hasTeamPageDesign": false
+}

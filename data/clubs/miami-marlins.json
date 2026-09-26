@@ -1,0 +1,12 @@
+{
+  "id": "miami-marlins",
+  "name": "Miami Marlins",
+  "shortName": "Marlins",
+  "code": "MIA",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "USA",
+  "crest": "assets/crests/miami-marlins.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

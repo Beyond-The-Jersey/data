@@ -1,0 +1,16 @@
+{
+  "id": "mercedes-teamviewer",
+  "clubId": "mercedes",
+  "orgName": null,
+  "sponsorId": "teamviewer",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Mercedes-AMG PETRONAS F1 Team – Our Partners",
+    "date": "2026-09-24",
+    "url": "https://www.mercedesamgf1.com/partners"
+  },
+  "note": "Mercedes-AMG PETRONAS F1 Team other partner on the 2026 car."
+}

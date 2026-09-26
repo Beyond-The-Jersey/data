@@ -1,0 +1,14 @@
+{
+  "id": "trade-nation",
+  "name": "Trade Nation",
+  "ownerId": "jasper-white",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Jasper White (private UK entrepreneur). Nothing found.",
+  "claimIds": [
+    "jasper-white-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Private individual owner → none. Source is trade press rather than a filing, hence medium confidence."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ligue-1",
+  "aliases": [
+    "france"
+  ],
+  "sportId": "soccer",
+  "name": "Ligue 1",
+  "country": "France",
+  "clubCount": 18,
+  "season": "2026-27",
+  "status": "partial",
+  "notes": [
+    "Paris Saint-Germain has Visit Rwanda until 2028."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "unicredit-spa-record",
+  "ownerIds": [
+    "unicredit-spa"
+  ],
+  "text": "UniCredit is a listed bank that states plainly it has no controlling shareholder or shareholder pact, with over 80% of capital held by professional investors mostly outside Italy. Its own structure chart shows sovereign wealth funds at about 6% and foundations at a similar level, so state money is present but not controlling. The Ferrari sleeve sponsorship is private bank money.",
+  "short": "UniCredit is a listed bank that states plainly it has no controlling shareholder or shareholder pact, with over 80% of capital held by professional investors….",
+  "source": {
+    "name": "UniCredit, Shareholders structure",
+    "date": "2026-09",
+    "url": "https://unicreditgroup.eu/en/investors/equity-investors/shareholders-structure.html"
+  },
+  "reviewed": false
+}

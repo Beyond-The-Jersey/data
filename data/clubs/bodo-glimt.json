@@ -1,0 +1,16 @@
+{
+  "id": "bodo-glimt",
+  "name": "FK Bodø/Glimt",
+  "shortName": "Bodø/Glimt",
+  "code": "BOD",
+  "sportId": "soccer",
+  "leagueId": "uefa",
+  "country": "Norway",
+  "crest": "assets/crests/bodo-glimt.png",
+  "aliases": [
+    "bodo/glimt",
+    "bodo glimt",
+    "glimt"
+  ],
+  "hasTeamPageDesign": false
+}

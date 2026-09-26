@@ -1,0 +1,11 @@
+{
+  "id": "helm-ag",
+  "name": "Helm",
+  "ownerId": "helm-ag",
+  "ownership": "owned",
+  "tier": "unrated",
+  "status": "unrated",
+  "verdict": null,
+  "claimIds": [],
+  "aliases": []
+}

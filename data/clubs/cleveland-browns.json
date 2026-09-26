@@ -1,0 +1,12 @@
+{
+  "id": "cleveland-browns",
+  "name": "Cleveland Browns",
+  "shortName": "Browns",
+  "code": "CLE",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/cleveland-browns.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

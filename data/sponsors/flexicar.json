@@ -1,0 +1,14 @@
+{
+  "id": "flexicar",
+  "name": "Flexicar",
+  "ownerId": "flexicar-internacional",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Flexicar Internacional (owner Luis Oliver Cornago). Nothing found.",
+  "claimIds": [
+    "flexicar-internacional-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Single-owner private group, ~180 dealerships in Spain/Portugal. Not the unrelated Australian Hertz franchise."
+}

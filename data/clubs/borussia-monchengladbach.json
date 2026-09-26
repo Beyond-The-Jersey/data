@@ -1,0 +1,14 @@
+{
+  "id": "borussia-monchengladbach",
+  "name": "Borussia Moenchengladbach",
+  "shortName": "Gladbach",
+  "code": "BMG",
+  "sportId": "soccer",
+  "leagueId": "bundesliga",
+  "country": "Germany",
+  "crest": "assets/crests/borussia-monchengladbach.png",
+  "aliases": [
+    "gladbach"
+  ],
+  "hasTeamPageDesign": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": "afc-bournemouth",
+  "name": "AFC Bournemouth",
+  "shortName": "Bournemouth",
+  "code": "BOU",
+  "sportId": "soccer",
+  "leagueId": "premier-league",
+  "country": "England",
+  "crest": "assets/crests/afc-bournemouth.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

@@ -1,0 +1,43 @@
+{
+  "clubId": "houston-astros",
+  "channels": [
+    {
+      "type": "email",
+      "value": "foundation@astros.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/astros/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.mlb.com/astros/official-information/contact",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/astros/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@astros",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/astros",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@astros",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/astros",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

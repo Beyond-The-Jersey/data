@@ -1,0 +1,16 @@
+{
+  "id": "la-liga",
+  "aliases": [
+    "laliga",
+    "spain"
+  ],
+  "sportId": "soccer",
+  "name": "La Liga",
+  "country": "Spain",
+  "clubCount": 20,
+  "season": "2026-27",
+  "status": "partial",
+  "notes": [
+    "All 20 clubs for 2026-27 are in the data; front sponsors are unrated."
+  ]
+}

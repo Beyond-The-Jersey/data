@@ -1,0 +1,14 @@
+{
+  "id": "clickhouse-inc-record",
+  "ownerIds": [
+    "clickhouse-inc"
+  ],
+  "text": "ClickHouse, Inc. is a private US analytics company; its later round (led by Dragoneer) and Series C (led by Khosla Ventures) brought in financial investors. Owner is private; only minority sovereign-fund exposure (GIC, Singapore).",
+  "short": "ClickHouse, Inc. is a private, VC-backed US company.",
+  "source": {
+    "name": "ClickHouse, Series C announcement",
+    "date": "2025-05",
+    "url": "https://clickhouse.com/blog/clickhouse-raises-350-million-series-c-to-power-analytics-for-ai-era"
+  },
+  "reviewed": false
+}

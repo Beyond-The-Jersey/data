@@ -1,0 +1,16 @@
+{
+  "id": "san-francisco-giants-airwallex-patch",
+  "clubId": "san-francisco-giants",
+  "orgName": "Airwallex",
+  "sponsorId": "airwallex",
+  "placement": "patch",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "MLB.com press release (San Francisco Giants)",
+    "date": "2026-02-18",
+    "url": "https://www.mlb.com/press-release/press-release-airwallex-becomes-the-giants-official-jersey-patch-partner"
+  },
+  "note": "Jersey patch."
+}

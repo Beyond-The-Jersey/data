@@ -1,0 +1,11 @@
+{
+  "id": "inter-milan",
+  "name": "Inter Milan",
+  "shortName": "Inter",
+  "code": "INT",
+  "sportId": "soccer",
+  "leagueId": "serie-a",
+  "country": "Italy",
+  "crest": "assets/crests/inter-milan.png",
+  "aliases": []
+}

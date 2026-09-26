@@ -1,0 +1,16 @@
+{
+  "id": "arizona-diamondbacks-avnet-patch",
+  "clubId": "arizona-diamondbacks",
+  "orgName": "Avnet",
+  "sponsorId": "avnet",
+  "placement": "patch",
+  "from": "2023",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "MLB.com / Arizona Diamondbacks",
+    "date": "2023-02-02",
+    "url": "https://www.mlb.com/press-release/press-release-arizona-diamondbacks-and-avnet-announce-new-partnership-to-include"
+  },
+  "note": "Jersey patch."
+}

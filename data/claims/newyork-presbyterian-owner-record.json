@@ -1,0 +1,14 @@
+{
+  "id": "newyork-presbyterian-owner-record",
+  "ownerIds": [
+    "newyork-presbyterian-owner"
+  ],
+  "text": "NewYork-Presbyterian Hospital is owned by NewYork-Presbyterian. No state shareholder identified. Ownership sits with public institutional and retail investors, so the sponsorship money is purely private capital.",
+  "short": "NewYork-Presbyterian Hospital is owned by NewYork-Presbyterian.",
+  "source": {
+    "name": "NewYork-Presbyterian About Us page",
+    "date": "2026-09-24",
+    "url": "https://www.nyp.org/about"
+  },
+  "reviewed": false
+}

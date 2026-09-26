@@ -1,0 +1,11 @@
+{
+  "id": "ferrari",
+  "name": "Scuderia Ferrari HP",
+  "shortName": "Ferrari",
+  "code": "FER",
+  "sportId": "motorsport",
+  "leagueId": "formula-1",
+  "country": "Italy",
+  "crest": "assets/crests/ferrari.png",
+  "aliases": []
+}

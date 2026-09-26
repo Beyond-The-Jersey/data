@@ -1,0 +1,58 @@
+{
+  "id": "arsenal-2025-26-home",
+  "clubId": "arsenal",
+  "season": "2025-26",
+  "kitType": "home",
+  "periodLabel": "2018/19 – 2025/26",
+  "periodFrom": "2018-19",
+  "periodTo": "2025-26",
+  "photos": {
+    "front": "assets/shirts/arsenal/2025-26-home-front.jpg",
+    "back": "assets/shirts/arsenal/2025-26-home-back.jpg",
+    "square": "assets/shirts/grid/arsenal-2025-26-home-front-square.jpg"
+  },
+  "sponsors": [
+    {
+      "sponsorId": "emirates",
+      "placement": "front",
+      "side": "front",
+      "hotspot": {
+        "x": 0.507,
+        "y": 0.395,
+        "w": 0.42,
+        "h": 0.17
+      },
+      "cardSlot": "L"
+    },
+    {
+      "sponsorId": "visit-rwanda",
+      "placement": "sleeve",
+      "side": "front",
+      "hotspot": {
+        "x": 0.881,
+        "y": 0.29,
+        "w": 0.06,
+        "h": 0.07
+      },
+      "cardSlot": "T"
+    },
+    {
+      "sponsorId": "deel",
+      "placement": "sleeve",
+      "source": {
+        "name": "Arsenal FC – 'Deel and Arsenal announce multi-year sleeve partnership'",
+        "date": "2026-05-14",
+        "url": "https://www.arsenal.com/news/deel-and-arsenal-announce-multi-year-sleeve-partnership-ai5MJ4o82lIM"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Dubai’s government pays for the front. Rwanda’s government pays for the sleeve.",
+  "change": {
+    "kind": "worse",
+    "text": "Worse from 2018: Visit Rwanda joined",
+    "badge": "+ Visit Rwanda"
+  },
+  "headline": "The shirt was {level}: Emirates on the front is owned by the Government of Dubai, and Visit Rwanda on the sleeve is paid for by the Government of Rwanda.",
+  "shortLine": "Emirates, plus Visit Rwanda on the sleeve"
+}

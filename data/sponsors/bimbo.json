@@ -1,0 +1,14 @@
+{
+  "id": "bimbo",
+  "name": "Bimbo (home) / Thomas' (away)",
+  "ownerId": "grupo-bimbo",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Grupo Bimbo, S.A.B. de C.V.. Nothing found.",
+  "claimIds": [
+    "grupo-bimbo-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: The site publishes shareholder structure as a downloadable table rather than inline, so the exact family percentage is not stated on the page itself."
+}

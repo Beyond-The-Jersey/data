@@ -1,0 +1,16 @@
+{
+  "id": "new-england-patriots-gillette-patch",
+  "clubId": "new-england-patriots",
+  "orgName": "Gillette",
+  "sponsorId": "gillette",
+  "placement": "training-kit",
+  "from": "2024",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Zoomph",
+    "date": "2026-09-01",
+    "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+  },
+  "note": "Practice-jersey patch."
+}

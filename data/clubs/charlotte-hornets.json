@@ -1,0 +1,12 @@
+{
+  "id": "charlotte-hornets",
+  "name": "Charlotte Hornets",
+  "shortName": "Hornets",
+  "code": "CHA",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "USA",
+  "crest": "assets/crests/charlotte-hornets.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

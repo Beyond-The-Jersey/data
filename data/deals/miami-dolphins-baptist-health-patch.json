@@ -1,0 +1,16 @@
+{
+  "id": "miami-dolphins-baptist-health-patch",
+  "clubId": "miami-dolphins",
+  "orgName": "Baptist Health",
+  "sponsorId": "baptist-health",
+  "placement": "training-kit",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Zoomph (2026 NFL practice jersey patch guide)",
+    "date": "2026-09-01",
+    "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+  },
+  "note": "Practice-jersey patch."
+}

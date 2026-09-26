@@ -1,0 +1,14 @@
+{
+  "id": "groupama-fdj-united",
+  "name": "Groupama-FDJ United",
+  "shortName": "Groupama-FDJ",
+  "code": "GFC",
+  "sportId": "cycling",
+  "leagueId": "uci-worldtour",
+  "country": "France",
+  "crest": "assets/crests/groupama-fdj-united.png",
+  "aliases": [
+    "groupama-fdj",
+    "fdj"
+  ]
+}

@@ -1,52 +1,27 @@
-# Wikimedia asset sourcing
+# Images: candidate sources and licences
 
-Every club in `normalized/clubs.json` now has a sourced crest, and every club with a
-current-season shirt has sourced home / away / third kit images — pulled from
-Wikipedia / Wikimedia Commons.
+Images are not part of the dataset. The website hosts the crests and shirt photos it shows
+(`public/assets/` in Beyond-The-Jersey/website), and records point at them by path
+(`clubs/*.json` → `crest`, `kits/*.json` → `photos`).
 
-Source: `assets/wikimedia-assets.csv`
+`wikimedia-assets.csv` lists candidate images from Wikipedia and Wikimedia Commons for every club,
+with the file page and licence of each, for attribution:
 
 | column | meaning |
 | --- | --- |
-| `club` | `clubs.json` id |
+| `club` | club id |
 | `asset` | `crest`, `kit-home`, `kit-away` or `kit-third` |
-| `wikimedia_file` | Commons / en.wiki `File:` title, needed for attribution |
-| `direct_url` | `upload.wikimedia.org` URL to download |
-| `license` | licence as stated on the file page |
-| `wikipedia_page` | page the asset was read from |
+| `wikimedia_file` | the `File:` title, needed for attribution |
+| `direct_url` | where to download it |
+| `license` | the licence stated on the file page |
+| `wikipedia_page` | the page it was read from |
 
-## Coverage
+**Crests** (331): the website uses these. 212 of them are non-free (fair use): they are the
+clubs' own marks. Keep the `wikimedia_file` for attribution; don't treat them as openly licensed.
 
-- **331 crests** for 331 clubs (331 of 331 — no club left without one).
-- **432 kit images** (175 home, 136 away, 121 third), all from the **2026-27** season where Wikipedia has it.
-- **0 unknown licences.** Every row carries a licence value.
+**Kit images** (`kit-*` rows): Wikipedia's kit *templates*, the body pattern only, with no sleeves
+and no sponsor logos. They can't show what's on a shirt, so the website doesn't use them. Club
+pages need real product photos (720×800 on white) with logo positions, and those need permission
+from their owners before going public.
 
-## Licences — read this before shipping
-
-762 rows total:
-
-| licence | rows | note |
-| --- | --- | --- |
-| Non-free (fair use), en.wiki-hosted | 206 | club crests — copyrighted logos |
-| Commons: Non-free (fair use) | 6 | crests uploaded to Commons under non-free terms |
-| Commons: CC0 | 364 | kit templates, public domain dedication |
-| Commons: Public domain | 95 | old crests, simple shapes |
-| Public domain (en.wiki) | 10 | |
-| Commons: CC BY-SA | 78 | attribution + share-alike |
-| Commons: CC BY / GFDL / Unknown | 4 | |
-
-**212 of 331 crests are non-free.** They are the actual club marks, not
-free re-draws — which is what the site wants visually, but it means the crest layer is
-*not* blanket-licensed. Keep the `wikimedia_file` value on file for attribution and
-treat non-free crests as fair-use / nominative use.
-
-Kit templates are almost entirely CC0 or CC BY-SA, so the shirt layer is clean.
-
-## Reproduce
-
-```bash
-python3 assets/build_assets.py        # writes assets/wikimedia-assets.csv
-```
-
-Batched API use (~30 titles + full continuation handling per request) — a few hundred
-requests total, well inside rate limits. No API key.
+Regenerate the list with `python3 assets/build_assets.py` (Wikipedia API, no key needed).

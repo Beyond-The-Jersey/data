@@ -1,0 +1,14 @@
+{
+  "id": "kaseya",
+  "name": "Kaseya",
+  "ownerId": "kaseya-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Kaseya. Nothing found.",
+  "claimIds": [
+    "kaseya-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Described as majority-owned by Insight Partners; no state stake or serious conduct record identified."
+}

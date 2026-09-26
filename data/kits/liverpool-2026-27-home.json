@@ -1,0 +1,35 @@
+{
+  "id": "liverpool-2026-27-home",
+  "clubId": "liverpool",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {
+    "square": "assets/shirts/grid/liverpool-2026-27-home-front-square.jpg"
+  },
+  "sponsors": [
+    {
+      "sponsorId": "standard-chartered",
+      "placement": "front",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
+    },
+    {
+      "sponsorId": "expedia",
+      "placement": "sleeve",
+      "source": {
+        "name": "Liverpool FC – 'LFC and Expedia extend partnership for further four years'",
+        "date": "2023-03-10",
+        "url": "https://www.liverpoolfc.com/news/lfc-and-expedia-extend-partnership-further-four-years"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": null,
+  "change": null
+}

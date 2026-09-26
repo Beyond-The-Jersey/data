@@ -1,0 +1,14 @@
+{
+  "id": "visa-inc-record",
+  "ownerIds": [
+    "visa-inc"
+  ],
+  "text": "Visa Inc. is NYSE-listed with a widely dispersed shareholder base and no state or sovereign-fund owner. The Red Bull sleeve deal is private corporate money. Human-rights relevance is limited to interchange/fee conduct and card-network market power rather than ownership.",
+  "short": "Visa Inc.",
+  "source": {
+    "name": "Visa Inc. Form 10-K FY2025 (SEC EDGAR)",
+    "date": "2025-11-06",
+    "url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316125000089/v-20250930.htm"
+  },
+  "reviewed": false
+}

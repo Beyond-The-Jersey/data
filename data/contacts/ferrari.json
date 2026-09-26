@@ -1,0 +1,43 @@
+{
+  "clubId": "ferrari",
+  "channels": [
+    {
+      "type": "email",
+      "value": "customercare@ferraristore.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.ferrari.com/en-EN/contacts",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.ferrari.com/en-EN/contacts",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.ferrari.com/en-EN/contacts",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@Scuderiaferrari",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.ferrari.com/en-EN/formula1",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@ferrari",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.ferrari.com/en-EN/formula1",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

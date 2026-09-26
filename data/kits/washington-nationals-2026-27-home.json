@@ -1,0 +1,24 @@
+{
+  "id": "washington-nationals-2026-27-home",
+  "clubId": "washington-nationals",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "aarp",
+      "placement": "patch",
+      "source": {
+        "name": "AARP press release",
+        "date": "2025-06-30",
+        "url": "https://www.aarp.org/press/releases/2025-06-30-aarp-becomes-washington-nationals-inaugural-jersey-patch-sponsor-and-an-official-community-impact-partner.html"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: AARP.",
+  "change": null
+}

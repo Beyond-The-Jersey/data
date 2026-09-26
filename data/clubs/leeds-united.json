@@ -1,0 +1,12 @@
+{
+  "id": "leeds-united",
+  "name": "Leeds United",
+  "shortName": "Leeds",
+  "code": "LEE",
+  "sportId": "soccer",
+  "leagueId": "premier-league",
+  "country": "England",
+  "crest": "assets/crests/leeds-united.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

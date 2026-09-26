@@ -1,0 +1,16 @@
+{
+  "id": "williams-komatsu",
+  "clubId": "williams",
+  "orgName": null,
+  "sponsorId": "komatsu",
+  "placement": "front",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Atlassian Williams F1 Team – Partners",
+    "date": "2026-09-24",
+    "url": "https://www.williamsf1.com/partners"
+  },
+  "note": "Atlassian Williams F1 Team front partner on the 2026 car."
+}

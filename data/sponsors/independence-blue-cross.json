@@ -1,0 +1,14 @@
+{
+  "id": "independence-blue-cross",
+  "name": "Independence Blue Cross (IBX)",
+  "ownerId": "independence-blue-cross-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Independence Blue Cross. Nothing found.",
+  "claimIds": [
+    "independence-blue-cross-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Explicitly states not-for-profit status; no state stake or serious conduct record identified."
+}

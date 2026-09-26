@@ -1,0 +1,24 @@
+{
+  "id": "miami-marlins-2026-27-home",
+  "clubId": "miami-marlins",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "adt",
+      "placement": "patch",
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2025-05-13",
+        "url": "https://sportsbusinessjournal.com/Articles/2025/05/13/marlins-jersey-patch-sponsor-adt-renew-deal"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: ADT.",
+  "change": null
+}

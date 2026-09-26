@@ -1,0 +1,14 @@
+{
+  "id": "kraken",
+  "name": "Kraken",
+  "ownerId": "payward",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Payward, Inc. (d/b/a Kraken). Nothing found.",
+  "claimIds": [
+    "payward-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Private US owner with no state link → none. The Iran sanctions settlement is a lesser, conduct-level link flagged in the note. Kraken named Payward as parent: https://www.kraken.com/."
+}

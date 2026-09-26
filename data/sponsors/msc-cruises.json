@@ -1,0 +1,13 @@
+{
+  "id": "msc-cruises",
+  "name": "MSC Cruises",
+  "ownerId": "msc-group-aponte-family",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Mediterranean Shipping Company (MSC Group) - Aponte family. Nothing found.",
+  "claimIds": [
+    "msc-group-aponte-family-record"
+  ],
+  "aliases": []
+}

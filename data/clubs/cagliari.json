@@ -1,0 +1,11 @@
+{
+  "id": "cagliari",
+  "name": "Cagliari Calcio",
+  "shortName": "Cagliari",
+  "code": "CAG",
+  "sportId": "soccer",
+  "leagueId": "serie-a",
+  "country": "Italy",
+  "crest": "assets/crests/cagliari.png",
+  "aliases": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "arizona-diamondbacks",
+  "name": "Arizona Diamondbacks",
+  "shortName": "Diamondbacks",
+  "code": "ARI",
+  "sportId": "baseball",
+  "leagueId": "mlb",
+  "country": "USA",
+  "crest": "assets/crests/arizona-diamondbacks.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

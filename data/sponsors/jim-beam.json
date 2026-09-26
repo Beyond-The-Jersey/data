@@ -1,0 +1,13 @@
+{
+  "id": "jim-beam",
+  "name": "Jim Beam",
+  "ownerId": "suntory-holdings",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Suntory Holdings Limited. Nothing found.",
+  "claimIds": [
+    "suntory-holdings-record"
+  ],
+  "aliases": []
+}

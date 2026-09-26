@@ -1,0 +1,25 @@
+{
+  "id": "new-york-red-bulls-2026-27-home",
+  "clubId": "new-york-red-bulls",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026-27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "red-bull",
+      "placement": "front",
+      "source": {
+        "name": "newyorkredbulls.com",
+        "date": "2026-02-17",
+        "url": null,
+        "note": "Link removed 2026-09-25 (404 on 2026-09-25): https://www.newyorkredbulls.com/club/partners"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+}

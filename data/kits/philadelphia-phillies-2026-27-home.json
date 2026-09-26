@@ -1,0 +1,24 @@
+{
+  "id": "philadelphia-phillies-2026-27-home",
+  "clubId": "philadelphia-phillies",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "independence-blue-cross",
+      "placement": "patch",
+      "source": {
+        "name": "MLB.com (Philadelphia Phillies)",
+        "date": "2024-07-31",
+        "url": "https://www.mlb.com/news/phillies-name-independence-blue-cross-as-first-official-jersey-patch-partner"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Independence Blue Cross (IBX).",
+  "change": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": "temporal",
+  "name": "Temporal",
+  "ownerId": "temporal-technologies",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Temporal Technologies, Inc. (private, VC-backed). Nothing found.",
+  "claimIds": [
+    "temporal-technologies-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Private VC-backed US company → none. Source is business press; company has no published shareholder register."
+}

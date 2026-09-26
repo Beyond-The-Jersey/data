@@ -1,0 +1,42 @@
+{
+  "id": "olympique-de-marseille-2026-27-home",
+  "clubId": "olympique-de-marseille",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "cma-cgm",
+      "placement": "front",
+      "source": {
+        "name": "Olympique de Marseille — Nos partenaires (CMA CGM 'partenaire principal ... présent sur la face avant des maillots')",
+        "date": "2026",
+        "url": "https://www.om.fr/fr/partenaires"
+      }
+    },
+    {
+      "sponsorId": "unibet",
+      "placement": "front",
+      "source": {
+        "name": "Olympique de Marseille — Nos partenaires",
+        "date": "2026",
+        "url": "https://www.om.fr/fr/partenaires"
+      }
+    },
+    {
+      "sponsorId": "sublime-cote-divoire",
+      "placement": "sleeve",
+      "source": {
+        "name": "Olympique de Marseille — Nos partenaires (Sublime Côte d'Ivoire, Ministère du Tourisme de Côte d'Ivoire)",
+        "date": "2026",
+        "url": "https://www.om.fr/fr/partenaires"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Puma kit. CMA CGM front; Sublime Côte d'Ivoire (state tourism brand) on the sleeve.",
+  "change": null
+}

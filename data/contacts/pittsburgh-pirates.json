@@ -1,0 +1,52 @@
+{
+  "clubId": "pittsburgh-pirates",
+  "channels": [
+    {
+      "type": "email",
+      "value": "talkback@pirates.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/pirates/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "ticketservices@pirates.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/pirates/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.mlb.com/pirates/official-information/contact",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/pirates/official-information/contact",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@Pirates",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/pirates",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@pittsburghpirates",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.mlb.com/pirates",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

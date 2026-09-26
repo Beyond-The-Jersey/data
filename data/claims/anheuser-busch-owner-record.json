@@ -1,0 +1,14 @@
+{
+  "id": "anheuser-busch-owner-record",
+  "ownerIds": [
+    "anheuser-busch-owner"
+  ],
+  "text": "Anheuser-Busch InBev SA/NV is a publicly listed company with its primary listing on Euronext Brussels under ticker ABI.",
+  "short": "Anheuser-Busch InBev SA/NV is a publicly listed company with its primary listing on Euronext Brussels under ticker ABI.",
+  "source": {
+    "name": "SEC Form 20-F for Anheuser-Busch InBev SA/NV",
+    "date": "2026-03-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/1668717/000119312526088105/d65314d20f.htm"
+  },
+  "reviewed": false
+}

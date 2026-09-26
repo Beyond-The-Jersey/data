@@ -1,0 +1,13 @@
+{
+  "id": "crowdstrike",
+  "name": "CrowdStrike",
+  "ownerId": "crowdstrike",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by CrowdStrike Holdings, Inc.. Nothing found.",
+  "claimIds": [
+    "crowdstrike-record"
+  ],
+  "aliases": []
+}

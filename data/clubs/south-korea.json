@@ -1,0 +1,11 @@
+{
+  "id": "south-korea",
+  "name": "South Korea",
+  "shortName": "South Korea",
+  "code": "KOR",
+  "sportId": "soccer",
+  "leagueId": "fifa",
+  "country": "South Korea",
+  "crest": "assets/crests/south-korea.png",
+  "aliases": []
+}

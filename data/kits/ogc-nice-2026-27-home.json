@@ -1,0 +1,60 @@
+{
+  "id": "ogc-nice-2026-27-home",
+  "clubId": "ogc-nice",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "robinhood-markets",
+      "placement": "front",
+      "source": {
+        "name": "OGC Nice — Nos partenaires 2026/2027",
+        "date": "2026",
+        "url": "https://www.ogcnice.com/fr/partenaires/nos-partenaires.html"
+      }
+    },
+    {
+      "sponsorId": "actual-group",
+      "placement": "front",
+      "source": {
+        "name": "OGC Nice — Nos partenaires 2026/2027",
+        "date": "2026",
+        "url": "https://www.ogcnice.com/fr/partenaires/nos-partenaires.html"
+      }
+    },
+    {
+      "sponsorId": "limova-ai",
+      "placement": "back",
+      "source": {
+        "name": "OGC Nice — Nos partenaires 2026/2027",
+        "date": "2026",
+        "url": "https://www.ogcnice.com/fr/partenaires/nos-partenaires.html"
+      }
+    },
+    {
+      "sponsorId": "ineos-s",
+      "placement": "sleeve",
+      "source": {
+        "name": "OGC Nice — Nos partenaires 2026/2027",
+        "date": "2026",
+        "url": "https://www.ogcnice.com/fr/partenaires/nos-partenaires.html"
+      }
+    },
+    {
+      "sponsorId": "vbet",
+      "placement": "shorts",
+      "source": {
+        "name": "OGC Nice — Nos partenaires 2026/2027",
+        "date": "2026",
+        "url": "https://www.ogcnice.com/fr/partenaires/nos-partenaires.html"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "summary": "Kappa kit. Robinhood front; INEOS, the club's owner, on the sleeve.",
+  "change": null
+}

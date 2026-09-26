@@ -1,0 +1,14 @@
+{
+  "id": "select-health",
+  "name": "Select Health",
+  "ownerId": "intermountain-health",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Intermountain Health. Nothing found.",
+  "claimIds": [
+    "intermountain-health-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Select Health's own page describes integration with Intermountain Health; it also works with UCHealth in Colorado, which is a separate non-profit."
+}

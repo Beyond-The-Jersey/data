@@ -1,0 +1,44 @@
+{
+  "clubId": "inter-miami",
+  "channels": [
+    {
+      "type": "website",
+      "value": "https://www.intermiamicf.com",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.intermiamicf.com",
+        "date": "2026-09-24"
+      },
+      "label": "Club website"
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.intermiamicf.com/tickets/member-central/contact",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.intermiamicf.com/tickets/member-central/contact",
+        "date": "2026-09-24"
+      },
+      "label": "Member-central form - no club-wide email or phone published"
+    },
+    {
+      "type": "x",
+      "value": "@intermiamicf",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.intermiamicf.com",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@intermiamicf",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.intermiamicf.com",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

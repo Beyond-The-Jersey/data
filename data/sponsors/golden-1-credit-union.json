@@ -1,0 +1,14 @@
+{
+  "id": "golden-1-credit-union",
+  "name": "Golden 1 Credit Union",
+  "ownerId": "golden-1-credit-union-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Golden 1 Credit Union. Nothing found.",
+  "claimIds": [
+    "golden-1-credit-union-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Explicitly states member-owned and not-for-profit; no state stake or serious conduct record identified."
+}

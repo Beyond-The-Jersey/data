@@ -1,0 +1,24 @@
+{
+  "clubId": "phoenix-suns",
+  "channels": [
+    {
+      "type": "email",
+      "value": "memberships@suns.com",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/suns/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "6023792000",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.nba.com/suns/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

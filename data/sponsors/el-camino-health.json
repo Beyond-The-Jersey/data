@@ -1,0 +1,13 @@
+{
+  "id": "el-camino-health",
+  "name": "El Camino Health",
+  "ownerId": "el-camino-health",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by El Camino Health. Nothing found.",
+  "claimIds": [
+    "el-camino-health-record"
+  ],
+  "aliases": []
+}

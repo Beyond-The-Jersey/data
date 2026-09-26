@@ -1,0 +1,52 @@
+{
+  "clubId": "new-england-revolution",
+  "channels": [
+    {
+      "type": "email",
+      "value": "tix@revolutionsoccer.net",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.revolutionsoccer.net/club/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "customerservice@revolutionsoccer.net",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.revolutionsoccer.net/club/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.revolutionsoccer.net/club/contact-us",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.revolutionsoccer.net/club/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@nerevolution",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.revolutionsoccer.net/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@nerevolution",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.revolutionsoccer.net/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

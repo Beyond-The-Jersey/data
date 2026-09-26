@@ -1,0 +1,17 @@
+{
+  "id": "fifa-hyundai-kia",
+  "clubId": null,
+  "orgName": "FIFA",
+  "sponsorId": "hyundai-kia",
+  "placement": "league-partner",
+  "from": "2023",
+  "to": "2030",
+  "value": null,
+  "source": {
+    "name": "FIFA - Hyundai and Kia renew FIFA partnerships until 2030",
+    "date": "2023-05-25",
+    "url": "https://inside.fifa.com/about-fifa/commercial/media-releases/hyundai-and-kia-renew-fifa-partnerships-until-2030"
+  },
+  "leagueId": "fifa",
+  "note": "Official mobility partners; Boston Dynamics and Supernal included."
+}

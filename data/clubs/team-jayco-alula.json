@@ -1,0 +1,15 @@
+{
+  "id": "team-jayco-alula",
+  "name": "Team Jayco AlUla",
+  "shortName": "Jayco AlUla",
+  "code": "JAY",
+  "sportId": "cycling",
+  "leagueId": "uci-worldtour",
+  "country": "Australia",
+  "crest": "assets/crests/team-jayco-alula.png",
+  "aliases": [
+    "greenedge",
+    "orica",
+    "mitchelton-scott"
+  ]
+}

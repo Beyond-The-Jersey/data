@@ -1,0 +1,14 @@
+{
+  "id": "meijer",
+  "name": "Meijer",
+  "ownerId": "meijer-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Meijer. Nothing found.",
+  "claimIds": [
+    "meijer-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Explicitly states family-owned; no state stake or serious conduct record identified."
+}

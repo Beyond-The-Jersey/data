@@ -1,0 +1,13 @@
+{
+  "id": "uno-x-mobility",
+  "name": "Uno-X Mobility",
+  "shortName": "Uno-X",
+  "code": "UXM",
+  "sportId": "cycling",
+  "leagueId": "uci-worldtour",
+  "country": "Norway",
+  "crest": "assets/crests/uno-x-mobility.png",
+  "aliases": [
+    "uno-x"
+  ]
+}

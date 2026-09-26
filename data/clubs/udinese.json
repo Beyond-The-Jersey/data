@@ -1,0 +1,11 @@
+{
+  "id": "udinese",
+  "name": "Udinese Calcio",
+  "shortName": "Udinese",
+  "code": "UDI",
+  "sportId": "soccer",
+  "leagueId": "serie-a",
+  "country": "Italy",
+  "crest": "assets/crests/udinese.png",
+  "aliases": []
+}

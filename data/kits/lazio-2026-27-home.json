@@ -1,0 +1,18 @@
+{
+  "id": "lazio-2026-27-home",
+  "clubId": "lazio",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026-27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [],
+  "sponsorsComplete": false,
+  "change": {
+    "kind": "worse",
+    "badge": "Polymarket gone",
+    "text": "Lazio start 2026-27 with a blank front: Polymarket signed in April, Italy's ADM blacklisted it in July, and the club terminated in August."
+  },
+  "summary": "Serie A. No front sponsor. Polymarket signed in April 2026 and the deal was terminated on 11 August, before the season began."
+}

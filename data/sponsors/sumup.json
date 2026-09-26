@@ -1,0 +1,14 @@
+{
+  "id": "sumup",
+  "name": "SumUp",
+  "ownerId": "sumup-ltd",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by SumUp Ltd. Nothing found.",
+  "claimIds": [
+    "sumup-ltd-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Investor list is from 2022; later rounds (2025, led by Sixth Street Growth with Bain) added no state investor. SumUp's holding structure is private so an undisclosed minority state fund cannot be fully excluded."
+}

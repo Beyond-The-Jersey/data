@@ -1,0 +1,27 @@
+# Required on every pull request: the records match the schemas, references resolve, the rating
+# rule holds, new links resolve, and the release builds. See CONTRIBUTING.md.
+name: checks
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - run: python3 -m pip install --quiet jsonschema
+      - name: Validate records
+        run: python3 scripts/validate.py
+      - name: Check links in changed records
+        if: github.event_name == 'pull_request'
+        run: python3 scripts/check_links.py --base origin/${{ github.base_ref }}
+      - name: Build the release
+        run: python3 scripts/build.py

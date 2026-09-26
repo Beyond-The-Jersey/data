@@ -1,0 +1,14 @@
+{
+  "id": "great-american-insurance-owner-record",
+  "ownerIds": [
+    "great-american-insurance-owner"
+  ],
+  "text": "Great American Insurance is a publicly traded property and casualty insurer with no state ownership; largest shareholders are institutional investors (Vanguard, BlackRock) each under 10%.",
+  "short": "Great American Insurance is a publicly traded property and casualty insurer with no state ownership; largest shareholders are institutional investors (Vanguard,….",
+  "source": {
+    "name": "American Financial Group DEF 14A 2026",
+    "date": "2026-04-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/1042046/000114036126013118/ny20062510x1_def14a.htm"
+  },
+  "reviewed": false
+}

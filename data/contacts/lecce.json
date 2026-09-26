@@ -1,0 +1,51 @@
+{
+  "clubId": "lecce",
+  "channels": [
+    {
+      "type": "email",
+      "value": "rdp@uslecce.it",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://uslecce.it/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "email",
+      "value": "slo@uslecce.it",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://uslecce.it/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "+390832241501",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://uslecce.it/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@OfficialUSLecce",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://uslecce.it/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@uslecce",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://uslecce.it/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

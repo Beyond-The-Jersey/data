@@ -1,0 +1,24 @@
+{
+  "id": "real-salt-lake-2026-27-home",
+  "clubId": "real-salt-lake",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026-27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "select-health",
+      "placement": "front",
+      "source": {
+        "name": "rsl.com",
+        "date": "2026-02-14",
+        "url": "https://www.rsl.com/news/real-salt-lake-unveils-2026-27-primary-jersey"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+}

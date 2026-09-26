@@ -1,0 +1,14 @@
+{
+  "id": "al-ettifaq",
+  "name": "Al-Ettifaq",
+  "shortName": "Al-Ettifaq",
+  "code": "ETT",
+  "sportId": "soccer",
+  "leagueId": "saudi-pro-league",
+  "country": "Saudi Arabia",
+  "crest": "assets/crests/al-ettifaq.png",
+  "aliases": [
+    "al ettifaq",
+    "ettifaq"
+  ]
+}

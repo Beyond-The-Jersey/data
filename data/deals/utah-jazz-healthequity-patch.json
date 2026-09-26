@@ -1,0 +1,16 @@
+{
+  "id": "utah-jazz-healthequity-patch",
+  "clubId": "utah-jazz",
+  "orgName": "HealthEquity",
+  "sponsorId": "healthequity",
+  "placement": "patch",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Utah Jazz",
+    "date": "2026-06-17",
+    "url": "https://utahjazz.com/news/healthequity-becomes-official-jersey-patch-partner-of-the-utah-jazz-1"
+  },
+  "note": "Jersey patch."
+}

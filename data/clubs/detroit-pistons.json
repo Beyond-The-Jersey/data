@@ -1,0 +1,12 @@
+{
+  "id": "detroit-pistons",
+  "name": "Detroit Pistons",
+  "shortName": "Pistons",
+  "code": "DET",
+  "sportId": "basketball",
+  "leagueId": "nba",
+  "country": "USA",
+  "crest": "assets/crests/detroit-pistons.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

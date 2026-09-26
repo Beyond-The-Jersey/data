@@ -1,0 +1,18 @@
+name: Check a club
+description: Record the sponsors on a club's shirt, who owns them, and the sources.
+title: "Check club: "
+labels: [club]
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks! Anyone (or their agent) can pick this up: see CONTRIBUTING.md and agents/research.md."
+  - type: input
+    id: club
+    attributes: { label: Club, description: "Name, and the league it plays in" }
+    validations: { required: true }
+  - type: input
+    id: season
+    attributes: { label: Season, placeholder: "2026-27" }
+  - type: textarea
+    id: known
+    attributes: { label: What you know so far, description: "Sponsors, placements, owners, with links to your sources" }

@@ -1,0 +1,15 @@
+{
+  "id": "brighton-and-hove-albion",
+  "name": "Brighton & Hove Albion",
+  "shortName": "Brighton",
+  "code": "BHA",
+  "sportId": "soccer",
+  "leagueId": "premier-league",
+  "country": "England",
+  "crest": "assets/crests/brighton-and-hove-albion.png",
+  "aliases": [
+    "brighton",
+    "seagulls"
+  ],
+  "hasTeamPageDesign": false
+}

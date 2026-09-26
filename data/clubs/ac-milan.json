@@ -1,0 +1,11 @@
+{
+  "id": "ac-milan",
+  "name": "AC Milan",
+  "shortName": "Milan",
+  "code": "MIL",
+  "sportId": "soccer",
+  "leagueId": "serie-a",
+  "country": "Italy",
+  "crest": "assets/crests/ac-milan.png",
+  "aliases": []
+}

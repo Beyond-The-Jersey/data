@@ -1,0 +1,24 @@
+{
+  "id": "indiana-pacers-2026-27-home",
+  "clubId": "indiana-pacers",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "lucas-oil",
+      "placement": "patch",
+      "source": {
+        "name": "Indiana Pacers (NBA.com)",
+        "date": "2025-07-09",
+        "url": "https://nba.com/pacers/news/indiana-pacers-and-lucas-oil-announce-multi-year-jersey-patch-partnership"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Lucas Oil.",
+  "change": null
+}

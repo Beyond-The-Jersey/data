@@ -1,0 +1,25 @@
+{
+  "id": "monza-2026-27-home",
+  "clubId": "monza",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026-27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "dazn-bet-club",
+      "placement": "front",
+      "source": {
+        "name": "AC Monza",
+        "date": "2026-07-01",
+        "url": null,
+        "note": "Link removed 2026-09-25 (404 on 2026-09-25): https://www.acmonza.com/en/news/DAZN-Bet-Club-Official-Sponsor-Jersey"
+      }
+    }
+  ],
+  "sponsorsComplete": false,
+  "change": null,
+  "summary": null
+}

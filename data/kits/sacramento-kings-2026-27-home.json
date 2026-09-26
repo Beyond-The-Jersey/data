@@ -1,0 +1,24 @@
+{
+  "id": "sacramento-kings-2026-27-home",
+  "clubId": "sacramento-kings",
+  "season": "2026-27",
+  "kitType": "home",
+  "periodLabel": "2026/27",
+  "periodFrom": "2026-27",
+  "periodTo": "2026-27",
+  "photos": {},
+  "sponsors": [
+    {
+      "sponsorId": "sutter-health",
+      "placement": "patch",
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2026-05-12",
+        "url": "https://sportsbusinessjournal.com/Articles/2026/05/12/sacramento-kings-name-sutter-health-jersey-patch-sponsor"
+      }
+    }
+  ],
+  "sponsorsComplete": true,
+  "summary": "Jersey patch: Sutter Health.",
+  "change": null
+}

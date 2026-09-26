@@ -1,0 +1,16 @@
+{
+  "id": "cleveland-cavaliers-rocket-stadium",
+  "clubId": "cleveland-cavaliers",
+  "orgName": "Rocket (Rocket Companies)",
+  "sponsorId": "rocket",
+  "placement": "stadium",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Rocket Arena (venue press release)",
+    "date": "2025-02-18",
+    "url": "https://rocketarena.com/news/detail/rocket-announcement-250218"
+  },
+  "note": "Arena naming rights: Rocket Arena."
+}

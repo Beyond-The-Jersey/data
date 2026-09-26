@@ -1,0 +1,62 @@
+{
+  "clubId": "sporting-kansas-city",
+  "channels": [
+    {
+      "type": "website",
+      "value": "https://www.sportingkc.com",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.sportingkc.com",
+        "date": "2026-09-24"
+      },
+      "label": "Club website"
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.sportingkc.com/contact-us",
+      "source": {
+        "name": "Club website (client-rendered route: returns 404 to a non-JS client, real in a browser)",
+        "url": "https://www.sportingkc.com/contact-us",
+        "date": "2026-09-24"
+      },
+      "label": "Client services contact"
+    },
+    {
+      "type": "email",
+      "value": "ClientServices@SportingKC.com",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.sportingkc.com/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "phone",
+      "value": "+1 913-387-3400",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.sportingkc.com/contact-us",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@SportingKC",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.sportingkc.com",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@sportingkc",
+      "source": {
+        "name": "Club website",
+        "url": "https://www.sportingkc.com",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

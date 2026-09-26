@@ -1,0 +1,15 @@
+{
+  "id": "manchester-city",
+  "name": "Manchester City",
+  "shortName": "Man City",
+  "code": "MCI",
+  "sportId": "soccer",
+  "leagueId": "premier-league",
+  "country": "England",
+  "crest": "assets/crests/manchester-city.png",
+  "aliases": [
+    "man city",
+    "mcfc"
+  ],
+  "hasTeamPageDesign": false
+}

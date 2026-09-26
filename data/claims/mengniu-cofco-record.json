@@ -1,0 +1,14 @@
+{
+  "id": "mengniu-cofco-record",
+  "ownerIds": [
+    "mengniu-dairy",
+    "cofco"
+  ],
+  "text": "COFCO Corporation is a large central state-owned enterprise under China's SASAC, and Mengniu is part of the COFCO group ('growing within the COFCO family tree').",
+  "source": {
+    "name": "COFCO Corporation - About COFCO",
+    "date": "2025",
+    "url": "https://www.cofco.com/en/AboutCOFCO/"
+  },
+  "reviewed": false
+}

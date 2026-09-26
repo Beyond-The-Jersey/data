@@ -1,0 +1,12 @@
+{
+  "id": "tsg-hoffenheim",
+  "name": "TSG Hoffenheim",
+  "shortName": "Hoffenheim",
+  "code": "TSG",
+  "sportId": "soccer",
+  "leagueId": "bundesliga",
+  "country": "Germany",
+  "crest": "assets/crests/tsg-hoffenheim.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

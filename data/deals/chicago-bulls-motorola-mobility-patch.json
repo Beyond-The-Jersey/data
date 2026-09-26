@@ -1,0 +1,16 @@
+{
+  "id": "chicago-bulls-motorola-mobility-patch",
+  "clubId": "chicago-bulls",
+  "orgName": "Motorola Mobility",
+  "sponsorId": "motorola-mobility",
+  "placement": "patch",
+  "from": "2022",
+  "to": null,
+  "value": null,
+  "source": {
+    "name": "Chicago Bulls (nba.com)",
+    "date": "2022-09-20",
+    "url": "https://www.nba.com/bulls/news/chicago-bulls-name-motorola-mobility-as-official-jersey-patch-partner"
+  },
+  "note": "Jersey patch."
+}

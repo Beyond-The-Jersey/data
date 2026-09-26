@@ -1,0 +1,14 @@
+{
+  "id": "siemens-ag-record",
+  "ownerIds": [
+    "siemens-ag"
+  ],
+  "text": "Siemens AG is a Frankfurt-listed industrial group (MDAX/DAX-scale, Siemens family a long-standing minority holder) with no state shareholder. The Siemens family holding is personal and the rest is free float, so the Red Bull partnership is private corporate money. Human-rights exposure attaches to Siemens' own conduct and supply chains rather than any state owner.",
+  "short": "Siemens AG is a Frankfurt-listed industrial group (MDAX/DAX-scale, Siemens family a long-standing minority holder) with no state shareholder.",
+  "source": {
+    "name": "Siemens AG, Siemens Report 2025",
+    "date": "2025-12",
+    "url": "https://www.siemens.com/siemensreport"
+  },
+  "reviewed": false
+}

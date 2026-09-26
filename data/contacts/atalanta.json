@@ -1,0 +1,43 @@
+{
+  "clubId": "atalanta",
+  "channels": [
+    {
+      "type": "email",
+      "value": "slo@atalanta.it",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.atalanta.it/slo-supporter-liaison-officer",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "contact-form",
+      "value": "https://www.atalanta.it/slo-supporter-liaison-officer",
+      "label": "Contact form",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.atalanta.it/slo-supporter-liaison-officer",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "x",
+      "value": "@Atalanta_BC",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.atalanta.it/",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "type": "instagram",
+      "value": "@atalantabc",
+      "source": {
+        "name": "Club website contact page",
+        "url": "https://www.atalanta.it/",
+        "date": "2026-09-24"
+      }
+    }
+  ],
+  "lastChecked": "2026-09-24"
+}

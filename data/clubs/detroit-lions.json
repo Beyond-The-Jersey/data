@@ -1,0 +1,12 @@
+{
+  "id": "detroit-lions",
+  "name": "Detroit Lions",
+  "shortName": "Lions",
+  "code": "DET",
+  "sportId": "american-football",
+  "leagueId": "nfl",
+  "country": "USA",
+  "crest": "assets/crests/detroit-lions.png",
+  "aliases": [],
+  "hasTeamPageDesign": false
+}

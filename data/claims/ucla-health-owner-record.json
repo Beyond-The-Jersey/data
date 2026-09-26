@@ -1,0 +1,14 @@
+{
+  "id": "ucla-health-owner-record",
+  "ownerIds": [
+    "ucla-health-owner"
+  ],
+  "text": "UCLA Health is ultimately owned by the University of California, a state entity.",
+  "short": "UCLA Health is ultimately owned by the University of California, a state entity.",
+  "source": {
+    "name": "UCLA Health About Us",
+    "date": "2026-09-25",
+    "url": "https://www.uclahealth.org/about-us/"
+  },
+  "reviewed": false
+}

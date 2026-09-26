@@ -1,0 +1,14 @@
+{
+  "id": "lucas-oil",
+  "name": "Lucas Oil",
+  "ownerId": "lucas-oil-products-owner",
+  "ownership": "owned",
+  "tier": "none",
+  "status": "rated",
+  "verdict": "Owned by Lucas Oil Products. Nothing found.",
+  "claimIds": [
+    "lucas-oil-products-owner-record"
+  ],
+  "aliases": [],
+  "note": "Rating note: Lucas Oil is 100% family-owned (Lucas family); no state stake or government control. No documented human-rights concerns in ownership chain."
+}
