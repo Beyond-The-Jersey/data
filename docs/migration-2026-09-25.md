@@ -1,6 +1,6 @@
 # Migration, 25 Sep 2026: one file per record
 
-`normalized/*.json` (at `5a8f8e1`) was split into `data/<type>/<id>.json` by `scripts/migrate_2026_09_25.py` (see the git history). On the way it fixed what needs no new research from issue #279. Everything else is unchanged.
+`normalized/*.json` (at `5a8f8e1`) was split into `data/<type>/<id>.json` by `scripts/migrate_2026_09_25.py` (removed after it ran; it is in the commit that added this report). On the way it fixed what needs no new research from issue #279. Everything else is unchanged.
 
 | Records | Count |
 |---|---|
